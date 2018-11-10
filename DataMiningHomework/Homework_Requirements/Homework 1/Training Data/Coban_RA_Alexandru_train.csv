@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Golden Retriever,30794.5949,56.1307,10.261,med,high,med,male,Medina
+Daschhund,9424.6287,22.8933,14.0014,high,med,short,male,Jackson
+Jack Russel Terrier,7259.3659,33.9667,13.7909,high,med,short,male,Jones
+Golden Retriever,26891.8345,57.2601,11.5787,med,med,med,male,Garcia
+Beagle,9810.0107,32.9152,12.3722,high,high,short,male,Johnston
+Golden Retriever,32300.6984,57.4224,12.6882,low,high,med,male,Robbins
+Daschhund,11014.8113,,13.3571,high,low,short,female,Cowan
+Golden Retriever,25841.4561,55.4368,11.2724,high,high,med,female,Baker
+Golden Retriever,26801.1384,57.7487,11.2777,med,high,med,female,Lewis
+Jack Russel Terrier,7537.4065,33.6149,14.8562,high,high,short,male,Zamora
+Jack Russel Terrier,6940.7692,34.659,12.6424,high,med,short,female,Thomas
+Daschhund,10047.2978,20.1021,13.1388,high,med,short,female,Pearson
+Daschhund,12601.9394,21.0686,13.3126,med,med,short,female,Barnes
+Daschhund,5651.3494,20.9935,12.9787,high,med,med,female,Payne
+Jack Russel Terrier,7223.1325,34.5062,14.6915,high,med,short,male,Doyle
+Daschhund,10527.0465,21.4231,12.4184,high,med,short,female,Ball
+Jack Russel Terrier,7108.9719,34.8016,14.4279,high,med,short,male,Dyer
+Beagle,11648.126,,14.4539,med,high,short,female,Brown
+Golden Retriever,27927.0973,,12.0705,med,high,med,female,Wolf
+Beagle,11535.0576,32.0909,12.8113,low,high,short,male,Nelson
+Beagle,8479.49,34.2094,15.0354,med,high,med,female,Ward
+Jack Russel Terrier,6914.5247,34.6236,14.0058,high,med,med,female,Haas
+Golden Retriever,26724.0043,59.7502,10.3025,med,high,med,male,Martinez
+Jack Russel Terrier,6995.3996,34.1254,14.2755,high,med,short,female,Hahn
+Beagle,13030.8036,35.061,14.0141,med,high,short,male,Burke
+Daschhund,11069.2439,21.6131,12.6469,high,med,short,male,Rose
+Jack Russel Terrier,8352.4792,33.7975,13.1988,high,med,short,male,Stevens
+Jack Russel Terrier,6847.8472,34.9119,13.7493,high,med,short,male,Dixon
+Golden Retriever,30187.9559,57.0651,11.2166,high,high,med,male,Thompson
+Golden Retriever,23900.3514,,11.2495,med,high,short,male,Perkins
+Jack Russel Terrier,6299.2309,34.5914,13.4225,high,med,short,male,Lopez
+Daschhund,15434.2164,21.1994,13.2818,high,med,short,female,Romero
+Daschhund,6622.4013,21.8608,12.4827,med,med,short,male,Williams
+Beagle,12844.6146,35.7068,13.9583,low,med,short,female,West
+Jack Russel Terrier,6966.3293,34.4473,14.7979,high,med,short,female,Vargas
+Daschhund,7578.5987,21.4645,12.3498,high,med,short,female,Riley
+Beagle,9849.6213,,13.2514,med,high,short,female,Dominguez
+Beagle,10576.8027,36.4094,13.136,med,med,short,male,Cline
+Daschhund,8454.9792,21.066,12.1059,high,med,med,male,Reid
+Golden Retriever,27943.8241,56.9681,11.9414,low,high,short,male,Mcdonald
+Golden Retriever,29855.8409,,12.0828,med,high,med,male,Williams
+Golden Retriever,28194.9075,56.2126,12.7042,med,high,med,female,Rodriguez
+Golden Retriever,29282.1499,58.6269,11.4204,high,high,med,female,Mejia
+Beagle,11028.5862,,12.5131,med,high,short,male,Smith
+Golden Retriever,30771.5633,56.5169,13.3315,low,high,med,male,Gray
+Daschhund,8534.569,21.0732,14.4802,high,med,short,male,Allen
+Golden Retriever,29764.509,60.345,13.1738,med,high,med,female,Johnson
+Golden Retriever,30660.6777,58.3729,12.0744,med,high,med,female,Moreno
+Jack Russel Terrier,5575.4006,34.8957,14.4585,high,med,short,male,Brewer
+Jack Russel Terrier,7098.7027,,14.1359,high,med,short,male,Jackson
+Jack Russel Terrier,6166.5515,32.8784,14.0912,high,med,short,female,Long
+Jack Russel Terrier,6972.2423,34.1529,13.5893,high,med,short,male,Hampton
+Beagle,11913.3875,,13.721,med,high,short,female,Garza
+Daschhund,17482.7394,21.0823,12.6,high,low,short,male,Morris
+Daschhund,7099.6935,21.2811,12.6527,high,med,short,male,Goodman
+Daschhund,7014.9538,,13.0737,high,med,short,female,Smith
+Beagle,11807.6319,37.3878,12.846,med,high,short,female,Flores
+Jack Russel Terrier,7213.2088,33.7873,13.7561,high,med,short,male,Olson
+Golden Retriever,26627.7424,57.2677,10.7854,med,high,long,male,Bailey
+Jack Russel Terrier,7109.7413,34.7317,13.1229,high,med,med,male,Foster
+Golden Retriever,28322.8808,,11.7881,med,med,short,female,Lopez
+Beagle,10267.511,32.9775,12.217,med,high,short,male,Moss
+Daschhund,10895.0886,,12.4421,high,med,short,female,Brown
+Beagle,13367.1807,34.4158,14.6232,med,high,short,female,Page
+Beagle,10931.6475,34.3714,13.2356,med,high,short,male,Curry
+Golden Retriever,31366.8888,54.6968,11.6055,low,high,med,female,Watkins
+Golden Retriever,28656.8116,59.108,10.481,med,high,med,male,Williams
+Jack Russel Terrier,4979.773,34.5553,14.1809,high,med,short,male,Graham
+Jack Russel Terrier,6784.9467,33.6936,14.0967,high,med,short,male,Turner
+Beagle,10325.6661,37.3714,14.4349,med,high,short,male,Smith
+Beagle,11068.0731,,14.6281,med,high,short,female,Wells
+Beagle,9196.7435,,15.3622,med,high,med,female,Wilson
+Daschhund,9212.9284,20.3143,13.1691,high,med,short,female,Jones
+Golden Retriever,36570.1686,58.8757,11.6334,high,high,med,female,Hill
+Daschhund,7981.6565,20.6945,12.5413,high,med,short,male,Casey
+Jack Russel Terrier,7765.4908,33.9239,14.4451,high,high,short,female,Olson
+Daschhund,8050.8052,20.3064,13.3743,med,med,short,male,Curtis
+Golden Retriever,34039.2726,54.8748,11.1059,med,high,med,male,Adkins
+Jack Russel Terrier,7929.5418,34.0018,13.7731,high,med,med,female,Hurst
+Jack Russel Terrier,6636.9973,,14.1212,high,high,short,male,Pugh
+Daschhund,15127.0614,20.9183,12.6842,high,med,short,male,Graham
+Jack Russel Terrier,7519.7859,34.7601,14.3909,high,med,short,female,Berry
+Daschhund,7150.4289,22.0316,12.6977,high,med,short,male,Cooper
+Jack Russel Terrier,7177.3102,33.7554,14.6083,high,med,short,male,Cole
+Daschhund,9714.3489,,13.2885,med,med,short,female,Caldwell
+Golden Retriever,27020.8743,57.3171,11.7602,med,high,med,male,Snyder
+Golden Retriever,31108.0763,60.1494,11.776,med,high,med,male,Lester
+Daschhund,9303.1101,20.9618,13.0502,high,low,short,female,Cox
+Beagle,8393.0496,36.5592,14.8166,med,med,short,female,Morris
+Beagle,12255.2101,,13.09,high,high,short,male,Smith
+Daschhund,7979.1918,21.1804,12.8163,high,med,short,female,Brown
+Beagle,10261.7149,36.9699,14.4159,med,med,short,male,Hamilton
+Daschhund,13758.4185,21.0506,12.74,high,med,short,female,Ward
+Golden Retriever,27999.3015,58.3305,11.5173,med,high,med,male,Allen
+Jack Russel Terrier,7350.9982,33.962,12.9517,med,med,short,female,Smith
+Golden Retriever,32389.0041,57.8851,11.9884,med,high,med,male,Nunez
+Jack Russel Terrier,6420.8647,33.0854,12.5401,high,med,short,male,Boyd
+Daschhund,13035.1031,20.5522,12.9409,med,med,short,female,Mitchell
+Jack Russel Terrier,6824.3311,34.4826,14.4123,high,med,short,female,Young
+Golden Retriever,22842.236,56.5762,13.0421,med,high,med,female,Wright
+Jack Russel Terrier,5948.1757,34.2485,14.1574,high,med,short,male,Vargas
+Beagle,12832.5996,35.8253,14.8776,high,high,short,female,Hall
+Daschhund,4219.6598,21.4473,13.0959,high,med,short,male,Carlson
+Beagle,11464.9857,37.5024,14.521,low,high,short,female,White
+Daschhund,12125.6917,20.8836,12.5672,high,med,short,female,Hamilton
+Golden Retriever,27611.4005,56.707,11.5147,med,med,med,male,Clayton
+Daschhund,9671.9407,20.1725,12.6669,high,med,short,male,Sullivan
+Beagle,11552.2614,36.3061,13.9318,low,high,short,female,Goodman
+Golden Retriever,29245.4247,59.4461,11.5505,med,high,short,male,Martin
+Beagle,10403.5753,35.0096,12.819,med,high,short,female,Gibson
+Golden Retriever,23782.5394,59.4993,11.4821,med,high,med,male,Flores
+Golden Retriever,31441.7152,55.2957,11.478,med,high,med,female,Williamson
+Jack Russel Terrier,6874.0207,34.8897,14.2429,high,med,short,male,Johnson
+Daschhund,8426.3647,20.8244,11.7007,med,low,short,female,Lawrence
+Beagle,7420.1928,34.5508,12.8382,med,high,short,male,Roy
+Daschhund,9456.898,20.8481,13.1649,high,med,short,male,Foster
+Golden Retriever,30860.078,59.4702,12.6403,med,high,med,male,Rodriguez
+Jack Russel Terrier,7415.8232,,13.7371,high,med,short,male,Wright
+Golden Retriever,24589.668,55.4333,12.0022,med,high,med,female,Wood
+Daschhund,13761.3619,20.3537,13.7633,high,med,short,female,Smith
+Golden Retriever,29295.8325,57.4948,10.6686,med,high,med,female,Parsons
+Jack Russel Terrier,7301.7558,33.926,13.6937,high,high,short,male,Jones
+Jack Russel Terrier,6265.0603,35.1993,14.4941,high,med,short,female,Williams
+Daschhund,5683.1482,21.1612,14.8422,high,med,short,female,Randall
+Daschhund,7485.7682,21.5083,12.4388,high,low,short,male,Johnson
+Daschhund,6315.9941,20.1112,13.4946,high,med,short,male,Lloyd
+Golden Retriever,32373.6487,59.1739,12.5319,med,high,med,male,Jackson
+Beagle,11171.0607,35.9886,14.0945,high,high,short,male,Russell
+Beagle,11067.8779,36.2258,13.5205,med,high,med,female,Young
+Jack Russel Terrier,6128.125,33.8709,13.463,high,med,short,male,Howard
+Golden Retriever,24674.205,,11.6503,med,med,med,female,Sellers
+Golden Retriever,33720.2455,,12.4903,med,high,short,male,Bell
+Beagle,13233.7347,36.287,14.7459,med,high,short,female,Mcmahon
+Golden Retriever,29895.2198,58.4876,11.4002,med,high,med,male,Riley
+Daschhund,9578.7296,21.0574,14.0801,high,med,short,male,Lamb
+Beagle,11662.0567,36.9385,14.3514,med,high,short,female,Brown
+Beagle,13432.5447,37.834,13.5413,med,high,short,female,Meyers
+Jack Russel Terrier,5925.6268,33.9556,13.8126,high,med,med,female,Lucas
+Jack Russel Terrier,7906.0248,35.4791,13.3188,high,high,short,female,Payne
+Daschhund,9855.2688,,13.2446,med,high,short,female,Watkins
+Daschhund,8103.0895,20.9284,12.765,high,med,short,male,Reed
+Jack Russel Terrier,6360.6301,33.9069,14.4552,high,med,short,female,Oconnor
+Golden Retriever,30787.4131,56.7226,11.2416,med,high,med,male,Nolan
+Golden Retriever,25903.6443,59.9337,11.2998,high,high,long,male,Contreras
+Jack Russel Terrier,6140.9909,33.6916,12.8945,high,med,short,male,Nguyen
+Golden Retriever,25275.7302,58.2824,12.888,med,high,med,female,Lawson
+Daschhund,4851.4075,21.0579,13.9078,high,med,med,male,Bender
+Jack Russel Terrier,7661.3594,34.1763,13.1857,high,high,short,male,Garrison
+Beagle,10295.9429,,15.0914,med,high,short,male,Kim
+Jack Russel Terrier,7929.62,34.4275,14.7466,high,med,short,female,Page
+Daschhund,7674.2718,21.2925,12.8299,high,med,short,female,Green
+Beagle,12694.266,35.9409,13.6697,med,high,med,male,Orr
+Golden Retriever,28278.6196,60.8131,9.7802,high,high,long,female,Wilson
+Jack Russel Terrier,6398.6862,33.9061,13.2151,high,med,short,male,Merritt
+Golden Retriever,27890.1505,56.9191,11.115,med,high,med,male,Buck
+Jack Russel Terrier,6942.6265,34.202,13.9222,high,med,short,female,Baker
+Daschhund,13715.9358,,12.8728,high,low,short,male,Arnold
+Jack Russel Terrier,7461.7928,32.9242,13.7639,high,med,short,female,Susan
+Daschhund,10137.0144,,13.0982,high,med,short,female,Ali
+Daschhund,8117.1075,21.5967,11.5052,high,med,short,male,Oneal
+Jack Russel Terrier,5505.3918,34.6853,15.1363,high,med,short,male,Knight
+Daschhund,7406.4331,22.1591,12.4858,med,med,short,female,Smith
+Daschhund,12772.8695,,13.0624,high,high,short,male,Gregory
+Beagle,13905.8855,,12.312,high,med,short,male,Burns
+Daschhund,8430.1213,,12.5224,med,med,short,female,Jessica
+Golden Retriever,28095.9639,57.2616,13.4496,med,high,long,female,Miller
+Golden Retriever,26200.8685,58.4625,12.0876,med,high,med,male,Harvey
+Daschhund,5189.6792,21.7708,13.8023,high,med,short,male,Lopez
+Golden Retriever,28607.5728,56.8293,10.2772,med,high,med,female,Chaney
+Beagle,8485.9906,,14.3208,med,high,short,female,Henson
+Beagle,9677.2911,34.8773,12.4473,med,high,long,male,Nguyen
+Daschhund,8360.1588,20.795,12.2469,high,med,short,male,Miranda
+Golden Retriever,32273.434,56.8514,10.7945,med,med,med,female,Johnson
+Golden Retriever,34994.1511,,14.1732,high,high,med,male,Brown
+Beagle,9365.8053,37.5843,14.1877,med,high,short,male,James
+Beagle,11300.8867,36.4399,12.808,med,high,short,male,Williams
+Golden Retriever,24821.5368,56.8933,14.0247,med,med,med,female,Carlson
+Beagle,11613.1973,33.7944,14.1599,low,high,short,male,Herman
+Golden Retriever,32821.8441,57.6879,11.6572,med,high,med,female,Murphy
+Golden Retriever,30560.6045,58.1049,12.6647,low,high,short,male,Rodriguez
+Beagle,13684.3566,36.0766,12.8001,med,high,short,male,Ferrell
+Daschhund,13955.5548,,13.6098,high,high,short,male,Hooper
+Daschhund,8889.3599,20.2868,14.2892,high,high,short,female,Vasquez
+Daschhund,11844.3455,20.9198,12.5183,med,med,short,female,Hernandez
+Beagle,8839.5651,32.3943,11.8393,med,high,short,male,Jenkins
+Golden Retriever,30475.4523,54.7961,12.2267,med,high,short,male,West
+Jack Russel Terrier,6295.6089,35.1361,13.4555,high,med,short,male,Sanchez
+Daschhund,10048.4899,21.0735,13.0827,med,high,short,male,Steele
+Daschhund,11982.1765,21.1795,13.5493,high,low,short,female,Wyatt
+Golden Retriever,25242.1169,57.1994,12.5729,high,high,med,male,Buckley
+Golden Retriever,27938.2656,60.694,11.2879,med,high,med,female,Palmer
+Golden Retriever,29704.7331,57.397,9.6573,med,high,med,male,Lyons
+Jack Russel Terrier,6225.9984,33.1743,14.0115,high,high,short,male,Scott
+Beagle,11121.2047,33.6997,14.8202,med,high,short,male,Johnson
+Daschhund,11499.3854,21.3108,13.249,high,med,short,male,Armstrong
+Beagle,13716.364,34.6803,14.571,high,high,short,female,Johnson
+Golden Retriever,28124.6125,54.845,10.83,med,high,short,female,Calhoun
+Beagle,11487.4902,34.2113,13.7519,med,high,short,male,Melendez
+Jack Russel Terrier,5681.5544,32.9462,13.8161,high,med,short,male,Bailey
+Golden Retriever,29983.632,,11.7852,med,high,med,female,Dyer
+Jack Russel Terrier,5572.303,33.6053,13.82,high,med,short,female,Ball
+Golden Retriever,32588.2345,,11.3442,med,high,med,male,Nelson
+Jack Russel Terrier,7918.9812,34.1346,14.3766,high,low,short,female,Carpenter
+Golden Retriever,29914.9925,57.8921,10.7943,high,high,med,male,Nolan
+Golden Retriever,25863.7656,57.8261,11.6986,med,med,med,female,Franklin
+Beagle,10595.537,37.9018,12.9235,low,high,short,male,Fuller
+Jack Russel Terrier,6045.1695,,14.2963,high,high,short,male,Parker
+Beagle,7997.2156,34.3119,14.3085,med,high,med,female,Smith
+Golden Retriever,28362.3233,60.311,11.1778,med,high,med,female,Higgins
+Golden Retriever,32911.3481,,12.8625,med,high,med,male,Thompson
+Daschhund,9481.5912,,13.824,high,med,short,female,Scott
+Golden Retriever,30869.6791,,10.7829,low,high,med,male,Daniel
+Daschhund,5438.2432,20.0603,13.1548,high,med,short,female,Johnson
+Golden Retriever,29071.0253,55.2767,11.8148,med,high,med,female,Neal
+Daschhund,15377.5327,19.7941,12.624,med,med,short,male,Walsh
+Daschhund,14604.4245,20.9827,13.1894,high,med,short,female,Rodriguez
+Jack Russel Terrier,6974.5932,34.3118,14.3032,high,med,short,male,Castro
+Daschhund,6276.2619,,12.703,high,med,short,male,Meadows
+Beagle,10678.885,35.0433,14.1919,med,high,short,female,Hancock
+Daschhund,11132.5174,20.7686,12.0444,high,high,short,female,Taylor
+Jack Russel Terrier,6032.2135,,14.2074,med,med,short,female,Carroll
+Daschhund,5775.5605,21.1853,12.9687,high,low,short,female,King
+Jack Russel Terrier,6130.2457,33.4517,13.7883,high,med,short,female,Anderson
+Beagle,10336.2241,34.4688,14.7964,high,high,med,female,Baird
+Beagle,9483.0956,34.8941,14.8594,low,high,med,male,Banks
+Golden Retriever,32871.0042,,11.3062,med,high,med,female,Wilcox
+Golden Retriever,27281.6978,56.1934,10.655,med,high,short,male,Huerta
+Jack Russel Terrier,7384.0019,,14.7307,high,med,short,male,Oconnell
+Beagle,11054.7111,35.2624,13.2541,med,high,short,male,Kane
+Daschhund,12599.7957,20.0977,13.518,high,med,short,male,Robbins
+Golden Retriever,27933.6085,58.0977,11.5146,high,high,short,male,Thompson
+Daschhund,6819.1706,21.3188,11.7268,high,med,short,male,Robbins
+Daschhund,15450.9403,,13.2601,high,med,short,male,Nelson
+Daschhund,15098.9605,21.8746,12.946,med,med,short,female,Gray
+Jack Russel Terrier,7302.4699,34.1225,13.1298,med,med,med,male,Moore
+Beagle,10103.7806,36.5433,14.2864,med,high,short,male,Sandoval
+Daschhund,8666.6773,20.134,12.5374,high,med,short,female,Edwards
+Golden Retriever,27031.8445,55.7832,12.9836,med,high,med,male,Lee
+Golden Retriever,30103.7923,58.7191,11.5095,low,high,short,female,Sanchez
+Daschhund,13000.7943,,13.4475,med,med,short,male,Vasquez
+Jack Russel Terrier,6344.9288,34.1181,14.9859,high,low,short,female,Duffy
+Daschhund,12918.1453,21.5341,13.6065,med,med,short,female,Hinton
+Golden Retriever,28601.46,56.6464,12.1871,low,high,med,female,Martinez
+Jack Russel Terrier,6659.9196,,14.1346,med,med,short,male,Walker
+Daschhund,7619.935,20.2306,11.9024,high,med,short,male,Russell
+Daschhund,11632.5866,,13.3734,high,med,short,male,Reyes
+Golden Retriever,26280.1902,57.6657,10.4948,med,high,med,male,Gonzalez
+Beagle,12673.2675,,14.2444,med,high,med,male,Hall
+Golden Retriever,25167.3138,59.233,11.6285,med,high,short,male,Werner
+Jack Russel Terrier,5848.4056,34.7023,14.8573,high,med,short,female,Derrick
+Beagle,10069.6857,37.585,12.8232,med,high,short,female,Clark
+Beagle,8150.0841,33.9475,13.4634,med,high,short,female,Riggs
+Golden Retriever,31750.7604,,12.4124,low,high,med,male,Parrish
+Beagle,9300.7751,32.7073,12.3342,med,high,short,female,Burke
+Golden Retriever,28412.4231,57.6652,12.1957,med,high,short,female,Le
+Beagle,9278.2127,,13.2288,med,high,short,female,Amy
+Beagle,11192.562,37.2167,12.8101,med,high,short,male,Jenkins
+Golden Retriever,35364.918,56.6981,13.2117,med,high,med,female,Mullen
+Golden Retriever,27548.1916,57.6703,12.9672,med,high,med,female,Gregory
+Jack Russel Terrier,6598.9354,35.0136,12.8472,high,med,short,male,Pitts
+Golden Retriever,31797.4721,,10.1333,med,high,med,female,Watson
+Daschhund,8201.9422,21.4412,12.9884,high,med,short,female,Moon
+Golden Retriever,28501.3352,57.7904,11.492,med,high,med,male,Jones
+Jack Russel Terrier,6615.5937,34.5385,14.0338,high,med,short,male,Johnston
+Beagle,11962.6662,33.2891,14.2008,med,high,short,male,Walsh
+Beagle,9323.2935,36.3752,13.6835,med,high,short,female,Kramer
+Golden Retriever,33102.6547,55.4939,12.4048,med,high,med,female,Vasquez
+Beagle,9921.8377,35.8249,12.9761,low,high,short,male,Joseph
+Jack Russel Terrier,5915.8875,35.0699,12.9513,med,high,short,female,Hawkins
+Jack Russel Terrier,7120.097,,13.6119,high,med,short,male,Valencia
+Jack Russel Terrier,6466.5578,33.756,14.4936,high,med,short,female,Hill
+Beagle,10032.3838,36.0188,12.9893,med,high,short,female,Hudson
+Jack Russel Terrier,5558.5619,,14.035,high,med,short,male,Andrews
+Golden Retriever,25862.9148,56.8843,10.2807,med,high,med,male,Cruz
+Golden Retriever,28289.1936,57.4928,12.3501,high,high,med,female,Thompson
+Golden Retriever,29543.5552,,10.8886,med,high,med,female,Proctor
+Golden Retriever,30764.8337,56.2447,12.5082,med,high,long,male,Gomez
+Beagle,10457.6355,35.0043,14.3544,high,high,short,female,Anderson
+Daschhund,12610.7774,21.3444,12.0175,high,med,short,female,Alexander
+Jack Russel Terrier,5674.908,33.3816,13.612,med,med,short,male,Anthony
+Jack Russel Terrier,6289.1139,34.7753,14.0458,high,med,short,female,Castaneda
+Jack Russel Terrier,5701.756,35.4251,13.7651,high,med,short,male,Robertson
+Jack Russel Terrier,8096.3525,33.3782,13.2649,high,med,short,female,White
+Beagle,10576.0183,36.0326,13.0862,med,high,short,male,Spencer
+Beagle,13218.1412,35.3469,12.5817,med,high,short,female,Dalton
+Daschhund,9436.9189,20.5792,13.4999,high,med,med,male,Frazier
+Beagle,11483.4114,36.323,12.5758,med,high,short,male,Rosales
+Daschhund,4446.6413,21.0911,13.1176,high,med,short,male,Hoffman
+Beagle,9166.8652,35.6141,13.047,med,med,short,female,Williams
+Jack Russel Terrier,5950.5539,33.9596,13.5451,high,med,short,male,Johnson
+Golden Retriever,29026.0668,59.9908,11.0882,low,high,long,male,Hernandez
+Jack Russel Terrier,5224.3178,33.1908,14.8314,high,low,short,female,Johnson
+Jack Russel Terrier,7206.9758,34.7834,14.1568,high,med,med,male,Arnold
+Daschhund,8955.3986,20.8049,12.2253,high,med,short,male,Jackson
+Daschhund,14197.455,20.9691,13.6923,high,high,short,female,Stafford
+Daschhund,12535.3216,19.3585,13.3071,med,low,short,female,Moore
+Golden Retriever,27914.5565,57.938,12.2773,med,high,long,male,Taylor
+Daschhund,5408.5595,20.3246,12.8929,high,med,short,male,King
+Jack Russel Terrier,6549.5123,,13.7703,high,med,short,female,Brooks
+Beagle,11536.1858,34.6802,11.4935,med,high,short,male,Nelson
+Jack Russel Terrier,6878.9945,,13.5743,high,med,short,female,Perez
+Jack Russel Terrier,5741.6385,33.2795,12.9334,high,med,short,female,Harris
+Daschhund,8082.6307,,13.4484,high,low,short,female,Ramsey
+Jack Russel Terrier,7393.3939,34.7646,14.4221,med,med,short,female,Barrett
+Jack Russel Terrier,5221.4457,,12.9438,high,med,short,male,Wells
+Golden Retriever,26911.5697,56.1478,10.397,med,high,med,male,Smith
+Beagle,10213.7763,,13.1778,med,high,med,male,Morgan
+Beagle,10023.3426,34.2075,11.9245,med,high,short,male,Huber
+Jack Russel Terrier,7387.1026,33.2377,13.607,high,med,short,female,Campbell
+Golden Retriever,32599.7965,,12.9919,med,high,med,male,Peters
+Beagle,10723.9523,36.4297,13.9348,med,high,short,male,Watson
+Daschhund,12364.618,19.1416,13.4145,med,med,short,female,Gonzalez
+Beagle,11288.9856,,12.8755,med,med,short,female,Griffith
+Daschhund,9079.6292,,13.0461,high,med,short,female,Barnett
+Golden Retriever,30026.4765,57.3068,10.0241,med,high,med,female,Yang
+Golden Retriever,23085.1831,54.4666,10.1024,high,med,short,male,Haley
+Golden Retriever,30593.917,57.5081,10.8221,med,high,med,female,Nelson
+Jack Russel Terrier,7664.9728,34.6345,14.3206,high,med,short,male,Cunningham
+Golden Retriever,28838.6487,57.8177,11.138,med,high,med,male,Bowman
+Jack Russel Terrier,6303.6708,33.3969,14.4575,high,high,short,female,Reid
+Beagle,12225.5631,,12.3721,med,high,short,male,Campbell
+Golden Retriever,30505.288,61.6389,11.7738,med,high,med,female,Miller
+Daschhund,5703.3125,,13.3413,high,med,short,female,Gibson
+Daschhund,10597.8057,21.237,12.5529,high,med,med,female,Herrera
+Jack Russel Terrier,7610.1357,33.5644,14.8228,high,med,short,female,Coleman
+Golden Retriever,31133.3559,57.057,10.0156,med,high,med,male,Davis
+Golden Retriever,33687.3287,58.8299,11.8971,med,high,med,female,Li
+Jack Russel Terrier,6819.8894,34.3074,13.7918,high,med,short,female,Lee
+Beagle,11319.4701,35.3669,13.278,med,med,short,female,Lewis
+Jack Russel Terrier,6541.3154,33.5871,14.2312,high,med,short,male,Fernandez
+Golden Retriever,32015.216,55.6173,9.9268,med,med,med,female,Carpenter
+Jack Russel Terrier,6194.5509,33.9869,13.4592,high,med,short,female,Fisher
+Golden Retriever,30968.3361,56.9323,12.1744,med,high,med,male,Barker
+Beagle,12752.7149,37.3541,12.6488,med,high,short,female,Martinez
+Golden Retriever,26161.157,57.926,13.4904,med,med,med,male,Wright
+Jack Russel Terrier,7279.6125,33.8049,13.0677,high,med,short,female,Flores
+Jack Russel Terrier,6876.8799,34.4178,14.2944,high,med,short,male,Davidson
+Jack Russel Terrier,6768.0807,34.4246,13.6785,high,med,short,female,Williams
+Daschhund,11791.168,21.5789,13.2855,med,high,med,male,Adams
+Golden Retriever,29165.4046,57.3868,11.3041,med,high,med,female,Hampton
+Beagle,12204.7767,33.3351,13.3651,med,high,short,male,Hall
+Daschhund,9670.8231,,12.8621,high,low,short,female,Buchanan
+Daschhund,8590.0701,20.6804,13.5751,high,med,short,female,Macias
+Beagle,11520.3222,,13.3108,med,high,short,female,Blake
+Daschhund,10306.6861,,13.2023,high,med,short,male,Wilson
+Jack Russel Terrier,7124.2119,,13.5287,high,med,short,male,Farley
+Golden Retriever,29435.0932,57.7599,11.2559,med,high,med,male,Moore
+Jack Russel Terrier,7634.4193,,13.7232,high,high,short,female,Green
+Jack Russel Terrier,5585.4689,34.1849,13.8767,high,med,med,female,Michael
+Golden Retriever,28178.3247,60.1127,12.0879,med,high,med,male,Price
+Beagle,9130.8081,35.8865,13.9339,high,high,short,female,Pena
+Golden Retriever,33429.0619,56.7168,10.608,med,med,short,male,Hensley
+Daschhund,11253.8013,,13.1497,high,med,short,male,Beard
+Beagle,10383.936,,13.8806,med,high,short,female,Roberson
+Beagle,11451.3212,34.4164,13.5947,med,high,short,female,Valentine
+Daschhund,8728.3492,,12.9874,high,med,short,male,Macias
+Jack Russel Terrier,5689.1884,34.0616,14.4899,high,med,short,female,Smith
+Daschhund,7997.0227,,13.1181,high,med,short,male,Brown
+Beagle,8608.3151,37.0992,11.6362,med,high,short,male,Taylor
+Jack Russel Terrier,7092.5773,33.5334,13.997,high,med,short,male,Phelps
+Beagle,11066.0575,,12.9404,med,high,med,male,Whitehead
+Jack Russel Terrier,7769.6707,,14.1119,high,med,short,male,Pope
+Jack Russel Terrier,6268.4745,34.702,13.4002,high,med,short,female,Harper
+Jack Russel Terrier,7579.1458,34.1791,13.5598,high,med,short,male,Wright
+Golden Retriever,28768.6421,58.3995,10.9165,med,med,med,male,Andrews
+Jack Russel Terrier,6909.5734,,13.6234,high,high,short,female,Evans
+Daschhund,9070.2232,20.993,13.3499,high,med,short,male,Stokes
+Daschhund,7620.4872,20.9952,13.0238,high,med,short,male,Johnson
+Beagle,10760.5936,,15.1879,med,high,short,female,Spencer
+Daschhund,7284.6366,21.2524,12.5431,high,med,short,female,Mata
+Jack Russel Terrier,6421.4996,34.4398,14.879,high,med,short,female,Underwood
+Golden Retriever,31917.5801,59.2485,11.9182,med,high,med,male,Stewart
+Jack Russel Terrier,8639.6473,33.8767,13.5407,high,low,med,male,Dillon
+Beagle,11020.7405,36.2975,14.1923,med,high,short,male,Savage
+Beagle,12755.2791,,12.6646,high,med,short,male,Stewart
+Beagle,11155.5365,,14.5278,med,high,med,male,Washington
+Daschhund,9440.1594,,13.4798,high,med,short,female,Ramirez
+Beagle,11573.017,35.2355,12.7992,med,high,short,male,Eaton
+Daschhund,8888.1207,20.9886,12.303,med,high,short,female,Haley
+Daschhund,7620.2448,21.8329,12.1781,high,high,short,male,Wright
+Beagle,9824.1746,36.3399,12.349,med,high,short,female,Johnson
+Daschhund,6690.9858,21.099,12.4143,high,med,med,female,Gomez
+Jack Russel Terrier,7288.6983,34.8645,14.5576,high,med,short,male,Moore
+Golden Retriever,24207.6378,,10.2117,low,med,med,female,Ferguson
+Jack Russel Terrier,6275.491,34.2656,15.0859,high,med,short,male,Williams
+Golden Retriever,30114.3746,56.7797,11.2293,low,high,med,female,Garrison
+Daschhund,11570.3123,21.2146,12.4394,high,low,short,male,Yolanda
+Jack Russel Terrier,6590.6021,33.1332,14.4881,high,med,short,female,Floyd
+Golden Retriever,26958.8116,,11.3056,med,high,med,female,Ashley
+Golden Retriever,33099.5834,55.0619,11.7531,med,high,med,female,King
+Beagle,9369.6271,,13.8943,med,med,short,male,Christensen
+Daschhund,16528.4578,21.6344,13.0125,high,med,short,male,Hendricks
+Jack Russel Terrier,6875.9666,33.8875,13.4017,high,low,short,male,Bennett
+Daschhund,15692.6872,20.4912,11.9927,high,med,short,male,Houston
+Beagle,11192.9192,36.1333,12.5652,high,med,med,male,King
+Beagle,11822.2017,40.0346,12.6103,med,high,short,male,Lozano
+Daschhund,10615.1161,21.2905,12.6542,high,med,short,male,Evans
+Daschhund,8291.8882,20.3764,12.6209,high,med,short,female,Mann
+Daschhund,6406.1666,21.3099,12.9266,high,med,short,female,Rodriguez
+Beagle,11098.35,36.3766,14.5704,med,med,short,male,Lyons
+Jack Russel Terrier,6051.1059,34.4627,13.6459,high,med,short,female,Sims
+Jack Russel Terrier,7233.6551,,13.9352,high,med,short,female,Howard
+Jack Russel Terrier,6884.6553,33.1006,14.0941,high,med,med,male,Ramos
+Golden Retriever,27982.7334,59.145,11.0637,low,high,med,male,Holland
+Daschhund,11862.6284,20.5351,13.671,high,med,short,female,Adams
+Daschhund,6915.5432,,12.2864,high,med,med,female,Jordan
+Golden Retriever,31654.2392,55.8083,12.4793,med,med,med,male,Aguilar
+Golden Retriever,29665.7897,61.1737,12.7841,med,high,med,female,Larson
+Daschhund,6420.3182,,14.1705,high,high,short,male,Hamilton
+Daschhund,10347.5506,20.3283,12.3548,high,low,short,female,Sawyer
+Golden Retriever,28527.3908,,13.6516,med,high,med,male,Day
+Golden Retriever,31503.1924,58.7665,11.3199,low,high,med,male,Chen
+Daschhund,16340.1151,21.204,12.1005,high,med,short,female,Gilbert
+Daschhund,11230.1176,21.3489,13.071,high,high,short,female,Sweeney
+Jack Russel Terrier,6658.2042,,13.8443,med,med,short,male,Thompson
+Daschhund,10942.7806,22.0991,13.0922,high,low,short,male,Oliver
+Daschhund,6531.7925,20.9967,13.133,high,med,med,male,Spencer
+Beagle,7447.7419,32.1223,14.5644,low,high,short,female,Massey
+Daschhund,5494.4835,20.9333,12.9411,high,low,short,male,White
+Daschhund,9554.5561,20.9118,12.4786,high,med,short,female,Hernandez
+Golden Retriever,23155.0576,60.1386,10.6749,med,high,med,female,Hall
+Jack Russel Terrier,7244.9196,34.341,14.5615,high,med,short,female,Terrell
+Daschhund,8096.8875,21.3326,12.6618,high,med,short,male,Gonzalez
+Beagle,10009.1066,35.7499,13.5779,high,high,short,male,Gallagher
+Daschhund,8798.8066,,14.247,high,med,med,male,Hernandez
+Jack Russel Terrier,6100.748,34.0497,13.5312,high,med,short,female,Hamilton
+Golden Retriever,25714.0552,56.3887,12.8126,med,high,med,female,York
+Jack Russel Terrier,5680.2087,34.892,13.775,high,med,short,male,Davis
+Beagle,7579.3419,34.6396,13.6023,med,high,short,female,Berry
+Golden Retriever,30773.8196,58.2406,11.5602,med,high,med,female,Brown
+Beagle,9426.8005,38.2399,13.8366,med,high,short,female,Farmer
+Golden Retriever,26545.9914,57.2116,11.2955,med,high,med,male,Travis
+Daschhund,10336.4049,21.0875,13.016,high,high,short,male,Smith
+Beagle,8835.0954,36.0208,11.789,med,high,short,female,Rodriguez
+Jack Russel Terrier,6601.5252,33.5008,14.0946,med,med,short,male,Santiago
+Beagle,11652.4779,32.7183,13.7481,med,high,short,female,Mclean
+Jack Russel Terrier,5343.9409,34.1891,13.4291,high,med,short,male,Martin
+Daschhund,14713.0064,,12.8042,high,med,med,female,Mooney
+Beagle,11554.9004,34.9321,12.5541,med,high,short,male,Bennett
+Beagle,10420.6688,35.9064,13.7552,med,med,short,male,Carr
+Jack Russel Terrier,7368.7652,,14.4229,high,med,short,female,Roberts
+Golden Retriever,34023.7398,58.3973,11.9125,med,high,short,male,Lewis
+Beagle,10758.239,36.0444,12.4004,med,high,short,female,Valdez
+Beagle,10144.6002,35.2894,12.057,med,med,short,female,Moody
+Golden Retriever,30237.2365,59.2236,9.9368,med,high,med,female,Lynch
+Golden Retriever,30534.9571,60.1418,11.5706,low,med,med,female,Morgan
+Golden Retriever,31149.088,59.3883,9.126,med,med,med,male,Schwartz
+Daschhund,6085.2484,21.0134,12.4041,high,med,short,female,Leon
+Beagle,11166.4443,36.2031,12.5686,high,high,short,female,Williams
+Jack Russel Terrier,7815.2505,33.6251,13.2108,high,low,short,female,Sheppard
+Beagle,11556.0955,36.8152,14.895,med,high,short,female,Knapp
+Golden Retriever,29105.8885,59.7915,11.8001,med,high,med,female,Houston
+Golden Retriever,25360.2994,57.4471,10.9025,med,high,short,female,Williams
+Jack Russel Terrier,6364.8375,34.2212,15.1712,high,med,short,female,Heather
+Daschhund,9542.964,21.3573,13.0321,high,med,short,female,Goodman
+Daschhund,10589.8974,,12.0804,high,med,short,male,Ford
+Daschhund,6203.7824,20.3323,12.2352,high,med,short,female,Ross
+Daschhund,8408.2296,20.6273,13.7612,high,med,short,female,Powell
+Jack Russel Terrier,4958.272,33.9309,14.2421,high,high,short,male,Brooks
+Golden Retriever,26994.675,59.1354,10.1363,med,high,med,male,Miller
+Golden Retriever,23962.8635,59.325,12.7152,med,high,med,female,Zamora
+Jack Russel Terrier,6474.4629,34.2861,13.6125,high,med,short,female,Farley
+Beagle,9198.857,38.4939,13.6833,low,high,short,female,Clay
+Golden Retriever,27217.4965,60.6167,11.1767,med,high,short,male,Ferguson
+Daschhund,8866.0624,,13.0298,high,med,short,female,Flores
+Daschhund,9978.9539,21.4314,13.6248,high,med,short,female,Bryant
+Jack Russel Terrier,7648.7236,,13.6268,high,low,short,female,Chandler
+Daschhund,15253.8143,,13.5537,high,med,short,female,Williamson
+Golden Retriever,34369.5751,,12.6358,med,high,short,male,Sanchez
+Jack Russel Terrier,7073.8739,,13.0395,med,med,short,female,Tate
+Jack Russel Terrier,5322.9437,34.0735,13.8805,high,low,short,female,Black
+Jack Russel Terrier,5757.3484,33.6147,14.2581,high,med,short,male,Davis
+Golden Retriever,32103.4037,54.7555,10.8644,med,high,med,female,Morton
+Daschhund,9067.9783,21.3164,12.9913,high,med,short,female,Hall
+Jack Russel Terrier,6081.6513,33.3989,15.5842,high,med,short,male,Carr
+Beagle,10804.5837,32.9076,12.3743,med,high,short,female,Jackson
+Daschhund,15469.3687,21.0522,12.3877,med,low,short,male,Hester
+Jack Russel Terrier,6369.914,,13.8269,high,med,short,male,Webb
+Daschhund,8943.2834,22.4665,12.2031,high,low,short,female,Gordon
+Beagle,9756.3173,,12.6069,med,high,med,male,Clark
+Beagle,11145.1574,33.8525,13.4629,med,high,short,male,Powers
+Beagle,12755.7615,37.5993,12.9241,med,high,short,female,Morgan
+Golden Retriever,33677.2132,55.8336,10.6671,med,high,med,female,Andrews
+Golden Retriever,29742.1405,56.7541,12.0216,med,med,med,female,Frye
+Golden Retriever,30506.0797,57.0096,11.0586,med,high,med,female,Watson
+Daschhund,10055.0764,22.1448,13.5176,high,med,short,female,Welch
+Beagle,11715.1134,37.2096,12.8885,med,high,short,female,Sanchez
+Golden Retriever,28562.595,,9.827,med,high,med,male,Williams
+Beagle,9963.4446,33.9729,13.7821,med,med,short,female,Jones
+Jack Russel Terrier,6677.2129,,13.4629,med,med,short,female,Pena
+Golden Retriever,30799.6972,57.3959,11.4786,med,high,med,female,Hahn
+Jack Russel Terrier,7292.6053,34.2228,13.4592,high,med,short,female,Walters
+Beagle,10120.9493,37.1417,14.3605,med,high,short,female,Oliver
+Jack Russel Terrier,6570.185,32.5279,13.8021,high,med,short,male,Mitchell
+Daschhund,12644.993,20.986,12.2016,high,med,short,male,Lloyd
+Daschhund,10248.8857,,12.681,high,low,short,male,Schmidt
+Golden Retriever,29316.836,57.6488,10.6526,med,high,med,female,Robertson
+Beagle,9314.9206,35.7998,12.6615,med,high,short,male,Coffey
+Jack Russel Terrier,6347.6386,34.5087,12.5753,high,med,short,male,Price
+Jack Russel Terrier,5828.3437,34.0099,13.297,high,med,med,female,Valdez
+Beagle,9283.1284,36.7889,13.573,med,high,short,female,Jorge
+Beagle,10560.2443,35.3205,14.042,med,high,short,male,Valdez
+Jack Russel Terrier,6563.0163,34.5633,14.4985,high,med,short,male,Jackson
+Jack Russel Terrier,5102.2793,34.7998,14.3526,high,med,short,female,Rogers
+Jack Russel Terrier,6869.7685,33.9391,13.6221,high,med,short,female,Bright
+Daschhund,6407.3598,,13.5084,high,med,short,female,Davis
+Golden Retriever,29180.8296,56.6882,12.3151,med,high,med,female,Mccoy
+Golden Retriever,24253.7059,60.4117,11.3057,med,high,med,male,Theresa
+Daschhund,11371.7604,20.9637,12.9542,high,med,short,male,Mccormick
+Golden Retriever,27041.5065,57.6319,11.9096,low,high,med,male,Gomez
+Jack Russel Terrier,7996.835,,13.1909,high,med,short,male,Thompson
+Beagle,11260.4452,33.833,14.859,med,high,med,female,Miller
+Golden Retriever,28011.586,57.4147,10.6676,med,high,med,female,Brown
+Daschhund,12485.9272,20.7366,12.6261,high,low,short,male,Gallagher
+Daschhund,12528.2097,21.5519,12.6732,high,med,short,male,Larson
+Daschhund,8902.7019,,13.4224,high,med,short,male,Sutton
+Jack Russel Terrier,5363.0748,33.9849,13.891,high,med,short,male,Cohen
+Golden Retriever,26662.0848,57.7282,13.1814,med,high,med,male,Frost
+Beagle,11935.2807,35.5893,13.9926,med,high,short,male,Thompson
+Golden Retriever,30252.5702,57.6328,12.0729,med,high,med,female,Banks
+Daschhund,10915.7848,,12.581,high,high,short,male,Bell
+Jack Russel Terrier,6506.9978,34.3269,13.5205,med,med,short,female,Leon
+Beagle,10333.8064,36.6109,12.6267,med,high,short,female,Flores
+Daschhund,6110.2178,,12.5333,high,med,short,female,Harris
+Beagle,10430.3827,35.6468,12.9757,med,high,short,female,Mathis
+Golden Retriever,25291.5563,57.9098,10.1942,med,med,short,male,Lee
+Jack Russel Terrier,6124.3604,33.7143,14.7929,high,med,short,male,Fields
+Beagle,10899.429,36.9356,14.3564,med,high,short,male,Hodges
+Daschhund,7253.2383,21.3059,11.7684,high,med,short,male,Perez
+Golden Retriever,33578.2673,,11.7103,med,high,med,female,Ballard
+Beagle,8412.1448,36.3428,12.7634,high,high,short,male,Martin
+Beagle,9883.4007,,14.5898,med,high,short,female,Newman
+Beagle,11817.0633,36.4106,14.1971,med,high,short,male,Pace
+Golden Retriever,28832.7175,60.9914,11.0662,med,high,short,female,Pearson
+Daschhund,10125.9274,,12.3698,high,med,short,female,Coffey
+Jack Russel Terrier,7251.9127,,13.742,high,med,short,male,Ballard
+Golden Retriever,31000.2301,57.4364,10.2914,med,high,short,female,Braun
+Beagle,11338.6647,33.6155,13.6909,med,high,short,male,Bowen
+Beagle,10002.5127,,13.0441,med,high,short,male,Carter
+Golden Retriever,30150.7064,60.0538,11.3091,med,high,med,female,Johnson
+Golden Retriever,34462.5699,58.585,10.9469,med,high,med,female,Nguyen
+Beagle,9441.6401,37.0247,12.5182,low,high,med,male,Nolan
+Beagle,11261.3993,37.5171,13.8097,med,high,short,female,Harris
+Daschhund,12583.9031,19.9097,13.5585,high,med,short,male,Thompson
+Beagle,8173.4924,,13.514,med,high,short,male,Moreno
+Jack Russel Terrier,6760.6176,,13.6647,high,low,short,male,Smith
+Jack Russel Terrier,5708.0076,33.8655,14.2819,med,med,short,male,Moreno
+Jack Russel Terrier,7865.7667,34.3417,14.7899,high,med,short,male,Perry
+Golden Retriever,31102.0631,58.2743,11.7841,high,med,med,male,Webb
+Jack Russel Terrier,7176.8112,34.4401,13.8725,high,med,short,female,Pierce
+Golden Retriever,30988.5932,60.5174,11.1379,med,med,med,male,Walker
+Jack Russel Terrier,6617.5437,,14.6139,high,high,short,male,Bridges
+Daschhund,11830.9481,20.4382,14.4028,high,low,short,female,Michael
+Beagle,9697.2672,36.2215,13.6181,med,high,short,female,Carr
+Daschhund,15840.3686,22.1955,13.5549,high,high,short,female,Howard
+Jack Russel Terrier,6024.38,32.9044,12.3678,high,med,short,female,Smith
+Jack Russel Terrier,7861.4089,34.1743,13.9402,high,med,short,male,Marshall
+Beagle,12790.1895,35.0126,12.26,high,high,short,female,Martin
+Golden Retriever,28578.6831,56.5494,9.5751,med,high,med,male,Brown
+Daschhund,12603.5106,21.222,13.0643,high,med,short,female,Moody
+Daschhund,11407.076,20.6389,13.7995,high,high,short,male,Mitchell
+Golden Retriever,31544.8374,,12.7904,med,high,med,male,Harrison
+Daschhund,3803.4787,21.7626,11.9531,high,med,short,female,Williams
+Beagle,12074.8635,37.7975,13.6288,med,high,short,male,Sosa
+Daschhund,7735.0565,21.6074,12.5502,high,med,short,female,Thomas
+Beagle,9898.9534,33.6517,14.2195,med,high,short,male,Martinez
+Golden Retriever,30590.6353,58.8615,10.8914,high,high,short,male,White
+Golden Retriever,32115.3675,58.4054,10.4866,med,high,med,female,Scott
+Golden Retriever,31747.945,57.9087,12.2145,med,high,med,male,Mcintosh
+Daschhund,6742.3713,21.0516,12.3195,high,med,short,male,Sanders
+Golden Retriever,28807.3527,59.2107,13.169,high,high,med,female,Ruiz
+Daschhund,12825.7599,20.9226,12.8363,high,med,short,male,Jones
+Jack Russel Terrier,6511.2593,33.2505,14.917,med,med,short,female,Rice
+Daschhund,5202.1564,20.7699,12.4885,high,med,short,male,Lewis
+Jack Russel Terrier,5625.5405,33.7837,13.3181,high,high,short,female,Bishop
+Golden Retriever,34640.4545,,11.5272,med,high,med,female,Ramirez
+Daschhund,11171.717,20.4529,13.6959,high,med,short,male,Miller
+Beagle,8588.3522,34.5904,14.027,med,high,med,female,Bryan
+Daschhund,18267.1193,20.1307,12.8922,high,med,short,male,Mills
+Beagle,9583.0984,31.3309,14.0469,med,high,short,female,Brittany
+Golden Retriever,33430.9728,60.4527,12.8226,med,high,short,female,Fowler
+Daschhund,14120.0041,20.843,12.5211,high,med,short,female,Flores
+Beagle,11829.9442,33.6054,13.8837,med,high,med,male,Pitts
+Golden Retriever,36269.5446,57.0446,11.6467,med,high,med,female,Ayers
+Daschhund,8119.3624,21.2707,12.3063,high,med,short,female,Fisher
+Daschhund,11723.5459,,13.3061,high,med,short,female,Clark
+Golden Retriever,29040.1241,55.2722,10.8163,high,med,med,female,Jarvis
+Daschhund,10675.9179,21.34,13.0102,high,med,short,male,Turner
+Daschhund,8983.9722,20.7561,12.9731,med,low,short,male,Garcia
+Jack Russel Terrier,6007.2535,35.1044,13.9573,high,med,med,female,Lindsey
+Beagle,10251.298,36.7225,12.7681,med,high,short,male,Nichols
+Daschhund,8150.6008,,12.8126,high,med,short,male,Torres
+Daschhund,15324.2472,21.2801,13.4657,high,med,short,female,Newman
+Golden Retriever,28034.4537,59.5109,9.4759,med,high,med,female,Kennedy
+Beagle,9941.9218,35.517,14.8138,med,high,short,male,Parsons
+Golden Retriever,27151.6035,,12.9841,high,high,med,male,Dudley
+Golden Retriever,29215.3573,56.9214,11.6661,med,high,short,male,Miller
+Golden Retriever,27708.2989,57.5611,11.3078,med,high,med,female,Contreras
+Jack Russel Terrier,5633.4581,33.3528,13.8696,high,med,short,female,Lam
+Jack Russel Terrier,9035.0242,33.9351,13.8112,high,med,med,female,Anderson
+Jack Russel Terrier,7843.0065,,13.3881,high,med,short,female,Sexton
+Daschhund,8170.0449,20.792,13.9752,high,med,short,male,Durham
+Golden Retriever,29007.5092,60.8541,11.682,med,high,med,female,Lopez
+Beagle,8990.1933,,12.8395,med,high,short,male,Molina
+Jack Russel Terrier,5150.1116,33.0181,12.6425,high,med,short,female,Riley
+Daschhund,7969.2145,20.7853,13.9315,high,med,short,male,Roberts
+Daschhund,11134.8938,20.9589,14.0732,high,med,short,male,Bailey
+Golden Retriever,37564.2291,57.0182,11.3146,med,med,med,female,Acosta
+Jack Russel Terrier,6491.6873,,13.0684,high,low,short,male,Chen
+Beagle,10130.1591,34.6446,12.8195,low,high,short,female,Thompson
+Beagle,12325.4236,34.1144,14.0095,med,med,short,female,Martin
+Daschhund,8523.9825,,12.5876,high,med,short,female,Moore
+Beagle,12234.654,,12.8564,med,high,short,male,Williams
+Jack Russel Terrier,7519.2346,33.9679,14.7226,high,med,short,male,Abbott
+Golden Retriever,30185.246,58.0266,10.9483,high,high,med,female,Gonzalez
+Golden Retriever,25192.6594,59.6248,12.3427,med,high,long,female,Price
+Golden Retriever,28141.071,63.027,12.5365,med,high,med,male,Taylor
+Golden Retriever,22977.1385,59.1159,10.8869,low,med,med,male,Le
+Golden Retriever,32125.8266,56.0335,13.1322,med,high,med,female,Adkins
+Beagle,10299.9262,38.9378,13.4589,med,high,med,male,Esparza
+Daschhund,7623.2887,,14.018,high,med,short,male,Thomas
+Jack Russel Terrier,6057.9052,,14.0188,high,high,short,male,Kristen
+Daschhund,12331.0127,20.4459,13.0855,high,med,med,male,Garcia
+Jack Russel Terrier,7344.4728,33.1276,13.9308,high,med,short,male,Lewis
+Daschhund,12408.7641,20.6316,13.6554,high,med,short,female,Wallace
+Beagle,12907.2311,34.4251,13.4647,low,high,med,female,Carroll
+Daschhund,12782.6096,21.5643,12.8889,high,med,short,female,Martin
+Daschhund,3846.3261,20.9393,12.4295,med,med,short,female,Griffin
+Beagle,11240.7664,,14.5618,med,high,short,male,Hartman
+Beagle,9909.5345,33.9161,14.7331,med,high,short,female,Rios
+Daschhund,12828.6731,,13.4717,high,med,short,female,Ray
+Golden Retriever,31133.7281,57.8081,11.4334,med,high,med,male,Hanson
+Daschhund,13217.6969,21.5945,13.7865,high,low,short,female,Laura
+Jack Russel Terrier,7343.4549,33.0477,13.7271,high,med,short,male,Velazquez
+Golden Retriever,28946.3842,58.0186,11.4457,med,high,med,male,Wilson
+Jack Russel Terrier,6407.5812,34.3224,13.8853,high,med,short,male,Garcia
+Golden Retriever,28784.5721,58.8131,13.2772,med,high,med,male,Jackson
+Jack Russel Terrier,6622.9164,35.5186,14.0923,high,med,med,male,Gibbs
+Beagle,10734.4992,37.0133,13.5881,med,high,short,female,Kidd
+Jack Russel Terrier,7195.6016,33.9088,13.3987,high,med,short,male,Roberts
+Beagle,12544.8823,37.1235,13.6134,high,med,short,male,Mendoza
+Jack Russel Terrier,6483.6889,33.2058,14.0692,high,med,short,male,Estrada
+Daschhund,16586.3334,21.3074,13.6226,high,med,short,male,Turner
+Jack Russel Terrier,6002.2806,34.5392,13.3174,high,med,short,female,Smith
+Daschhund,7884.2645,,13.9637,high,med,short,female,Stephens
+Golden Retriever,32758.3275,,11.8116,med,high,med,female,Jason
+Beagle,6881.5651,33.2675,13.2283,med,high,short,female,Parker
+Daschhund,4605.1558,,13.2665,high,med,short,male,Richardson
+Golden Retriever,28029.8832,58.5595,9.3305,med,high,short,female,Doyle
+Daschhund,9300.9354,20.5572,13.1339,high,med,short,male,Hunter
+Beagle,11353.4139,,13.6504,med,high,short,male,Williams
+Daschhund,12275.4869,,13.5215,med,med,short,male,Cobb
+Daschhund,6728.1045,20.7623,13.195,high,med,short,female,Carpenter
+Golden Retriever,28840.5942,60.0075,10.7497,med,high,med,female,Goodman
+Golden Retriever,27574.3491,59.2236,9.6168,med,high,med,male,Simmons
+Golden Retriever,28420.6039,57.4574,11.5402,med,med,med,female,Moore
+Jack Russel Terrier,5989.2416,33.3757,13.9052,med,med,med,male,Ochoa
+Beagle,11279.4447,,12.0131,med,high,short,male,Robinson
+Beagle,11905.6686,35.1742,13.7551,med,high,short,male,Harris
+Daschhund,9687.6371,20.4986,13.1675,high,low,short,male,Swanson
+Daschhund,9590.3323,21.8891,12.8079,med,med,short,female,Ramos
+Jack Russel Terrier,6553.9267,33.7625,14.0042,high,low,short,male,Roy
+Daschhund,8938.1657,,12.3709,high,med,med,male,Miller
+Golden Retriever,28408.5099,57.3705,12.0417,med,high,med,female,Baker
+Beagle,8801.6816,,15.8181,med,high,short,male,Dennis
+Daschhund,13579.9168,21.0728,13.6885,high,med,short,male,Mcmillan
+Daschhund,11652.0407,,13.3474,high,med,short,female,Porter
+Jack Russel Terrier,6893.0637,34.1647,13.5628,high,med,short,male,Bradford
+Beagle,8669.096,35.1188,13.4991,med,med,short,female,Miller
+Beagle,11745.1072,,14.3326,med,med,short,female,Stone
+Golden Retriever,29870.7764,58.9067,12.3022,med,high,med,male,Sullivan
+Golden Retriever,29596.8017,56.9513,11.4692,high,high,med,female,Duffy
+Beagle,9654.9762,34.1702,14.8899,med,high,short,female,Harris
+Golden Retriever,35881.375,54.608,12.8149,med,high,med,female,Cochran
+Daschhund,12023.7997,20.4057,12.4971,high,med,short,male,Cook
+Golden Retriever,25664.883,56.8407,11.2338,low,high,med,male,Smith
+Golden Retriever,29284.7323,59.9198,12.2363,med,high,med,female,Smith
+Golden Retriever,29535.6122,53.7046,11.6625,med,high,med,female,Pittman
+Jack Russel Terrier,6674.832,34.4832,13.77,high,med,short,female,Johnson
+Golden Retriever,31969.2958,58.5359,10.8054,low,high,med,female,Murphy
+Golden Retriever,26893.5866,57.8681,12.8057,low,high,short,male,Simmons
+Daschhund,10614.6494,21.2423,13.086,high,high,short,male,Mccarthy
+Daschhund,8528.5566,21.2726,12.4806,high,med,med,female,Mills
+Beagle,8324.279,,13.2094,med,high,med,female,Robinson
+Golden Retriever,28275.9451,57.0568,11.1118,med,high,med,male,Clark
+Golden Retriever,33512.1118,61.1696,11.6819,med,high,short,male,Jones
+Daschhund,9254.4321,20.9729,13.5583,high,high,short,male,Rodriguez
+Daschhund,14226.3222,21.5114,12.656,high,med,short,female,Chapman
+Jack Russel Terrier,6958.7282,33.2336,14.363,med,med,short,female,Lee
+Golden Retriever,29418.5412,57.6668,10.6523,med,high,long,female,Barnett
+Daschhund,10850.2909,20.9588,13.4168,high,med,short,female,Schneider
+Daschhund,11641.7109,21.8903,12.867,high,med,short,male,Johnson
+Daschhund,12285.0729,20.883,13.0989,high,med,short,female,Ortega
+Daschhund,7384.2186,19.7573,12.1085,high,med,short,male,Green
+Jack Russel Terrier,5323.5926,,13.7156,high,high,short,female,Duncan
+Jack Russel Terrier,6667.582,33.3496,14.3935,high,med,short,male,Kelley
+Daschhund,6166.9452,21.469,12.6584,high,med,short,female,Obrien
+Beagle,9933.8361,34.6428,15.3727,med,high,short,male,Cross
+Daschhund,6322.1848,,12.6481,high,med,short,male,Hunter
+Golden Retriever,35124.2427,57.293,11.5146,med,high,med,male,Jackson
+Golden Retriever,27738.9924,58.6141,11.6378,med,high,med,female,Griffin
+Beagle,9812.4563,35.2538,13.9013,high,high,short,female,Jennings
+Daschhund,11769.061,21.3019,12.9875,high,med,short,male,Rodriguez
+Daschhund,8994.5196,21.354,12.8666,high,med,short,female,Gibson
+Daschhund,15001.8538,,13.5055,med,med,short,male,Hayes
+Golden Retriever,27030.2374,59.1833,11.0337,med,high,med,female,Guzman
+Beagle,9142.1824,36.9482,13.4257,med,high,short,male,Ward
+Golden Retriever,29802.9237,59.1329,11.292,high,high,med,male,Johnson
+Golden Retriever,31406.4888,,11.2569,med,high,med,male,David
+Golden Retriever,27904.1463,57.9911,11.1083,high,high,med,female,Ballard
+Jack Russel Terrier,6352.1964,33.3181,14.7026,high,med,short,female,Neal
+Jack Russel Terrier,7401.0002,34.1638,14.3031,high,med,short,male,Bentley
+Daschhund,14793.1295,,12.846,high,med,short,male,Thomas
+Beagle,8371.2179,,14.8495,low,high,short,male,Sanders
+Daschhund,10847.3563,21.5207,13.6478,high,med,short,female,Allison
+Beagle,11953.7216,34.5436,15.105,med,high,short,female,Harris
+Jack Russel Terrier,5780.5814,,14.031,high,med,short,male,Stephanie
+Jack Russel Terrier,5911.9614,,13.5826,high,med,short,male,Thomas
+Beagle,8956.8574,36.0535,14.5213,med,high,short,male,Brown
+Jack Russel Terrier,8131.9348,32.0424,13.7245,high,med,short,male,Gray
+Beagle,10477.229,35.1221,13.2779,high,high,short,female,Ward
+Beagle,10795.7831,,12.6649,med,high,short,female,Johnston
+Daschhund,7501.0634,,13.4167,high,med,med,female,Danielle
+Jack Russel Terrier,7637.7873,33.5131,13.5063,high,med,short,female,Sullivan
+Beagle,9407.5884,,13.995,med,high,short,female,Mcknight
+Daschhund,14705.0948,20.7339,12.9358,high,med,med,female,Smith
+Jack Russel Terrier,6419.2937,,13.994,high,med,short,female,Lawson
+Beagle,8442.1555,36.114,13.7365,med,high,short,male,Mercado
+Jack Russel Terrier,5672.4162,32.6423,13.6515,high,med,short,female,Stevenson
+Jack Russel Terrier,7681.6518,33.7814,14.0464,high,med,short,female,Wood
+Beagle,12088.8317,36.5355,15.1449,med,high,med,female,Moss
+Beagle,9618.1064,35.6525,12.3504,high,high,short,female,Washington
+Golden Retriever,30549.4984,60.8979,12.0534,high,high,short,male,Berry
+Beagle,11050.0495,34.3167,14.1889,med,high,short,female,Pena
+Beagle,10366.2435,32.1265,14.4743,med,high,short,female,Long
+Daschhund,10161.2886,,14.0725,high,med,short,male,Mcdonald
+Jack Russel Terrier,6770.6643,34.849,13.8076,high,med,short,female,Martinez
+Jack Russel Terrier,7598.1327,,13.5917,high,high,short,female,Klein
+Daschhund,5954.2266,20.7573,13.0253,high,low,short,female,King
+Beagle,9311.4096,34.8713,15.3504,med,high,short,female,Cooper
+Beagle,10918.7781,,13.8347,med,high,short,male,Barnett
+Daschhund,15601.1822,21.2852,13.4743,high,low,short,female,Sampson
+Beagle,12088.3184,37.4899,11.6522,low,high,short,male,Aguilar
+Daschhund,9744.4392,20.2406,12.3179,high,med,short,female,Kelly
+Golden Retriever,24613.357,59.5349,11.3256,med,high,med,female,Turner
+Beagle,14078.8931,36.3314,11.9018,low,high,short,female,Gallagher
+Jack Russel Terrier,6689.3764,33.9393,14.2021,high,med,med,female,Cooper
+Beagle,8856.9375,,13.5971,high,high,short,female,Patterson
+Golden Retriever,28607.5369,,12.601,med,high,med,male,Wilson
+Golden Retriever,31690.6223,57.8378,12.5863,low,high,med,female,Morales
+Beagle,11083.9695,33.0048,12.9357,high,high,short,male,Parrish
+Beagle,12714.3067,38.4793,13.4665,high,high,short,male,Mills
+Jack Russel Terrier,6570.0893,,14.319,high,med,short,female,Buckley
+Beagle,10998.0817,37.4941,12.6044,med,med,short,female,Price
+Golden Retriever,22948.9977,60.0653,11.2438,med,high,med,female,Chandler
+Beagle,10779.1367,37.0657,13.6237,med,high,short,male,Hill
+Daschhund,9740.7908,,12.7408,high,med,short,male,Kent
+Daschhund,16203.9457,,12.9201,high,med,short,female,Wright
+Jack Russel Terrier,3294.1494,33.3727,14.9224,high,high,short,male,Moore
+Golden Retriever,28898.9715,55.6035,13.4365,med,high,short,female,Brown
+Beagle,8034.4407,,12.2947,med,high,short,female,Jensen
+Beagle,10007.886,36.7962,13.8609,med,high,short,male,Gonzalez
+Beagle,10954.8818,36.4455,13.3203,med,med,short,female,Willis
+Daschhund,6074.7461,21.2715,12.4455,high,med,short,female,Emily
+Beagle,10662.3615,35.5115,12.8992,med,high,short,female,Dixon
+Golden Retriever,32501.3165,60.3415,12.7421,med,high,med,female,Tucker
+Golden Retriever,31087.005,55.8147,12.4375,med,high,med,male,Hernandez
+Beagle,11568.4613,36.1886,14.2002,med,high,short,male,Johnson
+Jack Russel Terrier,5534.7408,33.5813,14.961,high,med,short,male,Dickerson
+Jack Russel Terrier,4955.8807,,13.8279,high,med,short,female,Ford
+Jack Russel Terrier,6173.074,,13.1929,high,med,short,male,Hernandez
+Beagle,8077.1599,34.1086,13.8273,med,high,short,male,Mcdonald
+Daschhund,8321.9222,20.2663,12.0399,high,med,short,male,Ramirez
+Daschhund,6581.623,20.6991,12.4143,high,med,short,female,Garrett
+Daschhund,8661.5175,21.7756,13.0275,high,med,short,female,Price
+Golden Retriever,29191.6676,56.8749,11.9321,med,high,med,male,Sullivan
+Daschhund,10265.8651,20.5642,12.631,high,med,short,male,Kim
+Beagle,9988.7522,34.5968,12.7484,med,high,short,female,Bush
+Golden Retriever,31223.2622,60.1721,11.2707,high,high,med,female,Stein
+Beagle,9903.099,,12.6134,high,high,med,female,Mitchell
+Golden Retriever,30322.5568,59.957,11.2535,med,high,long,male,Boyle
+Golden Retriever,26491.295,57.5997,10.2767,low,high,med,male,Boone
+Golden Retriever,27337.1859,59.7979,10.6029,med,high,med,male,Stephens
+Golden Retriever,26324.5261,55.5135,11.9252,med,high,med,female,Moore
+Beagle,10858.5245,36.2006,14.4998,med,high,short,female,Allen
+Golden Retriever,22943.6745,59.7421,11.9195,med,high,med,female,Clark
+Jack Russel Terrier,6246.0488,33.1352,14.2155,high,med,short,male,Peterson
+Golden Retriever,26257.5052,57.9733,11.8943,med,high,med,female,Gonzalez
+Daschhund,8981.9756,,12.2863,med,med,short,female,Washington
+Daschhund,13888.0477,20.345,13.845,high,high,short,female,Hamilton
+Golden Retriever,30479.1946,59.538,11.0628,med,high,med,female,Brown
+Daschhund,7446.3622,21.1788,13.7411,high,med,short,male,Davis
+Daschhund,4714.3279,,12.9505,high,med,short,male,Nicholson
+Beagle,10767.6055,37.7547,14.1223,low,high,short,female,Lisa
+Jack Russel Terrier,8003.3195,34.0231,15.242,high,med,short,female,Riley
+Beagle,8108.6803,,13.2935,med,high,short,female,Gonzalez
+Daschhund,14213.7935,21.5851,13.224,high,med,short,female,Nelson
+Beagle,12240.3236,34.8206,13.3141,med,high,short,female,Flores
+Jack Russel Terrier,6214.7485,32.4957,14.6764,high,high,short,female,Davis
+Beagle,9857.2953,,14.1417,med,med,short,male,Curry
+Golden Retriever,25762.6657,58.1739,13.3171,med,med,med,male,Blevins
+Golden Retriever,28079.4885,56.2994,10.3113,high,high,med,female,Bowers
+Jack Russel Terrier,5383.3529,,14.0686,high,high,short,male,Christensen
+Jack Russel Terrier,7152.0815,,14.3501,high,med,short,female,Mckinney
+Golden Retriever,28370.9882,56.9481,11.2757,med,med,med,female,Hubbard
+Daschhund,8185.8104,20.047,12.9266,high,med,short,female,Simpson
+Beagle,8075.6283,34.9286,11.7176,med,high,short,female,Scott
+Beagle,9928.0734,35.0957,14.0186,med,high,med,male,Barton
+Beagle,11229.6024,34.9291,12.6225,med,high,short,female,Spears
+Daschhund,14322.3667,20.2803,13.8617,high,med,short,female,Ali
+Daschhund,5776.4106,21.5424,12.0946,med,med,short,female,Thompson
+Golden Retriever,31636.5134,54.5639,12.0192,med,high,med,female,Brewer
+Beagle,7598.4296,34.0391,14.9307,med,high,short,male,Jones
+Jack Russel Terrier,5135.9684,33.9729,14.3758,high,med,short,male,Villarreal
+Golden Retriever,27793.2159,54.3886,10.2865,med,high,med,female,Lewis
+Golden Retriever,29310.8879,,11.0896,med,high,med,female,Hawkins
+Jack Russel Terrier,7250.5203,33.2041,13.8331,high,med,short,male,Bauer
+Jack Russel Terrier,6858.7861,33.8939,14.8077,high,med,short,female,Walton
+Daschhund,12246.2091,,13.2401,high,high,short,male,Lee
+Jack Russel Terrier,7138.28,,14.0045,high,med,short,female,Taylor
+Daschhund,9531.279,,13.2375,high,high,short,male,Cherry
+Beagle,10781.0694,35.8422,13.4499,high,high,med,male,Green
+Golden Retriever,31510.8557,59.3619,9.9152,med,med,med,female,Wallace
+Daschhund,14986.5754,20.8921,14.0231,high,med,short,male,Johnson
+Golden Retriever,25354.719,,11.3289,med,high,short,female,Clarke
+Beagle,9301.2768,33.3792,14.1093,med,high,short,male,Jacob
+Daschhund,6420.1545,,12.6261,high,med,short,male,Jackson
+Golden Retriever,23762.6234,59.9966,11.5822,med,high,med,female,Price
+Daschhund,9946.5085,21.5951,12.1222,med,high,med,male,Bright
+Daschhund,12705.8073,20.6595,13.0307,high,med,short,male,Woods
+Beagle,10703.857,35.0428,12.1385,med,high,short,male,April
+Daschhund,11474.3479,20.534,13.3314,high,med,short,male,Velasquez
+Golden Retriever,26185.8569,59.6219,11.3605,med,high,med,male,Thompson
+Daschhund,13627.114,20.0146,12.8213,high,med,short,male,Diaz
+Beagle,7337.3021,34.0901,12.1821,med,high,short,male,Williams
+Beagle,11862.7649,36.227,15.1939,med,high,short,male,King
+Beagle,10318.0137,35.448,14.0239,med,high,short,male,Hines
+Golden Retriever,30614.8265,59.3053,11.8968,med,high,med,male,Hurst
+Golden Retriever,29138.306,,11.0594,med,high,long,male,White
+Golden Retriever,29227.2369,56.1249,8.9275,med,high,med,female,Gilmore
+Daschhund,8115.227,22.0332,12.5657,high,med,short,male,Smith
+Daschhund,6573.6957,20.4684,13.7267,high,low,short,female,Sullivan
+Jack Russel Terrier,8284.1902,34.6971,14.0131,high,med,med,female,Collins
+Jack Russel Terrier,7397.1484,33.864,14.008,high,med,short,female,Cole
+Daschhund,6306.341,22.3566,11.953,high,med,short,male,Reynolds
+Beagle,11980.4563,34.0795,13.2694,med,high,med,male,Olson
+Jack Russel Terrier,6704.1539,34.4244,12.901,high,med,short,female,Taylor
+Beagle,10979.6152,36.9142,13.905,low,high,short,female,Castillo
+Jack Russel Terrier,7498.8854,34.5435,14.0564,high,med,short,male,Chen
+Beagle,9291.4334,,16.2261,high,high,short,female,Watkins
+Daschhund,11126.281,21.4969,12.455,high,med,short,male,Bailey
+Jack Russel Terrier,6671.7796,33.0139,13.1774,high,med,short,male,Ramirez
+Beagle,8938.4814,,13.8886,low,high,short,female,Smith
+Jack Russel Terrier,6760.5285,33.5926,12.8357,high,med,short,female,King
+Jack Russel Terrier,7958.6479,34.8199,13.0826,high,high,short,male,Andrade
+Beagle,10103.4234,,13.5245,high,high,short,female,Vasquez
+Jack Russel Terrier,6994.8283,,13.8623,high,high,med,male,Francis
+Beagle,10968.1391,36.2873,13.1285,high,high,short,female,Johns
+Beagle,8146.1311,37.4316,12.5965,med,high,short,female,Rodriguez
+Golden Retriever,28289.8564,55.2614,11.4147,med,high,med,female,Joseph
+Daschhund,14683.3619,22.0342,13.4606,high,med,short,female,Davis
+Golden Retriever,30453.7735,57.2769,12.7186,med,high,med,female,Barber
+Golden Retriever,32371.1426,60.5593,11.077,low,high,med,female,Russell
+Daschhund,7659.9374,,12.5924,high,med,short,male,Gray
+Beagle,10940.1793,33.9461,12.8697,med,high,med,female,Smith
+Golden Retriever,28663.5653,58.7346,12.5533,med,med,med,male,Clay
+Daschhund,14215.9133,21.3291,12.6593,med,med,short,male,Zhang
+Golden Retriever,29332.5549,59.1823,11.6008,med,high,med,female,Lopez
+Daschhund,4501.2392,20.868,14.4375,high,low,med,male,Watson
+Daschhund,10340.1214,20.4516,13.4857,high,med,short,male,Wade
+Beagle,9935.4795,33.3526,14.1066,med,high,short,female,Angel
+Beagle,11208.5518,,14.5862,med,high,short,male,Bailey
+Golden Retriever,23534.0101,63.1598,10.9792,med,high,med,male,Hayes
+Golden Retriever,27250.4728,57.342,11.2418,med,high,med,male,Roberts
+Jack Russel Terrier,4526.8425,34.0523,12.871,high,med,short,female,Rose
+Daschhund,5566.8334,19.853,12.1432,high,med,short,female,Frazier
+Golden Retriever,33490.3997,57.4763,11.5587,med,high,med,male,Cook
+Daschhund,12243.7483,,12.3779,high,med,short,male,Phillips
+Beagle,12342.5102,34.479,14.862,med,high,short,male,Pena
+Jack Russel Terrier,7174.3805,34.3473,14.0,high,med,med,male,Vincent
+Jack Russel Terrier,7517.9594,34.1052,14.1472,high,med,short,female,Velasquez
+Beagle,9987.3169,32.4788,12.1445,high,high,short,male,Dixon
+Jack Russel Terrier,6142.3415,34.2157,15.1236,high,high,short,male,Ruiz
+Golden Retriever,30418.8273,56.7848,10.7263,med,high,med,male,Hendrix
+Beagle,9296.035,33.4555,13.5147,low,high,short,female,Duran
+Jack Russel Terrier,7305.4644,33.8007,13.4695,high,med,short,male,Miller
+Jack Russel Terrier,5951.0926,33.913,13.4231,high,med,short,male,White
+Golden Retriever,26666.6739,62.1713,11.312,med,high,med,female,Jones
+Beagle,7876.5286,35.1944,14.0166,high,high,short,female,Burgess
+Jack Russel Terrier,6293.4279,,13.8513,high,med,short,male,Thomas
+Daschhund,6453.2534,,12.7312,high,high,short,female,Hunt
+Golden Retriever,24026.9008,60.052,13.6306,med,high,med,male,Singleton
+Golden Retriever,33832.5492,55.1655,11.5959,med,high,med,female,Marquez
+Daschhund,9266.9913,20.6581,13.7478,med,med,short,male,Jones
+Golden Retriever,27363.9482,,10.8547,med,high,med,male,Dawson
+Jack Russel Terrier,5935.3937,,14.517,high,med,short,male,Irwin
+Golden Retriever,31350.444,57.9573,11.3148,med,high,med,male,Johnson
+Golden Retriever,33238.7465,,11.4909,med,high,med,male,Collins
+Jack Russel Terrier,4479.246,34.7389,13.8071,high,med,short,female,Jones
+Jack Russel Terrier,5726.2771,33.8924,14.4579,high,high,short,male,Clark
+Daschhund,9605.8555,,14.2927,high,med,short,female,Mendez
+Daschhund,8403.0861,20.8716,12.4671,high,med,short,female,James
+Jack Russel Terrier,6321.9526,34.3845,13.7542,high,high,short,male,Evans
+Daschhund,11410.1049,,12.9992,high,med,short,male,Smith
+Jack Russel Terrier,6750.1771,34.3808,13.138,high,med,short,female,Hill
+Beagle,10442.2357,35.9261,13.6434,med,high,short,male,Page
+Beagle,11730.1382,35.6709,13.0243,low,high,short,male,Robinson
+Beagle,14136.6807,,12.862,med,high,short,male,Gonzalez
+Golden Retriever,30514.5243,61.5513,11.9205,low,high,med,female,Moses
+Golden Retriever,27954.5858,58.2145,12.2332,med,high,med,male,Wu
+Jack Russel Terrier,5581.2037,34.2229,14.9827,high,med,short,male,Lewis
+Beagle,11393.7758,34.1973,12.1007,med,high,short,male,Daniels
+Beagle,8566.7175,33.9011,13.2335,med,high,short,female,Brown
+Golden Retriever,32545.867,,12.1066,med,high,med,female,Stone
+Jack Russel Terrier,6275.1754,34.9633,14.4757,high,med,short,male,Murray
+Jack Russel Terrier,6172.8602,33.6355,13.6227,high,med,med,male,Bishop
+Beagle,8800.9321,37.6591,12.9574,high,high,short,female,Steven
+Daschhund,9759.4402,,12.9235,high,med,short,female,Marsh
+Golden Retriever,29564.9936,58.4657,10.4587,med,high,med,male,Mayer
+Beagle,10456.9062,35.0989,14.7824,med,high,short,female,Bautista
+Beagle,9952.7198,33.0228,14.204,low,high,med,male,Cunningham
+Daschhund,12667.0233,20.8054,13.3273,high,med,short,female,Adkins
+Golden Retriever,29059.148,56.6407,11.2507,med,high,med,female,Miller
+Beagle,11098.9654,36.0213,12.5415,med,high,short,male,Gonzalez
+Golden Retriever,26811.6666,56.3021,12.3374,med,high,short,male,Mitchell
+Beagle,8622.4334,37.5481,15.4155,high,high,short,female,Cruz
+Beagle,14022.7061,37.044,12.9231,low,high,short,female,Hill
+Beagle,12273.5816,32.9571,13.3335,high,med,short,male,Brooks
+Golden Retriever,30405.6551,57.5188,11.1761,med,high,med,male,White
+Golden Retriever,31953.2721,60.1078,11.1059,med,med,med,male,Carr
+Jack Russel Terrier,6221.4477,,14.2459,high,med,med,female,Hernandez
+Jack Russel Terrier,7003.675,33.8622,15.3207,med,low,short,male,Combs
+Golden Retriever,27852.8667,56.9512,12.07,med,high,med,male,Matthews
+Beagle,7979.6987,,13.1141,med,high,short,male,Simpson
+Jack Russel Terrier,7307.1003,33.7179,14.4603,high,high,short,female,Patterson
+Beagle,8871.8745,39.3183,13.9665,med,high,med,female,White
+Golden Retriever,26110.9552,58.0345,13.2599,med,med,med,female,Reed
+Jack Russel Terrier,5449.6148,33.7967,14.4341,high,med,short,male,Turner
+Jack Russel Terrier,7004.173,33.8132,13.9761,high,low,med,female,Floyd
+Jack Russel Terrier,7184.7178,,13.9571,high,low,short,male,Cox
+Jack Russel Terrier,4991.4302,33.4242,14.4167,high,med,short,male,Li
+Beagle,9942.7528,36.9935,13.8724,med,high,short,female,Taylor
+Daschhund,9362.3672,21.5496,13.0319,high,med,short,male,Hoffman
+Golden Retriever,32314.3024,56.9941,12.2435,med,high,med,male,Taylor
+Daschhund,10610.1901,21.7398,12.6668,high,med,short,male,Davidson
+Daschhund,8914.734,20.4797,13.6969,high,low,short,male,Finley
+Golden Retriever,36612.6983,,12.4514,high,med,short,male,Young
+Golden Retriever,30327.0973,59.8146,12.2207,med,high,med,male,Rodriguez
+Jack Russel Terrier,5745.8559,34.2451,13.9824,high,med,short,male,Price
+Jack Russel Terrier,6757.3177,,14.0305,high,med,short,male,Mccoy
+Jack Russel Terrier,7621.65,34.2507,14.9049,high,low,short,male,Garrett
+Beagle,12405.3364,34.4833,14.7299,med,high,short,male,Warren
+Golden Retriever,32579.8578,57.4314,11.4648,med,med,med,male,Butler
+Golden Retriever,27126.0972,,12.6855,med,high,med,male,Bennett
+Beagle,12657.9408,35.1153,14.4209,med,high,short,male,Mills
+Beagle,10317.0788,,13.5638,med,high,short,female,Gates
+Daschhund,11225.235,,13.9703,high,med,short,male,Duncan
+Daschhund,5796.4738,21.0297,13.0653,high,med,short,female,Jenkins
+Golden Retriever,26387.9631,57.1401,11.9291,high,high,med,male,Johnson
+Golden Retriever,26548.2324,58.2416,10.9273,med,high,med,female,Barton
+Beagle,9684.8644,37.8573,12.7828,med,high,med,male,Montgomery
+Jack Russel Terrier,5503.4228,33.3863,13.4372,high,med,short,male,Wheeler
+Jack Russel Terrier,6697.1888,33.3849,14.1046,high,low,med,male,Burns
+Jack Russel Terrier,7441.5425,,13.3473,high,med,short,male,Lewis
+Daschhund,15200.1028,19.7057,14.2511,high,med,short,female,Guzman
+Daschhund,4877.6339,,12.6655,med,med,short,female,Brown
+Jack Russel Terrier,6466.6495,34.1973,13.7891,high,med,med,female,Gross
+Jack Russel Terrier,7012.3496,,14.3265,high,med,short,male,Cameron
+Jack Russel Terrier,6227.4814,34.4046,13.3286,high,med,short,male,Lee
+Jack Russel Terrier,5907.924,,14.4066,high,med,short,male,Williams
+Golden Retriever,27110.3983,58.7051,11.3378,med,high,med,male,Preston
+Jack Russel Terrier,5861.5081,33.527,15.3759,high,med,short,male,Wood
+Daschhund,10304.7854,20.5395,13.2351,high,med,short,male,Washington
+Beagle,11958.878,37.667,12.9175,high,high,short,female,Sanchez
+Beagle,8970.8014,35.8253,13.4711,med,high,short,female,Smith
+Golden Retriever,25407.6633,55.6974,11.3413,med,high,med,male,Ali
+Daschhund,7395.5232,21.2001,13.0415,high,med,short,female,Franklin
+Daschhund,6607.211,20.62,13.2187,high,med,short,male,Flores
+Golden Retriever,30812.2363,,10.1711,med,high,short,male,Perkins
+Beagle,11138.5248,36.377,14.8534,med,med,short,female,Marshall
+Golden Retriever,28665.2654,,10.2743,med,high,med,male,Parker
+Jack Russel Terrier,6820.5407,33.9036,14.0512,high,med,short,male,Hinton
+Beagle,12335.8248,35.5015,14.2138,med,high,short,female,Reed
+Daschhund,14141.5985,20.7123,12.8794,high,med,short,female,Townsend
+Golden Retriever,30196.5181,55.7831,8.043,med,high,med,female,Martinez
+Jack Russel Terrier,6489.368,33.7248,13.7802,high,med,short,male,Morgan
+Beagle,9539.4129,34.7874,12.0982,low,high,short,male,Thompson
+Golden Retriever,29338.545,56.7006,10.4605,med,high,med,female,Swanson
+Daschhund,7130.9162,19.4338,13.1782,high,low,short,female,Khan
+Golden Retriever,26723.6408,61.1772,10.3282,med,high,med,female,Reynolds
+Jack Russel Terrier,6238.3932,33.8446,13.6927,high,med,short,female,Cabrera
+Golden Retriever,34897.4065,,11.2194,high,high,long,female,Rios
+Golden Retriever,29990.0506,55.9452,10.8859,low,high,med,male,Pham
+Beagle,12779.0085,,13.3197,med,high,short,male,Kirby
+Beagle,9306.0782,34.2385,14.3615,med,high,short,male,Bennett
+Jack Russel Terrier,6062.4363,34.7919,14.0274,high,med,short,female,Gilbert
+Beagle,9477.8859,38.0538,12.2123,med,high,short,male,Green
+Beagle,10153.6725,36.2592,12.7992,high,high,short,male,Key
+Golden Retriever,29384.4852,61.0741,11.7754,med,high,med,male,Ramirez
+Beagle,10689.0486,,14.203,med,high,short,female,Chang

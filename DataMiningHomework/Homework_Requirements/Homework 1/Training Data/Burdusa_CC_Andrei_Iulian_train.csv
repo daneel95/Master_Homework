@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Amstaff,26702.3587,46.7036,12.8564,med,high,short,male,Davenport
+Airedale Terrier,20337.2198,56.924,11.6815,high,high,short,male,Anderson
+Jack Russel Terrier,5931.9869,33.0928,13.3319,high,med,short,male,Johnson
+Japanese Chin Dog,4824.9308,,13.0351,med,high,med,male,Garcia
+Japanese Chin Dog,4294.2017,23.7635,13.7339,med,high,short,female,Bradley
+Jack Russel Terrier,6568.5185,33.5162,13.9227,high,med,short,male,Huber
+Japanese Chin Dog,4267.2221,22.8661,11.66,high,high,med,male,Monroe
+Airedale Terrier,19542.4878,,12.0344,high,high,med,male,Phillips
+Jack Russel Terrier,6715.6587,33.5804,13.2364,high,med,short,male,Day
+Jack Russel Terrier,5627.7282,32.9422,14.0834,high,med,med,female,Lozano
+Amstaff,26982.4421,,11.4287,med,high,short,male,Manning
+Japanese Chin Dog,3093.0456,23.6158,12.4228,med,high,med,male,Mills
+Airedale Terrier,18346.2989,57.2209,12.1675,high,high,long,female,Park
+Airedale Terrier,20772.1679,56.8891,11.196,med,high,med,male,Hill
+Amstaff,21961.7833,,13.0926,med,high,short,male,Castro
+Jack Russel Terrier,6502.1591,33.5601,14.5378,high,high,med,female,Olson
+Jack Russel Terrier,5722.1491,,14.267,high,med,short,female,Oconnor
+Amstaff,28940.757,44.6557,13.8846,med,high,short,male,King
+Japanese Chin Dog,2253.6194,22.6763,12.6782,high,med,med,male,Robertson
+Japanese Chin Dog,1144.5919,24.6238,13.081,med,high,med,female,Anthony
+Amstaff,25394.6989,45.1027,13.2008,med,high,short,male,Collins
+Jack Russel Terrier,5913.9783,,13.8526,high,med,short,female,Hensley
+Amstaff,22096.9303,47.0643,12.0914,med,med,short,male,Pope
+Japanese Chin Dog,4231.4715,23.7047,14.1793,med,high,med,male,Smith
+Japanese Chin Dog,792.8608,25.2802,13.7182,med,high,med,female,Lopez
+Amstaff,24421.1351,,14.2047,med,high,short,female,Lee
+Airedale Terrier,19865.3974,56.3934,11.9586,high,high,long,female,Ibarra
+Amstaff,20123.4337,46.2129,12.4214,high,high,short,female,Howell
+Airedale Terrier,20784.355,57.0774,11.0428,high,high,med,male,Flynn
+Jack Russel Terrier,5873.5513,34.2137,13.7693,high,med,short,female,Patterson
+Jack Russel Terrier,6137.4413,33.5507,14.6168,high,low,short,male,Lamb
+Airedale Terrier,22806.1831,,10.5803,high,high,med,male,Ryan
+Japanese Chin Dog,2590.9748,22.9,12.0207,med,med,med,male,Anderson
+Japanese Chin Dog,5891.1382,22.1159,12.7494,high,high,med,male,Costa
+Japanese Chin Dog,2732.5683,23.8515,12.5306,med,high,med,female,Yoder
+Jack Russel Terrier,5785.691,33.6003,14.4579,high,med,short,female,Mccullough
+Japanese Chin Dog,2653.4956,,14.1643,med,high,med,male,Swanson
+Amstaff,23363.3642,45.3905,12.7058,med,high,short,female,Valencia
+Jack Russel Terrier,4210.8763,34.5734,13.8156,high,med,med,female,Shah
+Jack Russel Terrier,5986.7212,33.7649,14.4652,high,high,short,female,Le
+Jack Russel Terrier,4538.4774,35.2875,13.2614,high,med,short,male,Vargas
+Airedale Terrier,18237.6698,,10.8397,high,high,med,male,Ayers
+Amstaff,16265.0711,46.2562,12.7364,high,high,short,female,Baldwin
+Airedale Terrier,20065.9137,57.7829,12.508,high,high,med,male,Lee
+Jack Russel Terrier,7178.9604,33.9622,13.535,med,med,short,female,Lee
+Japanese Chin Dog,2461.1197,,13.1277,med,high,med,female,Moon
+Japanese Chin Dog,3489.4511,23.2053,13.2617,med,high,med,female,Harrison
+Amstaff,29755.5472,,13.0194,med,high,short,female,Edwards
+Airedale Terrier,20335.9687,57.2167,11.8478,high,high,med,female,Dunlap
+Amstaff,27257.7691,45.3826,13.2075,med,high,med,female,Holland
+Amstaff,25695.6316,45.3886,13.5055,med,high,short,male,Grant
+Jack Russel Terrier,6844.9347,,13.5301,high,med,short,female,Johnson
+Amstaff,29276.456,45.4871,12.297,med,high,short,female,Perkins
+Airedale Terrier,16418.292,,11.1463,med,high,med,male,Patel
+Airedale Terrier,20177.8696,57.8297,11.4829,high,high,med,female,Armstrong
+Jack Russel Terrier,6832.6473,34.9991,13.6332,high,high,short,male,Frazier
+Jack Russel Terrier,6528.8983,34.7807,14.6491,med,med,short,male,Jensen
+Japanese Chin Dog,3482.4522,24.526,13.2916,low,med,short,male,Oneal
+Amstaff,25539.9036,,14.3533,med,high,short,male,Pruitt
+Japanese Chin Dog,3078.9602,23.4263,13.7197,high,high,med,female,Watts
+Airedale Terrier,18446.3555,55.8237,10.7399,med,high,long,female,Santiago
+Japanese Chin Dog,3785.5011,,13.3973,med,high,med,female,Wells
+Japanese Chin Dog,3562.8734,,13.0753,low,high,short,female,Goodwin
+Airedale Terrier,20663.8447,57.22,12.7683,high,high,med,male,Jones
+Amstaff,32278.768,45.4803,12.666,med,high,short,male,Rivera
+Airedale Terrier,20668.923,,10.9988,med,high,med,female,Madden
+Airedale Terrier,22483.4379,,11.0019,high,high,short,female,Powers
+Airedale Terrier,22210.1331,56.6813,10.0093,high,high,med,female,Cowan
+Airedale Terrier,20625.1759,56.5356,11.7932,high,high,med,male,Lee
+Japanese Chin Dog,3349.6096,22.536,13.5006,med,high,short,female,Andrews
+Airedale Terrier,19207.0864,56.7823,10.9308,high,high,med,male,Rogers
+Japanese Chin Dog,2686.1677,,12.004,low,high,long,male,Lewis
+Japanese Chin Dog,4302.6193,22.3854,13.0217,med,med,short,male,Malone
+Amstaff,27639.1351,,12.8566,med,high,short,male,Hooper
+Jack Russel Terrier,5200.7887,34.8878,14.6678,med,med,med,female,Hood
+Japanese Chin Dog,2346.9604,23.8599,13.1972,med,high,med,male,Armstrong
+Airedale Terrier,19901.5741,57.3805,12.489,high,high,med,female,Miller
+Jack Russel Terrier,8191.7325,,14.3423,high,med,short,female,Ingram
+Jack Russel Terrier,6601.0204,34.9372,14.8464,high,med,short,male,Macias
+Japanese Chin Dog,3686.8698,23.8188,13.5753,med,high,med,female,Edwards
+Amstaff,21513.1902,45.5255,13.1176,med,high,short,male,Malone
+Jack Russel Terrier,6927.869,34.0229,13.7082,high,med,short,female,King
+Airedale Terrier,21470.2902,56.7852,12.5551,high,high,med,female,Moreno
+Airedale Terrier,22078.7588,56.8871,10.7833,high,high,med,female,Anderson
+Jack Russel Terrier,7130.4174,,14.2264,high,med,short,female,Garcia
+Airedale Terrier,23455.7862,,10.9301,high,high,med,female,Williams
+Airedale Terrier,21817.3938,57.6954,11.8015,high,high,short,male,Nelson
+Japanese Chin Dog,3501.7782,,12.7936,med,high,short,male,Johnson
+Airedale Terrier,20490.6333,56.4977,10.6536,high,high,med,female,Smith
+Jack Russel Terrier,5944.1025,34.031,15.1321,high,med,short,female,Martinez
+Airedale Terrier,21093.6894,56.4944,11.1444,high,high,med,male,Williams
+Japanese Chin Dog,3524.1323,24.8568,13.0309,med,high,med,male,Glenn
+Amstaff,19959.5754,45.7909,12.9505,med,high,short,female,Mcintyre
+Jack Russel Terrier,6093.144,33.878,13.6867,high,high,short,female,Diaz
+Airedale Terrier,22293.5528,57.1408,11.9486,high,high,med,female,Jefferson
+Jack Russel Terrier,8522.3793,,13.6541,high,med,med,male,Crosby
+Jack Russel Terrier,6948.1891,33.891,14.7201,high,med,med,female,Lutz
+Airedale Terrier,20670.5719,,11.2509,high,high,med,female,Salazar
+Japanese Chin Dog,2833.0111,23.1158,12.8459,high,high,med,male,Parker
+Japanese Chin Dog,3916.7679,22.7404,13.7743,med,high,med,female,Bennett
+Japanese Chin Dog,2462.4571,23.8642,13.8879,med,high,med,female,Chang
+Amstaff,31149.7425,45.9899,12.8503,med,high,short,female,Martinez
+Amstaff,26150.1755,46.4633,12.3723,med,high,short,female,Green
+Airedale Terrier,19964.1802,56.6518,11.7014,high,high,med,male,Willis
+Amstaff,25119.1858,46.2408,13.427,med,high,short,male,Hernandez
+Airedale Terrier,22355.4196,57.2096,12.1564,high,high,med,female,Wong
+Japanese Chin Dog,5061.4119,22.5789,13.0043,med,high,med,male,Stevens
+Jack Russel Terrier,7333.5693,,14.1615,high,med,short,male,Glenn
+Airedale Terrier,21266.7654,,10.5923,high,high,med,female,Woods
+Airedale Terrier,21073.9322,56.7203,13.2799,med,high,med,female,Leon
+Japanese Chin Dog,2866.8982,22.988,12.5729,med,high,med,male,Flores
+Amstaff,29799.3033,46.1483,12.6494,med,med,short,male,Harris
+Airedale Terrier,22978.8104,56.5105,11.864,high,high,med,female,Foster
+Amstaff,24718.0144,46.7134,13.4884,med,high,med,male,Ruiz
+Airedale Terrier,20703.9509,,11.2829,high,high,long,female,Fischer
+Jack Russel Terrier,6375.8669,34.1107,13.9153,high,med,short,female,Diaz
+Amstaff,24738.2503,45.898,12.1956,med,med,short,male,Key
+Japanese Chin Dog,3074.4655,24.6062,13.381,med,high,med,male,Gutierrez
+Amstaff,20823.754,46.2912,13.0963,med,high,short,female,Smith
+Jack Russel Terrier,5398.6984,32.9616,15.1806,high,med,short,female,Ray
+Jack Russel Terrier,5866.9099,33.4145,13.1469,high,med,short,female,Fitzgerald
+Japanese Chin Dog,3435.2657,21.8493,12.6551,high,high,long,female,Olson
+Amstaff,27561.0166,,12.8941,high,med,short,male,Bautista
+Amstaff,21332.3442,45.3655,12.3067,med,high,short,male,Emily
+Airedale Terrier,19517.4328,56.1974,12.6916,high,high,short,male,Ross
+Jack Russel Terrier,4238.5937,,13.7216,high,med,short,female,King
+Jack Russel Terrier,7756.4774,33.9657,13.7613,high,high,short,male,Ellis
+Japanese Chin Dog,2491.75,,12.8581,med,med,med,female,Harper
+Jack Russel Terrier,6607.0,32.5759,14.1976,high,med,short,male,Williams
+Jack Russel Terrier,5631.3327,34.1768,13.7464,high,med,short,male,Klein
+Airedale Terrier,17181.7518,56.6758,11.1954,high,high,med,male,Stewart
+Japanese Chin Dog,3079.7,22.5011,12.2131,low,high,med,male,Barton
+Japanese Chin Dog,2510.0523,23.4975,12.0383,med,high,med,male,Strickland
+Amstaff,27406.6793,45.274,13.6781,med,high,short,male,Stephens
+Jack Russel Terrier,6068.7536,33.8375,13.3015,high,high,short,male,Robinson
+Airedale Terrier,20958.0206,57.0732,13.2802,high,high,med,female,Bennett
+Amstaff,24059.4647,45.0852,12.5662,med,high,short,female,Clements
+Amstaff,30256.3184,,12.2231,med,high,short,female,Burns
+Amstaff,32510.7061,46.1691,13.9067,med,high,short,male,Smith
+Amstaff,20361.4566,44.7829,13.1701,med,high,med,male,Klein
+Amstaff,31683.9203,46.0156,12.2956,med,high,short,male,Reed
+Amstaff,30055.3912,45.5833,13.4536,med,high,short,male,Hughes
+Airedale Terrier,17526.1653,57.717,11.65,high,high,med,female,Atkins
+Japanese Chin Dog,2513.3699,23.913,13.4269,med,high,med,female,Cooley
+Airedale Terrier,17977.3582,56.866,11.35,high,high,long,female,Garcia
+Japanese Chin Dog,4180.3781,23.8055,12.6526,high,high,med,female,Moore
+Airedale Terrier,19080.3811,,11.526,high,high,med,male,Doyle
+Amstaff,18305.6668,45.4102,12.7963,med,med,med,female,Ibarra
+Amstaff,28490.8003,46.5892,12.9609,med,high,short,female,Howard
+Amstaff,26033.8493,45.5463,12.7369,low,high,short,female,Day
+Japanese Chin Dog,1795.4145,24.0493,13.7828,high,high,med,male,Ingram
+Amstaff,23651.988,46.2487,12.7086,med,high,short,female,Gutierrez
+Jack Russel Terrier,7729.2463,33.7553,12.8587,high,high,short,female,Dunn
+Amstaff,21950.8917,,13.8499,med,high,short,male,Berger
+Amstaff,24062.879,46.2033,12.1892,med,high,short,male,Jackson
+Airedale Terrier,21418.5804,57.41,11.8102,high,high,med,female,Davis
+Airedale Terrier,21820.3266,57.7556,12.6664,high,high,med,male,Russell
+Jack Russel Terrier,5792.1392,,13.2415,high,med,short,female,Cisneros
+Amstaff,28494.2803,,11.4402,med,high,short,male,Cameron
+Jack Russel Terrier,6582.6154,33.9946,14.549,high,med,med,male,Wilson
+Airedale Terrier,17453.903,57.0389,10.8181,high,high,med,female,Moore
+Japanese Chin Dog,3112.0543,23.8328,12.2068,high,high,med,male,Lin
+Airedale Terrier,20489.4241,56.5676,10.5476,high,high,short,male,Leach
+Jack Russel Terrier,6166.7014,34.0775,14.7342,high,low,short,female,Howard
+Amstaff,21183.7804,45.8888,13.0749,med,high,med,male,Powell
+Japanese Chin Dog,2310.0153,23.6481,11.0485,med,high,long,female,Mills
+Jack Russel Terrier,6507.3371,34.7802,12.933,high,med,short,male,Williams
+Amstaff,28190.6012,46.7676,12.7461,med,high,short,female,Gonzalez
+Jack Russel Terrier,6409.2875,34.4371,14.4696,high,med,short,male,Schroeder
+Amstaff,27317.601,,13.2899,med,high,short,female,Hubbard
+Jack Russel Terrier,6081.1709,,13.7299,med,med,short,male,Salinas
+Japanese Chin Dog,2775.7967,24.331,12.4491,med,high,med,male,Hernandez
+Airedale Terrier,20755.1476,56.9902,10.4941,high,high,med,male,Singh
+Amstaff,25474.7461,45.2814,13.4881,high,high,short,female,Davis
+Amstaff,25658.7721,45.9849,13.7828,med,high,short,female,Young
+Japanese Chin Dog,4575.8314,22.4987,13.8148,low,high,med,male,Mayo
+Amstaff,28568.3411,46.2697,13.0505,med,med,short,female,Vega
+Airedale Terrier,22564.3577,56.6248,11.6015,high,high,med,female,Fisher
+Airedale Terrier,19582.1759,56.9092,11.2063,high,high,med,male,Lozano
+Amstaff,28041.6678,46.7179,11.7445,low,high,short,female,Snow
+Amstaff,27110.9889,45.9078,12.3407,med,high,short,female,Palmer
+Amstaff,28375.9485,46.7404,13.2344,med,high,short,male,Brown
+Amstaff,26360.0464,,12.6698,med,high,short,female,Miller
+Japanese Chin Dog,1755.2092,23.1594,13.1002,med,high,med,male,Johnston
+Japanese Chin Dog,4508.0937,22.9424,13.4353,high,high,med,male,Ewing
+Jack Russel Terrier,7046.3454,33.2484,14.5193,high,med,short,female,Riley
+Amstaff,25000.9022,46.6136,13.559,med,high,short,male,Murphy
+Airedale Terrier,21859.7363,57.3781,11.9815,high,med,med,male,Nielsen
+Japanese Chin Dog,3855.1219,23.6112,13.1084,med,high,short,male,Floyd
+Airedale Terrier,23326.2493,,11.8484,high,high,short,female,Dennis
+Japanese Chin Dog,4432.2798,23.7725,13.5815,high,high,med,female,Scott
+Japanese Chin Dog,2785.4537,22.3442,13.4369,med,high,med,female,Castaneda
+Airedale Terrier,20694.0766,57.2445,10.8581,high,high,short,male,Jenkins
+Amstaff,25903.5008,46.3597,12.7739,high,high,short,female,Rivera
+Japanese Chin Dog,2410.8701,21.6657,13.0593,med,high,short,female,Chung
+Airedale Terrier,22606.1681,58.5895,12.4286,high,med,med,male,Sandoval
+Japanese Chin Dog,3171.6298,23.5591,12.8865,med,med,med,female,Lee
+Amstaff,29238.1143,46.8157,13.3561,med,high,short,female,Atkinson
+Amstaff,23341.196,45.3655,12.5817,med,high,med,female,Kathy
+Japanese Chin Dog,3918.7926,,12.3267,low,med,med,male,Cooper
+Japanese Chin Dog,4321.5447,24.4515,12.5373,med,high,short,male,Johnson
+Jack Russel Terrier,5626.5739,33.3294,13.4355,high,med,short,female,Keith
+Japanese Chin Dog,4417.3854,,13.5935,med,high,med,male,Jenkins
+Amstaff,24283.5741,45.5828,13.7038,med,high,short,female,Floyd
+Amstaff,20704.1105,46.4151,13.8626,med,high,short,male,Villegas
+Amstaff,30337.165,46.8815,12.6605,med,high,short,female,Jenkins
+Amstaff,24738.7958,45.7078,13.9115,med,high,short,male,Foster
+Jack Russel Terrier,6311.0942,33.9289,14.4787,high,med,short,female,Johnson
+Amstaff,22402.2932,,12.9318,med,med,short,female,Washington
+Airedale Terrier,17963.3592,,11.3343,high,high,med,female,Ortega
+Jack Russel Terrier,6663.6566,33.4382,15.1032,high,med,short,female,Avila
+Amstaff,20964.395,46.2563,12.663,med,high,short,male,Rodriguez
+Amstaff,17244.365,45.7804,13.4961,low,med,short,female,Lopez
+Jack Russel Terrier,7721.4685,,13.538,high,med,short,male,Kirby
+Japanese Chin Dog,3274.7592,23.3819,12.695,med,high,med,female,Evans
+Amstaff,27551.0136,,12.4287,med,high,short,male,Cohen
+Amstaff,22295.5707,,13.8269,med,high,short,male,Savage
+Jack Russel Terrier,5756.3611,,14.6782,med,med,short,male,Garcia
+Amstaff,21445.0916,46.7483,13.0945,med,high,short,male,Bradley
+Airedale Terrier,24254.8944,57.6613,10.3578,high,high,med,female,Williams
+Amstaff,25512.7745,46.074,13.3188,med,high,short,male,Williams
+Japanese Chin Dog,2780.2886,23.4052,13.8112,med,high,med,female,Gonzalez
+Japanese Chin Dog,3897.6564,23.8104,12.6839,med,high,med,female,Garrett
+Jack Russel Terrier,7196.5371,34.2104,13.8528,high,med,short,male,Smith
+Jack Russel Terrier,6144.6395,33.9084,13.6717,med,med,short,male,Black
+Japanese Chin Dog,4491.1418,,12.5694,med,high,med,female,Sullivan
+Airedale Terrier,20681.4676,57.9942,10.7694,high,high,long,female,Owens
+Amstaff,26594.1815,46.5909,13.4171,med,high,short,female,Shannon
+Amstaff,23064.5092,46.5603,13.1128,med,high,short,female,Andrade
+Amstaff,25931.9572,45.7626,13.2834,med,med,short,male,Ryan
+Amstaff,30287.2471,47.1921,12.6197,med,high,short,male,Ford
+Jack Russel Terrier,6137.0013,34.5105,13.0334,high,med,short,male,Jones
+Jack Russel Terrier,5293.8487,33.1602,13.2519,high,med,short,male,May
+Airedale Terrier,19585.9646,57.3135,11.4092,high,high,med,female,Lee
+Amstaff,24522.3053,46.5807,13.87,med,med,short,female,Johns
+Amstaff,29288.4956,45.4085,12.6622,med,high,short,female,Rodriguez
+Airedale Terrier,20440.476,56.6285,10.6587,high,high,med,male,Bates
+Japanese Chin Dog,3647.1446,24.2414,12.0102,med,high,med,male,Hayes
+Jack Russel Terrier,6707.4029,,14.448,high,med,med,male,Evans
+Japanese Chin Dog,4062.1697,24.0569,12.8958,med,high,short,female,Hendrix
+Airedale Terrier,20980.8248,,12.6181,high,high,med,female,Williams
+Amstaff,24361.7569,46.311,12.3284,med,high,short,male,Villanueva
+Japanese Chin Dog,3245.4122,22.1172,12.6146,med,high,med,male,Deleon
+Japanese Chin Dog,4018.1293,23.8144,12.6937,high,high,med,female,Davis
+Jack Russel Terrier,6235.1147,33.4899,13.8238,high,med,short,male,Hawkins
+Amstaff,31770.9671,46.17,12.3908,med,high,short,female,Hill
+Japanese Chin Dog,4305.0219,25.2244,12.7977,med,high,med,female,Weber
+Amstaff,25637.8878,45.5699,12.3316,med,high,short,male,Smith
+Jack Russel Terrier,6557.6428,33.7863,13.7376,high,med,short,female,Brown
+Japanese Chin Dog,4438.8032,22.5885,14.6252,low,high,long,male,Schaefer
+Japanese Chin Dog,3317.8722,22.6876,12.8345,med,high,med,female,Ferguson
+Japanese Chin Dog,3083.5834,22.6097,12.7256,low,high,med,male,Smith
+Amstaff,28169.6523,46.0448,12.622,med,high,short,female,Morales
+Airedale Terrier,20585.4981,55.8347,12.0945,high,high,med,male,Quinn
+Japanese Chin Dog,3151.6597,24.3021,13.3254,med,high,short,female,Greene
+Amstaff,21482.3286,46.1223,13.9534,med,high,med,male,Wright
+Jack Russel Terrier,6383.5995,33.983,13.3195,high,med,short,male,Dominguez
+Jack Russel Terrier,8495.6275,,13.6657,high,med,short,male,Jones
+Japanese Chin Dog,4976.7942,25.1114,12.9896,med,med,med,male,Weaver
+Airedale Terrier,21239.3095,55.9284,12.1921,high,med,med,male,Adams
+Jack Russel Terrier,6216.6172,33.8372,14.1955,high,med,short,male,Bennett
+Japanese Chin Dog,3440.6775,24.0949,13.2759,med,high,med,male,Brown
+Japanese Chin Dog,4388.914,22.5864,13.4323,high,high,long,male,Diaz
+Airedale Terrier,20961.7729,57.225,10.786,high,high,med,female,Jones
+Japanese Chin Dog,3244.3882,23.442,13.5173,med,med,med,male,Powell
+Airedale Terrier,21593.7368,,10.0068,high,high,med,female,Ortiz
+Japanese Chin Dog,2999.4734,,14.1517,med,high,med,male,Bell
+Japanese Chin Dog,3802.4137,,12.6755,high,high,med,male,Martin
+Jack Russel Terrier,5753.4173,34.5946,14.2481,high,med,short,female,Deleon
+Jack Russel Terrier,7100.4452,34.7572,14.0527,high,med,short,male,Mcdonald
+Jack Russel Terrier,7849.9497,34.758,14.1714,high,med,short,female,Hubbard
+Japanese Chin Dog,2924.6136,23.5739,13.9427,high,high,med,male,Parrish
+Airedale Terrier,20495.1696,56.8956,10.9552,high,high,short,female,Kirk
+Airedale Terrier,19416.7074,57.0466,12.5169,high,high,med,female,Johns
+Japanese Chin Dog,2556.0737,24.8451,12.5971,med,high,med,female,Franklin
+Jack Russel Terrier,6404.1589,35.339,13.8788,high,med,short,female,Brown
+Jack Russel Terrier,5891.5231,33.2344,12.881,high,high,short,female,Thompson
+Airedale Terrier,18761.7395,56.7763,11.9202,high,high,med,male,Mays
+Japanese Chin Dog,6032.0453,,12.4936,med,high,med,male,Rich
+Amstaff,22684.3055,46.9384,14.2338,med,high,short,male,Paul
+Airedale Terrier,18656.5787,56.2653,12.0358,high,high,long,male,Willis
+Jack Russel Terrier,7453.2481,33.7206,14.8328,high,med,med,female,Bond
+Airedale Terrier,15956.0968,56.8204,11.1705,high,high,med,female,Rodgers
+Jack Russel Terrier,4436.7219,34.2904,14.5132,high,med,short,female,Beltran
+Airedale Terrier,19143.5559,57.1157,12.0499,med,high,med,female,Alvarez
+Airedale Terrier,19914.1986,57.2667,9.5837,high,high,med,male,Roberts
+Airedale Terrier,21189.9871,57.2525,11.9291,high,high,med,female,Jones
+Japanese Chin Dog,2109.4438,,13.5404,med,high,med,female,Huerta
+Japanese Chin Dog,2889.5089,23.0556,13.5167,med,high,long,female,Hernandez
+Airedale Terrier,21326.4461,56.1652,12.5242,high,med,med,female,Sherman
+Jack Russel Terrier,6491.3404,34.496,13.646,high,med,short,female,Williams
+Japanese Chin Dog,5259.4092,23.3423,13.1755,high,high,med,female,Love
+Jack Russel Terrier,7768.832,34.101,14.5265,high,med,short,female,Brown
+Japanese Chin Dog,2514.9991,23.0455,12.2485,low,high,med,female,Booker
+Airedale Terrier,17674.7556,58.3317,10.7577,high,high,med,male,Marks
+Amstaff,19713.2654,46.0623,13.1996,low,high,med,female,Sampson
+Jack Russel Terrier,5270.5823,34.9673,14.6396,med,med,short,male,Rosales
+Jack Russel Terrier,6721.5605,33.6776,14.1173,high,low,short,female,Werner
+Amstaff,23736.3964,46.045,12.5571,med,med,med,male,Sanchez
+Amstaff,30060.2628,46.1063,13.3293,med,high,med,male,Gregory
+Japanese Chin Dog,4636.3796,23.6523,12.9218,med,high,med,female,Hayes
+Jack Russel Terrier,6249.4707,34.87,13.4582,high,med,short,female,Bush
+Amstaff,21807.7007,,13.2573,med,high,short,male,Phillip
+Airedale Terrier,19399.8876,57.3855,12.9327,high,high,long,female,Hartman
+Japanese Chin Dog,3730.8034,22.0235,12.3344,med,high,med,male,Silva
+Amstaff,27696.8415,45.3277,12.6231,med,med,short,female,Lucero
+Amstaff,23504.2946,46.5689,12.1986,high,high,med,male,Lawrence
+Airedale Terrier,18084.9376,58.2575,11.8811,high,high,med,male,Brown
+Amstaff,24214.6281,46.2445,13.1702,med,high,short,female,Velazquez
+Japanese Chin Dog,4253.9548,23.8643,12.2599,med,high,med,female,Martinez
+Airedale Terrier,17933.7685,56.6913,11.7916,high,high,med,female,Harris
+Japanese Chin Dog,2707.1025,23.8352,13.6242,med,high,long,male,Reid
+Jack Russel Terrier,6536.6158,33.9711,13.7627,high,med,short,male,Cline
+Airedale Terrier,23182.2893,57.5385,11.2028,high,high,med,male,Robinson
+Jack Russel Terrier,6414.3257,33.2082,13.8586,high,med,short,male,Travis
+Jack Russel Terrier,5223.7558,33.7871,14.5953,high,high,short,male,Hicks
+Airedale Terrier,21568.6845,57.0525,11.9428,high,high,med,male,Rojas
+Jack Russel Terrier,5692.2067,34.7402,14.055,med,high,short,female,Melton
+Japanese Chin Dog,3177.7713,22.7646,12.3322,med,high,long,male,Goodman
+Jack Russel Terrier,8269.923,33.8652,13.1103,high,low,short,female,Wang
+Airedale Terrier,19705.4854,57.158,10.3842,high,high,med,female,Foster
+Amstaff,20715.4189,47.7691,13.8448,med,med,short,male,Collins
+Amstaff,25954.4924,46.1579,12.3497,med,high,short,female,Rowe
+Jack Russel Terrier,5507.7219,34.9317,13.8609,high,med,short,male,Chen
+Jack Russel Terrier,6722.3712,33.7033,13.6804,high,med,short,male,Brown
+Amstaff,22488.9101,45.5983,12.3081,high,high,med,female,Coleman
+Amstaff,25433.8344,,13.0181,med,high,med,male,Wright
+Airedale Terrier,19914.2149,,12.7431,high,high,med,female,Lawson
+Japanese Chin Dog,3218.0563,,11.9986,med,high,med,male,Pacheco
+Amstaff,26433.8644,46.2665,12.0753,high,high,short,male,Taylor
+Amstaff,22837.8046,46.8926,14.2558,high,high,short,male,Jordan
+Jack Russel Terrier,6896.2877,34.5618,14.8869,high,med,med,female,Martin
+Airedale Terrier,21600.2223,56.0888,12.7914,med,med,med,female,Wilson
+Airedale Terrier,21077.2603,,11.4055,high,high,long,female,Green
+Airedale Terrier,22577.4993,,12.3613,high,high,med,female,Wall
+Amstaff,26752.9739,46.3297,13.4816,med,high,short,male,Webb
+Amstaff,22604.4291,45.1119,11.801,low,high,short,male,Alvarez
+Amstaff,28818.2984,,12.4596,med,high,med,female,Townsend
+Jack Russel Terrier,6495.5732,34.5651,13.2631,high,med,short,female,May
+Airedale Terrier,18705.5488,,10.7255,high,high,med,male,Mccullough
+Japanese Chin Dog,2655.4751,,13.641,med,high,med,female,Williams
+Japanese Chin Dog,2749.2725,22.1893,14.4089,med,high,med,male,Wallace
+Airedale Terrier,17652.1295,56.7725,13.3006,high,high,med,female,Leonard
+Amstaff,20490.7971,45.8381,12.2029,med,high,short,female,Jones
+Airedale Terrier,18877.7379,57.2902,11.3651,high,high,med,male,Reyes
+Jack Russel Terrier,7107.4922,34.0045,15.1597,high,med,short,female,Buckley
+Amstaff,21433.4241,45.4803,13.3746,med,high,med,male,Lane
+Airedale Terrier,20570.7473,56.8417,12.25,high,high,med,female,George
+Japanese Chin Dog,3791.9749,22.7314,13.0402,high,high,med,female,Wilkins
+Japanese Chin Dog,3025.5816,23.5723,12.9412,med,high,med,male,Bryan
+Amstaff,22945.6367,45.9025,11.8332,med,high,med,female,Ewing
+Jack Russel Terrier,7282.9467,33.7194,13.3003,high,med,short,female,Williams
+Airedale Terrier,21220.3611,57.38,11.8144,high,high,med,female,Burns
+Airedale Terrier,19261.1479,,12.8704,high,high,med,female,Garcia
+Japanese Chin Dog,3723.9941,23.0915,11.914,med,high,med,female,Johnson
+Japanese Chin Dog,2885.1431,23.5945,13.1018,low,high,med,female,Carr
+Airedale Terrier,19146.2076,56.6641,10.9232,high,high,med,male,Morales
+Jack Russel Terrier,5842.7518,33.8915,13.2922,high,med,short,male,Smith
+Jack Russel Terrier,6353.7175,33.7537,14.0258,high,med,short,male,Haynes
+Airedale Terrier,17816.7054,56.4001,9.8063,high,high,med,male,Powell
+Jack Russel Terrier,7045.5946,34.3195,13.9829,high,med,short,male,Wilkerson
+Airedale Terrier,20717.6505,56.8628,11.1583,high,high,med,female,Meyer
+Jack Russel Terrier,6523.4895,33.6395,14.2812,high,med,short,female,Hammond
+Japanese Chin Dog,2312.0588,24.7288,13.4313,med,high,med,male,Walsh
+Airedale Terrier,20576.951,,13.7037,med,high,med,female,Hooper
+Jack Russel Terrier,6050.5581,33.1626,13.3379,high,med,short,female,Daniel
+Japanese Chin Dog,4069.3814,,12.8935,med,high,med,male,Turner
+Airedale Terrier,19871.8979,57.6852,12.5352,high,med,med,female,Kerr
+Airedale Terrier,22016.9681,57.5795,11.1742,high,high,med,male,Mccarthy
+Airedale Terrier,20875.6249,56.9949,10.8875,high,high,med,female,Miller
+Airedale Terrier,20095.3228,56.8892,11.7891,high,high,med,female,Williams
+Japanese Chin Dog,3965.4473,,13.6646,med,high,long,male,Carroll
+Jack Russel Terrier,5439.3055,33.8163,15.0021,high,high,short,female,Yates
+Airedale Terrier,19868.6553,58.0382,11.1025,high,high,med,male,Evans
+Airedale Terrier,20399.6749,56.8111,11.1284,high,high,long,female,Wilson
+Amstaff,21742.323,45.8453,13.8104,med,high,short,female,Chambers
+Japanese Chin Dog,3322.0281,22.1223,14.0722,med,high,med,female,Callahan
+Airedale Terrier,20968.3315,57.5062,11.6412,med,high,med,male,Mitchell
+Airedale Terrier,20886.001,57.6418,10.9973,high,high,med,female,Stokes
+Airedale Terrier,20838.9777,56.3968,10.059,high,high,long,male,Holt
+Jack Russel Terrier,5869.252,33.8828,14.6462,high,med,short,male,Lowery
+Airedale Terrier,21078.4364,57.1065,11.8223,high,high,med,female,Murray
+Amstaff,23448.2457,45.5142,11.9396,med,high,short,female,Robbins
+Airedale Terrier,19016.9378,,12.7615,high,high,med,male,Taylor
+Japanese Chin Dog,2652.1231,,13.8487,med,med,short,male,Swanson
+Airedale Terrier,20425.895,57.1913,11.8786,high,high,med,male,Rodriguez
+Airedale Terrier,20423.6089,56.3699,11.0156,high,high,long,female,Rollins
+Japanese Chin Dog,3476.2953,24.4311,12.2138,med,high,med,male,West
+Jack Russel Terrier,7651.2679,33.1301,15.1513,high,med,short,male,Rivers
+Airedale Terrier,20193.0726,57.22,11.7851,high,high,med,female,Cory
+Jack Russel Terrier,4631.1815,34.1698,13.8013,high,med,med,male,Williams
+Japanese Chin Dog,5021.7591,22.7807,13.1099,med,high,med,female,Castillo
+Amstaff,26788.8038,,11.8802,med,high,short,female,Goodman
+Japanese Chin Dog,3849.4852,23.2291,12.5916,med,med,med,male,Bird
+Japanese Chin Dog,3261.5459,,12.2778,med,high,med,female,Todd
+Jack Russel Terrier,5571.1775,34.6579,14.3029,med,med,short,female,Bryant
+Jack Russel Terrier,7995.3268,,13.6049,high,med,med,male,Garcia
+Jack Russel Terrier,5948.5059,34.7365,13.7802,high,med,short,male,Burch
+Airedale Terrier,18792.6093,57.1426,10.1229,high,high,med,female,Kerr
+Amstaff,24437.3752,,13.2508,med,high,short,female,Conner
+Jack Russel Terrier,7983.6883,33.6368,13.9609,high,med,short,female,Kelly
+Airedale Terrier,20261.3043,,11.155,high,high,med,female,Hicks
+Jack Russel Terrier,7622.8605,34.6709,15.2593,high,med,med,female,Vargas
+Amstaff,26207.9324,44.9275,12.3865,med,high,short,female,Willis
+Airedale Terrier,21559.0194,56.4071,13.5149,high,high,long,male,Whitaker
+Amstaff,32269.6986,45.7894,14.0857,high,high,short,male,Hood
+Jack Russel Terrier,6737.2115,34.0025,15.0812,high,med,short,male,Brown
+Amstaff,27998.2649,46.9932,12.7764,med,high,short,female,Maldonado
+Japanese Chin Dog,4246.2775,23.964,14.4275,med,high,med,male,Wheeler
+Airedale Terrier,21257.4173,56.6355,11.3367,high,high,med,female,Wade
+Airedale Terrier,20154.1496,57.7854,11.2645,high,high,med,male,Bartlett
+Amstaff,22398.3514,45.7028,11.9272,med,high,short,male,Garrison
+Japanese Chin Dog,4441.7463,,13.3987,med,high,short,female,Velazquez
+Amstaff,24984.0139,45.4473,11.9697,med,high,short,male,Williams
+Japanese Chin Dog,3215.5232,,13.1949,med,high,med,female,Gallegos
+Airedale Terrier,20246.6427,55.4184,10.7261,high,high,med,female,Phillips
+Amstaff,22337.274,,12.7928,med,high,short,male,Brooks
+Jack Russel Terrier,6254.4439,34.0604,14.3014,high,med,med,male,Thompson
+Amstaff,28961.119,,13.7145,med,high,short,male,Hill
+Japanese Chin Dog,2300.0748,,13.1967,med,high,med,female,Wilson
+Jack Russel Terrier,5986.6926,,13.9552,med,med,short,male,Schneider
+Amstaff,24158.4156,46.1298,13.612,med,high,short,female,Hammond
+Jack Russel Terrier,7491.785,32.5189,14.4524,high,med,short,female,Jimenez
+Amstaff,25801.2323,46.3468,11.0096,med,high,short,female,Jensen
+Japanese Chin Dog,2857.1232,24.1627,13.4342,med,high,med,male,Morris
+Airedale Terrier,20191.51,57.7137,10.9333,high,high,med,male,Noble
+Japanese Chin Dog,3650.4904,22.411,13.8753,med,high,med,male,Clark
+Jack Russel Terrier,6928.7159,33.7548,14.3756,high,med,short,male,Sanchez
+Jack Russel Terrier,7295.7051,,13.8493,high,med,short,female,Quinn
+Amstaff,24419.1988,45.2523,12.9903,med,high,short,male,Berry
+Japanese Chin Dog,4025.5036,24.4146,12.3918,low,high,med,male,Curtis
+Jack Russel Terrier,5929.3877,33.9582,14.5859,high,med,short,female,Anderson
+Amstaff,24912.1162,45.7189,11.4454,med,high,short,female,Davis
+Airedale Terrier,19629.7824,57.5069,12.077,high,high,short,female,Ryan
+Japanese Chin Dog,3829.2703,24.2387,13.7233,med,high,med,female,Madden
+Jack Russel Terrier,7310.1761,34.5465,13.7252,high,low,short,male,Marco
+Japanese Chin Dog,3183.3852,22.5465,13.385,high,high,med,female,Flynn
+Airedale Terrier,23231.8806,56.9873,10.4777,high,high,med,female,Mcmahon
+Japanese Chin Dog,3487.7993,23.3644,14.0199,med,high,med,male,Harper
+Japanese Chin Dog,5123.0321,,12.9024,med,high,med,male,Davis
+Jack Russel Terrier,4873.2492,33.5665,15.2302,high,med,short,male,Carr
+Amstaff,27875.3859,47.1698,12.8532,high,med,short,male,Stanley
+Amstaff,25567.8026,46.5312,13.947,med,high,short,female,Murphy
+Jack Russel Terrier,5169.1258,33.5776,14.887,med,med,short,male,White
+Japanese Chin Dog,4558.9741,21.9173,12.4159,med,high,med,male,Stevens
+Jack Russel Terrier,7102.2356,33.6805,13.5225,high,med,short,male,Green
+Airedale Terrier,22075.4321,,10.2271,high,med,med,male,Hoffman
+Jack Russel Terrier,7053.0397,34.1621,14.2866,high,med,short,female,Miller
+Amstaff,19820.3195,46.2279,13.3591,med,high,short,female,Anderson
+Amstaff,19497.774,46.5872,12.6473,med,high,med,male,Kelly
+Japanese Chin Dog,3313.939,23.9591,12.9572,med,high,med,male,Armstrong
+Amstaff,25804.9178,45.6661,14.1128,med,med,short,female,Hall
+Japanese Chin Dog,3488.4061,,13.3802,med,high,med,female,Wright
+Japanese Chin Dog,3572.8643,24.3119,13.1041,med,high,med,male,Martinez
+Japanese Chin Dog,4144.7121,22.2132,12.6237,med,high,short,female,Nguyen
+Japanese Chin Dog,3061.9381,22.1102,11.9058,med,med,med,male,Wise
+Japanese Chin Dog,2817.9327,23.4534,12.0464,med,high,short,female,Sandoval
+Jack Russel Terrier,6718.0437,33.5706,15.1679,high,med,short,male,Barker
+Japanese Chin Dog,5305.3683,21.798,13.3215,med,high,med,female,Gibbs
+Airedale Terrier,21187.0676,56.8459,11.3677,high,high,med,female,Johnson
+Airedale Terrier,19049.477,58.1649,10.4144,high,high,med,female,Hamilton
+Jack Russel Terrier,6264.8459,34.3156,14.7541,high,med,short,male,Pham
+Amstaff,25630.4084,45.3039,12.852,med,high,short,female,Thompson
+Airedale Terrier,20645.3404,57.2494,12.1077,high,high,short,female,Holden
+Japanese Chin Dog,4050.8513,23.7174,14.0269,med,high,long,male,Roberson
+Amstaff,22989.2755,46.509,13.175,med,med,short,female,Key
+Airedale Terrier,20114.701,56.5578,10.2557,high,high,med,female,Stout
+Airedale Terrier,20641.0258,,10.9909,high,med,med,male,Brown
+Japanese Chin Dog,4225.1028,,12.1644,med,high,med,male,Marsh
+Japanese Chin Dog,3397.5718,23.794,12.8298,med,high,med,female,Barnett
+Airedale Terrier,19924.0711,,12.3158,high,high,med,female,Richmond
+Airedale Terrier,22496.8244,56.6696,11.7536,high,high,med,male,Young
+Airedale Terrier,20315.0828,57.0091,10.7964,med,high,med,female,Kelley
+Amstaff,22650.1541,46.4842,13.8699,med,high,short,female,Hamilton
+Amstaff,21180.7148,46.3626,13.0648,med,high,short,male,Blankenship
+Japanese Chin Dog,3586.0905,,12.9351,med,high,med,male,Oliver
+Airedale Terrier,22420.4534,56.6885,13.0739,high,high,med,female,Austin
+Airedale Terrier,19384.6178,,11.1839,high,high,med,female,Johnson
+Japanese Chin Dog,3041.9261,25.0687,13.6181,med,high,med,female,Robinson
+Amstaff,20813.6963,45.3927,12.8794,med,high,short,male,Nelson
+Amstaff,29683.9668,44.7619,13.3593,high,med,med,male,Chavez
+Japanese Chin Dog,4785.1323,24.5694,12.8127,med,high,med,female,Evans
+Airedale Terrier,20821.5589,56.8193,11.8746,med,high,med,male,Kelly
+Jack Russel Terrier,6744.0543,33.7195,15.0385,high,high,short,male,Baker
+Jack Russel Terrier,7321.4703,33.9406,14.5578,med,med,short,male,Newman
+Jack Russel Terrier,8430.6722,34.4938,13.971,high,low,short,female,Cummings
+Jack Russel Terrier,5904.136,34.5187,15.0292,high,med,short,female,Duffy
+Airedale Terrier,17355.127,,13.3939,high,high,med,female,Rodriguez
+Airedale Terrier,22002.8902,56.8284,11.7032,high,high,med,female,Carr
+Airedale Terrier,18867.0633,57.502,10.8387,high,high,med,male,Kennedy
+Amstaff,25400.9026,46.9265,13.413,med,high,short,male,Ross
+Jack Russel Terrier,6842.1938,34.5596,14.3438,med,high,short,female,Potter
+Japanese Chin Dog,3461.927,23.908,13.4123,high,high,med,male,Matthews
+Japanese Chin Dog,4371.743,24.3794,12.4123,med,high,med,female,Brown
+Japanese Chin Dog,2503.4083,23.4736,12.5101,low,high,med,female,Gordon
+Airedale Terrier,22383.1262,56.8864,11.2993,high,high,med,female,Wheeler
+Japanese Chin Dog,3223.6081,23.7967,13.8658,med,high,med,female,Farrell
+Airedale Terrier,21938.986,55.759,11.8465,high,high,med,male,Stone
+Japanese Chin Dog,3057.9386,23.856,13.6542,low,med,med,female,Miller
+Airedale Terrier,20571.1207,56.8655,13.5611,high,high,med,female,Harding
+Japanese Chin Dog,3640.4277,22.9391,12.4879,med,med,med,female,Mccall
+Amstaff,26405.3138,46.1542,12.689,med,high,short,male,Hughes
+Amstaff,19938.715,45.4859,12.5968,med,high,short,male,Tran
+Amstaff,26335.5428,45.7848,12.6987,high,high,short,male,Dean
+Amstaff,18962.2762,46.128,13.1511,low,high,short,female,Mary
+Jack Russel Terrier,7510.1039,34.4252,14.6765,high,med,med,female,Wilson
+Japanese Chin Dog,2643.424,23.9525,12.582,high,high,med,male,Gallagher
+Japanese Chin Dog,4359.4218,23.9025,12.8715,med,high,med,female,Shepherd
+Amstaff,30654.4015,46.5861,12.5234,med,med,short,female,Gomez
+Japanese Chin Dog,4384.3142,23.2626,13.0857,med,high,long,female,Young
+Airedale Terrier,21634.6643,57.386,11.1976,high,high,med,male,Smith
+Japanese Chin Dog,4300.9407,20.7671,11.2836,low,high,med,female,Lucas
+Japanese Chin Dog,4893.7967,23.569,12.8135,med,high,long,male,Brady
+Jack Russel Terrier,4814.0036,,13.8786,high,med,short,male,Gonzales
+Japanese Chin Dog,3305.0236,22.9887,12.2646,med,high,long,male,Ward
+Airedale Terrier,19224.732,,11.5794,high,high,short,male,Baker
+Amstaff,24110.332,45.7894,12.6691,med,high,short,male,Martin
+Airedale Terrier,20225.8344,57.5279,11.5194,high,med,short,female,Ewing
+Amstaff,23075.0273,46.5808,13.2006,high,high,short,female,Prince
+Amstaff,24308.3289,45.9979,12.6723,high,high,short,male,Rodriguez
+Amstaff,26075.595,45.7083,12.8591,med,high,short,female,Clark
+Japanese Chin Dog,4199.9089,24.0617,13.2731,high,high,med,male,West
+Jack Russel Terrier,6359.8397,33.4392,14.5977,high,med,short,male,Thomas
+Japanese Chin Dog,2302.4157,22.0626,13.7087,high,high,med,female,Hopkins
+Japanese Chin Dog,2551.0676,23.4368,13.3781,med,high,med,female,Hernandez
+Japanese Chin Dog,3054.0842,24.1045,12.6764,med,high,long,female,Yang
+Japanese Chin Dog,3139.6671,23.0451,14.3536,med,med,med,female,Hamilton
+Airedale Terrier,19370.7994,56.9003,11.59,high,high,med,female,Rodgers
+Japanese Chin Dog,3466.7449,23.3658,12.8657,med,high,short,male,Jones
+Amstaff,25184.6155,,13.4487,med,high,short,male,Pope
+Airedale Terrier,20857.3752,57.9796,10.9785,high,high,med,female,Zhang
+Jack Russel Terrier,5504.5211,34.0882,14.3934,high,med,short,female,Rogers
+Amstaff,29298.4155,44.9707,12.8908,med,high,short,female,Logan
+Airedale Terrier,22501.3068,56.7185,12.0414,high,high,med,female,Brown
+Airedale Terrier,20720.1385,57.2482,13.1646,high,high,med,male,Smith
+Airedale Terrier,21946.5048,,11.9068,high,high,med,female,Simmons
+Jack Russel Terrier,5784.1336,35.0325,13.2767,high,med,short,female,Rhodes
+Japanese Chin Dog,3157.3596,,13.3901,med,high,med,male,Le
+Amstaff,24554.6389,,12.4399,high,high,short,male,Smith
+Airedale Terrier,18840.3464,56.0667,12.6549,high,high,short,male,Sanchez
+Airedale Terrier,23348.3666,57.3149,10.3226,high,high,med,male,Brennan
+Japanese Chin Dog,2217.753,,13.3007,med,high,med,male,Hicks
+Airedale Terrier,22172.078,56.8828,11.9753,high,high,med,male,Gutierrez
+Jack Russel Terrier,6560.8149,,13.4558,high,high,short,female,Valenzuela
+Airedale Terrier,23193.0761,56.2671,11.8973,high,high,long,female,Wallace
+Jack Russel Terrier,5996.8896,33.9232,14.1205,high,high,short,female,Martin
+Jack Russel Terrier,6380.7152,34.9295,13.1593,high,med,med,male,Moses
+Amstaff,25909.6127,45.4658,13.2232,med,high,short,male,Robinson
+Japanese Chin Dog,4254.2843,,13.0954,med,high,short,female,Franco
+Japanese Chin Dog,2834.4779,22.6154,12.1548,med,high,short,male,Parker
+Japanese Chin Dog,3526.6839,24.165,12.5639,low,high,med,female,Garcia
+Jack Russel Terrier,7693.0979,34.971,14.6306,med,med,short,male,Gentry
+Japanese Chin Dog,3948.4704,23.7186,12.5121,med,high,long,male,Mullins
+Amstaff,23596.0378,47.0352,12.9046,med,high,short,male,Ward
+Airedale Terrier,18307.4035,56.7499,11.2112,high,high,med,male,Andrews
+Japanese Chin Dog,3887.9046,23.2791,12.978,med,high,med,male,Davis
+Jack Russel Terrier,6772.8668,34.3148,13.9306,high,med,short,female,Young
+Amstaff,25597.0364,45.5463,13.2918,med,high,short,male,Dodson
+Japanese Chin Dog,2802.1706,23.1112,11.5755,med,high,med,female,Grant
+Airedale Terrier,21521.6629,56.9519,12.176,high,high,med,male,Clark
+Jack Russel Terrier,6520.9503,,13.1238,high,med,short,female,Davis
+Airedale Terrier,17395.6757,56.1325,11.3101,high,high,med,male,Clark
+Amstaff,21372.8302,46.1107,13.9884,med,high,short,female,Miller
+Jack Russel Terrier,7697.8911,34.7206,14.358,high,med,short,female,Adkins
+Amstaff,22802.5195,46.4713,11.7121,med,high,short,female,Brown
+Airedale Terrier,21093.1512,55.8914,11.2719,high,high,med,female,Lowery
+Amstaff,21730.0788,44.2211,13.4843,med,high,short,female,Paul
+Amstaff,23359.3313,46.9303,13.1586,med,high,short,male,Burke
+Japanese Chin Dog,3052.9034,23.8998,12.6686,med,high,med,male,Rodriguez
+Airedale Terrier,18365.9073,56.8521,9.979,high,high,med,female,Grant
+Airedale Terrier,20526.7326,58.1964,10.4442,high,high,med,female,Jacobs
+Amstaff,24730.9504,45.8925,12.5326,med,high,short,male,Bennett
+Amstaff,25346.5087,46.3611,13.1143,med,high,med,male,Nicole
+Amstaff,26888.9881,45.8688,11.8872,med,high,short,female,Thompson
+Airedale Terrier,19031.4122,56.9684,11.9134,high,high,med,male,Tucker
+Jack Russel Terrier,5779.5407,34.0441,13.6894,high,med,med,female,Morrison
+Amstaff,23004.2692,,14.1773,med,high,short,male,Solis
+Jack Russel Terrier,7552.485,33.4588,13.1356,high,med,short,female,Schneider
+Japanese Chin Dog,2893.3937,24.49,12.6669,med,high,med,male,Wright
+Amstaff,26320.5286,,13.1573,med,med,short,male,Garrison
+Airedale Terrier,18702.1155,,11.2167,high,high,med,male,Hall
+Airedale Terrier,19883.0609,56.2407,10.0592,high,high,med,male,Garcia
+Airedale Terrier,22833.6345,56.415,11.1186,high,high,med,male,Richards
+Jack Russel Terrier,5750.0668,33.6644,12.7832,high,med,short,male,Meyer
+Airedale Terrier,19744.0117,57.0727,11.1518,high,high,med,female,Williamson
+Jack Russel Terrier,8247.5374,34.0576,14.4414,high,med,short,female,Campbell
+Airedale Terrier,20721.5934,56.5113,10.2893,med,med,med,male,Allen
+Japanese Chin Dog,2834.5135,25.5203,13.215,med,high,med,female,Brown
+Japanese Chin Dog,3504.1936,,12.9661,med,high,med,female,Lopez
+Amstaff,25809.2364,,13.4281,med,high,short,male,Guzman
+Airedale Terrier,19591.5992,57.2472,10.8916,high,high,med,male,Walsh
+Amstaff,18686.3345,45.3767,14.0445,med,high,short,male,Watkins
+Japanese Chin Dog,3912.0796,,13.3808,med,high,med,female,Evans
+Amstaff,26041.6055,46.6278,13.3191,med,high,short,male,Allen
+Airedale Terrier,18839.1797,58.3153,11.2767,high,high,med,male,Ponce
+Airedale Terrier,20360.9695,56.4615,9.9413,high,med,med,female,Walker
+Jack Russel Terrier,6774.7015,33.4219,12.7499,high,low,short,male,Smith
+Amstaff,26324.7717,,13.2945,med,high,short,male,Browning
+Airedale Terrier,20060.5597,57.323,12.826,high,med,med,female,Mcguire
+Amstaff,23780.3438,44.6996,12.7478,high,high,short,male,Dunn
+Amstaff,15826.3836,46.2619,13.5746,med,high,med,female,Robbins
+Airedale Terrier,22362.1541,57.7317,12.0063,high,high,med,male,Wood
+Amstaff,34004.5971,46.2672,11.086,low,high,short,female,Martinez
+Japanese Chin Dog,1014.8254,24.1323,14.0263,med,high,med,male,Rodriguez
+Amstaff,22315.029,44.7683,12.4906,med,high,short,female,Taylor
+Amstaff,23877.2199,45.5753,12.9193,med,high,short,female,Hall
+Amstaff,19627.4149,,13.7971,high,med,short,female,Cohen
+Airedale Terrier,21449.7684,56.498,11.8523,high,high,med,female,Johnson
+Amstaff,25028.5926,45.5417,14.0451,med,high,med,male,Morris
+Jack Russel Terrier,6832.8165,35.3917,13.5737,high,low,short,female,Holmes
+Airedale Terrier,19307.1252,55.8738,10.1006,high,med,long,female,Benson
+Japanese Chin Dog,4463.8089,22.6971,13.7435,med,high,med,male,Martinez
+Amstaff,24519.2237,45.6185,13.3887,med,high,short,female,Freeman
+Amstaff,27067.1321,46.1662,13.001,med,high,short,female,Hurst
+Jack Russel Terrier,6804.2548,34.2892,14.4611,high,med,med,female,Vazquez
+Japanese Chin Dog,3329.3835,22.8857,13.0749,high,high,med,male,Coleman
+Airedale Terrier,19406.8938,56.5064,12.6794,med,high,short,male,Nunez
+Jack Russel Terrier,6291.3478,,14.4842,high,med,short,female,Wiggins
+Jack Russel Terrier,7028.5571,32.3837,12.919,high,med,short,male,Smith
+Airedale Terrier,21300.7873,,12.3245,high,high,med,male,Trujillo
+Jack Russel Terrier,7520.2451,34.138,14.0453,high,med,med,male,Miller
+Airedale Terrier,20140.9376,56.8705,10.6858,high,high,med,male,Wilson
+Jack Russel Terrier,5579.5613,35.0406,14.592,high,med,short,female,Small
+Jack Russel Terrier,5567.1939,,14.3563,high,med,med,female,Terry
+Amstaff,32750.6976,45.7473,13.2502,med,high,short,female,Zamora
+Japanese Chin Dog,3245.8523,23.9709,14.7407,low,high,long,female,Spencer
+Airedale Terrier,20111.0845,,12.8537,high,high,med,male,Hammond
+Amstaff,26889.0454,45.0452,13.4642,med,high,short,female,Garrett
+Jack Russel Terrier,6494.598,33.3659,14.6975,high,high,short,female,Jordan
+Japanese Chin Dog,2822.045,,13.5173,med,high,med,male,Blake
+Jack Russel Terrier,6697.9012,34.2544,14.8253,high,med,short,male,Wilson
+Jack Russel Terrier,6414.1095,,14.085,high,high,short,female,Davis
+Jack Russel Terrier,5919.8215,33.7097,14.0596,high,high,short,female,Sutton
+Japanese Chin Dog,3864.4418,22.0938,12.9296,med,high,med,male,Zimmerman
+Japanese Chin Dog,3376.8113,23.2976,12.8264,high,high,med,male,Anderson
+Jack Russel Terrier,5564.2432,34.1823,13.7618,med,med,short,male,Rodgers
+Airedale Terrier,21371.799,,10.9292,high,high,long,female,Pham
+Jack Russel Terrier,5764.2759,34.862,14.001,med,med,short,male,Allen
+Amstaff,25448.8278,45.8674,12.9841,med,high,short,female,Stone
+Jack Russel Terrier,6846.4427,34.1148,12.8862,high,med,short,male,Small
+Japanese Chin Dog,2507.3511,24.854,12.9828,med,high,med,female,Salinas
+Airedale Terrier,20532.6255,56.7453,11.3782,high,high,med,male,Harris
+Amstaff,29530.9875,,13.4211,med,high,short,female,Allen
+Airedale Terrier,19649.7438,57.326,11.4533,high,high,med,male,Medina
+Jack Russel Terrier,6947.2011,33.3093,14.6168,high,med,short,female,Fuller
+Japanese Chin Dog,4251.8254,22.3008,13.8827,med,high,med,female,Brooks
+Japanese Chin Dog,4018.6646,,12.1601,med,high,med,female,Jackson
+Airedale Terrier,22840.2635,57.7675,13.4266,high,high,long,female,Hood
+Airedale Terrier,21481.5049,56.468,10.6387,high,high,med,male,Jordan
+Jack Russel Terrier,6151.0624,33.9225,14.8395,high,med,short,male,Keller
+Japanese Chin Dog,3463.3516,23.7797,12.8597,med,high,med,female,Watkins
+Jack Russel Terrier,6171.0919,35.3853,14.6401,high,med,short,female,Garza
+Amstaff,26243.7051,45.72,13.944,med,high,short,female,Clay
+Jack Russel Terrier,7359.7005,,14.3349,high,med,short,female,Burch
+Jack Russel Terrier,7044.877,33.2823,13.7095,med,high,short,male,Miller
+Jack Russel Terrier,8242.0995,,14.4195,high,med,short,female,Jacobs
+Japanese Chin Dog,1799.9568,23.536,13.2662,med,high,med,female,Beasley
+Airedale Terrier,21001.4817,,11.7941,high,high,med,male,Lara
+Jack Russel Terrier,5682.5588,34.6835,14.0496,high,med,short,male,Luna
+Amstaff,23171.5004,,13.6089,med,med,short,female,White
+Airedale Terrier,20222.3356,55.9157,10.9204,high,high,short,male,Marsh
+Japanese Chin Dog,3440.2602,25.2786,12.6816,med,high,med,female,Hodges
+Japanese Chin Dog,3955.6887,24.6011,12.6863,low,high,med,male,Weaver
+Airedale Terrier,18732.3646,57.3893,12.6832,high,high,long,female,Garza
+Jack Russel Terrier,7119.4747,34.1219,14.2229,high,med,short,male,Bonilla
+Amstaff,23720.1898,46.3601,13.6455,med,high,short,female,Cortez
+Amstaff,29395.5686,45.6517,13.1638,med,high,short,male,Powell
+Airedale Terrier,19719.1882,55.932,10.6215,high,high,med,male,Brooks
+Jack Russel Terrier,5970.8319,35.2328,14.2519,high,med,short,male,Brown
+Jack Russel Terrier,6381.7138,,13.6214,high,med,med,male,Hays
+Amstaff,26653.2263,,12.1994,med,high,short,female,Hunter
+Japanese Chin Dog,3777.9764,22.8194,13.0449,med,med,med,male,Hurst
+Airedale Terrier,19953.7465,,12.2612,med,high,med,male,Contreras
+Amstaff,26090.2209,46.2381,13.7917,med,high,short,male,Roman
+Japanese Chin Dog,3867.553,23.8388,13.416,high,high,med,female,Anderson
+Jack Russel Terrier,5424.9377,,14.6786,high,med,short,male,Boyd
+Japanese Chin Dog,4593.9093,23.5536,12.7535,high,high,med,male,Ford
+Airedale Terrier,21317.6184,57.6706,12.3638,high,high,med,female,Gutierrez
+Amstaff,28818.3028,,13.1546,med,high,short,male,Delgado
+Airedale Terrier,20453.6196,55.8408,11.9603,high,high,short,female,Lopez
+Japanese Chin Dog,3318.1739,,14.1696,med,med,med,male,Soto
+Jack Russel Terrier,5714.6779,,14.4161,high,med,short,female,Jackson
+Japanese Chin Dog,3032.5346,23.7134,12.8748,med,high,med,male,Perez
+Airedale Terrier,21028.7204,57.8224,11.4789,high,high,med,female,Martin
+Japanese Chin Dog,2098.196,24.1584,12.616,med,high,med,male,Kathy
+Jack Russel Terrier,6974.9779,33.4589,12.7226,high,med,short,female,Nelson
+Japanese Chin Dog,3293.825,23.1888,13.3372,med,high,med,male,Weiss
+Japanese Chin Dog,4322.4719,22.6385,13.2519,med,high,med,female,Lynn
+Japanese Chin Dog,2501.7604,25.4943,13.2511,med,high,med,female,Manning
+Japanese Chin Dog,2998.5513,23.6839,13.4537,med,high,med,female,Stephens
+Amstaff,23183.2176,45.1793,13.2884,med,high,med,male,Gray
+Jack Russel Terrier,5239.6975,33.0274,14.4288,high,med,short,female,Diaz
+Japanese Chin Dog,4261.4867,23.4275,13.1802,med,high,med,female,Jones
+Amstaff,31345.9167,45.4468,12.0172,med,high,short,female,Phillips
+Amstaff,22812.8383,46.3893,13.4588,med,med,short,male,Chapman
+Airedale Terrier,22412.6024,57.0506,10.5564,high,high,med,male,Davis
+Airedale Terrier,22031.5861,,10.6461,high,high,med,male,Smith
+Airedale Terrier,18703.6189,58.0532,12.8494,high,high,med,female,Chase
+Jack Russel Terrier,6881.8018,34.9228,12.3955,high,med,short,female,Howard
+Amstaff,21998.0254,47.1495,13.406,med,high,short,male,Mark
+Japanese Chin Dog,4592.2704,23.0932,13.4363,med,high,med,female,Jackson
+Amstaff,28431.9238,,12.427,med,high,short,female,Miller
+Amstaff,23408.8006,46.1581,12.1426,low,high,short,male,Wright
+Jack Russel Terrier,7148.2268,33.6492,14.3133,high,med,med,male,Lee
+Jack Russel Terrier,6902.8648,33.9933,14.3014,high,med,short,female,Clark
+Amstaff,30788.7234,,11.0963,med,high,short,male,Brooks
+Japanese Chin Dog,4408.3693,23.889,12.1842,med,med,med,female,Nguyen
+Amstaff,24828.36,46.4323,13.1463,med,high,short,male,Taylor
+Amstaff,24458.6382,45.8152,13.3526,med,high,short,female,Rose
+Airedale Terrier,20864.9916,57.008,11.2678,high,high,med,female,Sanchez
+Japanese Chin Dog,4835.4085,24.1382,12.5264,med,high,med,female,Abbott
+Airedale Terrier,18044.1208,57.4143,11.4053,high,high,short,female,Knapp
+Amstaff,27143.9005,46.0482,13.9738,med,high,short,male,Clark
+Japanese Chin Dog,2164.6722,,12.7936,med,high,med,female,Parker
+Amstaff,26077.2222,45.3697,13.428,med,med,short,female,Obrien
+Amstaff,28382.8719,45.5783,13.6518,high,high,short,female,Johnson
+Amstaff,24601.5202,45.7185,12.5839,med,high,short,female,Todd
+Jack Russel Terrier,7296.758,34.2463,14.4016,high,med,short,female,Rivers
+Airedale Terrier,18744.5385,57.0588,12.2237,high,high,med,female,Poole
+Amstaff,30013.7357,45.1672,13.5636,med,high,short,male,Fisher
+Jack Russel Terrier,7185.856,33.4694,14.5482,high,med,med,male,Kennedy
+Amstaff,22776.2066,,11.7984,med,high,short,male,Thomas
+Japanese Chin Dog,4416.98,,13.0962,med,high,med,male,Carlson
+Jack Russel Terrier,4607.7535,33.0604,14.2676,high,med,short,female,Wilson
+Airedale Terrier,20036.039,56.4186,12.8875,high,high,short,female,Fisher
+Amstaff,28658.6252,44.7661,13.2208,high,high,short,male,Smith
+Japanese Chin Dog,3623.8611,23.3363,13.2695,med,high,med,female,Jones
+Japanese Chin Dog,4451.112,21.7619,11.7707,low,high,med,male,Griffin
+Airedale Terrier,21338.1127,57.2319,12.066,high,med,short,female,Juan
+Jack Russel Terrier,6234.54,,13.3375,med,med,short,female,Wright
+Jack Russel Terrier,5501.4451,33.9002,12.8227,high,med,short,male,Roberts
+Jack Russel Terrier,7196.29,33.3276,13.8438,high,med,short,female,Jenkins
+Japanese Chin Dog,5265.6615,23.4266,13.1239,med,high,med,female,Ruiz
+Airedale Terrier,20200.5399,56.0648,11.4522,high,high,short,male,Sandoval
+Japanese Chin Dog,2365.3509,,13.3574,low,high,med,male,Green
+Amstaff,29642.3194,45.4019,12.278,high,high,short,female,Turner
+Jack Russel Terrier,5846.1604,34.1988,15.0945,high,high,short,male,Nolan
+Amstaff,25969.849,,12.756,med,high,short,female,Stevens
+Amstaff,21253.3218,46.2059,14.3905,med,high,short,male,Perry
+Jack Russel Terrier,6799.4678,33.9653,14.0878,high,med,short,female,John
+Japanese Chin Dog,3705.4361,22.9755,11.766,med,high,med,male,Baldwin
+Airedale Terrier,19314.866,56.8802,12.6111,med,med,med,male,Scott
+Japanese Chin Dog,2814.8724,,13.6501,med,high,short,male,Chavez
+Amstaff,28475.2145,46.9427,13.6215,med,high,med,male,Day
+Amstaff,27876.8159,45.6947,12.4812,med,high,short,female,Landry
+Japanese Chin Dog,4511.7451,24.4151,12.6904,high,med,long,female,Jackson
+Amstaff,24195.5125,46.6165,11.9438,med,high,short,male,Sullivan
+Amstaff,28956.9025,,12.704,med,high,short,female,Miller
+Jack Russel Terrier,7329.8579,,13.4036,high,med,med,female,Odom
+Amstaff,22131.2034,46.2486,12.3619,high,high,short,male,Phillips
+Airedale Terrier,20343.1222,56.8496,11.5424,high,high,short,male,Rivera
+Airedale Terrier,20734.8558,56.2524,12.0818,high,high,med,male,Hughes
+Jack Russel Terrier,4907.1763,34.8554,13.6787,med,med,short,female,Davis
+Japanese Chin Dog,2660.1506,24.0855,13.4305,med,high,med,female,Massey
+Amstaff,30582.0929,46.8472,13.4031,med,high,short,male,Wright
+Airedale Terrier,21091.9644,57.6696,10.4742,med,high,med,male,Sharp
+Jack Russel Terrier,6917.0949,,13.7352,high,med,short,female,Singh
+Jack Russel Terrier,4676.9471,34.9261,13.7676,high,med,short,female,Nichols
+Airedale Terrier,18486.9242,57.5907,11.375,high,high,med,male,Cobb
+Airedale Terrier,20098.4932,56.8675,11.9468,high,high,med,male,Mahoney
+Japanese Chin Dog,5189.3506,23.5793,12.7185,med,high,med,female,Wagner
+Jack Russel Terrier,6794.488,,13.3459,high,med,short,male,Chapman
+Jack Russel Terrier,6714.8447,33.6994,13.7175,high,high,short,male,Holland
+Japanese Chin Dog,2925.35,22.9562,12.6283,low,high,med,male,Powell
+Jack Russel Terrier,5908.0259,34.6707,13.4374,high,med,short,female,Wright
+Amstaff,24905.712,45.5414,11.5102,med,high,short,male,Solomon
+Amstaff,26396.0976,,13.6488,med,high,short,female,Lozano
+Jack Russel Terrier,6232.4323,34.194,13.4696,med,med,short,male,Acosta
+Airedale Terrier,21897.4265,57.1931,11.3143,high,high,med,male,Hughes
+Japanese Chin Dog,4591.3632,,13.3947,med,high,med,female,Lam
+Amstaff,16633.2414,46.4118,12.7824,med,high,short,female,Hester
+Airedale Terrier,23295.1342,57.2248,10.1325,high,high,med,male,Scott
+Japanese Chin Dog,2959.122,22.6863,12.935,high,high,long,female,Murray
+Japanese Chin Dog,3842.6283,23.1761,12.6591,med,high,med,female,Reyes
+Jack Russel Terrier,5495.121,34.606,15.6255,high,low,short,female,Cox
+Japanese Chin Dog,4209.1865,23.4518,13.7902,low,high,med,female,Murphy
+Amstaff,27043.1091,46.3848,13.0702,med,high,short,female,Hines
+Amstaff,28056.0699,45.729,13.7023,med,high,short,male,Smith
+Amstaff,26601.0002,46.4448,12.8146,med,high,short,male,Anthony
+Airedale Terrier,19186.5247,,12.4315,high,high,short,female,Allison
+Japanese Chin Dog,2502.6497,24.3567,13.366,med,high,med,male,Alvarez
+Amstaff,24082.1352,,12.9107,med,high,short,female,Erickson
+Jack Russel Terrier,6418.9524,,14.1407,med,med,short,female,Patrick
+Airedale Terrier,21939.0987,,11.8906,high,high,short,male,Ewing
+Jack Russel Terrier,6811.1395,33.441,14.1568,high,high,short,female,Howard
+Airedale Terrier,20315.8273,56.8115,12.7866,med,high,med,female,Davis
+Airedale Terrier,21685.3027,,11.9549,high,high,med,male,Green
+Airedale Terrier,22007.7574,57.7331,11.3738,med,high,med,male,Wade
+Amstaff,28790.1403,45.521,14.0929,med,high,med,female,Lopez
+Jack Russel Terrier,6006.1753,34.5461,14.2319,high,med,short,female,Williams
+Japanese Chin Dog,4465.8665,21.6225,12.9604,med,high,med,female,Leonard
+Amstaff,26563.9658,46.7889,13.3398,med,high,short,female,Ortiz
+Jack Russel Terrier,5136.1786,34.5684,13.2506,high,high,short,female,Mendez
+Airedale Terrier,19454.5925,56.5861,10.2246,high,high,med,male,Lewis
+Jack Russel Terrier,6024.8952,33.3279,14.015,high,low,short,female,Gardner
+Amstaff,25132.6081,45.8586,12.7761,med,high,short,female,Jones
+Japanese Chin Dog,3051.4426,23.1709,12.8414,med,high,med,female,Montgomery
+Jack Russel Terrier,5003.3211,33.7509,14.557,high,med,short,male,Rodriguez
+Japanese Chin Dog,2698.201,,12.8264,high,high,med,female,Tanner
+Jack Russel Terrier,7309.3226,34.3092,12.9108,high,med,short,female,Ayers
+Amstaff,23064.3853,46.0477,13.1586,med,high,short,male,Simmons
+Jack Russel Terrier,6501.2898,,15.3228,high,med,short,female,Clayton
+Amstaff,30228.8004,45.2602,14.2336,high,high,short,male,White
+Amstaff,30370.0155,45.2486,12.0521,med,high,short,female,Cantu
+Amstaff,26869.0268,44.5929,13.2379,med,high,short,male,Werner
+Airedale Terrier,20500.2364,57.4472,10.5211,high,high,med,male,Morgan
+Japanese Chin Dog,4463.2665,24.1114,13.4284,med,high,med,male,Mathis
+Airedale Terrier,20219.7261,56.3923,11.3272,high,high,short,female,Watson
+Japanese Chin Dog,3568.8796,24.0653,13.9349,med,high,short,male,Graham
+Amstaff,20126.8166,45.663,13.137,med,high,short,female,Washington
+Japanese Chin Dog,3039.9095,,13.2563,med,high,med,female,Alison
+Jack Russel Terrier,8426.9614,,13.5243,high,low,short,female,Carpenter
+Amstaff,23121.4382,45.6914,12.2671,high,med,med,male,Garcia
+Amstaff,29397.4103,46.2107,14.0547,med,med,short,female,Davis
+Jack Russel Terrier,6367.3765,34.2424,14.3211,high,med,short,male,Hogan
+Amstaff,25386.158,45.5901,12.3267,high,high,short,male,Frazier
+Japanese Chin Dog,4091.4319,22.396,13.2075,med,high,short,female,Williams
+Japanese Chin Dog,3348.33,,12.4547,med,high,med,male,Hayes
+Amstaff,28307.7385,46.3166,13.1812,med,high,short,male,Molina
+Airedale Terrier,19549.3884,,11.2952,high,high,short,female,Jefferson
+Jack Russel Terrier,7531.3959,,13.571,high,high,short,female,Phillips
+Jack Russel Terrier,6451.0257,34.0737,14.0981,high,med,short,female,Weber
+Japanese Chin Dog,4226.5447,22.2647,12.8223,med,high,med,female,Bonilla
+Amstaff,25086.1349,46.0153,13.2318,low,high,short,female,Flores
+Airedale Terrier,19014.2337,57.3655,10.5676,high,high,med,female,West
+Airedale Terrier,20971.0378,56.7142,12.0544,high,med,med,female,Ball
+Airedale Terrier,20270.6832,57.4555,12.1955,high,high,med,male,Johnson
+Airedale Terrier,20925.781,57.5072,11.2679,high,high,med,male,Anderson
+Jack Russel Terrier,5248.0116,33.8305,14.2894,high,med,short,female,Wise
+Airedale Terrier,20290.4413,56.3586,10.9415,high,high,med,female,Green
+Amstaff,28794.0502,46.4826,13.5058,med,high,short,female,Williams
+Amstaff,30742.2004,,13.2,med,high,short,female,Bennett
+Jack Russel Terrier,6850.0346,33.8906,14.3958,high,med,short,female,Hubbard
+Jack Russel Terrier,7834.3546,33.6379,14.2249,high,med,short,male,Cameron
+Airedale Terrier,21997.771,56.0184,13.1623,high,high,short,male,Becker
+Airedale Terrier,20181.5077,57.287,12.7134,med,high,med,female,Olson
+Jack Russel Terrier,7272.4537,,15.0887,high,med,short,female,Sparks
+Jack Russel Terrier,7270.3201,33.2542,13.2593,high,med,short,male,Romero
+Japanese Chin Dog,2849.1609,22.924,12.6239,med,high,med,male,Stephens
+Jack Russel Terrier,6158.8314,33.3028,14.1001,high,med,short,female,Lindsey
+Airedale Terrier,19216.8084,,13.4527,high,high,short,female,Washington
+Japanese Chin Dog,3816.5219,22.8183,12.6674,med,high,med,female,Williamson
+Amstaff,24947.8419,46.0214,13.0089,low,high,short,male,Klein
+Airedale Terrier,21048.0131,57.2891,11.8346,high,high,med,female,Duffy
+Japanese Chin Dog,3661.0492,23.3825,12.6214,med,high,short,male,Nguyen
+Jack Russel Terrier,7664.8021,34.9361,14.6699,high,high,med,male,Jenkins
+Jack Russel Terrier,7213.6479,33.7718,12.5041,high,med,short,female,Diaz
+Japanese Chin Dog,4183.0836,25.0261,13.3835,med,high,med,male,Ingram
+Jack Russel Terrier,6271.4972,33.7043,13.8298,high,high,short,female,Lane
+Airedale Terrier,20838.664,57.0349,12.5691,high,high,med,female,Nguyen
+Airedale Terrier,22484.1301,,12.4852,high,high,med,female,Moody
+Jack Russel Terrier,6282.8979,32.6943,14.7863,high,med,short,male,Martin
+Amstaff,29877.8692,46.3149,13.5228,med,high,short,female,Humphrey
+Airedale Terrier,19259.2552,56.4857,11.9423,high,high,short,female,Wilson
+Japanese Chin Dog,3828.8452,22.3881,11.9207,high,high,short,female,Patterson
+Japanese Chin Dog,3895.1244,23.5982,12.6406,low,high,med,female,Martin
+Jack Russel Terrier,7543.7626,34.2829,14.5136,high,high,short,female,May
+Amstaff,25040.3212,46.4752,13.759,med,high,short,male,Rodriguez
+Airedale Terrier,20780.6803,57.9075,12.1326,high,high,med,female,Mason
+Japanese Chin Dog,3613.8777,23.7806,13.2868,med,high,long,female,Cline
+Jack Russel Terrier,6348.9121,33.4416,13.2789,high,med,med,female,Ali
+Amstaff,24231.7187,,12.8823,med,med,short,male,Smith
+Amstaff,30340.8672,,13.7365,med,high,med,male,Mitchell
+Airedale Terrier,22326.7777,56.9533,10.758,high,high,med,female,Martinez
+Japanese Chin Dog,2705.6668,,12.6618,med,high,med,female,Bradley
+Airedale Terrier,22126.4476,56.099,10.6271,high,high,med,female,Mckay
+Jack Russel Terrier,8005.2464,35.5086,13.8139,med,high,short,male,Yoder
+Japanese Chin Dog,3847.8394,23.9162,12.8017,med,high,med,female,Perez
+Japanese Chin Dog,3216.1874,23.509,13.2855,med,high,med,female,Wilson
+Amstaff,29697.8944,46.2117,12.5174,med,high,short,female,Michael
+Airedale Terrier,21549.1488,57.7176,12.0637,high,high,med,male,Fleming
+Airedale Terrier,19276.4632,57.6266,10.1796,med,high,med,male,Dean
+Jack Russel Terrier,8784.4979,35.2392,13.9925,high,med,short,male,Hartman
+Airedale Terrier,21455.542,56.3355,10.6882,high,high,long,female,Holmes
+Amstaff,26709.3461,45.2352,12.697,med,high,short,female,Jensen
+Jack Russel Terrier,7239.538,34.0325,14.0782,high,high,short,female,Hines
+Japanese Chin Dog,4170.11,23.2852,13.2252,med,high,long,female,Evans
+Japanese Chin Dog,1530.4621,22.4804,12.3879,med,high,med,male,Kelley
+Amstaff,26372.9757,47.2541,12.5792,high,high,short,female,Houston
+Jack Russel Terrier,5276.8683,34.0988,13.896,high,med,med,female,Clark
+Japanese Chin Dog,3859.4978,25.3141,12.7799,med,high,med,male,Mejia
+Airedale Terrier,22271.8819,58.1355,11.6371,high,high,med,female,Gordon
+Jack Russel Terrier,6059.7754,33.6411,14.0432,high,med,short,male,Dixon
+Japanese Chin Dog,2287.1635,,13.4373,low,med,med,male,Rodriguez
+Jack Russel Terrier,6555.5517,33.7472,12.954,high,med,short,female,Sanchez
+Japanese Chin Dog,1443.57,22.7893,12.9393,med,high,med,male,Walters
+Amstaff,21467.6827,46.6566,13.1127,med,high,short,male,Tucker
+Japanese Chin Dog,2829.2522,,13.2659,high,high,med,male,Harding
+Jack Russel Terrier,7707.6186,34.704,14.7696,high,med,short,male,Evans
+Amstaff,31041.7518,46.0985,12.3571,med,high,short,male,Phillips
+Amstaff,30583.3807,,13.8098,med,high,short,male,Lowery
+Japanese Chin Dog,2849.3815,24.2533,13.1524,high,high,med,male,Snow
+Airedale Terrier,20888.2594,,12.7446,med,high,med,male,Green
+Jack Russel Terrier,5695.8495,35.3575,13.6426,high,med,short,male,Pierce
+Jack Russel Terrier,9554.7035,33.2078,14.6253,high,med,med,female,Johnston
+Amstaff,24390.6906,46.8881,11.686,high,high,short,female,Graves
+Airedale Terrier,20916.7694,,13.5864,high,high,med,male,White
+Airedale Terrier,19508.4875,57.2717,10.6255,high,high,med,male,Boyd
+Airedale Terrier,21144.3785,56.9135,11.8987,high,high,short,male,Ramirez
+Amstaff,22893.0759,,12.4021,med,high,short,male,Morris
+Amstaff,26297.2546,45.1371,13.1404,med,high,short,female,Snyder
+Jack Russel Terrier,5619.6578,,13.5189,high,med,med,female,Ortega
+Amstaff,30930.551,45.7143,13.1202,med,high,short,male,Johns
+Amstaff,28881.7596,47.2219,13.6146,med,high,short,male,Lynch
+Airedale Terrier,17841.1659,56.7064,10.9296,med,high,med,male,Cunningham
+Jack Russel Terrier,5450.315,33.388,14.0034,high,high,short,male,Mueller
+Airedale Terrier,19800.3391,56.8513,10.5019,high,high,med,female,Kramer
+Jack Russel Terrier,5405.2086,,12.7424,high,med,short,female,Nunez
+Amstaff,30292.531,,13.3799,med,med,short,female,Owen
+Amstaff,24587.5449,45.9563,13.0635,med,high,med,female,Banks
+Airedale Terrier,19692.534,56.8482,11.6191,high,med,med,female,Matthews
+Amstaff,27768.532,45.2746,12.5525,med,med,short,male,Hensley
+Jack Russel Terrier,6050.65,33.8894,13.4875,high,med,short,female,Navarro
+Jack Russel Terrier,6300.7017,34.3349,14.413,high,med,short,female,Atkins
+Amstaff,26150.9494,46.1401,13.8978,med,high,short,male,Dean
+Jack Russel Terrier,5055.8438,33.8073,14.3168,high,high,short,female,Campos
+Jack Russel Terrier,7167.0302,34.0494,13.8591,high,low,med,female,Hawkins
+Airedale Terrier,21762.4523,56.4609,12.6719,high,high,med,female,Shields
+Jack Russel Terrier,6662.9752,33.7306,15.439,high,high,med,male,Kirk
+Amstaff,27051.1288,46.3621,11.8477,high,high,short,male,Dean
+Airedale Terrier,22100.5026,55.9379,11.5154,high,high,short,female,Byrd
+Amstaff,26034.4693,45.4983,12.7917,high,high,short,male,Patel
+Airedale Terrier,21700.5789,,11.5813,med,high,med,female,Pitts
+Amstaff,26774.4401,46.0757,13.6436,med,high,short,female,Jimenez
+Airedale Terrier,21212.4073,57.2488,11.5837,high,high,med,female,Wallace
+Amstaff,24942.5037,,12.6878,low,med,short,female,Gray
+Japanese Chin Dog,3373.7063,23.5152,14.0322,high,high,med,female,Young
+Japanese Chin Dog,2092.0587,23.5565,13.9285,med,high,med,female,Delgado
+Amstaff,30059.6686,46.6462,13.2223,med,med,short,male,Sharp
+Japanese Chin Dog,3678.8266,22.58,13.4385,high,high,med,male,Sandoval
+Japanese Chin Dog,3607.4767,25.0146,13.6782,low,high,med,female,Fischer
+Airedale Terrier,19985.3049,56.2112,10.5507,high,high,med,female,Williams
+Jack Russel Terrier,6929.9773,34.3754,13.7686,high,med,short,female,Collier
+Airedale Terrier,19311.4459,,12.0044,high,med,med,female,Gibson
+Jack Russel Terrier,5511.4588,33.5092,15.1241,high,med,short,male,Brown
+Airedale Terrier,20186.2683,58.2572,12.8596,high,high,med,female,Rios
+Jack Russel Terrier,6215.313,34.2308,14.6648,high,med,short,female,Rogers
+Amstaff,20592.7814,46.2847,12.9594,med,high,short,female,Watts
+Amstaff,29067.4342,45.4336,13.5455,med,high,short,female,Benitez
+Jack Russel Terrier,7470.985,,14.1125,high,high,short,male,Gilbert
+Amstaff,30124.2715,45.2352,12.894,med,high,short,male,Contreras
+Airedale Terrier,15636.2666,57.8859,11.8644,high,high,med,male,Sharp
+Japanese Chin Dog,3543.7465,22.6868,13.1179,med,high,med,male,Stephenson
+Jack Russel Terrier,5177.9218,33.8512,14.2466,high,med,short,male,Young
+Jack Russel Terrier,6841.7568,34.1941,13.1581,high,med,short,male,Tanner
+Jack Russel Terrier,5626.8189,35.8284,13.5887,high,med,short,female,Mcdonald
+Amstaff,24982.0003,,13.2439,med,high,short,female,Jennings
+Japanese Chin Dog,2588.3412,,12.2479,med,high,med,female,Natalie
+Japanese Chin Dog,5103.0681,23.1458,13.5302,med,high,med,female,Davis
+Jack Russel Terrier,6693.1506,33.7552,15.3926,high,med,short,female,Morse
+Japanese Chin Dog,2125.8909,24.2818,13.206,low,high,long,female,Russell
+Amstaff,30388.3152,47.2138,13.1463,med,high,short,female,Macdonald
+Japanese Chin Dog,1997.4838,23.3703,12.711,med,high,long,male,Sullivan
+Amstaff,21625.0404,,13.3314,med,high,short,male,Ramirez
+Jack Russel Terrier,7210.6166,33.7356,14.7352,high,med,short,female,Williams
+Japanese Chin Dog,1819.1509,23.4662,13.613,low,high,long,female,Ruiz
+Airedale Terrier,19723.6231,,13.964,high,high,med,female,Lee
+Amstaff,24621.7251,,12.0739,med,med,short,male,Kim
+Airedale Terrier,22452.1459,55.3848,11.154,high,high,med,female,Hooper
+Jack Russel Terrier,6213.8987,34.3156,14.7682,high,med,short,male,Bell
+Jack Russel Terrier,5248.69,33.7609,14.5048,high,med,short,male,Guzman
+Jack Russel Terrier,5880.8608,,14.4024,high,high,short,female,Horn
+Jack Russel Terrier,6475.1751,,14.3113,high,med,short,male,Lyons
+Japanese Chin Dog,5160.6192,,14.3623,med,high,short,male,Cole
+Japanese Chin Dog,6157.3562,,13.9338,med,high,med,female,Martinez
+Airedale Terrier,21708.4801,57.0467,11.5553,high,high,med,female,Ferrell
+Airedale Terrier,22739.2037,57.4459,10.1837,high,high,med,female,Brandt
+Amstaff,28340.7076,46.4626,12.321,high,high,short,female,West
+Jack Russel Terrier,6206.3706,33.3042,14.854,high,med,short,male,Lane
+Jack Russel Terrier,6283.2834,34.4307,14.3595,high,med,short,male,King
+Amstaff,32600.1668,46.1958,13.1264,low,high,short,female,Reed
+Amstaff,25118.9687,46.6936,13.6668,low,med,med,male,Farmer
+Jack Russel Terrier,7016.237,33.9752,13.8775,high,med,short,male,Martinez
+Jack Russel Terrier,6990.1439,33.1757,14.3073,high,med,short,female,Wallace
+Japanese Chin Dog,3744.8823,23.2255,12.7557,med,high,med,female,Fisher
+Airedale Terrier,18578.2251,56.872,11.8954,high,high,med,female,Moreno
+Japanese Chin Dog,4845.3235,23.3325,12.5501,med,high,med,male,Quinn
+Jack Russel Terrier,5989.0096,32.9071,12.9277,high,low,short,male,Jones
+Airedale Terrier,21596.5273,56.3195,11.6589,high,high,med,female,Christensen
+Airedale Terrier,18031.8136,,12.1621,high,high,med,male,Robinson
+Amstaff,20983.8833,46.246,13.0591,med,high,short,female,Gonzalez
+Amstaff,25863.2808,46.6285,12.9941,med,high,short,male,Riley
+Amstaff,23125.8593,45.741,14.0603,med,high,short,female,Bryan
+Jack Russel Terrier,6669.692,34.132,14.6224,high,med,short,female,Howell
+Jack Russel Terrier,6571.4732,34.994,14.4639,high,low,med,male,Willis
+Japanese Chin Dog,4077.5995,23.9834,14.1388,med,high,med,male,Haynes
+Japanese Chin Dog,2945.0512,24.5275,13.9682,med,med,med,female,Terry
+Jack Russel Terrier,6044.6921,34.4024,14.0596,high,med,short,male,Torres
+Airedale Terrier,18876.6391,,11.2941,high,high,med,male,Frazier
+Japanese Chin Dog,3669.1706,,13.1097,med,high,med,male,Harmon
+Japanese Chin Dog,2075.2868,24.7089,13.114,med,high,med,female,Baldwin
+Japanese Chin Dog,4117.1044,24.8028,12.9056,high,high,long,male,Aguilar
+Amstaff,24146.7546,46.3973,14.017,med,high,short,female,Brandon
+Jack Russel Terrier,4509.9397,34.2777,13.2365,high,med,short,male,Walker
+Amstaff,27498.4711,45.9536,13.091,med,high,med,female,Morrow
+Amstaff,28491.7188,,14.2583,med,high,short,male,Sparks
+Japanese Chin Dog,3113.4555,23.7416,13.4629,med,high,short,male,Sanford
+Amstaff,27436.3083,45.9009,12.7267,med,high,short,female,George
+Japanese Chin Dog,3662.6207,23.9936,14.2354,med,med,short,male,Golden
+Japanese Chin Dog,3507.7013,23.7957,13.4584,med,high,long,male,Fisher

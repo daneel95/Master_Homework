@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Dalmatian,24253.0843,48.0,12.7759,high,high,short,female,Hernandez
+Airedale Terrier,24607.6005,56.6501,11.0119,high,high,short,female,Richardson
+Japanese Chin Dog,2904.1787,23.2161,13.0189,med,high,med,female,Mccoy
+Airedale Terrier,20460.0721,56.6031,11.8211,high,high,med,male,Rogers
+Australian Shepherd,21262.8597,54.8637,12.9775,high,high,med,male,Cole
+Airedale Terrier,21108.6082,56.4657,12.2932,high,high,med,female,Lutz
+Dalmatian,21247.5669,,13.0071,high,high,short,male,Gray
+Airedale Terrier,18885.2336,57.839,11.9934,high,high,med,female,White
+Australian Shepherd,22896.4162,53.6227,14.4061,med,high,med,male,Clayton
+Australian Shepherd,24120.5133,53.893,12.2335,high,high,med,female,Gutierrez
+Australian Shepherd,29549.5279,52.8398,12.0023,high,med,long,female,Perez
+Airedale Terrier,19613.962,57.0335,11.253,high,high,short,male,Wilkins
+Dalmatian,25081.2994,48.0,12.9386,high,med,short,female,Alexander
+Airedale Terrier,21824.1156,57.6062,12.0149,high,high,long,female,Crawford
+Australian Shepherd,19212.1435,54.8564,12.7987,med,high,med,male,Ortega
+Japanese Chin Dog,3768.5255,23.2413,12.5187,med,high,med,female,Cross
+Airedale Terrier,19652.5697,57.2652,10.2504,high,high,med,female,Campbell
+Airedale Terrier,20368.4545,57.0946,12.7287,med,med,short,female,Sandoval
+Japanese Chin Dog,4950.8493,24.3463,13.1738,low,high,med,male,Hernandez
+Australian Shepherd,23765.8016,54.0981,13.6268,high,high,med,male,Gomez
+Airedale Terrier,18639.0741,56.8548,11.3101,med,high,med,female,Bailey
+Dalmatian,23705.8188,48.0,11.8266,med,med,short,female,Williams
+Japanese Chin Dog,4251.5902,23.0116,13.9733,med,high,med,male,Ortega
+Japanese Chin Dog,3984.7138,23.705,12.7816,high,high,long,male,Arias
+Airedale Terrier,17288.8194,56.65,11.8931,med,high,med,male,Morris
+Airedale Terrier,19892.561,,10.4609,high,high,med,female,Rodriguez
+Dalmatian,20733.6815,48.0,13.5752,high,high,short,female,Dorsey
+Japanese Chin Dog,4909.5297,25.0908,12.4166,med,high,med,female,Ayala
+Airedale Terrier,21688.4143,57.7831,10.8536,high,high,long,male,Lopez
+Airedale Terrier,21317.804,56.4585,11.4384,high,high,med,male,Becker
+Australian Shepherd,19875.0112,54.5295,12.5695,high,med,long,male,Knight
+Dalmatian,26854.4696,48.0,12.9382,high,med,short,male,Fischer
+Japanese Chin Dog,4866.8952,21.9316,13.0287,med,high,med,female,Carter
+Australian Shepherd,20724.1034,54.9327,13.188,high,high,med,male,Schwartz
+Dalmatian,21186.2852,48.0,12.5639,high,med,short,female,Reynolds
+Japanese Chin Dog,4920.0194,24.524,13.6327,med,high,med,female,Frank
+Japanese Chin Dog,3212.9486,24.6754,12.7681,med,high,med,male,Nelson
+Airedale Terrier,21695.0757,56.3122,11.0388,high,high,med,male,Robinson
+Dalmatian,27561.6884,,12.1321,high,high,med,female,Cook
+Japanese Chin Dog,4186.4468,22.4953,13.699,med,high,med,male,Jones
+Dalmatian,28310.6414,48.0,12.8744,high,high,short,male,Craig
+Airedale Terrier,20037.5869,,12.2099,high,med,med,female,Lam
+Australian Shepherd,20504.1065,52.4771,13.3133,high,high,med,male,Baker
+Airedale Terrier,18291.3835,56.5026,10.1261,high,high,med,male,Hill
+Dalmatian,23413.9968,48.0,14.0692,high,high,short,female,Boyer
+Dalmatian,24585.06,,12.9459,high,high,short,female,Casey
+Dalmatian,23511.5552,48.0,13.1119,high,high,short,male,Mcdaniel
+Airedale Terrier,21659.0605,56.6963,10.8373,high,high,med,male,Davis
+Australian Shepherd,25717.3358,55.5256,13.4882,high,high,med,male,Roberson
+Airedale Terrier,23065.8141,57.2667,11.0757,high,high,med,female,Lawrence
+Airedale Terrier,22942.1589,57.0174,13.4754,med,high,med,male,Cooke
+Airedale Terrier,21963.8407,56.9204,11.7007,high,high,med,male,Mcpherson
+Dalmatian,22599.1596,48.0,13.396,med,high,short,male,Jones
+Japanese Chin Dog,3621.7532,22.7996,12.8847,low,high,med,male,Pearson
+Dalmatian,23292.7726,48.0,12.7285,high,high,short,female,Price
+Japanese Chin Dog,3865.7606,23.815,12.7806,med,high,med,female,Wagner
+Airedale Terrier,18337.3447,,10.9867,med,high,med,male,Morris
+Japanese Chin Dog,2339.7916,24.0552,12.2342,med,high,med,female,Mendoza
+Airedale Terrier,22077.9346,57.5851,10.8818,med,high,med,female,Griffin
+Australian Shepherd,26034.577,55.0323,13.9149,high,high,med,female,Tapia
+Australian Shepherd,22293.8373,52.9535,12.3091,high,high,med,female,Anderson
+Japanese Chin Dog,3676.7487,24.55,12.0473,med,med,med,male,Castro
+Dalmatian,21918.6743,48.0,13.8471,med,high,med,female,Lopez
+Dalmatian,24989.0753,48.0,13.819,high,high,short,male,Barnes
+Airedale Terrier,22501.7456,57.3235,12.3287,high,high,med,female,Harrell
+Airedale Terrier,17492.1042,56.6402,11.0335,high,med,med,male,Fox
+Dalmatian,23262.838,48.0,12.2396,high,high,short,male,Ferguson
+Japanese Chin Dog,5766.5403,21.407,13.5997,med,high,med,male,Mckenzie
+Australian Shepherd,20550.7928,,14.0631,med,med,long,female,Harrison
+Australian Shepherd,22755.1527,51.9664,13.5306,med,high,med,female,Wilson
+Japanese Chin Dog,3703.3663,25.3287,13.6844,med,high,med,female,Navarro
+Airedale Terrier,24325.1814,57.3365,10.7412,high,high,med,male,Carter
+Australian Shepherd,22676.8949,,12.1386,high,high,med,female,Dillon
+Australian Shepherd,23722.1301,52.4057,12.8509,high,high,med,male,Raymond
+Airedale Terrier,17834.2586,57.2456,12.2161,med,high,med,female,Hernandez
+Australian Shepherd,23671.2227,53.6704,12.5964,med,high,long,male,Davenport
+Airedale Terrier,17225.927,56.7472,11.7856,high,high,med,male,Hayes
+Japanese Chin Dog,2991.7125,23.9488,12.8061,med,high,med,male,Vargas
+Airedale Terrier,18752.2025,,11.6256,high,high,short,female,Webb
+Australian Shepherd,24509.7609,53.6823,12.0568,high,high,med,female,Kelly
+Airedale Terrier,21806.2214,56.541,12.588,high,high,med,male,Moore
+Airedale Terrier,22764.5452,,11.6179,high,high,short,female,Davenport
+Australian Shepherd,21329.6632,52.9502,12.0129,high,high,med,male,Welch
+Australian Shepherd,22772.5926,,13.1716,high,high,med,female,Hill
+Dalmatian,26094.9275,48.0,13.0786,high,high,short,female,Martinez
+Airedale Terrier,20055.3331,,11.3607,high,high,med,male,Esparza
+Airedale Terrier,20086.3133,56.5832,13.4239,high,high,med,male,Shaw
+Australian Shepherd,22572.7429,53.1237,12.5396,high,high,med,female,Gonzalez
+Airedale Terrier,20097.3974,,12.3905,high,high,long,female,Allen
+Dalmatian,23634.7506,,13.5401,high,high,short,female,Page
+Australian Shepherd,30675.8546,55.302,14.3091,high,high,long,female,Jackson
+Australian Shepherd,21330.7948,52.9351,13.2683,high,high,long,female,Osborne
+Japanese Chin Dog,2859.0156,24.1427,12.6296,med,high,med,female,Colon
+Airedale Terrier,19513.2701,,11.033,high,high,med,male,Bush
+Dalmatian,26217.7426,48.0,12.7365,high,high,short,male,Rodriguez
+Dalmatian,23656.0189,48.0,11.6511,high,high,short,male,Campos
+Japanese Chin Dog,3043.8396,25.083,13.3077,med,high,med,male,Tran
+Japanese Chin Dog,3813.0212,23.5489,12.5983,med,high,med,female,Elliott
+Australian Shepherd,17327.3921,,12.8098,med,high,med,female,Lee
+Dalmatian,24144.988,48.0,12.7864,high,high,short,male,Brewer
+Australian Shepherd,27344.7414,55.9845,12.7576,high,high,med,male,Wallace
+Airedale Terrier,21768.2927,57.1278,11.3015,high,high,med,female,Kirby
+Airedale Terrier,22843.6573,57.2193,10.732,high,high,med,male,Cook
+Australian Shepherd,25462.6839,52.4837,12.9131,high,high,med,male,Andrews
+Airedale Terrier,20509.625,,11.7057,high,high,med,female,Carey
+Airedale Terrier,22246.7179,,10.0192,high,high,med,female,Austin
+Dalmatian,24491.6429,,13.2962,high,high,short,female,Hunter
+Australian Shepherd,24627.8077,,13.288,high,high,short,female,Morris
+Airedale Terrier,21625.3595,57.7601,11.5873,high,high,med,female,Rodriguez
+Australian Shepherd,21951.2018,51.8938,12.3474,high,high,med,female,Rodriguez
+Airedale Terrier,21888.0057,56.9181,11.7076,high,high,med,male,Montes
+Airedale Terrier,20563.8377,57.4415,11.783,high,high,short,male,Beck
+Dalmatian,27256.5666,48.0,13.3474,high,high,short,male,Howard
+Dalmatian,20370.0113,48.0,12.6127,high,med,short,female,Davis
+Dalmatian,24169.427,,13.5738,high,high,short,male,Murphy
+Dalmatian,24644.6088,48.0,13.9447,high,high,short,female,Day
+Australian Shepherd,21787.4374,,12.3834,high,high,med,male,Acosta
+Australian Shepherd,22491.1025,54.3207,12.8796,high,high,med,male,Walters
+Australian Shepherd,24914.0345,53.8364,12.6539,high,high,med,female,Johnson
+Airedale Terrier,18703.1788,57.0721,11.9338,high,high,med,female,Reyes
+Japanese Chin Dog,2821.8648,24.2336,13.9941,med,high,med,female,Stephenson
+Australian Shepherd,26531.2806,53.4892,12.0179,high,high,med,male,Li
+Japanese Chin Dog,2533.8018,22.7233,12.9811,low,high,med,female,Hodge
+Japanese Chin Dog,2967.3545,23.2559,12.6926,med,med,med,male,Harris
+Australian Shepherd,25040.2026,54.4422,12.8424,high,high,med,female,Gross
+Dalmatian,27348.8008,48.0,13.6618,high,high,med,male,Carter
+Dalmatian,22742.4118,48.0,12.2605,high,high,short,female,Phillips
+Australian Shepherd,21359.0832,52.5781,12.0108,high,high,med,male,Mosley
+Dalmatian,21817.255,48.0,13.7149,high,high,short,male,Holmes
+Japanese Chin Dog,3475.8315,23.9768,12.8786,high,high,med,male,Young
+Dalmatian,23998.5863,48.0,13.5601,high,high,short,female,Williams
+Japanese Chin Dog,2101.2491,24.148,13.2166,med,high,med,male,Thompson
+Japanese Chin Dog,3778.5316,,14.5429,med,high,med,female,Lewis
+Dalmatian,29664.6567,48.0,12.284,high,high,short,female,Ponce
+Dalmatian,23876.5518,48.0,13.7983,med,high,med,male,Martin
+Australian Shepherd,24918.4713,56.4655,13.2845,high,high,med,male,Jimenez
+Australian Shepherd,25796.8292,53.2394,12.749,high,high,med,female,Jacobs
+Dalmatian,25692.1328,48.0,13.5668,med,high,short,female,Logan
+Airedale Terrier,20055.8039,57.2223,12.3525,high,high,med,female,Moore
+Japanese Chin Dog,2663.1597,24.5901,12.1281,high,med,short,male,Hicks
+Dalmatian,20433.6987,48.0,12.9219,high,high,short,female,Peterson
+Dalmatian,18450.4135,48.0,13.1041,high,high,med,female,Turner
+Airedale Terrier,19725.0318,57.7092,11.8191,high,high,med,male,York
+Australian Shepherd,30513.9419,,13.0658,high,high,med,female,Glover
+Airedale Terrier,19040.454,57.0775,10.5392,high,high,med,male,Church
+Australian Shepherd,23581.9367,,11.4039,high,high,med,female,Wood
+Airedale Terrier,22343.3344,56.5131,11.4805,high,high,med,male,Luna
+Dalmatian,21356.2023,48.0,12.2585,high,high,short,male,Mccoy
+Dalmatian,27717.621,48.0,12.1006,high,high,short,female,Reed
+Japanese Chin Dog,2373.9955,24.4857,13.7926,med,high,short,male,Hanna
+Airedale Terrier,19253.5157,56.6221,11.9576,high,high,long,female,Harmon
+Dalmatian,27609.0996,48.0,13.66,high,high,short,female,Donovan
+Airedale Terrier,21055.1158,,11.9598,high,high,med,female,Williams
+Airedale Terrier,20180.0294,56.5143,11.8708,med,high,short,male,Ross
+Airedale Terrier,20757.0729,57.3934,9.2471,high,high,med,male,Holland
+Japanese Chin Dog,3802.5008,,12.6168,med,high,long,female,Green
+Japanese Chin Dog,2596.5792,22.5638,11.8846,low,high,short,male,Pearson
+Japanese Chin Dog,2965.8832,23.38,13.8593,med,high,long,male,Lucas
+Airedale Terrier,22407.4691,56.6515,11.4323,high,high,med,male,Miller
+Airedale Terrier,21406.4007,57.4197,10.9956,high,high,med,male,Harrison
+Japanese Chin Dog,4108.4746,23.6586,13.592,high,high,med,female,Webb
+Japanese Chin Dog,3317.0414,23.0001,13.343,med,high,med,female,Turner
+Japanese Chin Dog,2120.3724,22.9134,14.0031,high,high,med,male,Small
+Japanese Chin Dog,3905.0843,24.0677,12.5476,med,high,med,female,Torres
+Dalmatian,23859.5674,48.0,13.3004,high,high,short,male,Jackson
+Dalmatian,22421.9375,48.0,13.5228,high,high,short,female,Ford
+Japanese Chin Dog,4507.9881,,13.4933,med,med,med,male,Pena
+Dalmatian,24886.5183,48.0,12.9952,high,high,short,female,Snow
+Airedale Terrier,19745.123,57.031,11.1606,high,high,short,male,Perry
+Japanese Chin Dog,2477.4395,23.5045,13.2667,med,high,med,female,Reynolds
+Australian Shepherd,22643.1986,51.8922,13.3185,high,high,med,male,Taylor
+Dalmatian,21389.0191,48.0,14.2075,high,high,short,male,Long
+Airedale Terrier,20692.4258,,12.2678,high,high,med,female,Glass
+Dalmatian,24095.5971,,12.9486,med,high,short,female,Greene
+Dalmatian,23489.126,,13.0211,high,high,short,male,Brandt
+Airedale Terrier,20999.669,57.1091,10.6586,high,high,med,female,Castillo
+Japanese Chin Dog,2965.4595,,12.2753,med,high,med,male,Watson
+Japanese Chin Dog,3006.1514,23.0302,11.6491,med,med,med,male,Jordan
+Dalmatian,24556.196,48.0,13.3822,high,high,short,male,Erickson
+Australian Shepherd,22396.8791,52.2905,12.7005,high,high,med,female,Roberts
+Dalmatian,26248.9562,,12.84,med,high,short,male,Everett
+Australian Shepherd,20118.0402,55.4006,12.7309,med,high,med,female,Joseph
+Japanese Chin Dog,2707.3731,21.9082,13.4641,low,high,med,male,Chung
+Airedale Terrier,20930.5834,57.6512,11.9685,high,high,med,female,Kennedy
+Dalmatian,20195.7408,48.0,13.607,high,high,short,male,Thomas
+Dalmatian,23662.8053,48.0,12.2464,high,high,short,female,Perkins
+Japanese Chin Dog,3414.4287,,13.1088,med,high,med,male,Jacobson
+Airedale Terrier,21045.6086,,10.1151,high,high,med,male,Jones
+Dalmatian,21938.8906,48.0,13.114,med,high,short,male,Stephens
+Japanese Chin Dog,2524.764,24.0338,12.7293,med,high,short,male,Miller
+Japanese Chin Dog,3641.4189,,13.3738,med,high,med,male,Norris
+Australian Shepherd,18875.5398,,13.5917,high,high,short,male,Rojas
+Japanese Chin Dog,3810.0768,22.4113,13.2847,med,high,med,female,Brady
+Dalmatian,23205.8665,48.0,14.0872,high,high,short,female,Humphrey
+Japanese Chin Dog,3602.0078,,12.6066,low,high,med,male,Thomas
+Dalmatian,24061.2022,48.0,14.2082,high,high,med,male,Owens
+Airedale Terrier,19440.0262,58.1428,10.7538,med,high,med,male,Ray
+Japanese Chin Dog,4495.9644,24.017,12.4549,high,med,med,male,Martinez
+Dalmatian,21779.0809,48.0,12.8806,high,high,med,male,Willis
+Dalmatian,22681.9914,48.0,13.3793,high,high,short,female,Walton
+Australian Shepherd,26280.7208,52.6828,13.3531,high,high,med,male,Patton
+Airedale Terrier,22426.7668,56.8929,11.6195,high,high,med,female,Mendoza
+Australian Shepherd,23963.8124,52.1425,13.1328,high,high,med,female,Gonzalez
+Airedale Terrier,21137.8983,57.0721,12.2588,high,high,med,female,Simon
+Australian Shepherd,24731.102,53.6816,12.1989,high,high,long,female,Hudson
+Airedale Terrier,23726.3639,,13.7758,med,high,med,female,Keller
+Australian Shepherd,26791.6578,52.123,12.7432,high,high,med,male,Harris
+Japanese Chin Dog,2767.2344,24.4653,12.8339,med,high,short,male,Miranda
+Dalmatian,26328.3109,48.0,12.2724,high,high,short,female,Ramos
+Airedale Terrier,20223.8563,,11.4534,high,high,med,male,Howard
+Australian Shepherd,17293.0871,,12.8974,high,high,med,male,Jaime
+Australian Shepherd,23816.0567,51.9902,13.5248,high,high,med,male,Wilson
+Australian Shepherd,28729.6233,53.8987,12.9199,high,high,med,female,Wong
+Airedale Terrier,19481.4969,57.0365,11.7267,high,high,long,male,Cooper
+Dalmatian,23646.4097,48.0,12.3791,high,high,short,female,Alexander
+Australian Shepherd,20512.3872,53.7036,13.019,high,med,med,male,Mills
+Dalmatian,21623.3913,48.0,12.8086,med,high,short,male,Conway
+Japanese Chin Dog,4180.4954,,13.2515,high,high,med,female,Fernandez
+Airedale Terrier,20319.4323,57.085,12.7364,high,high,med,female,Mckinney
+Japanese Chin Dog,2452.9972,24.2004,13.3379,low,high,short,male,Ray
+Australian Shepherd,28748.1636,51.9986,13.8185,high,med,med,male,Williams
+Australian Shepherd,22955.5023,53.4971,13.4541,high,high,med,female,Bradshaw
+Japanese Chin Dog,2812.7646,24.5795,13.1149,high,high,med,male,Dean
+Australian Shepherd,21693.5263,51.2387,13.6445,high,high,med,female,Gonzalez
+Dalmatian,20705.969,,12.5843,med,high,short,female,Thornton
+Australian Shepherd,24898.5609,51.0129,13.4012,high,high,short,female,Hunter
+Japanese Chin Dog,2913.594,23.5452,12.8211,med,high,long,female,Warren
+Dalmatian,19728.595,48.0,13.2611,high,high,short,female,Boyd
+Airedale Terrier,21029.0123,,13.5174,med,high,short,female,Hurst
+Dalmatian,24469.454,48.0,13.4671,high,high,short,female,Marquez
+Dalmatian,21659.334,48.0,10.9776,high,high,short,male,Martin
+Australian Shepherd,22863.9418,52.1228,12.5006,high,high,med,male,Parsons
+Japanese Chin Dog,2863.0758,24.1982,12.6903,med,high,med,female,Lawson
+Airedale Terrier,20423.2569,57.493,11.4915,high,high,short,female,Cline
+Japanese Chin Dog,4587.2681,23.1828,13.5801,low,high,med,male,Christopher
+Japanese Chin Dog,2624.3315,,11.6888,med,high,short,female,Jones
+Australian Shepherd,27438.835,53.8109,13.0943,high,high,med,male,Owens
+Airedale Terrier,20823.1077,56.95,11.7485,high,high,long,female,Ray
+Dalmatian,25721.5487,48.0,13.0464,high,high,med,male,Carter
+Australian Shepherd,24953.3559,,13.3331,high,high,med,male,Haney
+Airedale Terrier,19660.4255,57.0238,10.8186,high,high,med,male,Ball
+Japanese Chin Dog,2665.7242,,12.3072,high,high,short,male,Wagner
+Airedale Terrier,20946.8756,57.3427,9.9484,high,high,short,female,Sanchez
+Dalmatian,22745.2342,48.0,13.2109,high,high,short,female,Murray
+Airedale Terrier,20627.2139,57.5606,11.7579,high,high,med,male,Petersen
+Japanese Chin Dog,2424.3151,23.6949,13.8597,med,high,med,male,Hudson
+Australian Shepherd,25695.9557,54.375,12.7714,high,high,med,female,Newman
+Dalmatian,20879.7824,48.0,12.3475,med,high,short,female,Shaw
+Japanese Chin Dog,4035.4976,22.9161,14.4723,med,high,med,male,Barker
+Australian Shepherd,28383.3055,53.7221,12.2124,high,high,med,male,Dickson
+Airedale Terrier,18784.1012,56.0567,11.104,high,high,med,male,Torres
+Japanese Chin Dog,2760.0264,,12.5907,med,high,long,female,Larson
+Australian Shepherd,25394.2952,54.2265,12.0563,high,high,short,male,Bradford
+Australian Shepherd,23974.1677,52.1255,13.7319,high,high,med,male,Sullivan
+Japanese Chin Dog,4881.1093,23.9148,12.3898,med,high,med,female,Riddle
+Airedale Terrier,20442.1762,57.2771,12.1246,high,high,long,female,Schneider
+Japanese Chin Dog,4380.2592,22.097,12.5826,high,high,med,female,Hansen
+Dalmatian,22711.2497,48.0,12.9157,high,high,short,female,Tanner
+Japanese Chin Dog,3904.8786,22.3557,13.1397,med,high,med,female,Joseph
+Airedale Terrier,23318.2028,,12.2184,high,high,med,female,York
+Airedale Terrier,18735.7471,56.6984,12.7987,high,high,med,female,Kane
+Airedale Terrier,19874.9342,57.271,9.7565,high,high,med,female,Franklin
+Japanese Chin Dog,3974.5707,23.836,13.4288,med,high,med,male,Johnson
+Airedale Terrier,19830.0399,57.0341,11.7074,high,high,med,male,Charles
+Dalmatian,24106.0314,48.0,13.4306,high,high,short,male,Davis
+Australian Shepherd,23612.7284,,12.8013,high,high,med,female,Noble
+Australian Shepherd,23167.5439,53.933,12.8269,high,high,med,female,Barber
+Dalmatian,25557.3184,48.0,12.4281,med,high,short,male,Palmer
+Airedale Terrier,21379.561,57.1817,11.6589,high,high,med,male,Haney
+Japanese Chin Dog,2198.8234,23.6059,11.6821,med,high,short,male,Arnold
+Japanese Chin Dog,2665.1378,24.388,12.2008,med,high,med,female,Taylor
+Airedale Terrier,20782.8163,56.0047,12.6904,high,high,med,male,Owens
+Japanese Chin Dog,3523.0822,25.2697,12.6491,high,high,med,male,Manning
+Australian Shepherd,25188.0592,53.8612,13.8898,med,high,short,male,Wilkerson
+Australian Shepherd,17461.7377,55.1458,12.3588,high,high,med,male,Snyder
+Japanese Chin Dog,2472.5882,23.8492,12.7471,med,high,med,female,Peterson
+Airedale Terrier,19951.7012,56.6274,12.0626,high,high,med,male,Alvarez
+Airedale Terrier,19816.6072,57.7957,13.7255,high,med,med,female,Clark
+Dalmatian,24833.4964,48.0,12.9749,high,high,short,female,Parker
+Japanese Chin Dog,3944.4031,22.7971,12.8298,med,med,med,male,Diaz
+Australian Shepherd,24682.2248,,13.3263,high,high,med,female,Chen
+Dalmatian,20507.6102,,14.0281,high,high,short,female,Gardner
+Dalmatian,24585.9703,,12.0766,high,high,med,male,Vaughan
+Japanese Chin Dog,3095.2051,23.34,12.8019,low,high,med,female,Stafford
+Airedale Terrier,20158.4429,,11.008,high,med,med,female,Garcia
+Australian Shepherd,20556.9177,51.0456,13.5368,med,high,med,male,Powell
+Australian Shepherd,24906.6784,55.4191,12.3359,high,high,med,female,Davis
+Japanese Chin Dog,3808.8512,23.5394,12.1459,med,high,med,male,Vasquez
+Australian Shepherd,21773.611,52.6757,13.8727,high,high,med,male,Kelly
+Japanese Chin Dog,3813.6911,23.2869,13.3588,high,high,short,female,Valentine
+Australian Shepherd,19317.0164,53.6857,13.5459,high,high,med,female,Diaz
+Dalmatian,23545.8556,,13.6143,high,high,short,male,Martin
+Airedale Terrier,16641.3681,56.8021,13.3388,high,high,med,female,Irwin
+Airedale Terrier,23425.2157,57.0622,11.6983,med,high,med,female,Edwards
+Dalmatian,26627.9314,48.0,13.0259,high,high,short,female,Le
+Australian Shepherd,20454.0197,53.8768,13.446,high,high,med,female,Warren
+Dalmatian,24863.425,48.0,13.5078,high,high,short,male,Smith
+Dalmatian,21685.9968,48.0,13.4477,high,high,short,female,Wheeler
+Dalmatian,23775.6538,48.0,12.4216,high,high,short,female,Thomas
+Australian Shepherd,31405.9671,53.3918,12.7651,high,high,med,male,Martinez
+Airedale Terrier,19187.4041,57.199,12.5792,high,high,med,female,Blanchard
+Australian Shepherd,24722.4028,53.7309,13.4423,high,med,med,male,James
+Australian Shepherd,26802.6693,,13.3065,high,high,med,female,Osborne
+Dalmatian,24237.2381,48.0,12.8086,high,high,short,female,Tucker
+Dalmatian,21901.3477,48.0,13.0993,high,high,short,male,Salas
+Airedale Terrier,21013.9632,57.2219,12.448,high,med,short,male,Flowers
+Dalmatian,24027.707,48.0,14.3176,high,high,short,male,Carroll
+Japanese Chin Dog,2448.0267,,12.8528,med,high,med,female,Buckley
+Australian Shepherd,22754.393,52.7503,12.9179,high,high,med,male,Garner
+Airedale Terrier,18592.6943,,11.0059,high,high,long,female,Martinez
+Airedale Terrier,20083.8092,57.2287,11.1766,high,med,long,female,Taylor
+Japanese Chin Dog,4092.9382,,12.9108,med,high,med,male,Lopez
+Dalmatian,24773.642,48.0,12.9358,high,high,short,female,Walton
+Airedale Terrier,21265.7414,56.8542,10.649,high,high,med,female,Miller
+Australian Shepherd,20028.3419,56.9887,12.6967,med,high,med,female,Moreno
+Airedale Terrier,21757.2216,57.6995,10.9202,high,high,long,male,Hill
+Australian Shepherd,20711.2809,54.9481,11.9221,high,med,med,female,Johnson
+Australian Shepherd,28948.0559,52.6632,12.4038,high,high,med,female,Williams
+Dalmatian,23602.936,48.0,12.7548,high,high,short,male,Ray
+Japanese Chin Dog,2111.5679,23.9974,12.4582,med,high,med,female,Moore
+Japanese Chin Dog,3047.7948,23.1523,12.7444,med,high,med,female,Jordan
+Japanese Chin Dog,4468.8609,23.2661,13.7384,med,high,long,female,Bowen
+Dalmatian,20730.3146,48.0,13.1877,high,high,short,male,Romero
+Japanese Chin Dog,4586.6936,23.5893,13.4966,med,high,med,male,Cooper
+Dalmatian,20204.3155,48.0,13.4376,med,med,short,female,Shaw
+Airedale Terrier,20771.2159,57.6516,10.7096,high,med,med,male,Thompson
+Airedale Terrier,18620.4549,56.6063,12.1788,high,high,long,female,Macias
+Japanese Chin Dog,4278.957,22.3212,12.6341,med,med,short,female,Davis
+Australian Shepherd,20808.5812,54.3339,13.1397,high,high,long,female,Blackburn
+Japanese Chin Dog,4500.3749,24.0159,12.4772,med,high,med,female,Davis
+Dalmatian,23875.6836,48.0,14.2629,high,med,med,female,Weber
+Australian Shepherd,26257.0894,,12.5707,high,med,med,male,Barnett
+Dalmatian,19081.2667,48.0,12.3501,high,high,short,male,Williams
+Japanese Chin Dog,2850.3856,23.7944,12.5611,high,high,med,female,Crawford
+Australian Shepherd,21213.5503,54.3308,13.4858,high,med,med,male,Griffin
+Airedale Terrier,18016.6914,56.9933,12.1636,high,high,med,male,King
+Japanese Chin Dog,3892.2795,,13.5901,med,high,med,female,Ruiz
+Japanese Chin Dog,3577.2613,,13.4118,med,high,short,female,Davis
+Dalmatian,24031.5744,48.0,13.4632,high,med,short,male,Bernard
+Australian Shepherd,20236.5094,54.4145,13.5545,high,med,med,female,Riley
+Japanese Chin Dog,3456.151,23.6755,12.1336,med,high,med,male,Buchanan
+Australian Shepherd,24719.1236,53.2732,14.0498,high,high,med,male,Holmes
+Dalmatian,25472.1129,48.0,14.3977,high,high,short,male,Garcia
+Dalmatian,23346.9167,48.0,13.2211,high,high,short,female,Harris
+Airedale Terrier,19085.6411,56.0024,10.5872,high,high,med,male,Wells
+Airedale Terrier,20136.9071,57.035,12.9777,med,high,long,female,Gallegos
+Japanese Chin Dog,2928.8159,22.8003,12.1209,med,high,med,male,Stevens
+Japanese Chin Dog,3923.043,,13.0191,med,high,med,female,Smith
+Japanese Chin Dog,4197.3874,22.5533,12.6633,med,high,med,female,Roach
+Dalmatian,22656.1319,,12.2908,high,high,short,male,Lewis
+Australian Shepherd,18721.4187,53.9801,13.3652,high,high,med,female,Campos
+Australian Shepherd,21511.689,55.4428,12.4446,high,high,long,male,Kent
+Airedale Terrier,22225.7997,56.9065,11.183,high,high,short,male,Johnson
+Airedale Terrier,21005.8829,58.4864,12.0929,high,high,short,male,Perry
+Airedale Terrier,17349.0193,57.1094,11.5743,high,high,med,male,Stevens
+Airedale Terrier,19686.5079,56.9174,12.3464,high,high,med,female,Anderson
+Australian Shepherd,23012.213,,13.2501,high,high,med,male,Smith
+Dalmatian,25228.3902,48.0,13.6106,med,high,short,female,Lopez
+Japanese Chin Dog,2398.4321,,13.2871,med,high,med,male,Ferrell
+Japanese Chin Dog,2831.9531,21.8787,12.5408,med,high,med,female,Salas
+Dalmatian,21121.9319,48.0,12.8815,high,high,short,female,Hall
+Australian Shepherd,20685.5273,53.8703,13.5556,high,high,med,female,Chan
+Australian Shepherd,25074.2885,51.6295,12.4185,med,high,med,male,Blackwell
+Australian Shepherd,18574.7625,52.6358,12.6869,high,high,med,male,Stevens
+Japanese Chin Dog,5733.9951,23.6423,13.0593,med,high,med,male,Murray
+Airedale Terrier,20794.3149,56.8075,13.1864,high,high,med,female,Ortega
+Airedale Terrier,19545.1249,56.5183,11.6866,high,high,long,female,Kirk
+Airedale Terrier,21091.4798,56.9739,11.5944,high,high,med,male,Lopez
+Dalmatian,19576.6951,,12.4271,high,high,short,male,Martin
+Airedale Terrier,21319.0117,,11.4343,high,med,med,female,Williams
+Dalmatian,23209.0074,,12.2146,high,high,short,male,Gordon
+Japanese Chin Dog,4318.6195,23.6512,12.7936,low,high,long,female,Hahn
+Australian Shepherd,24112.075,53.5563,13.3117,high,high,long,male,Nicholson
+Dalmatian,25441.1726,48.0,12.308,high,high,short,female,Johnson
+Airedale Terrier,20891.75,56.246,11.2185,high,high,med,male,Fitzgerald
+Airedale Terrier,19124.6574,57.7669,11.8674,high,med,long,female,Nelson
+Australian Shepherd,23236.739,53.8089,12.3122,high,high,short,female,Mckenzie
+Japanese Chin Dog,3352.0581,23.7722,13.1624,low,high,long,male,Phillips
+Airedale Terrier,20650.9942,57.1962,12.4747,high,high,med,male,Miller
+Dalmatian,22658.7708,48.0,13.51,high,high,med,male,Moore
+Japanese Chin Dog,4088.4351,22.347,12.7695,med,high,med,male,Lee
+Dalmatian,21125.7547,,13.5736,high,high,short,female,Manning
+Dalmatian,23851.4395,,13.1126,high,high,med,male,Wood
+Japanese Chin Dog,3900.3327,,12.9538,med,high,med,female,Cook
+Dalmatian,25120.7111,,12.8079,high,med,short,female,Rodriguez
+Australian Shepherd,24333.2451,54.007,12.5397,high,high,med,female,Monroe
+Airedale Terrier,21093.7801,56.4395,11.7269,med,high,med,female,Amanda
+Australian Shepherd,23351.0005,52.5209,13.0863,high,high,short,female,Wells
+Dalmatian,25620.103,48.0,13.6033,high,high,short,male,Mathews
+Australian Shepherd,29376.4498,54.7962,14.0454,high,high,med,male,Cook
+Dalmatian,22639.8948,48.0,13.5683,high,high,short,female,Johnson
+Airedale Terrier,20012.0103,,12.1317,high,med,short,female,Lopez
+Dalmatian,19928.4521,48.0,12.2598,high,high,short,male,Fox
+Airedale Terrier,18870.3815,56.3035,12.0933,high,med,med,female,Holder
+Dalmatian,26543.97,48.0,12.9341,high,high,short,male,Reeves
+Dalmatian,24840.8469,48.0,12.7429,med,high,short,male,Morgan
+Japanese Chin Dog,3963.2121,24.0684,12.9352,low,med,med,female,Mcdowell
+Airedale Terrier,22012.5936,,10.5904,high,high,med,male,Jackson
+Australian Shepherd,20217.4757,52.8319,13.5243,high,med,med,female,Salazar
+Airedale Terrier,20407.543,,10.1061,high,high,med,male,Heath
+Japanese Chin Dog,1320.3098,21.7372,12.7046,med,high,med,male,Nolan
+Japanese Chin Dog,3266.7653,23.1816,12.1937,low,high,med,female,Mcdonald
+Australian Shepherd,23328.3664,52.1218,13.0355,high,high,med,female,Freeman
+Dalmatian,20956.1094,48.0,12.8827,high,high,short,male,Lewis
+Japanese Chin Dog,2457.82,,12.6655,high,high,med,female,Mccarthy
+Airedale Terrier,21576.9417,57.0012,11.4196,high,high,med,male,Thomas
+Japanese Chin Dog,3816.1105,,12.3604,med,high,med,female,Brennan
+Dalmatian,22135.4086,48.0,13.3812,high,high,short,female,Brady
+Dalmatian,23930.4097,48.0,12.5921,high,med,short,male,Mendoza
+Australian Shepherd,26982.061,,13.1855,high,high,med,male,Reynolds
+Australian Shepherd,23060.8521,53.9287,12.4329,high,high,med,male,Benjamin
+Dalmatian,20454.7858,48.0,13.093,high,high,short,male,Robbins
+Dalmatian,21973.4913,,12.5895,high,high,short,female,Carlson
+Airedale Terrier,23864.8626,56.3388,11.4457,high,med,short,male,Beasley
+Japanese Chin Dog,2796.263,21.7647,12.4505,med,high,med,male,Warren
+Airedale Terrier,18076.4456,,11.4129,high,high,med,female,Savage
+Airedale Terrier,20316.6945,55.7753,11.3418,high,med,med,male,Case
+Dalmatian,21649.5004,,13.3314,high,med,short,female,Casey
+Dalmatian,24832.7044,48.0,12.3935,high,high,short,female,Hunter
+Dalmatian,24724.0661,48.0,13.5932,high,high,short,male,Gilbert
+Australian Shepherd,19871.7273,52.3604,14.2795,high,high,med,female,Gates
+Dalmatian,23951.081,48.0,13.1478,high,high,short,male,Rojas
+Japanese Chin Dog,3399.6323,23.0818,12.9849,med,high,med,female,King
+Australian Shepherd,22192.5971,52.6127,13.6951,high,high,med,male,Taylor
+Dalmatian,23002.5889,,12.8592,high,high,short,female,Jennifer
+Australian Shepherd,27465.411,52.211,13.4491,high,high,med,female,Dunlap
+Airedale Terrier,22182.3811,56.9351,11.2726,high,high,med,female,Lopez
+Dalmatian,25219.5789,48.0,13.41,high,high,short,female,Walsh
+Airedale Terrier,19084.5754,57.2115,12.049,high,high,med,female,Montoya
+Dalmatian,23368.0215,48.0,12.9563,high,high,short,male,Scott
+Airedale Terrier,20926.5994,56.3928,11.7663,high,high,med,female,Walter
+Australian Shepherd,27008.9095,56.9702,12.9246,high,high,med,female,Hardy
+Dalmatian,23146.1635,48.0,13.3013,high,high,short,male,Lopez
+Japanese Chin Dog,2708.7493,23.5506,13.5923,med,high,long,female,Howard
+Airedale Terrier,19276.6402,56.9889,12.696,high,high,med,female,Jackson
+Japanese Chin Dog,2108.975,23.1171,13.2316,med,high,med,female,Jennings
+Dalmatian,24488.2947,48.0,12.5151,high,high,short,female,Reynolds
+Airedale Terrier,19489.5476,57.6818,11.1613,high,high,med,male,Miller
+Dalmatian,26207.1736,48.0,12.8955,high,high,short,male,Gonzalez
+Airedale Terrier,18691.764,56.6202,11.4063,high,high,med,male,Gilbert
+Airedale Terrier,20790.1701,,10.1218,high,high,med,male,Wiggins
+Dalmatian,23294.392,48.0,13.3593,high,high,short,female,Watson
+Dalmatian,27820.5696,48.0,13.1152,high,high,short,female,Nichols
+Airedale Terrier,17463.2375,,12.3308,high,high,med,male,Cummings
+Dalmatian,22997.0716,48.0,12.9002,med,high,short,male,Moore
+Australian Shepherd,17746.5218,,13.0791,high,high,med,male,Martinez
+Australian Shepherd,18690.6532,56.8274,12.9744,high,high,med,female,Yang
+Dalmatian,20192.9518,,13.1582,high,high,short,female,Lindsey
+Dalmatian,23945.3552,48.0,12.7629,med,high,short,female,Mayo
+Dalmatian,25672.2033,48.0,12.2011,high,med,short,female,Salazar
+Airedale Terrier,20366.4708,56.5278,12.7918,high,high,med,male,King
+Australian Shepherd,21382.1779,52.2958,12.245,med,high,med,female,Lynch
+Australian Shepherd,22503.6428,54.1269,13.8608,high,high,short,male,Sanders
+Japanese Chin Dog,5431.5243,23.4363,12.4398,low,high,med,male,Roman
+Dalmatian,19902.8189,,12.1048,high,high,short,female,Brown
+Australian Shepherd,24483.5091,,12.4826,high,high,med,male,Schmidt
+Japanese Chin Dog,3895.8815,23.7034,13.482,med,high,long,male,Huff
+Japanese Chin Dog,1631.1766,24.1557,12.6207,med,high,med,male,Jackson
+Australian Shepherd,23176.8707,53.125,12.5142,high,med,med,male,Smith
+Japanese Chin Dog,3472.8041,23.0555,12.8962,med,high,med,male,Schwartz
+Japanese Chin Dog,3874.0781,22.1267,12.7316,med,high,med,female,Malone
+Japanese Chin Dog,3184.4521,24.9683,14.0878,high,high,short,female,Hodge
+Airedale Terrier,20157.2787,,11.4124,high,high,med,male,Robert
+Australian Shepherd,28171.1075,54.7513,13.1295,med,high,long,female,Black
+Australian Shepherd,21625.2269,53.9082,12.848,med,med,med,male,Willis
+Dalmatian,24104.2176,48.0,13.4753,high,high,short,female,Miller
+Japanese Chin Dog,4620.4234,25.0861,12.6605,med,high,med,male,Moore
+Australian Shepherd,26698.3103,53.3552,12.6844,high,high,med,female,Newman
+Airedale Terrier,20006.7083,56.9012,11.4638,high,high,med,male,Martinez
+Airedale Terrier,20389.6235,,11.7346,high,high,short,male,Glenn
+Japanese Chin Dog,3135.875,24.0473,12.4863,med,high,med,male,Logan
+Airedale Terrier,20772.1085,56.2936,11.0272,high,high,med,female,Noble
+Australian Shepherd,21773.9507,53.3331,13.3111,med,high,med,male,Edwards
+Dalmatian,24144.7612,48.0,13.0445,med,med,short,female,Campos
+Airedale Terrier,18753.478,56.9787,12.5598,med,high,long,female,Hines
+Japanese Chin Dog,3483.2492,22.7741,13.0429,med,high,med,female,Stevens
+Dalmatian,23694.3829,48.0,12.5009,high,med,short,female,Decker
+Airedale Terrier,21075.92,56.386,12.161,high,high,med,male,Snow
+Japanese Chin Dog,4171.2673,23.445,12.9829,med,high,med,female,Lee
+Airedale Terrier,19525.1319,56.9809,9.7187,high,high,short,female,Taylor
+Dalmatian,22644.1798,,13.1308,high,high,short,male,Schaefer
+Japanese Chin Dog,1889.296,22.6547,13.8555,high,high,long,male,Willis
+Dalmatian,27339.3329,48.0,12.0649,high,high,short,male,Jackson
+Japanese Chin Dog,4787.3883,25.1869,13.2792,med,high,short,male,Owens
+Dalmatian,22778.4935,48.0,12.6082,high,high,short,female,Peters
+Dalmatian,22941.1994,48.0,13.4279,high,high,short,male,Edwards
+Airedale Terrier,20321.4554,58.1907,11.5992,high,med,med,female,Rosales
+Australian Shepherd,23571.5383,53.0125,13.3861,med,high,med,male,Thomas
+Airedale Terrier,23162.0225,57.2183,11.5011,high,high,med,female,Schwartz
+Airedale Terrier,20247.226,56.8845,12.5214,high,high,med,female,Barnett
+Dalmatian,22238.048,48.0,13.8496,high,high,med,male,Rodriguez
+Airedale Terrier,20109.1168,57.923,9.7491,high,high,med,male,Lambert
+Dalmatian,22762.3549,48.0,13.2893,high,high,short,female,Mccullough
+Airedale Terrier,21154.0799,57.4618,12.3821,high,high,med,male,Garcia
+Airedale Terrier,20186.9578,56.6475,11.2545,high,high,med,female,Huang
+Japanese Chin Dog,3456.5811,22.7845,12.3175,med,high,med,male,Anderson
+Airedale Terrier,21055.0232,57.1622,12.3225,high,high,med,female,Wilson
+Dalmatian,24582.1906,48.0,12.1217,high,high,short,male,Clarke
+Japanese Chin Dog,3394.0712,22.5368,13.5447,med,high,med,female,Sanchez
+Airedale Terrier,18483.409,56.6337,10.4722,high,high,med,male,Quinn
+Japanese Chin Dog,4326.7094,23.3322,13.7477,med,high,med,male,Guerra
+Japanese Chin Dog,4363.8661,,12.1226,med,high,med,male,Medina
+Airedale Terrier,17469.4471,56.7849,11.6715,high,high,med,female,Johnson
+Airedale Terrier,19691.1969,57.2577,10.7719,high,high,med,female,Harrison
+Airedale Terrier,20089.3489,57.0711,12.5323,high,high,med,male,Valencia
+Airedale Terrier,21881.8025,,12.534,high,high,med,female,Nguyen
+Australian Shepherd,24153.7068,54.3026,13.3046,high,high,med,male,Marks
+Airedale Terrier,20711.6076,,12.6488,med,high,med,male,Thomas
+Dalmatian,23571.8892,48.0,13.2368,med,high,short,male,Ramos
+Dalmatian,24660.8231,48.0,13.5209,high,high,short,male,Fowler
+Japanese Chin Dog,2564.3913,23.2428,13.1625,med,high,med,female,Hampton
+Airedale Terrier,22318.7552,56.3001,10.9412,high,high,med,male,Warren
+Dalmatian,26315.3704,,12.392,high,high,short,male,Rollins
+Dalmatian,25044.2994,48.0,12.9418,high,high,short,male,Ryan
+Japanese Chin Dog,4183.7926,,13.0134,med,high,med,male,Hughes
+Airedale Terrier,19538.3879,,12.0621,high,med,med,male,Cook
+Japanese Chin Dog,978.5523,23.1432,13.1359,high,high,med,male,Morgan
+Airedale Terrier,17417.3145,,13.2036,high,high,long,male,Hendricks
+Australian Shepherd,23148.9893,52.2267,13.5578,high,high,short,female,Matthew
+Australian Shepherd,20097.0253,55.0308,12.6831,high,high,med,female,Thompson
+Japanese Chin Dog,3531.4968,23.979,13.3068,med,high,med,female,Gibson
+Japanese Chin Dog,5685.1845,23.1337,12.8623,med,high,med,male,Bernard
+Dalmatian,23468.4816,48.0,12.6157,high,high,short,female,Flores
+Australian Shepherd,21271.2264,55.4794,13.1656,high,high,med,female,Flowers
+Japanese Chin Dog,4174.3826,,13.6908,med,high,med,male,Mosley
+Dalmatian,22276.7733,48.0,13.3038,high,high,short,female,Young
+Japanese Chin Dog,3091.1975,,12.3757,high,high,short,female,Barber
+Airedale Terrier,18098.0131,56.4496,10.6626,med,high,long,male,Skinner
+Japanese Chin Dog,2439.6924,,13.1594,med,high,med,female,Alvarez
+Japanese Chin Dog,4778.8575,22.6359,13.8309,med,high,long,female,Martinez
+Airedale Terrier,19148.2743,56.6901,11.9532,high,high,med,male,William
+Japanese Chin Dog,2746.9276,24.4165,13.5638,med,high,med,male,Fuller
+Australian Shepherd,21582.25,53.5018,13.4232,high,high,med,male,Hartman
+Japanese Chin Dog,3610.8866,25.093,13.5186,low,high,short,male,Coleman
+Dalmatian,24088.8864,48.0,12.0019,high,high,short,male,Dawson
+Australian Shepherd,27876.7774,51.0894,13.347,high,high,med,male,Thompson
+Airedale Terrier,21721.6566,57.4094,11.1217,high,high,med,female,Buckley
+Japanese Chin Dog,3646.3154,,12.2527,med,high,med,male,Riddle
+Australian Shepherd,25609.8158,51.8833,13.0093,high,high,med,male,Martin
+Dalmatian,23901.5174,,12.8871,high,high,short,male,Williams
+Japanese Chin Dog,2972.4956,23.7784,12.9779,med,high,med,female,Castillo
+Australian Shepherd,22630.5452,53.0399,11.8664,med,high,med,female,Little
+Japanese Chin Dog,2900.2254,,11.7551,med,med,med,male,King
+Japanese Chin Dog,3616.8878,23.8133,11.7726,med,high,med,male,Reid
+Airedale Terrier,19098.8102,57.2054,11.6315,high,high,med,female,Fuentes
+Australian Shepherd,22284.8049,55.3951,12.8072,high,high,med,male,Lambert
+Dalmatian,26219.262,48.0,12.5403,med,high,short,male,Love
+Australian Shepherd,27411.8382,,13.9947,high,high,med,female,Martinez
+Australian Shepherd,16115.5186,54.256,12.8035,high,high,med,female,Giles
+Airedale Terrier,20512.7141,,13.7131,high,high,med,male,Medina
+Dalmatian,19487.255,48.0,12.3859,high,high,short,male,Thomas
+Japanese Chin Dog,2519.4783,23.1962,13.061,low,high,med,male,Johnson
+Dalmatian,24320.9457,48.0,13.2635,high,high,short,female,Boone
+Japanese Chin Dog,2021.4797,22.979,14.2718,med,high,med,female,Henderson
+Dalmatian,23190.7744,48.0,11.9282,high,high,short,female,Trevino
+Japanese Chin Dog,3596.9259,24.7812,12.6446,med,med,med,male,Sandoval
+Airedale Terrier,23547.2259,57.6615,11.4249,high,high,med,female,Valentine
+Airedale Terrier,21944.2722,56.4802,10.6894,high,high,long,female,Davis
+Dalmatian,19335.2804,48.0,13.275,high,high,short,male,Parker
+Australian Shepherd,21487.6759,54.0316,13.2831,high,high,med,male,Hines
+Japanese Chin Dog,3998.3373,,13.4009,high,high,short,female,Hansen
+Airedale Terrier,22762.1648,57.7685,12.0532,high,high,med,male,Frazier
+Airedale Terrier,21497.6854,,11.1074,high,high,med,male,Smith
+Australian Shepherd,26708.4931,51.3865,12.7696,high,high,long,male,Rivera
+Japanese Chin Dog,4059.3312,21.6942,13.4959,med,high,med,female,Taylor
+Airedale Terrier,22156.5527,57.0039,12.3538,high,high,short,female,Castro
+Dalmatian,21127.6887,,13.4509,med,med,short,female,Diaz
+Dalmatian,25519.5833,,13.4704,high,high,short,female,Thomas
+Dalmatian,20508.5216,48.0,13.1054,high,high,short,male,Katelyn
+Airedale Terrier,23073.3944,,11.9737,high,high,long,female,Walters
+Australian Shepherd,19246.6654,52.5012,12.5576,high,high,med,male,Knox
+Australian Shepherd,26390.3746,49.9303,12.6675,high,high,med,male,Phillips
+Australian Shepherd,29054.1904,53.5054,12.9882,high,high,med,female,Obrien
+Australian Shepherd,27584.4845,51.5604,13.6103,high,high,med,male,Hodge
+Dalmatian,23454.3257,48.0,11.941,high,high,short,male,Stein
+Dalmatian,21760.4371,48.0,13.0423,high,high,short,female,Kidd
+Airedale Terrier,20268.2353,56.9862,11.1921,high,high,med,male,Khan
+Airedale Terrier,20609.379,,11.2429,high,high,med,male,Franklin
+Japanese Chin Dog,3768.34,25.1443,12.7329,med,high,med,male,Carr
+Japanese Chin Dog,4659.7034,24.5178,12.7247,med,high,med,female,Foster
+Dalmatian,23037.3942,,11.8217,high,high,short,male,Smith
+Airedale Terrier,18448.8771,57.1106,12.921,high,high,med,male,Peck
+Dalmatian,19741.2833,48.0,13.4656,high,high,short,female,Herrera
+Japanese Chin Dog,3101.9784,22.7702,12.7584,med,high,med,female,Marquez
+Australian Shepherd,23552.1258,51.2607,13.9816,high,high,med,male,Baker
+Australian Shepherd,19176.7891,54.1409,13.5166,high,high,med,female,Booker
+Japanese Chin Dog,2675.1073,22.2193,12.8174,med,med,med,female,Herrera
+Japanese Chin Dog,3512.5108,23.9379,13.5095,med,high,med,male,Nelson
+Airedale Terrier,18771.9377,,12.2475,med,high,med,female,Alvarez
+Dalmatian,26770.0021,48.0,13.7265,high,med,med,male,Soto
+Japanese Chin Dog,2045.0404,,12.1649,low,high,med,male,Zimmerman
+Dalmatian,24638.5788,48.0,13.768,med,high,short,female,Brown
+Dalmatian,18996.892,48.0,11.3484,high,high,short,male,Weber
+Dalmatian,23693.2444,48.0,12.943,high,high,short,female,Dixon
+Airedale Terrier,18667.9532,55.8396,11.6336,high,med,short,female,Yang
+Airedale Terrier,21650.026,56.6135,11.1781,high,high,med,female,Wilson
+Japanese Chin Dog,4776.5056,22.9684,13.2503,med,high,long,female,Park
+Australian Shepherd,18224.1801,51.5321,13.2332,high,high,short,male,Dudley
+Australian Shepherd,29972.1615,52.3508,13.7002,high,high,med,female,Fernandez
+Airedale Terrier,20937.3849,57.3963,10.1444,high,high,long,female,Mckenzie
+Airedale Terrier,22270.2004,55.6452,12.6008,high,high,med,female,Ramos
+Australian Shepherd,22806.7512,54.4558,12.31,high,high,med,male,Lyons
+Australian Shepherd,20553.1042,55.1268,13.6717,high,high,med,male,Black
+Japanese Chin Dog,2801.614,24.753,12.7084,med,high,long,female,Carter
+Airedale Terrier,20820.3086,57.0683,13.0315,med,med,med,male,Robertson
+Airedale Terrier,21974.5783,56.9676,11.1134,high,high,med,female,Perez
+Japanese Chin Dog,1426.3058,24.1961,12.1998,med,high,med,female,Wilkerson
+Airedale Terrier,19824.6143,,11.8737,high,high,med,male,Sandoval
+Australian Shepherd,20631.2358,50.8567,12.7709,high,high,med,male,Fisher
+Airedale Terrier,20337.8814,58.1155,10.6433,high,high,short,female,Allen
+Dalmatian,21496.1946,48.0,13.0356,high,high,short,male,Quinn
+Dalmatian,26472.5179,48.0,12.4821,high,high,short,female,Arias
+Dalmatian,22456.6014,,12.9945,high,high,short,female,Peterson
+Japanese Chin Dog,2571.9043,24.0582,14.4103,low,high,long,male,Ross
+Japanese Chin Dog,1990.9176,23.4592,13.4752,med,high,long,male,Nelson
+Dalmatian,24896.6061,48.0,12.4092,high,high,short,female,Morgan
+Dalmatian,23475.5226,48.0,12.2275,med,high,short,male,Thompson
+Australian Shepherd,23105.1558,51.5096,12.9109,high,high,med,male,Hill
+Australian Shepherd,25867.18,55.9618,12.8058,high,high,med,female,Fuller
+Airedale Terrier,20852.9516,56.7061,12.5839,high,high,med,male,Norman
+Japanese Chin Dog,3572.3999,22.9838,12.1679,med,high,med,male,Smith
+Japanese Chin Dog,3103.9591,,11.942,med,high,med,male,Garcia
+Dalmatian,23757.4559,48.0,12.8858,high,high,short,male,Beck
+Airedale Terrier,23193.9822,57.1086,11.5508,med,high,med,female,Stevenson
+Australian Shepherd,22377.6273,53.2761,13.093,high,med,med,male,Weaver
+Australian Shepherd,28750.0403,,12.9526,med,high,med,female,Reese
+Airedale Terrier,22300.2403,56.561,10.8039,high,high,med,female,Garcia
+Airedale Terrier,19575.2326,,10.9884,high,high,med,female,Armstrong
+Dalmatian,24400.6211,48.0,13.8484,high,high,short,female,Clark
+Japanese Chin Dog,2558.7973,24.5127,14.0019,med,high,med,male,Jessica
+Japanese Chin Dog,3762.2789,,13.3371,med,high,med,female,Hernandez
+Japanese Chin Dog,3928.4792,,13.7,med,high,long,male,Davis
+Airedale Terrier,21162.7716,57.3392,11.8807,high,high,long,female,White
+Dalmatian,23023.9576,48.0,12.2985,med,high,short,male,Wilson
+Japanese Chin Dog,1840.2796,23.962,12.6753,med,high,short,female,Stafford
+Japanese Chin Dog,3289.8653,,13.0459,med,high,med,male,Sutton
+Dalmatian,24775.937,,13.8664,med,high,short,male,Banks
+Dalmatian,21968.9868,48.0,13.5943,high,high,short,male,Lucero
+Dalmatian,21392.1063,48.0,12.7586,high,high,short,female,Becker
+Japanese Chin Dog,2357.4755,,11.6929,med,high,short,male,Fischer
+Airedale Terrier,18214.5089,56.6387,12.8902,high,high,med,male,Watkins
+Australian Shepherd,24921.4071,,12.5067,high,high,med,male,Decker
+Australian Shepherd,29417.1262,52.0086,12.5411,high,med,long,female,Avery
+Australian Shepherd,22414.6459,50.9688,13.4571,high,high,med,male,Kelley
+Dalmatian,21478.4556,,12.9079,high,med,short,female,Michelle
+Airedale Terrier,20329.2153,56.3076,10.2762,high,high,med,female,Bryant
+Airedale Terrier,20215.6568,56.971,12.4631,med,high,med,female,Griffin
+Airedale Terrier,21668.1425,,12.1134,high,high,med,male,Foster
+Australian Shepherd,21493.8755,,14.45,high,high,med,male,Ward
+Airedale Terrier,19806.4848,,11.3275,high,high,med,male,Taylor
+Australian Shepherd,20345.0106,,12.6982,high,high,long,female,Johnson
+Dalmatian,21946.6193,48.0,13.5667,high,high,short,female,Myers
+Japanese Chin Dog,5399.8905,,13.4443,med,high,med,male,Huynh
+Japanese Chin Dog,1736.6305,23.3292,13.0774,low,high,med,female,Boyd
+Dalmatian,24568.5468,,13.0022,med,high,short,male,Novak
+Australian Shepherd,21733.4651,51.7503,12.1586,high,high,med,male,Bartlett
+Australian Shepherd,22701.2135,53.4397,13.3796,high,high,long,male,Jenkins
+Airedale Terrier,19381.7708,,10.7945,high,med,med,male,Ponce
+Dalmatian,22433.8083,48.0,12.6382,high,high,med,male,King
+Australian Shepherd,23264.3822,55.4362,12.3778,high,high,med,male,Oconnor
+Dalmatian,20287.3807,48.0,13.8951,high,med,med,male,Mccarthy
+Japanese Chin Dog,3385.884,25.8486,13.0253,med,high,med,male,Austin
+Dalmatian,24984.8857,48.0,12.9673,high,high,short,male,Peters
+Dalmatian,22735.2468,48.0,13.8779,med,high,med,female,Payne
+Airedale Terrier,22191.3896,56.5353,10.9744,med,high,med,female,Adams
+Japanese Chin Dog,3475.6028,,12.743,med,high,med,female,Chen
+Japanese Chin Dog,3484.9392,,13.4348,med,high,med,male,Carr
+Dalmatian,24822.8652,48.0,13.767,high,high,short,female,Russell
+Dalmatian,25461.0139,48.0,13.3613,high,high,short,male,Martin
+Australian Shepherd,28204.1622,53.9208,12.2607,high,high,med,female,Espinoza
+Japanese Chin Dog,3784.7712,23.5274,11.5147,med,high,long,female,Ellison
+Airedale Terrier,20344.3645,57.5556,10.0702,high,high,med,male,Morton
+Dalmatian,22046.1029,48.0,12.5621,high,high,short,female,Yu
+Japanese Chin Dog,3545.0338,23.2814,12.6292,high,high,med,female,Scott
+Airedale Terrier,22104.744,56.9571,11.998,high,high,med,male,Myers
+Airedale Terrier,20553.0575,55.2459,12.5585,high,high,long,male,Mata
+Australian Shepherd,17745.7064,57.5091,13.8574,high,high,med,male,Contreras
+Japanese Chin Dog,2948.8654,22.2699,12.0158,med,high,long,female,Miller
+Australian Shepherd,28418.7525,,13.1541,high,high,long,female,Gutierrez
+Japanese Chin Dog,3131.4607,22.2719,12.6088,high,med,med,female,Rodriguez
+Japanese Chin Dog,4876.957,22.5797,12.5973,med,high,med,male,Woods
+Airedale Terrier,18840.9057,57.1395,10.9876,high,high,med,male,Fletcher
+Airedale Terrier,20271.8755,56.3246,12.7609,high,high,short,male,Morrison
+Airedale Terrier,19980.1387,57.2701,12.1008,high,med,med,male,Cooper
+Airedale Terrier,19424.3437,56.9659,11.5513,high,high,short,female,Miranda
+Dalmatian,21966.461,48.0,12.9268,med,high,short,male,Herring
+Australian Shepherd,23713.6784,,14.3351,high,high,med,male,Davis
+Dalmatian,20752.1284,48.0,13.4651,high,med,med,female,Anderson
+Australian Shepherd,18682.1631,,13.4651,high,med,long,female,Price
+Airedale Terrier,19627.4978,57.158,11.43,high,high,med,female,Fernandez
+Japanese Chin Dog,3240.2684,23.8105,12.1115,high,high,long,male,Frey
+Japanese Chin Dog,4572.2306,,13.0567,med,high,med,male,Medina
+Japanese Chin Dog,2981.7575,23.9851,11.8369,high,med,long,male,Morgan
+Australian Shepherd,18657.1283,54.8682,13.2767,high,high,med,male,Chavez
+Australian Shepherd,21309.3403,52.7087,12.9929,med,high,med,male,Wheeler
+Australian Shepherd,27049.2915,52.8117,13.1395,high,high,med,male,Wong
+Australian Shepherd,23194.0905,54.5936,13.299,high,high,med,male,Hodge
+Australian Shepherd,21255.2601,,11.9096,high,high,med,female,Burch
+Dalmatian,23427.4427,48.0,12.173,high,high,med,female,Simon
+Australian Shepherd,26536.6155,53.8209,13.5899,high,high,short,female,Ortiz
+Japanese Chin Dog,2923.0204,23.9208,12.6676,low,high,med,male,Hamilton
+Airedale Terrier,21155.3467,,10.9479,high,high,med,female,Martin
+Airedale Terrier,23254.6667,57.1301,11.1393,high,high,med,female,Fleming
+Australian Shepherd,28448.1689,52.453,14.453,high,high,med,female,Anthony
+Dalmatian,25610.4434,,13.4423,high,high,med,male,Newman
+Dalmatian,22836.8615,48.0,12.4455,med,high,short,female,Sandoval
+Dalmatian,25558.9159,48.0,13.8138,high,high,short,female,Cook
+Australian Shepherd,27348.9128,52.6178,13.1693,high,high,med,female,Fox
+Dalmatian,26040.2282,48.0,13.4097,med,high,short,female,Griffith
+Australian Shepherd,21310.7582,,13.2619,high,high,med,female,Frazier
+Airedale Terrier,20962.3882,,12.6273,high,high,med,female,Martin
+Australian Shepherd,26802.9513,54.8274,13.5375,med,high,med,female,Smith
+Australian Shepherd,18017.785,52.6797,12.8456,high,high,med,male,Johnson
+Australian Shepherd,18819.9906,52.6603,12.7084,med,med,med,female,Reid
+Dalmatian,22205.3781,48.0,12.1286,high,high,short,female,Gardner
+Dalmatian,22186.7306,48.0,13.6118,high,high,short,male,Anderson
+Australian Shepherd,24003.1448,56.1497,12.7176,high,high,med,male,Kirk
+Airedale Terrier,20838.9747,56.484,11.7267,high,high,med,male,Vargas
+Japanese Chin Dog,1053.4944,22.8602,12.5847,med,med,short,female,Greer
+Japanese Chin Dog,3119.8642,24.7043,13.6451,med,high,med,male,Smith
+Australian Shepherd,24654.1726,55.129,12.8039,med,high,med,male,Simmons
+Airedale Terrier,20505.7285,,11.7218,high,high,long,female,Allen
+Dalmatian,23082.0689,48.0,12.1347,high,high,short,male,Webster
+Dalmatian,22347.9087,48.0,13.4518,high,high,short,female,Frederick
+Japanese Chin Dog,3356.2827,23.8229,12.6033,med,high,med,female,Williams
+Japanese Chin Dog,3651.8348,23.9646,12.4203,med,high,med,female,May
+Dalmatian,25488.1269,48.0,13.0789,med,high,short,male,Strickland
+Dalmatian,24506.2762,48.0,13.3143,high,high,short,male,Haynes
+Australian Shepherd,22434.5514,56.3305,12.7205,high,high,med,female,Lee
+Dalmatian,24839.0348,48.0,12.3075,high,high,short,female,Duran
+Australian Shepherd,28932.688,53.7925,12.7033,high,high,med,female,Wolf
+Dalmatian,24169.2855,48.0,12.8524,high,high,short,female,Richardson
+Dalmatian,24400.3821,48.0,13.2904,high,high,short,male,Clark
+Japanese Chin Dog,4147.172,23.9571,13.097,med,high,med,female,Johnson
+Dalmatian,24600.0786,48.0,13.0287,high,med,short,female,Mitchell
+Airedale Terrier,21465.3241,56.8358,11.3651,high,high,med,female,Bailey
+Japanese Chin Dog,3810.8288,22.6957,13.5742,med,high,short,female,Fletcher
+Australian Shepherd,25989.6869,51.7725,13.7874,high,high,med,male,Davidson
+Dalmatian,24456.7191,48.0,13.5184,high,high,short,male,Campbell
+Dalmatian,25157.0341,,12.8798,high,high,med,male,Rowe
+Dalmatian,22011.2088,48.0,13.2127,med,high,short,female,Diaz
+Dalmatian,22378.7844,48.0,13.3066,high,high,short,female,Moore
+Airedale Terrier,19831.2044,,12.5092,high,high,long,male,Gonzalez
+Australian Shepherd,29295.9394,53.8003,12.5974,high,high,med,female,Mclaughlin
+Japanese Chin Dog,2424.0384,,12.5261,med,high,med,male,Thomas
+Japanese Chin Dog,3690.3684,22.3644,13.1439,med,med,med,male,Sanchez
+Airedale Terrier,20900.542,56.2248,11.9776,high,med,med,female,Elliott
+Japanese Chin Dog,4695.0489,21.4981,13.6368,med,high,med,male,Melinda
+Australian Shepherd,22279.671,53.8121,13.2469,high,high,med,female,Jackson
+Dalmatian,27196.5915,48.0,12.6209,high,high,short,male,Barnes
+Dalmatian,19890.4728,48.0,13.3514,high,high,short,male,Padilla
+Airedale Terrier,20345.9353,57.0594,11.9319,high,high,med,female,Rollins
+Australian Shepherd,23081.0282,54.0066,12.7657,high,high,med,female,Kelley
+Dalmatian,21968.3466,,13.253,high,high,short,male,Smith
+Airedale Terrier,19886.402,57.9503,11.7219,high,high,long,male,Adams
+Japanese Chin Dog,2820.4183,23.2717,13.8569,med,high,med,male,Garcia
+Australian Shepherd,25250.9753,,11.847,high,high,med,male,Garcia
+Japanese Chin Dog,3698.9978,23.1051,13.1225,med,high,med,female,Wallace
+Dalmatian,23603.9702,48.0,13.0654,high,high,short,male,Booth
+Australian Shepherd,18650.4647,,12.9271,high,high,med,female,Rodriguez
+Japanese Chin Dog,4338.8748,24.6094,12.7716,med,med,long,female,Curry
+Australian Shepherd,34514.8318,54.1114,13.2272,high,high,med,male,Lambert
+Dalmatian,22939.954,48.0,14.2987,med,high,short,male,Nunez
+Australian Shepherd,27749.1457,55.4195,13.0607,high,high,med,male,Ward
+Japanese Chin Dog,5431.2666,23.5082,12.6099,low,high,med,female,Brown
+Dalmatian,22792.5783,48.0,12.2166,high,high,short,female,Martin
+Australian Shepherd,25311.9226,,12.4987,high,high,med,male,Williams
+Japanese Chin Dog,2609.5478,21.8003,12.941,med,high,med,female,Moore
+Japanese Chin Dog,4395.7086,22.7526,12.4184,med,high,med,male,Bowman
+Australian Shepherd,25842.9592,54.05,13.4498,high,high,med,male,Barnes
+Airedale Terrier,23639.5339,57.063,11.6952,high,high,med,male,Richardson
+Australian Shepherd,23691.091,51.5038,12.7332,high,high,short,female,Sims
+Airedale Terrier,20580.426,56.2715,9.7217,high,med,short,male,Hernandez
+Dalmatian,22539.1379,,13.3349,high,high,med,male,Jackson
+Airedale Terrier,19355.9768,57.3567,12.0888,high,high,med,female,Marshall
+Airedale Terrier,20355.6571,57.312,11.8474,high,high,med,male,Hopkins
+Airedale Terrier,20998.4015,,12.4907,high,high,long,male,Peterson
+Dalmatian,25319.2413,48.0,12.951,high,high,short,female,Sweeney
+Japanese Chin Dog,3953.7163,22.5277,12.2149,high,high,long,female,Marshall
+Airedale Terrier,19441.6894,,12.8824,high,high,med,male,Bowen
+Dalmatian,22785.5727,48.0,13.0789,high,high,short,female,Lambert
+Japanese Chin Dog,4187.5109,23.9921,13.1579,med,high,med,male,Mcconnell
+Japanese Chin Dog,4263.4547,22.8492,13.6217,med,high,med,male,Gay
+Dalmatian,22272.0881,48.0,13.5574,high,high,short,male,Kim
+Airedale Terrier,20172.2644,57.383,10.0418,high,high,med,female,Richards
+Airedale Terrier,21033.593,57.0684,11.5559,high,high,med,male,Peterson
+Airedale Terrier,20814.1041,,11.4357,high,high,med,female,Brennan
+Dalmatian,18300.2425,48.0,13.1007,high,med,short,male,Jennings
+Australian Shepherd,29974.9133,54.3211,12.5582,high,high,long,male,Leon
+Japanese Chin Dog,3990.9458,22.9824,13.3576,med,high,med,male,Wallace
+Australian Shepherd,24564.7467,52.0738,12.3212,med,high,med,female,Robinson
+Dalmatian,21912.9773,48.0,13.0217,high,high,short,male,Russell
+Australian Shepherd,21008.5733,,12.3341,high,high,med,female,Freeman
+Japanese Chin Dog,2662.6347,23.6729,13.0076,high,high,med,female,Williams
+Airedale Terrier,23366.0077,56.2845,10.2534,high,high,med,male,Young
+Australian Shepherd,23251.8943,55.5667,13.49,high,high,short,female,Martin
+Australian Shepherd,23331.0777,,12.8396,high,high,med,male,Parker
+Airedale Terrier,23329.451,56.3592,11.3484,high,high,med,male,Morris
+Airedale Terrier,20577.7154,57.3643,11.2689,high,high,med,male,Williams
+Dalmatian,21514.549,,12.2914,high,high,short,male,Young
+Airedale Terrier,18927.5871,56.7387,12.1578,high,high,med,female,Leblanc
+Dalmatian,21418.7259,,12.2751,high,high,short,male,Smith
+Airedale Terrier,21596.5867,57.1674,11.6152,high,high,long,male,Scott
+Japanese Chin Dog,3130.0179,23.5981,12.7797,med,high,med,female,Townsend
+Airedale Terrier,21204.3764,56.4887,10.7698,med,high,med,male,Smith
+Airedale Terrier,20562.999,56.2639,11.0307,high,high,med,female,Werner
+Dalmatian,21009.8483,48.0,12.9459,high,high,short,female,Garrett
+Australian Shepherd,14629.4985,53.5769,13.265,high,high,med,male,Hughes
+Australian Shepherd,21497.2408,53.6476,12.5363,high,high,med,female,Barnes
+Dalmatian,24767.5732,48.0,13.3088,high,high,short,male,Reed
+Japanese Chin Dog,1934.7767,23.4543,12.8666,med,high,long,male,Schmitt
+Japanese Chin Dog,3020.7435,23.3505,12.8875,med,high,med,male,Kelly
+Australian Shepherd,19463.9087,52.5488,12.7054,high,high,med,male,Lambert
+Australian Shepherd,26462.1497,,12.07,high,high,med,female,Daniels
+Airedale Terrier,20293.2479,55.8915,11.0259,med,high,med,female,Mcgee
+Airedale Terrier,18577.4147,56.3514,12.0045,high,high,med,female,Martin
+Japanese Chin Dog,4686.4914,22.4335,12.7826,med,high,med,male,Kirby
+Japanese Chin Dog,5708.6524,,11.6719,med,high,med,male,Martinez
+Australian Shepherd,20767.9919,52.1536,12.7428,high,high,med,female,Montgomery
+Airedale Terrier,19306.0117,,11.4787,med,high,short,female,Conway
+Australian Shepherd,22664.9925,,12.2484,high,high,med,female,Carter
+Australian Shepherd,26474.9825,55.3467,12.4719,high,high,med,female,Herrera
+Airedale Terrier,21273.048,57.4435,10.878,high,high,med,female,Walters
+Japanese Chin Dog,3933.3593,23.7233,13.7805,med,high,med,female,Guzman
+Australian Shepherd,25208.5205,52.1528,13.7527,high,high,med,male,Jones
+Japanese Chin Dog,2132.4402,24.1284,12.9403,med,high,med,female,Burnett
+Dalmatian,22557.9682,48.0,12.5799,high,high,short,male,Trevino
+Airedale Terrier,21951.7952,58.5659,14.851,high,high,long,male,Jackson
+Dalmatian,22320.3084,48.0,13.1823,high,high,short,male,Edwards
+Japanese Chin Dog,3500.7948,,13.2018,med,high,med,female,Green
+Australian Shepherd,21150.1167,53.1308,11.7109,high,high,med,male,Watson
+Airedale Terrier,22230.186,,10.1291,high,high,med,female,Taylor
+Australian Shepherd,23893.248,52.3279,13.0359,high,high,med,female,Gonzales
+Australian Shepherd,25529.7268,54.7622,13.6642,high,high,med,female,Brooks
+Airedale Terrier,20135.3073,57.4,11.9199,high,high,med,male,Owens
+Dalmatian,21816.5907,,12.4099,high,high,short,female,Christopher
+Australian Shepherd,24529.4286,,13.5684,high,high,med,female,Smith
+Dalmatian,21465.2772,,12.5909,high,high,short,male,Mccoy
+Airedale Terrier,20676.1718,56.1679,9.8639,high,high,med,female,Watson
+Japanese Chin Dog,2059.8825,22.9462,13.817,low,med,long,male,Garza
+Dalmatian,24595.2732,,13.3197,high,high,short,male,Alvarez
+Airedale Terrier,19787.5094,,10.1827,med,high,med,male,Navarro
+Airedale Terrier,19028.3176,57.1974,11.7765,high,high,med,male,Valdez
+Dalmatian,21850.3224,48.0,12.025,high,high,short,male,Gibbs
+Dalmatian,23950.3694,,13.2033,high,high,short,female,Rangel
+Japanese Chin Dog,3701.5426,24.6081,13.5833,med,med,med,female,Carr
+Airedale Terrier,19532.3821,58.0977,10.6656,med,high,med,female,Sanchez
+Airedale Terrier,22378.0642,57.5793,10.8912,high,high,med,male,Cunningham
+Australian Shepherd,21616.3638,,12.9476,med,high,med,male,Bray
+Dalmatian,20845.362,48.0,13.0611,high,high,short,female,Long
+Dalmatian,25561.9914,48.0,12.9878,high,high,short,male,Holland
+Airedale Terrier,17544.746,57.5187,10.5946,high,high,med,female,Rojas
+Airedale Terrier,22064.7593,56.2539,11.4375,high,high,med,male,Clayton
+Australian Shepherd,29420.8204,52.2805,12.6542,high,high,med,male,Allison
+Dalmatian,28034.2461,48.0,13.0556,med,high,short,female,Collins
+Airedale Terrier,20328.9543,,10.2502,high,med,med,male,Hines
+Dalmatian,26121.084,48.0,11.7913,high,med,short,female,Anna
+Dalmatian,23045.925,48.0,13.0182,high,high,short,male,Bowman
+Japanese Chin Dog,4567.4234,,12.7191,med,high,med,female,Molina
+Dalmatian,22230.6448,48.0,12.0752,high,med,short,female,Rowland
+Airedale Terrier,21728.5991,57.1563,12.1766,high,high,med,female,Huang
+Airedale Terrier,20102.7459,56.8166,12.6229,high,high,med,female,Morgan
+Australian Shepherd,16304.1993,54.5051,12.1778,high,high,short,female,Ramirez
+Airedale Terrier,18569.1843,57.7598,11.1847,high,high,med,female,Roberts
+Australian Shepherd,27155.0982,55.0868,14.0939,high,high,long,male,Mitchell
+Airedale Terrier,19494.6257,56.3952,12.0852,high,high,med,female,Berry
+Australian Shepherd,25463.1229,52.267,13.6653,high,high,med,male,Rush
+Airedale Terrier,15830.8646,56.7165,11.9543,med,high,med,female,Smith
+Dalmatian,21685.741,48.0,13.6035,high,med,short,female,Conner
+Airedale Terrier,20611.0996,57.0869,9.7699,high,med,med,male,Perry
+Australian Shepherd,20482.1654,53.8936,13.7114,med,high,med,female,Tucker
+Australian Shepherd,21378.9726,,14.5373,high,high,long,male,Wagner
+Airedale Terrier,21156.2983,56.3563,10.993,high,high,med,female,Romero
+Airedale Terrier,22308.8726,56.6947,11.1768,high,high,long,male,Morris
+Dalmatian,25559.486,48.0,12.4429,high,high,short,male,Cervantes
+Japanese Chin Dog,2943.7117,24.7256,12.3424,med,med,med,male,Griffin
+Japanese Chin Dog,2134.5674,22.6446,13.1981,med,high,long,male,Chaney
+Dalmatian,23666.3309,,12.9994,high,high,short,male,Page
+Dalmatian,23173.8461,48.0,13.728,high,high,short,female,Mccarthy
+Dalmatian,24906.3765,48.0,13.3122,high,high,short,female,Stewart
+Dalmatian,24250.6575,48.0,12.8707,high,high,short,male,Roberts
+Australian Shepherd,26030.6276,52.7573,14.0249,high,high,med,male,Glass
+Airedale Terrier,21939.8825,56.4731,12.936,high,high,med,female,Velez
+Dalmatian,23686.0837,48.0,12.6325,high,high,short,male,Harper
+Airedale Terrier,20118.3553,57.4982,12.8961,high,high,med,female,Bailey
+Dalmatian,24019.6939,48.0,14.7603,high,high,med,male,Walker
+Australian Shepherd,22628.6798,53.3526,13.5697,high,high,med,male,Hernandez
+Dalmatian,28077.6569,48.0,12.9583,high,high,short,female,Ho
+Australian Shepherd,25095.3849,51.6207,13.4869,high,high,long,female,Smith
+Australian Shepherd,28885.2906,,12.5032,high,high,med,female,Carter
+Australian Shepherd,23221.7631,53.3642,12.462,high,high,med,male,Nelson
+Dalmatian,22574.119,48.0,13.1036,high,high,short,male,Roth
+Airedale Terrier,18262.9299,55.9583,12.3927,high,high,med,female,Moore
+Japanese Chin Dog,4303.9536,22.9652,12.469,med,high,long,female,Daniels
+Airedale Terrier,20732.1916,56.6997,10.6583,high,med,short,female,Singh
+Airedale Terrier,20477.6775,57.6025,12.42,high,high,med,male,Parks
+Australian Shepherd,24034.5777,,13.5881,high,high,long,male,Cain
+Japanese Chin Dog,4984.4577,,12.9707,med,med,long,male,Burgess
+Australian Shepherd,19429.5877,51.0767,12.5322,high,high,med,female,Gordon
+Airedale Terrier,21041.2924,57.289,11.5046,high,high,med,female,Butler
+Dalmatian,24131.4681,48.0,12.0731,high,high,short,male,Reyes
+Australian Shepherd,22987.3222,,12.5864,high,high,short,male,Houston
+Airedale Terrier,20264.3952,56.5056,11.666,high,high,med,female,Brown
+Airedale Terrier,19774.4346,57.2522,8.9552,high,high,med,female,Merritt
+Airedale Terrier,20541.6558,55.9374,10.3657,med,high,med,female,Wilson
+Japanese Chin Dog,4233.831,24.1493,13.5065,med,high,med,male,Foster
+Australian Shepherd,29409.4813,53.6571,11.8443,high,high,med,male,Johnson
+Australian Shepherd,25092.7981,,11.5398,high,high,med,female,Cannon
+Dalmatian,23279.714,48.0,12.9122,high,high,short,male,Sims
+Airedale Terrier,19433.0407,,11.2049,med,high,med,male,Mcguire
+Dalmatian,22447.3985,48.0,13.5546,high,high,med,male,Wells
+Japanese Chin Dog,3087.3944,24.3451,13.2314,high,high,med,female,Trujillo
+Australian Shepherd,21345.5762,52.9092,13.379,med,high,med,male,Foster
+Australian Shepherd,27211.0351,53.8034,13.2579,high,high,med,male,Pham
+Australian Shepherd,25910.3148,52.855,12.6961,high,high,med,male,Manning
+Japanese Chin Dog,2251.0583,23.8612,12.5021,med,high,med,female,Harding
+Dalmatian,26725.8385,48.0,13.6223,high,high,short,female,Jones
+Dalmatian,20934.7869,48.0,14.3678,high,high,short,female,Gilbert
+Dalmatian,21019.1647,,13.4827,high,med,short,female,Greene
+Dalmatian,23150.3158,48.0,12.0158,high,high,short,female,Franklin
+Australian Shepherd,24179.2525,54.0348,13.3544,high,high,med,female,Moore
+Dalmatian,28518.3421,48.0,12.456,high,high,short,male,Burton
+Airedale Terrier,18699.6524,58.0371,10.993,high,high,long,male,Zamora
+Dalmatian,23790.5675,48.0,13.2169,high,high,short,male,Horn
+Japanese Chin Dog,3738.5617,23.1826,12.7666,med,high,med,female,Brown
+Dalmatian,22871.8481,48.0,12.3365,high,high,short,male,Ellis
+Australian Shepherd,25891.2049,55.1469,12.4665,high,high,med,female,King
+Japanese Chin Dog,3974.4917,24.2691,12.6674,med,med,med,male,Simmons
+Australian Shepherd,28998.6232,52.1269,12.6317,high,high,med,male,Holloway
+Airedale Terrier,19364.7995,57.6861,10.8009,high,med,med,female,Richardson
+Japanese Chin Dog,3642.9291,24.0173,12.14,med,high,short,male,May
+Airedale Terrier,18928.7264,57.8838,12.897,high,high,med,male,Mack
+Japanese Chin Dog,2743.9513,23.5543,11.9453,high,high,med,female,Blackwell
+Australian Shepherd,27326.0903,,12.067,high,high,short,female,Brown
+Australian Shepherd,22563.0439,53.6209,12.799,high,high,med,female,West
+Dalmatian,24777.1007,48.0,12.2555,high,high,short,male,Watkins
+Airedale Terrier,20790.9533,,11.0894,high,high,med,male,Holt
+Dalmatian,22365.6099,,13.3448,high,med,short,female,Dougherty
+Airedale Terrier,20507.4873,57.3569,11.3325,med,high,med,male,Jones
+Airedale Terrier,20392.2383,56.9216,12.5047,high,high,med,male,Williams
+Airedale Terrier,19898.7512,57.3562,11.3576,high,high,med,female,David
+Dalmatian,19844.9238,48.0,13.0594,high,high,short,male,Mcguire
+Australian Shepherd,19932.36,54.1523,13.8595,med,high,med,male,Vega
+Dalmatian,27737.8448,48.0,14.1776,high,high,short,male,Walker
+Airedale Terrier,20766.8559,,9.9087,high,high,med,male,Pena
+Australian Shepherd,22456.4308,53.0616,13.2509,med,high,med,male,Hill
+Australian Shepherd,22954.6222,53.4788,13.0103,med,med,med,male,Hernandez
+Australian Shepherd,25923.6111,53.1547,12.9375,med,high,med,female,Morales
+Airedale Terrier,18605.7728,56.2275,11.279,high,high,med,female,Escobar
+Dalmatian,25654.6323,48.0,14.1542,high,high,short,female,Jones
+Japanese Chin Dog,3259.4375,,12.9572,med,high,med,female,Castillo
+Dalmatian,20276.9269,48.0,12.1188,high,high,short,male,Austin
+Dalmatian,23415.5796,48.0,13.3243,high,high,short,female,Rodriguez
+Japanese Chin Dog,4042.3299,22.841,10.7835,med,high,med,male,Harris
+Airedale Terrier,19123.8724,57.2382,13.3454,high,high,med,male,Combs
+Japanese Chin Dog,2664.9589,24.7401,13.2651,med,high,med,male,Hicks
+Japanese Chin Dog,4705.9384,24.2871,13.1373,med,high,med,male,Garner
+Japanese Chin Dog,3187.5851,23.5229,11.8633,low,med,med,female,Hernandez
+Japanese Chin Dog,3428.5925,,12.9544,med,high,med,male,Mcclain
+Australian Shepherd,24240.4087,,12.6367,high,high,med,male,Kim
+Australian Shepherd,30937.5827,,12.7622,high,high,med,female,Avila
+Airedale Terrier,20267.7977,58.6634,11.9755,high,high,med,female,Jackson
+Japanese Chin Dog,2789.2307,,14.0328,med,high,med,female,Thompson
+Japanese Chin Dog,3287.8235,23.2266,13.2294,med,med,med,male,Jenkins
+Australian Shepherd,23576.6047,,12.8709,med,high,med,male,Richardson
+Australian Shepherd,22985.2448,55.5053,13.063,high,high,med,female,Manning
+Japanese Chin Dog,3776.3567,23.886,12.9839,high,high,med,male,Gonzalez
+Australian Shepherd,20567.1917,55.5052,13.1516,high,high,med,female,Johnson
+Dalmatian,23416.4954,48.0,12.1174,high,high,short,female,Brown
+Airedale Terrier,19524.3592,57.0288,11.3747,med,high,med,female,Jackson
+Japanese Chin Dog,2979.7663,23.1262,13.3476,med,high,med,female,Olsen
+Airedale Terrier,21390.7632,56.9013,10.268,med,high,long,male,Gutierrez
+Japanese Chin Dog,3617.7475,23.7769,13.3858,med,high,med,male,Anderson
+Japanese Chin Dog,2992.8798,24.7475,13.5269,low,high,med,female,Rodriguez
+Airedale Terrier,20242.3239,56.9065,12.0039,med,high,med,male,Lang
+Japanese Chin Dog,3369.2345,24.6135,13.0539,med,high,med,male,Cooper
+Dalmatian,24441.9118,48.0,12.9196,high,high,short,female,Ritter
+Airedale Terrier,19170.3027,56.1055,11.1596,high,high,short,male,Wright
+Dalmatian,27096.1512,48.0,13.6636,high,high,short,female,Hamilton
+Airedale Terrier,21624.056,57.7474,11.5686,med,high,med,female,Anderson
+Japanese Chin Dog,3153.8797,24.89,14.565,med,high,med,female,Willis
+Dalmatian,24196.8694,48.0,13.0016,high,high,med,female,Price
+Japanese Chin Dog,4872.341,24.4239,13.3379,med,med,short,male,Nguyen
+Japanese Chin Dog,3523.9444,24.0608,12.4217,med,high,med,female,Riddle
+Japanese Chin Dog,4605.0167,21.2795,12.9947,med,med,long,female,Sanders
+Dalmatian,24567.6258,48.0,13.1778,high,high,short,female,Grant
+Japanese Chin Dog,3569.1706,24.9087,12.7128,med,high,med,female,Lewis
+Airedale Terrier,21972.8183,,10.9095,high,high,med,female,Taylor
+Airedale Terrier,18689.5109,57.1475,11.2917,high,high,med,male,Arnold
+Airedale Terrier,22297.1113,57.613,10.8076,med,high,med,male,Vargas
+Dalmatian,21248.4651,48.0,12.2739,med,high,short,female,Horne
+Dalmatian,20238.8719,,12.055,high,high,short,male,Blanchard
+Dalmatian,23701.0682,48.0,12.6067,high,high,med,male,Watson
+Airedale Terrier,20007.3721,56.9378,12.5315,high,high,med,female,Garza
+Japanese Chin Dog,3709.4871,23.4007,12.686,med,high,med,male,Ashley
+Dalmatian,28702.5535,48.0,13.3669,high,high,short,male,Hart
+Dalmatian,24035.4187,48.0,12.5902,med,high,short,male,Robinson
+Airedale Terrier,18644.7798,56.2547,12.065,high,high,med,female,Adams
+Dalmatian,25913.7143,48.0,12.9862,high,high,short,female,King
+Dalmatian,26391.4312,,12.6629,med,high,short,male,Burns

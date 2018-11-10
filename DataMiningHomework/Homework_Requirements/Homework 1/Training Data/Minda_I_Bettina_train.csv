@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+German Shepherd,35836.6806,61.4641,11.0031,low,low,med,male,Morris
+Golden Retriever,27132.7505,59.515,11.5788,med,high,med,male,Vasquez
+Golden Retriever,28355.4768,57.6184,12.3039,med,high,med,male,Rice
+Golden Retriever,30264.5981,,11.6376,med,high,med,male,Sutton
+Amstaff,24082.6758,45.5755,13.1546,med,high,short,male,Gross
+German Shepherd,36396.6144,59.296,10.8949,med,med,med,female,Thompson
+Amstaff,25386.2756,45.8449,12.4463,med,high,short,male,Hull
+Amstaff,26299.0384,46.3205,13.2283,med,high,short,female,Singh
+Dalmatian,22432.8706,48.0,13.3683,high,med,short,female,Hicks
+German Shepherd,37261.4441,61.1991,9.2757,high,med,med,female,Johnson
+Dalmatian,25103.5605,48.0,13.5886,high,high,short,female,Fischer
+Golden Retriever,34381.4803,57.7609,11.8041,med,high,med,male,Cantrell
+German Shepherd,35910.7694,62.0073,10.4453,med,med,med,male,Lewis
+Amstaff,22190.2212,47.0339,11.6854,med,high,short,male,Price
+German Shepherd,37103.2933,59.7724,11.7961,med,high,med,male,Miller
+German Shepherd,36972.503,60.8503,11.5162,med,low,med,female,Oneal
+Amstaff,25977.5965,,11.1929,low,high,short,male,Jimenez
+Dalmatian,25610.8594,48.0,13.261,high,high,short,female,Edwards
+Dalmatian,21782.0995,48.0,12.9027,high,high,short,female,Wade
+Golden Retriever,31205.2859,59.9796,11.8458,med,high,short,male,Mendez
+Amstaff,21783.0869,46.3017,12.8699,med,high,short,female,Wilcox
+Amstaff,32084.6986,,12.7038,med,med,short,male,Leonard
+German Shepherd,37201.4794,61.955,11.2924,med,med,med,female,Christian
+Amstaff,25388.4156,45.8057,13.2821,med,high,short,male,Kathryn
+Dalmatian,25469.0804,48.0,12.7258,high,high,med,male,Cook
+Dalmatian,20530.8828,48.0,13.6504,high,high,short,female,Hughes
+Golden Retriever,28560.5072,59.0981,13.9763,low,high,med,male,Brown
+Amstaff,20155.817,46.943,13.4123,med,high,short,male,Sandra
+German Shepherd,36800.642,62.1848,10.665,med,high,med,female,Adams
+Amstaff,26414.8641,45.7117,13.5801,med,high,short,female,Hill
+Golden Retriever,30936.8456,59.3655,11.4747,high,high,med,female,Kirk
+Dalmatian,19549.262,,13.6112,high,high,short,male,Rivera
+German Shepherd,35866.0779,59.6142,11.4204,med,med,med,female,Rowe
+Amstaff,23227.4921,46.8687,13.2672,med,high,short,male,Martin
+Dalmatian,25815.5769,48.0,13.0887,high,high,short,female,Booth
+German Shepherd,37425.7328,62.4797,9.2293,med,high,med,female,Brown
+Golden Retriever,29908.1331,,12.6208,med,high,med,male,Becker
+Amstaff,24128.875,46.1406,11.912,high,high,short,male,Carson
+German Shepherd,35048.1544,59.4369,9.7204,med,med,med,male,Mills
+Dalmatian,23118.2704,48.0,12.7927,high,high,med,male,Sexton
+German Shepherd,38613.0826,65.1067,11.8705,med,med,med,female,Taylor
+Dalmatian,20968.5039,,12.6262,high,high,short,female,Wyatt
+German Shepherd,35749.7445,63.3693,10.4002,med,high,med,female,Molina
+Amstaff,27600.6606,46.2032,13.9768,med,high,short,female,Perez
+German Shepherd,37203.5674,61.8424,10.5897,med,med,med,male,Good
+German Shepherd,39621.0814,58.1977,11.7491,med,med,med,female,Garza
+Amstaff,27087.621,46.3435,13.5163,med,high,short,male,Hernandez
+Golden Retriever,28855.3992,,11.4651,med,high,med,female,Jones
+German Shepherd,37416.0141,62.1371,10.6786,med,low,med,male,Flynn
+German Shepherd,35085.2808,64.1138,10.6312,med,high,long,female,Wright
+Golden Retriever,27736.7422,59.113,10.8127,med,high,med,male,Gutierrez
+Dalmatian,23464.1045,,12.8976,high,high,short,male,Baker
+Dalmatian,23989.9249,48.0,13.1343,high,med,short,female,Ford
+Dalmatian,25297.0713,48.0,12.7104,high,high,short,female,Roberts
+Dalmatian,26764.1974,48.0,13.3893,high,high,short,female,Case
+Dalmatian,21110.9463,48.0,13.0018,high,high,short,female,Mcpherson
+Amstaff,27573.3388,46.1502,13.082,med,high,short,female,Rasmussen
+Dalmatian,25873.6439,48.0,12.9231,high,high,short,female,Gray
+Golden Retriever,32137.8859,57.0621,11.9981,med,high,med,male,Meyer
+German Shepherd,39683.5635,,10.4787,med,med,med,female,Kelsey
+Dalmatian,22911.1146,,12.3962,high,high,short,female,Williams
+Amstaff,21391.6886,45.3201,12.7463,med,high,short,female,Gregory
+Amstaff,19545.6376,44.0862,12.321,low,high,short,female,Perkins
+Amstaff,27625.16,45.4567,12.8667,med,high,med,female,Murillo
+Dalmatian,23126.4575,,15.0304,high,med,short,male,Gonzalez
+Golden Retriever,32201.2637,60.0735,11.0008,low,med,med,female,Clark
+Dalmatian,23286.5885,48.0,13.1364,med,high,short,male,Williams
+Golden Retriever,29716.8695,58.1008,10.8253,med,high,med,male,Cox
+Dalmatian,23119.0613,48.0,13.302,high,high,med,female,Sanford
+Dalmatian,21269.388,48.0,11.9237,high,high,short,female,Gray
+Amstaff,21647.9481,45.7325,13.1374,med,high,short,male,Morrison
+Amstaff,28662.2299,45.7576,13.6042,med,high,short,female,Chan
+German Shepherd,36341.6241,,9.5128,med,high,med,female,Zhang
+Golden Retriever,26782.9599,59.9375,11.1221,med,high,med,male,Harris
+Dalmatian,23649.4633,48.0,12.8881,high,high,short,female,Webster
+German Shepherd,36784.6613,60.329,11.0609,med,med,med,male,Torres
+Golden Retriever,29868.1153,54.9038,11.4032,med,high,med,male,Gonzales
+Dalmatian,21748.4065,48.0,12.2189,high,high,short,male,Yang
+Dalmatian,23909.8179,48.0,13.6536,high,high,short,male,Mcdonald
+Amstaff,23294.4932,,12.8753,high,high,short,male,Oconnor
+Dalmatian,23149.5709,48.0,12.053,high,high,short,male,Michelle
+Amstaff,27228.6895,,12.1588,med,high,short,male,Rose
+Golden Retriever,28275.5454,56.6418,10.8358,med,high,med,female,Santiago
+German Shepherd,38158.745,61.5674,11.733,med,high,short,female,Scott
+Golden Retriever,27558.1576,,12.2204,med,high,short,female,Clay
+Golden Retriever,29779.8936,57.1251,10.447,low,high,med,female,Turner
+Golden Retriever,25310.1985,,11.4284,med,high,med,female,Shea
+Amstaff,24637.5776,45.2594,12.9049,med,high,short,male,Davis
+Dalmatian,22058.3605,48.0,13.6068,high,high,short,male,Hernandez
+Dalmatian,22253.9247,48.0,12.9409,high,high,short,male,Ross
+German Shepherd,35881.5969,63.7061,11.0403,med,med,med,male,Torres
+Golden Retriever,27295.9417,,10.903,med,high,med,male,Gibson
+Amstaff,33664.5588,45.423,12.946,med,high,short,male,Ross
+Dalmatian,20767.0333,48.0,13.555,high,high,short,female,Chase
+Golden Retriever,35546.5653,56.6971,11.7985,med,high,med,female,Martinez
+Amstaff,25820.0797,46.2299,13.5744,high,high,short,female,Rhodes
+Dalmatian,19841.9514,48.0,12.875,high,high,short,male,Hall
+Golden Retriever,29073.4969,54.8407,10.5056,med,high,med,female,Williams
+Dalmatian,28598.2015,48.0,12.2776,med,high,short,female,Silva
+Amstaff,27433.7496,45.4335,12.5717,med,high,short,male,Chavez
+Golden Retriever,28559.5533,57.3754,10.3437,low,med,med,male,Brown
+Dalmatian,18627.7423,48.0,12.8692,med,med,short,male,Johnson
+Golden Retriever,27892.6432,,12.3846,med,high,med,male,Anderson
+Golden Retriever,29638.0365,57.5793,11.05,med,high,med,male,Davis
+German Shepherd,37635.4347,62.2861,10.8196,med,med,med,male,Brooks
+German Shepherd,35907.6075,59.0203,10.5046,high,med,med,male,Tucker
+German Shepherd,36562.5315,59.9675,10.1076,low,med,med,male,Brady
+Golden Retriever,26743.8291,,13.2248,med,high,med,male,Dunn
+Golden Retriever,25328.9363,56.254,12.6006,med,med,med,female,Jones
+Dalmatian,21241.7784,48.0,13.7112,high,high,short,male,Parks
+German Shepherd,36113.3425,60.9109,10.1237,med,low,med,male,Preston
+Golden Retriever,30279.2394,60.8884,12.5848,low,high,long,female,Evans
+Dalmatian,23640.5137,48.0,12.2939,high,high,short,male,Hartman
+Dalmatian,22904.7657,,12.7252,high,high,short,female,Wilson
+Amstaff,23267.0796,46.6513,12.0671,med,med,med,male,Ramirez
+Amstaff,20524.1344,46.2445,12.6265,med,high,short,male,Cowan
+Amstaff,29975.6341,45.7984,12.218,low,high,med,male,Mcbride
+German Shepherd,37435.2122,60.6991,10.6291,med,med,med,male,Park
+Amstaff,26863.6457,46.0216,13.0658,med,high,short,female,Aguilar
+Amstaff,32052.486,45.8084,14.0439,med,high,short,male,Landry
+Golden Retriever,32445.799,,12.2626,med,high,med,female,Gray
+Amstaff,25760.9866,46.2077,13.7109,med,high,med,female,Gray
+Amstaff,22893.6196,45.5684,12.7333,med,high,short,male,Ortiz
+Golden Retriever,29565.1839,,11.546,med,high,long,female,Jones
+German Shepherd,38443.3264,59.5876,11.4445,med,high,med,female,Smith
+Golden Retriever,29126.7839,58.2946,11.1301,low,high,med,female,Santiago
+German Shepherd,36814.6575,59.667,10.3126,med,med,long,male,Mayer
+Golden Retriever,30811.679,55.377,11.7677,med,high,med,female,Bass
+Amstaff,22424.8486,46.1126,13.1575,low,high,short,male,Cruz
+Amstaff,25980.9421,46.0199,13.8089,med,high,short,female,Esparza
+German Shepherd,35282.0395,59.3039,10.9101,med,high,long,male,Gentry
+German Shepherd,35672.8882,62.4164,11.4606,med,med,med,female,Smith
+German Shepherd,35364.7661,,10.2259,low,med,med,female,Fitzgerald
+Golden Retriever,28307.5859,59.0938,11.0112,med,high,med,female,Irwin
+Golden Retriever,31213.932,58.9603,11.0447,high,high,med,female,Turner
+Amstaff,25633.3017,45.7766,12.5165,high,high,short,male,Eaton
+Golden Retriever,27922.0016,55.5859,11.5906,med,high,med,female,Thomas
+German Shepherd,34485.7053,62.0952,10.2385,med,low,med,male,West
+Golden Retriever,29130.2238,58.7657,11.9653,high,high,med,female,Brown
+Amstaff,29523.75,45.9047,13.6239,med,high,short,female,Hale
+Dalmatian,23550.4829,48.0,12.4647,med,high,short,male,Bailey
+Golden Retriever,29090.2648,55.1256,12.9714,high,high,med,male,Scott
+Dalmatian,21763.5851,48.0,12.9451,high,high,short,male,Gentry
+German Shepherd,35275.7554,,11.0591,med,med,med,male,Hernandez
+German Shepherd,37991.1259,64.8267,11.1464,med,med,med,male,Moore
+Amstaff,27108.4878,45.5722,13.0077,med,high,short,female,King
+Golden Retriever,31678.8934,60.0149,10.4697,med,high,med,female,Torres
+German Shepherd,35765.5481,,11.0179,med,high,med,male,Owens
+Golden Retriever,31045.979,,11.0055,high,high,med,female,Pearson
+Dalmatian,23262.3737,48.0,13.8106,high,high,short,female,Collins
+Amstaff,23818.452,,13.4705,med,high,short,male,Green
+Dalmatian,25981.8756,48.0,13.0875,high,high,short,male,Johnson
+Dalmatian,23387.1978,48.0,12.9091,high,high,short,female,Moss
+Amstaff,29233.9122,46.8682,12.4181,med,high,short,female,Daniels
+Golden Retriever,29158.252,57.6397,12.5322,low,high,med,female,Coleman
+Dalmatian,22636.8671,48.0,12.7719,high,high,short,female,Mendoza
+Dalmatian,25818.7789,,13.6196,high,med,short,male,Smith
+Amstaff,20493.4709,46.054,12.9174,med,high,short,female,Arnold
+German Shepherd,36818.6435,,11.3158,high,med,short,female,Lee
+Golden Retriever,26483.2816,,12.8528,med,high,med,female,White
+Dalmatian,26466.3866,,13.0689,high,high,short,male,Anderson
+Amstaff,26125.3016,,14.1713,med,high,short,female,Armstrong
+Golden Retriever,29741.3391,60.6053,11.5556,low,med,med,male,Dominguez
+German Shepherd,35991.0056,64.2081,10.532,high,med,med,male,Bradley
+Amstaff,28968.3053,46.2022,12.7639,med,high,short,male,Arnold
+German Shepherd,38287.7499,63.846,10.8906,med,med,med,male,Evans
+German Shepherd,34897.1059,,10.0104,med,med,med,male,Humphrey
+German Shepherd,36241.4626,60.1285,11.0246,med,med,med,male,Mercer
+German Shepherd,37143.5358,63.2143,10.8756,med,med,med,female,Bates
+Amstaff,26215.1344,,12.0865,med,high,short,male,Tucker
+Dalmatian,23511.4893,48.0,13.6664,high,med,short,female,Hannah
+German Shepherd,34814.922,60.9671,10.4433,med,high,med,female,Ramsey
+Golden Retriever,34602.3601,56.0884,9.9682,med,high,med,female,James
+Golden Retriever,29627.659,61.0659,12.7035,low,high,med,male,Jenkins
+Golden Retriever,25475.4915,56.5249,11.8469,low,high,med,male,Williams
+Amstaff,24464.0191,46.3848,11.6746,med,high,short,female,Lynn
+Dalmatian,26891.4786,48.0,12.8847,med,high,short,female,Carey
+Dalmatian,26590.1895,48.0,13.2059,high,high,short,female,Morse
+Amstaff,27297.7101,,13.187,med,high,short,female,Jones
+Golden Retriever,26859.4389,56.0524,11.838,low,high,med,male,Silva
+Amstaff,23960.5958,,12.9111,med,high,short,female,Davenport
+German Shepherd,38863.4225,60.8153,11.0536,med,high,med,male,Wiley
+Dalmatian,23367.4279,,13.1975,high,high,short,male,Hansen
+German Shepherd,38486.1203,62.6707,10.7218,low,high,med,male,Sanders
+German Shepherd,35673.1013,62.5276,11.2587,med,med,short,male,Coleman
+German Shepherd,38756.0153,59.9211,10.9309,med,med,short,male,Crawford
+German Shepherd,36002.9937,60.3768,10.497,low,med,med,female,Castro
+Amstaff,27219.8536,46.5236,13.0164,med,high,short,male,Mcgee
+Golden Retriever,31287.6478,56.2957,11.9956,med,high,med,male,Mcdonald
+Dalmatian,23610.9668,,12.9752,high,high,short,female,Tucker
+Dalmatian,25949.3638,48.0,13.2199,high,high,short,female,Reyes
+German Shepherd,37282.0424,58.8043,11.0035,med,med,med,male,Walton
+Amstaff,28740.781,45.437,12.1755,med,high,short,male,Dunn
+Amstaff,24442.5733,,12.4624,med,high,short,female,Wagner
+Dalmatian,21321.917,48.0,12.7695,high,high,short,male,Garcia
+Golden Retriever,26750.7568,,10.8099,med,high,short,male,Harris
+German Shepherd,39409.2759,59.7025,10.3571,med,med,med,female,Alvarez
+Amstaff,25950.7252,45.8033,13.0103,med,high,med,female,Allen
+German Shepherd,35592.0112,60.7754,11.448,high,med,med,female,Patrick
+Golden Retriever,26812.7729,60.2009,12.3438,med,high,short,female,Klein
+Golden Retriever,25242.0285,59.3307,10.0167,med,high,med,male,Gray
+Golden Retriever,32147.0438,61.0604,11.3229,high,high,med,female,Brown
+Dalmatian,26005.8347,,13.5607,high,high,short,male,Lewis
+Golden Retriever,30913.0751,56.1461,12.2239,low,high,med,male,Barton
+Amstaff,26944.2599,47.2171,13.4517,med,high,short,female,Yates
+Dalmatian,23837.9545,48.0,13.2812,high,high,short,female,Morrow
+Dalmatian,25685.5723,,12.8838,high,med,short,male,Graham
+Golden Retriever,30037.0183,59.336,12.0192,med,high,med,female,Thompson
+Dalmatian,24582.1305,,13.6048,high,high,med,male,Barajas
+Dalmatian,26108.4848,48.0,12.2837,high,high,short,male,Vance
+German Shepherd,36261.3456,63.556,10.6886,med,low,long,male,Pittman
+Dalmatian,25318.2501,48.0,12.6947,high,high,short,male,Cohen
+German Shepherd,37338.9243,,11.047,med,med,med,male,Harvey
+Dalmatian,22743.3906,,12.9594,high,high,short,female,Berger
+German Shepherd,34529.0449,60.2759,11.1221,high,med,med,female,Price
+Dalmatian,22821.9848,48.0,14.068,high,high,short,male,Peterson
+Dalmatian,20933.0209,48.0,11.8699,high,high,med,female,Shelton
+Dalmatian,23746.2311,48.0,12.8887,high,high,short,male,Shaffer
+Amstaff,22730.6047,45.6329,13.2296,med,high,short,male,Joyce
+Amstaff,23332.2777,45.4948,12.9034,med,high,short,female,Payne
+Dalmatian,20253.7232,48.0,12.0366,high,high,short,male,Rodriguez
+German Shepherd,38395.2148,,10.3592,med,med,med,male,Fischer
+Dalmatian,22932.1396,48.0,12.5982,high,high,short,female,Williams
+German Shepherd,35376.8193,58.9058,10.7619,med,med,med,male,Bowers
+Amstaff,34381.6817,45.8849,13.5829,med,high,short,male,Parker
+Dalmatian,23756.578,48.0,12.7748,med,high,short,male,Taylor
+Dalmatian,27368.6492,48.0,13.2113,med,high,short,female,Moore
+German Shepherd,35049.3759,61.1096,10.2086,high,med,med,male,Guerra
+Golden Retriever,28103.5329,57.6336,11.1442,high,med,med,male,Miller
+Amstaff,30993.8502,45.9955,12.9768,high,high,short,female,Hale
+Golden Retriever,35103.5352,54.4215,11.7403,med,high,med,male,Schneider
+German Shepherd,35486.8332,58.8224,11.4969,med,med,med,female,Thomas
+Dalmatian,27522.5018,48.0,13.1755,med,high,short,female,Martin
+Amstaff,27159.2516,45.8828,14.5459,med,high,short,male,Vaughn
+Dalmatian,20820.3727,,12.9184,med,high,short,female,Rios
+Amstaff,25730.54,45.4315,13.8826,med,high,short,female,Fowler
+Golden Retriever,25515.3189,,13.1699,med,high,med,female,Palmer
+Dalmatian,22324.575,48.0,13.2076,high,high,short,male,Diaz
+Dalmatian,21488.4693,48.0,12.9394,high,high,short,female,Collier
+Golden Retriever,27111.7984,55.7898,11.2817,med,high,med,female,Carr
+Golden Retriever,31944.7534,,12.0519,med,high,med,female,Arias
+Amstaff,25900.7823,45.4336,14.0841,med,high,short,male,Hess
+Dalmatian,24358.3753,,13.814,high,high,short,male,Wright
+German Shepherd,36445.7519,61.149,10.833,low,high,med,male,Gallagher
+Amstaff,24674.5347,46.5426,12.3352,med,high,short,male,Williams
+Golden Retriever,27168.1867,56.741,10.4855,med,high,med,male,Wood
+Golden Retriever,30356.8833,57.5755,11.8402,med,high,med,male,Johnson
+Dalmatian,24057.4535,48.0,12.6057,high,high,short,male,Edwards
+Golden Retriever,27041.5442,56.3809,11.206,high,high,med,male,Love
+Dalmatian,24742.5151,48.0,14.1044,high,high,short,female,Miller
+German Shepherd,36502.9785,60.8386,11.982,med,med,med,male,Mccoy
+German Shepherd,37853.2082,63.4409,11.6533,med,low,med,male,Underwood
+Golden Retriever,30238.5935,58.006,11.4895,low,high,short,female,Gray
+Golden Retriever,31814.3278,62.1912,11.0715,med,high,med,male,Flores
+German Shepherd,37478.3807,,10.6385,med,med,short,female,Duncan
+Golden Retriever,29348.6448,55.4168,12.5043,med,high,med,male,Pope
+Golden Retriever,29648.0895,52.7345,11.3252,med,high,med,female,Whitney
+Golden Retriever,32393.0539,57.9901,10.8992,med,high,med,male,Williams
+Dalmatian,22894.1488,48.0,11.8724,high,high,short,female,Williams
+German Shepherd,35504.4664,59.6087,11.9621,med,med,med,male,Chen
+Golden Retriever,24596.5942,58.8983,12.827,med,high,med,male,Perry
+Golden Retriever,29197.414,54.7599,12.0224,high,high,med,male,Newton
+Golden Retriever,27518.2607,60.066,11.1591,high,high,med,male,Oliver
+Amstaff,23807.0889,46.2132,13.8495,med,high,short,female,Allen
+Amstaff,28177.4435,46.4997,12.3918,med,high,short,male,Miller
+Golden Retriever,29510.5653,60.3619,12.9206,med,high,short,male,Mckinney
+German Shepherd,35888.9312,,10.7616,med,high,long,female,Atkinson
+German Shepherd,35024.9633,61.0265,11.2534,med,low,med,female,Wilson
+Dalmatian,25672.5429,,13.4173,high,high,short,male,Moore
+German Shepherd,34115.9375,63.9393,11.645,med,low,med,female,Faulkner
+Amstaff,22838.7266,46.4855,13.5801,med,high,short,male,Edwards
+Amstaff,27663.4982,46.4008,13.7246,med,med,short,female,Nunez
+Amstaff,25714.4745,46.869,13.8766,med,med,short,female,Garcia
+Dalmatian,22290.2487,48.0,11.6935,high,high,short,female,Garner
+German Shepherd,37146.3773,61.3948,11.2199,high,low,med,male,Coleman
+Dalmatian,25229.8193,48.0,13.4224,high,high,short,male,Stephens
+Amstaff,27960.4033,45.9539,11.9178,med,med,short,female,Fields
+Golden Retriever,36243.1562,56.7772,11.817,med,high,med,male,Reyes
+German Shepherd,36296.6515,61.8753,11.9759,med,med,med,male,Morton
+Dalmatian,25470.2838,48.0,12.8611,high,high,med,male,Dunn
+German Shepherd,35346.3999,63.3607,11.6545,med,med,med,female,Allen
+Amstaff,31982.3256,47.0079,13.3409,low,high,short,female,Stone
+Amstaff,23500.0358,,12.9797,med,high,short,female,Case
+German Shepherd,36135.8744,61.7599,10.4232,med,med,med,male,Trujillo
+Golden Retriever,30917.1991,60.5836,10.673,med,high,long,female,Massey
+Amstaff,17636.5964,46.8046,13.1494,med,high,short,male,Wells
+German Shepherd,37285.634,,10.5255,med,med,med,male,Parker
+Amstaff,31539.9714,46.6516,12.9404,med,high,short,male,Barr
+Amstaff,23905.1189,,13.1788,med,high,short,male,Jones
+German Shepherd,36023.3346,62.5364,11.6564,med,low,med,male,Logan
+Dalmatian,25266.0106,48.0,12.3031,med,high,short,male,Hawkins
+German Shepherd,35188.0066,61.8899,11.2791,med,high,med,female,Mitchell
+Amstaff,24831.3961,46.4526,12.6483,med,high,short,female,Le
+German Shepherd,37109.7948,57.9839,10.6851,med,low,long,male,Walker
+German Shepherd,37340.5085,61.4803,11.1823,med,med,med,female,Suarez
+Dalmatian,21147.0988,48.0,13.2908,high,high,short,male,Sanchez
+Golden Retriever,24901.3722,56.7343,10.2882,med,high,long,female,Daniel
+Golden Retriever,29704.5645,,11.9552,med,high,short,male,Acosta
+German Shepherd,38115.9663,62.1445,10.8347,high,med,med,female,Singh
+Golden Retriever,27584.6934,58.4216,10.5854,med,high,med,female,Powers
+Dalmatian,24010.578,,12.7171,high,high,med,male,Duncan
+Dalmatian,20980.8129,48.0,13.0823,high,med,short,male,Hobbs
+German Shepherd,37063.1031,61.2542,10.9344,med,med,med,female,York
+Dalmatian,23291.0364,,13.6684,high,high,med,male,Logan
+German Shepherd,35383.0226,,11.1809,med,med,short,female,Vang
+German Shepherd,36392.1423,58.0801,9.9295,med,high,med,female,Brewer
+Dalmatian,23561.2105,48.0,12.191,high,high,short,male,Rose
+German Shepherd,33501.7325,61.3045,10.218,med,med,short,male,Miller
+Dalmatian,22838.9146,48.0,12.34,high,high,short,male,Park
+Amstaff,24438.5623,,13.1281,high,high,short,male,Hernandez
+German Shepherd,36645.6955,62.5758,10.2411,high,med,med,female,Ruiz
+Golden Retriever,30923.6695,59.5715,10.9991,med,high,med,male,Andrade
+German Shepherd,39850.7258,59.1186,10.8688,med,high,short,female,Fernandez
+Golden Retriever,31199.5562,58.5064,12.101,med,high,short,male,Hansen
+German Shepherd,37295.67,58.8696,11.3775,med,low,med,female,Thomas
+Amstaff,28992.7536,45.0238,13.607,med,high,short,male,Simon
+Golden Retriever,29838.6951,60.4201,11.2405,med,med,med,female,Sweeney
+Dalmatian,23585.0128,48.0,14.2209,high,high,short,female,Kelley
+German Shepherd,37780.4469,61.493,9.9697,med,med,med,female,Sharp
+Dalmatian,22316.3369,48.0,12.8875,high,high,short,female,Simmons
+Dalmatian,26956.7067,48.0,12.8917,high,high,short,male,Jones
+Amstaff,30556.0189,46.0475,11.9976,med,high,med,female,Lee
+Golden Retriever,29101.5032,58.1433,11.8367,med,high,med,female,Willis
+German Shepherd,36534.6917,61.4385,10.2112,med,med,short,female,Fisher
+German Shepherd,35776.5216,63.5747,11.1404,high,med,med,male,Shaw
+German Shepherd,34986.4854,60.7589,9.9735,low,med,med,male,Cook
+Golden Retriever,28044.9882,,11.3458,high,high,med,female,Ford
+Golden Retriever,28636.9989,58.7454,11.7529,med,med,med,male,Garcia
+Amstaff,28220.618,,12.6711,med,high,short,male,Davis
+Dalmatian,20495.5492,,12.9634,med,high,short,female,Burns
+Golden Retriever,27767.1392,57.1591,11.4663,med,high,med,female,Stephenson
+German Shepherd,35298.5291,,10.5257,high,low,med,female,Wright
+Golden Retriever,31930.3521,54.5775,11.4779,med,high,med,female,Johnson
+Golden Retriever,30766.3334,60.5313,11.3722,med,high,med,female,Hall
+Golden Retriever,26348.0313,55.2216,11.4193,med,high,med,male,Johnson
+Golden Retriever,31075.7098,58.5263,11.918,med,high,med,male,Daniel
+Golden Retriever,27956.5419,54.9353,11.966,med,high,short,female,Schultz
+Golden Retriever,30804.4946,54.5775,10.2981,med,high,long,female,Rogers
+German Shepherd,34925.8325,,11.5587,med,med,med,male,Fox
+German Shepherd,34099.5913,,11.6117,med,med,short,male,White
+Golden Retriever,26024.5274,61.3555,11.3446,med,high,med,male,Smith
+German Shepherd,36890.6023,64.7055,11.4649,med,med,med,male,Hill
+Golden Retriever,28310.3263,,12.5708,med,high,med,male,Anderson
+Dalmatian,23864.9304,48.0,12.3047,high,high,short,female,Allen
+German Shepherd,38249.5126,60.713,11.8546,med,low,long,male,Robinson
+Dalmatian,24272.5138,,11.9372,high,high,med,female,Martinez
+German Shepherd,35977.8759,63.3162,10.8108,med,med,med,male,Peterson
+Dalmatian,26569.0825,48.0,13.1032,high,high,short,male,Morrison
+German Shepherd,36492.3223,58.3408,10.5198,med,med,med,male,Kelley
+Dalmatian,24982.3609,48.0,12.5621,high,high,short,female,Brewer
+Amstaff,25712.1902,,13.7332,med,high,short,female,Peterson
+Golden Retriever,29632.3257,56.1357,11.406,med,high,med,female,Rios
+Golden Retriever,32676.2832,56.673,10.8141,low,high,med,male,Martinez
+German Shepherd,34788.4713,60.7908,12.1528,med,med,med,male,Long
+Amstaff,22050.8455,45.693,13.0839,med,high,short,male,Taylor
+Dalmatian,21927.6709,48.0,12.0731,high,high,short,female,Lewis
+Golden Retriever,30688.3645,57.5912,10.497,med,high,med,female,Dalton
+German Shepherd,38528.8717,59.648,10.7309,high,high,med,male,Ellison
+Dalmatian,21122.4187,48.0,13.4863,high,high,short,female,Sanchez
+Amstaff,25477.871,45.844,12.1275,med,high,short,female,Wright
+Golden Retriever,30551.8493,,11.3799,med,high,med,male,Chandler
+Golden Retriever,26709.593,59.2163,11.2808,med,high,long,female,Brown
+Dalmatian,20183.5796,,12.9039,high,high,short,female,Chase
+German Shepherd,36677.0066,64.0468,11.8345,med,low,med,female,Thomas
+Amstaff,30320.5512,46.1816,13.2753,med,high,med,female,Moreno
+Golden Retriever,31356.3595,57.511,10.651,med,high,med,male,Garcia
+Amstaff,24381.9626,,14.154,low,high,short,female,Thompson
+Dalmatian,24682.2237,48.0,12.8703,high,high,short,male,Ramos
+Golden Retriever,26933.2566,55.1456,12.6274,med,high,med,female,Craig
+Dalmatian,22126.0337,48.0,13.8131,high,high,short,male,Hines
+Golden Retriever,29968.5115,,10.5376,high,high,med,male,Black
+German Shepherd,37947.8981,63.7,12.7265,med,med,short,female,Roman
+Amstaff,28633.3419,,14.1736,med,high,short,male,Edwards
+Dalmatian,21070.994,48.0,12.3534,high,high,short,female,Middleton
+Dalmatian,22505.9624,48.0,12.907,high,high,short,female,Stout
+Amstaff,21003.5156,46.0688,13.956,med,high,med,male,Olson
+Golden Retriever,28164.0207,59.438,10.5153,med,high,med,male,Maldonado
+Amstaff,21097.6518,45.4411,12.6433,med,high,short,female,Alexander
+Amstaff,23227.6127,46.5304,12.846,med,high,short,male,James
+German Shepherd,35112.6869,63.9529,10.8697,high,med,med,male,Brock
+Golden Retriever,31695.4093,58.8665,11.1971,low,high,short,female,Holden
+German Shepherd,38303.7997,,10.3499,low,med,med,female,Walker
+Golden Retriever,28536.2479,61.5834,11.8511,med,med,med,male,Mccarty
+German Shepherd,35385.2871,64.6594,10.9007,med,med,long,female,Brooks
+Golden Retriever,30353.5865,58.7177,11.7573,med,high,med,female,Solis
+German Shepherd,36785.3685,,11.5685,high,med,med,female,Garcia
+German Shepherd,35522.3173,61.982,11.2299,med,med,long,male,Mckinney
+Dalmatian,24850.8559,48.0,12.0835,high,med,short,male,Harrell
+Golden Retriever,30525.7039,59.1226,11.0361,med,high,med,female,Middleton
+German Shepherd,34959.2485,61.9876,10.6801,med,med,med,female,Sanders
+German Shepherd,38822.7068,59.3743,10.1218,med,med,med,male,Cook
+German Shepherd,35146.7588,62.1659,9.951,med,med,med,male,Kelley
+Amstaff,29133.7218,47.7882,13.5184,med,high,short,female,Torres
+Dalmatian,24312.1125,48.0,14.032,high,high,short,female,Austin
+Dalmatian,21054.8585,48.0,13.3064,high,high,short,male,Hess
+German Shepherd,36268.7623,,11.2669,med,med,short,male,Poole
+Golden Retriever,34220.418,56.804,11.4435,med,high,med,female,Glover
+Amstaff,30201.019,45.1869,13.1668,high,high,short,female,Lee
+Golden Retriever,31763.7553,59.1017,12.2286,med,high,med,male,Webb
+Dalmatian,22319.597,,12.8987,high,med,med,female,Turner
+German Shepherd,35914.8477,57.6574,11.5833,med,med,med,female,Cisneros
+Golden Retriever,32858.7054,59.5357,11.6255,low,high,med,female,Raymond
+Amstaff,25259.9693,,12.6532,med,high,med,male,Middleton
+Dalmatian,21339.3865,48.0,13.1573,high,med,short,female,Oliver
+German Shepherd,36566.0598,,11.5604,med,med,med,male,Day
+Golden Retriever,31059.7435,56.7898,10.7101,med,high,long,male,Arellano
+Golden Retriever,31451.7902,,10.5113,med,high,long,female,Vincent
+Dalmatian,24192.1548,,13.1119,high,high,short,male,Miller
+Dalmatian,24982.755,48.0,12.8833,high,med,short,male,Martinez
+German Shepherd,36869.8267,59.5208,11.9001,high,med,short,female,Harper
+German Shepherd,38188.1946,,11.1495,med,med,long,female,Franklin
+Dalmatian,24436.0127,48.0,12.3512,high,high,short,male,Harvey
+Amstaff,31350.0467,,13.2465,med,high,short,female,Fisher
+German Shepherd,38203.8307,61.2001,10.5543,med,med,med,female,Smith
+Dalmatian,23812.7146,48.0,12.3763,high,high,short,female,Nicholson
+Dalmatian,22816.2863,,13.1244,med,high,short,female,Martin
+Golden Retriever,28413.9143,61.4919,11.3018,low,high,med,male,Payne
+German Shepherd,37392.9216,,10.7304,low,med,med,male,Crawford
+Golden Retriever,27977.8688,56.0306,12.7245,med,high,med,female,West
+Dalmatian,22166.3578,48.0,12.2063,med,high,short,female,Moore
+Amstaff,22623.5347,,12.594,med,high,short,male,Hamilton
+Dalmatian,24255.6563,48.0,12.3264,high,med,short,male,Martinez
+German Shepherd,34734.2629,65.0402,11.2264,med,low,med,male,Leblanc
+Dalmatian,24364.5864,,13.5439,high,high,short,male,Williams
+Golden Retriever,25657.092,59.8077,11.4236,med,high,med,male,Ayala
+Golden Retriever,27525.1989,58.0648,11.3408,low,high,med,female,Harris
+Amstaff,26286.5974,,11.2631,med,high,short,female,Davidson
+Golden Retriever,28519.0442,59.1645,11.2061,high,med,med,male,Lee
+Amstaff,29966.1497,,13.7091,med,high,short,female,Ross
+Amstaff,23606.615,45.5192,12.4665,med,high,short,female,Gibbs
+Amstaff,22519.1928,45.7002,12.099,med,high,med,female,Hughes
+German Shepherd,34411.3184,62.4274,12.0945,low,med,med,female,Middleton
+Amstaff,31154.7421,46.0263,13.1461,med,high,short,female,Watson
+German Shepherd,36183.2588,60.0066,10.9716,med,high,med,male,Mcgee
+Amstaff,27600.386,47.1294,12.7194,med,high,short,female,Kimberly
+Amstaff,24566.9083,45.8267,12.6944,med,high,short,female,Miller
+German Shepherd,35028.5436,,11.0717,med,med,med,female,Oneal
+German Shepherd,34098.5778,62.4783,11.0145,low,med,long,female,Ortiz
+Golden Retriever,27329.8836,58.968,11.693,med,high,med,female,Mendoza
+Dalmatian,22215.2445,48.0,12.2956,high,high,short,female,King
+Dalmatian,22992.4835,48.0,13.5976,high,high,short,male,Johnston
+Dalmatian,25066.662,,13.1455,med,high,short,male,Montoya
+Golden Retriever,23848.6776,55.7706,11.1697,med,high,med,female,Lowe
+German Shepherd,35537.1605,63.6211,10.3524,med,low,med,male,Daniels
+Golden Retriever,30334.5928,56.8166,10.4073,med,med,med,female,Patel
+Dalmatian,24214.4366,48.0,12.3913,high,high,short,male,Fox
+German Shepherd,36966.9052,61.3667,11.4856,high,low,long,male,Potter
+Amstaff,19874.2488,45.7374,11.9606,med,high,short,female,Perry
+Dalmatian,24946.1462,48.0,13.4514,med,high,short,male,Olsen
+Amstaff,23322.6579,,13.3893,med,high,med,female,Jenkins
+Amstaff,28662.1934,46.2659,12.5861,low,high,short,male,Underwood
+Golden Retriever,31786.4032,59.8743,12.7937,high,high,med,female,Williams
+German Shepherd,35190.3897,58.7362,11.8116,med,med,long,female,Edwards
+Amstaff,22776.9365,45.7254,12.8913,high,high,short,male,Brown
+Amstaff,21767.3045,45.6546,12.5478,med,high,short,male,Turner
+Dalmatian,20614.3648,48.0,13.4326,high,high,short,female,Garcia
+Amstaff,29726.8681,46.5762,13.0906,med,high,short,male,Hunt
+Amstaff,27005.5243,46.2747,13.3295,med,high,short,female,Phelps
+Dalmatian,25299.5327,,13.5773,high,high,med,male,Cabrera
+Amstaff,24219.4273,44.6976,13.4273,med,high,short,male,Heath
+Amstaff,22957.2904,45.538,11.9717,med,high,med,male,Lutz
+Dalmatian,21437.2998,48.0,13.4395,high,high,short,male,Williams
+Dalmatian,19811.7519,48.0,13.3774,high,high,short,male,Ortiz
+Amstaff,29682.8952,46.2001,13.149,med,high,short,female,Spence
+German Shepherd,36626.1477,61.3947,10.8726,med,med,med,male,Garcia
+Dalmatian,21662.7105,48.0,12.6998,high,high,short,female,Harrison
+Dalmatian,23437.3219,48.0,13.8565,high,high,short,male,Luna
+German Shepherd,34753.9797,56.9496,10.7102,med,med,short,female,Lynch
+Dalmatian,23372.4716,48.0,12.2939,high,high,short,female,Paul
+Dalmatian,22990.9841,,12.7839,high,high,short,female,Stark
+German Shepherd,37607.98,64.3207,11.2288,med,med,med,female,Vincent
+Amstaff,28777.6637,45.4278,13.0616,med,high,short,female,Wiggins
+Golden Retriever,26756.0705,,11.0736,med,high,med,male,Ellison
+Golden Retriever,30825.2122,57.1798,11.4657,med,high,med,male,Rivers
+Amstaff,27332.3599,45.0714,13.3453,med,high,short,male,Olson
+Dalmatian,24308.8834,48.0,13.1223,high,high,short,male,Carter
+Golden Retriever,31430.0466,58.3429,10.7599,med,high,med,female,Shepherd
+Amstaff,28621.6567,,14.407,med,high,short,female,Hughes
+Amstaff,30628.0783,46.0309,14.011,med,high,short,male,Perez
+Golden Retriever,28516.3319,58.4933,10.7632,med,med,med,female,Cox
+Golden Retriever,28417.7727,,11.4052,med,high,short,male,Jones
+Amstaff,27797.8812,,13.0489,low,med,short,female,Martinez
+Golden Retriever,28009.5924,59.9724,11.7808,high,high,med,female,Macias
+Golden Retriever,29693.2471,56.4801,10.0572,med,high,long,female,Schneider
+Amstaff,33543.6153,45.4277,13.1834,med,high,short,female,Wolf
+Dalmatian,22869.3053,48.0,13.6967,med,high,short,female,Gonzalez
+Amstaff,19953.96,45.176,13.031,med,high,short,male,Hodges
+Amstaff,28430.0039,45.5168,12.6394,med,high,short,female,Jones
+German Shepherd,38075.3548,59.1119,11.0715,low,low,med,female,Wagner
+Golden Retriever,34117.8636,,10.9198,med,high,med,male,Phelps
+German Shepherd,35492.7653,61.3408,11.4448,med,med,short,female,Decker
+Dalmatian,21914.1203,,12.9969,high,med,short,female,Smith
+Amstaff,18185.4419,45.3026,13.1899,med,high,short,male,West
+German Shepherd,38951.0239,62.8461,11.1399,low,med,med,female,Brooks
+Dalmatian,25316.896,48.0,12.105,high,med,short,female,Washington
+Amstaff,21833.5174,45.2045,13.5227,med,med,short,female,Green
+Amstaff,31342.3174,46.101,13.2441,med,high,short,male,Boone
+Golden Retriever,31394.5006,,10.111,med,med,long,female,Peterson
+Golden Retriever,29114.3115,58.3989,11.3788,med,high,med,female,Young
+Dalmatian,22586.6531,,12.328,med,high,short,male,Banks
+German Shepherd,34917.338,,10.4095,med,low,med,female,Stone
+Dalmatian,20145.0671,48.0,12.6394,high,high,short,female,Woods
+Amstaff,27525.5755,44.9702,13.4253,med,high,short,male,Cook
+Amstaff,31686.0241,46.508,12.6957,low,high,short,male,Ortiz
+German Shepherd,34871.8099,63.1434,11.4683,med,med,short,female,Stevenson
+Amstaff,26595.69,46.1448,12.7929,low,high,short,female,Alexander
+Amstaff,23311.8127,45.7155,13.33,med,high,short,female,Evans
+Dalmatian,24964.5122,48.0,13.2097,high,high,short,female,Hodge
+Amstaff,26494.9524,45.6778,13.0864,med,high,short,female,Lee
+Dalmatian,23424.9168,48.0,12.809,high,high,short,female,King
+Golden Retriever,31318.1029,58.204,10.7736,med,high,short,female,Jackson
+German Shepherd,36758.2519,,10.4675,high,high,med,female,Foley
+German Shepherd,38421.3132,64.8533,11.9622,high,med,med,male,Ware
+Amstaff,28695.2454,45.7184,14.0163,low,high,short,female,Mcconnell
+German Shepherd,36978.7396,59.7687,10.3412,med,high,med,female,Delgado
+German Shepherd,34677.9966,,11.5049,med,med,med,female,Newton
+Dalmatian,26090.631,48.0,13.4488,high,high,short,male,Rodriguez
+Dalmatian,20373.7007,48.0,13.3419,high,high,med,male,Bullock
+Golden Retriever,29912.6856,57.993,13.2323,med,high,med,female,Deborah
+German Shepherd,38790.7242,65.8236,10.1858,med,med,med,female,Davis
+Amstaff,28708.1178,46.7926,13.6955,med,high,short,female,May
+Dalmatian,19792.9269,48.0,13.17,high,high,short,male,Barron
+Golden Retriever,25430.1295,59.4029,11.6203,med,high,med,male,Durham
+Dalmatian,22319.3503,48.0,12.4362,high,high,short,male,Shannon
+Golden Retriever,30218.987,55.9054,10.5069,med,high,med,male,Jones
+Amstaff,23290.7127,,13.1623,med,high,short,male,Daniel
+Golden Retriever,32799.0088,56.5374,11.7721,low,med,med,male,Joseph
+Amstaff,28026.3705,46.7984,13.3476,high,high,short,male,Pitts
+Dalmatian,22964.2961,48.0,13.8752,high,high,short,male,Lamb
+Dalmatian,23608.3796,48.0,13.3422,high,high,short,male,Moyer
+Dalmatian,23538.7833,48.0,13.017,high,med,short,male,Beltran
+German Shepherd,36480.7561,63.5126,11.6017,high,med,med,female,Miranda
+German Shepherd,36512.4582,,10.7019,med,med,med,male,Bolton
+German Shepherd,37580.2045,,11.7656,med,med,short,female,Martinez
+Golden Retriever,31571.8463,60.1379,12.3408,med,med,med,female,Molina
+Dalmatian,23763.8381,48.0,13.3788,high,high,short,female,Smith
+Golden Retriever,29649.3411,55.4929,10.9848,low,high,med,male,Hill
+Golden Retriever,31800.3749,55.2498,12.5435,high,high,med,male,Barron
+Amstaff,28694.166,46.0726,11.8927,med,high,med,male,Atkinson
+Amstaff,28243.5554,45.7896,13.9426,med,med,short,female,Payne
+German Shepherd,35476.9089,57.4165,10.3919,med,med,med,male,Moore
+Golden Retriever,33463.3319,60.3487,10.8208,med,high,med,male,Lopez
+Golden Retriever,30971.6842,56.9363,10.0566,high,high,med,male,Bradley
+Golden Retriever,30708.2931,58.743,11.0089,med,high,med,female,Hicks
+Amstaff,22396.2845,47.5962,12.4671,med,high,short,female,Anderson
+Dalmatian,22104.5936,48.0,13.4574,med,high,short,male,Reed
+Amstaff,26455.888,46.3963,13.1485,med,high,short,female,Phillips
+Golden Retriever,31452.4433,59.5709,11.5996,med,high,med,female,Powers
+Dalmatian,22708.2795,48.0,13.4301,high,high,med,female,Nixon
+German Shepherd,36121.8541,59.5163,10.6828,low,med,med,male,Bartlett
+Golden Retriever,26393.9017,57.9898,12.1415,high,high,med,male,Nelson
+Dalmatian,23236.5865,48.0,13.427,high,high,short,male,Stout
+German Shepherd,36879.9256,59.9366,10.2539,med,med,short,male,Farrell
+Golden Retriever,34006.5905,,11.7313,med,med,med,male,Taylor
+Golden Retriever,26164.9361,57.7754,12.5524,med,high,med,male,Klein
+Dalmatian,27008.9257,48.0,12.2702,high,high,short,male,George
+Dalmatian,22909.9874,,13.1885,high,high,short,female,Meyer
+Amstaff,24484.2886,46.5011,13.5393,low,high,short,female,Brown
+Amstaff,28712.212,45.0978,12.4995,med,high,short,female,Gonzalez
+Amstaff,26242.3377,45.353,13.5082,med,high,short,male,Caldwell
+Golden Retriever,29292.1308,58.5055,11.7785,med,high,med,female,Spencer
+Golden Retriever,30065.3543,55.5961,11.0223,med,high,med,male,Mcmillan
+German Shepherd,36308.0686,60.9922,11.9751,low,med,med,male,Walker
+Amstaff,25840.4631,46.1822,13.3704,med,high,short,male,Reyes
+Amstaff,23636.9775,,13.3371,med,high,short,female,Alvarez
+Dalmatian,22016.2218,48.0,13.3295,med,high,short,female,Dalton
+Amstaff,30094.4869,45.7347,13.3718,low,high,short,male,Chang
+German Shepherd,35419.0935,,10.5441,med,high,med,female,Chang
+Golden Retriever,25540.568,60.4058,10.8938,med,high,med,male,Garcia
+Amstaff,29264.5438,46.7066,13.0401,med,high,short,female,Smith
+Amstaff,22598.4425,46.3424,13.7292,med,high,short,male,Jackson
+German Shepherd,34725.8719,61.4341,9.691,med,med,med,female,Jones
+Amstaff,23695.586,46.6064,13.2178,med,high,short,male,Carson
+Amstaff,29029.1235,44.8133,12.5104,med,high,short,female,Phillips
+Amstaff,27186.5951,46.0454,13.4818,med,high,short,female,Rivera
+Amstaff,19473.5624,46.3023,13.9181,med,high,short,female,Kidd
+Amstaff,27024.4674,45.3415,13.8714,med,high,short,female,Hill
+German Shepherd,35959.6004,61.3505,11.1666,med,med,med,female,Carroll
+Amstaff,22792.7651,46.2751,12.4221,med,med,short,male,Jones
+German Shepherd,36153.7647,59.5543,10.5888,low,med,med,female,Oliver
+German Shepherd,37894.487,63.6225,10.736,med,high,med,male,Salazar
+Golden Retriever,31138.5807,59.344,10.93,high,high,short,female,Howell
+Golden Retriever,27984.7439,59.2363,11.1925,med,high,med,female,Gregory
+German Shepherd,35545.1413,61.6354,10.5587,med,med,med,male,Graham
+Golden Retriever,30183.2496,58.1321,10.7518,med,high,med,male,Morales
+Golden Retriever,27755.4387,58.9022,12.4399,med,high,med,male,Norman
+Golden Retriever,31682.1026,57.655,10.6244,med,high,med,male,Wilson
+Dalmatian,23883.4687,,12.5906,high,high,short,male,Russell
+Golden Retriever,31652.9943,54.399,9.7442,med,high,med,male,Colon
+Amstaff,28448.3194,,13.0805,med,high,short,male,Matthews
+Dalmatian,22890.6238,48.0,13.1935,high,med,short,female,Hess
+Golden Retriever,30493.7156,53.8294,11.739,med,high,short,male,Figueroa
+Dalmatian,24597.8243,48.0,12.7914,high,high,short,female,Meza
+Golden Retriever,26339.7397,,12.6159,med,high,med,male,Moore
+Amstaff,20690.6076,45.8673,13.1575,med,high,short,male,Hernandez
+Golden Retriever,26063.1372,,10.939,med,high,short,female,Oconnell
+Amstaff,21168.5355,45.1128,13.1123,med,high,short,male,Kelly
+Amstaff,26481.4672,46.3605,12.3766,med,high,short,male,Daniels
+Golden Retriever,31439.9483,,12.0777,med,high,med,female,Montgomery
+German Shepherd,36313.2076,62.4196,12.3408,med,med,med,male,Peters
+Dalmatian,24589.1383,48.0,11.888,high,high,short,female,Brown
+Dalmatian,25500.3864,48.0,12.3231,high,high,short,female,Jones
+German Shepherd,37949.5738,58.909,11.4347,med,med,long,male,Ibarra
+German Shepherd,36244.4751,63.3087,11.533,med,med,short,female,Jenkins
+Golden Retriever,28571.2362,56.6803,11.1981,med,high,short,female,Martinez
+Dalmatian,27485.1125,48.0,12.5755,med,high,short,female,Barnes
+Golden Retriever,34169.5282,59.718,11.8614,med,med,med,female,Guzman
+Dalmatian,24228.5076,,13.0263,high,high,short,male,Flores
+Amstaff,25157.8956,46.3374,13.8044,med,high,short,female,Patterson
+Golden Retriever,29322.684,60.6155,12.765,med,high,med,female,Robinson
+German Shepherd,35889.2242,,11.4371,med,med,med,female,Jefferson
+Dalmatian,23231.4273,48.0,13.5698,high,high,short,male,Richardson
+Golden Retriever,33016.134,,13.3499,med,high,med,male,Jones
+Dalmatian,20456.443,,12.6909,high,high,short,male,Johnson
+Amstaff,21339.8147,46.485,12.6339,med,high,med,female,Powell
+Amstaff,29674.9056,45.5738,13.6879,med,high,short,female,Valdez
+Dalmatian,25036.9196,48.0,12.6723,high,high,short,female,Shepherd
+Amstaff,25968.6416,45.2693,13.3515,med,high,short,male,Williams
+Amstaff,30119.125,45.921,12.5324,med,high,short,female,Lewis
+Amstaff,33570.4856,45.8569,12.903,med,med,short,male,Haney
+German Shepherd,35910.5998,61.6948,9.8464,med,med,med,female,Kennedy
+German Shepherd,37532.9864,60.9003,10.4808,med,med,med,male,Smith
+German Shepherd,33046.504,,10.5922,med,med,med,female,Barrera
+Golden Retriever,31487.5391,56.316,12.4247,high,high,med,male,Gregory
+Amstaff,27298.689,47.5074,13.6074,med,high,short,male,Jones
+Dalmatian,23497.3744,48.0,12.817,high,high,short,male,Williams
+Dalmatian,22321.6963,48.0,11.7382,high,med,med,male,Berry
+Dalmatian,21653.5675,48.0,13.4264,med,high,short,male,Brown
+German Shepherd,38345.9224,59.8946,10.42,med,med,med,female,Mckay
+Dalmatian,22041.6237,48.0,12.7745,high,high,short,male,Quinn
+Golden Retriever,28899.8793,59.2266,11.6257,med,high,med,male,Nelson
+Golden Retriever,26190.8969,58.2075,11.9699,med,high,med,male,Patrick
+German Shepherd,37502.8734,62.6594,10.7547,med,med,med,female,Mack
+Amstaff,23629.448,46.0232,12.7581,med,high,short,female,Moore
+German Shepherd,34367.5697,60.4832,10.4812,med,med,med,female,Davis
+German Shepherd,37013.4024,63.5006,10.1117,med,low,med,male,Webb
+Dalmatian,26642.9368,48.0,13.4441,high,high,short,male,Crawford
+Golden Retriever,32611.3208,,10.7932,med,high,long,female,Jennings
+Golden Retriever,31105.2703,57.991,11.9391,med,high,med,female,Hawkins
+Dalmatian,24967.7217,48.0,14.4628,high,high,short,male,Noble
+Amstaff,27412.0749,46.2052,12.8842,med,high,med,female,Clay
+Golden Retriever,30094.1267,58.4472,11.851,med,high,short,male,Taylor
+Amstaff,27231.8148,45.9496,13.2171,med,med,short,male,Hernandez
+Dalmatian,23809.1497,,13.0159,high,high,short,female,Black
+Golden Retriever,26275.0943,59.1176,11.1165,med,high,med,female,Thomas
+Amstaff,37117.2578,46.0973,12.8039,med,high,short,male,Cohen
+Golden Retriever,31051.4476,58.1083,11.7315,med,high,med,male,Gardner
+German Shepherd,36881.2559,60.5814,10.2772,med,med,med,female,Snow
+Golden Retriever,29773.5179,54.6466,12.3235,med,high,long,female,Melton
+Dalmatian,25597.3737,48.0,13.6036,high,high,short,male,Salas
+German Shepherd,36549.8515,59.9761,9.87,med,med,med,female,Foster
+Dalmatian,21938.2805,48.0,12.1548,high,high,short,male,Lane
+Dalmatian,24435.7954,,13.6399,high,high,short,male,Schultz
+Amstaff,15556.6685,45.974,12.8673,med,high,med,male,Pena
+German Shepherd,37163.3274,,11.4149,med,med,med,male,Good
+Golden Retriever,26192.5808,56.9729,10.2748,med,med,short,male,Gomez
+German Shepherd,35625.9547,60.1111,11.1756,med,med,med,male,Munoz
+German Shepherd,34279.4692,62.9171,10.1874,med,high,med,male,King
+Dalmatian,25445.1696,,13.5022,high,high,short,male,Allen
+Amstaff,17638.7838,46.2612,13.5568,med,med,med,female,Kline
+German Shepherd,36907.9906,,10.5516,med,med,med,male,Wong
+Amstaff,18362.4969,45.818,12.9967,high,high,short,female,Miller
+German Shepherd,36948.7741,56.9974,9.4406,high,med,med,male,Sparks
+Dalmatian,22654.8415,48.0,13.5428,high,high,short,female,Davis
+German Shepherd,36377.2982,62.5198,10.9471,med,med,med,female,Smith
+German Shepherd,37708.1761,62.1329,10.2087,med,med,short,female,Morales
+Dalmatian,21869.7336,48.0,13.1214,high,high,short,female,Turner
+German Shepherd,34522.5312,63.5209,10.1088,med,med,med,female,Lawson
+Golden Retriever,30329.2236,58.5719,11.8059,med,high,med,female,Nicholson
+German Shepherd,36282.6781,64.7494,12.2469,med,med,med,female,Krause
+Golden Retriever,32161.2908,,11.4327,med,high,med,male,Erickson
+Amstaff,26713.8212,46.9607,13.0307,high,high,short,male,Singh
+German Shepherd,37024.6723,60.4104,12.1361,high,med,med,female,Estrada
+German Shepherd,37578.3882,,11.2983,med,high,med,female,Willis
+German Shepherd,36231.2469,61.4481,12.0488,low,med,med,male,Lee
+Amstaff,20450.8404,46.3535,13.1531,high,high,short,male,Pratt
+German Shepherd,34972.7101,,10.8343,med,med,long,female,Patterson
+Dalmatian,23742.9302,,13.2754,high,high,short,female,Melton
+German Shepherd,37956.0437,62.3315,11.2903,med,med,long,female,Owens
+Golden Retriever,29108.0521,,10.5966,med,high,short,female,Price
+Dalmatian,19962.528,48.0,13.7046,high,high,short,female,Graham
+Golden Retriever,27330.5841,62.089,11.324,med,high,short,female,Fisher
+Dalmatian,24685.0825,48.0,12.9814,high,high,med,female,Herrera
+Amstaff,22206.7229,46.6381,13.3088,med,high,med,female,Hart
+Golden Retriever,30703.9999,59.3145,12.8017,med,high,med,male,Galvan
+German Shepherd,34006.1096,59.703,11.0363,med,med,med,male,Best
+Golden Retriever,27332.7298,59.4486,10.6861,high,high,med,female,Norton
+Golden Retriever,31044.284,,11.7837,med,high,med,male,Holder
+Dalmatian,22122.1942,48.0,11.7916,high,high,short,female,Lee
+Golden Retriever,24666.5542,,11.3722,med,med,long,female,Brown
+Dalmatian,22591.2821,48.0,13.0672,high,high,short,male,Gonzalez
+Amstaff,27948.5217,45.1698,13.6275,med,high,short,male,Velez
+Amstaff,27795.861,,13.2633,med,high,short,female,Rogers
+Golden Retriever,29864.2165,,11.4893,low,high,med,female,Carr
+Amstaff,29565.576,45.5286,12.9698,low,high,short,male,Sanchez
+Dalmatian,22384.6718,,12.4663,high,high,short,female,Sullivan
+Amstaff,31152.8378,46.1025,12.9953,med,high,short,male,Rivera
+Dalmatian,24237.0734,48.0,11.5587,high,high,short,female,Amy
+Dalmatian,23197.025,48.0,12.628,high,high,short,female,Thompson
+Golden Retriever,29939.5689,57.1619,11.9611,med,high,med,male,Jones
+Golden Retriever,24083.1851,,11.5956,med,high,short,female,Barnes
+Amstaff,26557.1136,45.3437,12.6257,med,high,short,female,Smith
+Dalmatian,26342.7108,,12.5943,high,med,short,male,Smith
+German Shepherd,36133.4169,60.068,11.2305,med,low,med,male,Burns
+Amstaff,23936.3459,46.772,12.7326,med,high,short,male,Bird
+Golden Retriever,30609.9771,60.1046,12.1151,low,high,long,male,Walker
+Golden Retriever,32169.1344,,12.0662,med,high,med,male,Heath
+Dalmatian,25882.0615,,12.8921,high,high,short,female,Wang
+Dalmatian,24410.1961,48.0,12.3792,high,high,short,male,Ortega
+Amstaff,21572.1209,46.592,14.6252,med,high,short,female,Woodard
+Dalmatian,23763.9707,48.0,12.8504,high,high,short,female,Smith
+German Shepherd,37916.8195,60.0546,10.3441,med,med,med,female,Maldonado
+German Shepherd,36284.205,60.516,10.8338,low,med,med,female,Young
+Amstaff,29856.3553,46.9128,13.0841,low,high,short,male,Lewis
+Amstaff,29524.251,46.8695,12.2577,med,high,short,female,Harrison
+German Shepherd,40001.5852,59.7724,11.0627,med,med,med,female,Stafford
+Dalmatian,21812.9572,,12.8666,med,high,short,male,Kelly
+Dalmatian,22752.2065,48.0,13.3174,high,high,short,male,Stevenson
+Golden Retriever,30345.8688,56.313,13.2133,med,high,med,female,Davis
+Amstaff,25665.6405,46.9719,13.6359,high,high,short,male,Elizabeth
+Amstaff,31486.1144,46.4721,13.0339,med,high,short,male,Singh
+Dalmatian,22809.2243,,12.8391,high,high,short,male,Mason
+Dalmatian,22322.629,48.0,12.2753,high,high,short,female,Patton
+German Shepherd,35120.7401,61.4135,10.9885,med,low,med,female,Hardy
+Amstaff,18360.0098,46.3269,13.0194,med,high,short,female,Pennington
+Dalmatian,20734.8359,48.0,13.6693,high,high,short,male,Powers
+Golden Retriever,26428.6173,59.644,10.9745,med,high,med,female,Oconnor
+Golden Retriever,29910.8148,59.6667,11.0289,med,high,med,male,Washington
+Dalmatian,23887.1622,48.0,12.7353,high,high,med,male,Johnson
+German Shepherd,36851.5587,59.6385,10.4356,med,med,med,male,Wilson
+German Shepherd,35052.7167,61.414,10.9648,med,med,med,female,Armstrong
+Dalmatian,24217.5552,,13.4993,high,med,short,male,Floyd
+Golden Retriever,30972.9806,56.9576,11.7218,med,high,med,female,Ellis
+Amstaff,27295.9792,46.2609,12.5986,med,high,short,female,Reed
+Amstaff,25088.8272,,13.3579,med,high,short,female,Colleen
+Dalmatian,25273.1289,48.0,12.6688,high,high,short,female,Lopez
+Golden Retriever,23776.6887,59.0097,10.2371,med,high,med,female,Anderson
+German Shepherd,35884.4002,57.515,11.1704,med,med,med,male,Soto
+Golden Retriever,28066.4596,59.481,11.6875,med,high,med,male,Greg
+Dalmatian,22785.2697,48.0,13.1447,high,high,short,male,Fisher
+Golden Retriever,28864.5357,57.5206,12.2487,med,high,med,female,Thompson
+Golden Retriever,31314.2059,56.0996,10.7901,med,high,long,female,Brown
+Amstaff,27406.4878,46.7569,12.3995,low,high,short,female,Chapman
+Amstaff,24835.6552,46.408,12.0987,low,high,short,male,Kelley
+Dalmatian,23698.5213,48.0,13.6387,med,med,short,female,Tucker
+Dalmatian,25191.242,48.0,12.4565,high,high,med,female,Owen
+Golden Retriever,27430.1811,56.4408,10.2587,med,high,med,male,Stewart
+German Shepherd,36225.2431,59.24,11.5383,med,med,med,male,Flores
+Dalmatian,27358.5356,48.0,12.961,high,high,short,female,Martinez
+Golden Retriever,34735.2531,56.3062,11.7101,high,high,med,male,Smith
+Golden Retriever,28933.2963,56.6206,12.1413,med,high,med,male,Howard
+Dalmatian,22876.7679,48.0,13.3651,med,high,short,male,Perry
+Amstaff,24671.7175,46.1759,12.4703,med,high,short,male,Medina
+Golden Retriever,28477.7986,56.2949,12.2827,med,high,med,female,Beard
+Dalmatian,23387.537,48.0,13.531,high,med,med,male,Davis
+Golden Retriever,30441.3467,56.5811,11.6775,med,high,med,male,Gibson
+Amstaff,24410.3313,45.2673,11.9996,med,high,short,female,Rojas
+Amstaff,25808.2053,,13.7179,med,high,short,male,Obrien
+Dalmatian,27688.9785,48.0,12.9214,high,high,short,female,Williamson
+Amstaff,30500.329,45.7928,12.4517,med,med,short,female,Stewart
+Golden Retriever,30057.1024,58.9439,13.3703,med,high,med,male,Miller
+Golden Retriever,34537.4656,56.8865,9.7942,high,high,med,female,Reed
+Amstaff,30988.5472,45.4702,12.8786,med,high,short,male,Scott
+Amstaff,25871.4328,46.5025,13.2904,med,high,short,female,Ellis
+Dalmatian,21796.8798,48.0,12.3189,high,high,short,female,Ayers
+German Shepherd,34100.3587,57.7748,10.9715,med,med,med,male,Clark
+German Shepherd,37853.5791,57.8592,10.9184,low,med,long,female,Huerta
+German Shepherd,35529.762,61.6834,10.0445,high,med,med,female,Robinson
+German Shepherd,37769.6028,59.3804,10.5865,med,med,med,male,Jenkins
+Amstaff,21631.4044,45.3129,11.7732,med,high,med,male,Berg
+Amstaff,28643.8966,45.3378,13.3092,med,high,short,female,Fisher
+Golden Retriever,30392.0435,56.3191,11.8864,med,high,long,male,Stewart
+Amstaff,22836.2652,,14.1758,med,high,short,male,Smith
+Dalmatian,26685.3398,48.0,13.2029,high,high,short,female,Atkins
+Amstaff,25197.5337,46.137,13.053,med,high,short,female,Fisher
+Amstaff,28282.4778,45.5701,12.4334,med,high,med,male,Jackson
+German Shepherd,34313.0774,60.8058,11.3911,med,med,med,male,Stevens
+Dalmatian,21411.0086,48.0,13.6225,high,high,short,male,Johnson
+Dalmatian,21656.0734,,12.969,high,high,short,female,Marquez
+Golden Retriever,29943.6559,62.2304,11.9057,med,high,med,male,Reid
+Amstaff,25062.2283,45.9278,13.766,med,high,med,female,Pena
+German Shepherd,38361.0789,,11.1848,med,med,med,male,Dickerson
+Golden Retriever,28618.296,,11.3353,med,high,med,male,Moreno
+Golden Retriever,29597.2901,,12.7224,med,high,long,female,Charles
+Dalmatian,21520.4107,48.0,12.4552,high,high,short,female,Quinn
+Dalmatian,23508.747,48.0,11.9404,high,high,short,male,Newman
+Amstaff,31342.1731,46.7273,13.6803,med,high,short,male,Peters
+German Shepherd,37477.6566,,11.0637,med,med,short,male,Christensen
+German Shepherd,36373.3835,60.7636,10.0718,med,med,med,male,Arnold
+German Shepherd,40037.9434,,11.4032,low,high,short,female,Simmons
+German Shepherd,35781.4317,63.2788,10.3303,low,med,med,male,Lowery
+Dalmatian,26808.1915,48.0,12.4976,high,high,short,male,Espinoza
+Amstaff,28758.44,46.3462,12.4732,med,high,short,male,Fernandez
+Dalmatian,19524.3023,48.0,12.3801,high,high,med,male,Kelley
+German Shepherd,36509.8461,61.5595,10.7889,med,med,med,male,Baker
+Golden Retriever,33114.1568,57.272,11.3111,med,high,med,male,Doyle
+Dalmatian,23227.7706,48.0,13.5929,high,high,med,male,Lewis
+Amstaff,27810.1454,,12.6988,low,med,short,female,Murphy
+Amstaff,25085.9086,45.6029,13.6951,med,high,short,male,Johnson
+Dalmatian,21103.5008,48.0,12.7526,high,high,short,male,Davis
+Dalmatian,25233.8705,48.0,13.5837,high,high,short,male,Montoya
+Golden Retriever,30127.98,58.853,11.6826,med,high,med,female,Webb
+German Shepherd,37674.5688,,10.6594,med,med,med,male,Tyler
+Golden Retriever,27751.5116,57.0762,13.0358,med,high,med,male,Quinn
+German Shepherd,37259.0869,61.7682,11.318,med,med,med,female,Watson
+Golden Retriever,28598.8382,,11.2099,med,high,med,male,Perkins
+German Shepherd,38274.1653,62.4021,10.2583,low,med,short,female,Phelps
+Golden Retriever,26754.3426,58.7645,12.0949,med,high,med,male,Diaz
+Dalmatian,22110.3929,48.0,12.6359,high,high,short,male,Wallace
+German Shepherd,36065.1812,61.7811,12.2497,med,med,med,male,Martinez
+Amstaff,29371.0901,,12.6816,low,high,short,female,Huerta
+Golden Retriever,26732.5777,,11.325,low,high,med,male,Prince
+Golden Retriever,29252.5668,,11.101,med,high,med,male,Ellis
+Dalmatian,20551.0853,,13.9244,high,high,short,female,Perkins
+Dalmatian,24610.7551,48.0,13.2999,med,med,short,male,Garza
+German Shepherd,38427.3749,62.5886,11.0591,med,low,short,female,Edward
+German Shepherd,35264.4952,,11.6897,med,med,med,female,Ortega
+Dalmatian,28393.2273,48.0,13.0255,high,high,short,male,Richards
+Golden Retriever,29371.2479,,12.4586,med,high,med,female,Stewart
+Amstaff,22857.136,45.2845,13.3987,med,high,short,male,Cunningham
+Dalmatian,23490.9615,48.0,13.1175,med,med,short,male,Phillips
+Dalmatian,19246.8143,48.0,13.0359,high,high,short,male,Brown
+Golden Retriever,30561.3768,56.0223,9.9225,med,high,med,female,Wilkerson
+Golden Retriever,30678.039,,11.3684,med,high,med,female,Zimmerman
+Dalmatian,24110.9469,48.0,12.7429,high,high,short,female,White
+German Shepherd,37335.008,60.0632,10.8284,med,med,long,male,Mendez
+Dalmatian,25516.9873,48.0,12.5044,high,high,short,female,Thomas
+Golden Retriever,26566.5889,57.8026,11.3036,med,high,med,male,Tyler
+Amstaff,30716.7132,,13.7623,med,high,med,female,Miller
+Golden Retriever,27420.6021,55.1029,10.6623,high,high,med,male,Miller
+Golden Retriever,28858.7957,,10.1463,med,high,long,female,Smith
+Amstaff,27378.3206,46.1204,13.7662,med,high,short,female,Kennedy
+German Shepherd,35685.3339,60.1818,11.0976,med,med,med,male,Burke
+Golden Retriever,29575.2794,58.1096,12.6254,med,med,med,male,Ashley
+Golden Retriever,27528.7473,58.4302,11.883,med,high,med,male,Henderson
+Golden Retriever,27451.0208,,12.6308,low,high,med,male,Barrett
+Golden Retriever,30471.967,63.2466,12.0393,med,high,med,male,Smith
+Dalmatian,23492.0416,48.0,13.3675,high,high,short,male,Johnson
+Dalmatian,21283.8485,48.0,12.9567,med,high,short,female,Anderson
+German Shepherd,34628.6958,61.0105,11.2098,med,high,med,male,Nunez
+Dalmatian,19529.7842,48.0,12.6997,med,high,med,male,Brown
+Dalmatian,22292.8764,48.0,12.1809,high,med,short,female,Robertson
+Dalmatian,20663.6754,,12.2,high,med,short,male,Coleman
+Amstaff,23516.6732,45.1998,13.5473,med,high,med,male,Little
+German Shepherd,36046.0131,60.5251,10.2243,med,med,long,female,Alvarez
+German Shepherd,34642.1242,58.7456,10.4426,med,low,long,male,Sims
+Amstaff,26701.1588,45.8161,13.7386,med,high,short,female,Smith
+Golden Retriever,31102.1366,56.6673,10.891,med,high,long,male,Ramirez
+German Shepherd,36580.3367,63.9539,10.7094,high,med,med,female,Ray
+Golden Retriever,30761.8406,58.751,11.2622,med,med,med,female,Butler
+Dalmatian,22870.4428,48.0,13.0794,high,high,short,male,Oconnell
+Dalmatian,24508.3751,,13.461,high,high,med,male,Ho
+Amstaff,21337.0471,,13.2823,med,high,short,female,Stanley
+Dalmatian,26098.3358,,13.1016,med,high,short,female,Simmons
+Amstaff,29271.6279,46.2953,12.4405,med,high,short,female,Johnson
+Amstaff,28755.156,46.4943,13.7087,high,high,short,male,Alvarez
+Dalmatian,22654.6382,,13.0307,high,high,short,female,Sanders
+German Shepherd,37478.1214,59.8488,11.0319,med,med,med,male,Romero
+Amstaff,27613.6758,46.0716,13.4102,high,high,short,female,Travis
+Golden Retriever,31523.4091,59.0625,12.7548,low,high,med,male,Harris
+Amstaff,33565.9983,44.5442,12.9022,med,high,med,male,Garza
+Dalmatian,22007.2459,48.0,13.1699,high,med,short,male,Jensen
+German Shepherd,37054.5369,60.6025,11.0149,med,high,med,female,Alvarez
+German Shepherd,36719.2951,60.6228,10.3194,high,high,med,male,Mckay
+Golden Retriever,29262.4831,58.3867,11.3531,med,high,long,female,Ramos
+Amstaff,27751.4067,45.6221,13.5352,med,high,short,female,Collins
+Dalmatian,25278.342,48.0,13.7886,high,high,short,female,Kim
+German Shepherd,36765.3639,,10.1698,med,med,med,female,Michael
+Golden Retriever,29361.7948,57.6191,10.5001,med,high,med,female,Jordan
+Amstaff,24969.772,,12.0193,high,high,short,male,Santiago
+Golden Retriever,29668.4054,59.1689,12.7354,med,high,med,female,Mitchell
+German Shepherd,34960.3331,60.5523,10.9473,med,med,med,female,Clark
+Dalmatian,23009.2912,48.0,12.8493,high,high,med,male,Montes
+German Shepherd,35714.8043,59.1524,11.2483,med,med,short,female,Lopez
+Amstaff,25461.8378,45.5917,13.2672,med,high,short,male,Pearson
+Amstaff,26633.4046,45.5501,11.6907,med,high,short,male,Morton
+Golden Retriever,23971.6984,58.2718,11.0631,med,high,med,male,Barnes
+Amstaff,28892.8884,46.8135,13.3396,med,high,short,male,Hayes
+Golden Retriever,27560.708,60.7808,11.0273,med,high,med,female,Rodgers
+Dalmatian,20775.881,48.0,13.7331,high,high,short,male,Le
+Golden Retriever,25958.249,57.0341,13.0342,med,high,med,male,Gardner
+Amstaff,29905.83,,12.9734,med,high,short,female,Tina
+German Shepherd,37571.8073,60.3626,12.1255,low,med,med,female,Martinez
+German Shepherd,36572.9259,64.211,10.6986,med,med,med,male,Short
+Amstaff,27366.9428,46.3093,12.2045,med,med,short,male,Meyers
+German Shepherd,35684.6955,60.0066,11.3378,med,med,short,female,Russell
+Golden Retriever,34463.2883,60.0031,10.5196,high,high,med,male,Ward
+Amstaff,27307.2162,45.2404,12.3971,med,high,short,male,Gibson
+Amstaff,20711.9651,47.2464,13.2851,med,med,short,male,Wilson
+German Shepherd,34449.1759,61.9157,11.3661,med,high,short,female,Smith
+German Shepherd,36599.236,60.4616,11.2126,med,med,med,male,Hudson
+German Shepherd,38411.0041,61.016,10.738,med,med,long,female,Green
+Golden Retriever,30033.4299,55.1042,11.9264,med,high,med,male,Weaver
+German Shepherd,38348.0159,60.1852,10.6718,med,med,med,male,Perry
+Dalmatian,25312.7402,48.0,12.4691,high,high,short,female,Adams
+Golden Retriever,30807.5253,57.1591,10.6767,med,high,med,female,Shannon
+Golden Retriever,29302.7531,57.2278,11.4852,med,high,med,female,Lee
+Dalmatian,21745.2299,48.0,13.1567,high,high,short,female,Blackwell
+Dalmatian,19246.4271,48.0,12.7766,high,high,short,male,Martin
+Amstaff,21827.2782,46.6087,14.1871,med,high,short,female,Randolph
+Amstaff,26912.086,44.2201,13.4586,med,med,med,male,Shaw
+German Shepherd,40412.331,64.6573,10.6205,med,med,med,male,Williams
+Amstaff,24984.8784,46.5455,13.0911,med,high,short,male,Kemp
+Golden Retriever,26465.904,58.4683,11.2194,med,high,med,female,Weaver
+Golden Retriever,34525.8033,58.3125,12.7345,med,high,short,male,Flores
+Dalmatian,22486.3619,48.0,13.3294,high,high,short,male,Swanson
+Amstaff,27257.9039,45.2004,12.4636,med,high,short,female,Hunt
+German Shepherd,34539.2845,66.0987,11.2035,med,med,med,male,Edwards
+German Shepherd,37158.807,59.9674,11.2909,med,med,med,female,Thomas
+Amstaff,25723.617,44.6226,12.9168,med,high,short,male,Choi
+German Shepherd,34522.7791,60.9201,11.2905,med,med,med,male,Palmer
+Dalmatian,20369.1179,48.0,13.2539,high,high,short,male,Evans
+German Shepherd,39668.6765,62.0415,11.3795,high,med,med,male,Jackson
+Amstaff,33458.0018,47.5351,12.9887,med,high,short,female,Riley
+German Shepherd,35890.3809,62.9362,11.9159,med,med,med,male,Garcia
+Dalmatian,26305.0923,48.0,13.768,high,high,short,female,Armstrong
+German Shepherd,36051.9284,,10.8416,high,med,med,male,Hutchinson
+Golden Retriever,26329.1114,60.0462,11.4816,med,high,short,male,Blair
+German Shepherd,37093.32,63.1701,11.2699,med,med,med,male,Hayes
+German Shepherd,36984.0386,60.2754,10.0244,med,med,med,male,Lin
+Dalmatian,24464.9696,48.0,12.8676,high,high,short,male,Cross
+Amstaff,26630.7996,45.246,12.7211,med,high,short,female,Young
+Golden Retriever,30031.1771,60.6742,11.741,high,high,med,female,Mueller
+Golden Retriever,28025.9863,,10.3902,med,high,long,male,Brooks
+German Shepherd,38706.5578,59.2532,11.6038,high,low,med,female,Rivera
+Dalmatian,22541.4911,48.0,13.6697,high,high,short,female,Burke
+Golden Retriever,32658.78,60.8382,11.6128,low,high,med,female,Martin
+Dalmatian,26369.5569,48.0,12.0392,high,med,short,female,Webb
+Dalmatian,26580.0959,,13.0855,high,high,short,male,Campbell
+German Shepherd,35801.8384,,10.7082,med,med,med,female,Thomas
+Golden Retriever,34222.0958,60.8711,12.8548,med,med,short,male,Park
+Golden Retriever,30941.7031,,11.8576,high,high,short,male,Adams
+Amstaff,30772.9514,46.2477,11.4876,med,high,med,male,Raymond
+Amstaff,28165.4984,45.869,13.3863,med,high,short,female,Bailey
+Amstaff,28054.5671,45.6342,14.0296,med,med,short,female,Coleman
+Dalmatian,19938.5461,48.0,12.7625,high,high,short,male,Lin
+Golden Retriever,31754.3384,56.2724,12.2584,med,high,med,female,Chapman
+German Shepherd,34858.5259,61.6082,11.5581,med,high,med,male,Gomez
+German Shepherd,36259.6355,56.5097,11.2149,med,med,med,female,Erickson
+German Shepherd,39038.6411,64.052,10.5736,med,med,long,male,Clark
+German Shepherd,34794.2647,62.9588,11.5146,med,med,med,female,Williams
+Dalmatian,24600.0024,48.0,12.4501,high,high,short,male,Benton
+Golden Retriever,29852.4345,59.0365,11.9842,med,high,med,male,Glenn
+Golden Retriever,31135.0633,58.7509,12.884,med,high,med,female,Ortega
+German Shepherd,35530.8755,61.0699,10.4769,med,low,med,female,Valenzuela
+Dalmatian,20183.0932,,12.8379,high,high,short,female,Davis
+Dalmatian,23103.079,48.0,13.1912,med,high,short,female,Yates
+Golden Retriever,32276.9318,59.6885,11.3954,med,high,med,male,Matthews
+Dalmatian,23044.8605,,11.9774,high,high,short,female,Stephens
+Amstaff,29836.6871,46.689,13.4066,high,high,short,female,Fisher
+Amstaff,22083.4757,46.3072,12.6373,low,high,short,female,Vang
+Golden Retriever,26301.9635,58.32,12.0075,med,high,med,male,Hunter
+German Shepherd,40457.8227,58.164,11.9079,low,med,med,female,Pollard
+Amstaff,25427.9453,45.7106,12.6963,med,high,short,female,White
+Golden Retriever,25305.8397,60.6982,10.9192,med,high,med,female,Anderson
+Dalmatian,26235.5767,,13.828,high,high,short,female,Fleming
+German Shepherd,37198.1412,58.115,10.5141,med,high,med,male,Miranda
+Dalmatian,22457.7588,,12.4196,high,high,short,female,West
+Amstaff,25826.5276,45.8318,13.2672,med,med,short,male,Hart
+German Shepherd,39350.6084,,11.2736,low,med,med,female,Little
+German Shepherd,34111.9581,,12.2061,med,med,med,female,Torres
+Golden Retriever,28952.6359,58.6781,12.3976,med,high,med,male,Cook
+German Shepherd,37359.1864,,9.6345,med,med,med,female,Ortiz
+German Shepherd,37668.2101,61.9642,11.0494,med,low,short,female,Kramer
+German Shepherd,37362.3512,58.9762,10.7257,high,med,med,female,Holland
+Golden Retriever,29064.4689,57.917,11.136,med,high,med,male,Gonzalez
+Amstaff,28023.7925,47.0034,12.7831,med,high,short,female,Dixon
+Golden Retriever,30488.5865,57.8682,12.8563,med,high,long,female,Castillo
+Golden Retriever,29578.1856,55.2023,11.0902,med,high,med,female,Tucker
+Golden Retriever,23724.6501,57.506,10.8223,med,high,med,female,Miller
+German Shepherd,38960.3578,60.1175,11.4823,med,med,med,female,Moody
+Golden Retriever,25895.7213,55.8901,11.5343,med,high,long,male,Hanson
+German Shepherd,34883.2492,61.1573,11.3728,low,med,med,female,Coleman
+German Shepherd,37080.8434,60.8545,10.8087,med,med,short,male,Phillips
+Golden Retriever,27976.6844,,12.113,med,high,med,female,Morgan
+Amstaff,21422.7557,45.7344,12.9574,high,high,short,male,Nichols
+German Shepherd,36045.7547,58.9293,10.7151,med,high,med,male,Church
+Dalmatian,27667.3995,,11.9488,high,med,short,female,Hernandez
+Amstaff,30626.6162,44.7223,12.9639,med,med,short,male,Price
+Golden Retriever,31696.3629,55.3925,12.0238,med,high,med,female,Nielsen
+Golden Retriever,25746.3001,62.4742,9.7808,med,high,med,male,Rivera
+German Shepherd,34898.8627,,10.3916,med,med,med,male,Melton
+Dalmatian,26670.0021,48.0,12.9319,high,high,short,female,Neal
+Dalmatian,24237.1714,48.0,12.6682,high,high,short,male,Gilmore
+German Shepherd,35633.9715,60.1426,10.6783,med,med,med,female,Martin
+Amstaff,33653.2479,46.2856,12.356,med,high,short,male,Snow
+Amstaff,28941.3234,46.3,13.9077,med,high,short,male,Alvarado
+Amstaff,24181.7165,46.0347,12.6043,med,high,med,male,Flores
+German Shepherd,37624.6954,,10.8453,med,med,med,female,Beltran
+Amstaff,25722.0185,46.2806,13.4911,med,high,short,male,Johnson
+Dalmatian,23433.2015,48.0,13.2208,high,high,short,male,Perkins
+Golden Retriever,29517.1723,,12.2909,med,high,med,male,Cortez
+Amstaff,18081.2941,46.9053,13.8192,high,high,short,male,Wright
+Amstaff,27785.7884,46.0721,12.561,low,high,med,female,Benjamin
+Amstaff,25695.7266,45.1382,13.662,med,high,short,male,Howard
+German Shepherd,38461.2775,,10.9486,med,med,med,male,Gomez
+Dalmatian,26345.1083,48.0,13.9078,high,high,short,female,Andrews
+Dalmatian,25475.1116,48.0,13.5459,high,high,med,female,Acosta
+German Shepherd,37528.7478,62.6615,10.8423,high,low,med,male,Hayes
+Amstaff,33354.4879,45.6094,13.0508,med,high,short,female,Sanchez

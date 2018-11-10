@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Australian Shepherd,23113.567,55.128,12.9824,high,high,med,male,Wheeler
+Golden Retriever,29289.9934,60.4262,11.6795,med,high,med,female,Williams
+Samoyed,17555.4028,56.9008,11.7964,med,high,med,male,Collins
+Golden Retriever,27607.434,58.6686,11.975,med,high,med,female,Allen
+Australian Shepherd,21183.0994,54.9372,13.6885,high,high,med,male,Harvey
+Australian Shepherd,27224.7383,52.0121,13.9494,high,high,med,female,Austin
+Australian Shepherd,30947.1399,53.7767,13.7531,high,med,short,male,Conrad
+Samoyed,28758.9764,,10.0161,high,high,med,female,Harris
+Samoyed,18338.7382,53.6785,11.2878,med,high,med,female,Howell
+Pug,6487.447,,12.6529,med,high,short,male,Juarez
+Golden Retriever,31324.7213,60.1982,12.0379,med,high,med,male,Johnson
+Golden Retriever,32225.6073,57.9034,11.1994,med,high,med,female,Weiss
+Samoyed,21678.8845,54.8615,11.0207,med,high,med,female,Le
+Samoyed,17066.9193,53.0346,9.9431,med,high,med,female,Nelson
+Samoyed,21187.0755,54.0821,10.38,med,med,med,female,Owens
+Pug,7635.1946,33.7843,13.2789,med,high,short,male,Fleming
+Golden Retriever,28026.1401,58.3786,11.6422,med,high,short,male,Woods
+Golden Retriever,22169.1931,58.1914,11.9109,med,med,long,male,Sparks
+Golden Retriever,28801.7676,60.866,11.1512,high,high,med,male,Smith
+Australian Shepherd,23535.7032,50.7879,13.0151,high,high,med,female,Huff
+Australian Shepherd,22689.1485,52.9328,13.6461,high,high,med,male,Ayala
+Samoyed,24574.9784,54.7349,9.8126,low,high,med,female,Miller
+Pug,8177.1172,,13.5695,med,high,short,male,Maddox
+Golden Retriever,27967.5499,61.625,11.0338,med,high,med,female,Manning
+Samoyed,21580.7449,53.5057,10.9147,med,high,med,male,Hansen
+Pug,7206.0492,31.5107,12.0664,low,high,short,male,Wright
+Pug,6810.2086,33.5687,13.7904,med,high,short,male,Vaughn
+Golden Retriever,25554.4723,57.022,9.703,med,high,med,female,Fields
+Golden Retriever,27340.7865,59.1032,12.9169,med,high,med,male,Pope
+Golden Retriever,26748.2927,56.0337,11.0244,med,high,med,female,Rhodes
+Australian Shepherd,26960.9465,55.7519,13.2672,high,med,short,female,Ruiz
+Pug,7135.2262,34.424,12.9263,low,high,short,female,Bates
+Australian Shepherd,24327.6446,53.8763,13.5702,high,high,med,female,Carroll
+Australian Shepherd,19951.097,,13.1853,high,high,med,female,Miller
+Pug,7625.1164,33.0422,13.3628,high,high,short,female,Hines
+Samoyed,24087.016,51.5252,10.8439,high,high,med,male,Bailey
+Golden Retriever,26806.3111,,12.5439,med,high,med,male,Perry
+Australian Shepherd,24080.6962,54.2975,12.5374,high,high,med,female,Brewer
+Golden Retriever,25386.5703,,10.7025,high,high,med,male,Chen
+Samoyed,22686.3477,51.2041,11.2756,low,high,short,female,Johnson
+Golden Retriever,29200.4427,,11.1908,low,med,med,female,Baker
+Australian Shepherd,18880.8717,54.0002,13.1323,high,high,long,female,Holland
+Pug,6176.4597,36.0321,14.3085,med,high,short,female,Richardson
+Samoyed,21662.4436,53.9118,12.1596,med,high,med,male,Martin
+Golden Retriever,28997.2632,59.6059,11.1857,high,med,med,female,Wright
+Australian Shepherd,21164.3609,54.3718,12.8827,high,high,med,male,Osborne
+Pug,6776.4895,,13.8796,med,high,short,male,Dickson
+Samoyed,18278.2279,,10.7687,med,high,med,male,Le
+Australian Shepherd,23784.7655,55.9082,12.0606,high,high,short,female,Clayton
+Golden Retriever,29580.0807,53.7467,10.8059,med,high,short,male,Gonzalez
+Golden Retriever,26865.8176,58.4187,13.6048,med,high,med,male,Hayes
+Golden Retriever,31941.0522,,13.3122,high,med,med,female,Bentley
+Pug,6115.714,30.8744,13.6576,med,high,short,male,Garner
+Australian Shepherd,23409.3719,51.4851,12.7331,high,high,short,male,Cox
+Golden Retriever,33742.0498,57.6157,11.6574,med,high,med,female,Morgan
+Golden Retriever,27237.8656,55.1085,12.0863,med,high,long,female,Mata
+Australian Shepherd,21629.7159,,13.3739,high,high,med,female,Burch
+Golden Retriever,28562.6652,57.0712,10.3542,med,high,med,female,John
+Australian Shepherd,27628.4074,53.6794,12.369,high,high,med,female,Barnes
+Golden Retriever,25789.3593,57.7018,10.7326,high,high,med,female,Dillon
+Pug,7696.0754,34.0563,12.9859,med,high,short,male,Johnson
+Australian Shepherd,18765.3483,,12.9497,high,high,med,female,Perez
+Pug,7275.2018,38.8262,14.1719,med,high,med,male,Perez
+Golden Retriever,29320.6567,58.9425,9.8157,med,high,short,male,Haas
+Australian Shepherd,22242.607,50.8922,12.7769,high,med,med,male,White
+Pug,6648.8978,32.2487,13.6174,med,high,short,female,Jones
+Golden Retriever,29856.8359,57.4652,11.9522,med,high,med,female,Garcia
+Australian Shepherd,30380.4488,,13.5063,high,high,long,male,Aguilar
+Australian Shepherd,23633.267,53.271,13.8904,high,high,short,male,Myers
+Samoyed,31753.9297,52.6745,10.75,low,high,med,female,Rodriguez
+Australian Shepherd,21002.9618,52.2888,13.3793,high,high,med,female,Mueller
+Australian Shepherd,27873.5302,54.4516,12.2101,high,high,med,male,Kim
+Samoyed,20986.4589,,9.846,low,high,med,female,Edwards
+Samoyed,18775.3119,53.3243,10.6985,med,high,med,female,Jones
+Pug,7517.6447,33.6876,12.8643,med,high,med,female,Ross
+Pug,7796.4458,33.1569,15.7588,med,high,short,female,Romero
+Australian Shepherd,21633.3315,54.0992,12.614,high,med,med,male,Chapman
+Pug,6436.9101,,13.6455,med,high,short,male,Hughes
+Pug,6474.8065,30.4387,11.3055,med,high,short,male,Murray
+Samoyed,28749.3889,55.2417,10.9594,med,high,long,male,Nguyen
+Pug,7935.716,,12.4735,med,high,short,male,Wilson
+Australian Shepherd,27795.9672,52.5078,13.1746,high,high,med,female,Hall
+Samoyed,26925.149,51.9246,9.9487,med,high,short,female,Bridges
+Samoyed,25975.9214,54.2946,10.3703,med,high,short,female,Davis
+Samoyed,18430.2308,,11.2157,med,high,med,female,Mcdonald
+Australian Shepherd,22758.8926,54.1758,13.1342,high,high,short,female,Martinez
+Pug,6850.9874,34.0176,12.4342,med,high,med,female,Rodriguez
+Samoyed,24411.6149,53.3755,11.0263,med,high,med,female,Mooney
+Australian Shepherd,27000.5163,,11.9492,high,high,med,male,Lopez
+Australian Shepherd,22768.3139,49.994,13.0527,high,high,short,female,Brown
+Samoyed,24649.0098,,11.2833,med,high,med,male,Kelly
+Samoyed,29123.8251,52.3,11.5291,high,high,med,female,Robertson
+Golden Retriever,29486.5013,56.1138,12.0459,med,high,med,male,English
+Golden Retriever,27842.8552,56.0602,11.1568,med,high,med,female,Howard
+Australian Shepherd,24698.882,52.0174,12.1285,high,high,long,female,Stephenson
+Golden Retriever,32135.2698,57.3894,13.7333,med,high,short,female,Poole
+Australian Shepherd,31917.0105,,12.2648,high,med,med,female,Guerra
+Pug,7239.2371,39.154,12.3724,med,high,short,female,Jamie
+Australian Shepherd,19800.3501,53.5992,13.4655,high,med,med,male,Hartman
+Pug,6806.2524,32.1793,13.878,med,high,short,male,Harrison
+Golden Retriever,35627.6004,55.1549,11.2965,high,high,med,female,Guerrero
+Samoyed,22021.3487,,10.7945,high,med,med,female,Monroe
+Australian Shepherd,23828.9518,54.413,13.7819,high,high,med,male,Anderson
+Pug,7693.7632,31.6753,12.8548,med,high,short,female,Patton
+Samoyed,29763.3071,,11.706,med,high,med,female,Davis
+Golden Retriever,29544.2968,55.9013,10.4485,med,high,med,female,Stanley
+Pug,7847.2282,41.8054,11.7393,med,high,short,female,Wallace
+Australian Shepherd,19598.7401,,12.4645,high,high,med,male,Miles
+Golden Retriever,35006.3355,,11.2657,med,high,long,female,White
+Golden Retriever,28589.7433,59.3991,11.2046,high,high,med,female,Cruz
+Pug,7797.4762,31.2828,14.3606,med,high,short,male,Brown
+Australian Shepherd,25591.2146,53.6131,13.5773,high,high,med,female,King
+Australian Shepherd,24876.6076,52.1613,13.4162,high,high,med,female,Rodriguez
+Australian Shepherd,19896.603,,12.7635,high,high,med,male,Evans
+Samoyed,21180.103,51.799,11.853,med,high,long,male,Mann
+Pug,6741.6884,36.465,12.988,low,high,short,female,Hill
+Golden Retriever,28392.7108,57.5045,11.2486,med,high,med,female,Davis
+Pug,6979.1313,37.4958,14.0167,med,high,short,female,Baker
+Pug,6835.0063,31.152,14.3446,med,high,short,male,Dalton
+Golden Retriever,29820.2687,56.656,10.7427,low,high,long,female,Newton
+Australian Shepherd,20110.2653,,13.331,high,high,med,male,Brewer
+Pug,6886.7373,31.1078,14.1624,med,high,med,male,Miller
+Golden Retriever,31131.7466,58.3389,12.7488,med,high,med,female,Bradshaw
+Pug,6402.6863,29.5386,12.2271,med,med,short,male,Yoder
+Samoyed,20361.8025,52.6414,10.9122,med,med,med,male,Burke
+Samoyed,20969.3669,53.9786,10.0118,low,high,med,female,Duran
+Samoyed,23022.6966,,9.9626,med,med,med,female,Harris
+Golden Retriever,28351.7344,59.5445,10.2077,med,high,med,female,Booth
+Golden Retriever,35590.7658,,11.2152,med,high,med,female,Koch
+Pug,5777.021,30.8598,14.0619,med,high,med,female,Miller
+Golden Retriever,32019.8785,58.4926,11.6524,med,high,med,female,Gomez
+Australian Shepherd,29139.2881,53.7731,12.5184,high,med,med,male,Rose
+Golden Retriever,27646.3629,54.2398,11.7217,med,high,med,male,Singh
+Pug,6919.8529,37.9609,12.4731,med,high,short,female,Sampson
+Golden Retriever,27216.4698,57.4168,11.1659,med,high,med,female,Phillips
+Pug,5991.9478,33.1111,12.3743,low,high,short,male,Navarro
+Pug,7773.8253,33.2809,13.8104,med,high,short,male,Hill
+Samoyed,21871.4673,55.9243,10.1159,med,high,short,male,Smith
+Golden Retriever,33896.2518,,12.3078,med,high,med,female,Potter
+Golden Retriever,28533.6545,,11.1467,med,high,med,male,Hopkins
+Australian Shepherd,25130.6615,53.2775,13.968,high,high,med,female,Allen
+Golden Retriever,30260.8875,57.7949,11.4323,high,high,med,female,Mccarthy
+Golden Retriever,33053.8136,54.7866,11.7539,med,high,long,male,Beard
+Samoyed,16326.2924,53.3615,10.4663,med,high,med,female,Ruiz
+Pug,7307.0276,30.8904,13.7328,med,high,short,female,Robbins
+Samoyed,22481.4526,52.552,10.2446,low,high,med,male,Contreras
+Pug,7933.5783,35.5166,12.8258,high,high,short,female,Rodriguez
+Golden Retriever,27998.0837,59.6975,11.1757,med,high,med,female,Johnson
+Pug,6604.4955,39.4575,13.9976,low,high,short,male,King
+Australian Shepherd,29319.0601,53.3965,12.0834,high,high,short,female,Beck
+Golden Retriever,30241.1028,54.5331,11.41,high,high,short,female,Green
+Pug,7594.0774,31.9229,14.1928,med,high,short,male,Gibbs
+Samoyed,22632.8498,53.7627,11.261,med,high,med,female,Lewis
+Golden Retriever,26501.6534,59.0248,12.6614,med,high,med,male,Rich
+Pug,7042.2955,30.9554,13.9521,med,high,short,male,Murphy
+Samoyed,23445.9207,54.3432,11.4415,low,high,med,female,Marshall
+Samoyed,23638.3845,52.1131,11.6028,med,high,med,female,Todd
+Golden Retriever,30211.1866,55.263,11.2697,med,high,med,male,Hall
+Pug,6540.4126,35.9078,13.4665,med,high,short,male,Wiggins
+Pug,7630.0867,38.9376,14.7493,med,high,short,male,Patton
+Pug,6797.3714,,13.1428,low,high,short,female,Acosta
+Golden Retriever,28349.0864,56.3353,11.7621,low,high,short,female,Rojas
+Pug,7451.6108,40.532,14.5056,low,high,short,male,Le
+Golden Retriever,26462.1849,58.6773,12.6084,high,high,med,male,Duarte
+Golden Retriever,28372.3218,58.8743,11.7831,high,high,short,female,Castillo
+Pug,6358.8589,34.1271,12.9939,med,high,short,female,Hayes
+Golden Retriever,31234.0422,59.985,12.139,med,high,short,male,Fowler
+Australian Shepherd,20021.016,52.6761,13.7694,high,high,med,female,Flores
+Golden Retriever,26142.4794,60.3058,11.1786,med,high,med,female,Robinson
+Australian Shepherd,33171.6625,52.0377,13.3285,high,high,med,female,Perez
+Australian Shepherd,21281.4509,55.3646,12.836,high,high,med,male,Walton
+Samoyed,21305.9139,50.1187,10.1399,med,high,med,male,Riley
+Samoyed,27842.7522,56.7979,12.6178,med,high,med,male,James
+Golden Retriever,27092.0419,57.6278,11.2929,med,high,med,male,White
+Australian Shepherd,19968.1603,,13.1283,high,high,short,female,Reynolds
+Samoyed,19218.7711,51.202,12.0315,med,high,med,female,Silva
+Samoyed,23782.8056,,10.9061,med,high,med,male,Carter
+Australian Shepherd,22912.5657,53.3951,13.3664,med,high,med,male,Holland
+Samoyed,18123.964,,10.5699,med,high,med,male,Martin
+Australian Shepherd,28759.3698,52.1558,13.475,high,high,med,male,Dunn
+Golden Retriever,30061.7987,58.216,11.1466,med,med,med,female,Keller
+Samoyed,18615.0915,53.53,11.8379,med,high,med,male,Gutierrez
+Golden Retriever,28463.6619,56.7228,12.9914,med,high,med,male,Griffin
+Golden Retriever,31913.85,58.1035,10.5786,med,high,short,male,Lewis
+Samoyed,17874.8301,53.5162,10.1964,med,high,med,female,Miller
+Golden Retriever,26598.7576,58.3566,12.5775,med,high,med,female,Allen
+Golden Retriever,29213.5041,,10.4122,med,high,long,male,Ramirez
+Australian Shepherd,23444.1569,,12.3803,high,high,long,female,Collins
+Golden Retriever,29001.6439,54.5997,11.6394,med,high,med,female,Copeland
+Australian Shepherd,21446.4086,50.7841,12.9179,high,high,med,male,Tran
+Australian Shepherd,26809.0989,52.0299,12.2775,high,high,med,female,Ramos
+Australian Shepherd,27532.0746,,12.9951,high,high,med,male,Summers
+Pug,6487.5829,33.5685,14.1561,high,high,short,male,Rios
+Golden Retriever,30911.7707,,12.0129,med,high,med,male,Gonzales
+Pug,6332.6673,35.7939,11.9721,med,high,short,female,Phillips
+Pug,6661.9096,32.3709,13.7859,med,high,short,male,Everett
+Samoyed,22889.516,52.062,10.8625,med,med,short,male,Williams
+Pug,6706.8321,33.9038,13.8826,low,high,short,female,Nelson
+Samoyed,20548.5186,,11.0106,med,high,med,male,Parker
+Golden Retriever,29760.7622,56.6272,12.2858,med,med,short,female,Harris
+Golden Retriever,28144.4602,54.2672,11.0192,low,high,med,female,Spencer
+Australian Shepherd,28260.5563,,12.2424,high,high,med,female,Kelly
+Pug,7456.388,30.9018,13.6725,med,high,short,male,Ramirez
+Golden Retriever,30687.5091,,12.4556,med,high,med,female,Jordan
+Golden Retriever,28819.203,58.5723,11.3999,med,high,short,female,Robertson
+Australian Shepherd,25692.0354,,13.2342,high,high,med,male,Wood
+Australian Shepherd,23663.7723,53.0634,12.9046,med,high,med,female,Kelly
+Golden Retriever,28362.6584,58.345,11.6928,med,high,med,female,Robertson
+Australian Shepherd,19352.4272,52.6937,12.7079,high,high,med,male,Butler
+Australian Shepherd,27734.2289,,13.5639,high,high,short,male,Rodriguez
+Australian Shepherd,23934.3518,54.4176,14.5348,high,high,long,male,Griffin
+Golden Retriever,34646.7027,58.0436,11.2641,high,high,med,male,Briggs
+Golden Retriever,30285.2785,58.2616,9.8273,low,high,med,female,Lee
+Pug,7312.0637,35.4146,14.6848,med,high,short,male,Lozano
+Samoyed,27749.4312,,10.1952,med,high,med,female,Hawkins
+Samoyed,25410.8873,54.6142,11.0827,low,high,med,male,Young
+Samoyed,24926.695,53.9478,10.8059,med,high,med,male,Vargas
+Samoyed,20787.5459,,11.6913,med,high,med,female,Yang
+Samoyed,32147.8775,55.1548,11.7959,low,high,med,male,Ball
+Golden Retriever,29875.887,59.5092,11.72,med,high,med,female,Campbell
+Samoyed,30279.1968,54.7111,10.5028,med,med,med,male,Salazar
+Samoyed,29698.9589,53.2031,10.6639,med,high,med,male,Romero
+Samoyed,24625.7626,,11.3794,med,high,short,male,Lopez
+Golden Retriever,32435.7338,,12.1401,med,high,short,male,Thomas
+Australian Shepherd,22438.3954,,12.7947,high,high,med,female,Wagner
+Samoyed,11527.3449,,10.1776,med,high,med,female,Cox
+Golden Retriever,26250.3399,57.0111,11.7149,med,high,med,male,Powers
+Samoyed,16614.9159,,10.7402,med,high,short,female,Jordan
+Australian Shepherd,23231.4564,53.7125,12.8123,high,high,long,male,Garrett
+Australian Shepherd,29535.0668,53.2591,12.8067,med,high,med,female,Weiss
+Golden Retriever,33282.5415,57.9229,10.347,med,med,med,male,Bauer
+Pug,7021.865,34.0393,15.6596,high,high,short,male,Flores
+Pug,6915.2369,31.5773,13.8162,med,high,short,female,Delacruz
+Pug,7040.1811,31.1377,11.96,high,high,short,male,Curtis
+Golden Retriever,33943.3338,54.5356,10.6579,med,high,med,female,Robert
+Australian Shepherd,27064.4768,51.0454,13.6477,high,high,med,male,Davidson
+Pug,7340.9968,30.3995,13.3793,med,high,short,male,Martinez
+Pug,6192.5123,30.0047,12.8797,med,high,short,male,Johnson
+Pug,7744.0963,32.3705,12.9506,med,high,short,male,Johnson
+Pug,7209.9231,30.9582,12.0204,med,high,short,male,Lewis
+Golden Retriever,24279.4411,,10.5974,high,high,med,female,Cisneros
+Pug,7115.1489,,14.5383,high,med,short,male,Kelly
+Golden Retriever,27865.6347,,10.5709,med,high,long,female,Preston
+Golden Retriever,29099.3142,60.2284,11.8455,med,high,med,male,Phillips
+Samoyed,18776.5002,53.1953,10.1073,high,high,med,female,Danny
+Golden Retriever,33952.4553,56.1587,11.5494,low,med,med,male,Scott
+Samoyed,23353.5409,53.258,11.0141,high,high,med,male,Jackson
+Australian Shepherd,21262.4101,54.4473,11.8117,high,high,med,male,Brown
+Samoyed,21994.124,54.6734,10.7618,med,high,med,male,Williams
+Golden Retriever,33242.0433,58.3831,11.0902,med,high,med,male,Padilla
+Golden Retriever,30454.4915,58.4321,10.9542,med,high,med,female,Farley
+Golden Retriever,27896.3634,59.6746,12.1027,med,high,med,female,Wade
+Pug,7111.137,32.1606,13.0906,med,high,short,female,Hartman
+Samoyed,26520.2969,52.1828,10.3623,med,high,med,female,Scott
+Samoyed,26298.2231,54.7603,10.3739,med,high,long,male,Henry
+Australian Shepherd,21222.6856,52.4493,12.5227,high,high,med,female,Jones
+Pug,6893.0077,37.2055,14.3076,med,high,short,male,Brooks
+Pug,6885.9962,36.8789,12.5644,med,high,short,female,Walsh
+Samoyed,16230.8371,55.5348,11.5789,med,med,med,female,Murray
+Samoyed,20295.4043,51.5762,10.1877,med,high,med,male,Suarez
+Pug,7993.3674,35.8951,14.3735,med,high,short,male,Parker
+Golden Retriever,23536.9539,55.6944,11.9101,high,med,med,male,Knight
+Australian Shepherd,24654.1593,53.2679,12.9145,high,high,med,male,Newton
+Golden Retriever,26648.504,59.5224,11.8755,med,med,med,female,Gonzales
+Pug,7093.4712,34.3022,11.9362,med,high,short,male,Caldwell
+Samoyed,18741.6624,53.7634,10.607,med,high,med,female,Arellano
+Pug,7518.4549,37.8312,14.5807,med,med,short,male,Goodwin
+Pug,7888.6956,31.623,13.9877,low,high,med,male,Brown
+Australian Shepherd,20554.9059,,12.8584,high,high,med,male,Frye
+Samoyed,24254.6929,52.0707,12.2309,med,high,short,female,Reed
+Golden Retriever,30527.4762,,10.965,low,high,med,male,Harper
+Golden Retriever,29300.5224,53.4899,10.8764,med,high,med,female,Villegas
+Australian Shepherd,26973.0694,53.6535,11.9785,high,high,med,female,Byrd
+Pug,7238.5289,30.2569,14.3502,med,high,short,male,Baldwin
+Golden Retriever,29099.9974,57.4857,11.0584,high,high,med,female,Fisher
+Australian Shepherd,23039.9765,50.2401,13.1583,high,high,med,male,Williams
+Pug,7484.7324,35.2944,12.142,med,high,short,female,Jimenez
+Samoyed,28229.512,55.1688,11.5327,med,high,med,female,Mckenzie
+Golden Retriever,26225.0741,58.061,11.156,med,high,med,female,West
+Pug,7782.4098,35.0567,13.8215,med,high,short,female,Smith
+Samoyed,26615.0013,53.6504,11.0192,med,high,med,female,Parsons
+Australian Shepherd,24625.8571,52.5084,11.5306,med,high,med,female,Walker
+Golden Retriever,33493.4404,55.6626,11.4012,med,high,med,male,Howell
+Australian Shepherd,26473.6849,53.9165,13.383,high,high,med,male,Duarte
+Golden Retriever,30836.4704,,10.6,med,high,short,male,Munoz
+Australian Shepherd,20416.4292,53.3443,12.9817,high,high,med,male,Kelly
+Pug,7922.6836,30.9282,13.8231,low,high,med,female,Johnson
+Australian Shepherd,24456.7254,56.0437,13.0592,high,high,med,female,Herman
+Golden Retriever,34160.6871,59.5765,10.5144,low,high,med,male,Cruz
+Golden Retriever,30568.0114,59.4882,12.5382,med,high,med,male,Ward
+Samoyed,21708.1217,53.1876,10.5332,high,high,med,female,Sherman
+Australian Shepherd,18427.4521,52.5683,14.0949,high,high,med,female,Greer
+Pug,6694.7509,31.7909,14.3264,med,med,short,female,Harvey
+Pug,7985.9606,,15.4358,med,high,short,female,Perez
+Golden Retriever,31120.6926,57.5767,11.0818,med,high,med,female,Gardner
+Samoyed,25840.01,,11.2168,high,high,med,female,Harrison
+Samoyed,26934.8739,,11.8069,med,high,med,male,Rios
+Golden Retriever,27790.1245,,10.9758,med,high,med,female,Todd
+Australian Shepherd,24506.2833,51.3989,12.5018,high,high,short,male,Miles
+Samoyed,25061.1259,52.9836,10.9474,med,high,long,female,Anderson
+Pug,6724.3553,33.0682,13.18,med,high,short,male,Fletcher
+Australian Shepherd,21326.4472,53.8647,13.1561,high,high,med,female,Odom
+Pug,5896.0463,36.2156,14.9298,med,high,med,female,Chapman
+Samoyed,22200.1818,52.3249,10.7851,med,high,med,female,Vazquez
+Australian Shepherd,30180.874,52.6188,13.1217,high,high,short,female,Foster
+Golden Retriever,24081.6233,,12.1047,med,med,med,male,Kennedy
+Pug,7832.2345,40.2431,13.2254,med,high,short,female,Johnston
+Australian Shepherd,21877.5913,53.189,12.7882,high,high,med,male,Mcdonald
+Australian Shepherd,22038.4473,52.069,11.8022,high,high,med,female,Johnson
+Golden Retriever,31766.4899,,10.3074,med,high,med,female,Lane
+Samoyed,24255.3303,,11.4948,med,high,med,female,Morales
+Samoyed,20159.5068,,10.9514,high,high,med,female,Lam
+Pug,7283.2064,,12.3392,med,high,med,female,Davis
+Golden Retriever,28696.0522,59.1772,11.6079,med,high,med,female,Hunter
+Pug,6891.3288,30.6553,15.8009,med,high,short,male,Cooper
+Pug,6732.2368,32.206,15.6669,high,high,short,female,Richard
+Pug,7126.1972,37.3163,12.0214,med,high,short,male,Hernandez
+Australian Shepherd,24900.1466,56.4064,13.207,high,high,med,female,Simmons
+Pug,6357.7186,29.9976,12.1409,med,high,short,female,Richards
+Australian Shepherd,25555.1132,55.9271,14.3688,high,high,med,male,Stewart
+Pug,7080.7014,33.1602,14.6126,med,high,short,male,Coleman
+Samoyed,15734.7368,54.7941,11.4136,high,high,long,male,Caldwell
+Golden Retriever,29627.3405,57.5033,11.7954,med,high,med,male,Montgomery
+Samoyed,25695.7498,53.1823,10.888,med,high,long,male,Tate
+Golden Retriever,27558.517,60.6471,11.484,med,high,med,female,Miller
+Golden Retriever,32189.6969,55.6004,12.1459,med,high,med,female,Castro
+Australian Shepherd,23239.777,54.5728,12.9865,high,high,short,male,Williams
+Pug,5990.4308,28.5231,13.7629,high,high,short,female,Griffin
+Pug,7068.0709,38.476,13.9115,med,high,short,male,Nicholas
+Pug,7356.0672,34.4977,13.063,med,high,short,male,Johnson
+Samoyed,23268.3116,,10.3773,high,high,med,male,Brewer
+Pug,7256.9621,,12.2583,med,high,short,male,Jimenez
+Samoyed,20863.1552,53.5774,10.9781,med,high,med,male,Santana
+Samoyed,26587.6696,52.3823,10.724,med,med,med,female,Rodriguez
+Australian Shepherd,25459.8874,53.4752,12.5342,high,high,med,male,Cooley
+Pug,7026.6686,,12.9916,med,high,short,female,Santiago
+Samoyed,16319.0399,53.6768,10.7143,med,high,long,male,Wilcox
+Samoyed,19920.9203,53.6926,10.0542,med,high,med,female,Chavez
+Samoyed,21479.8778,54.8448,11.2142,med,high,med,female,Reynolds
+Samoyed,31236.3189,51.9538,10.2762,med,high,med,female,Jones
+Golden Retriever,22765.6938,,11.0798,med,high,med,female,Allen
+Samoyed,25538.4931,,10.1791,low,med,med,male,Proctor
+Australian Shepherd,23625.6754,52.7473,12.4451,high,med,med,female,Stewart
+Samoyed,17857.054,52.1126,10.5487,med,high,med,female,Shaw
+Australian Shepherd,22752.1038,55.2198,11.7703,high,high,med,male,Prince
+Samoyed,20028.7599,56.7207,10.673,low,high,med,female,Payne
+Golden Retriever,30336.5571,58.1224,12.1465,high,med,med,female,Hughes
+Samoyed,23952.2862,,11.9858,med,high,med,female,Lee
+Pug,6011.2429,29.6789,12.3596,med,high,short,female,Bennett
+Samoyed,21071.8112,55.1054,11.3389,med,high,med,male,Gonzalez
+Samoyed,27140.3669,52.9855,11.0711,med,high,med,male,Johnson
+Pug,5907.0976,33.792,14.2212,med,high,short,male,Garcia
+Australian Shepherd,23830.3099,,13.3569,high,med,med,female,Stewart
+Samoyed,19970.4977,54.8645,10.6184,low,high,short,male,Waller
+Golden Retriever,29801.0719,58.1675,11.707,low,high,long,female,Mckinney
+Samoyed,23229.22,55.3506,11.607,low,high,short,male,Velasquez
+Golden Retriever,30249.2174,56.1068,10.6041,low,high,med,male,Crawford
+Pug,6030.0923,33.8949,13.2331,med,med,short,male,Sullivan
+Pug,6803.6252,28.0959,13.0505,med,high,short,female,Houston
+Pug,5954.2869,31.0908,14.4546,high,high,short,female,Owens
+Golden Retriever,28977.5731,58.9564,11.6047,med,med,med,male,Thompson
+Australian Shepherd,21845.2576,53.5078,13.911,high,high,med,male,Kennedy
+Pug,6502.3421,30.1827,14.4282,med,high,short,male,Bush
+Australian Shepherd,25214.6223,54.7321,13.2821,high,high,med,male,Anderson
+Australian Shepherd,20864.3655,,13.4368,high,med,med,male,Armstrong
+Golden Retriever,27498.6928,57.1606,11.4661,high,high,med,male,Marshall
+Pug,7349.1953,34.05,13.5121,high,med,short,male,Wise
+Pug,6756.7145,30.5211,13.756,med,high,short,male,Nguyen
+Australian Shepherd,27665.7372,54.417,13.2145,high,high,med,male,Wilkinson
+Golden Retriever,27396.766,56.776,12.7724,med,high,med,female,Walker
+Samoyed,12921.442,,11.201,low,high,short,female,Maynard
+Golden Retriever,26102.5008,59.3421,12.7194,med,high,med,male,Foster
+Australian Shepherd,22174.4494,53.5396,12.3623,high,high,med,male,Chapman
+Pug,6710.1414,37.834,11.9987,high,high,short,female,King
+Australian Shepherd,20166.8853,,12.1022,high,high,long,male,Woods
+Samoyed,25049.786,52.5919,10.344,med,high,med,male,Butler
+Pug,6884.3403,31.3531,12.7823,med,high,short,male,Turner
+Samoyed,24965.5282,54.7437,11.0758,med,high,med,female,Guzman
+Pug,7769.22,35.7068,12.9652,med,high,short,male,Stewart
+Australian Shepherd,24594.8596,51.616,12.0615,med,med,long,female,Ramos
+Golden Retriever,30609.3365,58.4227,12.7385,low,high,med,male,Butler
+Golden Retriever,27143.9158,,10.7372,med,high,med,male,Smith
+Golden Retriever,28597.9664,56.0742,10.2543,high,high,med,female,Pearson
+Golden Retriever,24941.7908,,11.2631,med,high,med,male,Kathryn
+Pug,5498.4378,41.1417,12.2326,med,high,short,male,Scott
+Australian Shepherd,22455.1247,51.5537,12.6268,high,high,med,male,Bailey
+Pug,7294.2911,31.0361,12.2868,med,high,med,female,Williams
+Australian Shepherd,28385.6493,55.4782,13.5535,high,med,med,male,Gallagher
+Golden Retriever,22469.869,,10.2573,med,high,long,female,Hamilton
+Golden Retriever,24980.5361,57.4536,10.1988,med,high,med,male,Walters
+Pug,6853.783,40.0578,13.6527,low,high,short,female,Jones
+Pug,6731.3801,32.4609,13.538,low,high,short,female,Wilkerson
+Australian Shepherd,24890.3534,54.884,12.6026,high,high,med,male,Martin
+Australian Shepherd,23395.4704,52.8891,13.2079,high,high,med,male,Miller
+Pug,6059.6015,30.4378,13.7784,med,high,short,female,Armstrong
+Australian Shepherd,17262.0363,51.4862,12.5491,high,high,med,female,Brown
+Australian Shepherd,29977.0548,52.3819,11.501,high,high,med,female,Harper
+Golden Retriever,25122.988,54.8701,10.6868,med,high,med,female,Wilson
+Samoyed,19069.7479,52.9963,10.2788,med,high,med,female,Maldonado
+Australian Shepherd,22336.1864,53.8036,12.5288,high,high,med,male,Jones
+Samoyed,16184.3522,56.2563,11.8749,low,high,med,male,Massey
+Pug,7109.1298,34.4459,14.9416,med,high,short,female,Mcdonald
+Golden Retriever,29362.3599,57.9944,11.15,med,high,long,male,Jermaine
+Pug,7539.5963,35.186,13.0432,med,high,short,female,Wilson
+Australian Shepherd,23040.7477,55.5925,12.2301,high,high,med,female,Shields
+Pug,7758.6636,36.0537,15.1358,low,high,short,male,Brown
+Golden Retriever,30930.1916,59.9184,11.3256,med,high,med,female,Golden
+Golden Retriever,26697.92,57.367,12.2093,med,med,med,female,Moore
+Golden Retriever,29727.4771,59.3215,9.2005,med,high,med,male,Ingram
+Samoyed,18146.6179,,10.2469,med,high,med,male,Weiss
+Samoyed,19388.3439,53.6244,11.0846,med,high,short,male,Hensley
+Pug,7633.6335,31.4103,13.6383,med,high,med,female,Moran
+Australian Shepherd,21961.2471,50.909,12.519,high,high,med,male,Ibarra
+Samoyed,21867.6433,54.3546,11.0844,med,med,med,female,Snyder
+Golden Retriever,31331.6818,60.3658,11.8212,med,high,med,male,Norris
+Golden Retriever,27416.1419,57.5559,12.3424,med,high,med,female,Lawrence
+Golden Retriever,30524.8203,,11.9073,med,high,med,male,Humphrey
+Australian Shepherd,23161.8629,55.8399,13.0361,high,high,med,male,Combs
+Golden Retriever,30295.8606,,10.5898,med,med,med,female,Rosales
+Samoyed,18336.2442,51.8258,11.6805,med,high,med,male,Anderson
+Pug,6338.2657,33.3222,14.0366,med,high,med,male,Brown
+Australian Shepherd,26220.9395,53.7758,12.9324,high,high,long,male,Sharp
+Golden Retriever,30290.3499,57.7853,12.281,low,high,short,female,Bailey
+Golden Retriever,26920.4869,58.3588,9.9703,med,high,med,male,Dillon
+Golden Retriever,27352.2225,56.3107,12.1677,low,high,med,male,Lynch
+Australian Shepherd,20167.7507,52.3139,11.8419,high,high,med,female,Valentine
+Golden Retriever,30104.3486,,13.2671,med,med,med,male,Conner
+Australian Shepherd,27770.7807,54.2488,14.3586,high,high,med,female,Young
+Australian Shepherd,20546.6268,55.5271,12.9381,med,high,short,female,Roberson
+Pug,6454.5224,33.9433,12.9517,med,high,short,female,Hernandez
+Golden Retriever,31480.8782,,11.3675,med,high,short,female,Williams
+Samoyed,23612.2582,53.1806,11.1813,med,high,med,male,Blackwell
+Pug,7035.287,33.5369,15.1784,med,high,short,male,Kim
+Pug,7833.2136,25.1126,13.13,low,high,short,female,Nolan
+Pug,6211.6679,34.6478,14.858,med,high,short,male,Thomas
+Samoyed,30427.537,52.444,11.9729,med,high,long,female,Harris
+Golden Retriever,27562.4848,57.9359,11.0062,med,high,med,male,Frazier
+Samoyed,25123.4151,52.6882,11.7105,med,high,med,male,Schmitt
+Australian Shepherd,25084.0932,,13.0678,high,high,short,female,Bennett
+Pug,7434.7524,27.7506,11.8604,med,high,med,male,Powell
+Australian Shepherd,23137.8859,53.8384,12.5262,high,high,med,female,Jones
+Pug,7183.6603,33.7773,13.1838,med,high,short,male,Gonzales
+Pug,7633.5217,,12.9356,med,high,short,female,Lopez
+Australian Shepherd,28102.7202,53.8222,13.8984,high,med,med,female,Ellis
+Pug,7926.5813,36.2857,13.2481,med,med,short,male,Pena
+Australian Shepherd,22031.4705,53.7033,12.7894,high,high,med,female,Buchanan
+Pug,7460.7289,34.6125,12.3605,low,high,short,female,Williams
+Golden Retriever,30959.3128,,9.9325,med,high,med,female,Ortiz
+Australian Shepherd,20409.5213,54.797,12.5894,high,high,med,male,Grant
+Australian Shepherd,23727.0307,51.3153,14.0695,high,high,med,male,Powers
+Samoyed,24015.3502,53.7694,10.7865,high,high,long,female,Martin
+Golden Retriever,29614.3578,57.9524,9.0536,med,high,med,female,Winters
+Pug,7127.3801,27.1157,13.1413,med,high,med,female,Miller
+Pug,8235.6222,33.3862,13.8755,med,high,short,male,Underwood
+Pug,6161.894,36.2407,12.6511,med,high,short,female,Soto
+Australian Shepherd,29404.6845,,13.2207,high,high,long,male,Lawrence
+Australian Shepherd,24708.1062,52.4067,11.7095,high,high,med,male,Avila
+Australian Shepherd,25958.4326,52.4571,12.0649,high,high,short,male,Medina
+Pug,6444.7268,30.8202,13.8824,med,high,med,male,Moreno
+Pug,7402.0619,35.1434,14.3932,med,high,short,male,Nguyen
+Pug,6101.2682,37.4125,12.6555,med,high,short,male,Huynh
+Samoyed,20077.6617,52.9965,10.0003,med,high,med,female,Smith
+Samoyed,16640.6686,55.0877,10.1057,med,high,med,female,Miller
+Australian Shepherd,25864.23,53.1145,12.1879,high,high,med,male,Morrison
+Australian Shepherd,25557.9335,52.297,12.6179,high,high,med,male,Ochoa
+Pug,6478.0301,32.8206,13.8572,high,high,short,female,Greene
+Australian Shepherd,25759.2403,52.7067,12.5516,high,high,med,male,Garcia
+Pug,6822.0819,30.0441,13.5288,med,high,short,male,Coffey
+Golden Retriever,29477.5709,57.8642,12.4479,low,high,med,male,Vazquez
+Golden Retriever,31735.3443,57.7548,11.1577,med,high,med,male,Robinson
+Pug,7118.2811,36.7407,12.7044,med,high,short,female,Johnson
+Golden Retriever,22166.7916,59.4546,11.9275,low,high,med,female,Ramirez
+Samoyed,22032.9825,,11.8705,med,high,long,female,Morton
+Pug,6332.1525,30.96,13.318,med,high,short,male,Bates
+Golden Retriever,27747.8371,59.1134,10.8986,med,high,long,male,Gibson
+Australian Shepherd,23276.6072,,12.3021,high,med,med,female,Williams
+Australian Shepherd,19185.9781,53.0479,13.1379,high,high,med,male,Joseph
+Australian Shepherd,21770.2526,53.2175,13.2776,high,med,long,male,Barbara
+Pug,6131.9245,,13.2514,med,high,short,male,Clark
+Golden Retriever,27679.2193,,10.9693,med,high,med,female,Chavez
+Australian Shepherd,23419.3681,53.2398,12.1649,high,high,med,female,Brown
+Australian Shepherd,19175.4162,54.2936,13.472,high,high,med,female,Brown
+Pug,7076.4461,37.4745,11.7116,med,high,short,male,Murphy
+Golden Retriever,27470.6005,58.2775,12.9905,med,med,med,female,Burns
+Australian Shepherd,24077.6165,54.5701,12.6192,high,high,med,female,Stout
+Pug,8520.4658,,13.2428,med,high,med,male,Dudley
+Golden Retriever,27665.3792,,11.5829,med,med,med,male,Weaver
+Australian Shepherd,24556.2886,53.6459,13.8876,med,high,med,male,Preston
+Samoyed,22524.2699,,10.5796,med,high,short,female,Irwin
+Australian Shepherd,22680.4632,,12.7186,high,high,med,male,Dean
+Australian Shepherd,25244.1262,54.8663,12.2622,high,high,med,male,Lucero
+Australian Shepherd,23068.7631,54.2648,13.1534,high,high,med,male,Gina
+Australian Shepherd,26813.8175,53.6749,13.0277,high,med,med,female,Jones
+Australian Shepherd,21399.445,53.8537,12.8756,high,high,med,male,Wells
+Australian Shepherd,15772.9473,,13.398,high,high,med,male,Myers
+Samoyed,23561.5444,,10.3942,med,high,med,male,Patterson
+Pug,5984.3273,38.1009,14.5623,med,high,short,male,Jones
+Samoyed,19511.5956,54.1837,9.3749,med,high,med,female,Johnston
+Australian Shepherd,17504.6073,,12.6421,high,high,med,female,Martin
+Australian Shepherd,23430.4138,55.0282,13.4979,med,high,med,female,Garcia
+Golden Retriever,30783.8672,57.1425,11.2404,med,high,med,male,Pierce
+Samoyed,23472.4824,53.6961,11.5719,med,high,long,female,Gay
+Golden Retriever,29160.5768,59.051,11.0489,high,high,med,male,Byrd
+Samoyed,23239.2721,51.7706,11.5831,high,high,med,female,Fox
+Pug,7051.2162,27.219,13.3107,med,high,short,male,Quinn
+Australian Shepherd,21648.9917,52.4912,12.3663,high,high,short,female,Decker
+Samoyed,28246.3074,,10.8583,med,high,med,male,Johnson
+Australian Shepherd,22089.7334,51.1817,13.0111,high,high,med,male,Jackson
+Pug,7660.3363,34.0441,14.5176,med,high,short,female,Boyer
+Golden Retriever,29011.9591,,10.3558,med,high,med,female,Franklin
+Australian Shepherd,22764.6718,53.0553,12.3758,high,high,med,female,Pearson
+Australian Shepherd,23596.8544,55.3514,13.4145,high,high,med,male,Horton
+Samoyed,21686.7682,52.8132,11.4908,med,high,med,male,Knight
+Australian Shepherd,21920.4496,54.1464,12.1305,high,high,med,female,Rodriguez
+Pug,6212.3328,33.122,13.7015,low,high,short,female,Greene
+Pug,6823.1911,35.7001,13.9885,med,high,short,female,Thomas
+Samoyed,19919.7955,54.0525,10.4748,low,high,short,male,Shaffer
+Pug,7655.8788,,13.1256,med,med,short,male,Williams
+Pug,6940.3202,35.756,13.4295,low,high,short,male,Barber
+Samoyed,19096.1976,,10.359,med,high,med,female,Richardson
+Samoyed,22983.1777,54.927,10.9673,high,high,med,male,Adams
+Golden Retriever,32251.5052,57.1489,11.451,low,med,med,male,Chapman
+Golden Retriever,34698.9374,57.7087,11.2936,low,high,long,male,Valentine
+Samoyed,15490.3948,54.7292,10.6565,med,high,med,female,Smith
+Pug,7277.4598,32.4837,13.574,med,high,short,female,Andrade
+Pug,6759.1992,29.2359,13.7485,low,high,short,female,Sanders
+Samoyed,26132.6876,54.818,10.9774,med,high,med,female,Baker
+Australian Shepherd,24343.0833,53.0042,13.2379,med,high,med,female,Hutchinson
+Golden Retriever,30945.2591,,12.4888,low,high,long,male,Williamson
+Samoyed,23550.1635,52.6623,10.9658,med,high,med,female,Wood
+Samoyed,22907.5435,55.4639,11.4009,med,med,long,female,Simpson
+Australian Shepherd,26288.5463,53.1442,12.9985,med,high,med,male,Davis
+Australian Shepherd,19788.2811,53.0743,12.344,high,high,med,female,Thompson
+Golden Retriever,28193.4202,56.1271,11.4368,med,high,short,male,Good
+Golden Retriever,24642.1454,,12.425,low,high,med,male,Johnson
+Samoyed,25945.5759,53.9646,10.1813,med,high,med,female,Perez
+Australian Shepherd,28335.0457,52.4057,12.3122,med,high,med,female,Dudley
+Samoyed,26063.1075,56.1238,11.007,med,high,med,female,Baker
+Australian Shepherd,25198.7033,53.6708,13.3613,med,high,med,male,Mcdaniel
+Samoyed,20187.77,,11.4808,med,high,short,female,Schmidt
+Australian Shepherd,22121.0075,,12.9687,high,high,med,male,Valencia
+Pug,6930.5569,33.7662,13.7718,high,high,short,male,Lawson
+Australian Shepherd,22156.604,54.4848,12.3113,med,high,med,male,Schneider
+Golden Retriever,27351.6018,56.1728,12.0362,med,med,med,male,Curry
+Australian Shepherd,21057.9232,54.1262,12.5037,high,high,med,female,Pham
+Pug,6288.4817,34.7458,12.6312,med,high,short,female,Kemp
+Australian Shepherd,20681.5961,53.1398,13.8379,high,high,med,female,Johnson
+Samoyed,16077.2152,56.0616,11.3546,low,med,med,female,Barrett
+Golden Retriever,26676.4725,54.6889,10.9544,med,high,med,female,Doyle
+Samoyed,16845.0996,54.2906,11.627,med,high,med,female,Murphy
+Australian Shepherd,24086.811,52.2122,13.1926,med,high,med,male,Garrett
+Golden Retriever,24202.2804,54.6623,12.4543,high,high,med,female,Scott
+Pug,6620.9922,,12.6019,med,high,short,male,Harris
+Golden Retriever,28074.6909,,12.2605,med,high,med,male,Lloyd
+Australian Shepherd,26462.5982,,13.6101,high,high,short,male,Perez
+Golden Retriever,28482.8915,58.1153,11.2191,low,high,med,male,Graham
+Australian Shepherd,23258.1752,52.3,12.5183,high,high,long,male,Powers
+Golden Retriever,31385.5537,,12.3361,low,high,med,female,Dalton
+Pug,6623.7622,38.161,12.8067,med,high,short,male,Phillips
+Australian Shepherd,26402.9367,51.901,13.3362,high,high,med,male,Morgan
+Samoyed,25928.9016,57.8911,10.2905,med,high,long,male,Pope
+Australian Shepherd,19993.3579,53.5365,12.8247,med,high,long,male,Bell
+Golden Retriever,33210.4264,57.0997,12.791,med,high,long,female,Holmes
+Samoyed,30239.2084,54.1373,10.8365,med,high,short,male,Griffin
+Australian Shepherd,20370.6606,55.8873,12.1111,high,high,med,female,Russell
+Golden Retriever,32273.8465,56.8646,11.5468,med,high,med,female,Wright
+Golden Retriever,29751.0893,57.3471,10.6799,med,high,med,male,Velazquez
+Samoyed,22514.7806,,10.9839,high,high,med,male,Hernandez
+Samoyed,30175.3413,,12.3522,med,high,med,female,Evans
+Golden Retriever,30163.1977,,11.4789,med,med,med,female,Richardson
+Golden Retriever,31188.6599,,10.6187,med,high,med,female,Johnson
+Pug,6827.5309,31.7076,13.1506,med,high,short,female,Smith
+Samoyed,20791.4592,54.5179,11.0007,med,high,med,male,Stephenson
+Samoyed,24968.2929,,11.3822,med,high,med,male,Taylor
+Australian Shepherd,22068.5216,53.5919,13.4609,high,high,short,female,Powell
+Pug,7440.2751,29.5358,12.7692,low,high,short,female,Fritz
+Golden Retriever,31500.797,56.8282,10.5169,high,high,long,female,Johnson
+Pug,6824.7828,38.4906,13.5305,med,high,short,female,Alvarado
+Pug,6565.2123,30.3396,14.3484,high,high,short,male,Walker
+Golden Retriever,26323.8639,,12.4128,high,high,med,male,Cruz
+Australian Shepherd,15053.975,,13.5416,high,med,med,female,Daniels
+Australian Shepherd,24097.5642,55.0408,13.2501,high,high,med,male,Austin
+Samoyed,23403.5175,49.4809,11.4521,med,high,med,male,Torres
+Samoyed,26305.6841,56.1869,11.8161,med,high,long,female,Burns
+Pug,7787.9363,35.1322,12.9751,med,high,short,female,Jackson
+Golden Retriever,31298.8808,60.7545,11.2912,low,high,med,male,Washington
+Samoyed,33138.4555,,11.0292,med,high,med,female,Waller
+Pug,6485.4432,31.9202,12.9782,med,high,short,male,White
+Samoyed,23570.2953,,11.1221,med,high,med,male,Ellis
+Australian Shepherd,26834.2011,54.0806,12.9585,high,high,med,female,Duke
+Samoyed,24930.3241,52.3259,10.731,med,high,med,female,Mason
+Golden Retriever,35065.3547,,10.6821,med,high,med,male,Christian
+Pug,6711.2442,33.0541,12.2218,med,high,short,male,Evans
+Samoyed,26033.4136,54.7353,10.8324,med,high,med,male,Escobar
+Australian Shepherd,22241.0185,,13.1369,high,high,med,female,Donovan
+Golden Retriever,23981.5954,56.8724,11.0016,med,med,med,male,Jones
+Australian Shepherd,20341.1216,53.8546,13.7514,high,high,med,male,Juarez
+Australian Shepherd,22862.2869,,13.1634,high,high,med,female,Walker
+Australian Shepherd,22239.36,58.0094,12.3952,high,high,med,female,Johnson
+Pug,7255.5484,35.8651,13.3475,med,med,short,female,Ward
+Australian Shepherd,26171.9204,52.9265,13.5477,high,high,med,male,Leach
+Golden Retriever,31460.6015,62.6111,11.2443,med,high,short,female,Perez
+Samoyed,25194.9268,54.8443,11.3795,med,med,long,female,Bush
+Golden Retriever,25119.1025,57.2275,12.8489,low,high,med,male,Duke
+Pug,6245.9736,27.2505,13.4983,med,high,short,female,Fisher
+Pug,7199.3763,30.2442,14.9013,med,high,short,male,Ferguson
+Samoyed,25363.0374,,11.8033,med,high,long,female,Ray
+Australian Shepherd,25171.7208,54.355,12.2428,high,high,long,male,Smith
+Australian Shepherd,23123.8804,55.1248,13.1901,high,high,med,male,Wheeler
+Golden Retriever,27869.3994,60.7842,11.9465,med,high,med,female,Holloway
+Golden Retriever,34491.4643,59.5127,12.3742,med,high,short,female,Livingston
+Australian Shepherd,21481.1816,,11.9021,high,high,med,male,Henson
+Samoyed,24785.3663,54.5664,10.4193,med,high,med,male,Mercer
+Samoyed,21208.5556,55.2463,10.9593,med,med,med,female,Martinez
+Samoyed,21844.7059,53.2581,11.3333,med,high,short,male,Krause
+Samoyed,22150.0639,,10.5944,med,high,short,male,Bonilla
+Golden Retriever,25883.2895,,12.5531,med,high,med,male,Green
+Australian Shepherd,28547.7659,,12.4469,high,high,med,male,Phillips
+Pug,7539.0566,33.7233,13.7037,med,high,short,female,Swanson
+Golden Retriever,31850.8042,60.8076,9.2938,med,high,med,female,Mitchell
+Australian Shepherd,20067.5178,50.8882,12.9352,high,high,med,male,Abbott
+Samoyed,22918.9213,56.5844,11.2452,med,high,med,male,Cook
+Samoyed,20409.6023,54.0657,10.643,med,high,med,female,Lester
+Australian Shepherd,21760.7965,53.9944,12.8855,high,high,short,female,Melendez
+Pug,6974.3258,,13.554,med,med,med,female,Ochoa
+Pug,6556.7233,32.1906,14.7843,med,high,med,male,Alvarez
+Golden Retriever,29804.2744,58.0477,11.4165,med,high,short,male,Vaughan
+Australian Shepherd,20382.5965,,11.3208,high,high,short,female,Garcia
+Samoyed,27983.2259,53.7647,9.7291,med,high,med,male,Wright
+Pug,6548.2818,35.8762,11.914,med,high,short,male,Robles
+Australian Shepherd,19099.7199,51.4584,12.0999,high,high,med,female,White
+Samoyed,25746.1537,49.7126,11.3451,med,high,med,female,Tran
+Samoyed,30887.1257,54.9569,9.669,med,high,med,female,Bowen
+Australian Shepherd,27535.9022,53.7482,12.3034,high,high,med,female,Rosales
+Pug,7388.7281,32.3369,12.0205,high,high,short,female,Lewis
+Golden Retriever,30965.3676,61.4958,12.4992,med,high,med,female,Morgan
+Australian Shepherd,23366.4064,55.6245,12.5701,high,high,med,female,Gould
+Golden Retriever,30535.9416,62.9524,11.6147,med,high,short,female,Schwartz
+Australian Shepherd,17203.7415,53.6053,12.8357,high,high,med,female,Rodriguez
+Samoyed,18270.6867,,10.804,low,high,med,female,Jones
+Samoyed,21240.5549,54.1324,11.3339,med,high,med,male,Davis
+Golden Retriever,31690.0864,,10.2217,med,high,med,female,Thompson
+Samoyed,26029.3258,55.2525,11.0645,med,high,med,female,Barber
+Golden Retriever,32074.6653,,12.2046,med,high,med,female,Shah
+Golden Retriever,29947.2827,,10.1118,med,high,med,female,Jones
+Pug,6997.0993,32.9691,14.3231,med,med,short,male,Cooper
+Pug,7771.9822,29.7594,13.9067,high,high,short,female,Cook
+Golden Retriever,27609.9319,,11.3799,med,high,med,female,Flores
+Pug,7736.4183,29.6478,11.4855,med,high,short,male,Jones
+Golden Retriever,31563.8543,60.3477,10.7607,med,med,short,male,Lewis
+Pug,6987.8855,29.3235,13.8093,med,med,short,female,White
+Samoyed,25857.7656,54.1093,11.3384,med,high,long,female,James
+Pug,6367.6999,29.6392,14.9938,med,med,short,female,Martinez
+Samoyed,27744.5611,53.9467,11.1512,low,high,med,male,Sanders
+Golden Retriever,29609.4406,,11.2482,med,med,long,male,Carter
+Samoyed,23669.8968,,10.5639,med,high,med,male,Bradford
+Pug,6811.3062,39.9672,10.8926,med,high,med,female,Morris
+Australian Shepherd,23035.574,53.77,13.6118,high,high,med,female,Chapman
+Samoyed,21763.3663,54.3023,11.2292,med,high,med,female,Zimmerman
+Australian Shepherd,20092.8641,,12.4087,high,high,long,female,Collier
+Samoyed,25175.2084,53.32,11.4858,med,high,med,female,James
+Australian Shepherd,23399.9804,52.9253,14.0523,high,high,med,male,Owen
+Australian Shepherd,26966.7031,53.9707,13.397,high,high,long,female,Jenkins
+Samoyed,14618.8817,,10.452,med,med,med,male,Thornton
+Samoyed,17898.9123,55.9302,12.3053,med,med,med,male,Wilson
+Golden Retriever,29668.5188,57.1376,11.664,med,high,med,male,Drake
+Golden Retriever,31221.8635,54.0289,9.5417,med,high,med,male,Cummings
+Samoyed,19830.4175,52.8739,10.9905,med,high,short,male,Black
+Samoyed,21540.0274,52.9081,10.5255,med,high,med,female,Knight
+Pug,6628.7172,32.4324,13.9926,med,med,med,female,Carroll
+Golden Retriever,30683.5926,54.7765,11.9733,med,high,med,male,Robertson
+Samoyed,25163.0159,52.9108,9.6005,med,high,med,male,Richardson
+Pug,6975.4468,,13.2364,med,high,short,female,Richards
+Pug,7969.5939,,12.4675,med,high,short,male,Webster
+Golden Retriever,31260.9365,59.8805,10.118,med,high,med,female,Moses
+Pug,6874.9015,35.3457,13.2697,med,high,short,male,Graves
+Samoyed,24690.7159,53.441,10.3223,med,high,med,female,Cruz
+Samoyed,22937.6814,54.1766,10.9133,high,high,med,male,Glover
+Samoyed,25578.4067,54.0771,10.2981,med,high,med,female,Peterson
+Pug,7862.2531,26.9676,12.2793,med,high,short,male,Griffith
+Australian Shepherd,24153.1306,,13.2448,high,high,med,female,Anderson
+Golden Retriever,29093.0807,57.7527,12.3109,med,high,long,female,Freeman
+Samoyed,23917.4179,54.1597,11.1377,med,high,med,male,Shah
+Golden Retriever,30921.8302,,11.5192,med,high,med,male,Bennett
+Australian Shepherd,22053.0655,52.7714,12.1922,high,high,med,female,Gray
+Samoyed,24633.3229,52.1798,11.8631,med,high,med,female,Green
+Samoyed,18735.6846,54.8326,10.5036,med,high,med,female,Barton
+Pug,6563.7279,33.216,13.4894,med,high,short,male,Ellis
+Pug,6875.4113,32.4487,13.6579,med,high,short,female,Walker
+Australian Shepherd,27549.17,54.0813,13.2927,high,high,med,male,Graham
+Pug,7415.2293,,13.8427,low,high,med,female,Melendez
+Australian Shepherd,23204.1067,54.8579,11.7231,high,high,med,female,Snyder
+Golden Retriever,29376.1562,58.1112,11.5914,low,high,med,male,Henry
+Samoyed,25861.1077,55.2168,10.9948,med,high,med,male,Marshall
+Samoyed,18851.5544,54.5909,11.1238,med,high,long,male,Johnson
+Samoyed,21338.3858,55.5794,10.7062,med,high,long,male,Jensen
+Golden Retriever,24725.3434,55.7877,10.6413,med,high,med,female,Walker
+Samoyed,13962.0495,54.1649,10.5522,med,high,long,female,Washington
+Golden Retriever,32769.9694,,11.406,med,high,med,female,Patterson
+Golden Retriever,31973.105,55.3862,10.8225,med,high,med,female,Moore
+Samoyed,29317.1304,51.4802,11.3575,med,high,long,male,Johnson
+Pug,6331.7036,33.3514,11.7674,med,high,short,female,White
+Golden Retriever,29008.8473,58.7204,12.3292,med,high,med,male,Carter
+Pug,6821.9362,35.4671,12.0249,med,high,short,male,Good
+Golden Retriever,31292.7948,,10.919,med,high,med,female,Harris
+Golden Retriever,29508.07,57.9684,11.1976,med,high,med,female,Adams
+Samoyed,14161.4304,52.2202,10.8838,med,med,med,male,Harris
+Samoyed,23541.6915,53.0586,10.7571,med,high,med,female,Hines
+Australian Shepherd,24467.2382,57.0605,13.4464,high,high,med,male,Daniels
+Pug,6786.7106,34.1549,13.9715,high,high,short,male,Ramirez
+Pug,7182.4793,33.5549,14.8331,med,high,med,male,Valencia
+Pug,7093.0838,,13.3805,med,high,short,female,Anderson
+Samoyed,26310.6762,53.2457,11.4082,med,high,med,female,Breanna
+Australian Shepherd,17520.5876,54.0471,11.6639,high,high,long,male,Garcia
+Golden Retriever,28460.8909,,12.6677,med,high,long,female,Timothy
+Pug,6765.9266,36.1022,13.0298,med,high,short,male,Young
+Pug,7952.0497,29.6036,15.1482,med,med,short,female,Rasmussen
+Samoyed,20517.5209,51.2612,10.4948,med,high,med,male,Moore
+Australian Shepherd,28887.9194,53.5166,13.2405,high,med,med,male,Rios
+Pug,6934.6714,35.8502,13.6749,med,med,short,female,Harris
+Samoyed,20297.9119,53.8095,10.239,med,high,med,female,Strong
+Pug,6958.2841,35.0329,14.3722,low,high,short,female,Kim
+Golden Retriever,26688.0278,,10.5378,med,high,med,male,Powell
+Australian Shepherd,23286.956,53.7602,13.9676,high,high,med,male,Richardson
+Pug,6898.4257,37.1092,14.473,med,med,short,male,Valencia
+Pug,6708.9624,,13.8654,high,high,short,female,White
+Pug,6459.0527,,14.642,low,high,short,female,Hill
+Samoyed,19076.6818,53.5877,9.8329,high,high,med,female,Stuart
+Golden Retriever,31706.6144,57.1468,11.293,med,high,short,female,Duffy
+Australian Shepherd,21290.7726,51.054,12.1281,high,high,short,male,Gibson
+Samoyed,19275.5822,54.3001,11.0101,med,high,long,female,Jackson
+Australian Shepherd,23270.0941,53.7829,13.853,high,high,short,female,Sweeney
+Samoyed,21577.8,53.7558,9.9198,low,med,med,male,Wilson
+Australian Shepherd,32741.4338,,12.9837,med,high,med,female,Rollins
+Pug,6380.7201,,13.0645,med,high,short,male,Harris
+Australian Shepherd,23694.9968,53.0377,13.9512,high,high,long,female,Dyer
+Samoyed,14525.4559,51.8423,11.2249,high,high,med,female,Hill
+Samoyed,18843.4493,,10.3618,med,high,long,male,Mclaughlin
+Golden Retriever,25773.9573,60.9736,11.8896,med,high,med,male,Rivers
+Golden Retriever,30854.6968,58.948,11.4436,med,high,med,female,White
+Australian Shepherd,29622.7116,,13.3969,high,high,med,male,Smith
+Australian Shepherd,26672.0564,54.538,12.8295,high,high,med,male,Webb
+Golden Retriever,25383.1771,58.2976,12.1858,high,high,med,female,Pierce
+Australian Shepherd,26551.4787,54.491,13.2699,med,high,long,female,Bridges
+Samoyed,31013.3322,55.9885,10.676,low,high,med,male,Montgomery
+Australian Shepherd,29315.2634,53.9352,13.7363,med,high,med,male,Baker
+Samoyed,17906.8321,54.0113,11.2927,med,high,med,male,Johnson
+Samoyed,26450.7796,53.8638,11.4942,med,high,med,female,Noble
+Golden Retriever,29061.246,60.432,11.1614,high,high,long,female,Blackwell
+Samoyed,18402.6773,52.9876,11.9055,med,high,med,male,Norton
+Golden Retriever,32990.1857,57.2628,11.267,med,high,med,male,Walter
+Pug,5659.9816,38.1518,12.6756,med,high,med,male,Pope
+Golden Retriever,26435.0108,57.288,9.3166,med,high,long,female,Frost
+Australian Shepherd,23928.3894,52.2687,12.9017,high,high,med,female,Elizabeth
+Golden Retriever,28647.5322,58.5463,13.1689,med,high,med,female,Patterson
+Golden Retriever,22467.5104,58.1381,9.7856,med,high,long,female,Green
+Samoyed,24052.2623,,10.8925,med,high,med,male,Hernandez
+Pug,7008.6207,38.2159,13.7812,med,high,short,male,Barry
+Australian Shepherd,22369.4212,54.0246,12.6496,high,med,med,female,Cordova
+Golden Retriever,28447.4135,59.9151,10.336,med,high,med,female,Allen
+Pug,6984.0249,36.71,13.7792,med,high,short,male,Ramsey
+Samoyed,15234.5009,52.467,11.9458,med,high,med,male,Cox
+Australian Shepherd,24321.7175,55.0434,12.3137,high,high,med,male,Gregory
+Pug,8034.3393,40.101,12.6406,high,high,short,female,Bautista
+Pug,7396.0463,31.3178,14.6609,med,high,short,female,Henderson
+Golden Retriever,29932.9799,55.7794,11.4278,low,high,short,female,Craig
+Pug,6557.1429,28.6719,12.7157,med,med,med,female,Hogan
+Samoyed,23171.1052,54.7369,10.2152,med,high,med,female,Adkins
+Golden Retriever,29210.0229,59.4427,12.5118,low,high,med,female,Roach
+Golden Retriever,28375.0698,57.1467,10.8841,med,med,med,male,Gonzalez
+Australian Shepherd,21919.4114,53.6641,12.3588,high,high,med,female,Cooper
+Golden Retriever,26826.2856,57.5975,12.1929,med,high,med,male,Coleman
+Samoyed,23485.5943,52.0568,10.9347,med,high,med,female,Ruiz
+Golden Retriever,30020.2946,57.3496,12.8951,med,high,med,female,Montgomery
+Golden Retriever,28457.0979,58.619,12.8039,med,high,long,male,Brown
+Golden Retriever,29949.0283,57.9101,11.5296,med,high,med,female,Parks
+Samoyed,17529.059,51.778,10.738,med,med,med,male,Sandoval
+Samoyed,23311.7684,51.8327,10.4518,low,high,med,female,Ho
+Australian Shepherd,19612.4436,51.0096,12.5205,med,high,med,male,Campbell
+Australian Shepherd,18671.3472,50.6093,12.7917,high,high,med,female,Jackson
+Pug,6363.1122,,14.4947,high,high,short,female,Fisher
+Australian Shepherd,16842.7902,,12.4202,high,high,med,male,Martin
+Samoyed,24393.0363,53.2717,10.6648,med,high,med,female,English
+Golden Retriever,28701.2904,58.096,12.5646,low,high,med,male,Flowers
+Pug,7494.6788,33.5072,13.9486,high,high,short,male,Alexander
+Golden Retriever,29243.8017,57.9253,11.2706,high,high,med,male,Weaver
+Australian Shepherd,24848.5628,53.4072,12.7345,high,high,med,female,Lopez
+Golden Retriever,28329.2136,62.2318,10.8202,med,high,med,female,Butler
+Samoyed,16683.3215,,11.2988,med,high,med,female,Fuentes
+Australian Shepherd,25352.1347,,12.0837,high,high,short,female,Rivas
+Golden Retriever,36776.089,,11.1291,med,high,short,male,Bradley
+Australian Shepherd,22182.0097,,13.2498,high,high,med,female,Roy
+Pug,7069.6419,33.7061,13.5259,high,med,short,male,Washington
+Pug,7219.1395,30.3174,13.839,low,high,short,female,Santos
+Australian Shepherd,25618.2045,55.1048,13.3562,high,high,med,male,Hull
+Australian Shepherd,21765.6988,,13.4375,high,high,med,male,Roy
+Australian Shepherd,24293.3089,52.8671,12.3062,high,high,long,female,Smith
+Samoyed,19620.6814,54.1374,11.3888,low,high,med,female,Hamilton
+Samoyed,16863.0248,53.1677,10.6017,med,high,long,female,Murphy
+Golden Retriever,24632.8169,57.9506,11.9568,med,high,long,male,Reeves
+Pug,6476.1789,30.0381,14.242,high,high,short,male,Poole
+Australian Shepherd,20825.5272,52.1972,13.1917,high,high,med,male,Beard
+Australian Shepherd,23164.4066,54.4016,12.2031,high,high,med,female,Holmes
+Golden Retriever,31528.4437,55.9353,10.0648,med,high,med,female,Davis
+Pug,7586.8145,35.8989,12.6508,high,high,short,female,Kirby
+Golden Retriever,27533.6838,57.6971,11.9189,med,high,short,female,Cameron
+Golden Retriever,28108.9939,58.2469,11.9043,high,high,short,male,Perry
+Pug,7042.398,36.5552,15.547,med,high,short,male,Alan
+Samoyed,28205.8576,54.8018,11.2901,med,high,med,female,Castillo
+Golden Retriever,29594.4283,,11.1103,med,high,med,female,Herrera
+Pug,6999.5204,31.1545,13.1173,med,high,short,female,Lang
+Australian Shepherd,21831.732,51.3062,12.8572,high,high,med,female,Scott
+Samoyed,20958.4771,53.9823,11.5514,med,high,med,female,Murphy
+Pug,8551.5871,33.8778,13.8274,med,high,short,female,Morgan
+Golden Retriever,28262.8346,,13.0262,med,high,med,male,Knox
+Australian Shepherd,27652.5618,56.4993,13.369,med,med,med,male,Wang
+Golden Retriever,24211.0206,57.9252,11.8271,med,high,short,male,Carter
+Samoyed,21055.7237,,11.692,med,high,med,male,Jones
+Australian Shepherd,25278.7534,,13.5644,high,high,med,female,Elliott
+Samoyed,20154.0109,51.4745,11.4606,med,high,med,male,Webb
+Australian Shepherd,21187.3491,52.0896,13.3076,high,high,med,male,Hamilton
+Samoyed,28304.7497,,11.2061,high,med,long,female,Summer
+Pug,7082.573,39.2184,12.7811,med,high,short,male,James
+Pug,7149.7384,32.8584,13.3271,med,med,short,female,Wallace
+Australian Shepherd,27262.3142,54.0142,13.1603,high,high,short,female,Rodgers
+Pug,6343.0101,32.333,14.4612,med,high,short,female,Castillo
+Samoyed,28207.1489,51.3769,11.7004,low,high,med,female,Collins
+Samoyed,17619.5485,,10.7818,med,high,med,female,White
+Australian Shepherd,27975.5886,53.897,13.0487,high,med,med,male,Hayden
+Golden Retriever,31252.7276,57.46,12.8641,med,high,med,female,Campbell
+Samoyed,21739.7272,56.5667,10.2193,med,high,med,male,Armstrong
+Pug,6516.3265,32.9373,13.9482,med,high,short,male,Hartman
+Pug,6945.9745,34.2707,13.0848,high,high,med,female,White
+Australian Shepherd,24125.1247,56.7075,13.6721,med,high,med,female,Johnson
+Golden Retriever,34472.2224,55.0815,10.7864,med,high,med,female,Scott
+Golden Retriever,32113.2927,59.1286,11.4513,low,high,med,male,Bentley
+Australian Shepherd,26726.3172,54.3561,13.3158,high,high,med,male,Clayton
+Samoyed,25066.8443,53.6906,11.9072,low,high,med,male,Taylor
+Samoyed,20515.5985,,11.6226,med,med,long,male,Logan
+Samoyed,23124.9908,51.8515,11.3073,med,high,med,male,Hamilton
+Samoyed,21284.3235,54.4386,10.8905,med,high,med,female,Spence
+Australian Shepherd,21168.2982,,12.9825,high,high,long,female,Hansen
+Pug,7416.7165,,13.6656,med,high,short,male,Harris
+Samoyed,25328.3297,52.9855,10.5899,med,high,long,female,Fields
+Golden Retriever,31417.2866,60.3036,11.157,high,med,med,female,Bean
+Samoyed,21944.3943,52.1092,11.5571,med,high,med,male,Young
+Australian Shepherd,21805.7141,,12.7067,high,high,med,female,Hall
+Golden Retriever,27800.3622,59.2888,10.8562,med,high,med,male,Kim
+Samoyed,19858.8776,52.6591,10.4831,med,high,med,female,Booker
+Pug,6878.3593,33.4294,13.6459,med,high,short,male,Bailey
+Golden Retriever,31062.0537,59.6212,10.8857,med,high,short,male,Morgan
+Australian Shepherd,25383.1465,52.9692,13.3001,high,high,med,female,Park
+Golden Retriever,27590.5866,56.2208,11.2683,high,high,long,female,Kemp
+Australian Shepherd,24323.7526,54.8244,13.173,high,high,med,female,Nguyen
+Australian Shepherd,22625.2462,,13.8448,high,high,med,female,Myers
+Golden Retriever,29003.8987,55.7584,11.7049,med,high,med,male,Chase
+Pug,6651.1903,31.6128,14.3676,med,med,short,female,Lowe
+Pug,6886.1783,29.6889,12.5635,med,high,short,male,Howell
+Pug,7246.3265,,11.7422,med,high,short,female,Foster
+Pug,6544.4213,26.7889,15.0081,med,high,short,female,Roberts
+Golden Retriever,29816.4868,59.7094,11.5569,high,high,med,male,Phillips
+Australian Shepherd,22040.2972,54.8158,12.8291,med,med,med,female,Wright
+Pug,8032.8405,,14.087,med,med,short,female,Moore
+Australian Shepherd,21460.7009,51.2393,13.4621,high,high,med,female,Bishop
+Golden Retriever,27142.1326,57.6432,10.1425,med,high,med,male,Johnson
+Samoyed,24581.6401,,9.8754,med,high,med,female,Dawson
+Australian Shepherd,23541.5958,53.9204,12.3573,high,high,med,female,Berry
+Golden Retriever,30934.5915,57.6867,12.2247,med,high,med,female,Rodriguez
+Pug,7465.8781,34.1831,14.1164,low,high,short,female,Yu
+Samoyed,26899.7378,,12.0874,med,high,med,female,Montgomery
+Australian Shepherd,23372.4511,52.6324,12.7244,high,high,med,male,Howard
+Australian Shepherd,18222.7432,,13.3251,high,high,long,female,Simpson
+Australian Shepherd,22138.0315,52.3363,13.5618,high,high,long,female,Shane
+Australian Shepherd,30378.9199,,12.7294,high,high,short,female,Rowland
+Golden Retriever,26168.0589,61.8964,10.7291,med,high,med,male,Carr
+Australian Shepherd,19565.083,,12.5165,med,high,med,male,Patricia
+Pug,7578.8169,32.9348,13.896,med,high,med,male,Ibarra
+Australian Shepherd,23841.5212,,13.0446,high,high,med,female,Stevens
+Pug,6239.221,28.3373,14.7698,med,high,short,male,Chang
+Pug,8213.3547,,13.7222,med,high,short,male,Mullins
+Australian Shepherd,21823.6465,54.0588,12.8868,high,high,med,male,Jones
+Australian Shepherd,21766.3122,53.7462,13.5935,high,high,med,male,Roach
+Golden Retriever,29242.5119,54.8828,11.0616,med,high,long,female,Berg
+Pug,6397.0769,32.2782,13.6389,med,high,short,male,Oneal
+Pug,6481.3955,,14.3367,med,high,short,male,Ballard
+Samoyed,16925.2054,52.9243,11.4695,med,high,long,female,Johnson
+Samoyed,25879.3627,52.9084,10.7131,med,high,med,female,Torres
+Australian Shepherd,22018.8403,52.2917,14.5252,high,high,med,female,Lee
+Samoyed,22571.9656,54.8048,12.1089,med,med,med,male,Mueller
+Golden Retriever,28138.3092,58.8529,13.3679,med,high,med,male,Lee
+Golden Retriever,28645.6051,58.2531,11.7769,med,high,med,female,Walker
+Samoyed,24360.2819,,11.8362,high,high,med,male,Perez
+Pug,7130.7253,37.5061,13.8104,low,high,short,female,Miller
+Golden Retriever,27540.8538,,11.6372,med,high,med,male,Boyer
+Pug,6832.3459,33.2863,14.3034,med,high,short,female,Smith
+Samoyed,23296.1016,52.6411,12.5875,high,high,med,male,Rodriguez
+Australian Shepherd,22857.0029,52.8508,12.7505,med,high,med,female,Johnson
+Australian Shepherd,25019.8812,51.3899,13.1067,high,high,med,male,Rosario
+Golden Retriever,28329.9944,57.8985,10.6891,med,high,med,male,Newman
+Golden Retriever,30906.3433,55.7784,11.8252,med,high,med,male,Dennis
+Golden Retriever,33416.488,57.6656,10.3906,med,high,med,female,White
+Australian Shepherd,20051.4372,49.5695,13.0875,high,high,med,male,Contreras
+Golden Retriever,33018.4033,60.0127,11.0325,med,high,med,male,Bright
+Pug,5637.7159,31.5339,12.5719,med,med,short,male,Mendez
+Golden Retriever,23014.0398,60.2389,11.3382,low,high,med,female,Bowman
+Australian Shepherd,23457.5387,,12.4562,high,high,short,female,Mercer
+Pug,6347.7611,,12.0936,med,med,short,female,Porter
+Samoyed,23165.8676,54.9205,10.4422,med,high,med,male,Meyer
+Australian Shepherd,23156.8602,,13.2538,high,high,med,female,David
+Golden Retriever,26774.5082,59.5076,10.6486,low,high,med,male,Davis
+Pug,7752.6628,,14.1298,med,high,short,female,Miranda
+Golden Retriever,29836.4249,57.8964,9.902,med,high,med,male,Alvarez
+Australian Shepherd,23010.4579,52.8801,13.8505,high,high,long,male,Wilson
+Australian Shepherd,23962.4522,55.6893,12.8025,high,high,med,male,Mccarty
+Australian Shepherd,22623.4667,,13.5151,high,high,med,female,Chan
+Pug,6940.1967,36.3407,14.8782,med,high,med,male,Carter
+Australian Shepherd,25487.2556,54.3004,12.3122,high,high,med,male,Castro
+Golden Retriever,28584.9003,57.2068,11.2352,med,high,short,male,Rogers
+Pug,6924.2562,38.0321,13.9638,med,high,short,male,Macdonald
+Golden Retriever,29892.8787,61.0593,11.2681,med,high,short,male,Grant
+Samoyed,28153.3317,,10.5079,med,high,med,female,Berger
+Pug,6319.5752,,13.6679,med,med,short,female,Leonard
+Samoyed,21696.1525,52.6969,10.3985,med,high,med,male,Mckee
+Australian Shepherd,24328.6557,55.5626,12.4784,med,high,med,female,Casey
+Australian Shepherd,23301.0171,56.1354,11.485,high,med,med,male,Greene
+Samoyed,18574.6163,52.1606,11.4126,med,high,long,male,Watkins
+Golden Retriever,31293.1395,55.3379,12.558,med,high,med,female,Taylor
+Pug,6827.2625,35.5895,13.6707,med,high,short,female,Hess
+Pug,6810.4948,33.9606,15.1092,med,high,short,male,Simon
+Pug,7812.7673,36.4606,12.973,med,high,short,female,Murphy
+Australian Shepherd,28139.1181,54.5111,14.1095,high,high,med,female,Brady
+Pug,7118.3015,27.424,14.419,high,high,short,female,Tanya
+Samoyed,21836.2297,,11.0328,med,high,long,female,Collins
+Samoyed,21672.7065,55.9816,10.8168,med,med,med,female,Hall
+Golden Retriever,29238.8585,55.6377,12.3239,high,high,med,male,Sanchez
+Pug,7306.5364,,11.9874,med,high,short,male,Goodman
+Australian Shepherd,21176.7204,49.7712,13.274,high,high,med,female,Anderson
+Australian Shepherd,26438.2526,,13.0214,high,high,med,male,Rush
+Australian Shepherd,28368.9089,53.8889,13.0199,high,high,med,female,Silva
+Golden Retriever,29669.9374,58.1944,12.8311,med,high,short,female,Morris
+Samoyed,14384.4024,54.7386,11.3934,med,high,med,female,Turner
+Samoyed,20111.2063,53.1725,11.6249,med,high,long,male,Kramer
+Pug,6332.5923,41.3088,13.4049,med,high,short,male,Briggs
+Samoyed,19226.8481,50.4561,10.946,med,high,med,female,Nichols
+Golden Retriever,24988.1473,59.9967,11.8416,med,high,med,male,Lloyd
+Pug,6970.9831,32.7253,12.6832,high,high,short,female,Garcia
+Samoyed,21595.9612,,9.294,med,high,med,female,Gross
+Australian Shepherd,19305.9747,53.3095,11.9928,high,high,med,female,Buck
+Australian Shepherd,26576.4471,,13.3751,high,high,med,female,Lynch
+Samoyed,21757.3872,52.3367,12.2722,med,high,med,male,Baker
+Samoyed,24211.9859,,11.0846,med,high,long,female,Anderson
+Australian Shepherd,28101.6215,54.666,13.9146,high,high,long,female,Lewis
+Golden Retriever,23660.9642,57.2945,12.9648,med,high,med,male,Kelley
+Samoyed,19119.5283,53.1512,11.5313,med,high,short,female,Wright
+Golden Retriever,31403.0808,,11.264,med,high,med,male,Solomon
+Golden Retriever,29468.3004,58.3383,10.5348,med,high,med,male,Martinez
+Samoyed,20891.6431,51.1547,10.8401,med,med,med,female,Garner
+Samoyed,25408.3746,51.3064,10.5833,med,high,short,male,Holt
+Australian Shepherd,22451.9203,,12.3754,high,high,med,female,Arnold
+Samoyed,11089.8549,,10.5495,med,high,long,female,Wright
+Pug,7460.6129,31.1465,11.9734,med,low,short,female,Bell
+Samoyed,28132.0649,,10.335,med,high,med,male,Lee
+Australian Shepherd,24541.604,,11.4565,high,high,med,female,Cunningham
+Golden Retriever,33600.2343,,10.6428,med,high,med,male,Jackson
+Australian Shepherd,22808.741,51.5332,13.8249,high,high,med,female,Barajas
+Australian Shepherd,28475.7707,53.7564,12.0377,high,high,med,female,Smith
+Australian Shepherd,19386.3918,53.981,13.3718,high,high,med,male,Sanchez
+Australian Shepherd,19213.6809,53.2489,13.7739,high,high,med,female,Nash
+Australian Shepherd,22281.9977,53.238,13.3195,high,high,med,male,Barrera
+Australian Shepherd,23255.7259,,13.8115,high,high,med,female,Brewer
+Pug,7966.7772,34.713,13.5858,med,high,short,female,King
+Pug,6801.8931,,12.0092,med,high,short,male,Hartman
+Pug,6713.2174,32.3067,13.7694,med,high,med,male,Lopez
+Golden Retriever,30103.3057,59.4199,10.6462,med,high,med,female,Morrow
+Pug,7064.7408,,14.5741,med,high,short,female,Choi
+Australian Shepherd,33122.4945,53.6407,13.0545,high,med,med,male,Stevenson
+Australian Shepherd,18105.4361,52.6284,14.1223,high,high,med,female,Spears
+Australian Shepherd,19788.7413,52.6269,12.5666,med,high,long,female,Campbell
+Golden Retriever,29664.7842,57.776,10.5294,med,high,med,female,Miller
+Samoyed,23766.5765,51.9776,10.4993,med,high,med,male,Morales
+Golden Retriever,27084.5502,57.3941,12.935,med,high,long,male,Peters
+Samoyed,22392.4921,52.2116,10.7987,high,high,med,female,Rodriguez
+Pug,6913.9042,,14.6499,med,high,short,male,Daniels
+Australian Shepherd,22299.7957,52.0279,13.0536,high,high,med,female,Odonnell
+Samoyed,26028.3121,51.6023,11.3214,med,high,long,female,Rodriguez
+Australian Shepherd,18737.8852,53.8361,13.796,high,high,med,male,Beasley
+Pug,7250.8532,35.1251,12.5886,med,high,short,female,Nelson
+Samoyed,23006.2515,50.0373,10.5665,med,med,short,female,Lawson
+Golden Retriever,28751.2599,56.2286,10.9349,med,high,med,female,Sullivan
+Golden Retriever,32184.5818,,11.835,med,high,short,male,Barry
+Australian Shepherd,27987.5696,53.9247,13.3278,high,high,med,male,Gordon
+Australian Shepherd,23694.3948,55.4667,14.359,high,high,long,female,Preston
+Australian Shepherd,22412.3968,53.1329,13.5317,high,high,short,male,Zuniga
+Samoyed,18224.9487,53.0966,11.7339,med,high,med,female,Bridges
+Australian Shepherd,20134.7511,53.5979,12.8488,high,high,short,female,Wells
+Pug,7115.109,33.6991,13.643,med,high,short,male,Fry
+Samoyed,22396.266,,10.8081,med,high,med,female,Edwards
+Australian Shepherd,18334.7544,51.6159,13.3557,high,high,med,female,Bell
+Samoyed,22301.9108,,11.273,med,high,med,male,Johnson
+Golden Retriever,29847.7523,55.801,11.9104,med,high,med,female,Berry

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Dalmatian,22390.9179,48.0,12.4664,high,high,short,male,Allen
+Rottweiler,57351.4114,61.2893,11.1189,med,high,short,female,Shaw
+Pug,7156.9525,32.2106,12.5911,med,high,short,male,Munoz
+Australian Shepherd,22877.8776,55.8712,13.391,high,high,med,male,Jones
+Dalmatian,24412.9266,,13.2525,high,high,short,male,Smith
+Pug,6815.6832,31.5682,13.9826,med,high,short,female,Henderson
+Rottweiler,57632.0975,64.0713,8.7857,low,high,short,female,Bell
+Pug,8696.9148,,13.5298,low,med,short,female,James
+Dalmatian,24780.6593,48.0,12.4947,high,high,med,male,Monroe
+Dalmatian,26705.4218,48.0,12.965,high,high,short,female,Barnes
+Rottweiler,50290.6288,63.5276,9.5629,med,high,short,male,Matthews
+Pug,5864.6036,29.0681,13.5412,med,med,short,male,Hayes
+Australian Shepherd,18655.4121,54.1354,14.1307,high,high,med,male,Smith
+Australian Shepherd,21899.1137,53.5236,13.3824,med,high,med,female,Burns
+Dalmatian,21151.7161,48.0,12.5377,high,high,med,male,Silva
+Rottweiler,48161.4103,,9.4024,med,high,med,female,Swanson
+Dalmatian,22780.9539,48.0,12.4857,high,high,short,female,Taylor
+Australian Shepherd,23967.306,54.0163,13.4471,high,high,med,female,Hall
+Australian Shepherd,21475.5673,54.955,12.8637,high,high,long,female,Jackson
+Dalmatian,24366.0625,48.0,13.1245,high,high,short,female,Booth
+Dalmatian,24034.1352,48.0,12.956,high,high,short,male,White
+Pug,6956.0351,42.5722,15.0047,med,med,med,female,Gonzales
+Australian Shepherd,29257.8824,53.9481,12.8562,med,high,med,female,Walker
+Rottweiler,52373.928,62.0924,9.0433,high,high,short,female,Cowan
+Pug,6808.7723,32.943,14.4392,med,high,short,male,Davis
+Pug,8198.6221,34.9435,14.1561,med,high,short,female,Salinas
+Pug,7770.2552,29.1609,12.4538,low,high,med,male,Henderson
+Pug,6814.7255,37.2831,14.183,med,med,short,male,Ross
+Pug,6205.024,32.1827,11.4361,med,high,short,male,Greer
+Rottweiler,49845.0137,66.1034,9.1765,med,high,short,male,Butler
+Dalmatian,22517.9134,,12.3319,high,high,short,male,Hull
+Rottweiler,32963.0928,64.0702,9.8054,high,high,short,male,Richardson
+Rottweiler,52821.1753,,8.7367,med,high,short,female,Sanchez
+Dalmatian,25508.5047,,13.3601,high,high,short,female,Howard
+Australian Shepherd,28738.9747,53.0568,12.5508,high,high,med,male,Glover
+Dalmatian,24590.5509,48.0,12.4489,high,high,short,female,Williams
+Australian Shepherd,21498.9605,53.3837,12.6542,high,high,med,male,Davis
+Pug,6589.9675,,12.9288,med,high,short,female,Cox
+Pug,6966.3945,29.7839,12.4664,med,high,short,male,Hurley
+Australian Shepherd,24787.8296,,13.6733,high,high,med,male,Vazquez
+Dalmatian,26932.9969,48.0,13.0633,med,high,short,male,Obrien
+Pug,7487.6253,,14.4183,med,high,short,female,Schroeder
+Dalmatian,20463.6216,,12.7019,high,med,short,male,Williams
+Pug,6704.7675,36.0376,13.604,med,med,short,male,Howell
+Australian Shepherd,28122.7649,54.5473,14.3255,high,high,med,female,Scott
+Rottweiler,42434.0337,61.7141,9.4253,med,med,short,female,Nichols
+Pug,6793.6837,33.0877,13.5835,med,high,short,male,Hobbs
+Dalmatian,22486.3523,48.0,14.4965,high,med,short,male,Weber
+Rottweiler,50666.9936,,9.5379,low,high,med,female,Madden
+Pug,5754.2784,36.851,13.7052,med,high,med,female,Murphy
+Australian Shepherd,21123.4331,53.5336,12.216,med,high,short,male,Day
+Australian Shepherd,17909.6572,50.661,13.5356,high,high,long,female,Smith
+Australian Shepherd,22815.145,54.7402,13.1116,high,high,med,female,Holmes
+Pug,6557.682,35.288,13.1699,med,high,short,female,Gonzalez
+Dalmatian,21854.2546,48.0,14.1312,high,high,short,female,Collins
+Pug,6504.4392,,12.2257,low,high,short,male,Steele
+Dalmatian,24555.2431,48.0,13.142,high,high,short,male,Blevins
+Dalmatian,22545.1778,,13.6629,high,high,short,male,Johnson
+Australian Shepherd,18827.2556,52.8349,13.3906,high,high,long,male,Hamilton
+Australian Shepherd,23694.4865,53.922,12.8241,high,high,med,male,Buck
+Dalmatian,24454.1874,,14.3168,high,high,short,female,Stafford
+Rottweiler,44608.2624,,10.9152,med,high,short,female,Cantrell
+Pug,6872.8883,,13.7325,low,high,short,male,Hayden
+Australian Shepherd,24420.6687,,12.9472,high,high,med,male,Waters
+Dalmatian,23731.8849,48.0,13.8044,high,high,short,female,Steele
+Pug,7182.478,29.9784,13.0292,med,high,short,male,Herrera
+Pug,6932.45,36.9559,12.1404,low,high,med,male,Sanchez
+Pug,6418.1404,,14.4826,high,high,short,male,Murray
+Australian Shepherd,22859.7412,52.1914,13.3035,med,high,med,male,Welch
+Dalmatian,22380.9328,48.0,12.3254,med,high,short,male,Peterson
+Rottweiler,27544.8022,64.5541,8.8866,med,high,short,male,Green
+Rottweiler,46203.6521,63.7989,8.3565,med,high,med,female,Phelps
+Pug,7646.7483,26.7007,14.4708,med,high,short,female,Wallace
+Pug,7043.8061,37.1787,12.6793,high,med,short,female,Walls
+Rottweiler,62527.4228,65.4437,11.5972,med,high,short,male,Morgan
+Rottweiler,53309.9219,,9.8251,med,med,short,male,Gilbert
+Rottweiler,39968.8537,65.1505,9.4035,med,high,short,female,Curry
+Rottweiler,38324.9664,66.4276,9.322,high,high,short,male,Williams
+Dalmatian,25005.3693,48.0,13.0969,high,high,med,male,Howe
+Pug,6987.2735,37.7341,12.0181,med,high,short,female,Davis
+Rottweiler,52644.4318,63.6181,10.3997,high,high,short,female,Steele
+Australian Shepherd,26125.0627,51.1718,13.3136,high,high,med,male,James
+Pug,6668.2937,,12.7075,med,med,short,male,Mcclain
+Dalmatian,24824.7687,,14.1802,high,med,short,female,Jones
+Australian Shepherd,22317.7546,52.2178,13.3442,med,high,med,male,Perry
+Dalmatian,22204.1982,48.0,12.3986,med,high,short,male,Cervantes
+Australian Shepherd,17611.5743,51.9317,12.6328,high,high,long,female,Rojas
+Australian Shepherd,24365.3559,53.1506,11.6678,high,med,short,female,Meyers
+Australian Shepherd,25594.4077,,13.2528,high,med,med,male,Campbell
+Dalmatian,19689.8196,48.0,12.7641,high,high,short,male,Harrison
+Pug,7054.3454,30.8445,15.1411,med,high,med,female,Wright
+Rottweiler,53051.5782,64.2886,9.8083,med,high,short,male,White
+Rottweiler,39533.7487,63.2887,9.6933,low,high,short,female,Lopez
+Dalmatian,22584.375,48.0,11.634,high,high,short,male,Chandler
+Rottweiler,54487.0725,65.3318,8.8155,med,high,short,female,Baxter
+Dalmatian,24263.0791,48.0,12.8917,high,high,med,female,Simmons
+Australian Shepherd,29692.1241,53.4742,13.1291,high,high,med,female,Eaton
+Rottweiler,36492.519,63.9387,10.4865,med,high,short,male,Nichols
+Australian Shepherd,18119.8265,,13.3013,high,med,med,male,Jackson
+Dalmatian,22979.9643,48.0,13.8351,high,high,short,female,Linda
+Pug,7794.6754,36.5609,13.9406,med,high,short,male,Barrera
+Pug,6592.0722,34.8456,12.5208,med,high,short,male,Jeffrey
+Dalmatian,21453.3076,48.0,12.9626,high,high,med,male,Mark
+Australian Shepherd,22559.361,53.5956,13.3104,high,high,med,male,Kelley
+Australian Shepherd,23096.5676,,12.7635,high,med,long,male,Jones
+Rottweiler,59540.3437,65.4879,7.9391,med,high,short,male,Schmidt
+Australian Shepherd,26233.0584,51.6285,12.7417,high,high,med,female,Esparza
+Pug,7469.8117,,13.6505,med,high,short,female,Payne
+Australian Shepherd,22677.9408,53.4212,11.8178,high,med,med,female,Jenkins
+Rottweiler,42427.2319,63.0199,9.5581,med,high,short,male,Hubbard
+Dalmatian,23974.2048,48.0,13.077,high,high,short,female,Cook
+Rottweiler,43296.822,65.6152,9.4452,low,high,short,female,Anna
+Dalmatian,25661.3759,48.0,13.0413,high,med,short,male,Gray
+Rottweiler,48840.5554,62.5258,9.875,med,med,short,male,Anderson
+Rottweiler,49429.2442,63.7875,9.0524,low,high,short,male,Dixon
+Pug,5832.634,32.2573,14.1388,med,high,short,male,Byrd
+Rottweiler,40204.3402,61.4833,9.7076,med,high,short,female,Le
+Pug,7285.5214,,11.9075,high,high,short,female,Willis
+Dalmatian,22608.594,48.0,13.712,high,high,med,female,Roth
+Dalmatian,24679.1405,48.0,13.2535,high,med,short,female,Obrien
+Pug,6729.4814,,12.2282,med,high,short,male,Graham
+Rottweiler,50185.78,63.3599,9.4017,med,high,short,female,Miranda
+Australian Shepherd,22379.1066,57.0743,13.0587,high,high,long,female,Frye
+Dalmatian,21872.5283,,13.0935,high,high,short,male,Kemp
+Australian Shepherd,20917.4209,52.1514,14.1179,med,high,med,male,Stevenson
+Pug,6338.1073,36.5732,13.3936,med,high,short,female,Russell
+Dalmatian,25741.3849,48.0,13.3641,high,high,short,female,Lee
+Dalmatian,23456.4753,48.0,13.4768,high,high,short,female,Chen
+Rottweiler,31785.2723,61.6127,8.7116,med,high,short,female,Morgan
+Dalmatian,22189.9532,48.0,13.4888,high,high,short,female,Gutierrez
+Rottweiler,47434.1065,64.259,7.9799,low,med,short,male,Middleton
+Australian Shepherd,23249.6963,53.9043,12.4923,high,high,med,female,Cook
+Pug,6713.1059,27.303,12.0253,med,high,short,male,Moore
+Pug,6951.5718,34.5626,13.249,med,high,short,male,Kristine
+Dalmatian,19227.1701,48.0,13.6697,high,high,short,female,Carroll
+Pug,6186.7792,31.7912,11.7126,med,high,short,female,Wright
+Australian Shepherd,22786.6312,52.0551,12.63,high,high,med,female,Barber
+Pug,7094.4866,37.22,13.0635,med,high,med,female,Castillo
+Rottweiler,45221.7765,64.8507,10.3877,med,high,short,female,Hunter
+Pug,7685.4194,35.0622,11.9335,med,high,short,male,Diaz
+Rottweiler,40400.0184,60.6011,10.7306,med,high,short,female,Bird
+Rottweiler,39520.7991,63.8422,8.7916,med,high,short,female,Ramirez
+Dalmatian,23703.0006,48.0,14.0181,high,med,short,male,Powell
+Dalmatian,24850.26,48.0,13.3425,high,high,short,male,Stewart
+Australian Shepherd,29823.9272,54.328,13.5335,high,high,med,female,Mejia
+Pug,7424.2805,29.9961,13.5549,med,high,short,male,Castro
+Dalmatian,25906.185,48.0,12.9764,high,high,short,male,Clark
+Pug,7577.8562,38.3558,12.2708,med,high,short,female,Clarke
+Pug,5883.7294,29.1625,13.7255,med,high,short,female,Garcia
+Rottweiler,48050.0888,64.135,9.507,med,high,short,male,Guzman
+Australian Shepherd,20159.7668,53.3835,12.9139,med,high,med,female,Lewis
+Rottweiler,43366.3757,,9.1148,med,high,short,male,Rivera
+Rottweiler,44984.4144,66.177,8.0565,med,high,short,male,Castillo
+Rottweiler,47093.7273,64.9621,8.9432,high,high,med,female,Ortega
+Dalmatian,23999.2804,,14.4432,high,med,short,female,Camacho
+Australian Shepherd,23688.2062,51.567,13.1805,high,high,med,male,Gomez
+Rottweiler,44087.7101,61.7389,8.2674,med,high,short,female,Young
+Rottweiler,53659.8455,63.6898,10.0604,med,high,short,female,Rodriguez
+Dalmatian,26230.4219,48.0,13.7382,high,high,med,male,Thompson
+Pug,7412.4398,,13.6939,med,high,short,male,Cooper
+Australian Shepherd,27030.7244,52.8321,12.4764,high,high,med,male,Evans
+Dalmatian,21692.5338,,12.6262,high,high,short,female,Hahn
+Dalmatian,21826.7683,48.0,13.0668,high,high,short,male,Espinoza
+Australian Shepherd,25284.4565,54.1352,13.6989,med,high,med,male,Evans
+Rottweiler,47838.2308,66.6342,8.7925,high,high,short,male,Wallace
+Australian Shepherd,27272.597,55.7988,12.2138,high,high,med,female,Cannon
+Pug,6129.5617,36.2291,13.4624,med,high,short,female,Wilson
+Dalmatian,22316.9165,48.0,12.1714,high,high,short,male,Elliott
+Australian Shepherd,24379.9853,52.5563,12.424,high,high,med,female,Mejia
+Rottweiler,49733.1451,63.2753,9.0668,med,high,short,female,Jones
+Dalmatian,21669.0643,48.0,12.1788,med,high,short,male,Stephens
+Dalmatian,22671.578,48.0,11.5378,high,high,short,male,Coleman
+Rottweiler,48419.0652,64.2333,10.3913,med,high,med,female,Gonzales
+Rottweiler,40140.6636,,9.5776,high,high,short,female,Young
+Rottweiler,46692.4206,61.1687,10.0668,med,high,short,female,Kelley
+Australian Shepherd,19747.4986,53.9393,13.0777,high,high,long,female,Smith
+Australian Shepherd,24163.3045,,13.8041,high,med,med,male,Mendoza
+Pug,7052.4721,32.4249,13.3254,high,high,short,female,Rosario
+Rottweiler,45427.2785,,10.43,med,high,med,male,Brown
+Rottweiler,46388.0566,62.7302,8.0686,med,med,short,male,Robertson
+Pug,7231.2899,30.2379,14.1696,med,high,med,male,Zamora
+Australian Shepherd,22224.2627,53.1262,12.6525,high,high,med,female,Miller
+Rottweiler,65296.1162,65.3761,8.9277,low,high,short,female,King
+Rottweiler,48479.996,63.2392,8.7516,med,high,short,male,Anderson
+Rottweiler,50184.3693,62.7663,9.983,high,high,short,male,Graham
+Dalmatian,23851.7596,48.0,13.203,high,high,short,male,Lucero
+Rottweiler,48715.7248,62.3999,10.5551,low,high,short,female,Valenzuela
+Rottweiler,44373.8653,65.9852,8.9545,med,high,short,female,Hopkins
+Australian Shepherd,27885.2201,52.1379,12.3474,high,high,med,male,Jessica
+Pug,7873.3541,37.4169,13.1669,med,high,short,male,Johnson
+Dalmatian,21425.5559,,13.5862,high,high,short,male,Nelson
+Pug,6531.0135,31.8325,12.3513,med,high,short,male,Bender
+Dalmatian,22500.7299,,13.3011,high,med,short,male,Montgomery
+Australian Shepherd,23499.1511,51.8342,12.4429,high,high,med,female,Frost
+Rottweiler,42314.1301,,11.4571,med,high,short,male,Richard
+Dalmatian,25910.1079,,13.3502,high,med,med,female,Lee
+Australian Shepherd,24648.3877,52.6448,13.3036,high,high,med,female,Baxter
+Dalmatian,21967.0317,,12.4274,high,high,short,male,Olson
+Rottweiler,56513.2409,65.7753,8.3948,med,high,short,male,Williams
+Pug,6248.4975,,13.928,med,high,short,male,Melton
+Pug,7329.5407,41.319,14.1003,med,high,short,male,Williams
+Pug,6003.2556,34.2493,13.7597,med,high,short,female,Hill
+Australian Shepherd,23142.4806,50.1611,13.0926,high,high,long,female,Cooper
+Dalmatian,25199.0315,,12.6712,high,high,short,female,Bass
+Dalmatian,22394.6274,48.0,12.6029,med,high,short,male,Chavez
+Pug,7081.8789,36.8211,13.1615,med,med,med,female,Murphy
+Pug,6513.6651,31.3873,12.5741,med,high,short,female,Allen
+Pug,6317.3186,31.0572,13.1006,med,high,short,male,Bell
+Dalmatian,23706.3774,48.0,14.1543,high,high,short,female,Chung
+Pug,7955.1758,29.1054,12.7934,med,high,short,female,Jacobson
+Australian Shepherd,24384.258,51.3509,13.8113,high,med,med,female,Perez
+Rottweiler,48496.248,66.2875,7.9945,low,high,short,male,Moore
+Dalmatian,18083.9862,48.0,12.4657,high,high,short,male,Smith
+Dalmatian,23040.6364,48.0,13.8993,high,high,short,female,Henry
+Dalmatian,19037.4911,,12.406,high,high,short,female,Jones
+Australian Shepherd,23151.8182,52.8211,14.1394,high,high,med,male,Nichols
+Pug,6054.7437,38.3049,14.4164,low,high,short,female,Cohen
+Pug,6675.0046,33.4473,13.2421,low,high,short,male,Tucker
+Pug,7148.3707,38.4606,13.5912,med,high,short,female,Alvarado
+Rottweiler,43968.8826,64.0265,9.5145,high,high,short,female,Shannon
+Australian Shepherd,22713.1279,52.7831,12.7611,high,high,med,female,Cook
+Pug,6269.9075,35.2534,13.1787,med,high,short,female,Smith
+Rottweiler,38121.2964,64.1871,9.2772,med,high,med,male,Mcmahon
+Australian Shepherd,24649.8888,51.9425,13.2466,high,med,med,female,Nichols
+Dalmatian,24563.3713,48.0,12.8596,high,high,short,male,Crane
+Australian Shepherd,24820.9664,54.9255,13.8195,high,high,med,male,Delgado
+Australian Shepherd,29134.4024,52.4798,13.8592,high,med,med,female,Robert
+Australian Shepherd,25217.7922,51.7359,13.1738,high,high,med,female,Richardson
+Pug,7655.4967,36.1587,13.7691,low,med,short,female,Hughes
+Pug,7226.2193,25.7466,13.2143,med,med,short,male,Johnson
+Australian Shepherd,25471.283,56.2216,13.3255,high,high,med,female,Garrett
+Pug,6909.1049,29.4245,13.0381,low,high,med,female,Miller
+Australian Shepherd,28119.9992,55.0407,13.7721,high,high,med,male,Gill
+Dalmatian,21728.5745,48.0,12.8274,high,high,short,male,Martin
+Rottweiler,45987.1033,64.266,10.5189,med,high,short,female,Walker
+Pug,6863.2998,,12.4398,med,med,short,male,Freeman
+Rottweiler,48860.56,63.2586,10.761,med,high,short,male,Ware
+Dalmatian,21693.9543,48.0,12.8971,med,high,med,female,Lynch
+Pug,6591.1533,38.2992,14.0764,med,high,short,female,Reed
+Pug,6525.8698,36.8854,14.6148,med,med,short,female,Miller
+Dalmatian,23419.2637,48.0,13.4146,high,high,short,male,Walters
+Rottweiler,55726.5498,61.9719,9.4444,med,high,short,male,Kirby
+Pug,5886.8585,,13.6523,med,high,short,female,Lucero
+Dalmatian,26754.5862,48.0,13.0204,high,high,med,male,Wallace
+Dalmatian,25982.6739,48.0,13.1706,high,high,short,male,Fuller
+Pug,7029.1153,34.4395,14.151,med,med,short,male,Sharp
+Pug,7978.5903,,13.415,med,high,short,female,Jones
+Australian Shepherd,22717.7893,51.4438,13.7329,high,high,med,female,Gibbs
+Australian Shepherd,25277.9268,,13.9588,high,high,long,female,Martin
+Pug,6674.4643,33.2506,11.932,low,high,short,female,Glenn
+Australian Shepherd,26740.7465,53.7375,12.9658,high,high,med,male,Rodriguez
+Dalmatian,23634.1887,48.0,13.2367,high,high,med,male,Robinson
+Dalmatian,26620.722,48.0,12.2442,high,high,short,female,Mills
+Pug,6626.8112,35.1555,13.6391,low,high,short,male,Nelson
+Australian Shepherd,19646.6573,53.521,12.878,high,high,med,female,Walsh
+Pug,7919.8301,26.2757,14.9003,med,high,short,male,Ball
+Rottweiler,51265.2041,62.4663,9.905,med,high,med,male,Lopez
+Rottweiler,41619.8721,62.609,9.4818,med,med,short,female,Lee
+Rottweiler,52889.9441,65.1806,10.4078,med,high,short,female,Turner
+Dalmatian,23953.2539,48.0,13.1583,high,high,short,male,Phillips
+Dalmatian,21013.65,,12.4117,high,high,med,male,Richardson
+Rottweiler,51323.7235,64.6789,11.3269,med,high,short,male,Morris
+Pug,6834.4615,32.7856,13.6793,med,high,short,female,Rodgers
+Dalmatian,20355.322,48.0,11.9442,high,high,short,male,Weaver
+Pug,7046.8784,29.6792,14.4632,med,high,short,male,Martin
+Dalmatian,20092.6863,48.0,13.7316,high,high,med,male,Schwartz
+Australian Shepherd,24142.791,55.3624,12.8682,high,high,short,male,Wright
+Rottweiler,53179.4482,63.826,8.5951,med,high,short,female,Kemp
+Pug,7611.277,35.1358,13.4066,med,high,short,female,King
+Pug,6915.8322,34.6705,14.114,med,high,short,female,Williams
+Pug,7362.7217,35.6143,12.952,med,med,short,male,Brown
+Dalmatian,23778.7158,48.0,12.9832,high,high,short,female,Jones
+Australian Shepherd,24868.9563,54.5394,13.0229,high,med,med,female,Phillips
+Dalmatian,24760.7853,48.0,12.8942,high,high,short,male,Powers
+Rottweiler,56912.8093,,8.7614,med,high,short,male,Owens
+Dalmatian,25055.5262,48.0,12.5397,high,high,short,male,Davis
+Rottweiler,50856.7383,63.5523,9.8532,low,high,short,male,Boone
+Pug,6617.5419,29.7178,13.8286,med,high,short,female,Carson
+Rottweiler,43221.7246,63.7448,8.9082,med,high,short,male,Austin
+Pug,6735.683,34.8704,13.2437,med,high,short,female,Fields
+Dalmatian,24177.3855,,13.7865,high,high,med,male,Norton
+Australian Shepherd,28399.3896,54.8883,13.6685,high,high,med,male,Ruiz
+Australian Shepherd,24539.8744,55.9337,13.4301,high,high,med,male,Good
+Rottweiler,44183.042,62.7595,8.3537,med,high,short,male,Carter
+Pug,7257.8631,33.3165,15.6062,low,high,short,male,Schultz
+Rottweiler,47875.4136,61.8634,9.9658,med,high,short,male,Ramirez
+Rottweiler,50822.6358,61.7763,9.7697,med,high,short,female,Johnson
+Dalmatian,22492.7165,,13.4234,high,high,short,female,Myers
+Pug,7763.5829,24.7539,13.5,med,high,short,female,Perez
+Rottweiler,36813.0582,64.1592,8.9123,med,high,short,female,Douglas
+Rottweiler,59668.2064,64.7622,9.0856,high,high,short,female,Lopez
+Dalmatian,24581.0992,,12.1087,high,high,short,female,Stuart
+Pug,7123.185,35.5801,13.258,med,high,short,male,Harris
+Rottweiler,49552.9827,,8.7011,med,high,short,female,Conner
+Australian Shepherd,22306.9496,,13.1409,high,high,med,male,Marshall
+Pug,7561.5724,29.421,13.9381,med,high,short,male,Lara
+Rottweiler,52176.6356,,8.772,low,high,short,female,Ballard
+Dalmatian,29339.0949,48.0,12.0212,high,high,short,male,Long
+Australian Shepherd,18838.5235,50.6024,13.0278,high,high,med,male,Sanders
+Pug,6450.585,31.897,12.4348,med,high,short,female,Barker
+Dalmatian,21819.3788,48.0,12.6294,high,high,short,female,Wade
+Dalmatian,26269.7172,48.0,12.6813,med,high,short,male,Horn
+Australian Shepherd,26020.4733,50.7925,14.6523,high,high,long,male,Robertson
+Rottweiler,50618.1707,64.5866,10.3278,high,high,short,male,Serrano
+Pug,6880.1824,37.1048,13.8716,med,med,med,male,Ortiz
+Rottweiler,44512.3911,63.5096,10.9874,med,high,short,female,Vang
+Pug,7455.3675,,13.2766,high,high,short,female,Ross
+Rottweiler,47981.6462,,10.2822,med,high,short,female,Lewis
+Pug,8570.9227,30.137,13.3867,med,high,med,female,Blevins
+Dalmatian,25281.6841,48.0,12.6499,med,high,short,male,Gibson
+Pug,6808.4292,27.8738,13.5118,med,med,short,female,Smith
+Australian Shepherd,21378.9234,51.1164,13.1888,high,med,med,female,James
+Dalmatian,25002.5737,48.0,12.5729,med,high,short,female,Rice
+Dalmatian,23490.2785,48.0,12.4085,high,high,short,male,Daniel
+Rottweiler,41530.4641,65.7943,8.4463,high,high,short,female,Vasquez
+Dalmatian,24080.468,48.0,13.2195,high,high,short,female,Webb
+Rottweiler,48146.669,65.5654,9.2472,med,high,short,male,Lee
+Pug,6953.0587,28.3465,12.6003,med,high,short,female,Anderson
+Rottweiler,50796.9328,65.988,9.7096,high,high,short,female,Garza
+Rottweiler,48976.4524,62.6558,9.6224,med,high,short,female,Parks
+Pug,7827.1174,30.1662,13.5573,med,high,short,female,Stewart
+Dalmatian,24076.4856,48.0,12.8288,med,high,short,male,Fields
+Rottweiler,45099.649,65.1166,11.1754,med,high,short,female,Hodge
+Pug,6140.613,,14.7648,high,high,short,female,Brown
+Dalmatian,19709.4714,,12.9714,high,high,short,male,Lee
+Pug,6306.9116,34.4278,11.975,med,high,short,male,Lawson
+Dalmatian,19881.5131,,13.0326,med,high,short,female,Morris
+Australian Shepherd,23175.3088,54.4076,12.4336,high,high,med,female,Mclean
+Australian Shepherd,23918.6729,,12.3044,high,high,med,female,Hamilton
+Dalmatian,24953.0406,48.0,13.6279,high,high,short,male,Myers
+Pug,7003.2878,34.1365,14.9339,med,high,short,male,Ochoa
+Australian Shepherd,20548.5056,54.4152,13.3271,high,high,short,male,Snyder
+Pug,6934.1684,,12.9151,high,high,short,male,Curtis
+Rottweiler,56511.1956,64.7456,10.0876,med,high,short,female,Mayo
+Dalmatian,21746.6321,,14.1161,high,high,short,female,White
+Dalmatian,22749.1177,,13.7767,high,high,short,female,Smith
+Rottweiler,53094.2476,62.4345,9.7304,med,high,short,male,Porter
+Dalmatian,20968.5725,,13.0926,high,high,short,male,Thompson
+Pug,7187.204,,13.2443,med,med,short,female,Salazar
+Pug,6981.997,,14.1877,low,high,short,male,Lewis
+Rottweiler,34173.5659,63.9936,10.2203,high,high,short,female,Weaver
+Rottweiler,38680.6338,63.146,10.8692,med,high,short,male,Curtis
+Australian Shepherd,31592.4014,55.5976,12.525,high,high,med,male,Russell
+Pug,7084.2257,33.0076,13.55,med,high,short,male,Taylor
+Australian Shepherd,25006.4055,54.1549,13.1681,high,med,med,female,Everett
+Australian Shepherd,18941.7102,,12.3768,high,med,long,male,Walker
+Pug,6594.5341,30.0654,12.3195,med,high,short,female,Lawrence
+Rottweiler,54801.2466,64.7692,8.2497,med,high,short,male,Hernandez
+Dalmatian,23894.9491,48.0,13.2027,high,high,short,male,Jones
+Dalmatian,23781.2846,48.0,12.7998,high,high,short,female,French
+Pug,7169.2086,,13.6284,low,high,med,female,Harrison
+Dalmatian,22429.6782,,13.206,high,med,short,male,Rodriguez
+Australian Shepherd,26621.9039,54.6447,13.9604,high,high,med,female,Warner
+Australian Shepherd,17091.0889,55.4799,13.5533,high,high,med,female,Thompson
+Dalmatian,23027.6634,,13.1065,high,high,short,male,Hernandez
+Rottweiler,40132.1566,64.0703,10.1236,med,high,short,male,Park
+Rottweiler,63037.3079,61.2119,7.687,high,high,short,female,Stewart
+Australian Shepherd,17720.5452,54.2408,13.8296,high,high,long,female,Dean
+Rottweiler,51942.3612,65.8111,11.2106,med,high,med,female,Rivera
+Rottweiler,40956.1396,63.3398,8.7764,med,high,med,male,Rodriguez
+Rottweiler,45215.7172,63.9765,8.1137,med,med,short,female,York
+Dalmatian,21389.3029,48.0,13.4693,high,high,med,female,Ashley
+Rottweiler,50220.891,,9.2892,med,med,med,female,Vazquez
+Rottweiler,54622.4735,63.789,10.1849,med,high,med,female,Long
+Australian Shepherd,18550.4051,55.2183,13.2224,high,high,med,female,Morris
+Dalmatian,26519.6668,48.0,12.239,high,high,short,male,Wilson
+Dalmatian,23985.1025,48.0,13.9719,med,high,short,female,Davidson
+Dalmatian,25729.1295,,13.1494,high,med,short,male,Stewart
+Pug,7304.0946,30.4338,13.305,med,high,short,male,Mitchell
+Rottweiler,38688.4041,,9.9549,high,high,med,male,Cook
+Rottweiler,55263.6421,61.8162,8.9101,med,high,short,female,Robinson
+Rottweiler,57123.9949,64.0089,9.472,med,high,short,female,Perry
+Dalmatian,21590.5147,48.0,13.2331,high,high,short,male,Carter
+Dalmatian,26206.2248,,12.3889,high,high,med,male,Mcintyre
+Pug,7342.0368,34.1129,13.6093,low,high,short,female,Webb
+Australian Shepherd,24523.3304,53.8104,13.2887,high,high,med,female,Walton
+Rottweiler,42770.0512,62.0124,9.5697,low,high,short,female,Gardner
+Pug,6301.7828,32.1554,15.6053,high,high,short,male,Butler
+Rottweiler,48743.8604,57.9543,10.0442,med,high,short,female,Edwards
+Rottweiler,52731.6368,,8.6899,med,high,short,male,Collins
+Rottweiler,45366.4036,64.6613,9.2321,med,high,short,female,Diaz
+Australian Shepherd,14079.8903,52.7652,11.9966,high,high,med,male,Jenkins
+Rottweiler,43151.2132,63.7162,9.0453,med,high,short,female,Davis
+Pug,6474.0993,39.4784,11.8246,med,high,short,female,Hatfield
+Pug,7068.4218,34.0562,14.0704,med,high,short,female,Smith
+Dalmatian,19367.5253,48.0,12.679,high,high,short,female,Schmitt
+Dalmatian,22812.0736,,12.7756,high,high,med,male,Miller
+Australian Shepherd,25063.6412,52.8538,13.0377,high,high,med,female,Smith
+Rottweiler,51218.9443,62.5695,9.3508,med,high,short,female,Beltran
+Pug,7866.8711,33.2457,15.8695,med,high,short,male,Wilson
+Dalmatian,25639.7503,,13.8177,high,high,short,male,Griffith
+Pug,6677.0818,36.235,12.7756,med,high,med,female,Carlson
+Australian Shepherd,23864.7042,,13.2519,high,high,short,male,Hayes
+Pug,7729.7032,,14.7629,med,high,short,male,Avila
+Pug,7150.1482,31.8618,14.5186,high,high,med,male,Kimberly
+Australian Shepherd,25170.4545,54.75,12.7098,high,high,med,female,Frost
+Rottweiler,46712.8028,64.7616,9.5265,med,high,short,male,Robinson
+Dalmatian,23746.9624,48.0,13.8191,high,high,short,female,Davis
+Pug,6888.8076,,13.8491,med,high,short,female,Flynn
+Australian Shepherd,24689.1633,52.2181,12.5295,high,med,med,female,Carr
+Dalmatian,22169.2173,48.0,12.9958,high,high,short,female,Murray
+Dalmatian,21071.5609,48.0,12.4133,high,high,short,female,Crawford
+Dalmatian,23685.8171,,13.2987,high,high,short,male,Ellis
+Rottweiler,38937.3355,62.2259,6.9976,med,high,short,female,Gutierrez
+Australian Shepherd,21672.0141,,13.1238,high,med,med,female,Johnson
+Australian Shepherd,23560.1124,52.3398,12.8015,high,high,med,male,Garcia
+Australian Shepherd,27128.6099,52.5716,12.9483,high,high,med,male,Ellis
+Pug,6675.6946,28.4683,15.0717,med,high,short,female,Walker
+Pug,7542.2307,33.4021,14.9712,med,high,short,female,Ruiz
+Pug,7381.7717,35.7681,11.0343,med,high,short,male,Rodriguez
+Australian Shepherd,19123.8078,52.6726,13.2865,high,high,med,female,Stone
+Pug,7207.7499,37.4957,13.7421,low,high,med,female,Rodgers
+Australian Shepherd,25034.9766,55.5593,12.6534,high,high,long,male,Martin
+Australian Shepherd,26393.7822,56.5054,13.621,high,high,med,female,Smith
+Dalmatian,26082.8239,,12.5697,high,high,short,female,Lutz
+Pug,7545.609,32.6191,13.6697,med,high,short,male,Lee
+Rottweiler,42572.5274,63.9774,8.6476,med,high,short,female,Chen
+Australian Shepherd,21745.4225,52.4982,14.4047,high,high,med,male,Ortiz
+Pug,7724.9773,31.7712,12.5986,med,high,short,female,Gilbert
+Australian Shepherd,19426.8339,51.6699,12.5194,high,high,med,female,Preston
+Pug,6352.5034,39.3466,14.778,high,high,short,male,Barnes
+Pug,7317.6013,30.6209,14.5842,low,high,short,female,Gilmore
+Rottweiler,42503.5563,,9.2362,low,high,short,female,Graham
+Australian Shepherd,24877.0407,51.4048,12.0124,high,high,med,female,Jessica
+Rottweiler,44157.5093,63.2093,11.2768,med,med,short,female,Matthew
+Dalmatian,24585.7955,48.0,14.1914,high,high,med,female,Ramirez
+Dalmatian,22889.6451,48.0,13.5678,med,med,short,female,Mcneil
+Dalmatian,21976.821,48.0,13.444,high,high,short,male,Hernandez
+Rottweiler,46680.8046,61.582,9.3742,med,high,short,female,Gray
+Australian Shepherd,27995.5024,53.6426,12.2263,high,high,short,female,Gonzalez
+Pug,7813.2911,36.2897,13.5831,med,high,short,female,Thompson
+Dalmatian,23344.6044,48.0,13.1878,high,high,short,male,Hernandez
+Australian Shepherd,21259.0924,52.278,12.7719,high,high,short,male,Turner
+Pug,7118.7077,32.8103,12.1332,med,high,short,female,Smith
+Pug,6855.7551,,13.6014,med,high,short,male,Brown
+Rottweiler,48328.7499,61.9197,9.9664,med,high,short,female,Costa
+Pug,7265.1985,33.6594,12.7101,med,high,short,male,Fuller
+Pug,6352.0096,36.9221,14.7299,med,high,short,male,Thompson
+Australian Shepherd,28167.8187,53.9132,13.7407,high,high,med,male,Page
+Rottweiler,47850.6355,62.5131,8.8442,med,high,short,female,Barton
+Australian Shepherd,21734.0949,55.4636,13.9455,high,high,med,male,Gomez
+Pug,7236.6073,35.2845,14.1208,med,high,short,female,Cheyenne
+Pug,6770.6081,26.6571,13.8406,med,high,short,female,Ruiz
+Australian Shepherd,17214.6876,55.0393,12.862,high,high,med,female,Brown
+Rottweiler,52479.2142,64.9084,9.9728,med,high,med,female,Hancock
+Pug,6751.3747,24.7394,14.1827,med,high,short,female,Mathis
+Rottweiler,53896.1653,62.4851,10.9526,med,high,short,female,Simmons
+Rottweiler,44589.5467,,9.4375,med,high,short,female,Hanna
+Rottweiler,43965.5532,63.0839,10.1211,med,high,short,male,Gillespie
+Australian Shepherd,24864.2052,53.0919,13.6674,high,high,med,male,Padilla
+Pug,6609.3334,32.6374,15.0453,med,high,med,female,Nichols
+Pug,6554.9656,,12.0923,med,med,short,female,Johnson
+Pug,6823.4711,38.3067,13.8782,med,high,short,female,Cox
+Pug,7688.1849,,13.8719,med,high,short,male,Torres
+Dalmatian,24268.294,,13.5243,med,high,med,female,Ramos
+Pug,7525.0245,36.416,12.8399,med,high,short,male,White
+Dalmatian,18753.4451,48.0,13.5072,high,high,med,male,Harris
+Rottweiler,43899.0435,64.3205,8.7555,high,high,short,female,Tyler
+Australian Shepherd,21036.2816,,13.3704,high,high,short,female,Carey
+Dalmatian,26129.2872,48.0,13.6949,high,high,short,female,Cook
+Australian Shepherd,27291.5934,53.9111,11.0754,high,high,med,female,Jackson
+Dalmatian,23561.1297,48.0,14.4724,high,high,short,male,Ramos
+Pug,6977.1006,,12.4195,low,high,short,male,Richardson
+Pug,7642.8911,31.3426,14.0249,med,high,short,male,Lyons
+Australian Shepherd,27355.8637,50.9065,13.4213,high,high,med,female,Holt
+Australian Shepherd,30487.439,,13.3637,high,high,med,male,Ortiz
+Rottweiler,52183.3875,64.6986,9.018,high,high,short,male,Cervantes
+Pug,7658.3692,27.5315,15.3946,med,high,short,male,Harrison
+Australian Shepherd,24445.208,54.1174,13.4709,high,high,med,male,Hoover
+Dalmatian,23480.7419,48.0,12.9611,med,high,short,male,Miller
+Australian Shepherd,16804.1121,52.6391,13.3035,high,high,med,male,Rice
+Australian Shepherd,24896.7029,,12.4678,high,high,short,male,Sanders
+Dalmatian,21091.863,,12.2912,high,high,short,male,Jenkins
+Rottweiler,30389.7117,,8.1939,med,high,short,female,Moran
+Rottweiler,47784.9154,62.3745,10.7819,high,high,short,female,Luna
+Dalmatian,27576.7369,48.0,11.7917,high,high,short,female,Reese
+Pug,6605.3794,27.3782,13.4061,med,high,short,male,Holt
+Dalmatian,25099.6308,,12.2578,high,med,short,female,Jones
+Australian Shepherd,18020.0457,54.5014,13.3697,high,high,long,female,Moyer
+Rottweiler,32789.6262,63.3575,7.8626,med,high,short,male,Fitzgerald
+Dalmatian,25345.7428,48.0,13.1957,high,high,short,male,Taylor
+Pug,6654.7965,38.4871,15.4535,med,high,short,male,Chavez
+Australian Shepherd,19845.7797,,14.113,high,high,long,male,Hardy
+Pug,7490.3125,30.4001,14.6429,med,high,short,female,Mccall
+Pug,6308.5204,33.7438,13.1063,med,high,short,male,Jones
+Pug,6939.8413,,12.9565,med,high,short,male,Guerrero
+Pug,6318.3848,31.2716,14.1761,med,high,short,male,Gonzales
+Rottweiler,33298.4675,63.7202,11.1413,med,high,short,female,Stephens
+Pug,7492.6378,,13.9837,low,high,short,male,Brown
+Rottweiler,54816.4547,61.7726,7.6923,med,high,short,female,Doyle
+Pug,7786.642,35.4829,13.4064,high,high,short,male,King
+Pug,6636.9115,33.1886,14.4539,med,high,short,female,Brown
+Australian Shepherd,25155.3101,52.7073,13.1074,high,med,med,female,Morris
+Rottweiler,48915.2686,64.27,8.7409,low,high,short,female,Johnson
+Pug,8074.1702,35.7337,14.1005,med,high,short,female,Le
+Pug,6979.7629,,13.4467,med,high,short,female,Jones
+Rottweiler,35433.4978,62.7063,8.9666,high,high,short,female,Gilbert
+Australian Shepherd,21436.4327,54.7057,13.0108,high,high,long,male,Hogan
+Pug,6348.2838,37.7248,12.2573,med,high,short,female,Mcdaniel
+Pug,6770.843,24.4439,13.0034,med,high,short,female,Scott
+Rottweiler,51170.2836,63.8064,11.9995,med,high,med,male,Sellers
+Dalmatian,26157.0999,48.0,13.1434,med,high,short,male,Johnson
+Dalmatian,22342.6056,48.0,13.6533,high,high,short,female,Hall
+Dalmatian,25628.6758,,12.994,high,high,short,male,Johnson
+Pug,6300.9502,33.665,13.9032,med,high,short,female,Barr
+Pug,6782.9946,33.229,14.3983,med,high,short,female,Walker
+Pug,6876.7409,33.2371,13.1389,med,high,short,male,Smith
+Pug,6245.3016,38.8762,13.978,low,high,short,female,Williams
+Pug,7325.2843,31.8704,12.8396,med,high,short,female,Barry
+Rottweiler,39041.8592,63.2144,8.8867,med,high,short,male,Fitzgerald
+Pug,6706.7499,35.985,14.4282,high,high,short,male,Adkins
+Dalmatian,25047.4035,,13.2981,med,high,short,male,Greer
+Dalmatian,24936.5709,48.0,12.5391,high,high,short,female,Vaughn
+Rottweiler,62006.6928,61.0155,8.6668,low,high,short,female,Jackson
+Rottweiler,47831.2688,64.9814,9.3851,low,high,short,male,Jones
+Pug,6923.8203,30.2294,14.1412,med,high,short,female,Hall
+Rottweiler,42006.5956,62.373,7.8895,med,high,short,male,Mann
+Pug,6567.9614,36.76,14.1772,med,high,short,male,Simpson
+Australian Shepherd,24990.6417,54.0746,13.7928,high,high,med,male,Estrada
+Pug,7329.7607,37.2593,12.2805,med,high,short,male,Henry
+Dalmatian,22419.6228,48.0,13.3497,high,high,short,male,Wright
+Rottweiler,48624.6587,63.5479,8.7602,high,high,short,male,Meyer
+Pug,5729.5105,37.1767,13.0431,high,high,short,male,Russell
+Australian Shepherd,17232.9842,,13.1847,high,high,med,female,Guerrero
+Dalmatian,22158.5021,48.0,12.5536,high,high,short,male,Odonnell
+Pug,6568.3088,35.2049,14.1606,med,high,short,female,Davis
+Rottweiler,45538.8898,62.3701,9.9659,med,high,short,male,Harris
+Dalmatian,23381.8169,,12.6736,med,high,short,female,Mathis
+Dalmatian,23184.537,48.0,12.679,high,high,short,male,Reynolds
+Australian Shepherd,22835.946,,12.1644,high,high,med,female,Cobb
+Rottweiler,50950.431,63.6969,8.1361,med,high,short,male,Rivera
+Dalmatian,22447.6444,48.0,13.0895,high,high,short,male,Collins
+Rottweiler,48826.5931,62.7497,9.4257,med,high,short,female,Wilson
+Pug,6182.2331,,12.6567,med,high,short,male,Mendoza
+Australian Shepherd,23723.3957,50.9898,14.0604,high,high,med,male,Thomas
+Rottweiler,45822.442,63.3846,10.0257,med,high,short,female,Adams
+Australian Shepherd,24307.8594,53.234,12.3255,high,high,med,male,Brandon
+Australian Shepherd,21795.197,52.3485,12.9714,high,med,med,male,Nelson
+Dalmatian,22084.7031,48.0,13.8852,high,high,short,male,Simmons
+Australian Shepherd,24348.3913,,12.5263,high,high,med,female,Martinez
+Dalmatian,22125.0944,48.0,12.6941,med,high,short,female,Garcia
+Dalmatian,22514.4406,,13.0978,med,high,med,male,Burns
+Pug,6307.3578,36.7827,13.6154,med,high,med,female,Clark
+Dalmatian,22798.2367,,12.686,high,high,short,male,Brown
+Dalmatian,22660.7058,48.0,12.3467,med,high,short,male,Jefferson
+Dalmatian,24089.2108,48.0,13.4349,high,med,med,female,Ross
+Dalmatian,22883.1158,48.0,13.4507,high,med,short,female,Hurst
+Australian Shepherd,19096.5487,52.6879,13.0317,high,high,med,male,Green
+Australian Shepherd,26233.2461,53.1625,13.196,high,high,long,male,Lynn
+Pug,6246.9131,32.4924,14.0674,med,high,med,male,Cruz
+Dalmatian,23076.6225,48.0,13.6768,high,high,short,male,Paul
+Pug,6972.3838,32.3241,11.9368,med,high,short,male,Orozco
+Dalmatian,21833.441,48.0,13.576,high,high,short,female,Tucker
+Pug,6554.4714,34.4117,13.5834,med,high,short,female,Taylor
+Dalmatian,20518.3217,48.0,13.9074,high,high,short,female,Lang
+Pug,6474.1543,31.1539,14.6206,med,high,short,female,Contreras
+Dalmatian,21041.6165,48.0,13.8463,high,high,short,male,Nichols
+Pug,7042.8292,37.9035,12.7632,med,high,short,male,Hinton
+Australian Shepherd,23818.5079,,13.6408,high,high,med,female,Adams
+Pug,7402.4836,30.7215,13.9765,med,high,short,male,Miller
+Dalmatian,23177.9436,48.0,13.5273,high,high,short,female,Mckinney
+Pug,5719.4522,27.44,12.3513,med,high,short,male,Cortez
+Australian Shepherd,28334.6529,,13.3597,high,high,med,male,Rivera
+Australian Shepherd,21313.6441,53.715,13.3439,high,high,med,male,Torres
+Australian Shepherd,23330.3204,55.1024,12.6765,high,high,short,female,Richardson
+Dalmatian,22174.4611,48.0,13.4429,high,high,short,male,Mccall
+Australian Shepherd,24918.0943,53.6997,12.5614,high,high,med,female,Lee
+Rottweiler,55608.201,62.5253,9.0405,low,high,short,female,Larsen
+Pug,8080.7857,31.9084,12.5292,med,high,short,male,Douglas
+Pug,7316.1366,,13.8485,med,high,short,female,Cherry
+Australian Shepherd,26427.4411,50.8932,11.7108,high,high,short,male,Benson
+Australian Shepherd,25228.6544,52.2529,12.225,high,high,long,male,Reynolds
+Pug,7269.8395,28.5347,12.8205,med,high,short,female,Jefferson
+Rottweiler,54747.2609,63.9879,8.7748,med,high,short,male,Clayton
+Rottweiler,50739.1261,,8.4499,med,high,med,male,Hall
+Pug,7038.4735,,13.2919,med,high,short,female,Rivera
+Australian Shepherd,14760.1875,52.9847,12.9954,high,high,med,male,Wood
+Dalmatian,19085.2546,48.0,12.2656,high,high,short,male,Hawkins
+Australian Shepherd,25536.7431,,13.6621,med,high,med,male,Warren
+Dalmatian,20444.4305,48.0,13.3032,high,med,short,female,Garrison
+Rottweiler,37459.7503,65.4242,8.9611,high,high,short,male,Stephen
+Pug,8043.8063,28.9646,14.2429,med,high,short,female,Knight
+Dalmatian,23707.7882,48.0,13.7133,high,high,short,female,Mata
+Pug,6858.8691,34.9471,14.6083,med,high,short,male,Barker
+Rottweiler,55789.196,65.2187,9.9069,high,high,short,female,Tanner
+Pug,6410.2297,,13.0499,med,high,med,female,Delgado
+Dalmatian,20551.2803,48.0,14.3487,high,high,short,female,Rodriguez
+Dalmatian,22039.6004,48.0,11.764,high,high,short,female,Johnson
+Australian Shepherd,18095.279,,13.2074,high,high,med,female,Jackson
+Australian Shepherd,21400.8829,55.4789,13.6173,high,high,med,male,Jenkins
+Australian Shepherd,23515.2425,52.2052,12.234,high,high,med,male,Wang
+Dalmatian,25254.3707,48.0,13.556,high,high,short,female,Stephens
+Rottweiler,50858.5261,60.7938,10.813,med,high,short,female,Miller
+Dalmatian,23024.9775,,13.3182,high,high,med,male,Stein
+Dalmatian,24326.3722,48.0,13.17,high,high,med,male,Long
+Australian Shepherd,23337.9479,54.1217,13.6497,high,high,med,female,Allen
+Pug,7921.1558,30.4403,12.2813,med,high,short,male,Black
+Dalmatian,20665.2478,,13.3822,high,high,med,male,Jones
+Pug,6740.5881,36.8939,13.4754,med,high,short,male,Jensen
+Pug,6631.9981,34.4431,14.588,med,high,short,female,Marsh
+Pug,7426.518,34.082,12.0849,med,high,short,male,Gardner
+Rottweiler,49230.7974,61.0857,8.6064,high,high,short,female,White
+Dalmatian,27032.9906,48.0,12.2377,med,high,med,male,Hale
+Rottweiler,60438.9413,,7.3164,med,high,short,female,Keith
+Rottweiler,47560.9108,63.6578,8.1073,med,high,short,male,Guerra
+Rottweiler,45101.2767,64.9717,10.3916,med,med,short,male,Smith
+Pug,6143.2264,29.6834,12.8681,med,high,short,male,Murillo
+Pug,7238.9458,35.5807,13.0691,med,med,short,female,Patrick
+Australian Shepherd,24558.6128,,13.2906,high,high,med,female,Ellis
+Rottweiler,52330.4425,,11.2013,med,high,short,female,Jones
+Pug,6496.9186,37.2291,13.3102,med,high,short,female,Flores
+Australian Shepherd,20916.4532,52.7637,12.8022,high,high,med,female,Sparks
+Pug,7098.9683,34.1797,13.2364,med,high,short,female,Solis
+Rottweiler,56462.0183,63.9339,9.8463,med,high,short,female,Payne
+Pug,6032.1998,35.3797,13.2976,med,high,short,male,Williams
+Dalmatian,23681.1878,48.0,13.3706,high,high,med,female,Hall
+Rottweiler,59459.188,61.9931,10.2297,med,high,short,male,Anderson
+Dalmatian,24280.2703,48.0,13.0728,high,high,short,male,Lowe
+Australian Shepherd,23743.8717,53.5524,12.3918,high,high,med,male,Cantrell
+Pug,7700.9333,29.1215,14.4986,med,high,short,female,Brown
+Rottweiler,38517.795,64.5224,10.0476,med,high,short,male,Scott
+Pug,7197.7952,33.1082,12.6612,med,high,short,male,Garcia
+Dalmatian,26905.3684,48.0,13.0991,med,med,short,female,Scott
+Rottweiler,48863.4843,64.241,9.8087,med,high,short,female,Coleman
+Dalmatian,23365.2792,48.0,13.4676,high,high,short,male,Vasquez
+Australian Shepherd,31366.5171,52.6714,13.8372,high,high,med,male,Russo
+Pug,6732.3879,36.8179,12.9904,med,high,short,female,Garrett
+Rottweiler,48620.7641,61.16,8.1971,low,high,short,male,Young
+Pug,7334.9473,35.9817,12.2546,med,high,med,male,Perez
+Pug,7289.3755,,13.195,med,high,med,male,Allen
+Rottweiler,50018.3941,65.3719,10.5153,high,high,short,male,Webster
+Rottweiler,49482.3753,62.8308,9.4259,low,high,short,female,Cortez
+Rottweiler,39615.9113,62.9671,9.2113,med,high,short,female,Palmer
+Dalmatian,21198.5024,48.0,12.6065,high,high,short,female,Hansen
+Dalmatian,22387.9174,48.0,12.682,med,high,short,male,Carpenter
+Australian Shepherd,25583.3795,53.48,12.934,high,high,short,female,Larsen
+Pug,7977.6236,,15.4067,med,high,short,male,Lawrence
+Pug,7169.1049,30.4346,13.2774,med,med,short,female,Cervantes
+Australian Shepherd,19135.9285,51.5252,12.9978,high,high,med,female,Johnson
+Rottweiler,40921.9315,62.6213,9.7125,med,high,short,male,Watts
+Rottweiler,53587.5897,64.8023,9.077,med,high,short,female,Martinez
+Rottweiler,67226.5748,61.5853,9.844,high,high,short,female,Conway
+Pug,6886.0254,36.3674,14.6636,med,high,short,female,Evans
+Australian Shepherd,19929.9323,,12.3865,high,high,long,female,Clayton
+Dalmatian,26123.9186,48.0,13.3354,high,high,short,female,Bishop
+Dalmatian,20969.1183,48.0,13.6668,high,high,short,female,Cunningham
+Australian Shepherd,23096.4311,49.3266,13.0461,high,high,med,male,Mays
+Rottweiler,54911.8264,65.3088,8.5282,med,high,short,male,Green
+Dalmatian,23317.4593,48.0,13.2429,high,high,short,female,Jones
+Rottweiler,54024.4432,60.7415,9.9583,med,high,short,male,Walters
+Rottweiler,49067.6477,65.2867,9.048,med,high,short,female,Delgado
+Australian Shepherd,18943.3264,53.6893,14.7958,high,high,med,male,Young
+Dalmatian,27033.5229,48.0,13.1012,high,high,short,male,Barnes
+Rottweiler,34726.3855,64.2948,10.6071,med,high,short,female,Hess
+Rottweiler,30326.4818,,9.8702,med,med,short,male,Sanders
+Dalmatian,24139.9969,48.0,12.2893,med,high,short,male,Russell
+Pug,7637.1138,26.5861,13.7214,high,high,short,female,Hogan
+Pug,6471.0483,36.6965,13.7926,med,high,short,male,Francis
+Rottweiler,51623.9572,61.1884,9.7677,med,high,short,female,Pace
+Rottweiler,53459.0165,,10.0248,med,med,short,female,Robbins
+Australian Shepherd,22452.6022,54.3145,13.5602,high,med,med,male,Jones
+Pug,6392.5367,35.3503,11.4615,med,high,short,female,White
+Australian Shepherd,26260.439,,13.0268,high,high,short,male,Fisher
+Dalmatian,21942.1155,48.0,13.7674,high,high,short,female,Flowers
+Pug,7517.13,32.3641,11.8189,med,high,short,female,Castro
+Australian Shepherd,24185.3049,55.3875,13.3591,high,high,med,male,Frazier
+Dalmatian,22733.0308,48.0,11.8458,high,high,short,female,Hughes
+Dalmatian,18616.9364,48.0,11.9813,high,high,short,male,Fitzgerald
+Rottweiler,57276.7972,63.9396,8.5183,med,high,short,male,Vaughan
+Pug,7567.5642,32.218,14.3715,med,high,med,male,Pena
+Rottweiler,42540.209,62.7885,7.9784,med,med,short,male,Hill
+Pug,6814.2185,,13.5063,med,high,med,female,Stafford
+Rottweiler,46642.4136,,9.8373,med,high,med,female,Hudson
+Dalmatian,22051.2984,48.0,13.0276,high,high,short,female,Day
+Australian Shepherd,21946.2522,54.2838,12.4168,high,high,short,female,Martinez
+Pug,6678.6354,34.2065,13.2417,med,high,short,male,Walker
+Rottweiler,60607.8334,62.8401,9.5614,low,med,short,female,Davenport
+Rottweiler,37198.9288,64.5763,10.2518,med,high,short,male,Lewis
+Rottweiler,54922.1471,64.8365,9.2899,med,med,short,female,Mcdaniel
+Rottweiler,53561.3129,,10.1946,med,high,short,female,Ruiz
+Pug,5923.6865,32.0786,14.4492,low,high,short,female,Mullins
+Dalmatian,20201.1869,48.0,13.0155,high,high,short,female,Reed
+Dalmatian,23138.8418,48.0,13.6333,high,high,short,female,Lee
+Australian Shepherd,23982.7993,50.9606,13.1226,high,high,med,male,Turner
+Australian Shepherd,22665.5993,54.2108,12.349,high,high,med,female,Johnson
+Rottweiler,49670.3963,61.3594,9.1559,low,high,short,female,Green
+Pug,6525.2899,32.1141,11.6915,med,high,short,female,Arellano
+Rottweiler,55272.1304,63.2549,11.2025,med,med,short,male,Victoria
+Dalmatian,22373.3359,48.0,13.1036,high,high,short,male,Hernandez
+Dalmatian,22341.1474,48.0,13.5373,high,med,short,male,Carlson
+Dalmatian,24942.8434,48.0,13.1175,high,high,med,female,Nelson
+Australian Shepherd,21858.2454,52.8162,14.2565,high,high,short,female,Martinez
+Rottweiler,47656.1294,,8.6203,low,high,short,male,Green
+Dalmatian,23285.6391,,12.4438,high,high,short,male,Garcia
+Rottweiler,40265.9323,63.2806,10.3731,med,med,short,male,Campbell
+Rottweiler,45881.1337,62.6583,10.4012,med,high,short,male,Nixon
+Rottweiler,55027.179,63.1826,9.6794,med,high,short,male,Mclaughlin
+Australian Shepherd,27856.2923,52.5426,13.3011,med,high,med,female,Ingram
+Australian Shepherd,25626.9207,53.1124,13.9653,high,high,med,female,Martinez
+Rottweiler,54225.3727,64.427,8.6434,med,med,short,male,Conway
+Pug,7052.8911,37.0854,13.7663,med,high,short,female,Green
+Australian Shepherd,27642.6684,,12.5444,high,high,med,male,Nelson
+Dalmatian,26247.5677,48.0,12.9459,high,high,short,male,Boyd
+Pug,7054.1068,33.4659,14.0138,med,high,med,female,Moore
+Australian Shepherd,23154.9471,54.8557,13.0831,high,high,med,male,Lopez
+Dalmatian,20805.5197,,12.5195,high,high,med,male,Herrera
+Rottweiler,41811.4651,62.4199,8.0601,low,high,short,male,Hill
+Rottweiler,53700.4903,65.365,10.2688,med,high,short,male,Hayes
+Pug,6584.4748,34.2459,13.0344,med,high,short,female,Murray
+Australian Shepherd,22752.4466,52.5909,13.3937,high,high,med,female,Walker
+Dalmatian,20742.423,48.0,13.002,high,high,short,male,Peterson
+Australian Shepherd,18049.506,53.8665,13.5225,high,high,long,male,Mendoza
+Dalmatian,23471.7536,,13.1,high,high,short,male,Flores
+Rottweiler,38796.54,65.9382,10.1842,med,high,short,male,Brown
+Dalmatian,21822.602,,12.9259,high,high,med,female,Johnson
+Rottweiler,54085.8563,63.5642,8.6156,med,high,short,female,King
+Rottweiler,45847.922,62.737,11.1545,low,high,short,male,Jefferson
+Dalmatian,22089.3583,48.0,13.1913,med,high,short,female,Shannon
+Pug,7040.7964,35.4637,13.7354,med,high,short,male,Myers
+Pug,7053.9366,38.6755,11.8769,med,high,short,male,Adams
+Pug,6818.2707,33.403,13.2243,med,high,short,female,Williams
+Rottweiler,59925.5029,62.5171,11.0126,med,high,med,female,Ramsey
+Australian Shepherd,19494.9055,51.6111,13.6971,high,high,med,male,Floyd
+Dalmatian,22984.3589,48.0,13.5482,high,high,short,female,Mcfarland
+Australian Shepherd,25606.7303,,13.9758,high,high,med,male,Myers
+Pug,7331.341,,12.7857,med,high,short,female,Jackson
+Dalmatian,21284.1381,48.0,12.3726,high,high,short,male,Lane
+Australian Shepherd,23820.0389,52.1424,12.6091,high,high,med,female,Jacobs
+Rottweiler,54611.1142,63.279,8.2074,med,high,short,male,Kelley
+Pug,8273.6794,,14.0753,med,med,short,male,Schmidt
+Australian Shepherd,24468.321,54.238,13.5096,high,high,med,male,Smith
+Australian Shepherd,24081.1328,54.4371,12.0463,high,high,med,female,Gordon
+Rottweiler,53054.1939,63.4404,8.3652,med,high,short,female,Wong
+Australian Shepherd,23164.796,,13.123,high,high,long,female,Harrington
+Dalmatian,20417.7718,48.0,13.1484,high,high,short,female,Freeman
+Australian Shepherd,25849.0495,53.873,12.0871,high,high,med,female,Craig
+Pug,8040.3416,30.3001,14.4953,med,high,short,male,Luna
+Dalmatian,23224.7353,48.0,12.3727,high,high,short,male,Hurley
+Australian Shepherd,23455.0912,54.6939,12.7143,high,high,med,male,Mitchell
+Rottweiler,62464.0678,63.9127,10.8356,med,high,short,female,Williams
+Pug,6416.7592,36.7439,12.2534,med,high,short,male,Yu
+Pug,6734.1286,,13.9302,med,high,short,male,Aguilar
+Australian Shepherd,24757.0938,55.0362,12.5945,high,high,med,female,Davenport
+Australian Shepherd,19297.9375,51.5151,13.8381,high,high,med,male,Kim
+Rottweiler,47574.2779,62.1907,9.3901,med,med,short,male,Miller
+Rottweiler,56223.9205,64.5913,8.9449,med,high,short,female,Osborne
+Rottweiler,58352.4444,,10.1549,med,high,short,male,Jones
+Australian Shepherd,21698.145,52.9821,13.1371,high,high,med,female,Ellis
+Dalmatian,25004.3681,48.0,12.9548,high,high,short,female,Manning
+Rottweiler,44390.8334,64.5953,9.7706,high,high,short,male,Bauer
+Dalmatian,24494.9073,48.0,12.4058,high,high,short,female,Christine
+Pug,6968.4664,32.9376,14.08,med,high,med,female,Harris
+Rottweiler,59024.6194,,9.0595,med,high,short,male,James
+Pug,6727.5594,30.1315,14.1889,med,high,short,male,Le
+Rottweiler,57483.0361,62.9783,9.8478,high,high,short,male,Patrick
+Australian Shepherd,29145.4685,54.1187,13.2693,high,high,med,male,Dunlap
+Australian Shepherd,21409.7883,54.3294,13.3537,high,high,med,female,Wilson
+Rottweiler,46973.2617,64.785,8.4966,med,high,short,male,Wilson
+Australian Shepherd,26191.2478,,12.8596,high,high,med,female,Phillips
+Dalmatian,22195.0167,48.0,13.2983,high,high,short,female,Haynes
+Australian Shepherd,27625.24,56.1744,13.9027,high,high,med,female,Lewis
+Pug,6848.3316,29.9465,12.3128,low,high,short,female,Beasley
+Australian Shepherd,21234.7167,55.3437,12.9743,high,high,long,male,Martin
+Australian Shepherd,23970.2042,51.4427,12.5746,high,high,short,male,Lopez
+Dalmatian,23421.2689,,12.6852,high,high,short,male,Williams
+Rottweiler,53766.7463,62.7608,9.3866,med,high,med,female,Hudson
+Rottweiler,35096.3584,65.0179,10.3752,med,high,med,female,Frazier
+Rottweiler,43973.4328,63.6214,9.0016,low,med,short,female,Miller
+Dalmatian,21754.5022,48.0,13.0673,high,high,short,female,Davenport
+Rottweiler,53556.0252,64.2072,9.6654,med,high,short,female,Garrett
+Dalmatian,25800.7024,48.0,13.0376,high,high,med,male,King
+Australian Shepherd,24428.8191,,13.0667,med,high,short,female,Webb
+Rottweiler,32842.6399,63.6878,9.0715,med,high,short,male,Kim
+Dalmatian,23804.3904,48.0,12.4091,high,high,short,male,Powers
+Australian Shepherd,23139.1262,52.0757,13.9573,med,high,med,male,Smith
+Rottweiler,36234.2539,64.1915,8.3486,high,high,short,male,Walker
+Dalmatian,23816.2473,,13.4369,high,high,short,female,Wells
+Australian Shepherd,23011.579,53.3252,12.7708,high,high,med,male,Thomas
+Rottweiler,41274.5319,,10.2132,high,high,short,male,Brock
+Dalmatian,24211.4518,48.0,11.8283,high,high,med,female,Wong
+Dalmatian,25777.2159,48.0,13.2433,high,high,short,female,Shelton
+Rottweiler,38452.1459,,9.8561,high,high,short,female,Parker
+Pug,5791.0083,32.3835,13.2774,med,high,short,male,Haney
+Pug,7288.1516,33.616,15.607,med,high,short,female,Santiago
+Rottweiler,43788.0966,61.7357,9.0901,med,high,med,male,Hill
+Rottweiler,40480.1602,,9.2639,med,high,short,female,Wallace
+Rottweiler,54993.0377,,9.9693,med,high,med,male,Davis
+Australian Shepherd,29156.3414,,12.9406,high,high,med,female,Coffey
+Dalmatian,25609.1355,48.0,12.8319,high,med,short,male,Cohen
+Pug,7705.3137,,15.3866,med,high,short,male,Estrada
+Rottweiler,44860.9786,62.9814,9.5254,med,high,short,male,Newman
+Dalmatian,23197.5659,48.0,12.3271,high,high,short,male,Woods
+Dalmatian,21583.1055,48.0,13.4104,high,high,short,female,Coffey
+Pug,7065.7975,27.4051,15.2604,low,high,short,female,Carter
+Australian Shepherd,22837.7867,,13.284,high,high,med,male,Williamson
+Pug,6154.8621,34.0082,12.8976,med,high,short,male,Carr
+Australian Shepherd,24530.7304,54.7606,12.7643,high,high,med,male,George
+Australian Shepherd,24292.557,54.079,13.1415,high,high,med,female,Morales
+Dalmatian,23668.768,48.0,12.5513,high,high,short,female,Stevenson
+Australian Shepherd,22612.5481,53.28,12.4527,high,high,med,male,Yang
+Dalmatian,23234.0794,48.0,12.086,med,high,short,female,Huerta
+Australian Shepherd,25916.5982,51.6226,13.4632,high,high,med,male,Jenkins
+Australian Shepherd,28542.3695,53.5472,13.5723,high,high,med,female,Kirby
+Dalmatian,23251.5256,48.0,12.9782,high,high,short,female,Salinas
+Pug,6715.1541,35.0547,14.3637,med,high,short,male,Smith
+Pug,7189.8977,30.7889,12.961,med,med,short,male,Wallace
+Pug,6501.4172,37.2384,11.5009,high,high,short,female,Patricia
+Pug,7319.0656,,13.9977,low,high,short,female,Peck
+Dalmatian,24532.0329,48.0,13.4097,med,med,short,male,Roberts
+Pug,6881.7599,,13.617,med,high,med,female,Cabrera
+Pug,7121.3726,33.3872,13.4243,med,high,short,female,Dickerson
+Australian Shepherd,20965.9818,52.671,14.1386,high,med,short,male,Giles
+Dalmatian,17930.4063,48.0,13.5556,high,high,short,female,Li
+Rottweiler,51864.7032,60.2632,8.1801,med,med,short,female,White
+Dalmatian,22158.8474,,13.396,high,high,short,female,Haas
+Rottweiler,52683.8188,,8.3288,med,high,med,male,Hill
+Rottweiler,56522.7519,61.7359,9.6463,high,high,med,female,Stafford
+Australian Shepherd,26070.8573,54.3461,13.0802,med,high,short,female,Flores
+Rottweiler,38053.072,62.8251,9.6238,med,high,short,female,Howard
+Australian Shepherd,23574.6847,53.461,12.6899,high,high,med,female,Johnson
+Pug,7089.5636,33.6188,11.8943,med,high,short,female,Flores
+Pug,6803.4988,,12.0665,med,high,short,female,Richardson
+Australian Shepherd,24575.8392,56.3024,13.8259,high,high,med,male,Brown
+Australian Shepherd,22039.0547,52.0207,12.7241,high,high,med,female,Walter
+Pug,6981.6175,34.3994,12.8793,low,high,short,male,Zimmerman
+Dalmatian,24949.5739,,12.9653,high,high,short,female,Wells
+Australian Shepherd,21284.8653,53.07,12.2102,high,high,med,female,Green
+Pug,6221.6543,38.2913,13.6686,med,high,short,female,Solis
+Rottweiler,48205.8441,60.2371,9.6941,med,high,short,female,Jones
+Dalmatian,22925.4827,48.0,12.9085,high,high,short,male,Adams
+Dalmatian,21889.3682,,12.53,high,high,short,female,Gonzalez
+Rottweiler,40899.5596,63.3834,12.5133,med,high,short,female,Rodriguez
+Dalmatian,17507.7046,48.0,13.2252,high,high,short,male,Flynn
+Dalmatian,25170.9653,,12.6964,med,high,short,female,Williamson
+Australian Shepherd,23009.4732,52.1993,13.6415,high,med,med,male,Turner
+Australian Shepherd,16837.1422,55.0423,12.6955,high,high,med,male,Martinez
+Dalmatian,23315.8182,48.0,12.5513,high,high,short,female,Wagner
+Australian Shepherd,23010.718,,12.1088,high,high,med,female,Malone
+Australian Shepherd,29642.8275,53.9246,13.6811,high,high,med,female,Collier
+Rottweiler,57539.8524,63.8433,8.869,med,high,short,male,Manning
+Pug,6386.7197,,13.4697,high,high,short,female,Bautista
+Pug,6658.3523,33.0148,14.433,high,high,short,female,Shea
+Rottweiler,54925.7189,60.8294,8.6808,med,high,short,male,Schwartz
+Rottweiler,47657.1754,64.4906,10.9213,med,high,short,female,Phillips
+Australian Shepherd,23379.9051,53.3284,12.4218,high,high,med,female,Valenzuela
+Pug,7691.0854,33.4289,14.7612,med,high,short,male,Smith
+Pug,7007.9885,,13.4274,high,high,short,male,Oliver
+Rottweiler,41976.1563,64.8102,9.6153,low,high,short,female,Nunez
+Australian Shepherd,22717.5089,50.7327,13.0517,high,high,long,male,Lopez
+Australian Shepherd,25564.7482,55.5552,12.9123,high,med,med,male,Cohen
+Dalmatian,22090.268,,12.7943,high,high,short,male,Johnson
+Rottweiler,36035.4452,62.7577,8.7217,med,high,short,female,Clark
+Pug,6514.3838,30.4787,13.694,med,high,short,female,Smith
+Dalmatian,26902.424,48.0,12.5785,med,high,short,male,Mcclure
+Rottweiler,63837.8935,65.2615,9.7918,med,high,short,female,Riley
+Australian Shepherd,22506.8032,,12.9448,high,high,med,female,Justin
+Pug,6781.2235,34.5066,12.1204,med,high,short,female,Morales
+Dalmatian,21468.2492,48.0,12.3468,high,high,short,female,Andrews
+Australian Shepherd,24442.3843,,13.0963,high,high,short,male,Porter
+Pug,6620.2173,40.2236,15.3093,med,high,short,female,Laura
+Pug,6264.5266,,11.5306,med,high,med,female,Obrien
+Rottweiler,38807.8825,62.4194,8.6037,med,high,short,female,Spencer
+Rottweiler,41551.7456,62.1352,9.9162,med,high,short,male,Blackburn
+Dalmatian,22764.8737,48.0,13.0418,high,high,short,male,Hicks
+Rottweiler,46019.9503,62.3499,10.214,med,high,short,female,Ruiz
+Dalmatian,20388.283,48.0,11.9807,high,med,med,female,Donaldson
+Rottweiler,44680.2483,64.2314,8.4525,med,high,short,female,Fischer
+Rottweiler,46185.3644,66.3543,9.0754,med,high,short,male,Duke
+Australian Shepherd,26122.4992,54.2677,13.2557,med,med,med,male,King
+Dalmatian,23983.671,,12.1615,high,high,short,female,Bell
+Pug,7451.9498,35.8667,12.7208,med,high,short,male,Mullins
+Dalmatian,24918.9568,,13.2359,high,high,short,female,Lee
+Dalmatian,21133.8895,48.0,12.1672,high,high,short,male,Myers
+Rottweiler,58098.5882,63.0308,10.5496,med,high,short,male,Fisher
+Australian Shepherd,21181.5044,53.8981,12.4637,high,high,med,female,Thomas
+Australian Shepherd,19903.442,,11.8303,med,high,med,female,Sims
+Pug,6218.1632,34.0685,13.4164,med,high,short,female,Smith
+Australian Shepherd,23293.2403,51.5447,12.9667,high,high,med,female,Pace
+Dalmatian,24346.1748,48.0,12.6919,high,high,short,male,Garcia
+Pug,6298.0854,32.8037,12.7583,high,med,short,female,Blake
+Pug,7293.3603,28.8507,13.0825,med,high,short,male,Foster
+Rottweiler,46429.9022,,10.6391,med,high,short,female,Jones
+Australian Shepherd,27954.7196,52.6044,14.2947,high,high,med,male,Obrien
+Pug,6968.7752,31.6831,13.5513,med,high,short,male,Jones
+Australian Shepherd,30316.1361,54.0931,13.2151,high,high,med,male,Hull
+Pug,6045.4939,,14.1035,med,high,short,female,Keith
+Dalmatian,22822.7245,48.0,12.3998,high,med,short,female,Robertson
+Australian Shepherd,27186.0193,51.9313,12.9637,high,high,med,female,Holden
+Rottweiler,50018.8371,64.8679,8.5882,med,high,short,female,Hill
+Rottweiler,59150.2034,64.5927,10.2035,med,high,med,male,Dixon
+Dalmatian,23069.1149,48.0,13.8051,high,high,short,female,Martinez
+Rottweiler,59971.3454,65.4994,7.9111,med,high,med,female,Williams
+Rottweiler,54638.8939,,7.8934,med,high,short,male,Sanders
+Rottweiler,25406.8293,65.0525,10.2559,med,high,short,male,Meyers
+Rottweiler,56701.1676,64.4287,10.4932,med,high,short,female,Cooper
+Australian Shepherd,25422.879,52.1454,12.916,high,med,long,male,Sullivan
+Pug,7452.8968,34.8697,13.6843,med,high,med,male,Scott
+Pug,7271.032,,13.7679,med,high,short,male,Baker
+Pug,6865.4151,33.4289,12.1845,low,high,short,female,Rich
+Rottweiler,43148.0047,60.7732,9.6175,med,high,short,female,Warren
+Pug,6132.1591,33.2148,12.7827,med,high,short,female,Marshall
+Pug,7617.0496,26.0576,12.1924,med,high,short,male,Glenn
+Pug,6814.2194,,13.8525,med,med,short,female,Conrad
+Rottweiler,63883.9011,,9.8615,med,high,short,female,Mendez
+Rottweiler,51820.8465,65.7039,9.3487,med,high,short,female,Abbott
+Rottweiler,49621.4319,64.9791,9.1688,med,high,short,male,Compton
+Rottweiler,48961.3828,61.7125,9.9764,low,high,short,female,Burke
+Dalmatian,23656.3805,,13.8346,high,high,short,female,Melissa
+Pug,7752.6305,,14.8456,med,high,short,male,Reyes
+Australian Shepherd,23991.3171,53.2555,13.8824,high,high,med,female,Rodriguez
+Rottweiler,51249.0958,63.7079,8.3307,med,high,short,male,Young
+Rottweiler,38894.4104,64.3297,10.7337,med,med,short,male,Bush
+Pug,6578.5743,24.9411,13.4502,low,med,short,female,Mcdowell
+Pug,6226.918,32.0913,13.7188,med,med,short,female,Smith
+Dalmatian,20867.5577,48.0,12.3144,high,high,med,female,Ray
+Australian Shepherd,20108.7386,,13.1425,high,high,med,male,Little
+Australian Shepherd,21805.558,52.8091,12.8276,high,high,med,female,Whitehead
+Pug,7534.9837,36.8979,11.3714,med,high,short,female,Garza
+Pug,7973.645,36.8334,13.3825,low,med,short,male,Miller
+Australian Shepherd,22241.3309,54.0457,11.1021,high,high,med,female,Dunn
+Rottweiler,59369.4219,66.2707,8.4871,med,med,short,female,Ford
+Rottweiler,48054.7374,66.584,8.5779,med,high,short,male,Scott
+Australian Shepherd,26748.5069,,13.3137,med,high,med,male,Morris
+Pug,7699.1049,,13.3908,med,high,short,female,Johnson
+Dalmatian,26272.8653,48.0,14.0001,high,high,short,male,Tucker
+Rottweiler,49920.2745,61.9511,12.0422,med,med,short,female,Williamson
+Pug,6431.9925,32.9236,13.7711,med,high,short,female,Perez
+Australian Shepherd,18201.6659,53.669,12.7511,high,high,med,female,Lamb
+Pug,6853.4072,34.8277,13.9433,med,med,short,female,Hernandez
+Australian Shepherd,28080.6004,52.7199,12.1337,high,high,med,male,Davis
+Rottweiler,45820.2959,64.7944,8.9013,med,high,med,male,Medina
+Pug,6096.6312,31.4446,13.9376,med,high,short,male,Clements
+Australian Shepherd,20955.5562,51.9775,13.1582,med,high,med,male,Peterson
+Australian Shepherd,21191.7893,54.0125,13.0422,high,high,med,male,Walker
+Dalmatian,22130.3814,48.0,12.3197,high,high,med,female,Greene
+Pug,7123.954,,11.8187,med,high,short,male,Simon
+Dalmatian,27019.9172,48.0,12.795,high,high,med,female,Tanner
+Dalmatian,25534.8696,48.0,13.3045,high,med,short,male,Harvey
+Pug,6967.4479,31.2166,13.799,med,high,short,male,Jones
+Pug,7830.9286,,14.687,med,high,short,male,Moyer
+Pug,7046.4008,36.7732,12.3406,med,high,short,female,Williams
+Australian Shepherd,23976.5835,53.5155,13.1654,high,high,med,male,Watts
+Dalmatian,23345.6627,48.0,12.6709,high,med,short,female,Drake
+Dalmatian,25479.2049,48.0,13.4673,high,high,short,female,Underwood
+Dalmatian,24664.0931,48.0,13.1672,high,high,short,female,Morris
+Australian Shepherd,24698.6235,52.9222,14.2596,high,high,med,female,Harrell
+Dalmatian,22415.7052,48.0,12.7362,high,high,short,female,Ramirez
+Australian Shepherd,26848.3239,,13.4307,high,med,med,male,Pearson
+Rottweiler,43686.1086,63.6004,9.0407,med,med,short,female,Franklin
+Pug,7483.6343,32.446,14.6611,low,high,short,female,Smith
+Pug,7309.7783,33.8082,13.2876,med,high,short,male,Ramos
+Rottweiler,43682.528,61.6895,10.3051,low,high,short,male,Love
+Rottweiler,47256.2315,63.9228,10.5316,med,high,med,female,Castro
+Rottweiler,47363.9886,64.1719,7.144,med,high,short,female,Parker
+Rottweiler,48516.629,62.5582,8.1322,med,high,short,female,Mathis
+Dalmatian,25980.9341,,12.9734,high,med,short,female,White
+Pug,7757.0805,32.7285,13.2556,high,high,short,female,Martin
+Australian Shepherd,16560.1204,53.6901,12.5197,high,high,med,male,Carpenter
+Rottweiler,48717.7131,,10.9325,med,high,short,female,Hunt
+Rottweiler,53402.9419,66.2879,10.3926,med,high,short,male,Bowman
+Rottweiler,41960.0669,63.6178,9.5672,high,med,short,male,Curtis
+Australian Shepherd,23321.9937,52.3205,12.7757,high,high,med,female,Williams
+Australian Shepherd,18315.9207,,13.7495,high,med,long,female,Long
+Australian Shepherd,25397.7228,53.4203,13.8832,high,high,med,female,Lewis
+Pug,6520.7052,34.7323,13.14,med,high,short,female,Diaz
+Australian Shepherd,22447.1929,55.1831,12.567,high,high,long,male,Gonzales
+Rottweiler,57785.7653,63.1173,9.8315,med,med,short,female,Parsons
+Australian Shepherd,26723.2624,53.0636,12.082,high,high,med,female,Johnson
+Rottweiler,42676.3038,62.4092,8.8961,med,high,med,male,Gomez
+Dalmatian,22783.6024,,13.8472,high,high,short,male,Benton
+Pug,6436.6856,37.5264,12.995,med,high,med,male,Roberson
+Australian Shepherd,34135.38,54.0192,12.9385,high,high,med,female,Megan
+Pug,7123.9817,33.1096,14.0226,med,high,med,female,Cox
+Rottweiler,47408.2554,61.6616,7.993,med,high,short,female,White
+Dalmatian,20265.7723,48.0,12.8276,high,high,med,female,Gamble
+Pug,6392.1317,36.9698,14.5893,med,high,short,male,Ortiz
+Rottweiler,40149.0249,62.2237,9.3187,med,high,short,female,Fowler
+Rottweiler,43947.9696,64.4395,7.7444,med,high,short,female,Frederick
+Australian Shepherd,23049.0759,54.7095,12.8809,med,high,short,female,Clark
+Dalmatian,23781.8913,,12.871,med,med,med,female,Reyes
+Rottweiler,44422.4748,65.7316,10.1432,med,high,short,male,Valencia
+Pug,6340.7213,30.4407,13.7262,med,high,short,female,Prince
+Dalmatian,24432.3148,,13.074,high,med,short,female,Grimes
+Pug,6214.9491,33.553,14.225,med,high,short,male,Laura
+Australian Shepherd,26104.3173,54.637,13.4551,high,high,med,female,Wolfe
+Rottweiler,56609.3183,62.3965,10.2959,med,high,short,female,Zachary
+Dalmatian,21472.3481,48.0,13.2722,high,high,short,female,Flowers
+Dalmatian,22338.3007,48.0,12.9478,high,high,med,female,Thomas
+Pug,7041.6693,35.5701,12.5359,med,high,short,male,Barber
+Dalmatian,23058.786,48.0,12.2341,med,high,short,male,Orozco
+Rottweiler,42629.4376,63.3581,8.7371,med,high,short,female,Campbell
+Rottweiler,46126.025,62.3711,10.4414,med,high,short,female,Davis
+Pug,7190.0994,35.6275,13.5147,med,high,short,female,Lewis
+Pug,6812.6451,32.9152,12.3678,med,med,short,male,Smith
+Australian Shepherd,24480.8732,55.5372,12.8543,high,high,med,male,Chang
+Rottweiler,40584.9838,61.9189,6.9716,med,high,med,male,Harris
+Rottweiler,49043.7822,,9.4072,high,high,short,female,Daniel
+Australian Shepherd,22739.4008,53.4219,13.1911,high,high,med,male,Lopez
+Australian Shepherd,24911.9471,53.4766,14.0388,high,high,long,female,Murphy
+Dalmatian,21560.0364,48.0,13.2417,high,high,short,male,Mckinney

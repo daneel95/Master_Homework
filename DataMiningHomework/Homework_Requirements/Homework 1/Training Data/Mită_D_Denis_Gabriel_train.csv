@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Siberian Husky,18929.7313,56.4456,11.9204,high,med,med,male,Moore
+German Shepherd,36418.66,60.3903,11.7431,med,med,med,male,Bailey
+German Shepherd,36704.7281,61.9014,10.7298,med,med,med,female,Porter
+Siberian Husky,17233.9919,54.7815,12.3801,med,med,med,male,Hansen
+Siberian Husky,20066.8119,54.4211,11.0064,med,med,med,female,Smith
+Pug,7084.3592,36.4445,12.7594,med,med,short,male,Martin
+Pit Bull,28026.79,45.4914,12.3337,med,high,short,male,Lee
+Pug,7332.7814,,13.2902,med,high,short,female,Hernandez
+German Shepherd,38079.601,62.482,10.4691,med,med,med,female,Adams
+Siberian Husky,17050.0016,53.2042,12.4328,med,med,long,female,Williams
+Pit Bull,17438.946,46.5371,12.7694,med,high,short,male,Hall
+Pit Bull,27018.6811,46.7533,12.9789,med,high,short,male,Santana
+German Shepherd,39409.0528,59.901,11.2688,med,med,med,male,Johnson
+Pit Bull,21805.0197,46.1873,12.6656,med,high,short,female,Preston
+Siberian Husky,18567.4505,,11.5186,med,med,med,male,Russell
+Pit Bull,24431.0071,45.4661,11.8954,med,high,med,female,Smith
+German Shepherd,36352.3309,62.8408,10.7192,med,med,med,female,Diaz
+Siberian Husky,21107.2531,,12.0336,med,med,med,female,Fischer
+Pug,6736.0847,35.7689,14.3496,high,high,med,male,Gibbs
+German Shepherd,38072.645,61.3749,9.6943,low,med,med,female,Benton
+Pit Bull,30995.844,46.2904,13.0331,med,high,short,male,Nicholson
+Pug,6840.224,25.6528,15.0327,med,high,short,female,Francis
+Siberian Husky,19824.7035,51.8401,13.8716,med,med,med,female,Byrd
+Pit Bull,18557.562,46.6659,12.4566,high,high,short,female,Garcia
+Pug,7677.7663,32.4059,13.3318,med,high,short,female,Sims
+Siberian Husky,19823.5686,52.4698,11.1221,med,med,med,female,Gutierrez
+Pug,5982.4918,,14.9399,med,high,short,male,Quinn
+Pit Bull,17974.1406,46.087,11.0343,med,high,short,female,Russell
+Pit Bull,27097.839,45.5716,12.4589,med,high,short,female,Murillo
+Pit Bull,16240.9339,45.545,12.4433,high,high,short,male,Cruz
+Pit Bull,30693.7816,46.3394,12.0212,med,high,short,male,Koch
+Siberian Husky,20406.4553,52.548,10.731,med,med,med,female,Wheeler
+Siberian Husky,16554.0512,50.0511,12.4286,med,low,med,female,Williams
+Siberian Husky,18434.7628,56.8996,11.7437,high,med,med,male,Thompson
+German Shepherd,36313.6711,,11.0549,low,med,med,male,Walls
+German Shepherd,35359.4563,,9.9029,med,med,med,male,Henson
+Pug,7121.2186,35.8355,13.9559,med,high,short,female,Salazar
+Pit Bull,18546.2182,45.9185,11.857,med,high,short,male,Bowman
+Pit Bull,30068.6903,45.5743,11.7149,med,high,short,male,James
+Siberian Husky,16659.5379,54.7136,12.1996,low,low,short,male,Barber
+Siberian Husky,21024.8574,55.6003,11.034,med,med,med,female,Brown
+Pit Bull,27062.169,45.7983,11.8052,med,high,short,male,Garza
+German Shepherd,34755.2496,,10.088,med,med,long,male,Smith
+German Shepherd,37749.6147,59.1989,11.3448,high,med,med,male,Phillips
+Pug,6705.5894,,14.0565,med,high,short,male,Valdez
+Pug,6905.244,34.822,11.8541,med,high,short,male,Freeman
+German Shepherd,34475.2374,,11.4533,med,high,med,male,Hicks
+Pit Bull,21327.9688,,11.7147,med,high,short,female,Roy
+Siberian Husky,21381.2691,,12.0093,med,med,med,male,Vaughn
+Pit Bull,26733.4508,,12.0881,med,high,short,male,Garner
+Siberian Husky,17530.5399,52.7308,11.8576,med,med,med,female,Sandoval
+Pit Bull,20219.5579,,12.3075,low,high,short,male,Andrews
+Pit Bull,16527.1007,45.5612,11.0505,med,med,short,male,Olson
+Pit Bull,13711.7436,,12.3378,high,high,short,female,Novak
+Pug,7046.6216,36.5522,14.5002,med,high,short,female,Bridges
+Siberian Husky,14800.6525,54.0399,12.0609,med,high,long,male,Davis
+German Shepherd,35410.1408,60.1356,11.363,med,med,med,male,Tate
+Pit Bull,26460.1568,45.9669,11.6155,med,high,short,female,Rogers
+Pit Bull,18225.8717,46.0442,12.5164,med,high,short,female,Wright
+Pit Bull,19857.4345,46.7935,12.0859,med,high,short,female,Forbes
+Siberian Husky,17578.1751,55.2175,12.0906,med,med,med,male,Green
+Pit Bull,29549.5584,45.1895,12.2269,med,high,short,female,May
+Pug,7552.0976,,14.4507,med,high,short,female,Hoffman
+Siberian Husky,16713.6726,55.333,11.8937,med,med,med,male,Stevenson
+German Shepherd,37423.6077,62.4873,10.4283,med,med,med,male,Thomas
+Siberian Husky,21140.4483,53.6994,12.2005,med,med,med,female,Porter
+German Shepherd,33287.6532,57.9947,11.7903,low,low,med,male,Gonzalez
+Siberian Husky,15379.9458,,12.6196,med,high,med,female,Jenkins
+Pit Bull,27526.7516,45.5166,11.2563,med,high,short,male,Graham
+Pug,6856.7187,,12.5067,med,high,short,female,Torres
+Siberian Husky,19355.9137,,11.7296,med,high,med,female,Vaughn
+German Shepherd,34809.1935,,10.3051,med,med,med,male,Hill
+Pit Bull,23624.6588,45.6625,10.7955,med,med,med,female,Thomas
+Siberian Husky,19858.6854,58.6057,12.2844,med,med,med,female,Hill
+German Shepherd,35944.3884,,10.7423,high,med,med,female,Johnson
+Pug,7451.8324,36.18,13.8233,med,high,short,male,Parks
+Pit Bull,32185.902,46.6552,12.5601,med,high,short,male,White
+German Shepherd,35101.4728,62.351,11.5515,med,low,med,male,Soto
+Siberian Husky,20051.4026,53.388,11.8814,low,med,med,female,Jefferson
+Pit Bull,31416.8562,,11.845,med,high,med,female,Bennett
+Siberian Husky,17961.3267,,12.171,high,med,long,male,Gallegos
+Pit Bull,22996.046,46.7678,12.6442,med,high,short,female,Adkins
+German Shepherd,36045.8626,63.0408,10.9525,med,med,med,female,Davis
+Pit Bull,20656.0817,,12.6172,med,high,short,female,Clay
+Siberian Husky,17590.3006,53.5983,11.8224,med,med,med,female,Foley
+German Shepherd,34042.2624,59.1524,9.9267,med,med,short,male,Butler
+Pit Bull,32151.4448,45.4498,11.4163,med,high,med,male,Phillips
+Siberian Husky,17144.2082,54.8376,11.5549,med,med,med,female,Wilson
+German Shepherd,37921.7059,58.3304,10.4696,med,med,med,male,Cowan
+Siberian Husky,21070.0463,55.094,12.3462,med,med,med,female,Barnes
+Pit Bull,20508.5304,45.5312,11.8798,med,high,short,female,Martinez
+Siberian Husky,18189.0309,56.6246,12.9,med,med,med,male,Curry
+Pug,7900.9035,36.9744,14.2907,med,high,med,male,Flores
+Siberian Husky,19688.3124,55.5869,11.8059,med,med,med,female,Cross
+German Shepherd,37594.0391,61.2584,11.1668,med,med,med,female,Nelson
+German Shepherd,36206.2265,63.7234,11.842,med,med,med,female,Guzman
+Pug,7000.0254,33.7602,12.037,med,high,short,male,Mcdonald
+German Shepherd,35469.1597,58.8413,11.5984,med,med,med,female,Jefferson
+Siberian Husky,18335.6469,53.4514,11.8133,med,med,med,female,Brewer
+Pug,6737.5784,33.6856,11.574,med,high,short,female,Morgan
+Pit Bull,14876.1001,46.7442,12.1888,med,high,short,male,Anderson
+German Shepherd,36919.8649,63.0131,11.6253,med,med,med,male,Pearson
+German Shepherd,38986.9897,61.1489,10.7746,med,med,short,female,Kennedy
+Siberian Husky,17183.8567,54.2903,11.6437,med,med,med,male,Green
+Pug,5969.8282,,14.6216,med,high,short,male,Stephenson
+Pug,7270.5692,29.6429,12.9756,med,high,short,male,Diaz
+Pit Bull,26110.156,44.9408,12.4009,low,high,short,female,Anderson
+Pit Bull,26835.8027,46.5289,12.0553,low,high,short,male,Harvey
+Pug,7043.1861,31.6779,15.1974,low,med,short,female,Reyes
+Pit Bull,35795.2517,46.3344,11.1244,med,high,short,female,Ford
+Pug,7862.8274,36.0327,13.2902,high,high,short,male,Brown
+Pit Bull,28408.4567,46.4517,12.3302,med,high,short,female,Jackson
+Pit Bull,27749.767,46.166,12.3498,med,high,short,female,Shaw
+Pit Bull,20033.3993,45.0995,13.9807,med,high,short,female,Smith
+German Shepherd,36323.9202,62.8333,10.6122,low,high,med,female,Lopez
+Siberian Husky,21003.3688,56.9137,11.5215,med,high,med,female,Kennedy
+Pit Bull,23266.6322,,12.2225,low,high,short,female,Sutton
+Pug,7799.905,33.8649,12.8936,med,high,short,female,Nguyen
+German Shepherd,37469.4519,57.8278,11.3958,med,low,med,male,Sullivan
+Siberian Husky,17457.5239,56.8819,12.5368,med,med,med,male,Williams
+Pug,5591.9068,36.9302,14.6864,med,high,short,female,Ballard
+Pit Bull,19531.4597,45.3942,11.6845,med,high,short,male,Stewart
+Pit Bull,24820.4324,45.5377,12.5613,high,high,short,male,Carter
+Siberian Husky,21093.4598,53.9124,11.9358,med,med,med,male,Brown
+Siberian Husky,16568.1592,52.3145,11.6444,med,med,med,male,Austin
+German Shepherd,33860.5325,,9.6026,high,med,long,female,Hull
+Pit Bull,18124.9268,47.0514,11.3445,low,high,short,female,Weiss
+Pit Bull,20592.8392,45.5577,11.7892,med,high,med,female,Hernandez
+Siberian Husky,26079.4323,55.799,12.7087,high,low,med,male,Zimmerman
+Pug,6988.3379,26.5206,12.7594,med,high,short,female,Jones
+Pug,6326.9123,35.9,13.5302,low,high,short,female,Swanson
+Siberian Husky,17957.8027,53.4883,10.8482,med,high,med,male,Rios
+Pug,6420.4109,31.2115,13.1022,med,high,short,female,Ali
+Pit Bull,16478.3541,45.7695,11.665,high,high,short,female,Melendez
+Pit Bull,30482.9078,46.7589,12.2195,med,high,short,female,Burton
+German Shepherd,38012.0123,58.3523,11.8229,low,med,med,female,Hall
+Siberian Husky,19970.317,61.0892,12.3678,med,med,med,female,Stone
+Siberian Husky,17958.6116,,12.3945,med,med,med,female,Thomas
+Pit Bull,23677.8277,45.034,12.7806,med,high,short,male,Horn
+German Shepherd,35229.8067,60.4345,10.5118,med,med,med,female,Vasquez
+Pug,7103.3026,,13.9415,med,high,short,female,Henderson
+Pug,6253.1713,37.6825,13.17,med,high,short,male,Buck
+Pit Bull,20144.3873,46.0089,11.258,high,high,short,male,Stone
+German Shepherd,39089.5916,,11.1793,low,med,med,female,Hill
+German Shepherd,36952.8316,63.1591,11.0097,high,med,med,female,Wright
+Pug,6820.3586,41.1778,15.2707,high,high,short,male,Davis
+Pug,6429.2883,,13.2185,low,high,short,male,Johnson
+German Shepherd,36284.1839,62.7098,11.0404,med,med,short,female,Velazquez
+Pit Bull,23602.4765,44.5296,12.2478,med,med,short,female,Williams
+Pit Bull,30834.3548,46.4682,11.9645,med,high,short,female,Mcclain
+Pit Bull,22416.8189,46.7974,11.638,med,high,short,female,Hogan
+Siberian Husky,19196.0303,55.0582,10.8262,med,med,long,female,Young
+Pit Bull,21624.2498,46.8382,12.7458,low,high,med,male,Bridges
+Siberian Husky,17879.4031,53.6652,12.3571,med,med,med,male,Washington
+Pug,6575.5614,36.9352,12.0625,med,med,short,male,Reeves
+German Shepherd,38103.5759,58.6558,10.6304,low,low,med,male,Cooley
+German Shepherd,37242.4485,59.9328,10.3509,high,med,med,male,Wilson
+Pug,6025.4349,27.3177,13.582,med,high,short,female,Gonzalez
+German Shepherd,38169.3195,61.1487,10.7106,med,med,med,male,Knight
+Pug,6919.464,38.0504,12.7475,med,high,short,male,Richardson
+German Shepherd,38137.7325,62.0221,10.5478,high,med,med,female,Young
+Siberian Husky,22003.3542,52.6507,11.541,med,high,med,female,Ingram
+Siberian Husky,21104.847,,12.3011,med,med,med,female,Bautista
+Siberian Husky,19423.4806,52.1648,12.8714,med,med,med,female,Thomas
+Pit Bull,17542.4813,46.5175,11.3208,med,high,short,female,Case
+Pit Bull,17295.1453,46.1559,11.4108,high,high,short,male,Smith
+Pit Bull,30499.8431,45.4986,12.5664,med,high,short,female,Weeks
+Pug,6036.7823,38.3742,13.0978,med,high,short,male,Day
+Pit Bull,30423.5304,46.451,11.6428,med,high,short,female,Davis
+German Shepherd,38358.4282,,10.6342,med,med,med,male,Oneill
+Pit Bull,21451.6014,46.2026,11.3173,med,high,short,female,Rangel
+Siberian Husky,20736.8651,55.0381,11.057,med,med,med,male,Francis
+Siberian Husky,22514.5115,49.1275,11.3794,med,med,med,female,Mueller
+Pug,7328.7223,34.5482,13.1638,med,high,short,male,Vega
+German Shepherd,37088.8104,60.6835,11.1757,high,med,med,female,Jones
+Siberian Husky,20222.2221,53.2318,12.1508,med,med,med,female,Brooks
+Siberian Husky,13038.7125,53.5912,11.6661,low,med,short,male,Woods
+German Shepherd,37590.8512,63.1247,11.1496,med,med,med,male,Clark
+Pug,5832.7508,,13.7485,med,high,med,male,Bowman
+German Shepherd,35845.0791,62.8216,11.1375,med,med,med,female,Craig
+Pug,8389.7009,30.086,12.9516,med,high,short,male,Taylor
+German Shepherd,35987.0172,,11.5014,med,med,med,female,Martin
+Pug,6379.9558,35.9763,12.2201,med,high,short,male,Martin
+German Shepherd,35302.4053,60.2745,11.5555,low,high,long,female,Hall
+Pit Bull,22657.4023,45.9762,12.9004,med,high,short,female,Wolfe
+Siberian Husky,17411.4563,,11.8194,med,med,med,male,Green
+Siberian Husky,18444.4554,50.5187,12.3501,med,med,med,female,Harrell
+Siberian Husky,20216.4268,56.9926,11.5674,med,med,med,male,Hamilton
+Pit Bull,28648.1622,45.8405,11.2712,med,high,short,male,Kennedy
+Siberian Husky,21314.8442,54.2404,11.3083,med,med,med,female,Ramirez
+Pit Bull,28516.3064,,12.1752,low,high,short,male,Campbell
+Pug,6266.8696,29.2249,14.4474,med,med,short,male,Hughes
+Pug,6018.2364,28.9232,13.3711,med,high,short,female,Alvarado
+German Shepherd,36367.6796,62.482,10.2565,high,low,med,male,Walton
+Pit Bull,22293.3005,46.1576,11.8838,high,med,short,male,Lawrence
+Siberian Husky,22194.0638,54.398,10.9807,med,med,med,female,Jones
+Pug,6753.2469,28.6463,13.477,med,high,short,female,Macdonald
+Pit Bull,6136.184,,11.3709,med,high,short,male,Jonathan
+Siberian Husky,20713.7348,55.3253,11.8251,med,med,med,female,Miller
+German Shepherd,37280.6124,58.13,11.0366,med,med,short,male,Harvey
+Pit Bull,31748.6144,45.3844,12.056,med,high,short,female,Zamora
+Siberian Husky,18941.6255,55.5929,11.9893,med,low,long,female,Small
+Pit Bull,28754.8791,45.3131,12.1732,med,high,short,female,Rose
+Pit Bull,36315.8547,46.4738,10.9932,med,high,short,male,Rios
+Siberian Husky,19164.5732,51.6645,11.6688,low,med,med,female,Watson
+Pug,7307.354,34.1884,12.893,med,high,short,male,Gutierrez
+Pug,6152.7917,32.5584,11.8991,med,high,short,male,Emily
+German Shepherd,37060.4938,61.8257,11.8993,med,high,med,female,Thomas
+Pug,6557.6748,,15.9424,med,high,short,male,Welch
+Siberian Husky,20696.705,55.1588,10.5966,med,high,med,female,Clements
+Pit Bull,27331.289,46.3855,12.1402,med,high,short,female,Williams
+German Shepherd,35755.2612,62.7613,10.9308,med,med,med,female,Morris
+Pit Bull,31261.6093,45.9866,11.6341,med,high,short,female,Walker
+Siberian Husky,16777.0079,54.1819,11.6144,med,med,med,male,Johnson
+Pit Bull,23798.0367,45.6374,12.6536,med,high,short,female,Boyd
+Siberian Husky,18204.7535,55.2561,12.3305,high,med,long,female,Pugh
+Siberian Husky,18149.962,57.2869,11.975,med,high,med,female,Benson
+Pug,7008.6375,34.9168,15.2868,med,high,short,female,Long
+Siberian Husky,16702.6307,53.7058,11.2787,low,med,med,female,Hernandez
+Pit Bull,21276.9054,45.1845,12.6872,med,med,short,female,Taylor
+Pit Bull,20965.0059,45.6405,11.3796,low,med,short,male,Jackson
+Pug,7251.6786,35.1551,13.4896,med,high,med,female,Cox
+Siberian Husky,16543.5125,53.8188,12.1731,med,low,long,male,Jones
+German Shepherd,34315.6378,59.747,11.8574,med,low,med,male,Mason
+Pit Bull,24438.9585,,12.0357,high,high,short,female,Morton
+German Shepherd,37297.5308,62.205,10.596,med,high,med,male,Nelson
+Pit Bull,17391.5413,45.1114,12.6601,med,high,short,female,Espinoza
+Siberian Husky,19475.8598,,11.838,med,med,med,male,Richards
+German Shepherd,36740.9102,62.1843,9.5105,med,med,med,female,Baker
+Pit Bull,20010.6247,46.6738,10.9323,med,high,short,female,Anderson
+Siberian Husky,21299.2398,55.7093,11.3369,med,med,med,female,Williams
+Pit Bull,27061.3493,46.4067,11.9379,med,high,short,male,Cox
+Pug,6545.7116,38.9229,13.1787,med,med,short,female,Floyd
+Pit Bull,22594.9323,46.7185,11.801,med,high,short,female,Mata
+Pit Bull,20186.8277,46.8342,12.1479,med,high,short,male,Doyle
+Siberian Husky,21313.3511,54.3929,12.779,med,med,med,male,Sanchez
+Pit Bull,21602.5993,44.7732,12.0726,med,high,short,male,Johnson
+Pug,7413.4417,33.7156,13.6834,med,high,short,female,Cunningham
+German Shepherd,36580.1207,,10.8411,med,low,med,male,Lopez
+Siberian Husky,18672.4883,52.8289,12.3494,med,med,med,male,Prince
+German Shepherd,35963.336,61.8545,9.9204,low,med,med,male,Lester
+Pug,7106.8775,34.3077,12.0954,med,high,short,male,Anderson
+German Shepherd,37149.4941,60.8227,11.5033,med,med,med,female,Williams
+Pit Bull,37793.435,45.5576,10.5779,med,med,short,male,Young
+Siberian Husky,15583.764,54.372,11.8931,med,low,med,female,Gibson
+Siberian Husky,20200.8777,53.1885,12.4863,high,med,med,female,Holland
+Pit Bull,31767.2483,45.7083,11.8256,med,high,short,male,Brown
+Siberian Husky,20859.2018,54.6436,10.9953,med,high,med,female,Anderson
+Pug,6876.4111,37.7299,14.0729,med,high,short,female,Petty
+Pug,8051.9429,31.9822,13.1386,med,high,short,male,Thomas
+German Shepherd,36664.701,63.828,10.9631,med,med,med,male,Mcpherson
+Pit Bull,24001.9669,45.9437,12.683,med,high,short,female,Herrera
+Pug,7496.1262,28.3007,14.4815,med,med,short,female,Wheeler
+German Shepherd,38953.4111,62.2388,9.3318,med,med,med,male,Myers
+Siberian Husky,18151.7309,,11.66,med,med,short,female,Butler
+Siberian Husky,18650.7872,54.5813,12.1589,high,med,med,male,Stone
+Pug,6785.9474,33.3588,13.2845,med,high,short,female,Benson
+Pit Bull,27975.8339,45.6225,11.734,med,high,med,female,Quinn
+Pug,7772.1027,,12.406,med,high,short,male,Hamilton
+Siberian Husky,16015.2888,57.2757,12.0484,med,med,med,male,Meyer
+Siberian Husky,20876.4634,56.1518,12.5842,med,med,med,female,Watson
+Pit Bull,23417.5539,45.8111,12.3019,med,high,short,female,Ford
+Pug,6241.2109,34.4493,12.3869,low,high,med,male,Fuller
+Pug,7068.8356,33.553,13.0742,med,med,short,female,Hughes
+Siberian Husky,22305.9723,54.6611,11.9614,med,med,med,male,Cunningham
+German Shepherd,33327.9428,58.1697,11.7442,med,med,med,female,Kelley
+Pit Bull,17888.8263,46.6092,12.3596,med,high,short,female,Bryant
+Siberian Husky,15568.7792,,11.6447,med,med,med,male,Matthews
+Pug,7443.6366,30.7554,12.2826,med,high,short,female,Hood
+Pug,8299.6024,40.4953,14.6637,med,high,short,male,Price
+Pit Bull,13240.7988,46.1235,11.3881,med,high,short,female,Mercado
+Pit Bull,14490.9842,45.4906,11.86,high,high,short,male,Keith
+Pug,7617.322,36.1608,13.9275,med,high,med,male,Rice
+Pug,7449.1827,,12.9596,med,high,short,female,Nguyen
+Pug,6549.7108,26.3374,13.8684,med,high,short,female,Woods
+Pug,6593.0516,35.054,13.4471,med,high,short,female,Obrien
+Siberian Husky,18388.375,54.1341,11.5644,high,med,med,female,Stokes
+German Shepherd,39726.0031,,10.5008,med,low,med,male,Jones
+Pit Bull,34250.2775,46.0655,12.4418,med,high,short,female,Maddox
+Pit Bull,27405.831,46.4164,12.6007,med,high,short,female,Nelson
+German Shepherd,33728.0979,59.4963,11.9576,low,med,med,female,Ward
+Pit Bull,15838.1633,46.0712,12.0962,high,high,short,male,Frey
+German Shepherd,35901.4785,60.6213,10.4218,med,med,med,male,Pierce
+German Shepherd,35800.2579,,10.9611,med,med,med,female,Hess
+Pit Bull,24753.2615,,12.3699,med,high,short,male,Barnes
+Siberian Husky,19608.0876,51.7235,13.0482,med,low,med,male,Case
+German Shepherd,36343.5011,58.0345,9.7359,med,med,med,male,Ross
+Pit Bull,24036.5173,46.3251,12.095,med,high,short,female,Jensen
+Siberian Husky,16300.8688,59.1399,11.7264,high,med,med,female,James
+Pug,6768.0892,40.2885,14.5882,med,high,short,male,Myers
+Pug,7886.3446,33.464,13.6759,high,high,short,male,Foster
+Siberian Husky,20069.9105,54.7955,11.5258,med,med,med,male,Patterson
+Siberian Husky,20727.7358,53.6657,11.8056,med,high,med,female,Walker
+Pit Bull,28075.3158,,11.2355,med,high,med,female,Gamble
+Pug,8050.8562,35.5951,13.1061,high,high,short,female,Sandoval
+German Shepherd,38016.6297,,10.6357,med,med,med,female,Jordan
+German Shepherd,36903.1769,59.2261,11.3439,med,med,med,male,Watson
+Pug,6840.0612,33.2718,13.6218,med,med,short,male,Andrade
+German Shepherd,36711.2927,61.6412,10.4156,high,med,med,male,Carlson
+Siberian Husky,19019.53,57.0422,12.0366,med,med,med,female,Brown
+Siberian Husky,15697.773,54.1354,12.0208,high,med,short,male,Baker
+Pit Bull,32169.5631,46.1271,12.186,high,high,short,male,Nelson
+German Shepherd,39221.4223,59.0289,10.3544,med,med,long,male,Johnson
+Pug,6351.1307,31.5101,13.0895,med,high,short,female,Bailey
+German Shepherd,36467.9759,60.4907,11.0718,med,med,med,female,Elliott
+German Shepherd,36702.4927,62.9005,11.206,high,med,med,male,Fisher
+Pug,6280.1158,,13.3849,med,high,med,male,Romero
+Pit Bull,24903.259,45.5128,11.9724,med,high,short,male,Wright
+Pug,7276.6363,32.9632,13.5792,med,med,short,female,Moore
+Pug,6669.541,32.7365,15.3308,low,high,short,female,Harris
+Pit Bull,25447.9926,46.3945,11.6403,med,high,short,female,Kim
+Siberian Husky,15260.1983,55.0724,12.2819,med,med,med,female,Wilson
+Siberian Husky,19358.0967,55.2745,13.2269,med,med,med,male,Moran
+German Shepherd,36199.9114,62.8384,11.7029,med,med,med,male,Little
+Pug,6217.8141,35.5741,12.8377,med,high,short,male,Long
+German Shepherd,34945.421,62.0547,11.363,med,med,med,female,Lucas
+Siberian Husky,17537.2473,54.5145,11.1861,med,med,med,female,Davis
+Siberian Husky,16939.6162,54.5022,11.3345,med,med,med,female,Gates
+Pit Bull,14173.3971,,12.1504,med,high,short,female,Anthony
+Siberian Husky,17429.5694,52.3717,12.6451,med,med,med,female,Roberts
+Pug,7411.7366,34.6073,12.9138,med,high,short,male,Lopez
+Siberian Husky,21435.7024,54.7611,11.7362,med,med,med,male,Cunningham
+Pit Bull,17862.9476,46.1722,12.7009,med,high,short,female,Flores
+German Shepherd,36846.0488,61.3906,11.2165,med,med,med,female,Burke
+Pug,6831.8337,29.9583,13.8894,high,high,short,male,Davis
+Pug,6540.1971,35.3053,13.5104,med,high,short,male,Woods
+Pug,6752.9531,30.5642,13.8165,med,high,short,male,Dixon
+Siberian Husky,20596.8381,56.5355,10.9878,med,high,med,male,Bates
+Pit Bull,18587.8301,46.2248,11.5734,med,high,med,male,Howard
+Pit Bull,19329.1342,46.3622,11.5579,med,high,short,female,Martinez
+German Shepherd,36618.0645,,11.3331,med,med,med,female,Klein
+German Shepherd,37243.9289,57.3318,10.2173,med,med,med,male,Perez
+Siberian Husky,17882.8275,,11.1137,med,med,med,female,Bell
+Pit Bull,32875.1552,,11.6347,low,high,short,female,Robinson
+Pit Bull,25753.0279,45.8618,12.9855,med,high,short,female,Lawrence
+Siberian Husky,21691.2669,51.8803,12.604,high,med,short,female,Carter
+Pug,6508.3306,31.2779,13.8548,med,high,short,female,Woods
+German Shepherd,37790.4297,62.4287,11.0967,high,med,short,female,Gaines
+Pit Bull,27174.2204,46.1194,11.9552,med,high,short,male,Hahn
+Pug,7126.4293,31.7855,13.7689,med,high,short,female,Garcia
+German Shepherd,37429.9958,,10.2724,high,low,med,male,Watson
+Pug,6830.4026,31.5777,14.7259,med,high,short,male,House
+German Shepherd,38687.1198,58.9223,11.3781,med,low,med,female,Yang
+Pit Bull,30797.4105,45.9001,11.4969,med,high,short,male,Knight
+Pug,6685.6915,41.6923,12.9071,low,high,short,male,Guerrero
+Pug,6765.0703,33.4858,13.133,high,high,short,female,Howard
+Pit Bull,36245.3121,,11.7819,med,med,short,female,Brown
+German Shepherd,38864.2996,58.5643,10.8797,med,med,med,male,Martin
+Siberian Husky,15336.3971,53.742,12.0194,med,high,med,male,Sanchez
+German Shepherd,34481.4702,,10.2775,med,med,med,female,Russell
+Pug,7971.9006,39.4437,12.4253,med,med,short,female,Mosley
+Pit Bull,24391.6081,46.0964,10.9991,med,high,short,male,Gonzalez
+Pit Bull,21455.8746,46.606,11.4404,med,high,short,male,Hensley
+Pug,7162.4653,33.9165,14.2145,med,high,short,male,Torres
+German Shepherd,37690.7014,,12.3488,low,low,med,male,Thompson
+German Shepherd,36677.2232,58.9566,11.9791,med,med,med,female,Mcclure
+Pug,6907.9831,33.89,14.274,med,high,short,male,Rose
+Siberian Husky,19745.3507,,12.2211,med,med,med,male,Navarro
+Pug,6257.1647,32.5149,12.8315,med,high,short,male,Boyd
+Siberian Husky,15843.9827,51.0002,11.8829,med,med,med,female,Myers
+German Shepherd,37196.1911,60.7904,11.4439,med,med,med,male,Garcia
+Pug,6662.3306,38.0689,13.9478,med,high,short,male,Brewer
+Pug,6691.1007,34.1268,13.8639,med,high,short,male,Reed
+German Shepherd,36378.3004,65.6076,10.61,med,med,med,male,Lopez
+Siberian Husky,16029.8036,56.8388,12.3304,med,med,med,female,Sanders
+German Shepherd,35968.5271,60.3768,10.3291,med,med,med,male,Sherman
+Pug,6803.4822,34.1449,13.3803,med,high,short,female,Laurie
+Pug,6954.9699,33.3305,13.7673,med,high,short,male,York
+Siberian Husky,20156.4376,,12.3515,low,low,med,female,Fox
+Pug,6998.2087,32.4165,14.4956,med,high,short,female,Mcmillan
+Siberian Husky,19010.7652,,12.216,med,med,long,male,Doyle
+Siberian Husky,21991.8097,53.2816,12.02,high,med,short,male,Green
+Siberian Husky,17649.1524,,11.7007,med,med,med,male,Fox
+Siberian Husky,20151.5294,53.2139,11.0055,med,med,short,female,Frost
+Siberian Husky,16513.2865,56.7537,11.8508,med,med,short,male,Davis
+Pit Bull,28462.7752,,10.8336,med,high,short,male,Melton
+Siberian Husky,18478.6302,53.3957,12.0263,high,med,med,female,Prince
+Pit Bull,29567.4524,,11.9784,low,high,short,female,Poole
+Pug,6772.3599,29.9061,15.1615,med,high,short,male,Garcia
+German Shepherd,38791.1666,57.2973,11.2128,med,med,med,male,Edwards
+German Shepherd,39338.0197,56.588,11.239,low,med,short,male,Allen
+Pit Bull,19744.1329,46.0207,12.0169,med,med,short,female,Case
+Pit Bull,26901.3188,46.4189,11.0641,low,high,short,female,Diaz
+Siberian Husky,21842.7263,58.0656,11.9468,med,med,med,female,Brown
+Pug,7219.3636,40.4801,13.732,med,high,short,female,Rush
+Siberian Husky,18136.7022,53.1825,12.6215,med,med,med,male,Baker
+German Shepherd,38062.6083,57.6238,11.3729,high,med,med,female,Wright
+Siberian Husky,20671.6642,51.4691,12.4163,med,med,med,male,Scott
+Siberian Husky,19862.2701,54.8016,11.1339,high,med,med,male,Nguyen
+Siberian Husky,16269.5845,55.2316,11.0254,med,med,short,male,Wilson
+Pug,7515.4569,39.1696,13.2031,med,high,short,female,Turner
+Pit Bull,27754.1272,45.9255,11.1661,med,high,short,male,Mora
+Pug,7329.0243,29.1587,14.9831,low,high,short,male,Lee
+Pit Bull,27306.9329,,13.4982,med,high,short,female,Acevedo
+Siberian Husky,18308.6955,57.5649,10.6858,med,med,med,male,Jones
+German Shepherd,37227.1411,,12.1589,low,med,med,female,Sullivan
+Siberian Husky,19325.7439,,11.6436,med,med,med,male,Ferguson
+Siberian Husky,16778.3006,56.757,11.898,med,high,med,male,Padilla
+Pug,6526.0487,31.3211,12.8589,low,high,short,male,Bradshaw
+Pug,6658.6668,33.4869,15.6032,med,high,med,male,Green
+Pit Bull,25497.8101,45.2205,11.6387,high,high,short,male,Williams
+German Shepherd,34834.3326,61.9484,11.8437,med,med,med,female,Graham
+Siberian Husky,17441.5445,58.7528,11.7274,low,med,med,male,Wilson
+German Shepherd,36449.8352,59.2647,10.7938,med,med,med,female,Hogan
+Pug,8307.5121,39.0391,14.4077,med,high,short,male,Ellis
+Pit Bull,21416.5085,46.1541,12.1194,low,high,short,male,Gomez
+German Shepherd,36307.0281,57.5217,10.3048,med,med,short,male,Davis
+Siberian Husky,19090.6927,,12.1084,med,med,med,male,Shane
+Pug,6437.6515,34.7519,14.1152,med,high,short,female,Silva
+Pit Bull,17428.1598,46.4868,11.6745,med,high,short,female,Chavez
+Pug,5883.7709,32.8743,12.2951,med,high,short,female,Johnston
+Pit Bull,25408.6286,45.9259,11.7444,med,high,short,female,Dickson
+Pug,8547.8265,35.2536,13.4747,high,med,short,male,White
+German Shepherd,37638.141,64.7168,12.051,high,med,med,female,Dudley
+Pit Bull,18024.5562,46.7899,11.808,med,high,short,male,Davis
+German Shepherd,37185.2239,61.3535,10.3856,med,med,med,male,May
+German Shepherd,37670.8398,58.4173,10.9608,med,med,med,male,Miller
+German Shepherd,35527.203,,10.412,med,med,med,male,Steele
+Pug,5869.0851,38.9935,12.7688,med,high,short,female,Rice
+Siberian Husky,20131.2626,55.2887,11.7631,med,med,med,male,Armstrong
+Pit Bull,23179.946,46.2699,12.2487,high,high,short,male,Carlson
+German Shepherd,38135.7482,61.8224,11.2155,high,med,long,male,Neal
+Pug,7051.5856,,14.7929,med,high,short,female,Mann
+Pit Bull,25026.3296,45.8748,11.2626,med,high,short,female,Henry
+Siberian Husky,18671.847,55.2073,11.665,med,med,med,female,Miller
+Siberian Husky,22325.3672,54.4837,12.1017,med,med,short,female,Terry
+Pug,5850.7899,31.7522,13.1656,med,med,med,male,Perez
+Pug,6443.9624,29.8899,13.6008,med,high,short,male,Walker
+Pit Bull,20871.2033,45.9504,12.0547,med,high,short,female,Pacheco
+German Shepherd,36621.5571,58.8451,10.9785,med,med,med,male,Rodriguez
+German Shepherd,35010.2897,59.7033,11.1682,med,med,med,female,Misty
+Pug,7773.0495,34.185,12.1651,med,high,short,male,Walsh
+German Shepherd,32387.897,60.414,10.6212,low,med,med,male,Campbell
+German Shepherd,35863.9179,63.2943,10.6133,med,med,med,female,Cole
+Pug,6524.6957,35.4929,13.3316,med,high,short,male,Martinez
+Pug,6983.9577,35.0018,14.8416,low,high,short,female,Johnson
+German Shepherd,36127.8041,63.4404,11.2646,med,med,med,female,Hodges
+German Shepherd,37780.347,,12.2677,med,med,med,female,Nguyen
+German Shepherd,35056.9869,62.4297,11.2099,med,med,long,female,Pitts
+Pug,7013.9928,38.3703,15.3225,med,med,short,male,Peterson
+Pug,6402.2877,27.4888,12.3695,med,med,short,male,Byrd
+Pit Bull,25251.908,46.7704,12.7562,med,high,short,male,Tran
+Pit Bull,33440.5399,,12.3329,med,med,short,male,Rice
+German Shepherd,38816.111,60.9009,11.911,low,med,med,male,Heath
+German Shepherd,35656.1049,62.2099,11.7129,med,med,med,male,Carney
+Pit Bull,26058.0634,,12.4403,med,high,med,female,Sanders
+Siberian Husky,18843.266,56.9362,12.3098,high,med,med,male,Ortega
+Pit Bull,26617.1891,,12.1328,high,high,short,male,Kirby
+German Shepherd,37088.6398,62.2637,11.3163,med,med,med,female,Molina
+German Shepherd,35683.9815,59.9633,11.5856,med,med,med,female,Ferguson
+German Shepherd,36072.2992,,10.0297,high,low,med,female,Rose
+Pit Bull,22783.1486,,10.6435,med,med,short,female,Martinez
+German Shepherd,36659.6555,,10.6095,med,med,short,female,Herrera
+Siberian Husky,19981.5134,,12.5779,med,med,short,male,Chandler
+German Shepherd,36296.0433,,11.4132,low,med,med,male,Jay
+Pit Bull,15667.0026,45.8006,11.5936,med,high,short,male,Nichols
+Pit Bull,38979.9739,46.5346,11.4085,med,high,med,male,Newman
+Pug,7210.7455,26.3996,13.4543,med,high,short,female,Barnes
+Pit Bull,27810.2395,45.753,11.2846,med,high,short,male,Claudia
+Pug,6816.1113,35.4254,11.3062,med,high,short,female,Hinton
+Pug,7115.1769,30.3158,13.9723,med,high,short,male,Chaney
+German Shepherd,36772.3459,61.3443,11.6036,med,med,med,female,Williams
+Pug,6766.416,35.4618,13.2582,med,high,short,female,Rodriguez
+Pug,7614.3027,,12.5974,med,high,short,female,Collins
+German Shepherd,37108.1543,64.9902,11.1659,med,med,long,male,Perez
+German Shepherd,36299.013,58.8713,10.4337,med,med,med,female,Pineda
+Pug,7722.4364,30.7651,13.5858,med,med,med,male,Morales
+Siberian Husky,19624.1628,58.171,12.4259,med,med,med,female,Russo
+Pit Bull,11896.2294,46.0624,11.8393,med,med,med,male,Miller
+Siberian Husky,17141.2249,59.0336,12.2991,low,med,med,male,Burns
+German Shepherd,36510.375,59.2143,11.3705,med,high,med,male,Payne
+Pit Bull,22046.2949,45.5368,10.9353,med,high,short,female,Cross
+German Shepherd,38419.0002,64.6202,10.9622,med,med,med,female,Rowland
+Pit Bull,21322.218,47.0646,12.0782,med,high,short,female,Richard
+Siberian Husky,21227.1167,52.4457,11.7326,med,med,med,male,Rogers
+German Shepherd,35472.4277,59.3234,10.9401,high,med,long,female,Brown
+Pug,5899.3843,31.5467,13.69,high,high,short,female,Solomon
+German Shepherd,35387.0682,62.1279,10.7325,med,med,med,female,Lewis
+Siberian Husky,20669.9029,,12.3513,low,high,med,male,Rice
+Siberian Husky,20889.0364,,11.8337,med,med,med,male,Harris
+German Shepherd,37559.8774,63.292,10.6527,med,high,med,male,Dunlap
+Pit Bull,25298.0282,,11.6994,low,high,short,male,Willis
+German Shepherd,38266.4386,59.3965,11.2322,med,med,med,male,Chan
+Siberian Husky,19420.2845,,11.7579,med,med,med,male,Vargas
+Pit Bull,27758.4897,47.3932,12.3625,med,med,short,male,Bullock
+German Shepherd,37912.1878,58.0129,9.2973,high,med,med,female,Reynolds
+Pit Bull,37833.914,45.4346,10.4462,med,high,short,female,Higgins
+German Shepherd,37689.4216,,11.3135,med,med,med,female,Nelson
+Siberian Husky,15053.2171,54.4686,12.7754,med,high,med,female,Kim
+German Shepherd,37662.9514,58.7758,10.9372,low,high,med,female,Shea
+Siberian Husky,18395.5862,54.4179,12.1673,med,med,med,male,Jackson
+German Shepherd,39635.5712,,10.7568,med,high,med,male,Johnson
+Pug,6235.9257,27.6816,13.9145,med,high,short,female,Griffith
+Pug,7176.8619,33.6837,12.2623,med,high,short,male,Barrera
+German Shepherd,40764.9638,64.0406,11.063,med,high,med,male,Wood
+Pit Bull,24463.5951,46.7134,12.5835,med,high,short,male,Morris
+Pug,5613.7535,30.9113,13.2781,med,high,short,male,Smith
+Siberian Husky,16390.8474,,11.8555,med,med,med,male,Frye
+Pug,7863.0525,31.6408,13.0296,med,high,short,male,Williams
+Pug,7270.0491,30.2413,13.0523,high,high,short,male,Davis
+German Shepherd,31867.7535,,11.4307,med,med,med,female,Smith
+German Shepherd,37644.4779,61.4247,11.3394,med,med,short,female,Hale
+Pit Bull,25413.9356,,12.5613,med,high,short,male,Price
+Pug,7133.9541,30.1263,13.8888,med,high,short,female,Hansen
+Pit Bull,25422.2474,46.3191,12.0014,med,high,short,female,Jensen
+German Shepherd,37439.8947,63.3564,10.2995,med,med,long,male,Hernandez
+Pug,6435.2227,33.8624,13.2264,med,high,short,male,Dougherty
+Pug,7335.4303,37.5605,12.8399,med,med,med,female,Bell
+Siberian Husky,15863.3934,55.4145,11.6917,med,med,long,female,Campos
+Siberian Husky,21139.0465,54.2026,12.1154,med,med,med,male,Smith
+Pug,6584.1826,31.1427,12.2196,med,high,short,male,Garza
+Pug,6929.8604,37.2264,13.2546,med,high,short,female,Rich
+Pug,6847.8249,,12.2752,med,high,short,male,Mcgee
+Pit Bull,25644.5384,45.7905,11.4111,med,high,med,female,Edwards
+Pug,5635.7618,31.4273,12.7415,med,high,short,female,Nguyen
+Pit Bull,23089.2577,46.3333,13.5588,med,high,short,male,Chavez
+Pug,6623.8537,37.0305,11.8827,med,high,short,female,Graham
+Pug,6265.9172,25.8283,14.417,med,high,short,male,Rhodes
+Pug,6125.0388,32.387,13.4529,med,high,short,male,Smith
+German Shepherd,40070.8728,,11.3281,med,med,long,male,Lowery
+Pug,7756.4621,,13.6846,med,high,short,female,Dean
+German Shepherd,36067.2995,61.3435,10.1458,med,low,long,male,Hernandez
+Pug,7116.4953,34.8257,14.1202,low,high,short,male,Dean
+German Shepherd,38562.2373,59.3417,10.2081,med,med,long,female,Hansen
+Pug,7349.2838,28.7849,12.2019,med,high,med,male,Carter
+Pit Bull,20399.5447,45.7661,11.3931,med,high,short,male,Thomas
+Pug,7136.8503,33.3434,13.8977,med,high,short,female,Chase
+Pug,6426.6264,32.4607,12.3563,med,high,short,female,Pierce
+Pug,6893.2883,,13.2163,med,high,short,female,Ashley
+Siberian Husky,20757.4821,52.7365,11.3062,med,med,med,male,Conway
+Siberian Husky,18470.2484,53.5581,12.6151,med,low,med,female,Boone
+German Shepherd,36856.8916,61.3731,11.2631,med,med,med,male,Wolf
+Siberian Husky,18712.8093,57.8267,11.3116,low,med,med,male,Johnson
+Siberian Husky,16737.594,56.7524,12.3237,high,med,med,male,Turner
+Pug,6855.8497,34.412,13.5368,med,high,short,female,Hunter
+Pit Bull,21873.2315,46.3556,12.1082,med,high,short,female,Montgomery
+Pit Bull,27543.9532,46.1104,12.5906,med,high,short,male,Aguilar
+German Shepherd,38172.7709,60.4969,10.8234,med,low,long,male,Nelson
+Siberian Husky,19381.4218,,12.1783,med,med,long,male,Lynch
+Pit Bull,27900.4656,45.8179,12.6791,med,med,short,female,Peterson
+Pug,6538.5878,,13.3914,med,med,short,female,Ware
+Pug,6005.8914,,13.7436,med,high,short,female,Lucas
+Pit Bull,26546.7588,45.496,12.0146,med,high,short,female,Watson
+Pit Bull,24730.6743,,12.0885,med,high,short,male,Navarro
+Pit Bull,20641.8415,45.2815,12.4398,med,high,short,male,Olson
+Siberian Husky,17757.5853,52.4186,12.5952,high,med,med,male,Perez
+German Shepherd,35231.9512,62.8222,11.2526,med,med,med,female,Turner
+Pug,6780.8738,36.1314,14.9583,med,high,short,female,Baker
+German Shepherd,36155.4377,59.5102,11.211,med,low,long,male,Jason
+German Shepherd,36299.4046,60.019,11.5477,med,med,med,male,Wiley
+German Shepherd,38318.7022,62.1377,11.2823,med,med,med,female,Tran
+German Shepherd,36440.3448,,10.2588,med,med,short,male,Lambert
+Pit Bull,8563.5294,46.0431,11.2978,med,high,short,female,Mclean
+Pug,7212.9763,34.0338,13.4895,low,high,short,female,Jackson
+German Shepherd,36567.791,60.7519,11.1603,med,low,med,female,Davis
+Siberian Husky,17995.8229,,11.7067,med,med,short,male,Pierce
+German Shepherd,39603.1381,62.0609,11.1689,med,med,med,female,Powell
+German Shepherd,37780.4916,61.3697,11.5814,med,high,long,female,Olson
+Pit Bull,28273.8601,45.1267,11.9403,med,high,short,female,Martinez
+Siberian Husky,18944.1275,53.989,11.5132,med,med,med,female,Wilson
+German Shepherd,38219.9442,59.754,10.9152,med,med,med,female,Fernandez
+German Shepherd,36239.6124,62.8056,11.4677,med,high,med,male,Miller
+Siberian Husky,19902.1985,57.5916,11.5673,med,med,med,female,Mays
+German Shepherd,34662.3893,62.8346,10.4862,med,med,med,male,Anderson
+German Shepherd,35240.8179,61.6466,11.673,low,med,med,female,Kim
+Siberian Husky,17106.183,54.5564,11.6874,med,high,med,male,Brooks
+Pit Bull,27614.2426,46.1854,12.2272,med,high,short,male,Jordan
+German Shepherd,35020.2557,61.598,10.8737,med,low,med,female,Fields
+German Shepherd,36255.118,61.2186,10.9747,med,med,med,male,Patterson
+German Shepherd,34254.2519,60.4453,11.3259,med,high,med,male,Donaldson
+Pug,7150.9717,29.9045,13.0178,med,high,short,male,Bond
+German Shepherd,34669.1645,59.9081,11.1115,med,med,long,female,White
+German Shepherd,36691.0403,59.5318,11.0359,med,med,med,female,Tyler
+Pit Bull,22844.9971,46.4653,10.9856,med,high,short,male,King
+Pug,6584.8029,33.9005,14.1505,med,high,short,male,Reese
+Pit Bull,12255.7756,45.9399,11.6922,med,high,med,female,Owen
+German Shepherd,39612.7232,,11.4215,med,med,med,male,Hamilton
+Pug,7455.0953,36.5462,13.0621,med,high,short,male,Dillon
+Siberian Husky,15836.1025,53.2028,11.6557,med,med,med,male,Patterson
+Pit Bull,37167.7019,46.0038,12.4732,med,high,short,male,Ford
+Siberian Husky,19786.4975,53.5451,12.6349,med,med,short,male,Hernandez
+Siberian Husky,18265.5361,55.3636,12.5968,high,low,med,male,Garcia
+Siberian Husky,17623.0878,52.5989,12.4397,med,med,med,male,King
+Pit Bull,21569.0594,46.2027,12.5058,med,high,short,female,Smith
+Siberian Husky,20505.7815,,12.3816,low,med,short,female,Diaz
+Pit Bull,37481.9582,45.0245,11.8701,med,high,short,male,Kennedy
+Siberian Husky,18714.6684,55.4008,12.0132,med,med,med,male,Anderson
+Pit Bull,12246.0601,45.699,11.3654,med,high,short,male,Martin
+Pit Bull,27728.7521,46.1431,11.459,med,high,short,male,Cook
+Pit Bull,23358.4251,47.0893,11.3542,med,high,med,female,Mccarthy
+Pit Bull,22553.4117,46.9813,11.6131,med,high,med,female,Perez
+Pit Bull,35760.4873,45.8451,10.8606,med,med,short,male,Brady
+Siberian Husky,19362.3267,52.2327,12.118,low,med,med,male,Jones
+German Shepherd,36114.1476,62.3131,11.8382,med,med,short,female,Daniels
+German Shepherd,34415.5032,,11.0612,med,med,med,male,Ruiz
+Pit Bull,34756.6814,45.7015,11.4031,med,med,short,male,Dixon
+Pug,7131.1139,,12.5164,med,high,short,female,Davis
+Pit Bull,23269.5492,45.8339,11.6771,low,high,short,male,Franklin
+German Shepherd,37082.6047,65.3957,10.8556,med,med,long,male,Brock
+Pug,7031.6912,29.3324,14.793,med,high,short,male,King
+Pit Bull,30149.4764,45.788,13.0471,med,high,short,male,Webster
+Pug,6597.8318,26.8626,13.3978,med,high,short,male,Serrano
+Siberian Husky,17891.8584,,11.9004,med,med,med,male,Hull
+Pug,5464.7946,34.2258,13.0373,med,high,short,male,Myers
+Pug,6950.2958,26.6008,12.7164,low,high,short,female,Padilla
+Siberian Husky,21348.2061,51.0057,12.4463,med,high,long,female,Carter
+Siberian Husky,18355.696,53.7229,11.8047,med,med,med,female,Scott
+German Shepherd,37715.2418,61.1404,11.5624,low,med,short,male,Brown
+German Shepherd,36894.6551,62.7976,10.7732,med,med,med,male,Medina
+German Shepherd,35989.3544,58.9178,11.2873,med,med,med,male,Rose
+Pug,7420.8252,29.6441,13.8185,low,high,med,female,Smith
+Siberian Husky,16165.7953,,12.7254,med,high,med,male,Norman
+Siberian Husky,21541.5874,52.9586,12.9267,med,med,med,male,Lyons
+Pug,7226.2281,36.4336,12.4869,med,high,short,female,Carpenter
+Pug,7545.199,32.44,14.4375,med,high,short,male,Harris
+Pug,7486.2917,34.9598,13.1447,med,high,short,female,Riley
+Siberian Husky,18343.2331,53.942,12.0506,med,med,med,female,Rivera
+Pug,6649.6459,33.2648,12.4035,low,high,short,female,Fisher
+German Shepherd,37476.0867,57.1247,10.7762,med,med,med,male,Thomas
+Pug,6340.0217,40.0361,13.6957,med,high,short,male,Norris
+Pit Bull,29118.1244,46.2634,12.2293,med,high,short,female,Hendricks
+Siberian Husky,22278.0525,56.496,11.8503,high,med,med,female,Figueroa
+Pit Bull,23147.1595,45.1471,10.9977,med,high,med,male,Lewis
+Pug,6297.251,,13.9169,med,high,short,female,Harrington
+Siberian Husky,16926.255,,12.7533,med,med,med,female,Richard
+Pit Bull,34805.6143,45.274,12.5761,med,high,short,male,Patel
+Pug,7130.9284,32.7611,12.9932,med,med,short,female,Durham
+German Shepherd,36364.2042,60.9276,10.9796,med,med,med,female,Gonzalez
+German Shepherd,36929.1054,61.12,10.9058,med,med,med,female,Alvarez
+Siberian Husky,19037.3804,54.62,12.5651,med,med,med,female,Alexander
+German Shepherd,37050.2226,62.8328,11.4486,med,low,med,female,Glover
+German Shepherd,36873.0467,63.5733,10.8947,med,high,med,female,Burke
+Siberian Husky,20253.3951,52.6658,11.3887,med,low,med,female,Mccarty
+Siberian Husky,19515.8635,,12.6824,high,med,med,male,Anderson
+Pit Bull,34816.8493,46.5772,12.6345,med,med,short,male,Davis
+Pit Bull,28148.8753,46.7669,12.9691,med,high,short,female,Rodriguez
+Pit Bull,19403.9067,46.3469,11.5873,med,high,short,male,Rowland
+Pug,6791.2976,30.1751,13.3321,med,high,short,male,Adams
+Siberian Husky,19965.8277,55.874,11.8306,med,med,med,male,Richards
+Pit Bull,25516.2009,46.3031,13.1591,med,high,short,female,Reid
+Pit Bull,28325.2196,45.6071,12.2065,med,high,short,male,Jackson
+Pug,6488.7311,31.2734,14.0068,med,high,short,female,Nunez
+Pug,6776.067,33.6523,15.5583,med,high,short,male,Webster
+Siberian Husky,20208.292,54.4293,12.0286,low,med,med,male,Martin
+Pug,6354.8499,32.5701,12.2311,med,med,short,female,Rivera
+Pug,7222.9456,36.2832,14.9081,high,high,short,female,Gilbert
+Siberian Husky,18530.7658,54.8687,12.3505,med,med,med,male,Martinez
+Pug,6738.6362,30.1052,13.5334,high,high,short,female,Garcia
+German Shepherd,36624.5673,60.0247,11.1231,med,med,med,male,Burns
+German Shepherd,36904.0188,60.8061,10.71,med,high,short,male,Ritter
+Pit Bull,26741.9177,45.852,11.7283,med,high,short,male,Miller
+German Shepherd,35224.1906,58.5736,10.771,high,med,med,female,Garcia
+Pug,6646.5914,35.4089,14.4261,med,high,short,female,Smith
+German Shepherd,35040.9781,62.0903,11.8295,med,med,med,female,Russell
+German Shepherd,34833.6476,,10.6776,med,med,med,male,Martinez
+Siberian Husky,16893.5859,51.9833,11.9531,low,med,long,female,Hunt
+Siberian Husky,19900.1837,56.6639,13.1216,high,med,med,male,Long
+German Shepherd,36793.5541,,10.4695,med,med,short,male,Garcia
+Pit Bull,17759.8445,46.2556,11.6773,med,high,short,female,Lee
+Pug,6704.655,30.8826,11.1411,med,high,short,female,Andrews
+Siberian Husky,18450.902,,12.2209,med,med,short,female,Finley
+Pit Bull,23019.7134,44.7552,12.2904,med,high,med,male,Hall
+German Shepherd,36381.6096,62.9062,10.7175,med,med,med,male,Sanders
+Pit Bull,17217.5326,46.1892,11.6994,med,med,short,male,Williams
+Pug,5888.4555,,14.2949,med,high,short,male,Rodriguez
+Siberian Husky,19183.0166,55.8211,13.4073,low,med,med,female,Cooper
+Pit Bull,29976.6794,44.8486,12.6172,med,high,short,male,Horton
+Pug,6673.2599,34.6929,15.1292,med,high,short,female,Hall
+Siberian Husky,16737.2386,54.0237,11.7777,med,med,med,male,Johnson
+Pit Bull,25296.8389,46.3857,12.3314,low,high,med,male,Guerrero
+Pit Bull,30160.9025,46.0253,11.3271,med,high,short,male,Miller
+Siberian Husky,18441.9296,54.8893,12.2489,med,low,med,male,Young
+German Shepherd,35545.4066,60.1035,10.5272,med,med,med,female,Shepherd
+German Shepherd,36189.6023,60.706,10.5121,med,med,med,female,Martin
+Siberian Husky,18076.8373,53.9562,12.7175,med,high,long,male,Douglas
+Siberian Husky,19980.7868,53.9682,11.4914,med,med,med,male,Brandi
+German Shepherd,35901.3541,59.8551,11.0678,med,med,med,female,James
+Pug,5941.5215,34.0148,13.5819,med,high,short,male,Martin
+German Shepherd,37285.5564,62.6562,12.0159,med,med,med,male,Prince
+German Shepherd,37613.7001,60.8045,10.9771,med,med,short,female,Green
+Pug,7419.3654,28.1397,12.665,med,high,med,male,Sandoval
+Siberian Husky,23160.8631,53.1062,11.5061,low,high,med,female,Fitzpatrick
+Pit Bull,22582.2743,45.8246,12.4939,med,high,short,female,Henderson
+Pit Bull,22493.7164,,11.9952,med,high,short,female,Johnson
+Siberian Husky,18017.5186,,12.7414,med,med,med,female,Hernandez
+German Shepherd,35774.9809,,10.8845,med,low,med,male,Bryan
+Pit Bull,25355.1332,,12.1118,med,high,short,male,Armstrong
+Pug,6719.801,31.7072,14.2496,med,high,short,female,Cummings
+Pug,6703.3265,29.5843,12.3825,med,high,short,female,Spence
+Pug,6944.3184,,12.0113,med,high,short,female,Evans
+Siberian Husky,16551.2968,53.5845,11.6939,med,med,short,male,Mitchell
+Pug,7401.0647,36.0791,13.4085,low,high,short,female,Gray
+German Shepherd,33954.678,60.2316,11.7971,med,med,med,male,Cox
+Pit Bull,40760.2284,46.744,11.1488,med,high,short,female,Butler
+Pit Bull,32410.8357,46.0625,12.433,med,high,short,female,Brown
+German Shepherd,33521.5374,62.011,10.0038,low,med,long,female,White
+German Shepherd,37950.8529,59.562,10.6878,low,med,med,male,Moyer
+Siberian Husky,14448.7936,52.4226,12.4678,med,med,med,female,Goodwin
+Pit Bull,31350.9112,46.171,11.8897,high,high,short,female,Cruz
+Siberian Husky,18891.827,54.413,12.5104,high,med,med,male,Allen
+Siberian Husky,18419.3589,55.2184,11.8544,med,low,med,male,Jenkins
+German Shepherd,35568.7992,61.2638,12.0835,med,med,med,male,Nguyen
+Pug,6862.2515,32.0256,12.5809,low,high,short,male,Jordan
+Pug,6764.3112,,12.6153,med,high,short,female,Vaughn
+Pit Bull,31632.4585,,11.9803,low,med,short,male,Harris
+Pit Bull,16282.9384,46.3612,11.1625,med,high,short,male,Evans
+Siberian Husky,16871.939,54.3485,12.2755,med,low,med,male,Taylor
+Pug,7370.0089,,12.2718,med,high,short,female,Long
+Pit Bull,27489.0549,45.4933,12.0816,med,high,short,female,Black
+Pit Bull,23211.7197,,11.9298,med,high,short,female,Vargas
+Pug,6887.3526,32.0346,13.4344,med,high,short,female,Stephenson
+Siberian Husky,18995.7785,54.8482,12.5269,med,med,med,male,Martin
+Pug,6567.176,,12.7243,med,high,short,female,Wilkins
+Pug,7546.8821,31.2325,14.9934,med,high,short,female,Harris
+Pug,7252.5163,37.0778,12.2688,med,high,short,female,Jeff
+Siberian Husky,19036.8693,49.8092,11.9363,med,med,med,male,Short
+Siberian Husky,19514.3621,57.1436,13.1667,med,med,med,female,Murphy
+German Shepherd,36186.265,63.1517,10.3202,high,high,med,male,James
+Pug,8036.8684,,11.5071,med,high,short,male,Andrews
+Siberian Husky,19789.9084,53.5317,12.8947,med,med,med,female,Cox
+German Shepherd,36931.145,58.273,10.6555,med,med,med,female,Swanson
+Siberian Husky,17617.3497,57.0267,12.2246,med,med,med,male,Gill
+Siberian Husky,18112.7138,53.0223,12.4177,med,med,med,female,Nichols
+Siberian Husky,20382.6272,55.0022,11.8474,high,med,med,female,Simmons
+German Shepherd,36288.2066,64.7133,10.9704,med,med,med,male,Hoover
+Pug,6898.6268,31.7853,13.5453,med,med,short,female,Hensley
+Siberian Husky,15738.4331,58.2345,11.8802,med,med,long,male,Cross
+Siberian Husky,15590.3378,,12.8555,med,low,med,female,Stephens
+Pit Bull,35558.7231,,10.8176,med,high,short,male,Mata
+German Shepherd,36070.4503,59.2478,10.9624,med,med,med,male,Lindsey
+Pug,7730.5112,35.7157,13.8531,med,high,short,female,Cunningham
+Pit Bull,21869.4712,46.3751,12.6065,med,high,short,female,Blake
+Pug,6923.0289,,11.4838,med,high,short,female,White
+German Shepherd,35529.0732,59.9106,10.7761,med,med,med,female,Hall
+Pug,7751.2691,35.4073,13.1702,med,high,short,male,Hernandez
+Siberian Husky,18098.5008,,12.146,low,med,med,female,Smith
+German Shepherd,36515.0085,,11.2254,high,med,short,male,Harrell
+German Shepherd,36120.2218,,11.0056,med,high,med,female,Williams
+German Shepherd,38451.8333,61.7038,11.7696,med,high,med,male,Carter
+Pit Bull,29521.1053,44.5148,12.0032,med,high,short,female,West
+Siberian Husky,21362.41,54.9953,11.2896,med,med,med,female,Sanchez
+German Shepherd,35893.5507,60.4467,10.7955,low,med,med,female,Cox
+Pug,6678.625,23.9561,14.324,low,med,short,male,Rivera
+Pug,7318.8208,,13.6758,med,high,short,female,Tyler
+Siberian Husky,21959.0597,53.3185,12.4821,med,med,long,male,Smith
+Siberian Husky,19282.9886,49.978,12.049,med,med,long,male,Gonzales
+Pug,7409.9815,31.6365,12.5584,med,high,short,male,Harmon
+Pug,6754.9964,30.5116,13.0927,med,high,short,female,Adams
+German Shepherd,35178.7408,63.0249,11.6975,med,high,med,female,Vaughn
+Pit Bull,19089.6918,47.4291,12.7906,med,high,short,female,Watson
+Siberian Husky,17933.6467,57.814,12.6938,med,med,med,male,Smith
+Pug,7892.9343,39.2993,14.3335,low,high,short,female,King
+Pug,7702.4007,33.6712,13.6665,med,high,short,male,Harris
+Pit Bull,27037.0372,47.0612,11.1803,med,high,short,female,Mitchell
+Pit Bull,22002.2957,45.6551,12.9024,med,high,short,male,Powers
+Pug,7036.729,33.3319,14.5899,med,high,short,female,Martinez
+German Shepherd,37510.0002,61.2762,10.4275,med,med,med,male,King
+German Shepherd,39365.9681,59.8042,10.4626,med,med,med,female,Trujillo
+German Shepherd,35755.2574,60.4676,11.8127,med,high,med,female,Curry
+German Shepherd,38413.9566,62.0331,10.4397,med,high,med,male,Thomas
+German Shepherd,39485.6743,59.8307,10.6604,med,med,short,male,Cooper
+Siberian Husky,17996.5666,54.1777,11.6767,med,med,long,male,Stewart
+Siberian Husky,17876.8255,53.9922,11.8288,high,med,med,female,Bailey
+German Shepherd,35623.6701,58.4202,11.0043,low,med,med,male,Wade
+Pit Bull,27089.6563,,11.2975,med,high,short,male,Moore
+Pug,7532.9306,39.5172,14.0819,med,med,short,male,Brown
+Siberian Husky,18417.2988,,12.416,med,low,long,female,Bishop
+Pug,7306.0954,28.6151,14.8751,med,med,short,female,Reid
+Pug,7430.7918,28.7776,12.6719,med,high,short,male,Andrade
+German Shepherd,35813.0942,59.2836,10.8852,med,med,med,male,Torres
+Siberian Husky,19454.3258,50.2164,11.2156,med,med,med,male,William
+German Shepherd,39313.579,,10.9627,med,high,med,male,Kelly
+Pit Bull,33105.7019,45.8428,11.9546,med,high,short,male,Clements
+German Shepherd,35724.4625,61.6907,10.8886,high,med,med,female,Haas
+German Shepherd,37680.7225,63.0834,10.4012,med,med,med,female,Burns
+Siberian Husky,18998.7261,53.8602,11.7905,med,med,med,male,Johnston
+Siberian Husky,18879.3173,54.848,12.3413,med,med,med,female,Dickerson
+Siberian Husky,18637.7869,54.4112,11.4873,med,med,med,male,Robinson
+Pug,6664.8372,27.4799,12.8411,low,high,short,female,Jimenez
+German Shepherd,39153.3086,58.4207,11.4588,high,med,med,female,Salazar
+German Shepherd,37544.6188,60.1379,11.0629,med,med,med,male,Martin
+Pug,8071.8633,,11.9314,med,med,short,female,Hamilton
+German Shepherd,41715.5049,60.4664,11.4024,med,med,med,male,Melendez
+Pug,7847.458,30.7997,13.9335,med,high,short,male,Parsons
+Pug,7256.158,30.9987,15.0916,high,high,short,male,Hudson
+Pit Bull,17047.1272,,11.6892,med,high,short,male,Griffin
+Siberian Husky,19534.1221,51.0644,12.4049,low,med,long,male,Davis
+Siberian Husky,20762.224,56.5713,11.9222,med,med,med,female,Jones
+Pug,6821.3561,33.4235,12.5088,med,high,short,male,Ayala
+German Shepherd,38357.008,60.4409,10.369,med,med,med,male,Navarro
+German Shepherd,36439.0101,,10.8876,med,med,short,female,Ramirez
+German Shepherd,39675.0283,57.1031,11.1112,low,med,med,female,Boyd
+German Shepherd,34269.7359,59.7131,10.6226,med,med,med,male,Harper
+Pit Bull,17778.1445,46.5941,12.0539,med,med,short,male,Hayden
+German Shepherd,35947.7835,62.9465,10.2811,med,high,med,female,Mcconnell
+Siberian Husky,20623.9027,54.6387,12.2606,med,med,long,female,Joyce
+Pit Bull,25928.4241,46.7465,11.7498,med,high,short,male,Nathan
+Pug,8697.6428,32.3324,14.4851,med,high,short,female,Sanchez
+Pit Bull,15980.2054,46.1006,11.9643,med,high,short,male,Mcgrath
+Siberian Husky,17169.4064,53.9219,11.5303,med,low,med,male,Stark
+German Shepherd,34998.2553,,10.4398,med,med,long,female,Myers
+German Shepherd,37658.7565,61.3526,11.0406,med,med,med,male,Braun
+Pug,6373.728,31.7844,14.1337,med,high,short,female,Ward
+German Shepherd,36791.5718,59.0849,10.1783,med,med,long,male,Wise
+Siberian Husky,18520.3949,54.7173,11.9593,med,med,med,male,Gonzalez
+Pit Bull,36341.8333,45.7439,11.3041,med,high,short,female,Price
+Pug,7052.3085,35.6821,13.69,med,high,short,female,Benjamin
+Pit Bull,18321.9736,47.1275,12.4725,low,high,short,female,Santos
+Pug,7224.9711,28.7101,14.0927,med,high,short,male,Wilson
+German Shepherd,36189.3185,63.6336,11.586,med,med,med,female,Thompson
+Pug,7046.7125,27.982,12.3696,med,high,short,male,Young
+German Shepherd,35815.0352,57.8095,11.0946,low,med,med,female,Rich
+Pug,6608.2,34.487,14.0801,low,high,med,male,Vazquez
+Pit Bull,27590.8007,,13.2509,med,high,short,male,Mills
+Siberian Husky,23120.6602,53.2989,10.9281,med,med,long,male,Barton
+German Shepherd,36638.4988,,11.024,med,med,med,female,Martinez
+Siberian Husky,18285.2919,55.9378,12.2547,med,high,med,male,Bird
+Pug,7910.7403,38.0941,14.7856,low,high,med,male,Harding
+Pit Bull,18580.7785,46.3759,12.2443,med,high,short,female,Young
+German Shepherd,37959.0303,60.3175,10.4906,med,med,med,male,Duffy
+German Shepherd,38491.0484,,10.2594,med,med,med,female,Thompson
+Pit Bull,20625.0439,46.2885,12.0245,med,high,short,male,Young
+Siberian Husky,21025.8835,,10.992,med,med,med,female,Stevens
+Pit Bull,41060.3902,,11.7286,low,high,short,male,Scott
+Siberian Husky,24796.6402,,11.775,med,med,long,female,Lewis
+German Shepherd,37130.955,59.2852,11.2424,low,high,med,male,Moody
+Pit Bull,40645.3429,46.005,11.3724,med,high,short,female,Lewis
+Pit Bull,25320.5706,45.8878,12.4636,med,high,short,male,Ross
+Siberian Husky,19429.7965,55.0341,11.3554,med,med,med,male,Brown
+Pug,6806.0442,33.8601,12.6571,med,med,med,male,Jacobson
+Pug,6713.9181,35.7161,12.2498,med,high,short,female,Turner
+Pug,6170.9619,39.7786,12.5832,low,high,short,male,Thomas
+German Shepherd,36427.6909,63.4898,10.8498,med,med,med,female,Bush
+German Shepherd,36220.2619,60.108,10.9911,med,med,med,male,Adams
+German Shepherd,37275.2352,56.9751,11.4935,med,med,med,female,Mcdonald
+Pug,7025.5402,28.0,14.3781,med,high,short,male,Guerra
+Siberian Husky,21714.3079,55.9418,11.6489,med,med,long,female,Davidson
+Pit Bull,28513.8711,46.6782,12.5187,med,high,short,female,Williams
+Pug,7267.7569,31.4038,13.0703,med,high,short,female,Torres
+Pug,7254.1767,33.7896,11.8907,med,high,med,male,Booth
+German Shepherd,36598.5309,62.6517,11.7908,med,med,med,male,Ford
+Siberian Husky,19678.9373,57.7497,11.8821,high,med,med,male,Bonilla
+Pug,6565.1748,,14.327,med,high,short,female,Cook
+German Shepherd,37508.3158,61.4981,11.3988,med,med,med,male,Harrison
+Pit Bull,31078.2776,45.5486,12.2477,low,high,short,female,Ruiz
+Siberian Husky,21715.3334,55.7768,12.2971,med,med,long,male,Smith
+Pug,6956.3202,,14.4669,med,high,short,male,Chapman
+Pug,7215.2982,34.0512,14.0287,med,high,short,male,Gordon
+German Shepherd,34772.5834,64.4269,10.8335,med,med,med,male,Mcdaniel
+German Shepherd,39129.6082,61.7887,11.5056,med,med,med,male,Smith
+Pit Bull,21748.0274,46.3837,13.2287,med,high,short,male,Obrien
+Siberian Husky,20580.624,54.2317,10.753,low,med,long,female,Benton
+German Shepherd,37479.6617,62.2054,10.3316,med,med,short,male,Reid
+Pit Bull,28957.0101,46.4346,11.9728,high,med,short,male,Garcia
+Pit Bull,27166.0647,44.8011,12.1149,med,high,short,male,Smith
+Siberian Husky,16531.2466,56.0461,11.7166,med,med,med,female,Peterson
+Siberian Husky,20012.7282,,12.9214,med,low,med,female,Chen
+Pit Bull,19292.4025,45.7696,12.1274,med,high,short,female,Robinson
+Pug,6106.45,28.7588,13.2288,med,high,short,male,Scott
+Pug,7995.1691,,14.0032,med,high,short,female,Reese
+Pug,6355.4486,35.48,14.623,med,high,med,male,Rivera
+Siberian Husky,20563.1746,,11.8447,med,med,med,male,Roberts
+Pit Bull,25312.6482,46.4486,11.977,med,high,short,female,Foster
+German Shepherd,35997.7817,59.1012,11.6465,high,med,med,female,Lynn
+Pug,7843.955,32.6298,14.2309,med,high,short,female,Alvarez
+German Shepherd,36929.5417,61.5877,11.4108,med,med,med,female,Parks
+Siberian Husky,21476.2355,53.6269,12.3676,med,low,med,male,Murray
+Siberian Husky,16392.5913,,12.4747,med,med,long,female,Hall
+Siberian Husky,18125.9807,54.3308,11.9724,med,low,med,male,Harris
+Siberian Husky,15996.6003,54.1919,11.79,med,low,med,female,Joyce
+Pug,6769.4375,,13.2152,med,high,short,male,Cox
+German Shepherd,36904.2187,58.4724,10.1667,med,med,med,male,Murphy
+German Shepherd,36147.6572,62.4647,10.6925,med,med,long,female,Bruce
+Siberian Husky,21035.5919,53.1307,11.8947,low,med,long,male,Wood
+Siberian Husky,19859.1293,53.7488,11.0405,med,med,med,female,Brady
+German Shepherd,35124.2647,60.8515,9.9864,low,high,med,female,Weaver
+Siberian Husky,15791.2283,,12.8967,med,med,long,female,Thomas
+Siberian Husky,17558.7837,56.2806,12.8388,high,med,med,female,White
+Pug,7388.0243,32.3605,13.3292,med,high,med,female,Jensen
+Pit Bull,24050.4603,45.706,11.7069,med,high,short,female,Yang
+German Shepherd,35528.2643,59.6064,10.4163,med,med,med,female,James
+Pug,7925.8616,39.3829,11.9149,med,high,short,male,Schneider
+German Shepherd,37426.8359,,11.1125,med,med,med,male,Jensen
+Pug,8075.0083,28.239,13.1501,med,high,short,male,Sanders
+Pit Bull,21885.4517,46.6286,11.305,med,high,short,male,Long
+Pug,6548.8849,32.1293,15.075,med,med,short,male,Rivera
+Siberian Husky,18862.6463,57.673,12.4,high,med,med,male,Brown
+Siberian Husky,18671.1801,55.0188,11.8399,med,med,short,male,Coleman
+Pit Bull,25255.4639,,12.0097,med,high,short,male,Nguyen
+Pit Bull,19720.8864,46.9517,12.1532,med,high,short,female,Hernandez
+Pug,6540.7182,,13.4456,med,high,short,female,Collins
+Siberian Husky,17262.5186,56.2616,11.3592,med,med,med,female,Dixon
+German Shepherd,34876.2377,61.3154,11.2741,med,high,med,male,Haynes
+German Shepherd,34305.8053,63.7338,11.0472,high,med,med,male,Finley
+Pit Bull,28808.1696,45.9461,10.5595,med,high,short,male,Calderon
+Pit Bull,27608.0212,,10.5677,med,high,short,female,Martinez
+Siberian Husky,17809.8252,55.4458,12.83,med,med,med,female,Davila
+Siberian Husky,20884.225,51.0058,12.2325,med,med,med,male,Mendoza
+Pug,7007.9568,30.1135,13.428,med,high,short,female,Carlson
+Siberian Husky,20349.2851,54.9167,12.4624,med,med,long,female,Beltran
+Siberian Husky,19839.379,,12.8743,high,med,med,male,Riley
+Pug,7033.7986,40.3318,12.7635,low,high,short,male,Thomas
+Pug,7042.4603,35.7997,14.2114,high,high,short,female,Rodriguez
+Siberian Husky,21105.2593,53.2085,12.2125,med,med,med,male,Erickson
+German Shepherd,34731.461,60.8731,10.5337,med,med,med,female,Thomas
+German Shepherd,36682.7204,63.5641,10.3862,med,high,med,female,Phillips
+Siberian Husky,18531.4955,58.1302,11.867,med,med,long,female,White
+Siberian Husky,21264.2093,,12.98,med,med,med,female,Jackson
+Pug,7676.2421,29.1449,13.8166,med,high,short,female,Ortega
+Siberian Husky,20210.2687,53.7007,13.0386,med,med,med,female,Noble
+German Shepherd,38780.3208,61.7545,10.0715,high,med,long,male,Rose
+Siberian Husky,20922.9639,,11.9097,med,med,med,male,Dudley
+Siberian Husky,18800.1753,56.6678,11.8996,med,med,med,female,Horton
+Pug,7989.4504,33.0896,14.0887,high,high,short,male,Garza
+German Shepherd,36829.5397,,10.5267,med,med,med,male,Benjamin
+German Shepherd,37307.1099,,11.9493,med,med,med,male,Henry
+Siberian Husky,20151.2601,52.3843,11.2572,med,high,med,male,Mcbride
+Siberian Husky,15189.3753,,12.4208,med,med,med,male,Mccormick
+Siberian Husky,20269.7783,55.0494,13.1832,med,med,med,male,Nunez
+Siberian Husky,16768.7039,50.232,11.2244,high,med,med,female,West
+Pug,7304.7287,31.7393,13.0492,med,high,short,male,Nelson
+Siberian Husky,17173.299,60.6629,11.1528,med,med,med,female,Hines
+Siberian Husky,20238.5932,57.2729,11.8891,med,med,med,female,Franklin
+Pug,6862.2071,28.1735,12.1346,med,high,short,female,Perry
+Siberian Husky,17798.9882,,11.8624,med,med,short,male,Glenn
+Siberian Husky,22759.5021,51.9013,11.2282,med,med,med,female,Chang
+German Shepherd,35490.4548,64.8369,11.5112,med,med,med,female,Walker
+Pit Bull,15638.6388,44.9195,11.7913,high,high,short,female,Goodwin
+Pit Bull,14289.7935,,12.8793,high,high,short,female,Riley
+German Shepherd,38324.0736,,11.3673,high,med,med,female,Wiggins
+Siberian Husky,19948.823,54.399,11.4832,med,med,med,female,Allen
+Siberian Husky,18378.4542,56.7931,12.8355,high,low,med,female,Wallace
+Siberian Husky,17806.197,53.6142,12.5623,med,med,med,male,Graham
+Siberian Husky,18742.4651,,12.5514,med,med,med,male,Kane
+Siberian Husky,19149.6496,55.1226,13.1256,med,med,short,female,Jones
+Siberian Husky,20971.5623,54.259,12.582,med,med,med,male,Stanley
+German Shepherd,37467.7245,,10.9154,med,high,med,female,Browning
+German Shepherd,35405.7001,,11.2341,med,low,short,female,Olsen
+Pug,5819.4235,27.382,12.6342,med,high,short,male,Mcintosh
+German Shepherd,40602.9489,62.0357,10.8087,med,med,med,male,Olson
+Pit Bull,15826.6471,46.7373,12.088,high,high,short,female,Moore
+Pit Bull,28315.8717,,11.8873,med,med,short,male,Hawkins
+Pit Bull,26101.4005,45.7666,11.9362,med,high,short,male,Horton
+German Shepherd,34418.3744,59.9663,10.6812,high,high,med,female,Velez
+Siberian Husky,16857.1246,59.3435,11.2223,med,med,med,female,Green
+German Shepherd,36661.3791,60.9231,11.0588,low,med,short,male,Jarvis
+Pit Bull,37883.0408,45.9758,12.4325,med,high,short,male,Taylor
+Siberian Husky,19028.9871,54.3928,12.3486,med,med,med,female,Fisher
+Pit Bull,30067.5009,47.1246,12.2146,med,high,short,male,Scott
+German Shepherd,34949.8426,,11.5347,med,med,med,male,Harrison
+Pit Bull,31673.7793,46.0722,11.0844,med,high,short,female,Bird
+Pit Bull,29468.9574,46.8406,11.4819,med,high,short,male,Smith
+Pit Bull,25152.0334,46.8222,12.5028,med,high,short,male,Ellis
+Pug,8000.1482,31.6922,12.9714,med,high,short,male,Payne
+Siberian Husky,17704.9082,57.2908,11.312,med,med,short,male,Barron
+Pit Bull,29692.4493,45.4107,12.0055,med,high,short,female,Todd
+Pug,7943.0213,33.413,13.7629,med,med,short,female,Carr
+Pug,8189.723,35.4008,13.5224,med,high,med,male,Mitchell
+German Shepherd,35302.9342,62.7273,11.1393,med,med,long,male,Mcmillan
+Siberian Husky,19732.3477,52.5309,11.1096,low,med,med,male,Bishop
+Siberian Husky,22017.3662,52.9441,11.5311,high,med,med,female,King
+Siberian Husky,19624.8802,57.141,12.5166,med,med,med,male,Johnson
+Pug,7517.0227,29.055,13.7245,med,high,short,female,Krueger
+Siberian Husky,17866.305,50.4246,12.6159,med,med,med,male,Johnson
+Pit Bull,21181.6228,,11.1927,med,high,short,female,Bell
+German Shepherd,34551.9205,60.7383,9.9494,med,med,med,female,Williams
+Pit Bull,21189.1671,45.9069,11.4653,med,high,short,male,Jones
+Pug,6385.2508,32.8989,13.1131,med,high,short,male,Moss
+Siberian Husky,20354.9564,53.5553,11.9049,med,med,med,female,Silva
+Pit Bull,32400.8211,45.7904,12.6739,low,high,short,male,Miller
+Pit Bull,17811.9645,46.1995,12.1143,med,high,med,female,Ferguson
+Pug,6659.2368,,14.5824,med,high,short,female,Phillips
+German Shepherd,35118.3352,61.2063,11.092,low,med,med,male,Key
+Pit Bull,17277.9713,46.0496,11.6704,med,high,short,male,Acosta
+German Shepherd,35893.1171,58.825,9.8721,med,med,med,female,Guzman
+Siberian Husky,21047.7539,54.897,12.3164,high,med,med,female,Cunningham
+Pit Bull,30668.4848,47.0543,10.568,med,high,short,female,Anderson
+Siberian Husky,17799.0014,54.3427,11.9456,med,med,long,male,Dawson
+Pug,7344.1528,38.4554,13.5778,med,high,short,female,Paul
+Siberian Husky,19212.4688,53.6401,12.651,med,med,med,male,Dyer
+German Shepherd,35557.7577,,10.8271,med,med,med,male,Ortiz
+German Shepherd,36457.324,60.5238,10.7517,med,med,med,female,Frazier
+Pug,8083.0822,,13.2515,low,high,short,female,Carpenter
+German Shepherd,37286.7435,61.424,11.8525,med,med,med,male,Alvarez
+Pit Bull,20451.9852,,12.5135,high,high,short,female,Gutierrez
+Pit Bull,16203.5707,47.2308,11.262,med,high,short,female,Pitts
+German Shepherd,37598.8686,61.1745,10.9216,med,med,med,male,Davis
+Siberian Husky,19313.7134,,11.8645,med,low,med,male,Santana
+German Shepherd,36883.9031,,12.2865,med,med,long,male,Pruitt
+Pit Bull,18721.6954,46.7916,11.9699,med,high,med,male,Johnson
+German Shepherd,35952.0346,62.4039,11.7376,high,low,med,female,Moody
+German Shepherd,34714.153,62.8454,10.3092,med,high,short,female,Bonilla
+Siberian Husky,16816.3401,52.2757,11.2771,med,high,med,male,Mullen
+Pug,6410.1469,37.2427,13.4826,med,med,short,male,Page
+German Shepherd,36556.7079,59.4782,10.4022,med,med,med,female,Zamora
+Siberian Husky,21950.303,55.6441,11.4467,med,med,med,male,Davis
+German Shepherd,37348.6661,61.6567,10.1566,med,med,med,female,Rivera
+Pug,6539.5142,37.3834,14.4173,high,high,short,female,Hensley
+Siberian Husky,19711.3708,,12.7258,med,high,med,male,Mueller
+Siberian Husky,21593.5149,,12.3501,high,med,med,male,Jones

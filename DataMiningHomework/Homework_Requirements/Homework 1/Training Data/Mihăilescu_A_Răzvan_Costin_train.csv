@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Pug,8187.0163,36.0146,14.7455,med,high,short,female,Keith
+Pug,8023.6276,,13.7078,high,high,short,female,Roberts
+English Setter,28666.6756,60.34,11.5377,high,high,med,male,Woodward
+Welsh Corgi,12417.3446,29.3092,10.7352,low,high,med,male,Fisher
+Japanese Chin Dog,3563.7751,23.2915,12.5768,med,high,med,male,Mann
+Pug,7458.6123,33.9544,15.6499,low,high,short,female,Cortez
+English Setter,23520.192,63.4506,11.2703,high,high,long,male,Jenkins
+Welsh Corgi,15087.6635,25.3102,10.1862,low,high,med,male,George
+English Setter,24119.9361,58.7627,11.6183,high,high,long,female,Hunt
+Japanese Chin Dog,3494.2824,,12.7619,med,high,med,male,Campbell
+Welsh Corgi,13171.5068,28.6184,11.6818,med,high,med,male,Vega
+Pug,7006.7215,36.64,13.5867,high,high,short,female,Jackson
+Pug,5687.9592,34.583,14.3225,med,high,short,female,Barnes
+Welsh Corgi,11783.5837,36.3786,11.339,med,high,med,male,Mcclure
+Welsh Corgi,15155.1422,28.2868,10.7796,high,high,med,male,Long
+English Setter,29110.8463,61.5254,10.3717,high,high,med,female,Phillips
+Japanese Chin Dog,3585.4266,23.8393,12.1563,med,high,med,male,Williams
+Welsh Corgi,16034.0724,28.1624,10.735,med,high,med,female,Simmons
+English Setter,36742.5746,62.7623,9.3224,med,high,med,male,Holmes
+Pug,7565.2285,34.6193,13.4619,med,med,med,male,Chavez
+English Setter,24497.2416,60.512,10.2232,high,high,med,male,Hall
+Pug,6569.1001,34.1883,13.7349,med,high,short,male,Reed
+Welsh Corgi,13714.8291,29.8743,11.5724,med,high,long,male,Green
+Pug,8079.3983,,12.8398,med,high,med,male,Hood
+Welsh Corgi,12374.8186,32.0324,10.9265,med,med,med,male,Johnson
+English Setter,31641.9538,63.7951,12.2134,high,high,med,female,Schneider
+Welsh Corgi,11426.1433,28.6242,11.1567,med,high,med,male,Herrera
+Pug,7473.5469,,12.8819,med,high,short,male,Williams
+Japanese Chin Dog,2586.3346,24.0372,12.6786,med,high,med,female,Gonzalez
+Welsh Corgi,15006.4189,30.3269,11.6833,med,high,med,female,Foster
+English Setter,31483.7467,,10.3104,high,high,med,female,Bishop
+Welsh Corgi,15135.9826,26.5627,11.2175,med,high,short,male,Daniel
+English Setter,28597.2808,,12.2007,high,high,med,female,Hall
+English Setter,27358.3262,65.6288,13.0119,high,high,short,male,Hernandez
+English Setter,25165.8446,,10.7412,high,high,short,male,Ingram
+Japanese Chin Dog,2944.1622,,12.8709,med,high,med,male,Thomas
+English Setter,24473.7686,59.859,12.1227,high,high,med,female,Howell
+Japanese Chin Dog,4187.483,22.2471,14.0947,med,high,short,male,Flores
+English Setter,29393.3167,64.1911,10.4768,high,high,med,female,Odom
+English Setter,26004.9818,61.2448,12.6743,high,high,med,female,Walker
+English Setter,30681.8697,60.2825,12.8699,high,high,med,female,Tran
+Welsh Corgi,13707.068,28.6876,11.3101,med,high,med,female,Powell
+Welsh Corgi,15474.0449,28.5345,11.146,low,high,med,female,Miller
+Welsh Corgi,12281.8817,32.7399,11.9703,low,high,med,female,Barton
+Pug,6268.7383,31.1365,13.2473,med,high,short,female,Steele
+Welsh Corgi,15133.8457,26.9924,9.9345,med,high,med,female,Dennis
+Pug,7047.588,,11.3087,med,med,short,male,King
+English Setter,25001.5014,61.8823,12.9193,high,high,med,male,Johnson
+English Setter,26414.5838,60.4316,12.1143,high,high,med,female,Thornton
+Pug,6928.8493,35.7529,11.3935,med,high,short,male,Turner
+English Setter,29740.2746,,9.5431,high,high,med,female,Hughes
+Japanese Chin Dog,3071.7719,22.4303,13.2129,med,high,long,female,Shah
+English Setter,20234.3636,62.3445,13.1636,med,med,long,male,Walker
+Pug,6229.7913,35.8852,12.4936,low,high,med,female,Marsh
+Pug,7453.8179,33.1621,15.6397,low,high,short,male,Benson
+Pug,6487.9529,30.8516,13.8142,med,high,short,female,Cuevas
+Japanese Chin Dog,5294.6029,23.554,12.2644,med,high,med,male,Morse
+Japanese Chin Dog,4556.2823,,13.5098,med,high,med,male,Holland
+Japanese Chin Dog,3859.3973,23.6877,13.3842,med,high,med,male,Michael
+Japanese Chin Dog,2323.4318,24.8887,12.6678,med,med,med,male,Hughes
+Japanese Chin Dog,2189.9243,22.5633,12.5572,med,high,med,male,Christian
+Welsh Corgi,12425.6281,25.6409,11.5952,high,high,med,male,Gonzalez
+Welsh Corgi,10037.8425,25.3875,10.9982,high,high,med,female,Cochran
+English Setter,27820.0997,,11.7301,med,high,med,female,Hogan
+Pug,6417.8082,35.7193,13.8462,low,high,short,male,Wright
+Welsh Corgi,15637.1649,29.4905,10.4685,med,high,med,male,Moreno
+Pug,7046.04,31.8575,14.2635,med,med,short,male,Stanton
+Pug,6592.0544,38.1378,12.7062,med,med,short,male,Le
+Welsh Corgi,16566.2572,27.4752,10.7529,med,high,med,male,Rodriguez
+Japanese Chin Dog,4781.2274,23.8593,12.3902,low,high,med,female,Delgado
+Pug,6527.1728,36.4116,12.5764,med,high,short,male,Young
+English Setter,28476.8446,61.5209,11.682,high,high,med,male,Moore
+English Setter,39564.1071,63.9793,10.3003,high,high,long,male,Mcdonald
+Pug,5180.9946,36.5767,12.2283,med,high,short,male,Clayton
+Japanese Chin Dog,4287.3634,23.5416,13.6532,high,high,med,male,Phillips
+Pug,7289.3196,34.4631,13.0028,med,med,short,male,Wolfe
+Japanese Chin Dog,4938.8805,25.9788,12.8524,med,high,long,male,Riddle
+Japanese Chin Dog,2666.5234,23.2428,12.6438,high,high,long,male,Lynn
+Pug,6185.3376,36.8859,12.9933,med,med,short,male,Cunningham
+Welsh Corgi,15484.6677,31.1727,11.2968,med,high,med,female,Burch
+English Setter,33537.1086,58.6569,11.545,high,high,med,male,Burnett
+Pug,7035.0407,,14.3479,high,med,short,female,Hughes
+English Setter,30440.3018,55.8903,12.1302,high,high,med,female,Rogers
+Welsh Corgi,18259.5415,27.2615,10.9679,med,high,med,male,Morris
+Japanese Chin Dog,4760.7339,23.083,13.6881,low,high,med,female,Ho
+Japanese Chin Dog,2081.3758,,13.0214,med,high,long,female,White
+Welsh Corgi,14646.3964,,10.5385,med,med,med,male,Rollins
+English Setter,26580.941,60.9368,11.8717,high,high,med,male,Freeman
+Japanese Chin Dog,3973.8723,23.2941,12.7551,low,high,med,male,Davis
+Pug,6580.9747,37.4856,13.6234,med,high,short,female,Chandler
+English Setter,29799.4997,,13.0746,high,high,short,male,White
+Pug,6778.6651,38.4506,13.3631,med,high,short,female,Baker
+Pug,6672.8875,28.5769,14.4609,med,high,short,male,Garcia
+Welsh Corgi,13574.2617,30.1123,10.9399,med,high,med,female,Stone
+Pug,7014.3504,36.3302,14.51,med,med,short,female,Carter
+Japanese Chin Dog,4885.7354,24.0166,12.9503,med,med,med,female,Joseph
+Welsh Corgi,13962.5323,,11.1897,med,high,med,male,Kaiser
+Japanese Chin Dog,3933.8814,23.6256,14.0102,med,high,med,female,Castaneda
+English Setter,34863.8889,61.1612,10.9709,high,high,med,male,Clark
+Welsh Corgi,16232.2177,31.7907,10.6117,high,med,med,female,Williams
+Pug,7582.5075,,14.8021,med,high,short,male,Chavez
+English Setter,32617.4439,62.7481,12.8612,high,high,long,male,Perkins
+Japanese Chin Dog,4233.0772,23.7726,12.5211,med,high,med,male,Reyes
+Pug,7427.091,30.3631,13.6662,med,high,short,female,Morse
+Pug,6985.5002,32.2404,12.558,med,med,short,male,Ward
+Welsh Corgi,13121.3231,29.2896,10.3106,med,high,med,male,Adams
+Welsh Corgi,13683.6882,,9.9307,med,high,med,female,Susan
+English Setter,26939.5477,62.5433,10.3046,high,high,med,female,Davis
+English Setter,29193.9683,,10.5849,high,high,short,female,Neal
+English Setter,34759.6601,61.1434,14.8791,high,high,short,male,Lee
+English Setter,27085.5065,59.6606,13.2628,high,high,med,male,Medina
+English Setter,29435.6443,62.3968,13.3986,high,high,short,female,Daniels
+English Setter,32355.2286,61.923,10.1973,high,high,med,female,Wilson
+Japanese Chin Dog,4689.5872,23.9799,12.3631,med,med,med,male,Vargas
+Welsh Corgi,10549.4817,,10.7791,low,high,long,male,Stewart
+Japanese Chin Dog,3824.2804,24.1512,12.809,low,high,long,male,Campbell
+Welsh Corgi,12467.1086,29.1097,11.8477,med,high,med,male,Dickerson
+Welsh Corgi,11809.4434,31.575,11.6604,med,high,med,female,Hutchinson
+English Setter,30421.2855,61.026,10.8229,high,high,med,male,Hanson
+Japanese Chin Dog,3275.7774,,12.2098,med,high,med,female,Wilcox
+Pug,7894.7936,,14.3461,med,high,med,male,Chandler
+Pug,6735.0097,,13.2372,med,med,short,male,Byrd
+Welsh Corgi,15025.4097,30.7228,10.6253,med,high,short,female,Crawford
+Welsh Corgi,13842.9992,29.773,11.0773,med,high,med,female,Thompson
+English Setter,26452.5949,,11.5493,high,high,short,male,Gilbert
+Japanese Chin Dog,2244.905,23.2664,12.2497,med,med,med,male,Kim
+Welsh Corgi,13441.965,28.2357,9.6424,high,high,med,female,Hernandez
+Welsh Corgi,13023.7712,30.0595,10.8675,med,med,long,female,Patel
+Pug,6742.3956,36.3945,14.4933,med,high,short,female,Cox
+Welsh Corgi,10983.1798,,11.0192,low,high,med,male,Johnson
+English Setter,37614.9449,59.2174,14.0902,high,high,med,male,Petersen
+Japanese Chin Dog,3478.2481,,13.1689,med,high,med,male,Garcia
+Japanese Chin Dog,3632.559,24.9267,12.4204,med,high,med,male,Watts
+Pug,7856.871,28.4902,13.5729,low,high,short,female,Wheeler
+Welsh Corgi,14835.5323,31.9567,10.4128,med,high,med,female,Frederick
+English Setter,30270.8667,58.6182,12.2159,high,med,med,male,Welch
+Pug,6371.3352,31.6155,11.0453,high,high,short,male,Walker
+Japanese Chin Dog,4914.1474,24.3695,12.4341,med,high,med,male,Nelson
+Pug,7134.2247,33.4822,12.876,med,high,short,male,Michael
+Welsh Corgi,15679.0833,,10.0367,med,high,short,female,Gonzalez
+Welsh Corgi,16346.0032,,12.0052,med,med,long,female,Suarez
+Welsh Corgi,12474.6124,31.2697,12.0516,med,high,med,female,Parker
+English Setter,28549.1596,61.5764,14.7567,high,high,long,female,Johnson
+Japanese Chin Dog,4112.1457,23.5281,12.0506,med,high,med,male,Anderson
+Japanese Chin Dog,3080.6147,23.735,12.0424,low,high,med,male,Garcia
+Welsh Corgi,13036.3705,32.1664,11.2935,med,high,short,male,Moore
+Welsh Corgi,14938.0367,29.9112,11.7831,med,high,med,female,Gonzalez
+Pug,6181.6866,,12.7145,med,high,med,male,Davis
+Pug,6275.5938,31.7361,13.2244,high,high,short,female,Daniels
+Welsh Corgi,13547.7663,,11.5916,med,med,med,male,Young
+Japanese Chin Dog,4069.1573,23.4496,12.5339,low,high,long,female,Brown
+English Setter,29142.4142,61.1078,11.3446,med,high,med,male,Ryan
+Japanese Chin Dog,4005.6156,22.6189,12.7503,high,high,short,male,Phelps
+Welsh Corgi,12249.3001,,11.9865,high,med,med,male,Diaz
+Japanese Chin Dog,2904.3535,,13.0844,med,high,med,male,Andrade
+Welsh Corgi,13468.6393,,10.3738,low,high,med,male,Bates
+Japanese Chin Dog,4303.6837,23.2109,12.9861,med,high,med,male,Flores
+Pug,6728.1915,30.0749,13.8187,high,high,short,male,Torres
+English Setter,36537.3122,61.9884,13.6771,high,high,short,female,Gonzalez
+Welsh Corgi,14635.5427,28.2656,12.0559,low,high,med,male,Hoffman
+English Setter,30851.1639,59.3383,11.4171,high,high,med,male,Campbell
+Japanese Chin Dog,3064.2359,23.0085,12.6116,med,high,med,female,Pierce
+Japanese Chin Dog,4412.7091,,13.2766,med,med,med,male,Roberts
+Welsh Corgi,12775.5796,30.2113,11.2409,med,high,short,female,Li
+English Setter,27412.8316,59.647,10.4168,high,high,med,female,Taylor
+English Setter,27209.1571,,10.356,high,high,med,male,Frank
+Welsh Corgi,11244.4162,30.5968,10.6919,med,high,med,male,Carter
+English Setter,27971.8086,61.82,11.9303,high,high,short,male,Garcia
+Japanese Chin Dog,2525.7866,21.8259,12.5943,med,high,med,male,Morris
+Welsh Corgi,16519.389,31.5412,12.6575,med,high,short,female,Hancock
+Japanese Chin Dog,2000.4131,23.5642,12.6884,med,high,med,male,Barry
+Japanese Chin Dog,2588.9719,23.2352,13.1744,med,high,med,female,Mcguire
+Pug,7255.4521,32.8494,12.2227,med,high,short,female,Ray
+English Setter,26151.3765,61.6637,13.3684,high,high,short,male,Curtis
+Japanese Chin Dog,3728.6385,23.1826,13.7866,med,high,med,female,Lopez
+English Setter,31316.7061,,11.015,high,high,med,male,Jackson
+English Setter,31143.346,65.0122,12.5465,high,high,med,female,Larson
+English Setter,23544.7029,59.0609,12.3343,high,high,short,female,Acosta
+Japanese Chin Dog,3509.2572,23.7889,14.5041,med,high,long,female,Johnson
+English Setter,36617.2642,61.9478,13.564,high,high,med,male,Rice
+Pug,7842.5061,28.2171,13.3316,med,high,short,male,Johnson
+Welsh Corgi,11503.0981,25.2722,10.441,high,high,med,female,Armstrong
+Welsh Corgi,13916.0731,26.9377,12.3678,med,high,med,female,Rodriguez
+Pug,6397.4943,37.1204,13.4719,high,high,short,female,Andersen
+Welsh Corgi,15750.6799,25.6849,11.5335,med,high,med,male,Soto
+Welsh Corgi,16539.7107,28.2124,11.6471,med,high,med,female,Bush
+English Setter,31068.8041,61.2197,11.6409,high,high,med,female,Davis
+Welsh Corgi,15408.6149,28.5639,10.6328,med,med,short,male,Brown
+Welsh Corgi,13823.4363,28.8378,9.2553,med,high,med,female,Harper
+Japanese Chin Dog,5134.4874,24.1376,13.1793,med,high,med,male,Snow
+English Setter,25618.7774,,13.0419,high,high,med,male,Richard
+Welsh Corgi,12627.4254,30.2441,10.4073,med,high,med,female,Lewis
+English Setter,21743.5345,,12.4333,high,high,med,female,Strong
+Welsh Corgi,12572.2246,25.6176,11.6825,med,high,med,male,Butler
+English Setter,22233.3507,64.4113,12.7327,high,high,med,female,Miller
+English Setter,31195.0945,,10.6253,high,high,short,male,Moreno
+English Setter,24399.4989,61.1865,13.1718,high,high,long,male,James
+Pug,7237.1525,33.6879,13.4777,med,high,short,male,Davidson
+English Setter,31461.1863,,12.0524,high,high,med,female,Robinson
+Welsh Corgi,13039.4632,30.8067,10.5588,med,high,med,male,Molina
+Pug,7014.7843,37.1229,13.5743,low,high,short,male,Brown
+Welsh Corgi,13785.0751,,11.4072,med,med,med,female,Hayes
+Japanese Chin Dog,3001.0808,23.7131,13.1425,med,high,med,female,James
+Pug,7225.6661,33.7162,15.3733,med,high,short,female,Peterson
+Pug,7841.2111,33.5769,13.1663,med,high,short,male,Rhodes
+English Setter,20799.8039,61.1129,12.8654,high,high,short,female,Fowler
+English Setter,22307.296,,11.6405,high,high,med,female,Moreno
+Pug,7738.9597,32.9412,13.4744,med,high,short,female,Harding
+Japanese Chin Dog,4115.2771,22.7741,12.0312,med,med,long,male,Robinson
+Pug,8271.3365,29.1926,13.5176,med,med,med,female,Brown
+Pug,6917.1933,33.8475,13.2942,med,high,short,female,Allison
+Japanese Chin Dog,3557.55,23.5153,13.0592,med,high,med,male,Parker
+Japanese Chin Dog,4216.8362,,13.2716,med,high,med,female,Kennedy
+Pug,7731.0983,35.4118,15.6584,med,med,short,female,Henry
+Welsh Corgi,17540.3043,31.6602,10.6869,med,high,long,male,Smith
+Pug,7846.4947,28.3639,13.2354,med,high,short,male,Carey
+English Setter,29617.6237,61.9525,14.5396,high,high,med,female,Bishop
+Welsh Corgi,13820.6178,33.8066,11.0059,high,high,med,male,Gilbert
+Welsh Corgi,15576.0473,26.3271,11.0069,low,high,med,male,Young
+Welsh Corgi,15422.8613,32.7677,10.7086,high,high,med,female,Payne
+Pug,6922.105,31.4606,13.8865,med,high,short,male,Hutchinson
+Japanese Chin Dog,3036.0392,22.354,13.2781,med,high,med,male,Colon
+Japanese Chin Dog,1828.5868,23.2435,13.1578,low,med,med,male,Schmidt
+Pug,6766.417,,12.0321,med,high,short,male,Smith
+Welsh Corgi,14024.9394,,10.9951,med,high,med,female,Winters
+Pug,7374.6486,36.162,13.6313,med,high,short,male,Taylor
+Welsh Corgi,13734.7069,29.5997,10.9945,med,high,med,male,Bryant
+English Setter,28357.0108,61.9796,14.8385,high,high,med,female,Lee
+Pug,7737.5727,34.0333,13.0764,med,high,short,male,Morris
+Japanese Chin Dog,3062.0828,23.2813,13.8263,med,med,short,female,Baird
+Japanese Chin Dog,3179.3629,23.3169,12.54,low,high,med,female,Malone
+English Setter,26290.0857,63.7441,11.0512,high,high,med,male,Franklin
+English Setter,26600.0673,62.4214,13.5002,high,high,long,female,Edwards
+Japanese Chin Dog,4946.2665,,12.098,med,med,long,female,Ferrell
+English Setter,27632.0599,,12.0046,high,high,med,female,Hoover
+English Setter,24537.8279,61.0974,13.7989,high,high,med,male,Davis
+English Setter,37466.0684,60.7374,13.0127,high,high,short,male,Sanford
+Welsh Corgi,12813.84,27.956,12.0364,med,high,med,male,Martinez
+English Setter,30110.071,61.7261,9.5214,high,high,med,female,Ortiz
+English Setter,26790.3038,64.8614,12.8968,high,high,med,male,Delgado
+Japanese Chin Dog,2953.8552,,12.2529,low,med,med,female,Stephens
+Japanese Chin Dog,4161.3339,24.1851,13.1687,med,high,med,male,Gonzalez
+Welsh Corgi,10459.886,,11.0172,low,high,med,female,Lopez
+English Setter,24888.8689,66.3651,13.4459,high,high,med,male,Boyle
+Welsh Corgi,15665.8688,29.1084,10.639,med,high,med,female,Lopez
+English Setter,20706.4904,62.9511,11.1262,high,high,med,female,Fox
+Welsh Corgi,16422.4366,27.0208,11.6891,low,high,long,male,Smith
+Japanese Chin Dog,3106.3033,,13.0954,med,high,med,male,Calderon
+English Setter,28597.7938,65.322,10.3142,high,med,short,male,Osborne
+Pug,7759.5948,35.7534,12.7252,low,high,short,male,Bryant
+Pug,7455.6649,31.8965,15.2214,med,high,short,female,Anderson
+Japanese Chin Dog,3159.0842,,13.8817,med,med,med,female,White
+English Setter,30647.3793,56.1399,13.0225,high,high,med,female,Trujillo
+Pug,7338.65,,14.6509,high,high,short,male,Massey
+Pug,5932.0269,35.74,12.2407,med,med,short,female,Dillon
+Welsh Corgi,13644.4718,,10.4993,high,high,med,female,Brown
+Pug,7021.0122,,13.5067,med,high,short,male,Herrera
+Pug,6803.4755,38.4046,15.6523,low,high,short,female,Livingston
+Pug,6934.5623,31.2521,13.191,med,high,short,female,Davenport
+Welsh Corgi,13775.2983,29.1495,10.4457,med,high,med,male,Holloway
+Welsh Corgi,15846.5754,31.2789,11.8006,med,high,short,male,Roberts
+Pug,7312.9766,33.1897,11.3211,med,high,short,male,Reeves
+Japanese Chin Dog,3211.334,23.3636,13.7591,med,high,med,female,Marshall
+Pug,7147.3533,34.0149,14.1863,med,high,med,male,Berry
+Japanese Chin Dog,2734.4626,,13.2365,med,high,med,female,Harris
+English Setter,36165.4062,60.0402,12.3787,high,high,short,female,Li
+English Setter,17938.4056,61.9739,10.5355,high,high,med,female,Lee
+Welsh Corgi,14966.6392,32.6373,11.0191,med,high,med,female,Morris
+English Setter,29627.1349,65.4702,10.7847,high,high,med,male,Watkins
+English Setter,36989.2048,64.1742,10.7611,high,high,long,male,Mitchell
+Japanese Chin Dog,4922.3671,24.6468,13.2126,med,high,med,female,Hernandez
+English Setter,27256.7496,61.8798,12.6948,high,high,med,female,Evans
+Pug,7643.8885,,11.9706,med,med,short,female,Reilly
+English Setter,27192.2577,63.3325,11.4897,high,med,med,female,Wilson
+Welsh Corgi,14049.617,29.8689,11.13,med,high,med,male,Alvarez
+Pug,6583.172,32.674,11.4003,low,high,short,female,Romero
+Pug,6963.0426,,13.3313,med,high,short,male,Torres
+Pug,7348.5781,,13.8967,med,high,short,female,Smith
+Japanese Chin Dog,3454.4163,24.0873,12.6791,med,high,short,female,Franklin
+Pug,7080.7981,,13.4475,med,high,short,male,Sloan
+Welsh Corgi,18409.5032,,9.2632,med,high,med,female,Lawson
+Japanese Chin Dog,3277.3392,22.9103,12.9779,med,high,med,female,Holland
+Japanese Chin Dog,3202.4983,,13.19,med,high,short,female,Chen
+Japanese Chin Dog,1256.2037,22.8496,12.6714,med,high,med,female,Lopez
+English Setter,27266.7592,,12.5789,high,high,med,male,Cox
+English Setter,24254.5821,,11.781,high,high,med,female,Johnson
+Pug,7137.4621,35.069,14.9802,med,high,short,male,Meyer
+Pug,7076.5609,33.6968,13.5936,med,high,short,female,Lee
+Welsh Corgi,15454.8922,30.7935,11.0766,med,high,med,male,Walls
+English Setter,34390.6741,,13.401,high,high,med,female,Jones
+English Setter,20632.8841,58.9413,11.7622,med,high,med,female,Ortega
+Welsh Corgi,12538.0187,32.7107,10.9259,med,high,med,female,Savage
+English Setter,22480.8368,62.0729,14.2671,med,high,med,female,Camacho
+Pug,6373.098,35.2498,15.3018,med,high,short,male,Deleon
+Welsh Corgi,13995.656,30.542,11.6056,med,high,med,male,Fisher
+Pug,6416.6534,31.2374,13.4729,med,high,med,male,Williams
+Pug,7678.2787,34.7053,13.1321,med,high,med,male,Brown
+Pug,6455.0145,,13.6128,med,high,short,male,Porter
+Japanese Chin Dog,1672.2346,22.8343,13.5699,med,high,med,female,Jacobs
+Japanese Chin Dog,4820.5443,,12.9378,med,high,med,female,Peterson
+English Setter,28937.8895,60.7977,9.2207,high,high,med,male,Hall
+Welsh Corgi,12923.4294,,11.0827,med,med,med,male,Glover
+Pug,7714.8441,39.4629,12.1233,med,high,short,female,Lopez
+Welsh Corgi,14625.1434,26.427,11.5775,med,high,med,female,Mann
+Welsh Corgi,15928.6568,27.5136,10.9883,med,high,med,male,Houston
+English Setter,21302.5488,,13.0362,med,high,short,male,Robert
+English Setter,31663.6235,64.9595,10.886,high,high,med,male,Kennedy
+English Setter,32676.2293,60.8398,12.0862,high,high,long,female,Potts
+Pug,7411.9066,26.8152,14.0309,med,high,short,female,White
+English Setter,28939.3802,62.6776,11.3889,high,high,med,female,Harris
+English Setter,26768.9976,59.3111,12.6829,high,high,med,female,Alvarez
+Pug,5840.1251,37.7305,15.3527,high,high,short,female,Gould
+Pug,5845.1501,37.1951,12.9863,med,high,short,male,Reed
+Pug,6837.5084,,15.0384,high,med,short,female,Wilcox
+Japanese Chin Dog,3334.2039,22.2063,12.9032,med,high,med,female,Williams
+Pug,7850.1978,37.3798,13.1928,med,high,short,male,Harding
+Japanese Chin Dog,3567.3143,23.7594,12.663,low,high,short,male,Lester
+English Setter,27474.2963,60.6547,11.4447,high,high,med,male,Church
+Japanese Chin Dog,3517.4752,24.6543,12.8932,med,high,long,male,John
+Welsh Corgi,11996.8113,27.2216,10.3991,med,med,short,male,White
+Welsh Corgi,12962.8759,30.323,10.5879,med,high,med,female,Ellis
+Pug,6341.1591,30.9533,12.015,med,med,short,male,Lester
+Welsh Corgi,17001.0825,27.2209,10.8686,high,high,med,male,Garrison
+Welsh Corgi,13976.6694,,10.874,med,high,med,female,Bolton
+English Setter,22554.7939,,10.2887,med,high,long,male,Duarte
+Pug,6868.3587,33.4084,13.6815,med,high,short,female,Taylor
+English Setter,21543.8311,,13.288,high,high,med,male,Johnson
+Pug,7882.8863,,13.6325,med,high,short,male,Wright
+English Setter,33801.5114,60.0979,9.4416,high,high,short,female,Greer
+Japanese Chin Dog,3422.5651,22.8168,13.2734,med,high,med,female,Goodwin
+Pug,6332.9324,,13.2307,med,high,short,female,Terry
+Japanese Chin Dog,4363.6656,,12.8516,high,high,med,male,Smith
+Pug,6190.3245,31.8002,12.6884,med,high,short,male,Stevenson
+Japanese Chin Dog,3248.1366,23.9812,12.8898,med,high,long,female,Rogers
+Welsh Corgi,15086.8444,27.6479,10.6962,med,high,med,female,Johnson
+Welsh Corgi,16633.1739,28.4177,10.779,med,high,med,male,Bishop
+Pug,5567.9072,31.5052,13.353,med,high,short,male,Jones
+Welsh Corgi,16300.4079,27.2989,12.1482,med,high,med,female,Whitney
+Welsh Corgi,14249.432,27.2493,10.4682,med,high,med,male,Gonzales
+English Setter,21711.0774,63.4984,11.4301,high,high,med,male,Peterson
+Pug,7646.6485,,13.8406,med,high,short,male,Garcia
+Japanese Chin Dog,2748.4219,,13.5575,med,high,short,male,Conway
+Pug,6891.9898,25.6022,13.693,med,high,med,male,Johnson
+English Setter,27244.4482,,11.159,high,high,med,male,Watson
+Pug,7357.6106,36.8967,12.306,med,high,short,female,Daniels
+Welsh Corgi,12498.2919,31.208,10.4103,high,high,med,female,Knapp
+Japanese Chin Dog,3152.5311,22.349,13.0868,med,high,med,male,Anderson
+English Setter,24311.2812,59.4965,10.4849,high,high,med,male,Miller
+Japanese Chin Dog,3361.4487,22.4346,11.7906,med,med,med,female,Long
+Welsh Corgi,11704.426,26.97,11.6593,med,high,med,male,Garcia
+Welsh Corgi,15183.6911,,11.9291,low,high,med,male,Patterson
+Japanese Chin Dog,3952.0139,22.3629,13.6802,med,med,med,female,Jones
+English Setter,21877.3713,61.5867,11.227,high,high,med,female,Garcia
+English Setter,42484.1899,62.0125,11.8482,high,high,med,female,Ali
+Japanese Chin Dog,5000.1775,23.0441,12.3971,med,med,med,male,Ray
+Japanese Chin Dog,4577.207,,12.7564,low,high,med,female,Garza
+Japanese Chin Dog,4461.4026,,13.5823,med,high,long,female,Barnes
+Pug,7210.8062,,13.9339,med,high,short,male,Clark
+Welsh Corgi,13821.8658,28.281,11.5295,med,high,med,male,Johnson
+Welsh Corgi,14251.877,27.5815,11.243,med,high,short,female,Cook
+Welsh Corgi,15684.9471,22.4025,11.7228,med,high,long,male,Flores
+Welsh Corgi,13325.5798,29.0301,10.9761,low,high,med,male,Jones
+Welsh Corgi,14072.9356,33.2246,11.3959,low,high,long,male,Baker
+Welsh Corgi,17106.9928,33.8581,10.2157,low,med,med,male,Vaughn
+Japanese Chin Dog,3260.4515,23.5893,13.5431,med,high,med,male,Buck
+Welsh Corgi,14949.4079,,11.7143,med,high,med,male,Glover
+Pug,7150.1118,,13.4932,med,high,short,male,Holmes
+Welsh Corgi,10872.1368,,10.6344,med,high,med,male,Gray
+Japanese Chin Dog,2904.2542,,12.8115,med,high,med,female,Jennings
+Pug,6637.6543,31.0251,14.6086,med,high,short,female,Vasquez
+English Setter,30404.517,60.3697,11.5742,high,high,med,female,Hunter
+English Setter,33263.5616,59.2819,13.0757,high,high,med,female,Salazar
+Pug,7062.2834,39.0772,13.351,med,high,short,male,Gilbert
+English Setter,29959.8616,60.9055,11.1755,high,high,long,male,Anderson
+Pug,6860.1832,33.755,14.572,low,high,short,female,Crawford
+English Setter,34911.2106,59.1918,12.5298,high,high,med,male,Austin
+Welsh Corgi,11303.7581,26.8283,10.3802,med,high,med,female,Carroll
+Japanese Chin Dog,4439.0774,23.9187,13.6325,med,high,med,female,Hatfield
+Welsh Corgi,12151.4133,27.4948,11.4115,med,high,med,male,Duncan
+English Setter,30471.2592,64.6013,11.7535,high,high,med,female,Bell
+Welsh Corgi,14386.1451,,10.8526,med,high,med,female,Klein
+Welsh Corgi,13547.1005,26.1393,11.0556,med,high,med,male,Martin
+Welsh Corgi,12104.0386,29.3047,10.8206,med,high,med,male,Bryant
+Welsh Corgi,12471.9287,32.6392,11.2364,med,med,med,male,Glover
+English Setter,24861.6921,63.9406,13.3381,high,high,med,female,Martinez
+Japanese Chin Dog,3102.3697,24.5435,13.0341,high,high,med,male,Choi
+English Setter,31246.7354,59.1862,10.6287,high,high,med,male,Cooley
+Japanese Chin Dog,5208.2376,,13.3122,med,med,med,female,Holland
+English Setter,24919.4482,,11.2993,high,high,med,male,Davis
+Pug,7043.491,,13.195,med,high,short,male,Mitchell
+Pug,6903.4692,32.3351,12.8801,med,med,short,female,Sandoval
+Welsh Corgi,13301.0714,33.3116,10.3193,med,high,med,female,Morris
+English Setter,28005.7549,66.6479,11.9413,high,high,med,female,Herrera
+Pug,7276.8825,37.1357,14.3322,med,high,short,female,Douglas
+Welsh Corgi,13765.9997,24.6639,11.8809,med,high,long,male,Barnes
+Welsh Corgi,13540.6126,29.4013,10.5799,med,high,med,female,Burnett
+English Setter,23593.1421,59.7527,9.862,high,high,med,female,Thompson
+Japanese Chin Dog,3658.9988,22.002,12.4017,med,high,med,male,Mann
+Pug,6243.1678,36.5993,14.3044,med,high,short,male,Weaver
+Pug,7234.1263,,11.9861,low,high,short,male,Ramirez
+English Setter,26832.9592,60.4232,11.7278,high,high,med,female,Reid
+English Setter,29108.2103,69.3476,11.9265,high,high,long,male,Hayes
+Japanese Chin Dog,2842.2592,22.3552,14.0032,med,high,med,female,Christensen
+English Setter,33308.2398,58.997,10.9117,high,high,med,female,Andrews
+Welsh Corgi,11881.5432,31.5748,10.1769,med,med,short,female,Cobb
+English Setter,34884.3087,61.2336,15.34,high,high,med,female,Bennett
+Welsh Corgi,13108.1465,28.8655,10.8406,med,high,med,male,Allison
+English Setter,30369.6279,59.3976,13.3515,high,high,med,female,Haney
+English Setter,28260.7035,61.9483,13.1336,high,high,med,female,Adkins
+Welsh Corgi,12450.57,32.1,9.8228,med,high,med,male,Martin
+English Setter,23995.1681,62.0029,11.7215,high,high,short,male,Dyer
+Welsh Corgi,16660.0829,32.1897,9.8758,low,high,med,female,Dawson
+Welsh Corgi,16150.8264,,10.8173,high,med,med,male,Caldwell
+Japanese Chin Dog,3739.9502,21.446,12.9685,high,high,long,female,Trujillo
+English Setter,33654.3765,61.754,13.0892,high,med,med,female,Parks
+Pug,5978.8155,,15.1551,high,high,short,female,Hernandez
+English Setter,30310.6722,,15.1683,high,high,med,male,Matthews
+Pug,7109.3721,,14.0445,med,high,med,female,Keller
+Pug,7674.2033,36.687,13.6874,med,high,short,female,Tanner
+Japanese Chin Dog,4435.0071,,12.9787,med,high,med,female,Forbes
+Japanese Chin Dog,3003.9694,23.7534,14.1422,med,med,long,female,Drake
+Welsh Corgi,13635.9443,,10.4824,med,high,med,female,Johnson
+Welsh Corgi,14548.8062,,11.5842,high,high,long,female,Parker
+Pug,6735.94,30.1237,13.7748,high,high,short,male,Terrell
+Japanese Chin Dog,2255.3035,24.1701,13.3163,med,high,med,male,Mccarthy
+Pug,7896.6413,34.0698,13.456,med,high,short,female,Boyd
+English Setter,23632.1926,59.8149,12.7461,high,high,med,female,Ryan
+Pug,6774.789,32.6614,12.8663,med,high,short,male,Ramirez
+English Setter,33858.1926,61.1983,12.48,high,high,med,male,Weiss
+Welsh Corgi,14239.0881,30.4893,10.8349,med,high,med,male,Barrett
+Pug,7242.7584,39.0648,13.8253,med,high,short,male,Duarte
+Japanese Chin Dog,3555.7513,24.9067,13.2475,med,high,med,female,Chapman
+Japanese Chin Dog,3923.2146,23.5618,12.9766,med,high,med,male,Crawford
+Welsh Corgi,13139.2212,32.8251,11.2323,med,high,med,male,Wilson
+Welsh Corgi,12623.1234,23.5871,11.335,med,high,med,male,Mcclain
+Japanese Chin Dog,2647.0252,22.826,13.576,med,high,med,female,Castro
+English Setter,28531.3233,63.9437,11.4498,high,high,med,female,Alexander
+Pug,6832.831,33.8035,13.5724,med,high,short,male,Cook
+Pug,7508.9666,36.1148,14.2733,med,high,short,male,Morgan
+Welsh Corgi,14926.3541,30.2161,10.8875,med,high,med,female,Phillips
+Pug,7242.0593,32.547,12.4656,med,high,short,female,Clark
+Welsh Corgi,15145.2837,,11.0467,med,high,med,male,Willis
+Japanese Chin Dog,3952.4371,23.3658,13.3407,med,high,long,male,Perez
+Pug,7350.0079,29.0073,13.281,med,high,short,female,Rodriguez
+Japanese Chin Dog,3862.4981,21.1347,12.4955,low,med,med,male,Williams
+English Setter,35466.301,61.889,11.9572,high,high,med,female,Brown
+Japanese Chin Dog,2204.8618,23.2263,13.573,med,high,med,male,Lambert
+Welsh Corgi,12881.181,26.5696,12.0947,low,high,med,male,Jones
+Japanese Chin Dog,3402.3661,,11.9726,med,high,med,female,Palmer
+Pug,6738.2912,,13.673,med,high,short,female,Mccoy
+English Setter,12171.1081,60.3247,11.0381,high,high,med,male,Smith
+Welsh Corgi,14055.9221,27.2615,10.4996,med,med,short,female,Green
+Japanese Chin Dog,4370.2159,,12.3177,med,high,med,female,Ramos
+English Setter,26758.4462,61.366,11.8608,high,high,med,male,Gould
+Welsh Corgi,14042.1705,33.608,12.354,med,high,med,female,Ross
+Welsh Corgi,15885.997,30.0514,10.1834,med,high,med,female,Wood
+Welsh Corgi,15578.4902,28.9608,11.3423,med,high,short,male,Edwards
+Welsh Corgi,14700.4842,25.8043,11.108,low,high,med,female,Anderson
+English Setter,26195.9504,65.1156,13.1493,high,med,med,female,Morris
+Japanese Chin Dog,4014.2047,22.5929,11.7751,high,high,med,female,Pratt
+Japanese Chin Dog,4364.1386,22.1399,13.0916,med,high,med,male,Frank
+Welsh Corgi,7471.1383,30.5364,10.1821,med,high,med,male,Hernandez
+Welsh Corgi,11821.811,30.0182,11.7451,med,high,short,female,Carroll
+Welsh Corgi,12684.77,,11.1881,med,high,med,male,Hernandez
+Japanese Chin Dog,4410.0048,23.0616,13.045,med,high,med,male,Park
+English Setter,35596.5902,60.0481,11.8729,high,high,med,male,Johnson
+Pug,7088.909,30.9941,13.7803,med,med,short,male,Cain
+Welsh Corgi,16487.1829,27.7783,10.4796,med,high,short,male,Nielsen
+Japanese Chin Dog,2782.8151,24.4882,14.0067,med,high,long,female,Pacheco
+Pug,7205.7154,31.4109,14.7617,high,med,short,male,Sandoval
+Japanese Chin Dog,3020.1008,22.6869,13.7444,med,high,med,male,Kelly
+Welsh Corgi,14637.0018,26.0828,11.1481,med,med,med,female,Vasquez
+English Setter,25014.3041,56.6682,12.5756,high,med,med,male,Kennedy
+Pug,7039.0079,32.1086,14.8058,med,high,short,female,Murphy
+Welsh Corgi,16568.1608,29.596,11.7557,med,high,short,female,Cox
+English Setter,35143.8718,,11.9357,high,high,med,male,Collins
+Pug,8161.4048,32.1488,13.0854,med,high,short,female,Cobb
+Welsh Corgi,17939.1929,27.3865,10.5332,high,med,long,male,Bowen
+English Setter,28826.1692,61.0335,14.8703,high,med,short,female,Moreno
+Pug,6792.3,33.9774,12.5203,med,high,short,female,Herrera
+Welsh Corgi,13477.9276,,10.6223,med,high,med,male,Jackson
+Japanese Chin Dog,3425.9842,23.6108,13.2561,med,high,med,female,Miller
+English Setter,32580.055,,12.369,high,high,med,male,Morris
+Welsh Corgi,12280.1494,28.775,11.7886,med,high,med,male,Armstrong
+Japanese Chin Dog,2003.6518,22.541,13.5844,med,high,short,female,Butler
+Japanese Chin Dog,3325.6273,24.9649,13.7885,low,high,med,female,Salinas
+Welsh Corgi,15742.0834,29.5746,9.8339,med,med,med,male,Johnson
+Japanese Chin Dog,4581.4987,23.3696,12.8141,med,high,med,female,Boyer
+English Setter,31297.5553,64.7874,15.1562,med,high,med,female,Garrett
+Welsh Corgi,13214.0257,,10.3508,med,high,med,male,Fernandez
+Pug,6604.5693,32.7609,12.8385,med,high,short,female,Young
+Pug,7419.523,33.8108,12.3483,med,high,short,male,Davis
+English Setter,20825.2297,60.9894,11.7669,high,high,med,male,Spencer
+Welsh Corgi,11936.0617,27.3069,11.3061,low,high,med,female,Hall
+Japanese Chin Dog,2830.5695,24.624,12.7676,med,high,med,male,Kim
+Pug,6948.7607,32.14,14.1289,med,high,short,male,Smith
+Japanese Chin Dog,2990.3363,23.7259,13.266,low,high,long,male,Anthony
+Pug,7838.1662,38.4759,14.1216,med,high,short,female,Morgan
+Japanese Chin Dog,3480.4652,22.6699,13.0584,med,high,med,female,Guzman
+Pug,6119.434,34.9042,15.4186,high,high,short,male,Horton
+Welsh Corgi,14241.1255,25.8936,9.7712,med,high,med,male,Davenport
+Pug,7135.3164,36.8709,11.7339,med,high,short,female,Wendy
+English Setter,23033.5655,64.974,13.5955,high,high,long,male,Hammond
+Pug,6797.73,27.4158,13.6663,med,high,short,male,Austin
+Welsh Corgi,13890.3019,30.0007,11.3595,high,high,long,male,Gomez
+Pug,5920.8902,31.9999,14.4367,low,high,short,male,King
+Japanese Chin Dog,3078.9269,23.94,12.7743,med,med,med,female,Johnson
+English Setter,32777.9841,63.0496,12.0178,high,high,med,female,Dean
+Pug,6272.2835,27.584,13.3557,med,high,short,female,Lee
+Japanese Chin Dog,2530.8862,22.8611,12.4085,high,high,med,female,Fitzgerald
+Japanese Chin Dog,2016.7062,23.7242,13.4467,med,high,short,male,Carr
+Japanese Chin Dog,3510.4031,22.793,11.865,med,high,short,female,Rogers
+English Setter,25602.6988,59.5565,11.7191,high,high,short,female,Evans
+Japanese Chin Dog,2693.5636,23.4697,12.3023,med,high,med,female,Collins
+Pug,7400.9726,33.9918,14.7402,low,high,short,male,Levine
+Pug,6803.3936,30.3203,13.6256,med,high,short,male,Ward
+English Setter,30876.912,65.0034,11.0475,high,high,short,female,Wilcox
+Pug,7481.4156,,14.2062,high,high,short,female,Whitaker
+Welsh Corgi,13968.4602,27.848,10.5013,high,high,short,female,Hoffman
+Welsh Corgi,11317.8644,33.6351,11.6309,high,med,med,male,Rodriguez
+Welsh Corgi,16712.4987,,11.2943,high,high,med,male,Robert
+Pug,6949.4739,37.139,13.1878,low,high,short,male,Silva
+English Setter,27013.1712,,12.5937,high,high,med,female,Turner
+Welsh Corgi,13307.8552,27.3994,10.3409,med,high,med,male,Hughes
+Japanese Chin Dog,4111.0378,,13.6729,low,med,long,male,Carter
+Japanese Chin Dog,3028.8638,21.9382,13.141,med,high,med,female,Warren
+Welsh Corgi,17028.4198,26.9223,11.1129,med,high,med,female,Young
+Japanese Chin Dog,3210.6239,23.1138,13.9142,med,high,med,female,Jones
+Japanese Chin Dog,4389.8899,23.1819,12.0578,med,high,med,male,Patterson
+Japanese Chin Dog,4393.6654,22.9423,14.6944,med,high,med,female,Blackburn
+Welsh Corgi,12765.7255,24.3386,11.4553,med,high,med,female,Johnson
+English Setter,32050.1993,59.3087,12.8213,high,high,med,female,Jensen
+Pug,7456.2261,34.9332,12.8161,med,med,short,female,Rivas
+Pug,6984.3418,28.2971,12.2221,med,high,short,female,Morales
+Japanese Chin Dog,2513.9556,,13.3879,med,high,med,female,Walker
+English Setter,28588.3004,65.9693,11.0057,high,high,med,male,Soto
+Welsh Corgi,14142.1038,28.1616,11.7655,high,high,med,female,Gibson
+Japanese Chin Dog,3159.6627,23.5331,13.3153,med,high,med,male,Johnson
+Pug,6990.6711,30.791,12.7755,med,high,med,female,Ramirez
+English Setter,27208.0024,57.6839,12.18,med,high,med,male,Phillips
+Pug,6925.8406,,14.6338,med,high,med,female,Lowery
+Welsh Corgi,14462.0512,26.9797,12.2083,med,high,med,male,Walker
+Pug,7219.8368,37.3751,13.4943,med,high,med,male,Tony
+Japanese Chin Dog,3017.2571,,12.2597,med,high,med,female,Wallace
+English Setter,33532.7507,61.559,13.6975,high,high,med,female,Hill
+Pug,6109.8956,,13.135,med,high,med,male,Smith
+Welsh Corgi,14988.1783,27.8122,11.0144,med,high,short,female,Walsh
+Pug,7790.4318,38.9495,12.4369,med,high,short,male,Snyder
+English Setter,22475.2004,62.8005,10.7977,med,high,med,male,Jackson
+English Setter,30145.0865,,10.3522,high,high,short,male,Chandler
+Welsh Corgi,13251.3195,27.9562,10.7097,med,med,med,male,Everett
+Japanese Chin Dog,3943.1543,,12.2739,med,high,short,female,Coleman
+Pug,7106.3034,30.6524,12.6039,med,med,short,male,Drake
+Welsh Corgi,10965.5362,27.9007,10.0082,low,high,long,male,Hernandez
+Japanese Chin Dog,2776.9899,,13.1712,med,high,med,female,Hoffman
+Pug,6876.789,33.2095,13.2148,med,high,short,male,Brooks
+Japanese Chin Dog,4140.3884,21.5947,13.0952,med,high,med,female,Gay
+Japanese Chin Dog,3866.4082,22.7904,14.2357,med,high,med,male,Curtis
+Japanese Chin Dog,3719.9632,23.5933,12.9974,med,high,med,male,Anderson
+English Setter,35539.515,63.0464,12.2112,high,med,long,female,Lane
+Pug,7245.0457,32.3003,13.8862,med,med,short,female,Hampton
+Welsh Corgi,16647.7052,30.0397,11.7441,low,med,med,male,Teresa
+Pug,7539.8468,29.3775,14.6048,med,high,short,male,Barnes
+Welsh Corgi,15176.9119,29.6551,12.2062,high,high,short,female,Long
+English Setter,29386.0093,61.0079,15.8253,med,high,med,female,Parker
+English Setter,22379.6951,61.1752,12.0745,high,high,med,male,Nelson
+English Setter,27416.0844,62.3099,12.9239,high,high,med,female,West
+Pug,8015.6946,38.5233,13.3082,med,high,med,female,Sandoval
+Welsh Corgi,14216.9443,25.0059,11.3361,low,high,med,male,Sanchez
+Japanese Chin Dog,3921.6189,22.6036,12.2241,low,high,med,female,Henderson
+English Setter,34872.0605,64.7583,9.7037,high,high,med,male,Pacheco
+Pug,6072.4096,37.0403,14.2967,med,high,short,female,King
+English Setter,27224.6001,59.4823,11.1336,high,high,med,male,Lee
+English Setter,31707.5974,,12.4086,high,high,med,male,Shepherd
+English Setter,26610.3558,,12.4535,high,high,med,female,Ross
+Pug,6426.4239,33.7987,13.4014,med,high,short,female,Schmidt
+Japanese Chin Dog,3476.8035,,12.7561,med,high,med,female,Gutierrez
+Pug,7817.8385,35.2062,14.2569,med,high,short,female,Bass
+English Setter,28473.4672,,11.7852,high,high,short,female,Malone
+Welsh Corgi,11615.7235,28.8743,10.9053,low,high,med,female,Stewart
+Pug,6967.2841,,14.195,med,high,short,female,Bryant
+English Setter,27667.8931,,12.0903,high,high,med,male,Armstrong
+Japanese Chin Dog,4018.9518,,13.0709,high,high,med,male,Hall
+Pug,7420.7655,32.1914,13.3572,med,high,med,female,Ferguson
+Pug,7108.1247,28.6862,12.7731,med,high,short,male,Fernandez
+Pug,7367.8657,34.289,14.4439,med,high,short,male,Smith
+English Setter,42460.0164,,12.1292,med,high,long,male,Cooley
+Japanese Chin Dog,2762.1244,24.2428,14.3469,med,high,med,female,Herman
+English Setter,28761.0607,63.7918,12.559,high,high,med,female,Williamson
+Japanese Chin Dog,3542.9313,23.6996,12.6748,med,high,med,male,Cisneros
+Pug,7674.5191,29.8797,14.1533,med,high,short,female,Soto
+Japanese Chin Dog,3410.635,23.7087,14.0683,med,high,long,female,Hull
+English Setter,29122.4383,62.2798,13.3668,high,high,med,male,Smith
+Pug,7819.8075,33.219,13.8334,low,high,short,male,Hunt
+English Setter,24452.3603,62.5368,11.5549,high,high,long,female,Adams
+English Setter,25945.2824,61.539,13.8166,high,high,med,male,Shaw
+English Setter,21970.2396,64.5706,11.8015,high,high,med,male,Cooper
+English Setter,28242.625,57.6334,11.721,high,high,med,male,Hampton
+English Setter,25280.3224,64.7326,10.8722,high,high,long,female,Smith
+English Setter,29588.125,62.6797,12.018,high,high,med,female,Brown
+Japanese Chin Dog,2539.5975,25.1542,12.5198,med,med,med,female,Mitchell
+English Setter,22596.0226,63.6492,10.7288,high,high,med,female,Hubbard
+Pug,5992.7122,,13.121,med,med,short,male,Brown
+Pug,6620.5994,37.6478,12.2514,med,high,short,male,Mcknight
+Welsh Corgi,10267.418,28.948,10.1185,high,med,med,female,Anderson
+Japanese Chin Dog,3928.3328,,13.7287,med,high,med,male,Stevens
+English Setter,28830.6829,63.8572,12.8737,high,high,short,female,Vance
+English Setter,32398.6074,61.2338,11.3173,high,high,med,female,Coffey
+Welsh Corgi,12695.1157,,11.0908,med,high,med,male,Reyes
+English Setter,29624.2806,61.3419,9.7247,high,high,med,male,Mason
+Japanese Chin Dog,2236.1805,23.6198,12.5163,med,high,med,female,Mendoza
+Pug,6635.499,30.6298,13.5465,med,high,short,female,Walsh
+Japanese Chin Dog,3884.5379,23.1151,13.1458,high,high,med,male,Morales
+Welsh Corgi,12628.0563,26.3191,11.2251,med,high,med,female,Williams
+Welsh Corgi,15251.7397,28.8132,11.1884,med,high,med,female,Robertson
+English Setter,30565.7204,63.532,11.8807,high,high,med,female,Colon
+Japanese Chin Dog,2787.0413,24.297,11.7558,low,high,med,female,Luna
+English Setter,26223.4917,59.4182,9.8634,high,high,med,male,Mosley
+Japanese Chin Dog,4559.8951,23.4489,13.4438,low,high,med,male,Moore
+Pug,6454.6597,34.7436,13.6283,med,high,short,male,Martinez
+Pug,6779.8022,30.093,13.377,med,high,short,male,Campos
+Welsh Corgi,12470.6577,28.7761,10.7517,med,high,short,female,Harrison
+English Setter,27496.8947,65.4989,10.3144,high,high,med,female,Pham
+Japanese Chin Dog,4292.274,25.1618,11.5821,med,high,med,male,Smith
+English Setter,33782.4536,56.611,11.9294,high,high,long,female,Wall
+Pug,7291.5178,33.1621,14.0154,med,high,short,female,Hawkins
+English Setter,30807.5777,,13.9361,high,high,med,male,Howard
+English Setter,24565.9905,59.8032,13.9132,high,med,short,female,Parks
+Welsh Corgi,13801.5867,26.8634,12.0391,med,high,med,female,Dunn
+English Setter,21715.0407,63.4975,10.9583,high,high,med,female,Medina
+English Setter,34676.9911,62.7586,13.1623,high,high,med,female,Robertson
+Pug,6131.3324,36.338,14.2858,med,high,short,male,Cordova
+English Setter,25529.4629,58.7749,10.3552,high,med,med,female,Maldonado
+Pug,6766.6493,33.7659,13.7674,med,high,short,female,Miller
+English Setter,27871.4155,59.1933,11.0193,high,high,long,female,Troy
+Welsh Corgi,14121.225,30.7032,10.7413,med,high,short,female,Terrell
+Pug,8498.0754,33.638,12.3595,med,high,short,male,Mack
+English Setter,31275.8889,61.5845,12.7988,high,high,med,male,Bryant
+English Setter,35583.8834,61.5336,13.0212,high,high,med,female,Coleman
+Japanese Chin Dog,5508.7401,25.3855,12.5861,high,high,med,female,Vasquez
+Pug,8539.6741,35.0237,14.5705,med,med,short,female,Gray
+Pug,7071.2217,,12.345,med,high,med,male,Marsh
+English Setter,21800.9715,63.3804,11.7254,high,med,med,male,Lester
+Welsh Corgi,14577.3759,29.4105,10.2073,med,high,med,female,Miller
+Pug,5784.0761,,13.1996,med,high,short,male,Davidson
+Welsh Corgi,15901.3081,31.2905,10.7945,med,high,med,female,Howell
+English Setter,27611.2744,57.9837,10.7517,high,high,med,female,Brown
+Japanese Chin Dog,4663.785,24.6899,12.6066,med,high,med,female,Spencer
+Japanese Chin Dog,4335.6943,,12.4379,med,high,med,female,Murphy
+English Setter,26604.5633,63.1668,11.8716,high,high,med,male,Rodriguez
+English Setter,31701.0089,61.645,11.818,high,high,med,male,Mcpherson
+English Setter,28626.324,61.4706,11.1173,high,med,long,male,Crawford
+Welsh Corgi,17815.8378,33.8475,10.3758,med,high,med,female,Lloyd
+Japanese Chin Dog,2770.3163,23.0571,13.4318,med,high,med,male,Cooper
+English Setter,35587.7991,57.7587,9.8415,high,med,med,male,Gonzalez
+Pug,6882.7461,35.9074,12.5821,med,high,short,male,Valenzuela
+Welsh Corgi,10919.7247,30.7801,11.4334,med,high,med,male,Wolfe
+Welsh Corgi,15671.7839,28.165,12.5056,med,high,med,female,Smith
+Welsh Corgi,16704.5249,24.4479,11.4972,high,high,med,male,Julie
+English Setter,24538.0023,60.5792,12.9625,high,high,short,female,Cole
+Pug,5221.8422,30.7979,12.4757,med,high,short,male,Freeman
+Pug,8304.2257,37.6906,15.0705,med,high,short,male,Sanchez
+Japanese Chin Dog,3148.7622,22.7269,13.1535,low,high,med,female,Andrews
+Japanese Chin Dog,3907.4949,23.5172,14.1777,med,med,med,male,Benson
+English Setter,29741.7367,60.6623,11.9622,high,high,med,female,Morales
+Japanese Chin Dog,2460.3843,22.2715,14.0843,med,high,med,female,Figueroa
+English Setter,32162.7789,59.5735,9.3664,high,high,med,female,Thompson
+Japanese Chin Dog,2826.109,,12.0253,med,high,med,female,Hull
+Welsh Corgi,9263.1373,23.9851,10.8101,low,high,med,female,Myers
+Welsh Corgi,13908.3441,25.2716,11.3989,med,high,med,female,Smith
+English Setter,29811.4147,64.1356,13.3485,high,high,med,male,Hart
+Japanese Chin Dog,3813.507,,13.4445,med,med,med,male,Kaufman
+Japanese Chin Dog,4100.9656,25.1398,13.1702,med,high,med,male,Brown
+English Setter,27599.2728,65.3943,12.244,high,high,med,male,Rodriguez
+Japanese Chin Dog,3952.8621,,12.6366,med,high,med,female,Stokes
+Pug,7142.0552,34.2338,12.7095,med,high,short,female,Thompson
+Welsh Corgi,14989.7741,25.1194,11.5881,med,med,med,male,Smith
+Japanese Chin Dog,4139.5864,24.0881,12.39,med,high,med,male,Scott
+English Setter,24824.2863,,12.6547,high,high,med,female,Stafford
+Welsh Corgi,12729.8332,27.992,11.0167,med,high,short,female,Fields
+English Setter,34444.334,62.1186,10.9225,med,high,long,male,Ritter
+English Setter,33322.6901,59.7676,12.4802,high,high,long,female,Cunningham
+Japanese Chin Dog,4689.112,24.4738,12.7977,high,high,long,male,Caldwell
+Welsh Corgi,16115.6546,28.9533,9.8639,med,high,med,female,Hall
+Welsh Corgi,10668.4028,29.3306,10.093,med,high,med,female,Thomas
+Japanese Chin Dog,4047.1634,23.5779,12.6594,med,high,med,female,Garcia
+Pug,7597.3353,37.0607,13.1516,med,high,short,male,Freeman
+Japanese Chin Dog,4310.9837,23.569,13.5554,med,high,long,male,Wilson
+Pug,7018.8976,31.8831,13.4796,high,high,med,male,Aguilar
+English Setter,31938.1793,,12.8138,high,high,med,male,Lynch
+Japanese Chin Dog,5123.9432,22.7894,12.0075,med,high,med,male,Torres
+Pug,7442.6865,,13.412,med,high,short,female,Allen
+English Setter,29025.3864,,12.2451,high,high,med,male,Elliott
+Japanese Chin Dog,3489.2956,,12.4056,med,high,med,male,Reyes
+Welsh Corgi,11701.0889,31.8897,9.9132,high,med,med,male,Saunders
+Pug,7008.4372,28.4656,13.2874,med,high,short,female,Long
+Pug,6475.3563,35.1185,14.3835,med,high,short,female,Wilkinson
+Japanese Chin Dog,3090.6655,24.3166,13.7328,med,high,med,male,Pacheco
+Japanese Chin Dog,1993.6861,23.746,13.1428,med,high,med,male,White
+Pug,6501.5998,,11.3828,high,high,short,female,Rios
+Japanese Chin Dog,2322.3629,23.0518,12.4071,med,high,med,male,Meza
+English Setter,31069.88,61.3643,11.55,high,high,med,male,Harris
+Pug,6461.1097,36.0901,13.4027,med,high,short,male,Diaz
+English Setter,33031.8403,58.522,11.143,high,high,short,male,Klein
+English Setter,28253.7835,,12.427,high,high,med,male,Berger
+Japanese Chin Dog,4553.1176,24.1151,13.5161,med,high,med,male,Burns
+Japanese Chin Dog,2712.8171,25.5297,13.0191,med,high,med,male,Ferguson
+English Setter,25991.9829,61.0732,13.7524,high,high,med,male,Hall
+Pug,7068.564,35.7953,13.2442,med,high,short,male,Parker
+Japanese Chin Dog,4505.8526,22.718,13.0851,med,high,med,female,Russell
+Welsh Corgi,11853.7123,,10.4003,med,high,med,female,Bates
+English Setter,34306.6706,,10.8046,high,high,med,female,Holland
+Pug,5684.3264,36.2407,14.4883,med,high,short,male,Bradley
+English Setter,24576.6362,59.5713,11.9857,high,med,med,male,Dennis
+Pug,7054.5865,30.2636,14.3872,med,high,short,female,Oconnor
+English Setter,32745.7153,62.0864,9.7991,high,med,long,male,Matthews
+Welsh Corgi,16194.9466,,10.1027,med,high,long,male,Mathis
+Pug,6803.7454,33.2449,14.0167,med,med,short,female,Crosby
+Welsh Corgi,11181.5867,26.9364,10.4228,high,high,med,male,Vargas
+Welsh Corgi,13943.1077,25.9627,11.4524,med,high,long,female,Rodriguez
+Welsh Corgi,14523.8101,,11.2488,med,high,long,male,Barnes
+Pug,7333.6937,,13.4289,med,high,short,male,Mcdaniel
+Pug,7500.2951,30.5084,13.7199,med,high,short,female,Ward
+Pug,7106.5217,27.8954,13.6543,med,high,short,male,Brown
+Japanese Chin Dog,2512.1704,23.1737,12.8146,med,high,med,female,Wilson
+Welsh Corgi,12674.823,28.2819,10.69,med,high,med,female,Robinson
+Japanese Chin Dog,4557.6628,24.1818,13.1151,med,high,med,male,Cooper
+Japanese Chin Dog,2606.8948,23.2301,12.7596,high,high,short,male,Hall
+Welsh Corgi,14125.9271,,11.4259,med,high,med,female,Jordan
+English Setter,36415.4116,58.6469,10.8315,high,high,med,female,Rodriguez
+English Setter,29179.2733,61.6211,11.6495,high,high,med,male,Gallagher
+Japanese Chin Dog,5479.6506,23.5801,12.8432,med,high,med,male,Scott
+Pug,7314.3558,38.9726,15.232,med,high,short,male,Ronnie
+Pug,7948.6364,,14.4587,med,high,short,male,Miller
+Welsh Corgi,11029.7746,30.8115,10.4414,med,high,short,male,Randolph
+Japanese Chin Dog,3389.3804,22.7944,12.6813,low,high,med,male,Campbell
+Welsh Corgi,16138.5369,32.4964,10.1394,high,med,med,female,Garcia
+Japanese Chin Dog,3514.7637,23.014,14.302,med,high,med,female,Christian
+English Setter,25081.5107,62.289,12.3745,med,high,short,male,Stevens
+Pug,6926.5098,,13.1908,med,high,short,female,Montes
+English Setter,25643.4881,59.4119,11.8226,high,high,med,male,Sosa
+English Setter,36755.0978,63.5666,12.2619,high,high,med,male,Odom
+Welsh Corgi,16654.7397,,10.5311,med,high,med,female,Morgan
+Japanese Chin Dog,4313.8084,23.8029,12.4018,med,high,med,male,Bell
+English Setter,27138.5399,59.4943,12.9535,high,high,med,male,Ross
+Japanese Chin Dog,2527.7655,25.6103,13.2898,med,high,med,female,Freeman
+English Setter,26747.1987,63.5772,11.5175,high,high,med,male,Kim
+English Setter,27199.3603,62.0663,12.3721,high,high,short,female,April
+Japanese Chin Dog,3117.1091,25.0951,12.5815,high,high,med,male,Hopkins
+English Setter,28692.3432,,11.4825,high,high,long,female,Evans
+Pug,7112.0662,37.3527,14.6006,med,high,short,female,Maddox
+Welsh Corgi,14151.5292,30.6395,11.4282,low,high,med,male,Gonzales
+Welsh Corgi,16099.31,26.7741,11.3039,med,high,med,female,Adams
+Welsh Corgi,16017.9068,,10.1665,med,high,med,female,Mills
+English Setter,21437.6262,63.3858,12.1635,high,high,med,male,Krueger
+Japanese Chin Dog,3033.7963,22.5663,13.7204,low,high,med,female,Maldonado
+Pug,7105.862,,12.3512,med,high,short,male,Adams
+English Setter,31770.9986,63.8683,12.3396,high,high,short,male,Brown
+Welsh Corgi,12995.4457,31.6322,10.6601,med,high,med,female,Lopez
+Pug,6978.4133,30.3269,12.528,med,high,short,male,Cruz
+English Setter,27121.2307,59.4007,12.0459,high,high,med,male,Pham
+English Setter,30572.6986,,12.4252,high,med,med,female,Kaufman
+Pug,6972.8369,31.2063,12.644,med,high,short,female,Harrington
+Japanese Chin Dog,4162.2923,23.8683,13.3066,med,med,med,female,Willis
+English Setter,30966.8908,,11.9429,high,high,med,female,Clark
+Japanese Chin Dog,3822.1622,24.6571,13.4955,med,med,med,male,Phillips
+Pug,6901.2213,29.1151,13.2773,med,high,short,female,Turner
+Pug,6803.027,,12.182,med,high,short,male,Thompson
+Welsh Corgi,12331.8285,26.7174,10.9844,med,high,long,female,Shaffer
+Welsh Corgi,16538.1347,28.8048,10.8489,high,high,short,female,Kelly
+English Setter,20621.1613,60.0188,12.5342,high,high,med,female,Garrett
+Pug,7146.753,31.2742,13.8063,med,high,short,female,Moore
+English Setter,38407.9628,63.0133,11.3118,high,med,med,female,Macias
+English Setter,35570.2187,61.0898,10.7619,high,high,long,male,Rivas
+Welsh Corgi,11920.2752,27.6623,10.8636,med,high,med,female,Davis
+Pug,7815.2369,30.2768,14.3383,med,high,short,male,Olivia
+English Setter,23624.8659,,13.8392,high,high,med,male,Ruiz
+English Setter,29467.8862,57.5922,13.3024,med,med,med,male,Rich
+Welsh Corgi,11842.5523,25.8753,10.4011,med,high,med,female,Banks
+Japanese Chin Dog,3922.5399,,12.4177,med,high,med,female,Watkins
+Pug,6390.7478,31.0842,13.3872,med,high,short,female,Morris
+English Setter,28572.7415,,12.9564,med,high,med,male,Chase
+Pug,7557.0834,,13.8822,med,high,med,male,Duncan
+Pug,5775.6083,31.16,12.9767,med,high,med,male,Moore
+Pug,6086.0837,,13.7213,med,med,short,female,Townsend
+Welsh Corgi,16897.6756,24.8626,10.7093,high,high,med,female,Castro
+Welsh Corgi,13775.9156,,11.3337,med,high,med,female,Clark
+Japanese Chin Dog,4289.67,,12.8306,med,high,med,female,Rogers
+Pug,7178.9137,29.2335,14.3938,high,high,short,female,Phillips
+English Setter,29712.9721,62.8397,12.8878,high,high,med,male,Griffin
+English Setter,27808.3798,61.851,12.7766,high,high,med,male,Vasquez
+Pug,7742.8086,26.5227,14.124,med,high,short,male,Peterson
+English Setter,32461.2662,58.7757,13.4773,med,high,med,male,Rangel
+Japanese Chin Dog,2564.2177,,13.7367,high,med,med,male,Key
+Pug,6343.9442,,13.4002,med,high,short,male,Brady
+Pug,6704.7317,,13.0385,med,high,short,female,Cummings
+Japanese Chin Dog,2403.6617,23.0208,14.2813,med,high,med,male,Chan
+English Setter,32757.9744,61.2684,11.0415,high,high,med,female,Zimmerman
+Japanese Chin Dog,5745.2426,23.3583,12.6763,med,high,med,female,Melinda
+Pug,7552.8662,34.7153,13.3697,med,high,short,male,Cook
+Japanese Chin Dog,3184.0448,23.2448,12.9812,med,high,med,female,Hudson
+Pug,6643.9723,34.5149,11.6601,med,med,short,male,Le
+Pug,7290.6027,,12.8884,med,high,med,female,Jackson
+Japanese Chin Dog,3586.3809,24.42,12.6407,med,high,med,male,Barton
+Welsh Corgi,13123.8727,30.8271,10.986,med,high,med,female,Floyd
+English Setter,19979.1662,57.4727,11.2518,high,high,med,female,Lewis
+Japanese Chin Dog,3850.9252,23.8503,12.3301,med,high,med,male,Bates
+Japanese Chin Dog,2874.3741,,13.9931,med,high,med,male,Ford
+Welsh Corgi,15636.9982,30.2351,10.676,low,high,long,male,Mills
+English Setter,30132.7735,62.8793,12.3564,high,high,med,male,Joseph
+Pug,7467.4699,,11.7637,med,high,short,female,Ramos
+English Setter,31535.3527,61.5078,13.4989,high,high,med,male,Brown
+Welsh Corgi,15717.0456,30.3831,10.8482,med,high,med,female,Schultz
+Welsh Corgi,14406.768,24.7703,10.8225,med,high,med,female,Hull
+Pug,7840.6856,33.4907,12.668,med,med,short,male,Franco
+English Setter,27698.8309,65.6316,11.6231,high,high,med,male,Johnson
+Pug,6999.0841,35.5089,11.8081,med,med,short,female,Hendrix
+English Setter,31502.032,63.167,12.9395,high,high,med,female,Thomas
+English Setter,29326.6109,60.0018,13.7089,high,high,med,female,Espinoza
+English Setter,30023.8567,62.5805,11.4731,high,high,med,male,Contreras
+Pug,6262.6268,,14.3983,med,high,short,male,Salinas
+Welsh Corgi,11976.7882,26.3954,11.4844,med,med,med,male,Taylor
+English Setter,29166.063,60.4489,14.2114,high,high,med,female,Hall
+English Setter,27801.2321,61.5288,10.8165,high,high,med,male,Weber
+Pug,6956.9646,38.3366,13.8464,low,high,short,female,Castro
+Japanese Chin Dog,3419.7356,,12.8059,high,med,long,female,Cobb
+Japanese Chin Dog,2632.0934,23.3755,12.5107,med,high,long,female,Richardson
+English Setter,28460.0905,63.2122,9.1087,high,high,med,female,Hendricks
+Japanese Chin Dog,1640.3786,22.2413,12.6947,high,high,med,female,Huynh
+Welsh Corgi,15129.7433,,10.8612,med,high,med,female,Dennis
+Welsh Corgi,15006.3335,27.7372,10.1339,med,high,med,male,Solis
+English Setter,31479.1063,,14.2401,high,high,med,male,Fox
+Pug,6767.8885,31.1706,13.1758,med,high,short,female,Doyle
+Welsh Corgi,12214.9756,27.8563,10.9805,med,high,med,male,Perry
+Welsh Corgi,15165.9232,,10.4374,med,high,med,male,Brooks
+Welsh Corgi,10497.285,,11.7519,high,med,med,female,Palmer
+Welsh Corgi,15030.6608,28.7181,12.0474,low,high,med,male,Williams
+Japanese Chin Dog,3883.3302,24.0198,13.1795,med,high,short,male,Davis
+English Setter,27255.6493,61.2659,10.147,high,high,med,female,Coleman
+English Setter,26730.8812,61.9239,12.4509,high,med,med,male,Spears
+English Setter,23870.5067,,13.0192,high,high,short,male,Turner
+Pug,6879.3234,31.6692,13.1218,med,high,short,female,Kane
+Welsh Corgi,11488.5317,,10.3894,med,high,long,female,Estrada
+English Setter,24128.18,57.8092,13.187,high,high,med,female,Garcia
+English Setter,44064.3382,,12.0613,high,high,med,female,Brown
+Pug,7689.0804,,13.6692,med,high,short,male,Jones
+English Setter,25162.2524,,10.1421,high,high,med,male,Parker
+Japanese Chin Dog,2458.166,23.2531,12.2768,med,high,med,female,Garner
+Pug,6153.314,39.8856,12.9541,med,high,short,female,Williams
+English Setter,32372.1011,62.1725,11.5025,high,high,med,female,Foster
+Pug,6678.7147,40.4668,13.9599,med,high,short,female,Cruz
+Japanese Chin Dog,2545.181,23.037,13.4068,med,high,short,male,Reeves
+Pug,6127.7061,28.5135,13.4932,med,high,short,female,Thompson
+English Setter,20575.854,62.8626,10.2116,high,med,med,female,Lara
+Welsh Corgi,16456.1529,27.7403,11.0716,med,high,short,female,Keller
+Pug,8097.1548,33.3114,13.2984,med,high,short,female,Padilla
+English Setter,27189.6166,,9.5104,high,high,med,male,Barber
+Japanese Chin Dog,2592.7336,23.939,13.6789,high,high,short,male,Fernandez
+English Setter,21436.0724,65.5342,12.3877,high,high,long,male,Scott
+Pug,7116.01,35.7553,13.0368,med,high,short,male,Jackson
+Welsh Corgi,12024.7324,,11.0562,med,high,med,female,Mcbride
+English Setter,23513.8599,58.1408,11.4242,high,high,med,male,Thomas
+English Setter,38738.1942,,10.928,high,high,med,male,Mills
+Welsh Corgi,15649.7953,32.2596,9.7753,med,high,med,female,Moore
+English Setter,33139.1288,,11.1142,high,high,short,male,Lynch
+Pug,7469.8545,30.7854,12.379,med,med,short,female,Anderson
+English Setter,34178.7526,63.1383,11.1299,high,high,med,male,Daniels
+Welsh Corgi,8965.3385,,10.8057,med,med,med,female,Mills
+Japanese Chin Dog,2001.6394,,13.9743,med,high,med,male,Jimenez
+Japanese Chin Dog,3912.0772,,12.9814,med,med,med,female,Barnes
+Japanese Chin Dog,3427.6477,,12.8814,med,high,med,female,Hall
+Welsh Corgi,13852.7585,,10.2824,med,high,short,male,Estrada
+Pug,7280.9091,28.2435,13.3718,med,high,short,female,Anderson
+Pug,7518.1085,31.537,14.2048,med,high,short,male,Green
+Pug,7216.9465,28.8275,13.1765,med,high,short,female,Hernandez
+Welsh Corgi,17022.5697,28.3943,10.8996,med,high,med,female,Ruiz
+Pug,7598.1595,35.9522,14.224,med,high,short,male,Fletcher
+Japanese Chin Dog,1541.2383,24.4904,13.3528,med,high,med,female,Walker
+Pug,6904.906,30.4345,12.7645,med,high,short,female,Wolfe
+Pug,6803.2609,40.3019,13.3194,med,high,med,female,Leon
+English Setter,30926.388,59.8519,11.0881,med,high,short,male,Moses
+Welsh Corgi,15328.0109,27.4765,10.4326,med,high,short,male,Meyer
+Welsh Corgi,17061.8966,28.318,10.5889,med,high,med,female,Ponce
+Japanese Chin Dog,4481.4676,24.842,13.2646,med,high,med,male,Roberts
+English Setter,22244.3215,,12.3903,high,high,med,female,Diaz
+Welsh Corgi,14593.9437,29.9278,10.9223,med,med,med,female,Delgado
+Japanese Chin Dog,3493.955,24.0357,12.1731,med,high,med,female,Hernandez
+English Setter,22431.8122,60.1631,12.3325,high,high,long,female,Curtis
+Japanese Chin Dog,3378.148,24.441,12.0099,med,high,long,female,Calderon
+Pug,6081.1869,31.011,13.2821,high,high,short,male,Benton
+Japanese Chin Dog,2539.6918,24.1363,13.1982,med,high,med,male,Brown
+Japanese Chin Dog,3785.6089,,12.796,med,high,med,male,Delacruz
+Pug,6658.2832,,12.0806,med,high,short,male,Smith
+Welsh Corgi,12526.0873,27.9417,12.2044,med,high,med,male,Flynn
+Welsh Corgi,13990.1811,30.2692,10.8604,med,high,short,male,Barker
+English Setter,29845.4381,60.6628,12.4104,high,high,med,female,Baker
+English Setter,29599.6742,,11.2575,high,med,med,male,Clements
+Welsh Corgi,17642.395,26.2338,10.8445,med,high,med,male,Moore
+Japanese Chin Dog,4430.51,23.6529,11.8672,med,high,med,female,Kent
+Welsh Corgi,13290.7249,25.3227,12.0195,low,high,med,male,Gray
+Japanese Chin Dog,3974.7067,24.2683,14.1395,low,high,long,female,Ortiz
+Japanese Chin Dog,3433.837,,12.8187,med,high,short,male,Mcdowell
+Welsh Corgi,16375.7926,31.2163,10.8732,med,high,med,female,Smith
+Welsh Corgi,11392.7848,,11.8831,med,high,med,male,Greene
+Welsh Corgi,19780.1942,28.4147,10.8221,high,high,long,female,Boyd
+English Setter,22408.358,64.5134,13.4807,high,high,med,male,Kaylee
+English Setter,23932.0392,62.9925,10.3488,high,high,med,male,Adams
+Japanese Chin Dog,4821.9301,22.6218,13.1801,med,high,med,female,Hobbs
+Welsh Corgi,13523.9578,28.4548,11.2833,med,high,med,male,Huerta
+English Setter,24489.6804,62.4851,11.4319,high,high,long,male,Martinez
+Japanese Chin Dog,2269.9738,23.9722,12.5466,med,high,short,female,Shepard
+Welsh Corgi,15201.2462,27.4025,11.1703,med,high,med,male,Mitchell
+English Setter,28691.55,62.321,12.6451,med,high,med,female,Davis
+Pug,7922.8958,34.0429,14.5031,med,high,short,male,Payne
+Welsh Corgi,14217.6756,25.5903,10.6829,med,high,med,female,Jacobs
+English Setter,22450.6445,64.2328,11.5616,high,high,long,male,Wolf
+Welsh Corgi,13690.3655,32.718,10.5953,med,high,med,female,Wood
+English Setter,15037.0294,,10.6206,high,high,med,male,Rogers
+Welsh Corgi,14362.9409,30.6288,10.8489,med,high,short,male,Watson
+Welsh Corgi,17779.3557,29.2021,11.5528,med,high,med,male,Patel
+Pug,5756.0959,27.83,13.3916,low,high,med,male,Mathews
+Japanese Chin Dog,5440.2692,20.9755,12.3693,med,med,med,male,Obrien
+English Setter,27074.1151,,11.4435,high,high,short,female,Johnson
+Pug,7294.7981,,14.7085,low,high,short,male,Johnson
+Pug,6037.8497,36.8074,14.8652,med,med,short,male,Tyler
+Welsh Corgi,14295.8458,27.4691,9.8509,med,high,med,male,Watkins
+Welsh Corgi,15778.551,29.4085,10.8149,low,high,long,male,Barnes
+Welsh Corgi,14953.5289,30.3875,11.7269,med,med,med,female,Jones
+Japanese Chin Dog,5571.0607,,12.9477,med,high,med,female,Jones
+Welsh Corgi,14534.7582,31.7015,10.9774,med,high,med,male,Woodard
+Pug,7374.1593,30.7126,14.5482,med,high,short,female,Mckee
+Japanese Chin Dog,3246.8257,23.0149,13.8464,med,high,med,female,Herrera
+Japanese Chin Dog,5422.7063,23.1654,13.7937,med,high,med,female,Watts
+Japanese Chin Dog,4639.6501,21.5392,13.2125,med,high,med,male,Johnson
+Pug,7697.5875,40.616,13.5208,med,high,short,male,Griffin
+Welsh Corgi,14604.4956,,10.7227,med,high,med,female,Taylor
+Welsh Corgi,11918.4151,29.3153,11.0719,med,high,med,male,Hernandez
+Pug,6463.2414,37.7021,12.1521,high,high,short,female,Sanchez
+Pug,6445.1866,38.989,11.0384,high,high,med,female,Garcia
+Pug,6940.3264,33.3881,13.3929,med,high,short,female,Hernandez
+Pug,6940.604,,12.4817,low,high,med,female,Hudson
+Welsh Corgi,18654.138,29.6178,11.2422,med,high,short,male,Lopez
+Japanese Chin Dog,4305.7648,23.3744,12.9926,med,high,med,male,Smith
+Japanese Chin Dog,3502.0821,23.6724,13.6522,med,high,med,female,Garcia
+Pug,6769.9364,32.3939,12.8293,med,high,short,male,Mendoza
+Japanese Chin Dog,5024.1107,24.6949,12.8385,med,med,med,female,Hill
+Pug,7169.5709,33.6943,13.3926,med,high,short,male,Ballard
+Pug,7630.3152,30.0378,14.5636,high,med,med,male,Johnson
+English Setter,24273.1238,59.6162,11.3154,med,high,med,female,Riddle
+English Setter,30417.8217,64.2092,12.1776,high,high,med,male,Hill
+Pug,6225.4969,,14.5806,med,high,short,male,Patterson
+English Setter,31928.9725,67.6433,12.2396,high,high,med,male,Crawford
+Pug,7964.1809,34.4583,13.7061,med,high,short,male,Morales
+Japanese Chin Dog,3712.1386,23.5164,12.3024,med,high,short,male,Valdez
+Japanese Chin Dog,2829.394,23.5798,11.7653,med,med,med,female,Mclean
+Welsh Corgi,11438.8374,28.8966,12.0092,low,high,long,male,Patel
+Welsh Corgi,17376.4999,,11.3107,high,high,med,female,Huynh
+Japanese Chin Dog,4034.1635,23.2528,13.4388,med,high,med,female,Martinez
+Pug,6280.8661,39.6611,13.5671,med,med,short,male,Howell
+Pug,7354.1629,31.778,12.6301,med,high,short,female,Wells
+Welsh Corgi,12786.1244,26.0459,11.7686,med,high,med,female,Graham
+Japanese Chin Dog,2174.0536,,13.556,med,high,med,male,Harvey
+Japanese Chin Dog,4498.5632,23.6568,12.9078,high,high,med,female,Morgan
+English Setter,32611.0069,61.5834,12.558,high,high,med,male,Castro
+English Setter,32778.7198,62.2306,10.593,high,high,med,male,Gutierrez
+English Setter,26435.8271,,14.4499,high,high,med,female,Smith
+Pug,7326.4963,30.772,14.0356,low,high,short,male,Hall
+Japanese Chin Dog,3055.5528,25.3069,12.8354,low,high,med,male,Baker
+Pug,6956.1417,,14.7082,med,high,short,male,Mitchell
+English Setter,24313.7622,59.9664,12.0008,high,high,med,female,Anderson
+English Setter,40879.0997,,13.334,high,high,med,male,Kaufman
+Welsh Corgi,13676.6533,31.3749,11.6137,low,med,short,female,Parker
+Japanese Chin Dog,3590.4026,,12.7399,med,high,med,male,Allen
+Pug,6891.7071,34.614,12.4129,med,high,short,male,Miller
+Welsh Corgi,15199.8502,30.4945,10.6879,med,high,short,female,Madden
+Pug,6725.7458,30.1391,13.1931,med,high,short,male,Jessica
+Pug,7677.6488,32.9315,12.9619,med,high,short,female,Neal
+Welsh Corgi,16341.1055,,10.9558,med,high,long,female,Nelson
+Welsh Corgi,13711.8199,,11.1827,med,high,med,male,Sharp
+Pug,7312.3248,38.3947,13.1729,med,high,short,female,Hayden
+Japanese Chin Dog,3824.0015,22.877,14.646,low,high,med,female,Thomas
+Pug,6234.9874,32.2351,14.1126,high,high,short,female,Garcia
+English Setter,23152.902,59.8088,11.6854,high,high,med,female,Good
+English Setter,26749.5973,64.6549,11.1495,high,high,med,male,Morrow
+Welsh Corgi,17227.8248,,11.1243,med,high,long,male,French
+English Setter,34014.9603,,11.5867,med,high,med,female,Ashley
+Pug,7051.3052,,11.7845,high,high,short,female,Walker
+Pug,6810.9638,37.3345,13.7995,med,med,short,male,Walker
+Japanese Chin Dog,5252.2054,24.6583,12.9186,med,high,long,male,Howell
+English Setter,29467.9328,,11.196,high,high,long,female,Conway
+English Setter,28953.1014,,13.0112,high,high,med,female,Lori
+Japanese Chin Dog,3719.2298,,13.6562,med,high,med,female,Walsh
+Japanese Chin Dog,5619.3342,,13.3796,med,high,short,male,Wells
+English Setter,26487.8485,,10.933,high,high,med,female,Jackson
+Pug,7803.5408,,12.1341,med,high,short,male,Joseph
+Pug,6566.1186,37.4074,13.0663,med,high,short,male,Diaz
+Pug,6822.2131,27.9435,14.2111,med,med,short,male,Roberts
+English Setter,25905.5076,60.6106,13.0804,high,high,med,female,Garcia
+Japanese Chin Dog,3975.6102,23.6117,13.5619,med,high,med,female,Flores
+Welsh Corgi,13231.7372,28.641,11.3919,med,high,med,male,Anderson

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Pug,6925.5341,36.216,12.7409,med,high,short,female,Diaz
+Pug,7181.7487,33.1855,14.0144,med,high,short,male,Williams
+Akita,60440.4352,68.4625,10.3768,high,med,med,male,Conrad
+Akita,34292.1776,,12.2287,med,med,long,male,Bates
+English Setter,23369.0617,61.787,10.9552,high,high,short,male,Mullins
+English Setter,21203.7111,59.3716,12.0314,high,high,med,female,Mendoza
+Pug,8568.1723,38.6734,13.4752,med,high,short,male,Wagner
+English Setter,24757.3776,61.1409,11.6776,med,high,med,female,Ortiz
+Akita,34473.1693,,12.1748,high,med,med,male,Lyons
+Akita,45819.6528,64.0498,10.5464,med,low,med,male,Downs
+Pug,7992.3506,33.0267,14.0899,med,high,short,female,Stark
+Pug,6112.7537,31.2495,13.7943,med,med,short,male,Daugherty
+English Setter,25732.0262,63.8133,11.8817,high,high,med,female,Smith
+English Setter,33262.5047,60.2768,12.3445,high,high,med,female,Patrick
+English Setter,29355.5412,62.9381,13.8262,high,high,med,male,Garner
+Akita,51589.0397,66.3608,10.9432,med,med,long,male,Rhodes
+English Setter,28450.6849,60.9215,10.5516,high,high,med,female,Wood
+English Setter,21189.5758,66.7522,14.0768,high,high,med,male,Jacobs
+Australian Shepherd,25282.8513,54.3227,13.6793,high,high,med,male,Dickerson
+Akita,36277.8596,67.1253,10.9666,med,high,long,male,Williams
+Pug,6121.0577,28.6734,13.1786,high,high,short,female,Haynes
+English Setter,27476.8932,,13.6027,high,high,short,male,Day
+Pug,7202.7956,29.6268,13.242,med,high,med,female,Alvarado
+Australian Shepherd,17555.8951,51.6242,13.3133,high,high,med,female,Holder
+Australian Shepherd,27078.5503,53.1619,13.7965,high,high,med,female,Jones
+Akita,49949.0234,66.5322,11.2314,med,med,med,male,Lawrence
+Australian Shepherd,23364.733,54.4091,14.3814,high,high,med,female,Levy
+English Setter,39075.8501,60.6701,11.4323,high,high,med,male,Jane
+Akita,55900.402,66.8626,11.6384,med,med,med,female,Santiago
+Akita,37636.7308,65.2783,11.4488,med,med,long,male,Wilson
+Akita,41720.065,65.1593,10.88,med,med,med,female,Singh
+English Setter,29187.5168,64.9534,12.3795,high,high,med,female,Griffin
+English Setter,36732.9174,,13.2702,high,high,med,male,Rodriguez
+English Setter,31936.6091,63.2502,11.5883,high,med,med,female,Ruiz
+Pug,6029.978,29.3085,12.9121,med,high,short,male,Colon
+English Setter,30015.0876,61.409,13.5448,high,high,med,male,Hernandez
+Akita,54517.9872,66.6043,11.8402,med,med,med,male,Price
+English Setter,29996.9948,60.8799,15.2313,high,high,med,male,Gomez
+English Setter,24643.262,61.3913,12.2561,high,high,short,male,Byrd
+Akita,43734.7379,68.635,11.4921,med,med,med,female,Case
+Akita,29572.3968,65.6168,11.5809,high,med,med,male,Mitchell
+Australian Shepherd,23368.7379,52.0645,12.7894,high,high,med,male,Potts
+English Setter,32469.4753,62.791,12.2353,high,high,long,male,Mcgee
+Pug,7167.921,33.4639,13.1866,med,high,short,female,Williams
+Akita,32856.8428,64.5878,10.5618,med,med,med,male,Perkins
+Australian Shepherd,22040.4621,52.8179,12.9352,high,high,med,female,West
+English Setter,27045.1732,59.346,12.5194,high,high,med,female,Jordan
+English Setter,34282.4412,62.2008,12.1546,high,high,med,male,Hall
+Akita,46892.6071,69.4085,10.7752,med,med,short,female,Sparks
+Akita,30352.439,,10.2149,med,med,med,female,Vang
+Akita,52394.4246,,11.7249,med,med,med,female,Cherry
+English Setter,33255.0233,57.1815,8.0842,high,high,med,female,Coleman
+Akita,41255.1023,66.9035,11.4941,med,med,med,female,Gomez
+English Setter,23584.1074,61.449,11.3784,high,high,med,male,Long
+Akita,53538.8293,,11.4437,med,med,med,male,Robinson
+Australian Shepherd,24168.4063,53.3049,12.3516,high,high,med,male,Davis
+Akita,41824.9088,66.5171,10.9774,med,low,short,female,Smith
+Australian Shepherd,25461.637,52.1898,13.4533,high,high,med,male,Carrillo
+Pug,7090.7315,27.9414,12.8501,med,high,short,female,Miller
+Australian Shepherd,31079.9526,55.407,13.6678,high,high,med,female,Woods
+Australian Shepherd,24471.3373,53.3248,11.7612,high,high,med,female,Mack
+English Setter,37886.5399,,10.0464,high,high,short,female,Torres
+Akita,51198.239,,11.4806,med,high,med,male,Lopez
+Pug,6431.6946,28.3551,13.4683,low,high,short,male,Vega
+Pug,6622.1819,37.4375,13.2422,high,high,short,male,Cunningham
+Pug,6489.7259,37.5444,13.1406,med,high,short,female,Quinn
+English Setter,27600.3146,,11.3473,high,high,med,male,Payne
+English Setter,28485.5987,61.9509,12.2727,med,high,med,male,Russell
+English Setter,26680.7414,,12.1442,high,high,med,male,Reed
+Akita,42263.8998,,10.8856,med,low,long,female,Vazquez
+Australian Shepherd,19999.9777,54.2117,12.9665,high,high,med,male,Briggs
+English Setter,29762.2588,65.1808,11.2922,high,high,med,male,Lopez
+Australian Shepherd,24748.8276,54.6285,13.5797,high,high,med,male,Hansen
+Australian Shepherd,21904.7108,,13.6545,high,high,short,female,Williams
+English Setter,29991.7001,66.0001,11.4641,med,high,med,female,Harris
+English Setter,26866.9445,61.1986,13.182,med,high,med,female,Wilcox
+Australian Shepherd,27522.2557,55.9689,13.0201,high,high,med,female,Harris
+Akita,44179.8897,66.4397,11.2148,med,high,med,female,Esparza
+Australian Shepherd,24071.2929,49.2769,12.9276,med,high,med,female,Allen
+Pug,7604.4782,36.4102,13.6496,med,high,short,female,Thompson
+English Setter,35090.4171,67.4605,13.091,high,high,short,male,Dudley
+Australian Shepherd,23229.7825,53.0225,13.0923,high,med,med,male,Garcia
+Pug,6263.8396,,12.8714,med,high,short,male,Roman
+Akita,44836.8506,69.9792,10.641,med,med,med,female,Medina
+Pug,6489.3089,,12.6499,med,high,short,female,King
+English Setter,34210.7895,,11.5384,high,high,med,male,Thomas
+Pug,6818.0445,31.7116,14.4383,med,high,med,female,Ayala
+Akita,41340.9944,66.937,11.9034,med,low,short,male,Brown
+Pug,7410.6834,32.5678,13.0717,med,high,short,female,Smith
+Akita,35757.9999,67.3918,10.1693,med,med,long,female,Morris
+Akita,47675.6091,67.8408,10.7719,med,low,med,male,Cole
+English Setter,30387.769,,12.0573,high,high,med,female,Ramirez
+Akita,34482.097,68.4194,10.6952,med,low,med,female,Sanchez
+Akita,40991.7519,,12.1844,med,low,med,male,Moore
+Australian Shepherd,25310.3422,51.4508,13.5541,high,high,long,male,Gomez
+Akita,34749.5701,65.5897,10.2366,med,low,med,male,Leon
+English Setter,32441.8848,61.3786,11.0243,high,high,med,male,Hicks
+Akita,43578.5685,65.759,10.9827,med,med,long,male,Carr
+Akita,59277.6385,65.8226,11.2639,med,med,med,female,Sandoval
+Akita,40669.7481,,11.9046,med,med,med,female,Blackburn
+Pug,6862.9306,,12.1856,med,med,short,male,Jones
+Akita,37265.3992,65.9429,12.0782,med,med,med,female,Thompson
+Akita,45701.0995,,11.2727,med,med,med,male,Costa
+Akita,42838.5868,64.1436,11.2342,high,med,med,male,Olson
+English Setter,33378.7963,61.7889,11.1262,high,high,med,female,Young
+Pug,7601.8851,37.5534,13.4962,med,high,short,female,Morris
+English Setter,23132.0167,,12.1983,high,high,med,female,Miller
+Akita,51489.5069,68.4914,10.5561,med,med,med,male,Morris
+English Setter,32926.7021,65.4375,12.0142,high,high,long,female,Newman
+Akita,54737.0028,67.6034,11.0183,med,med,long,male,Cole
+English Setter,22323.4438,63.3482,12.5569,high,high,med,male,Doyle
+Pug,6654.0486,29.5958,11.9967,med,med,short,male,Martinez
+Pug,7651.7524,,14.264,med,high,short,female,Jimenez
+Australian Shepherd,21897.552,,13.5706,high,high,med,female,Kurt
+Australian Shepherd,27294.317,,13.6335,high,med,long,male,Mccormick
+English Setter,31950.9259,61.6446,11.369,high,high,med,male,Robinson
+Australian Shepherd,21801.7903,54.8896,13.328,high,high,med,female,Valdez
+Pug,7281.0042,,12.5449,med,high,med,male,Schmidt
+Australian Shepherd,25199.858,,13.9089,high,high,med,male,Stevens
+Pug,7162.0197,31.7774,13.9432,high,high,short,female,Moore
+Australian Shepherd,19681.544,53.1077,12.8662,high,high,med,male,Beck
+Australian Shepherd,20253.808,54.3977,13.2954,high,high,long,male,Salas
+Australian Shepherd,20632.8261,55.4121,12.6867,med,high,long,male,Griffin
+Pug,6790.0736,31.2062,13.0042,med,high,short,female,Brown
+Pug,7037.6741,29.2372,14.4794,med,high,short,male,Miller
+Akita,53556.4556,,10.8917,med,low,med,female,Williams
+Akita,47954.2094,68.3838,10.7988,high,med,med,female,Watson
+Pug,7379.5329,30.8382,12.9529,high,high,short,male,Rodriguez
+Pug,7619.4373,,13.0284,low,high,med,male,Smith
+Akita,43785.5967,65.8001,11.2216,med,low,med,female,Powell
+Akita,39266.6559,67.776,11.3004,med,med,med,male,Gregory
+Akita,31910.8565,65.1754,11.6561,med,med,med,male,Scott
+Akita,43722.3421,66.6775,10.5808,med,med,long,male,Miller
+English Setter,28069.1198,59.7319,12.3902,high,high,long,female,Williams
+Akita,47405.5942,,11.4838,med,med,long,female,Smith
+Akita,39189.5435,67.6549,11.2352,med,med,med,male,Dickson
+Akita,42017.1199,66.2005,10.4749,med,med,med,female,Carter
+Akita,27016.9161,64.5885,10.9648,med,med,short,male,Smith
+Pug,6013.0438,,12.4715,med,high,short,female,Morris
+Australian Shepherd,23928.291,52.1809,13.3215,high,high,short,male,Anthony
+Akita,49463.0771,63.9977,10.0513,med,low,long,female,Long
+Australian Shepherd,19461.1688,52.5222,12.0609,high,high,med,male,Patton
+Pug,7592.4411,32.4752,14.4103,med,high,med,male,Robinson
+Akita,43421.2821,68.0116,10.3914,low,low,med,male,Thompson
+English Setter,32020.4028,65.2,11.1081,high,high,med,male,Mcintosh
+Akita,49896.0219,67.7185,11.3165,med,med,med,female,Adams
+Australian Shepherd,24191.7743,,13.0478,high,high,short,male,Floyd
+English Setter,29064.8078,62.1819,13.2805,high,high,med,female,Webster
+English Setter,31720.1891,62.0195,12.9079,med,high,med,female,Carter
+English Setter,27162.1767,,11.5465,med,high,short,male,Soto
+English Setter,29761.9207,,13.433,high,high,med,male,Lewis
+Pug,6777.4703,34.4461,15.2204,low,med,short,female,Carr
+Australian Shepherd,28246.6646,50.3553,13.7906,med,med,med,male,Palmer
+English Setter,30491.265,61.1667,11.7543,high,high,med,male,Hoffman
+English Setter,26229.9309,64.3023,11.9055,high,high,med,female,Davidson
+English Setter,32798.2831,57.0114,11.1767,high,high,short,female,Martin
+Pug,7581.9077,,13.7365,med,high,short,male,Bishop
+Akita,40896.4114,66.1611,10.8516,med,med,med,female,Grant
+Australian Shepherd,22729.8568,49.7935,14.1101,high,high,med,male,Phillips
+Akita,39417.9594,65.0122,10.1947,med,med,med,female,Hunt
+English Setter,34922.6933,64.3397,13.8211,high,high,long,male,Hawkins
+Australian Shepherd,21694.0444,53.1115,11.62,med,high,med,male,Lucas
+Akita,43182.4363,,11.8362,med,med,med,male,Adkins
+Akita,36091.9897,,10.3632,low,med,med,female,Hill
+English Setter,31352.6797,60.5888,10.7649,high,high,med,female,Smith
+Australian Shepherd,19417.5376,52.3761,12.9845,med,high,med,male,Dean
+English Setter,16979.7414,59.0232,11.5272,high,high,med,male,Arias
+English Setter,28531.3135,,11.2117,high,high,med,male,Avila
+Akita,35342.9023,,10.9826,med,med,med,male,Jones
+Akita,45229.8001,69.1809,10.2052,med,med,med,male,Ashley
+Akita,42229.8329,,11.2739,med,med,long,female,Kelsey
+Akita,31778.2389,66.5736,10.1212,low,med,short,female,Lewis
+English Setter,31452.4862,66.7747,13.4074,high,high,short,male,Harris
+Akita,29474.2246,,10.6522,med,med,short,female,Perez
+Pug,7612.7053,30.8621,13.0897,med,high,short,female,Martinez
+Pug,8000.5492,35.1683,12.6382,med,high,short,female,Jackson
+Akita,53211.2771,65.6882,11.103,med,low,med,male,Smith
+Pug,7900.3428,,13.5102,med,high,short,female,Watkins
+Australian Shepherd,25276.9036,53.3811,11.991,high,med,med,female,Fox
+Australian Shepherd,22064.7976,50.6657,12.7726,high,high,med,female,Warren
+Akita,48113.2346,,11.7952,med,high,med,female,Patrick
+Australian Shepherd,19924.9442,53.4128,13.3506,high,high,med,male,Davis
+English Setter,36469.048,,11.3159,med,high,med,male,Buck
+English Setter,21667.814,57.7887,13.9776,high,high,med,male,Cunningham
+English Setter,28502.7777,60.3629,12.313,high,high,med,male,Bradley
+Pug,7999.9888,36.148,13.7329,med,high,short,male,Johnston
+Pug,6959.8632,36.2354,14.0338,med,high,short,female,Brown
+Akita,36872.9128,66.6431,11.3165,low,med,med,female,Jones
+Pug,6497.0446,,14.1246,med,high,short,male,Alex
+Australian Shepherd,19998.5062,56.0082,12.9472,high,med,med,male,Gonzalez
+Akita,55648.3333,68.2095,10.4798,med,med,med,male,Garza
+Pug,8071.3634,31.3023,12.3599,low,high,short,male,Foster
+Pug,6765.8919,34.9365,12.9415,med,high,short,female,Shelton
+Akita,46061.8872,68.2122,10.7891,med,med,med,female,Meyer
+Akita,45925.6479,65.0079,12.5033,high,med,med,male,James
+English Setter,21365.1641,60.687,13.0838,high,high,long,female,Frey
+Australian Shepherd,24498.6156,,13.8276,high,high,med,male,Davies
+Akita,58035.3574,62.8928,11.1537,med,med,med,female,Meyers
+Australian Shepherd,21798.4945,54.546,13.8339,high,med,med,female,Weaver
+Pug,6806.2349,34.1633,13.373,low,high,short,male,Sparks
+Akita,42082.9125,68.6503,11.0737,low,med,med,male,Young
+English Setter,30172.6035,59.0341,14.6442,high,high,med,female,Gonzalez
+Australian Shepherd,29955.1105,53.6217,13.8842,high,high,med,female,Stephens
+Akita,49352.7392,68.5918,10.8237,med,med,long,male,Phillips
+Pug,6894.7805,37.2035,12.3558,med,high,short,female,Pittman
+Akita,64658.043,67.8399,11.3068,med,med,med,female,Hurst
+Pug,6571.9151,35.2165,13.7196,med,high,short,female,Johnson
+Pug,7849.3803,28.5776,12.7956,high,high,short,female,Ball
+Akita,45723.9195,66.8511,10.4304,med,med,med,female,Hernandez
+Australian Shepherd,22879.5464,54.2362,12.8799,high,high,long,male,Anderson
+Pug,6149.8626,36.4982,14.9111,high,med,short,female,May
+Akita,49999.1611,68.2526,9.5454,med,med,med,male,Mueller
+Pug,8081.7824,33.8508,12.9296,med,high,short,female,Mosley
+English Setter,20947.6527,64.4659,13.0883,high,high,long,female,Tate
+Akita,34972.7255,,11.3487,med,med,med,female,Robinson
+Akita,52625.4227,68.6126,11.2191,med,low,med,female,Stewart
+Akita,41233.2675,64.525,11.2532,med,low,long,male,Johnson
+Pug,7036.735,39.7217,12.9149,med,med,short,female,Marks
+Akita,55948.1747,,10.7942,med,med,med,male,Banks
+English Setter,31085.7567,,11.9682,high,high,med,male,Lee
+Pug,6807.5822,33.9641,13.7835,high,high,short,female,Hart
+English Setter,21092.8762,,12.8773,high,med,med,male,Meadows
+Akita,35385.5254,66.1086,11.8993,low,med,med,female,Austin
+Pug,6877.5359,32.3966,13.4521,med,high,short,female,Lloyd
+Australian Shepherd,24527.5824,54.9981,13.0117,high,high,med,female,Anderson
+Pug,6900.6158,28.7313,13.8333,med,high,short,male,Wang
+Australian Shepherd,24753.2538,,12.8671,high,high,med,female,Taylor
+English Setter,22533.6931,61.9427,14.0158,high,high,long,female,Morgan
+Pug,6205.9342,32.9656,14.5708,low,high,short,female,Kramer
+Pug,7843.7735,,14.31,low,high,short,male,Petty
+Akita,50644.5939,68.9052,11.001,med,med,long,female,Fuller
+Akita,46524.8378,66.9221,10.6562,med,low,med,female,Perez
+Akita,38390.7944,68.2511,11.5294,med,med,med,female,Moore
+Akita,45284.18,67.4209,11.6519,low,med,med,female,Holmes
+Akita,38372.3307,,10.0603,med,med,short,male,Roberson
+Australian Shepherd,22429.1478,53.1293,13.7689,high,high,med,male,Herrera
+Australian Shepherd,21370.5569,52.7562,13.3268,high,high,med,male,Rich
+English Setter,23926.889,,13.0752,high,high,long,female,Crawford
+Pug,7680.6106,,13.5449,med,high,short,male,Hernandez
+Pug,7380.7249,,12.9807,med,high,short,male,Cunningham
+Australian Shepherd,21774.7627,52.6507,13.2598,high,high,med,female,Cooper
+Australian Shepherd,24027.7511,53.1735,13.3111,high,high,med,male,Huff
+Akita,39949.1265,66.5421,11.5223,high,med,med,female,Webster
+English Setter,20847.0625,66.0424,11.5245,high,high,med,male,Byrd
+Australian Shepherd,27630.867,55.6751,12.0208,high,med,med,male,Chavez
+Australian Shepherd,23340.5088,,11.9786,high,high,med,male,Villarreal
+Akita,39922.6927,64.9455,10.8734,high,med,short,male,Nelson
+English Setter,22507.2399,63.9733,10.4585,high,high,med,female,Mendez
+Australian Shepherd,27406.5961,,12.8849,high,high,med,male,Myers
+Pug,7758.4624,35.2904,13.6515,med,high,short,male,Murphy
+Akita,55984.726,65.7393,11.2089,med,med,med,male,Bautista
+Australian Shepherd,24633.3423,53.4163,12.6605,high,high,med,male,Jenkins
+Australian Shepherd,26083.6108,52.7216,13.9479,high,med,med,female,Cooper
+Australian Shepherd,28143.5944,,12.5458,high,med,short,male,Smith
+Pug,8164.8506,34.1807,12.4625,med,high,short,male,Evans
+Australian Shepherd,23957.6421,54.3949,13.7,high,high,med,female,Bruce
+Akita,44645.7309,68.4479,10.8721,med,med,short,male,Solomon
+Akita,47058.7389,,11.04,high,med,med,male,Hudson
+Pug,7708.5635,35.5191,14.4756,med,high,short,male,Ramirez
+Australian Shepherd,20392.767,53.967,11.9411,high,high,med,female,Herman
+Pug,7893.9832,31.4137,15.1215,med,high,short,male,Brown
+English Setter,36306.1413,62.7294,13.1372,high,high,med,female,Pearson
+Akita,45842.8491,65.6487,10.8869,med,med,short,male,Valenzuela
+English Setter,19065.9768,61.0044,13.2312,high,high,med,female,Carter
+Pug,7203.6672,,13.7279,low,high,short,male,Sanders
+Pug,7142.5064,34.9076,12.8556,med,high,short,female,Taylor
+Akita,36477.5682,65.0784,12.1394,low,med,short,male,Hicks
+Akita,41636.9081,66.4372,9.5758,med,med,med,male,Tanner
+English Setter,27360.4248,,11.2266,high,high,med,male,Wendy
+Pug,6889.2224,30.9988,13.0102,med,high,short,male,Riggs
+English Setter,28373.804,55.9164,14.0385,high,high,med,female,Gordon
+Australian Shepherd,24306.831,53.6714,13.9632,high,high,long,female,Baker
+Australian Shepherd,19240.3211,50.4126,13.6192,med,high,short,female,Mendoza
+Australian Shepherd,26243.1135,52.926,12.8559,high,high,med,female,Arnold
+Akita,55677.782,69.7761,10.818,med,med,med,male,Sullivan
+Australian Shepherd,23170.8164,54.1201,14.0136,high,high,med,female,Reid
+Australian Shepherd,25029.1455,,12.7131,high,high,med,female,Mason
+Akita,38293.689,66.6628,10.9276,med,med,short,male,Le
+Akita,36508.3949,68.3098,9.917,med,med,med,male,Maldonado
+English Setter,31157.119,60.8306,11.9886,high,high,long,male,Orozco
+Pug,7706.5527,,12.1958,high,high,short,female,Farmer
+Australian Shepherd,25326.3221,53.9509,12.8131,high,high,long,male,Green
+English Setter,26790.9866,58.6248,14.1847,high,high,med,male,Anderson
+Akita,45751.7772,66.0185,11.4275,med,med,med,female,Wiggins
+English Setter,30415.4946,61.1096,10.3278,high,high,med,male,Delgado
+Pug,7053.2283,40.4251,12.4244,med,high,short,female,Tran
+English Setter,26382.0432,60.86,14.5833,high,high,med,female,Christina
+English Setter,27620.732,65.1281,12.2915,high,high,med,male,Deleon
+Australian Shepherd,20482.1278,,13.088,high,high,med,male,Baker
+Australian Shepherd,24500.898,,14.4248,high,med,short,female,Villanueva
+Akita,30177.8201,68.9139,11.1918,high,med,long,male,Trujillo
+Pug,7031.1129,35.1688,12.933,med,med,med,female,Deleon
+English Setter,20816.3706,60.9383,12.4368,high,high,med,female,Ramirez
+Akita,38555.7198,68.3916,9.6154,med,med,med,male,Morris
+Australian Shepherd,22465.5632,53.4587,13.4584,high,high,long,female,Williams
+Australian Shepherd,21919.8442,54.6536,12.3177,high,high,med,female,Jenkins
+Australian Shepherd,25573.9291,53.3025,13.184,high,high,med,female,Harris
+Australian Shepherd,20358.0016,55.194,13.3252,high,high,med,male,Allen
+Australian Shepherd,19232.6195,54.0389,13.3081,high,high,short,male,Garcia
+English Setter,29396.6266,61.4246,9.3826,high,high,med,male,Williams
+Pug,7116.2461,29.0433,13.9217,med,med,short,female,Welch
+English Setter,24143.479,61.1228,11.507,high,high,med,female,Hebert
+Pug,5882.7016,36.3013,12.5251,med,high,med,male,Knight
+Akita,50249.8591,66.7597,10.5805,med,low,med,male,Cohen
+Australian Shepherd,20340.1591,,13.9653,high,high,med,male,Russell
+English Setter,31666.862,,11.8585,high,high,med,female,Frost
+Australian Shepherd,22629.2768,52.6707,12.8992,high,high,med,female,Parker
+Australian Shepherd,24352.2629,52.9325,13.3547,high,med,med,female,Jones
+Akita,24498.6412,65.3004,10.45,high,med,med,female,Riggs
+Pug,6990.8448,35.3408,13.1207,med,high,short,female,Perez
+English Setter,31782.5859,60.7383,12.6561,high,high,med,male,Flores
+English Setter,35247.5036,65.9155,12.2509,high,med,med,female,Vargas
+Australian Shepherd,20908.6277,56.0721,12.9861,high,high,short,male,Simpson
+Akita,40731.0225,,9.8011,med,med,med,female,Gonzalez
+Australian Shepherd,16057.7119,,12.8639,high,high,med,female,Rivera
+Akita,43795.5894,,10.4913,med,med,med,male,Sims
+English Setter,24435.8043,62.6658,12.8042,med,high,med,female,Bruce
+English Setter,25549.3588,63.5598,10.7601,med,high,med,male,Mitchell
+Akita,39425.2663,66.0972,11.0413,high,med,short,male,Reed
+English Setter,36520.9398,61.5271,12.6439,high,high,med,female,Rojas
+English Setter,29240.118,63.3702,12.588,high,high,med,male,Schmidt
+Pug,6500.9313,38.6299,12.9496,med,high,short,female,Hale
+English Setter,25659.1752,,12.7292,high,high,short,female,Gordon
+Pug,7043.6892,34.0064,12.9965,high,high,short,male,Stout
+English Setter,29476.1467,57.0887,11.9164,high,med,med,female,John
+Akita,36030.336,65.1086,10.4079,med,med,short,male,Jackson
+Australian Shepherd,23342.0398,56.0745,12.2847,high,high,short,male,Erickson
+Pug,6578.0391,36.9886,13.5828,high,high,short,male,Perry
+English Setter,26308.8807,65.3972,12.2119,med,high,med,female,Pham
+Pug,6055.2489,38.0524,14.3462,low,high,short,female,Davis
+English Setter,25725.2451,61.7967,13.6023,high,high,med,male,Hamilton
+Akita,35161.8305,68.88,10.8537,med,med,short,male,Hudson
+English Setter,25504.8089,62.9349,12.6692,high,high,med,male,Bishop
+Akita,45703.5165,64.9435,10.4205,med,med,med,male,Alexander
+English Setter,31272.1507,,12.7887,high,high,med,female,Henry
+Australian Shepherd,15223.8454,52.7141,12.6647,high,high,med,male,Anderson
+English Setter,29208.7798,60.9744,10.0538,med,high,med,female,Harris
+Pug,6948.7703,,13.9667,med,med,short,female,Newton
+Akita,45803.387,66.6996,11.1319,med,med,med,female,Carter
+Pug,6731.3605,29.3016,15.1564,med,high,short,male,Conner
+Akita,38939.3196,65.0816,10.6189,med,med,med,female,James
+Akita,43361.9663,66.7918,9.7152,med,med,short,male,Johnson
+Akita,31558.6737,,11.4402,med,med,short,female,Greene
+Pug,8638.201,31.392,14.2802,med,high,short,female,Johnson
+Akita,50472.0007,67.3315,11.4428,med,med,med,female,Gray
+Australian Shepherd,22302.7808,55.2358,12.7096,high,high,long,male,Miller
+Australian Shepherd,23554.0618,53.5048,12.2229,high,high,med,female,Mitchell
+Pug,6980.4758,30.488,13.8594,med,high,short,female,Garcia
+Akita,42003.0726,66.3098,10.8891,med,med,med,female,Rivera
+Australian Shepherd,20419.8412,51.9596,13.7286,high,high,med,male,Collins
+Australian Shepherd,17419.9268,55.8832,12.7959,high,high,med,male,Park
+Australian Shepherd,29740.644,53.4107,12.6278,med,high,short,male,Smith
+Akita,54501.6084,66.5932,11.2018,med,high,long,female,Burns
+Akita,55064.4932,66.3679,10.3232,med,med,med,male,Liu
+Pug,7604.5484,33.3166,14.007,med,high,short,female,Powell
+Australian Shepherd,23192.4273,55.7581,13.1746,high,high,long,male,Lowe
+Pug,6233.3977,,13.0062,med,high,short,female,Gonzalez
+Australian Shepherd,24394.1196,51.1742,12.867,med,high,short,male,Blackburn
+Pug,6674.9446,34.1606,15.6044,med,high,short,female,Robles
+Australian Shepherd,23205.6828,54.1932,11.2939,high,high,med,female,Sherman
+Australian Shepherd,18813.3108,,13.0529,high,high,short,female,Anthony
+Akita,40045.7297,67.3636,10.8592,low,med,long,female,Burns
+Pug,6344.6456,31.8853,12.4156,high,high,short,female,Aguilar
+Akita,44096.3124,64.2411,10.9825,med,med,med,male,Leon
+English Setter,25147.2756,62.1489,12.0634,high,high,long,female,Vaughn
+English Setter,32736.4254,,11.2805,high,high,med,male,Shepard
+Akita,56922.5895,66.1109,10.3707,med,high,short,female,Mitchell
+Pug,7177.6448,29.4546,13.555,med,high,short,male,Johnson
+Australian Shepherd,25561.8891,55.1358,12.4288,high,high,med,female,Mccoy
+Pug,7540.6601,,12.8048,med,high,short,male,Bryan
+Pug,7398.9326,,13.6927,med,high,short,male,Smith
+Akita,51203.5404,67.9735,10.8374,high,low,short,female,Rivera
+Australian Shepherd,14961.5925,,12.7673,high,high,long,female,Johnson
+Australian Shepherd,26531.8026,53.7548,13.6999,high,high,med,female,Lucero
+Pug,7025.3763,29.8883,12.4978,low,high,short,male,Levine
+Akita,51476.8471,67.1746,10.7258,med,med,med,male,Young
+Pug,7483.8415,37.1492,15.2283,med,high,med,female,Stone
+Australian Shepherd,24962.8859,,13.0594,high,med,med,male,Barnett
+Akita,43502.3645,,11.009,med,high,short,male,Booker
+Australian Shepherd,29145.9648,55.8843,12.6294,high,high,med,male,Thomas
+Australian Shepherd,21299.3056,53.1317,13.0773,high,high,med,female,Hawkins
+Akita,32390.0515,,11.5076,med,med,short,female,Barnes
+English Setter,23597.7228,,11.3218,high,high,med,male,Brown
+English Setter,21250.8726,62.6585,11.8739,high,high,med,male,Townsend
+Pug,7983.9466,30.9639,12.3849,med,high,short,female,Snyder
+English Setter,37599.3595,59.5035,12.326,high,high,med,male,Tate
+Australian Shepherd,17038.7396,52.2837,12.6809,high,high,med,female,James
+Akita,50811.369,68.4762,9.8487,med,med,long,female,Garcia
+Akita,40226.4753,67.372,11.1885,med,high,med,male,James
+Pug,6357.6871,34.9439,12.8905,med,med,short,female,Pratt
+English Setter,31772.4973,57.0387,11.1719,high,high,med,male,Ross
+Akita,57088.8828,67.7417,10.8772,med,med,med,female,Estrada
+Pug,6894.3997,40.9845,14.5086,med,high,short,male,Thomas
+Pug,7757.838,33.623,14.8203,high,high,short,male,Torres
+Australian Shepherd,15491.0847,,12.8168,high,med,short,male,Schultz
+English Setter,29042.5124,,12.9778,high,med,med,female,Reed
+Pug,7078.1362,31.0887,14.0242,med,high,short,female,Price
+English Setter,30573.446,64.4452,12.1341,high,high,long,female,Morgan
+English Setter,38121.6709,60.3984,12.6474,high,high,med,female,Lopez
+Pug,7694.7764,36.0952,14.6346,med,high,med,female,Wright
+English Setter,22478.0317,,11.3537,high,high,med,female,Roberts
+Akita,41311.7365,63.9726,10.9127,med,med,med,male,Gonzalez
+Pug,8000.4535,,12.5141,med,high,short,male,White
+Australian Shepherd,20750.292,53.0946,14.0436,high,med,med,female,Gates
+English Setter,31427.9118,63.0219,9.4894,high,high,med,male,Thomas
+Pug,7684.1044,39.5654,14.9968,med,high,short,male,Sherman
+English Setter,21779.9885,,11.5257,high,high,med,female,Smith
+Australian Shepherd,26574.4959,53.5957,13.8906,high,high,med,male,Bailey
+English Setter,29895.0454,61.5849,13.0776,med,high,med,male,Daniel
+Akita,51748.5593,66.2764,11.1924,med,low,short,male,Newton
+Australian Shepherd,24262.9009,52.4785,13.3377,high,high,short,female,Cannon
+Akita,55479.6891,66.5217,10.4186,med,med,long,female,Schultz
+Australian Shepherd,23930.6033,53.3804,12.6104,high,high,med,male,Lopez
+Pug,6940.0971,31.2582,12.1479,low,med,short,female,Ray
+Pug,6846.665,32.0328,13.9272,med,high,short,male,Smith
+Pug,7055.799,,13.0567,med,high,short,male,Barton
+Pug,6746.7903,43.0666,13.8609,med,high,short,female,Harrison
+Akita,39405.8054,66.751,12.4807,med,med,med,female,Valentine
+Akita,40075.4195,,10.7577,med,med,med,male,Turner
+English Setter,34205.6765,62.1003,13.8445,high,high,med,female,Bryant
+Australian Shepherd,21480.6777,56.14,12.8579,med,med,med,male,Campbell
+English Setter,25338.4593,,11.5049,high,high,med,male,James
+English Setter,13224.2716,63.5762,12.7708,high,high,short,female,Ford
+Australian Shepherd,20511.2178,,13.0779,high,high,short,female,Burnett
+Akita,48924.0264,66.3528,10.8262,med,med,med,female,Gould
+English Setter,33266.8071,60.1421,9.4513,med,high,med,female,Brady
+English Setter,29407.1718,59.5591,11.5611,high,high,long,female,Coleman
+Australian Shepherd,21879.7144,53.4249,12.5244,high,high,med,female,Alexander
+Australian Shepherd,18323.8507,,13.6657,high,high,med,female,Curry
+Australian Shepherd,22224.4641,,12.6713,high,high,short,male,Hill
+Akita,49254.9935,67.3464,11.5294,med,med,med,female,Harris
+Akita,49900.6412,64.1272,10.3808,med,high,med,female,Erin
+Australian Shepherd,21597.9511,,13.3089,high,high,med,female,Benson
+English Setter,26572.4497,64.8969,10.2332,high,high,med,female,Lewis
+Australian Shepherd,26225.8296,52.7475,12.2887,high,high,med,male,Ray
+Akita,57535.5468,68.6257,9.5133,med,med,med,male,Thomas
+Akita,47208.2905,66.527,10.2726,med,med,med,male,Hill
+English Setter,30161.4706,64.1248,12.2706,high,high,med,male,Amanda
+Pug,7552.6725,32.1162,14.6579,med,high,short,female,Trujillo
+Australian Shepherd,23097.8715,51.3649,13.2505,high,high,long,male,Myers
+Australian Shepherd,27267.4909,52.703,12.8458,high,med,med,male,Randy
+English Setter,32008.8545,62.3516,10.0089,med,high,med,male,Williams
+Pug,6172.3055,31.386,13.5232,med,high,short,male,Lynn
+Pug,6391.654,37.0338,13.1231,med,high,short,male,Garcia
+Australian Shepherd,21629.0693,51.3525,12.9027,high,high,med,male,Schmidt
+Australian Shepherd,22594.4912,55.3651,13.0495,high,high,med,female,Mills
+Pug,7771.9883,34.0116,12.5468,low,high,med,male,Austin
+English Setter,31288.8263,,12.2904,high,high,med,male,Madden
+English Setter,26627.6269,57.7916,13.0843,med,high,long,female,Fowler
+Pug,6924.2565,34.4857,12.9354,high,high,med,male,Allen
+Australian Shepherd,20644.4333,54.4484,12.1057,high,high,med,female,Cole
+Australian Shepherd,26276.927,53.3904,14.0006,high,high,med,male,Jones
+Australian Shepherd,25278.4148,53.0805,13.1971,high,high,med,male,Foster
+Pug,7342.8959,31.4705,13.2018,med,high,short,male,Mccormick
+Akita,53370.1596,64.2364,11.241,med,high,med,male,Richard
+English Setter,23779.4189,59.9375,10.5656,high,high,med,male,Fowler
+English Setter,27968.1808,63.4731,12.6445,high,high,med,male,Brown
+Pug,6225.9382,26.0982,12.9363,med,high,short,female,Ortiz
+Australian Shepherd,23731.8315,,13.3241,high,med,med,female,Barnes
+Akita,62902.4404,67.1937,11.1422,med,med,med,male,Kelly
+Australian Shepherd,24449.8094,55.2915,13.3774,high,high,med,female,Shah
+Akita,26028.5328,,9.7426,med,med,med,female,Lopez
+Australian Shepherd,19488.5759,52.1311,12.8378,high,high,med,female,Vang
+Australian Shepherd,20860.628,52.5453,12.5776,high,high,med,male,Brewer
+Australian Shepherd,22757.2026,52.8111,13.3293,high,high,med,male,Howard
+Akita,46801.1427,,10.0735,med,med,short,male,Bell
+English Setter,35021.8844,61.7514,12.2216,high,high,short,male,Mills
+Australian Shepherd,20853.7633,53.6639,12.6213,med,high,med,female,Hernandez
+Pug,5878.7921,26.1061,14.4988,med,high,short,female,Woods
+English Setter,33952.9677,67.4307,13.1269,high,high,short,male,Adams
+Australian Shepherd,16572.7338,52.449,14.1598,high,high,med,male,Bennett
+English Setter,24559.8238,67.0119,12.3479,high,high,med,female,Ayala
+English Setter,33339.0109,61.4588,12.421,high,high,long,male,Ball
+English Setter,31660.0535,61.1966,11.835,high,high,med,male,Archer
+Australian Shepherd,21554.903,52.1936,12.9534,high,high,med,female,Crawford
+Australian Shepherd,25014.7895,55.5275,12.4876,high,high,long,female,Brown
+Akita,40595.8062,66.9998,10.5209,med,med,med,female,Perez
+Australian Shepherd,19496.1159,52.9919,12.3977,high,high,med,female,Moreno
+Australian Shepherd,17698.4346,,13.9531,high,high,med,male,Blake
+Pug,7365.1125,,12.5235,med,high,short,female,Harris
+English Setter,23655.8373,62.1351,12.9278,high,med,med,male,Green
+Pug,6964.9213,34.3515,13.5235,low,high,short,male,Jones
+Australian Shepherd,22124.9793,57.0714,13.6225,high,high,med,female,Brown
+Pug,7707.664,24.1638,12.4942,med,high,short,female,Davis
+Akita,45475.6003,65.1926,10.4181,med,med,med,female,Proctor
+Akita,29728.1158,65.1232,11.417,med,med,med,female,Berger
+English Setter,26921.3528,60.3248,12.017,high,high,med,female,Allen
+Akita,48207.1152,,11.3881,med,med,med,female,Lynch
+English Setter,25644.9774,61.391,11.1922,high,high,med,male,Bartlett
+English Setter,22948.3752,61.5369,10.8785,high,high,med,male,Morrow
+Australian Shepherd,25480.8292,52.9823,12.9443,high,med,long,male,Scott
+Pug,6819.6943,29.3369,14.6907,high,high,short,female,Rice
+English Setter,21777.5603,,10.572,high,high,med,female,Bush
+Pug,7451.3182,30.1897,15.2827,med,high,short,female,Butler
+English Setter,29263.4939,,11.6777,high,high,med,male,Ellis
+Australian Shepherd,23745.8612,52.4569,12.4301,high,high,med,female,Sanchez
+English Setter,27515.9546,,12.7063,high,high,med,female,Terry
+Akita,43978.4812,67.356,11.2227,med,med,med,female,Durham
+Pug,7228.4731,,12.212,med,high,short,female,Harding
+Australian Shepherd,31845.5955,54.0151,12.03,high,high,med,male,Osborne
+Pug,7037.9351,36.1231,14.1367,low,high,short,female,Russell
+Akita,39086.9379,67.055,12.2784,med,med,med,female,Gallegos
+Pug,6635.683,36.3019,12.548,med,high,short,female,Taylor
+English Setter,30398.4556,58.6015,11.5902,high,high,med,male,Mariah
+Akita,39383.6462,68.5763,11.0418,med,high,med,female,Porter
+Akita,43632.6135,65.5094,10.9189,med,med,med,female,Hinton
+English Setter,22290.4439,60.1028,11.336,high,med,med,female,Gonzales
+Australian Shepherd,21512.5979,54.1232,12.9856,med,high,med,male,Burgess
+Akita,36622.153,65.5733,11.0387,med,med,med,male,Rhodes
+Australian Shepherd,24554.5737,,13.6884,high,med,short,male,Osborn
+Akita,31851.1667,64.4914,10.5167,med,med,med,female,Johnson
+Australian Shepherd,19085.4038,52.9242,13.1674,med,high,med,male,Newman
+Pug,6573.1601,,13.3238,high,high,short,male,Christensen
+English Setter,16494.4536,65.0759,11.8527,high,high,med,female,Daugherty
+English Setter,37812.291,62.0267,12.6805,high,high,med,male,Moore
+English Setter,27483.1549,63.6799,14.0459,high,high,med,male,Smith
+Pug,7845.3245,,13.2302,med,high,short,female,Sims
+Australian Shepherd,23443.8498,54.2865,12.3404,high,high,long,female,Roberts
+Pug,7397.1846,,15.2875,med,high,short,male,Snyder
+English Setter,24084.6799,60.3082,14.1526,high,high,med,female,Mills
+English Setter,23980.8697,64.7173,12.1685,high,high,short,female,Baker
+English Setter,24506.0043,57.307,12.5091,high,high,med,male,Mckenzie
+Australian Shepherd,25294.1893,54.5083,13.0019,high,high,med,male,Irwin
+Australian Shepherd,28422.2289,53.3411,12.9423,high,high,short,male,Ramirez
+English Setter,24914.1769,61.2807,11.2598,high,high,med,male,Anthony
+Akita,46504.0305,66.8197,9.9478,high,med,med,female,Haley
+English Setter,23914.6894,57.4265,11.6429,high,high,short,male,Henry
+Australian Shepherd,20760.811,52.493,14.1942,high,med,med,female,Mckinney
+Akita,46219.6711,,11.4209,high,high,med,male,Green
+English Setter,34893.9663,63.2729,12.3377,high,high,med,male,Armstrong
+Australian Shepherd,27732.1479,,12.3151,high,high,med,male,Wong
+English Setter,19361.0185,,11.908,high,med,med,male,Ortega
+Akita,48280.211,68.2454,11.5412,med,med,med,female,Shepherd
+Pug,7474.9566,31.0081,12.4005,med,high,short,male,Williams
+Akita,52479.6332,66.6941,11.1907,low,low,med,male,White
+Pug,6453.8811,,14.2591,high,high,short,female,Sutton
+English Setter,26679.2587,61.7383,9.9359,high,high,long,male,Frye
+Akita,45865.8764,66.4513,11.3255,high,med,long,male,Jordan
+English Setter,22968.9377,,10.2981,high,high,med,male,Clark
+English Setter,29846.3638,,10.632,high,high,short,female,Krueger
+Pug,6136.0909,32.2568,13.7185,med,high,short,female,Watts
+Pug,7491.9918,38.1833,15.0805,low,high,short,female,Ruiz
+Australian Shepherd,20869.6705,54.0967,12.7487,high,high,long,male,Castillo
+English Setter,29796.884,59.6963,11.7073,high,high,med,female,Johnson
+English Setter,25505.0914,59.4393,11.4928,high,high,med,male,Sweeney
+Akita,52686.7313,66.6358,11.3481,high,med,med,female,Mcknight
+Australian Shepherd,23032.5081,52.3969,13.449,high,high,med,female,Brown
+Pug,6311.0812,34.3217,11.8565,med,high,short,female,Faulkner
+Australian Shepherd,22465.8268,54.5783,13.302,high,high,med,male,Rogers
+Akita,36833.7681,65.4819,10.1977,med,med,med,female,Medina
+Akita,45093.6077,66.5991,11.9936,med,low,med,male,Payne
+Akita,44728.996,66.2489,11.675,low,med,med,male,Salazar
+English Setter,37909.9618,66.6275,11.5836,high,high,med,male,Schmidt
+Australian Shepherd,23262.9514,51.3698,13.1451,high,high,med,male,Walker
+Pug,7114.6328,37.2286,13.5629,med,high,short,male,Lucas
+English Setter,33627.3973,,12.9832,high,med,med,male,Nelson
+Australian Shepherd,22430.8052,51.7996,13.5845,high,high,med,female,Simpson
+Akita,59595.1011,63.9167,10.8068,med,med,med,female,Rivera
+Akita,37890.4848,66.1267,9.8493,med,med,med,female,Williams
+English Setter,28587.7525,66.0242,12.9138,high,high,med,male,Lawson
+Pug,7089.3405,35.3429,13.4886,med,high,short,male,Green
+Pug,7081.6011,33.5005,11.1532,med,high,short,female,Cooper
+Australian Shepherd,23863.6685,54.1503,12.3181,high,high,med,male,Foster
+Australian Shepherd,22685.3073,55.5432,12.2267,high,med,med,female,Mcconnell
+English Setter,23559.3452,61.1264,11.7458,high,high,med,male,Mitchell
+English Setter,27159.0428,,11.9411,high,high,short,female,Lee
+Akita,49866.3352,,10.8691,med,med,med,female,Fowler
+Akita,30868.9058,,10.4707,med,med,short,male,Weber
+English Setter,37252.9924,63.5242,11.3494,high,high,med,male,Sheila
+English Setter,26514.6273,63.8493,10.024,high,high,med,male,Escobar
+English Setter,27693.3131,58.0482,13.4453,high,high,long,male,Crawford
+Pug,5961.7393,33.0249,12.6867,high,high,short,female,Adams
+English Setter,29459.9348,61.0614,13.7315,high,high,med,female,Winters
+Akita,42106.3182,67.9047,10.7411,med,low,med,female,Santos
+Pug,7337.1432,32.2243,14.397,low,high,short,female,Burgess
+Australian Shepherd,19587.1711,54.7774,12.933,high,high,med,female,Rodriguez
+Akita,46197.94,,11.1302,low,med,med,male,David
+English Setter,22192.8373,65.7235,13.7437,high,high,med,male,Patrick
+Australian Shepherd,21064.6418,,14.1513,high,high,med,female,Smith
+English Setter,30561.4616,59.4008,11.4347,high,high,med,female,Hamilton
+Australian Shepherd,22980.7883,55.2519,13.6441,med,med,med,male,Cooper
+Akita,45782.2696,66.9716,10.3331,med,med,med,male,Lyons
+Australian Shepherd,30085.9545,,13.1947,med,high,med,female,Alexander
+Akita,41306.6778,63.8569,10.8381,med,med,med,male,Harris
+Akita,38811.7494,66.1178,10.3935,med,high,med,male,Delgado
+English Setter,30908.5237,65.0048,11.3148,high,med,med,male,Walsh
+English Setter,27581.0489,63.4617,11.9804,high,high,med,female,Horton
+Australian Shepherd,23594.0533,54.15,12.9913,high,high,short,male,Perez
+Australian Shepherd,22899.0973,50.9323,12.7296,high,high,med,female,Tyler
+Akita,57656.683,65.8718,10.9262,med,med,med,female,Perez
+Akita,39016.5747,66.7281,10.0819,med,med,med,male,Frank
+Akita,45761.156,70.1866,11.4033,med,med,med,male,Davis
+Akita,52223.6424,,10.3316,med,med,med,female,Brooks
+Pug,7255.8182,31.2238,13.0828,med,high,short,male,Wallace
+English Setter,28090.2458,65.6736,10.1401,high,high,short,female,Collins
+Australian Shepherd,24478.6276,54.2036,11.9052,high,high,med,female,Crane
+Pug,6487.1895,35.2159,13.8987,med,high,short,female,Martin
+Australian Shepherd,25004.6887,52.1813,12.8712,high,high,med,female,Sharp
+Australian Shepherd,22569.1845,50.8928,13.3373,med,high,med,female,Rodriguez
+Australian Shepherd,24592.32,51.9993,12.8196,high,high,med,male,Duncan
+Akita,38498.3958,65.676,10.0507,med,med,med,male,Scott
+English Setter,34601.4446,,11.863,high,high,short,male,Bean
+English Setter,29826.6215,58.8472,11.3256,high,high,med,female,Lindsey
+Australian Shepherd,18493.7392,,13.2595,med,high,med,male,Pope
+Australian Shepherd,28806.687,54.5438,11.5548,high,high,med,male,Price
+Akita,41491.9416,,10.996,med,med,long,male,Diaz
+Pug,7230.7165,35.4113,13.9474,med,high,short,male,Jensen
+Pug,6273.017,,14.5327,med,high,short,female,Mcbride
+English Setter,28330.7826,61.7728,10.6958,high,high,med,female,Schroeder
+Akita,46703.7805,65.6583,10.4598,med,med,med,male,Velasquez
+English Setter,33822.055,63.4981,12.0386,med,med,med,female,Harris
+English Setter,34300.035,62.1717,12.8401,high,high,med,male,Suarez
+Australian Shepherd,23275.358,53.9683,13.7783,med,high,med,female,Hughes
+Pug,6315.4127,31.5363,13.2872,high,high,short,male,Huffman
+English Setter,24229.6508,58.7254,12.5543,med,high,med,male,Long
+Akita,47544.779,,11.4632,med,med,med,female,Kim
+Australian Shepherd,32770.8504,56.6066,13.2789,med,high,med,male,George
+English Setter,24382.7765,60.3877,10.9584,high,high,med,female,Greer
+Pug,6794.2924,27.214,13.7603,med,high,short,male,Diaz
+Australian Shepherd,22346.3632,53.4747,12.5955,high,high,med,male,Garcia
+English Setter,28228.6918,60.3606,11.6806,high,high,short,male,Bush
+Australian Shepherd,25171.9068,,13.1968,high,high,med,male,Douglas
+Akita,44300.2429,67.5221,9.9841,low,med,med,female,Valdez
+Australian Shepherd,23432.3309,53.4361,12.7603,high,high,short,male,Peterson
+Akita,55545.0644,67.3235,12.6552,med,high,med,female,Gregory
+Australian Shepherd,23483.0146,54.2858,12.6206,high,high,med,male,Nichols
+Pug,7330.5441,36.2136,12.7991,high,high,short,female,Peterson
+Australian Shepherd,24854.8531,52.3875,12.6679,high,high,med,male,Roberts
+English Setter,28863.1167,63.1174,12.4011,med,high,med,male,Williams
+Akita,55136.0438,,11.5866,low,med,med,male,Grimes
+Akita,48562.0594,,11.5164,low,med,med,male,Nolan
+Akita,33302.7899,66.7974,10.7594,high,med,long,male,Stone
+Pug,6840.4022,33.39,15.4713,low,high,med,female,Fleming
+English Setter,30914.0769,61.9705,11.0856,high,high,med,male,Schmidt
+Akita,41903.2461,,10.1857,med,med,med,female,Estrada
+Akita,62369.2369,61.5247,11.5801,high,high,med,male,Clark
+Akita,57090.998,67.6882,11.0766,med,med,med,female,Jackson
+Australian Shepherd,24693.398,53.1928,13.41,high,high,med,female,Wagner
+English Setter,33704.3757,67.7071,10.6522,high,high,med,female,Curtis
+Pug,6956.1836,31.9348,11.8477,med,high,short,female,Newman
+Pug,6889.5209,,14.293,med,high,short,male,Walker
+Pug,7431.1769,34.4265,13.669,med,med,short,male,Miller
+Pug,8225.9668,34.3945,14.469,high,high,short,male,Davis
+Pug,7206.1514,32.2562,12.6923,high,high,short,male,Caldwell
+Akita,50343.6752,66.8537,10.6465,high,med,med,female,Pratt
+English Setter,21913.766,58.6816,12.022,high,high,med,female,Thomas
+English Setter,21362.7801,61.1034,10.9269,high,high,med,female,Thompson
+Akita,40238.362,69.372,10.6626,med,low,med,male,Bailey
+English Setter,34331.2283,63.1234,12.038,med,high,short,female,Hill
+Pug,5715.8118,,13.413,med,high,short,male,Frank
+Australian Shepherd,25835.6513,50.5267,12.6696,high,high,med,male,Morris
+Australian Shepherd,28663.7218,51.0684,13.9321,high,high,med,female,Washington
+Pug,7256.7856,31.6136,14.727,low,high,med,female,Small
+Australian Shepherd,27143.4383,,13.0162,high,high,med,male,Nguyen
+Akita,39162.8869,65.5714,11.0392,high,med,med,male,Heather
+Australian Shepherd,25985.7255,54.5857,13.2939,high,high,med,female,Ryan
+Akita,32943.4151,64.8552,11.0086,med,med,med,male,Davis
+English Setter,30610.5674,,10.2016,med,med,med,male,Thompson
+Pug,6756.463,33.6909,13.6462,med,med,short,female,King
+Pug,6957.4418,32.7229,12.2355,med,high,short,male,Walters
+Pug,7889.6084,35.5677,13.4084,med,high,short,female,Nelson
+Pug,5891.2901,34.4959,13.1166,med,high,med,male,Ramirez
+Pug,8258.1297,35.806,13.3668,med,med,short,male,Fisher
+English Setter,24407.7305,,12.1182,high,high,long,female,Garza
+Akita,46058.7044,67.3265,10.1529,med,med,med,female,Reyes
+Pug,7660.7627,32.3281,14.5567,med,high,short,female,Johnson
+English Setter,26152.6508,,11.8151,high,med,med,male,Travis
+Pug,7197.0157,,14.651,med,high,short,male,Scott
+English Setter,32579.4497,64.6439,10.856,high,high,med,female,Hall
+Australian Shepherd,26957.9332,54.4711,13.3695,high,high,med,male,Patterson
+Australian Shepherd,25552.7976,52.8849,13.5026,med,high,med,female,Spencer
+Australian Shepherd,27154.6085,53.1749,12.9397,high,high,med,female,Smith
+Pug,7570.5608,39.0292,13.2541,med,high,short,female,Simpson
+English Setter,23393.3992,59.1917,13.5081,high,high,short,male,Salas
+English Setter,27602.9563,62.8817,11.3978,high,high,med,male,Salas
+Pug,7493.6672,,13.1266,med,high,short,female,Phillips
+Australian Shepherd,24108.233,52.1636,12.8263,high,high,med,male,Li
+English Setter,23927.3332,61.5263,10.9976,med,high,med,male,Hernandez
+Australian Shepherd,23942.1547,54.4596,11.7249,high,high,med,male,Chavez
+Akita,47656.0315,67.4195,11.4807,med,med,med,female,Reese
+English Setter,30424.0591,61.1704,11.235,high,high,long,female,Hall
+Australian Shepherd,22728.3243,53.5711,13.778,high,high,med,male,Callahan
+Akita,48160.9187,65.8579,11.206,low,med,med,female,Rowland
+Akita,41114.3908,66.8948,11.5109,med,med,med,female,Jones
+English Setter,22078.8342,,12.6665,high,med,med,female,Rios
+Australian Shepherd,27607.8109,54.6799,12.188,high,high,med,male,Boyd
+Australian Shepherd,20575.9115,54.4913,13.7298,high,high,med,male,Porter
+English Setter,32184.5363,63.4766,10.775,med,high,med,male,Edwards
+English Setter,32212.1256,66.3346,14.047,med,high,med,female,Robbins
+Australian Shepherd,22209.7661,53.5769,12.9378,high,high,short,male,Roberts
+Pug,7231.2305,34.5602,13.5437,med,high,short,male,Cohen
+Pug,6913.1897,27.11,12.0152,med,high,short,female,Delgado
+Australian Shepherd,23151.8509,54.8848,13.3869,high,high,short,male,Sanchez
+Australian Shepherd,27809.0754,55.5117,12.6919,high,high,long,female,Jackson
+Akita,37337.7508,,10.8865,med,med,med,female,Reyes
+Pug,6879.9633,25.8609,13.857,med,high,short,male,Thompson
+English Setter,27899.6728,66.9751,10.9511,high,high,med,male,Vaughn
+English Setter,34140.3084,63.6554,10.8878,high,high,med,male,Reed
+English Setter,25717.8916,60.4726,9.5775,high,high,med,female,Bass
+Akita,38146.5224,66.4612,11.7839,med,med,long,female,Bell
+English Setter,29024.0771,62.1251,12.5161,high,high,med,female,Rivera
+Australian Shepherd,25571.3403,,14.0819,high,med,med,female,Novak
+Pug,6481.3056,38.9911,12.6131,high,high,short,male,Morgan
+English Setter,30125.4029,,14.0131,med,high,med,male,Walls
+Akita,40916.2517,72.0731,11.2368,med,med,med,male,Susan
+Australian Shepherd,19508.575,52.8091,12.5265,high,high,short,female,Bauer
+Pug,7683.4144,,13.7818,med,high,short,female,Hall
+Pug,8067.297,28.9988,14.4367,med,high,short,female,Casey
+Pug,7550.5343,,12.8402,med,high,short,male,Wright
+Pug,6264.9449,,14.7789,med,high,short,male,Reilly
+Pug,6973.9616,31.2394,14.0768,med,high,short,female,Morales
+Australian Shepherd,22330.9535,53.4,13.0424,high,high,med,male,Leach
+Pug,7680.6419,38.6187,12.0663,low,high,short,female,Atkins
+Australian Shepherd,19193.3946,55.0692,12.9607,high,high,long,male,Hoffman
+Pug,7282.8125,37.9881,14.1238,med,high,short,female,Martinez
+Pug,6228.7725,33.2788,14.0696,med,high,short,female,Ryan
+Australian Shepherd,21763.3108,51.7536,12.5067,high,high,long,male,Moore
+Australian Shepherd,21887.4009,,11.967,high,med,med,female,Rice
+English Setter,29499.3745,62.9694,11.4433,med,med,med,male,Hernandez
+Australian Shepherd,20224.8585,52.9804,14.1454,high,high,med,female,Daniels
+English Setter,21760.9087,62.3121,12.3126,high,high,med,male,Walker
+Pug,5944.1429,32.2501,14.6622,low,high,short,female,Lyons
+Akita,58665.5566,66.7584,11.2642,med,low,med,female,Young
+Akita,29183.9153,68.1786,11.701,low,med,short,female,Harris
+Australian Shepherd,26688.59,53.2558,13.6127,high,high,med,male,Benjamin
+Pug,6895.621,34.7981,13.5482,med,high,short,female,Morgan
+Australian Shepherd,20282.5159,,13.3893,high,high,med,female,Mendoza
+English Setter,27909.9239,,11.9748,high,high,med,male,Wallace
+Pug,7872.8596,36.6666,13.4892,med,high,short,male,Fritz
+English Setter,29391.6306,,11.976,high,high,med,female,Coleman
+English Setter,29105.2542,59.0718,13.0676,high,med,med,male,Brown
+Pug,8247.7978,38.9239,14.6517,med,high,short,female,Jarvis
+Akita,45157.2655,65.4947,11.2588,med,med,long,male,Hanson
+Australian Shepherd,21174.5433,,13.5515,high,high,med,female,Smith
+Australian Shepherd,18489.6053,53.2838,12.36,high,high,med,male,Coleman
+English Setter,30005.3073,56.8001,12.4562,high,high,med,female,Stewart
+English Setter,23278.7576,61.221,12.4242,high,high,short,female,Sullivan
+Australian Shepherd,23165.4717,56.0281,13.853,high,high,short,female,Gregory
+English Setter,29659.1806,62.2306,11.2599,high,med,med,female,Caldwell
+Akita,56735.481,69.5561,10.1542,med,med,med,female,Medina
+Australian Shepherd,24602.6143,53.5522,13.8479,high,high,med,male,Kelley
+Pug,7645.2646,31.4172,13.7518,med,high,short,female,Suarez
+English Setter,30760.8337,62.7154,10.216,high,med,short,female,Bennett
+Pug,7313.2393,29.3342,14.9198,med,high,short,male,Jordan
+Akita,27745.637,68.2853,11.9323,med,high,med,male,Murphy
+Australian Shepherd,23537.1044,53.5824,12.2194,high,high,med,female,Spencer
+Australian Shepherd,26797.6257,53.6149,12.6412,high,high,med,male,Woods
+English Setter,31958.4236,,11.1465,high,high,med,male,Williams
+English Setter,33751.2006,61.0439,13.1018,med,high,med,male,Lloyd
+English Setter,23036.1228,,12.1253,high,high,long,female,Garcia
+English Setter,25208.1498,60.7562,12.0052,high,high,med,male,Moore
+Pug,7725.2666,31.7039,13.4999,med,high,short,male,Deleon
+Akita,60211.2974,65.5135,10.2257,med,med,med,male,Myers
+Akita,37611.8722,67.8483,9.6693,med,med,med,male,Ortiz
+Pug,6904.645,33.6242,12.1811,med,high,short,female,Larson
+Australian Shepherd,20901.8232,54.8775,13.3718,high,high,med,male,Tate
+Australian Shepherd,21136.2383,52.2991,12.6584,med,high,med,female,Lozano
+Akita,51139.0394,66.2834,10.5079,med,med,short,male,Woods
+Akita,20037.6197,,10.3068,med,med,med,male,Vega
+Akita,49983.9758,67.1773,11.1442,med,med,med,female,Meyer
+Akita,58084.8295,71.2034,11.8431,med,med,long,female,Williams
+Pug,7369.2486,32.9593,12.7045,high,high,short,male,Sutton
+Akita,52262.4795,67.442,11.4443,high,high,med,male,Moody
+Pug,6014.9743,35.4332,13.65,med,med,short,male,Freeman
+English Setter,26245.8359,62.6395,11.0683,high,high,med,female,Harris
+Australian Shepherd,22356.8304,55.4827,13.4773,high,high,med,male,Nelson
+Australian Shepherd,22589.6953,,12.5082,high,high,med,female,Mercado
+Pug,6891.4153,32.9467,13.9017,low,high,short,male,Fitzgerald
+Akita,39849.9012,,11.3148,med,med,med,female,Hudson
+Akita,46197.0687,64.6005,11.0902,med,med,med,female,Smith
+Pug,7128.4866,33.0656,12.7811,med,high,short,female,Smith
+Pug,7809.5676,34.5588,15.0345,med,high,short,female,Gonzales
+Pug,7178.6796,29.9739,11.1905,high,high,short,female,James
+Pug,7179.2283,,13.6063,med,high,med,female,Johnson
+English Setter,29927.2289,63.1873,11.58,high,high,short,female,Olsen
+Pug,7418.2572,31.2575,12.7371,high,high,short,male,Crawford
+Pug,6343.5562,36.1764,12.2645,med,high,short,male,Morales
+Pug,6313.2092,32.2662,14.0646,low,high,short,female,Henry
+English Setter,30995.3396,60.1377,11.8701,high,med,med,female,Cook
+Australian Shepherd,23325.5207,54.3998,12.7058,high,high,med,female,Johnson
+Pug,7497.0236,,13.127,med,high,short,female,Thompson
+Akita,41948.3246,,10.9292,med,high,long,male,Carter
+Pug,8147.3355,27.8918,13.652,med,high,short,female,Bowman
+English Setter,28350.6273,61.1345,11.4947,high,high,med,female,Woods
+Pug,7020.4518,,12.7702,med,med,short,male,Davis
+Akita,54493.277,68.5599,10.2318,med,med,med,female,Ramos
+Akita,50271.0368,,10.8959,med,med,long,female,Brown
+English Setter,23983.5897,61.6823,12.1135,high,high,short,female,Rice
+Australian Shepherd,29111.1789,56.2652,12.6263,high,high,short,male,Church
+Australian Shepherd,24441.0959,51.9499,13.324,high,high,med,male,Jackson
+Australian Shepherd,23506.5229,54.3982,12.5479,high,high,med,male,Walker
+Pug,7038.0805,38.2309,13.0258,med,high,short,male,Reyes
+English Setter,24048.2888,,12.5191,high,high,med,male,Michael
+Australian Shepherd,25523.4348,53.3982,12.4247,high,high,short,male,Gray
+Pug,7133.1083,33.0645,12.719,med,high,short,male,Williams
+Australian Shepherd,23496.6587,52.183,13.4007,high,med,med,male,Sutton
+Australian Shepherd,24030.6402,55.2895,12.88,high,high,med,male,Guzman
+Akita,33102.9885,68.0035,10.7309,med,med,med,male,Maxwell
+English Setter,25855.9599,63.174,10.7293,high,high,med,male,Thomas
+English Setter,28999.9534,65.05,11.2327,high,high,med,male,Mcintosh
+English Setter,26825.3445,,13.1875,high,high,med,male,Dean
+English Setter,35593.2716,,12.3119,high,high,med,female,Murphy
+English Setter,22911.8665,,12.0208,high,high,med,female,Myers
+Akita,47102.7135,,10.993,low,med,med,female,Kimberly
+English Setter,26046.7281,61.0105,12.0157,high,high,med,male,Smith
+Australian Shepherd,22861.0311,51.0361,12.4071,high,high,med,male,Poole
+English Setter,16667.3422,60.7866,9.9025,med,high,med,male,Stevens
+English Setter,25970.7114,63.207,13.8558,high,high,med,female,Simon
+Australian Shepherd,27292.9918,,12.9424,high,high,long,male,Stanton
+Australian Shepherd,15828.0854,,14.2566,med,high,med,male,Marquez
+Australian Shepherd,17266.5516,53.3172,13.3688,high,high,med,female,Anderson
+Australian Shepherd,23554.093,52.7634,13.2866,high,high,long,female,Horton
+Pug,7055.9029,31.2395,16.191,med,med,short,male,Cox
+Pug,7044.585,26.8539,13.4505,med,high,short,male,Thomas
+Australian Shepherd,28258.0646,52.6371,12.0874,high,high,short,female,Hall
+Pug,7090.9411,,13.7344,med,high,short,female,Williamson
+Akita,47478.0254,67.9415,11.1125,med,med,med,female,Torres
+Pug,6402.8444,29.1049,13.2053,med,high,short,female,Leon
+English Setter,31173.5706,63.5189,11.2595,high,high,med,male,Palmer
+Australian Shepherd,23665.3593,,13.7787,high,high,med,female,Phillips
+Akita,43283.7218,65.9357,11.2659,med,med,med,female,Miller
+Australian Shepherd,30784.2672,53.3712,13.2524,high,high,med,female,Strickland
+Akita,47102.4605,64.0311,11.3434,med,low,med,male,Russo
+Akita,42526.9086,67.0187,12.0363,med,med,med,male,Webster
+Akita,53645.575,64.7781,11.5296,high,low,med,male,Anthony
+Akita,60055.4985,,10.6632,med,med,med,male,Roman
+Pug,7316.8714,33.4662,14.2586,med,high,short,male,Davis
+Akita,40236.0079,64.685,11.6117,med,med,med,male,Carter
+Australian Shepherd,18121.8449,,12.9223,high,high,med,male,Martinez
+English Setter,21205.4705,64.5457,9.9189,high,high,med,male,Barrett
+Australian Shepherd,25123.4973,54.1318,12.1009,high,high,med,male,Hatfield
+Pug,6281.0845,,14.5783,med,high,short,female,Roberts
+Pug,7296.6662,28.4049,14.5692,med,high,short,female,Douglas
+Australian Shepherd,26268.0763,53.4474,12.4841,high,high,med,male,Rodriguez
+Akita,44869.566,67.0067,11.4347,med,med,long,female,York
+Akita,34113.241,68.1682,11.1276,med,high,med,female,Sullivan
+Akita,54005.4429,68.3847,10.8532,med,med,med,male,Moran
+Australian Shepherd,25790.1468,55.462,13.5313,high,high,med,female,Lewis
+English Setter,23794.1339,63.3324,11.0384,high,high,short,female,Gallegos
+English Setter,25923.5585,59.4743,12.8174,high,high,long,female,Nelson
+Pug,6564.5414,,13.8699,med,high,short,male,Perkins
+Akita,37164.8998,67.9847,10.0588,med,low,med,male,Kennedy
+Pug,6369.8634,33.6702,14.0232,med,high,short,male,Morse
+Akita,30983.441,65.5645,11.6886,med,med,med,female,Holmes
+Akita,43007.4305,66.7284,11.768,med,med,med,female,Kristin
+Akita,53236.5856,66.926,10.7119,med,low,med,male,Marquez
+Akita,39581.4576,67.4508,11.5354,med,low,med,male,Garrett
+Australian Shepherd,24052.4928,,12.3804,high,high,short,male,Carr
+Australian Shepherd,25975.4034,51.8977,13.7594,high,high,long,male,Perkins
+English Setter,29099.3029,57.8322,12.4873,high,high,long,male,Charles
+English Setter,26168.0484,62.7984,11.5178,high,high,med,male,Pace
+Akita,38376.2235,66.5514,9.253,med,med,med,female,Odom
+Akita,42754.5875,65.3858,11.3558,med,med,med,male,Kim
+Akita,45547.2092,69.6036,10.6119,med,med,med,male,Burns
+Akita,49881.171,65.647,10.815,med,high,short,male,Hodge
+English Setter,27886.4586,61.4468,12.6531,high,high,med,male,Sutton
+Akita,32253.5525,,11.2,med,high,med,female,Parker
+Pug,6727.4751,34.0787,14.343,med,high,short,male,Jenny
+Pug,7142.2309,,12.9043,med,high,med,female,Hunt
+Akita,51070.9528,67.461,10.3578,med,med,med,female,Mueller
+English Setter,30931.282,66.6065,12.4708,high,high,med,male,Olson
+Akita,31266.1858,,10.9258,med,med,med,female,Johnson
+English Setter,31151.3565,61.6628,13.7377,high,high,med,female,Wagner
+Australian Shepherd,20558.8948,54.2634,12.5192,high,high,short,male,Macdonald
+Australian Shepherd,17309.7795,,12.7086,high,high,med,female,Hayes
+English Setter,29150.9163,,9.2296,high,high,short,female,Williams
+Akita,57245.8583,,10.6311,med,med,med,female,Morris
+Australian Shepherd,29903.5552,53.9575,13.1102,high,high,med,female,Ralph
+Akita,38853.2728,69.3864,10.5511,med,med,med,female,Walker
+Akita,47089.8901,,9.8552,med,high,long,male,Hull
+Australian Shepherd,28884.399,,13.1988,high,high,med,female,Lara
+Australian Shepherd,24567.2806,53.8724,12.5945,high,high,med,male,Murphy
+Australian Shepherd,26361.413,53.494,13.0918,high,high,med,female,Gray
+Australian Shepherd,19583.8484,54.2406,12.0329,high,high,med,male,Washington
+Akita,33678.4232,65.3746,10.6805,med,med,med,male,Smith
+Akita,43659.1465,65.0491,10.9914,low,high,med,male,Alexis
+English Setter,25344.2757,61.891,13.5454,high,high,med,female,Mahoney
+Australian Shepherd,18192.1406,51.9575,12.3974,high,high,med,male,Lowe
+Australian Shepherd,25252.3987,53.7552,12.8888,high,med,short,female,Johnson
+English Setter,30738.7524,60.8403,14.9964,high,high,med,male,Hughes
+Akita,36920.2254,68.8712,10.6516,high,med,med,male,Andrews
+English Setter,26671.948,60.4296,10.1776,high,high,med,female,Vega
+Pug,6797.9148,37.9866,11.8371,med,high,short,female,Graham
+English Setter,27471.3558,61.9604,11.4691,high,med,med,male,Barnes
+English Setter,28755.3087,58.4414,12.5522,high,high,short,male,Collins
+Pug,6848.7955,33.0666,14.3765,low,high,short,male,Boyle
+English Setter,34968.1822,61.2601,12.8205,high,high,med,male,Stewart
+English Setter,34722.3478,62.4156,13.31,high,high,med,female,Gutierrez
+Pug,6961.6577,,14.6403,med,high,short,female,Mckee
+English Setter,25413.6299,,13.3913,high,high,med,female,Williams
+Akita,32061.9565,,10.7866,med,high,med,female,Watson
+Akita,63006.1769,66.6315,10.7439,med,med,med,female,Howell
+Pug,7334.8184,32.4581,13.3116,med,high,short,female,Brock
+English Setter,23511.0231,,12.2252,high,high,med,female,Nelson
+Pug,7449.87,35.7541,12.798,med,high,med,male,Griffith
+Australian Shepherd,31458.8169,53.1407,12.5083,high,high,med,male,Powell
+Akita,51804.9342,66.4791,11.1726,med,med,med,female,Moore
+Akita,53760.9353,65.9637,11.0618,med,med,short,male,Taylor
+Akita,37345.5814,,10.7934,med,med,med,female,Lester
+English Setter,32552.3959,65.4586,11.7982,high,high,short,female,Mendoza
+Akita,42172.0264,67.5113,10.5166,med,med,med,female,Walker
+Pug,6742.0727,31.1403,12.1519,med,high,short,female,Snow
+Akita,37651.5369,64.0398,10.2137,med,high,long,female,Taylor
+Pug,7583.9476,28.3782,12.3866,med,high,short,female,Burke
+English Setter,20788.6829,65.0144,10.6777,high,high,long,female,Smith
+Akita,43143.5903,63.628,11.7734,low,med,med,female,Hall
+English Setter,28468.7834,59.8314,10.3856,high,high,med,male,Lawrence
+English Setter,23694.8868,,9.8642,high,high,med,male,Johnston
+Akita,41067.5096,68.4806,9.2622,low,low,med,female,Valdez
+Australian Shepherd,20718.1961,55.315,12.5523,high,high,med,female,Bailey
+Akita,34404.8174,67.5191,11.8408,low,med,med,male,Rich
+Akita,47200.8317,66.519,11.243,med,med,med,female,Rios
+Australian Shepherd,23073.0038,50.2637,13.5448,high,high,med,male,Robertson
+Pug,6108.0397,,12.8177,med,high,short,male,Lucero
+English Setter,29660.9265,61.5961,11.2061,high,high,med,female,Snow
+Australian Shepherd,28116.518,53.356,13.8402,high,high,short,male,Mckinney
+Australian Shepherd,27229.9459,55.2712,14.1242,high,high,med,male,Jennings
+English Setter,31549.2468,65.672,11.5883,high,high,med,male,Pearson
+Australian Shepherd,26793.6818,55.1591,13.2155,high,high,short,female,Moore
+Akita,53468.3367,67.9609,11.4545,med,med,med,female,Grant
+English Setter,27913.9514,,11.6098,high,high,short,female,Johnson
+Pug,7357.2179,39.7732,12.8832,med,high,short,female,Dominguez
+Pug,6909.8688,33.348,12.6681,med,high,short,male,Brandt
+English Setter,30090.3974,61.2218,11.0788,high,high,med,male,Andrew
+Akita,51227.2147,67.4175,9.6422,low,low,med,male,Mendez
+Akita,48975.3607,67.432,10.4335,med,med,short,male,Mooney
+English Setter,27286.7728,,13.1497,high,high,short,male,Robinson
+English Setter,30994.788,62.6695,11.6557,high,high,med,female,Wilson
+Akita,55526.3278,65.8397,10.4464,med,med,med,male,Evans
+Pug,5936.7874,30.7807,13.6889,med,high,short,female,Ramsey
+Australian Shepherd,24344.4224,52.1914,13.5109,high,high,med,female,Jackson
+Australian Shepherd,21084.9375,51.8162,14.1087,high,high,med,male,Torres
+Australian Shepherd,22995.4768,,13.1994,med,high,med,female,Webb
+Akita,52368.815,66.5459,11.6076,med,med,long,female,Gates
+Akita,48430.5613,67.7721,10.8271,med,med,med,female,Anthony
+Pug,7648.1819,31.2983,13.9975,med,high,short,male,Phillips
+Australian Shepherd,27377.5606,,12.1662,high,high,med,male,Collier
+Australian Shepherd,21635.6577,52.3057,13.7144,high,high,med,female,Lopez
+English Setter,21659.457,63.3107,12.0574,high,med,long,female,Horn
+English Setter,35040.6568,,12.5666,high,high,med,male,Campbell
+Australian Shepherd,21448.1668,56.145,13.0719,high,high,med,female,Long
+English Setter,24994.8522,58.4258,13.2366,med,high,med,female,Andrews
+Pug,6118.0324,32.6776,15.0159,med,high,short,male,Jordan
+English Setter,25516.9829,62.5763,14.2546,high,high,med,male,Torres
+Australian Shepherd,29756.6954,54.8271,13.2431,high,high,short,female,Vasquez
+English Setter,29775.9423,62.7994,12.1021,high,high,med,male,Burnett
+English Setter,37117.968,64.8281,11.2264,med,high,med,male,Weber
+Australian Shepherd,26369.3942,52.3791,12.3782,med,med,med,male,Holder
+Akita,35986.0922,64.3499,11.0304,med,med,med,male,Lopez
+Akita,41675.7513,64.0166,11.3024,med,high,med,female,Fisher
+Akita,45414.0766,67.3497,11.2327,med,low,med,male,Best
+Pug,7553.9398,,13.9812,med,high,short,male,Mckenzie
+Pug,6327.6664,,13.3898,med,high,short,male,Richardson
+Australian Shepherd,21206.0933,53.2024,12.0098,high,high,short,male,Crawford
+Pug,7452.571,36.4325,14.6366,med,high,short,female,Stewart
+Akita,26158.6993,65.8372,10.6406,med,med,med,female,Tucker
+Akita,42556.9524,61.6422,11.6352,med,med,med,female,Crawford
+Pug,7103.1902,31.6771,12.4007,med,high,short,male,Hurst
+Australian Shepherd,23017.6355,56.0694,12.5366,high,high,long,male,Tasha
+English Setter,32577.3572,63.9069,10.3862,med,high,med,female,Sanchez
+Australian Shepherd,20258.0078,54.3344,12.7979,high,high,med,female,Williams
+Pug,7375.7025,31.849,13.5153,low,high,short,female,Higgins
+English Setter,31457.3193,62.9305,11.4056,high,high,med,female,Torres
+Akita,44598.3206,,10.5881,med,med,med,female,Flores
+Akita,29577.4764,64.4676,11.1668,high,med,med,female,Ramirez
+English Setter,38161.2993,,12.5289,high,high,short,male,Rich
+Pug,7866.3125,34.1937,12.6072,med,high,short,female,Taylor
+Akita,44134.1558,65.0934,11.1398,med,med,med,male,Henderson
+Pug,6180.4358,30.4908,13.9982,med,high,short,male,Torres
+Pug,7294.4498,33.1053,14.1136,med,high,short,male,Jenkins
+Akita,39890.2523,68.4595,10.7885,med,med,med,female,Thomas
+Pug,6473.7977,34.2711,14.4792,med,high,short,male,York
+Australian Shepherd,23128.7605,51.8038,13.9152,high,high,short,male,Lewis
+Australian Shepherd,19138.466,54.1774,13.3996,high,med,med,female,Hunter
+Pug,6489.5871,39.0279,13.936,low,high,short,male,Krause
+Akita,40086.1291,65.1335,10.5238,med,med,med,female,Ryan
+Pug,6674.0769,,14.8678,med,high,short,male,Hill
+Akita,35942.7072,68.0515,11.1417,med,med,short,male,Collins
+Australian Shepherd,19174.2472,54.7225,13.8892,high,high,med,male,Harris
+English Setter,27373.1144,61.3981,11.9138,high,high,med,male,Parker
+English Setter,34947.8395,59.4449,11.6858,high,high,med,male,Dean
+Pug,6657.8883,,12.7166,high,high,short,male,Sullivan
+Pug,6641.5217,30.4203,15.3831,high,high,short,female,Ramirez
+Pug,6885.3891,34.858,12.8147,med,high,short,female,Bailey
+English Setter,27000.2815,61.628,10.2898,high,high,short,male,Fowler
+Akita,44969.662,,10.543,low,med,long,male,Duran
+Akita,54701.6142,67.5136,11.3932,med,low,med,female,Barnett
+Pug,6736.4919,35.9604,15.0275,med,high,short,female,Bennett
+Australian Shepherd,19847.6558,53.1609,12.4468,high,high,med,female,Hardy
+Akita,34526.708,64.0676,11.0272,med,med,med,female,Bush
+Australian Shepherd,23283.0279,53.324,12.4199,med,high,med,female,Griffith
+Australian Shepherd,24480.7235,54.4113,12.6962,high,high,med,male,Henderson
+Australian Shepherd,26103.4376,,13.107,high,high,med,female,Martinez
+Akita,46297.7102,66.3464,11.0864,med,low,med,male,Nelson
+Australian Shepherd,26202.5745,,12.6259,high,high,short,male,Brown
+English Setter,32543.3383,60.1665,12.4807,med,high,med,female,Moore
+Pug,5972.7633,29.2401,12.3586,low,high,short,male,Berry
+Australian Shepherd,28396.0772,,12.9274,high,high,med,female,Malone
+Akita,28418.4929,68.3054,10.6872,low,med,med,female,Mullins
+Pug,6330.9655,30.7992,12.8744,high,high,short,female,Carr

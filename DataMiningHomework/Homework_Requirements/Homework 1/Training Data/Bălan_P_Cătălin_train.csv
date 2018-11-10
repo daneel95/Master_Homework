@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Bearded Collie,22433.8365,53.2136,12.2597,high,high,long,male,Jarvis
+Boxer,25893.7596,,9.1339,high,med,short,female,Valdez
+Bearded Collie,26163.7278,56.1456,12.9525,high,med,long,male,Logan
+Bearded Collie,23524.3148,54.5628,12.3302,high,high,long,male,Castillo
+German Shepherd,32637.3022,60.2861,10.7185,med,med,med,male,Ward
+German Shepherd,35156.4152,,11.4991,med,med,med,male,Lopez
+Akita,36089.6099,67.0718,10.6925,med,med,med,female,Flores
+Akita,52665.7707,65.1372,10.4648,med,med,med,female,Smith
+Boxer,31978.136,57.4019,8.505,high,high,med,female,Hooper
+Bearded Collie,22747.3377,53.4104,13.4217,high,med,long,male,Harvey
+German Shepherd,33165.3746,60.8618,10.3464,med,high,med,male,Reid
+German Shepherd,38138.7705,62.9871,10.8652,med,low,med,male,Castillo
+German Shepherd,36898.9669,60.7382,10.5296,high,med,med,female,Roberts
+Boxer,26904.2807,59.1493,8.237,high,high,short,female,Smith
+German Shepherd,35183.3612,59.939,10.525,med,med,med,female,Phillips
+Boxer,34415.182,53.1881,10.236,high,high,short,male,Adams
+Akita,43096.0275,68.4421,12.1905,med,low,med,male,Carlson
+German Shepherd,36450.8769,63.3973,11.3996,low,med,med,male,Greene
+Boxer,34098.289,,7.653,high,high,med,male,Kennedy
+Akita,40391.7402,67.442,9.837,med,med,med,female,Henderson
+German Shepherd,37796.8537,64.0708,10.7383,med,low,short,male,Jones
+Akita,44753.2409,65.4777,10.6762,med,med,med,male,Tucker
+Bearded Collie,19584.9276,,12.9328,high,high,long,male,Rodriguez
+Boxer,30149.4882,58.6561,9.1816,high,high,short,female,Ortiz
+Bearded Collie,18672.131,,12.1227,high,high,long,female,Fernandez
+Boxer,28840.4116,56.8698,9.5112,high,high,short,female,Smith
+German Shepherd,36666.5474,63.5116,11.3266,med,med,med,male,Ray
+Bearded Collie,20232.4321,,12.5753,high,high,long,male,Wilson
+Bearded Collie,27134.3106,54.5645,14.3409,high,high,long,female,Lee
+Akita,40681.8457,63.737,11.2026,med,med,med,female,Henderson
+Akita,51480.9255,70.9918,11.7174,low,med,med,male,Smith
+Bearded Collie,21113.1708,52.1498,13.531,high,high,long,female,Ross
+Akita,53096.3629,,11.74,med,med,med,female,Wagner
+Akita,41240.8049,66.636,11.1389,low,med,med,male,Stokes
+Boxer,35949.9995,59.102,8.2012,high,high,short,male,Browning
+Akita,42030.2778,66.0755,11.4658,med,med,long,male,Moore
+German Shepherd,37399.9893,60.3975,11.279,med,med,med,female,Woodward
+Akita,40658.4595,68.7041,11.9222,low,med,med,female,Martin
+Boxer,30105.2777,60.458,8.7428,med,med,med,male,Leach
+Boxer,27253.8051,57.9782,9.4186,high,med,short,female,Schneider
+German Shepherd,37164.361,61.6174,11.4385,med,high,med,male,Young
+Akita,69111.6301,67.8169,10.6118,med,med,short,female,Perez
+German Shepherd,35587.0317,59.901,11.1313,med,med,med,female,Weber
+German Shepherd,37744.3559,60.4824,9.9709,med,low,short,male,Wilson
+German Shepherd,35060.4442,59.8816,10.1844,med,med,med,female,Smith
+Boxer,30112.0689,58.4514,8.6575,high,high,med,male,Johnson
+Boxer,24247.5572,55.8233,8.2089,high,high,short,male,Brown
+Akita,41005.288,,11.6787,med,med,med,female,White
+Akita,40608.896,64.9328,9.6647,high,med,med,male,Henderson
+German Shepherd,38311.3726,58.3078,10.7608,low,high,short,male,Garcia
+Bearded Collie,23831.4603,,13.3648,high,high,long,female,Bradley
+Boxer,28259.0939,55.9849,9.0003,high,high,short,female,Brown
+Boxer,27822.159,60.4748,8.8994,high,high,short,male,Wright
+Boxer,29106.9677,60.0437,8.7492,high,med,short,female,Harrell
+Boxer,25298.1591,59.5461,8.7769,high,high,med,female,Smith
+Boxer,36763.5969,58.3989,9.1666,high,high,short,male,Watson
+German Shepherd,37382.2631,60.1337,9.9448,med,med,med,male,Cummings
+Bearded Collie,19461.1844,52.5001,13.0471,high,high,long,male,Singleton
+German Shepherd,34726.2563,,11.0889,high,med,med,female,Garza
+Bearded Collie,19036.0703,,12.4026,high,high,long,male,Christian
+German Shepherd,35608.1178,56.9241,11.7333,med,low,med,male,Shaw
+Boxer,24826.3588,58.1452,8.6632,high,med,short,male,Taylor
+German Shepherd,39714.7766,,11.3564,low,low,med,male,Mueller
+German Shepherd,36555.3907,62.1124,10.3591,med,med,short,male,Sexton
+German Shepherd,36831.5888,61.2283,11.2013,med,med,long,male,Cisneros
+Bearded Collie,23745.5116,52.5522,13.1462,high,high,long,female,Smith
+Boxer,28578.7604,,8.1385,med,high,short,female,Smith
+German Shepherd,35749.9415,59.0923,9.5269,low,med,med,female,Johnson
+Bearded Collie,21229.8655,52.5952,13.3798,high,high,long,female,Berry
+Akita,40812.9567,63.8996,11.9334,med,med,med,male,Meyer
+Bearded Collie,26456.9197,54.7015,12.3347,high,high,long,male,Glass
+German Shepherd,33006.0453,60.329,11.3683,med,med,long,male,Herrera
+Bearded Collie,24047.8348,50.1912,13.0497,med,med,long,male,Williams
+Boxer,30006.0427,,7.9705,med,high,short,male,Bradshaw
+Bearded Collie,25986.0901,50.0497,14.0866,high,med,long,male,Joyce
+Boxer,36603.1034,57.4878,8.1883,high,high,short,male,Giles
+Bearded Collie,26542.5942,54.3594,13.4615,high,high,long,female,Jones
+Boxer,31798.3314,57.7088,9.5344,high,med,short,male,Parsons
+German Shepherd,35345.2695,60.583,11.1585,med,med,med,male,Wallace
+German Shepherd,33536.1957,,10.5782,med,med,med,female,Scott
+Bearded Collie,22785.9857,53.7996,12.585,high,high,long,male,Santiago
+Boxer,26223.5308,58.8408,9.1236,high,high,short,male,Peters
+Bearded Collie,21928.6245,,13.0898,high,med,long,male,Long
+Boxer,27162.2617,58.6759,9.9785,high,high,med,male,Jones
+Akita,46283.8127,66.5726,10.8356,med,low,med,male,Thompson
+German Shepherd,37785.4362,60.4494,11.9327,med,med,med,female,Peterson
+German Shepherd,34269.1876,,10.7673,med,high,med,male,Johnson
+Bearded Collie,25336.1619,,12.7063,high,high,long,male,Duran
+Boxer,33374.5032,59.5181,8.3534,high,high,short,female,Rodriguez
+Boxer,31133.399,57.4569,10.043,high,high,short,male,Anderson
+Bearded Collie,23487.613,53.5356,13.0988,high,high,long,male,Morse
+Akita,35140.4791,,10.2709,med,med,med,male,Townsend
+Bearded Collie,18004.8815,51.187,13.4142,high,high,long,male,Melton
+German Shepherd,37066.2277,61.1971,10.3504,med,low,med,male,Davidson
+Boxer,33129.0177,55.3023,9.1766,high,high,short,female,Taylor
+Akita,37907.7749,68.1804,11.5134,high,med,med,male,Clark
+Boxer,26056.4062,60.8155,8.7445,high,high,med,male,Ortega
+Boxer,33753.3117,58.6478,8.4237,high,high,short,male,Sexton
+Bearded Collie,21832.5292,48.2542,13.6364,high,high,long,female,Young
+German Shepherd,35307.2302,61.4886,11.7665,low,med,long,female,Dixon
+Akita,38707.2142,68.3388,11.621,med,med,med,female,Howell
+Akita,43910.6057,66.7374,10.8614,med,high,med,female,Simpson
+German Shepherd,36891.7487,62.3964,10.5573,med,med,med,female,Peterson
+Bearded Collie,19464.6316,51.4829,12.9521,high,high,long,male,Brown
+Bearded Collie,24143.9925,,13.5179,med,high,long,male,Perez
+Boxer,34979.2736,59.8301,9.9684,high,high,med,female,Thomas
+Akita,56981.3751,66.5465,9.3836,high,med,med,female,Hess
+Boxer,29958.007,57.8351,9.0536,high,high,short,female,Harris
+Bearded Collie,21806.5843,55.5307,13.1912,high,high,long,female,Brewer
+German Shepherd,37132.2059,,11.2275,med,med,med,male,Chavez
+Boxer,32966.0648,60.9982,9.8548,med,high,short,female,Anderson
+German Shepherd,36393.4367,61.2495,11.5947,low,med,med,female,Bates
+Boxer,33643.2526,60.2163,9.4644,high,high,short,male,Coleman
+German Shepherd,38042.9521,59.5828,11.8889,med,med,long,female,Santos
+German Shepherd,37006.5568,58.4944,11.1264,high,med,short,female,Gutierrez
+German Shepherd,39260.5971,60.9957,11.1368,med,low,med,female,Robertson
+Akita,47723.9201,68.6818,10.8112,med,med,med,male,Watson
+Bearded Collie,22559.6494,53.9848,12.7854,high,high,long,female,Thompson
+Boxer,24760.4583,,10.0887,high,high,short,female,Richmond
+Boxer,29170.4142,,9.332,high,high,short,female,Rogers
+German Shepherd,36364.1354,58.9113,11.3543,high,med,long,female,Reynolds
+Boxer,28099.6467,,8.5067,high,high,med,male,Garcia
+Boxer,25512.6861,,9.2314,high,high,short,female,Wright
+Bearded Collie,20952.0322,,13.5853,high,high,long,male,Johnson
+Bearded Collie,23387.8677,52.0962,12.0931,high,med,long,male,Powell
+Akita,43436.9285,63.8441,11.7881,med,med,med,male,Burch
+Akita,32962.4656,67.9924,10.9723,med,high,med,male,Cook
+German Shepherd,36236.2159,64.1673,9.8602,high,med,med,male,Lawson
+Bearded Collie,20882.5389,51.7614,11.3825,med,high,long,female,Martin
+Boxer,31494.6078,57.1385,9.6126,high,high,short,male,Rocha
+Bearded Collie,21865.3127,50.7334,13.9359,high,high,long,female,Smith
+Akita,45147.7568,68.1449,9.7408,low,med,med,male,Briggs
+Boxer,29812.7183,59.9776,9.0647,high,high,short,female,Gibson
+Boxer,31962.9261,60.2289,9.3765,high,high,short,male,Ramirez
+Boxer,28158.1792,60.7838,7.8838,high,high,short,female,Cox
+Boxer,29383.3676,59.4609,8.6131,med,high,short,female,Mcintosh
+Akita,54074.5777,68.2188,10.3944,med,med,med,male,Gonzales
+German Shepherd,36137.2892,57.825,10.691,low,low,med,male,Williams
+German Shepherd,36122.9553,62.9722,11.2522,med,med,med,male,Velazquez
+Akita,34909.7013,64.805,11.4386,med,med,med,male,Martin
+Boxer,28412.4016,59.4793,9.2271,high,high,short,male,Riggs
+Bearded Collie,24122.3513,54.2486,13.1492,high,high,long,female,Valdez
+German Shepherd,36776.0732,61.6187,10.2668,med,med,short,female,Garcia
+German Shepherd,36420.7723,,11.2543,med,med,med,female,Stephanie
+Boxer,29247.4606,57.706,10.8635,high,high,short,male,Long
+Bearded Collie,18665.9564,49.8686,12.9204,high,high,long,female,Hill
+German Shepherd,37650.4538,58.7935,11.1293,med,med,med,female,Thompson
+Boxer,32277.4075,60.6942,8.3675,med,high,med,female,Torres
+German Shepherd,39402.5109,58.6203,11.2167,med,low,med,female,Mendoza
+Bearded Collie,25347.2224,56.429,12.8139,high,med,long,female,Davis
+German Shepherd,37512.5122,61.9882,11.7,med,med,med,male,Simon
+German Shepherd,38248.6077,63.2495,12.3389,med,med,long,female,Jones
+German Shepherd,39091.1554,60.0007,10.3354,med,med,med,male,Howard
+Boxer,23989.8048,54.3723,8.2003,high,high,short,male,Munoz
+Boxer,27147.1788,61.2152,8.7946,high,high,short,male,Reed
+Boxer,34401.4422,58.5088,8.8141,high,high,short,female,Ibarra
+Boxer,30898.4727,59.7329,9.4047,high,high,short,female,Dillon
+Boxer,35221.9209,57.8642,8.8332,high,high,short,male,Keller
+Bearded Collie,24046.4328,54.7919,13.8134,high,med,long,female,Mitchell
+Bearded Collie,16935.2579,,12.3976,med,high,long,female,Tanner
+Bearded Collie,17759.1927,48.9919,14.1106,high,high,long,male,Jenkins
+Akita,47195.9023,66.7097,11.2992,med,med,med,female,Ellison
+German Shepherd,36833.5216,61.0346,11.6116,med,med,short,female,Murray
+German Shepherd,38427.99,58.7105,11.2542,med,med,med,male,Hendrix
+German Shepherd,38552.6599,58.3677,10.2857,med,med,med,male,Walker
+Boxer,25293.0618,58.085,8.7052,high,high,med,male,Davis
+German Shepherd,35658.5977,65.5426,11.5125,med,med,med,male,Reid
+Boxer,32042.6273,53.8878,8.1606,high,high,short,female,Wells
+Boxer,32196.665,59.8546,9.6463,high,med,short,female,Holland
+Boxer,34453.5878,60.1372,8.6918,high,high,short,female,Manning
+Akita,43830.2173,,10.6751,med,high,med,male,Maldonado
+Boxer,31585.8512,57.4208,9.4332,high,high,short,female,Martin
+German Shepherd,37129.6912,61.7759,10.6322,low,med,long,male,Anderson
+Akita,56272.6153,,12.1688,med,high,med,female,Andrade
+Boxer,29304.9297,58.5388,8.6037,med,high,short,female,Peterson
+Boxer,29096.3406,60.1633,8.4453,high,high,short,female,Brewer
+German Shepherd,38749.3409,58.0781,11.4181,med,med,short,female,Gutierrez
+German Shepherd,37432.3118,61.7698,10.6391,high,high,med,female,Kelley
+Boxer,38126.7615,58.0404,9.1667,high,high,short,female,Richardson
+Boxer,25292.2177,59.621,9.438,high,high,short,male,Chavez
+Akita,42344.9193,67.0989,10.1583,med,med,med,male,Perez
+Bearded Collie,24155.562,53.0511,14.592,med,high,med,female,Zimmerman
+Boxer,28655.3858,57.9624,8.8664,high,high,short,female,Christian
+German Shepherd,35013.6137,60.9685,10.8323,med,low,short,female,Moore
+German Shepherd,35210.9418,60.9797,10.8743,med,med,long,male,Hunter
+Boxer,26742.3493,57.5704,9.5211,high,high,short,male,Anderson
+German Shepherd,35824.8379,60.2726,10.6662,low,med,med,female,Anderson
+Boxer,24046.8875,,9.3607,high,high,short,female,Huffman
+Bearded Collie,23756.5585,54.616,12.4762,high,med,long,male,Dillon
+Bearded Collie,19618.8657,,13.152,high,high,long,female,Davis
+German Shepherd,37920.6562,62.7753,11.9034,low,med,med,female,Tapia
+Boxer,37709.1096,59.1085,9.0023,high,high,short,male,Chavez
+Boxer,26868.6068,57.6325,8.4278,high,high,short,male,Dean
+German Shepherd,39570.9653,59.5965,11.9679,med,med,med,female,Walters
+German Shepherd,36886.5892,60.1124,10.4473,med,med,short,female,Velazquez
+Boxer,26129.9869,58.6798,8.7846,high,high,short,female,Herrera
+German Shepherd,36218.6184,61.9526,10.0558,low,med,med,male,Hill
+Bearded Collie,23398.0695,53.2671,12.4838,high,high,long,male,Harris
+Akita,48199.6365,,11.4246,low,med,long,male,Espinoza
+Akita,33648.679,65.3573,10.9428,med,low,med,female,Andrews
+Boxer,34739.6467,58.3691,8.8636,high,high,short,male,Johnson
+Bearded Collie,22632.6129,51.6253,12.0415,high,high,long,male,Lopez
+Boxer,30403.273,58.2966,8.9386,med,high,short,male,Phillips
+Bearded Collie,20830.6291,53.4389,13.1639,high,high,long,male,Padilla
+German Shepherd,37534.7109,59.2026,11.4288,med,low,short,female,James
+Boxer,29953.9095,57.077,9.0861,high,high,short,male,Harvey
+Bearded Collie,21453.5788,,12.3934,high,high,long,female,Dennis
+Boxer,25922.804,58.4676,8.9399,high,high,med,female,Mclean
+Boxer,33928.1268,,9.4559,high,high,short,male,Cooper
+Boxer,35309.458,,7.5401,high,high,short,male,Malone
+Bearded Collie,18116.3818,,12.09,med,high,long,male,Mitchell
+Akita,34278.1651,66.6612,10.6246,med,med,short,female,Kelley
+Akita,51933.097,,10.7893,med,med,med,male,Marquez
+Boxer,23443.7122,55.4692,9.6737,high,high,short,male,Carter
+Akita,39170.5757,68.0982,10.381,low,med,med,male,Ferrell
+German Shepherd,33399.8421,61.8709,11.047,med,high,med,male,Patterson
+Boxer,30144.0796,57.4674,10.1311,high,high,short,male,Escobar
+German Shepherd,37234.628,59.7646,12.1316,med,med,med,female,Cook
+Boxer,28535.2969,58.4322,9.5654,high,high,short,female,Frost
+Akita,29490.2143,67.5203,11.698,med,med,med,male,Vargas
+Bearded Collie,20885.5504,53.7506,13.1423,high,high,long,female,Gill
+Boxer,30809.8471,,8.4021,high,high,short,male,Green
+Boxer,39543.177,59.9779,8.8243,high,med,short,female,Baker
+Boxer,23108.28,57.4286,9.2354,med,med,short,female,Tate
+German Shepherd,38061.2056,61.9952,10.0981,med,med,med,female,Riley
+Boxer,28634.4759,57.526,9.0957,high,high,short,female,Lopez
+Boxer,30121.3097,,8.9714,high,high,short,female,Wagner
+German Shepherd,35746.2444,61.0306,10.8487,med,med,med,female,Gamble
+Akita,36572.9293,65.266,10.1944,med,med,med,female,Atkins
+Akita,30102.8428,65.3462,9.9227,low,med,med,male,Alvarado
+Bearded Collie,22824.5631,,11.012,high,med,long,female,Moore
+German Shepherd,36469.3577,61.4184,11.1986,med,med,med,male,Knapp
+Akita,64951.9794,66.6639,11.1769,high,low,med,female,Crosby
+Bearded Collie,20427.3472,55.2006,13.2115,high,high,long,female,Hawkins
+German Shepherd,33701.6233,59.3492,10.6646,med,med,long,female,Browning
+Akita,46417.8439,66.207,10.9202,med,low,med,female,Barnes
+Boxer,32683.6806,57.5352,8.9158,high,high,med,male,Diaz
+Boxer,39223.3474,60.7234,8.0663,high,high,short,female,Flowers
+Akita,43579.5755,,10.7208,med,low,med,male,Orozco
+German Shepherd,35746.8236,59.574,11.6735,med,med,med,female,Pena
+Bearded Collie,20688.9922,55.945,14.224,high,high,long,male,Jones
+Akita,52038.6663,66.823,9.8087,med,med,med,male,Young
+Akita,47402.5957,64.4641,9.8471,low,high,long,female,Watkins
+Bearded Collie,18574.2024,52.8234,12.1524,med,high,long,female,Green
+German Shepherd,35797.5508,59.988,10.8835,high,med,med,female,Perry
+Bearded Collie,19523.1112,52.7436,12.442,high,high,long,female,Lamb
+Bearded Collie,24072.783,55.8802,14.0922,med,high,long,female,Joyce
+Boxer,34118.5914,59.823,8.2189,high,high,short,female,Oliver
+Akita,38409.7202,66.2715,10.9088,med,low,med,female,Sanchez
+Akita,45171.6056,65.5439,11.4414,med,med,med,female,Miranda
+German Shepherd,34724.2526,60.2295,11.3682,med,med,med,female,Barrett
+Boxer,23356.9966,60.1997,7.7955,high,high,short,female,Gonzales
+Bearded Collie,22885.2953,49.8871,13.7484,high,high,long,female,Oliver
+Boxer,28432.8705,58.7826,8.6014,high,high,short,female,Murphy
+German Shepherd,37344.9918,59.5841,11.3847,med,high,med,male,Wise
+Bearded Collie,22916.446,53.8113,12.6588,high,high,long,female,Gordon
+Akita,40443.7843,64.3881,11.0729,med,med,med,female,Odom
+Boxer,21836.9856,59.2982,9.0363,high,high,short,female,Smith
+Boxer,30702.6194,59.4938,8.3196,med,high,short,male,David
+Akita,43799.5131,63.7438,9.9261,med,med,med,male,Ross
+Bearded Collie,22802.0698,51.8066,13.1673,high,med,long,female,Williams
+German Shepherd,32838.0267,61.8489,11.1993,med,med,short,male,Nelson
+Akita,37248.0001,66.0037,11.2173,med,med,med,female,Perez
+Akita,48825.2175,68.3272,11.0561,med,low,med,female,Daniel
+Boxer,25619.0696,,9.5698,high,high,short,male,Glass
+German Shepherd,37813.1663,,10.6774,med,med,med,female,Rowe
+Boxer,32475.7731,,8.9842,high,high,short,male,Jennifer
+Akita,48036.3003,65.5965,11.6633,med,low,med,female,Cook
+German Shepherd,37566.5826,58.3988,11.5079,med,med,med,male,Hood
+Boxer,36760.4555,57.6977,8.52,high,high,short,male,Hess
+Bearded Collie,21907.0699,53.4051,13.7661,high,high,long,male,Cervantes
+Bearded Collie,16662.7317,54.7409,12.4965,high,high,long,male,Lara
+Akita,42074.3908,63.4598,10.448,med,med,med,male,Castaneda
+German Shepherd,37202.5952,,10.1764,med,med,med,male,Simmons
+Bearded Collie,21354.5083,53.9505,12.2817,high,high,long,female,Erika
+Akita,49696.6986,,11.0758,med,med,short,male,Bailey
+German Shepherd,31705.4949,56.6856,9.9826,med,med,long,male,Scott
+Akita,52363.5861,67.8731,11.0996,high,med,long,female,Walton
+Akita,55003.8597,66.2411,11.5967,med,med,med,female,Williams
+German Shepherd,38254.2172,60.5118,9.6715,med,high,med,male,Tran
+Bearded Collie,27190.1252,54.598,13.1277,high,high,long,male,Jones
+Boxer,30266.9991,57.9556,9.8446,high,high,short,male,Johnson
+German Shepherd,35775.5608,60.2949,11.125,high,med,med,female,Trujillo
+Boxer,26217.5709,,8.9011,high,high,med,male,Gonzales
+Bearded Collie,23134.4573,54.0223,13.3306,high,high,med,female,Thomas
+German Shepherd,34728.5282,63.1391,11.8933,med,med,med,female,Camacho
+German Shepherd,36243.4843,58.6137,10.8647,high,med,med,male,Christian
+Bearded Collie,22174.1605,51.827,13.4515,high,high,long,female,Jacobs
+Bearded Collie,25120.5904,,13.0527,high,high,long,male,Campbell
+Akita,32976.0873,67.1888,10.6951,med,med,med,female,Jones
+German Shepherd,34687.7751,62.7525,11.0497,med,med,med,male,Watson
+Akita,38910.6495,69.1815,11.7293,med,med,med,female,Velez
+Boxer,26680.2184,58.6236,8.3586,med,high,short,female,Conner
+German Shepherd,36712.5555,60.3067,11.2644,med,med,med,male,Miller
+Akita,55578.7459,63.635,10.9039,low,med,med,female,Anderson
+Akita,55741.3671,,11.1944,med,med,short,female,Robinson
+Bearded Collie,26736.9589,54.0061,11.8797,high,high,long,female,Gonzalez
+German Shepherd,37621.138,62.8466,10.5704,high,med,med,male,Williams
+Boxer,29197.1036,60.0307,7.9506,high,high,med,female,Carter
+Boxer,33759.269,60.371,7.5635,high,high,short,female,Holt
+Akita,44622.6549,65.4838,11.259,med,med,med,male,Adams
+Bearded Collie,19482.0168,,13.0172,high,med,long,male,Clayton
+German Shepherd,38067.3616,61.5206,11.2688,med,med,med,female,Anderson
+Akita,42033.9886,66.9219,11.4761,med,med,med,female,Leblanc
+Boxer,25993.3039,59.4637,8.3572,high,high,med,female,Simmons
+German Shepherd,36456.7336,57.812,11.1958,med,med,med,female,Lewis
+Bearded Collie,23396.836,52.906,13.3503,high,high,long,male,Montgomery
+German Shepherd,36513.4871,60.0306,11.4216,low,high,long,female,Hull
+Akita,16925.7672,67.9505,11.174,med,med,med,male,Jones
+Boxer,34681.5507,58.1752,9.3498,high,med,med,male,Allison
+Boxer,34381.1554,55.9673,8.5746,high,high,short,male,Strickland
+Boxer,27922.9535,59.4967,8.9402,high,high,med,female,Morris
+Boxer,34627.8224,58.0125,8.6874,high,high,short,female,Trevino
+Bearded Collie,20986.354,51.9728,13.0231,high,high,med,female,Johnson
+Akita,24254.1179,67.0213,10.9387,med,med,med,male,Perez
+Akita,50438.11,67.0178,10.828,med,med,med,female,Munoz
+Akita,25938.0713,67.4969,11.6366,med,med,med,male,Hall
+Akita,56606.8512,66.3357,11.0595,med,med,med,female,Hart
+Boxer,34719.2522,,10.0504,high,high,short,male,Wong
+Boxer,21413.618,,9.519,high,high,short,female,Smith
+Boxer,30104.2401,60.3409,8.6422,high,high,short,male,Ramirez
+Boxer,23460.3808,61.0102,8.7879,high,high,short,female,Ponce
+Bearded Collie,17703.958,,12.2291,high,med,long,female,Davis
+Boxer,27980.5078,59.9218,8.6253,high,high,short,female,Mcdonald
+German Shepherd,38806.0723,61.7384,12.1969,med,med,med,female,Stevens
+German Shepherd,35865.4082,61.6598,10.9074,med,med,med,female,Castro
+Akita,58481.7855,67.6391,11.2389,low,high,med,male,Smith
+Bearded Collie,20364.5095,52.9313,13.3204,high,high,long,female,Jackson
+Boxer,28387.527,,9.5158,high,high,short,male,Palmer
+Akita,43449.3995,67.5311,11.5312,med,med,med,male,Anderson
+Boxer,19679.4146,60.6352,9.1348,high,med,short,male,Ingram
+Boxer,22585.9618,54.8946,9.911,high,high,short,female,Castro
+German Shepherd,35300.6774,,10.2009,med,med,med,female,Park
+Boxer,34458.5642,56.5366,8.1739,high,high,short,female,Willis
+German Shepherd,36492.8374,64.7965,10.4968,low,med,med,female,Bush
+German Shepherd,37120.4843,62.1874,10.254,med,med,med,female,Tucker
+Boxer,27202.7332,58.4733,9.8086,high,high,short,female,Rivers
+Boxer,27043.0716,58.8726,9.0783,med,high,short,female,Petty
+German Shepherd,37108.7795,62.5884,11.7764,med,med,med,female,Flores
+German Shepherd,35571.4518,60.7734,11.7695,high,high,med,male,Harvey
+Bearded Collie,23357.0874,50.8737,12.936,high,high,long,male,Duke
+Akita,50618.1751,67.3399,11.4481,med,high,short,male,Patrick
+Boxer,26940.2656,59.1722,8.8989,high,high,med,female,Brown
+Bearded Collie,18415.5609,53.1378,12.38,high,high,long,female,Patterson
+Boxer,27481.8559,,9.0929,high,high,short,female,Bolton
+Akita,33330.7635,65.6195,11.3646,med,med,long,male,Baker
+Akita,43981.9421,65.7712,9.7472,med,med,med,female,Williams
+German Shepherd,37168.1908,58.0086,11.1364,med,med,med,male,Smith
+Boxer,32963.7864,57.0168,9.772,high,high,short,female,Russell
+German Shepherd,36427.9094,60.0951,11.2848,med,high,med,male,Farmer
+Akita,36698.4821,65.8285,11.8548,med,med,med,female,Phillips
+Boxer,25856.3752,55.9301,9.3033,high,high,short,male,Pierce
+German Shepherd,37466.1159,58.9104,11.7659,med,med,short,male,Parker
+Boxer,28182.0184,58.9484,8.6719,high,high,short,female,Watson
+Akita,53946.483,,12.1348,med,med,med,female,Carr
+German Shepherd,35846.0223,61.2672,11.062,med,med,med,female,Lyons
+Bearded Collie,24294.0952,54.0692,12.3962,high,high,long,female,Gordon
+German Shepherd,36140.0786,,11.5433,med,high,med,female,Williams
+Boxer,33510.4825,59.0501,9.1184,med,high,short,male,Vargas
+German Shepherd,36545.6207,58.8235,12.3785,low,med,med,male,Wells
+Boxer,26740.3368,57.1444,8.3758,high,high,short,female,Farley
+Boxer,30863.2381,59.0713,9.4358,med,med,short,female,Mccoy
+Boxer,35495.1495,59.7366,8.3771,high,high,short,male,Schmidt
+Bearded Collie,21988.4099,,11.7439,high,high,long,male,Taylor
+Boxer,28233.1783,57.9697,9.5335,high,high,short,female,Anderson
+Akita,40287.9095,67.3775,12.7041,med,med,med,female,Barry
+German Shepherd,34635.8948,,9.9,med,med,med,female,Smith
+Boxer,31102.0654,56.8067,9.3348,high,high,short,male,Johnson
+Bearded Collie,26839.9154,56.3222,12.8476,high,high,long,female,Sanchez
+Bearded Collie,21355.4561,53.2371,12.0729,high,high,long,male,Hunt
+Bearded Collie,21023.8022,50.6012,13.9745,high,high,long,male,Martin
+German Shepherd,35799.1099,58.6677,11.5307,med,med,med,female,Miller
+Boxer,34075.9817,56.0201,8.4349,high,high,short,male,Smith
+Bearded Collie,23332.3066,52.2383,12.7879,high,high,long,male,Johnson
+Boxer,30025.2525,57.7104,8.5554,high,high,short,female,Gardner
+Boxer,33678.6787,57.7821,9.4394,high,high,short,male,Townsend
+German Shepherd,35118.7845,62.4038,10.647,med,med,med,female,Jackson
+Boxer,26213.1357,58.1556,8.8994,high,med,short,male,Lee
+German Shepherd,37023.2812,64.4752,10.5478,med,med,long,female,White
+Boxer,26520.531,57.6398,7.5067,med,high,short,male,Thompson
+Boxer,28063.0207,56.8557,8.7109,high,high,short,male,Reid
+German Shepherd,35013.0737,61.0513,10.7734,med,high,med,male,Sharp
+Akita,46580.7163,64.6005,10.4339,low,med,med,male,Copeland
+Bearded Collie,22071.1086,52.2587,12.6965,med,high,long,male,Moss
+Boxer,37668.1918,58.5848,8.6638,high,high,short,female,Powers
+Bearded Collie,18560.6337,49.4259,13.4853,high,high,long,female,Frey
+German Shepherd,35259.2023,62.9547,10.1599,med,med,med,male,Rice
+Bearded Collie,21652.5064,,13.3805,high,high,long,male,Davis
+German Shepherd,34387.3708,59.0479,11.1683,med,low,med,female,Shelton
+Akita,39810.4327,65.3403,10.8382,low,med,med,female,Thompson
+Bearded Collie,18802.9797,51.7349,13.5592,high,high,long,male,Huff
+Boxer,32136.4633,55.8528,7.5807,high,high,short,male,Mathews
+German Shepherd,36401.4475,,10.4873,med,med,med,female,Norman
+Akita,43676.6252,65.7401,10.6499,med,low,short,female,Dunn
+Bearded Collie,23100.0429,,12.622,high,high,long,male,Boyd
+Bearded Collie,19471.8113,54.6236,13.3988,med,med,long,male,Henry
+German Shepherd,34425.503,,10.3132,med,high,med,female,Matthews
+German Shepherd,35358.8387,,11.7074,med,med,med,female,Lee
+Akita,52496.2357,,10.9272,high,med,long,male,Allen
+Boxer,33897.3402,,9.7511,high,high,short,female,Johnson
+German Shepherd,36799.3128,63.6852,10.783,med,med,med,male,Laura
+Akita,47927.2929,67.7144,11.0719,med,med,short,female,House
+Boxer,35094.0866,59.7909,9.1975,high,high,short,female,Stewart
+Akita,54746.5053,67.0239,11.1505,med,low,med,male,Brown
+Akita,38058.8883,69.768,10.7866,low,med,med,female,Abbott
+Akita,46794.5103,64.5689,10.4432,med,med,med,female,Garcia
+German Shepherd,33691.2121,62.9617,11.7192,med,med,med,female,Regina
+German Shepherd,37981.1,62.6182,10.9412,med,med,med,female,Villa
+Bearded Collie,26486.8649,54.554,12.6927,high,high,long,male,Rodriguez
+German Shepherd,36386.6507,63.5301,10.0229,med,high,med,female,Thompson
+Akita,40426.0573,68.1974,10.8872,low,high,med,male,Hodges
+German Shepherd,37096.4162,60.5795,11.0021,med,low,med,male,Benson
+German Shepherd,36123.4006,60.0467,11.2927,med,med,long,female,Clark
+German Shepherd,36034.5247,60.9934,10.9976,med,high,med,female,Rodriguez
+Bearded Collie,20854.9409,57.3694,12.4971,high,med,long,male,Gomez
+Akita,54015.8492,68.6226,11.797,high,med,med,male,Robinson
+German Shepherd,35501.642,66.4369,10.8295,low,low,med,female,Hooper
+Boxer,20692.9433,56.526,9.582,high,high,short,male,Green
+Akita,37728.1534,62.8464,10.6274,med,med,med,male,Gibson
+Bearded Collie,18658.8039,53.9242,12.4464,high,high,long,female,Stephens
+German Shepherd,34534.7842,58.8668,11.6556,med,med,med,female,Reese
+Bearded Collie,23665.9013,48.4253,12.1578,high,high,med,male,Gray
+German Shepherd,36870.8863,62.8527,9.8494,med,med,med,male,Hernandez
+Akita,35465.4113,65.5114,11.5448,med,med,med,male,Payne
+German Shepherd,36446.7202,61.3211,10.239,med,high,med,male,Baker
+Boxer,35670.8837,59.0788,9.35,high,med,short,female,Sullivan
+German Shepherd,36848.8756,61.9029,11.0653,med,med,short,female,Hays
+Boxer,24616.1093,60.4457,9.9393,high,high,short,female,Reid
+Boxer,31622.5855,61.8254,9.4354,med,high,short,male,Green
+Bearded Collie,17263.4735,52.4747,12.4854,high,high,long,female,Elliott
+Akita,50181.3621,68.5033,10.1719,med,high,med,female,Cooper
+Bearded Collie,27583.0944,,13.1402,med,high,long,female,Ortiz
+German Shepherd,37152.3592,63.7273,11.9137,med,med,short,female,Ryan
+German Shepherd,36013.7763,62.6727,10.8534,med,med,med,male,Mason
+Bearded Collie,20194.0786,53.2116,13.2123,high,high,long,female,Green
+Boxer,30889.4725,57.115,8.9593,high,high,short,female,Ali
+German Shepherd,38729.4845,61.617,10.4123,med,med,long,male,Castro
+Akita,27854.0056,65.5429,11.8283,med,high,med,male,Velasquez
+German Shepherd,34968.2839,60.8376,9.9478,med,med,med,male,Jimenez
+German Shepherd,33597.6193,,11.3801,med,low,med,male,Stewart
+Boxer,25203.0761,58.94,8.5154,high,high,short,female,Torres
+Bearded Collie,25460.3449,51.5982,14.2231,high,high,long,female,Waters
+Akita,54747.7953,,10.634,med,med,med,male,Flores
+German Shepherd,35440.6344,63.6614,11.765,low,high,med,female,Mitchell
+Boxer,25294.5762,57.81,9.5822,high,high,short,female,Craig
+Boxer,26373.1753,56.6825,8.7388,high,high,short,male,Salas
+Boxer,31278.1459,57.5791,8.331,high,high,med,male,Gibbs
+German Shepherd,36467.2922,59.0074,11.8967,med,low,med,female,Mason
+Akita,38453.6962,68.2852,11.9282,med,med,short,female,Thompson
+German Shepherd,37751.2224,,11.1983,med,med,med,female,Donna
+Bearded Collie,25264.6743,54.094,12.2909,high,high,long,female,Johnson
+Akita,66554.309,66.9185,10.7326,high,high,long,male,Brown
+Boxer,25313.9041,59.6116,8.5226,high,high,short,female,Bernard
+Boxer,31268.3355,59.6567,8.8716,high,high,short,male,Krueger
+German Shepherd,35310.1205,60.7518,10.3672,med,med,med,female,Johnston
+German Shepherd,34580.0956,62.7945,9.976,med,med,long,female,Krueger
+Akita,58471.1186,65.8596,10.9073,med,med,med,male,Simmons
+German Shepherd,35600.3887,60.8543,10.2781,low,med,med,male,Romero
+German Shepherd,35800.2684,59.9339,10.8114,med,med,med,male,Thomas
+German Shepherd,37870.2623,,10.5075,med,med,med,female,Smith
+Boxer,27210.6921,57.2354,9.0848,high,high,short,male,Reese
+Akita,64414.3559,,11.0308,med,med,med,male,Moody
+Boxer,29622.6033,56.4164,9.534,high,high,short,female,Baker
+Boxer,31986.9185,60.6551,7.8903,high,high,short,male,Fletcher
+German Shepherd,36669.994,59.6547,10.4632,med,med,med,female,Shelton
+Bearded Collie,27029.8302,51.9803,13.8464,high,high,long,female,Knox
+German Shepherd,35528.4115,60.2294,12.1967,med,med,med,male,Stafford
+Boxer,29041.5857,57.6999,8.801,med,med,short,female,Sosa
+Akita,48981.3717,63.5049,10.3707,med,med,med,male,Lopez
+Boxer,38812.3681,58.2941,9.247,high,high,short,male,Lara
+Boxer,29594.1315,,8.9188,high,high,short,male,Johnson
+German Shepherd,38257.4838,61.886,10.8102,med,med,med,female,Owens
+Bearded Collie,17250.6864,51.8459,13.922,high,high,long,female,Castro
+Akita,52504.8731,67.9745,11.112,low,low,med,female,Neal
+Akita,41750.1157,65.9479,10.5982,med,high,med,female,Mcdonald
+Akita,50724.2385,67.2859,11.1899,med,med,med,female,Stephens
+Bearded Collie,24340.3289,52.4356,13.1493,high,high,med,female,Rogers
+Akita,55280.012,66.0203,10.7385,high,low,med,female,Frank
+German Shepherd,36110.0096,60.4363,11.8284,med,med,med,female,Long
+German Shepherd,38659.7227,63.8042,10.816,med,med,med,female,Clark
+German Shepherd,36859.9165,62.329,10.7758,med,med,med,female,Randall
+Boxer,29200.1382,59.463,9.5412,high,high,short,female,Hudson
+Boxer,33066.7299,58.6593,8.4277,high,med,short,male,Briggs
+Akita,31190.384,67.3416,12.385,med,med,long,female,Roberts
+Boxer,34668.5507,58.9239,9.0589,high,high,short,female,Mcmahon
+Boxer,33505.517,56.6845,9.8369,high,med,med,female,Shaw
+German Shepherd,37285.5411,59.4329,10.553,med,low,med,male,Sampson
+Bearded Collie,20772.8629,52.411,13.6403,high,high,long,male,Rivera
+German Shepherd,36740.506,,11.4376,med,med,med,female,Coleman
+Akita,33777.9116,65.6008,10.8238,med,med,short,female,Knight
+Bearded Collie,19442.7854,,13.4681,high,high,long,male,Martinez
+Boxer,35985.373,,8.759,high,med,short,male,Daniels
+Boxer,36294.2381,61.0785,8.2969,high,med,short,female,Mann
+German Shepherd,37238.2084,,10.0512,med,med,med,female,Jackson
+Akita,40557.5419,64.7194,11.9776,med,high,med,male,Garcia
+Akita,45991.7145,66.2609,11.0895,low,med,short,female,Smith
+German Shepherd,36397.9582,60.0309,10.4744,high,med,med,female,Ward
+Boxer,31113.7535,62.7363,7.6892,high,high,short,female,Brown
+German Shepherd,37069.4755,,11.086,low,high,med,female,Fox
+Akita,36493.4229,66.1089,10.3841,med,med,med,female,Ortiz
+Akita,35188.4068,,11.2299,med,med,med,male,Hernandez
+Akita,35988.754,67.6993,10.749,med,high,med,female,Taylor
+German Shepherd,36585.6365,,10.0357,med,low,med,male,Alvarez
+German Shepherd,37597.3628,62.7463,10.6808,med,med,med,female,Wright
+Bearded Collie,26057.9254,53.9286,11.6814,high,high,long,female,Ayala
+Boxer,30635.4189,56.8313,8.841,high,high,short,male,Miles
+German Shepherd,36690.8387,,11.1612,med,med,med,male,Gallegos
+Bearded Collie,20564.3644,51.3173,12.8639,high,high,long,male,Bass
+Boxer,24376.1,58.4263,9.87,high,high,short,female,Roman
+German Shepherd,37406.4233,,10.9034,med,med,med,male,Davis
+Boxer,30501.2835,59.4081,7.8352,high,high,short,male,Gibson
+Bearded Collie,20565.2627,53.1176,13.8754,high,high,long,male,Leonard
+Akita,36842.9817,66.4202,10.4232,med,med,med,female,Banks
+German Shepherd,35684.2976,64.2898,10.5073,med,med,short,male,Lambert
+Boxer,33411.7328,60.0363,8.392,high,med,short,female,James
+Bearded Collie,23184.7168,53.2121,12.6411,high,high,med,male,Hopkins
+Bearded Collie,19517.231,53.3408,12.3104,high,high,long,male,Brown
+Boxer,23778.7441,55.5573,7.9186,high,high,short,male,Krause
+Boxer,34923.0715,59.8448,8.8248,high,high,short,male,Larson
+Akita,51994.1221,,10.9556,med,low,med,male,Morgan
+Boxer,31658.5743,59.1406,8.7602,high,high,med,male,Martin
+Akita,39795.5724,66.351,10.6012,med,med,med,male,Grant
+Boxer,26838.8582,59.4162,9.5154,high,high,short,male,Diaz
+Akita,29020.3999,66.7131,11.4616,med,med,med,female,Turner
+Bearded Collie,23394.7199,51.8618,13.5065,high,high,long,male,Adkins
+Akita,47671.5695,66.5115,11.3862,med,low,med,male,Rose
+Boxer,31150.3955,62.0227,8.6029,high,high,short,male,Nguyen
+German Shepherd,35013.8066,64.4545,10.5113,med,med,med,female,Mcclure
+German Shepherd,36491.9472,58.1608,10.8157,med,med,med,female,Nelson
+Akita,38233.4036,65.8538,10.5648,med,med,med,male,Lisa
+Boxer,28727.986,57.1982,9.1631,high,high,short,male,Tate
+Bearded Collie,23209.3541,,12.5138,high,med,long,female,Hubbard
+Bearded Collie,22163.4786,55.1934,13.1542,high,high,long,female,Lawson
+German Shepherd,39724.728,57.2251,9.6846,med,med,med,female,Jenkins
+German Shepherd,38375.5718,59.5601,11.1561,med,med,med,female,Murphy
+Bearded Collie,25098.3749,,13.3967,high,high,med,male,Wilcox
+Bearded Collie,24210.2064,54.4119,13.772,high,high,long,male,Morrison
+Bearded Collie,20776.6372,52.477,13.6875,med,high,long,male,Palmer
+Akita,63851.7515,69.6634,10.8813,med,med,med,male,Jackson
+Akita,49533.6841,64.6679,10.4323,med,low,long,female,Davis
+Bearded Collie,17554.2416,,12.7961,high,high,long,male,Kennedy
+Akita,33019.7041,68.5228,10.956,med,med,med,male,Barber
+Akita,51317.4453,,10.2635,med,med,med,female,Pruitt
+Bearded Collie,21484.227,,12.7314,med,med,long,female,Monica
+Akita,50324.6401,65.4775,10.9947,low,high,med,male,Merritt
+Bearded Collie,19196.157,53.355,12.7977,high,high,long,female,Taylor
+Boxer,26652.3083,58.4634,8.3105,high,med,short,male,Reese
+Bearded Collie,22371.8135,52.0399,12.945,high,high,long,male,Meadows
+Akita,44971.7101,,9.6048,high,med,med,female,Esparza
+Boxer,28559.2981,,9.4091,high,high,short,female,Jackson
+Bearded Collie,20913.0884,52.515,12.5702,high,high,med,male,Huffman
+Boxer,27434.2413,,8.6099,high,high,short,female,Long
+Bearded Collie,18951.6632,,11.9769,high,high,long,male,Carlson
+Boxer,24246.3134,56.0375,8.9516,high,high,short,female,Sloan
+Bearded Collie,21506.9855,53.4212,12.4554,high,high,long,male,Holmes
+German Shepherd,34787.8808,,10.7008,med,med,med,female,Vaughn
+Akita,43236.0243,,9.7626,high,high,med,male,Joseph
+Akita,44267.8797,67.1321,11.1967,med,med,med,female,Maldonado
+Boxer,29565.1924,56.4927,8.3276,high,high,short,female,Sanchez
+Bearded Collie,22113.2714,50.9696,13.3113,high,high,long,female,Pearson
+German Shepherd,37053.572,59.071,10.7041,low,med,med,male,Acosta
+Bearded Collie,23550.6226,53.3752,12.7809,med,high,med,female,Thomas
+Akita,47292.5216,66.6141,10.1156,med,high,med,male,Pacheco
+German Shepherd,35744.7152,60.773,10.6171,low,high,med,male,Nguyen
+German Shepherd,38604.4329,61.3418,10.3692,med,med,med,male,Thompson
+Bearded Collie,19671.7655,50.9636,12.3268,high,high,long,female,Reed
+Akita,37709.3254,63.7782,10.1243,med,med,med,male,Fitzpatrick
+Bearded Collie,26335.187,49.9164,13.4453,high,high,long,male,Cortez
+German Shepherd,35858.7401,61.1551,11.9081,med,med,med,male,Sanders
+German Shepherd,37246.4276,,10.6646,med,high,short,female,Roy
+Bearded Collie,32926.0002,,13.65,high,high,med,male,Galloway
+German Shepherd,38577.0901,63.9309,10.9398,med,med,med,male,Alvarez
+German Shepherd,33909.5728,60.3987,11.0069,med,med,short,female,Sanchez
+Akita,48009.8092,64.8462,9.9965,med,high,short,male,Jones
+Akita,48467.2548,66.9187,10.7815,med,med,med,female,Frost
+Boxer,31961.1862,60.8559,9.5575,high,high,short,female,Harrington
+German Shepherd,35954.5693,59.8014,10.9889,med,med,med,male,Bates
+Akita,32483.208,,11.1117,med,med,short,male,Johnson
+Boxer,33060.8736,,9.1618,high,high,med,female,Paul
+Akita,33049.383,68.5722,11.2527,med,med,long,male,Chase
+German Shepherd,34685.5588,62.0483,10.5463,med,med,med,male,Hill
+German Shepherd,34597.7131,62.3027,10.9683,med,high,med,male,Aguilar
+Boxer,27609.8808,57.6533,8.6016,high,high,short,male,Cordova
+Boxer,28772.2017,55.7898,9.535,high,high,short,male,Larson
+German Shepherd,36204.2951,59.0011,10.9855,high,med,med,female,Brown
+Bearded Collie,20913.5899,,12.2189,high,high,long,female,Rodriguez
+Akita,33311.7602,66.3844,11.0791,med,med,short,male,Carrillo
+Boxer,26290.1781,59.755,9.819,high,high,short,female,Wolfe
+Akita,45869.8673,,10.7709,med,med,med,male,Bryant
+Bearded Collie,18247.8404,51.7068,12.6136,med,high,long,female,Glover
+Bearded Collie,19247.8719,51.3918,13.8959,med,high,long,female,Mann
+Akita,56276.405,,11.6433,med,med,med,female,Hanson
+Boxer,27383.5778,,7.3276,high,high,short,female,Scott
+German Shepherd,35254.8868,59.6616,11.1088,med,high,med,female,Thompson
+Bearded Collie,20656.8647,,12.8361,high,high,long,female,Fernandez
+Akita,27332.685,,10.5453,med,low,med,female,Smith
+Boxer,27421.7383,56.7931,9.9306,high,high,short,male,Bell
+Akita,33927.3984,66.7591,10.7554,med,med,long,female,Garza
+German Shepherd,34762.0373,58.4474,11.6774,med,med,med,female,Brown
+Bearded Collie,21041.6226,53.8475,13.6183,high,high,long,male,Mcdonald
+Boxer,23601.7629,59.5089,9.7823,high,med,short,female,Costa
+Akita,42300.9152,66.8346,11.8321,med,low,long,male,Williams
+Akita,32178.9232,68.6667,10.9206,med,med,med,male,Foster
+German Shepherd,38766.3552,59.2151,10.3274,med,med,med,male,Jones
+German Shepherd,38812.6354,63.9239,10.5948,med,med,med,male,Jensen
+German Shepherd,35896.1689,61.9287,11.2644,med,med,med,male,Long
+German Shepherd,35290.8316,60.4044,11.3559,med,med,med,female,Bradley
+Boxer,27518.7139,59.2411,9.1799,high,high,short,female,Harper
+Boxer,29469.1356,59.0091,9.3994,high,high,med,female,Schmidt
+German Shepherd,38531.6708,58.2297,12.2148,high,med,med,female,Soto
+Akita,55259.5545,67.94,10.6408,med,med,med,female,Norris
+Akita,43995.8594,,11.0788,med,med,short,female,Bailey
+Akita,38431.2945,65.6687,10.5606,low,med,med,male,Myers
+Akita,59798.7712,67.7656,10.6043,med,med,med,male,Vargas
+Bearded Collie,28345.7934,49.3842,13.0741,high,high,long,male,Matthew
+German Shepherd,35112.6929,,11.1914,high,med,med,male,Watson
+German Shepherd,38871.8094,61.714,11.4056,med,med,med,female,Perkins
+German Shepherd,34144.0854,61.7769,10.3123,med,med,med,female,Dixon
+Akita,54973.0062,63.69,10.5339,high,med,med,male,Smith
+Bearded Collie,14428.7485,54.0052,12.6506,med,high,med,male,Gomez
+German Shepherd,37338.0951,60.6091,10.7891,med,med,med,female,Olson
+German Shepherd,35523.9845,60.1883,11.9966,med,med,med,male,Hull
+Boxer,28697.6711,59.6787,8.8468,high,med,short,male,Diaz
+Bearded Collie,19615.5167,,14.3766,high,high,med,female,Norris
+Boxer,21849.9049,,9.0153,high,high,med,male,Jackson
+German Shepherd,35176.1382,58.9619,9.9497,med,med,short,male,Carter
+Bearded Collie,19988.3434,49.0815,12.4015,high,high,long,female,Taylor
+Akita,38537.5924,66.4848,11.0878,high,med,med,male,Craig
+Bearded Collie,21489.714,53.2899,12.5146,high,high,long,female,Williams
+Bearded Collie,19494.8968,54.5366,12.9031,high,high,long,male,Schwartz
+German Shepherd,34794.6964,61.1578,10.1982,med,med,med,male,Armstrong
+Akita,53888.5787,,10.5958,med,med,med,male,Huerta
+Bearded Collie,20135.4577,53.852,12.5699,high,high,long,male,Flores
+Boxer,31067.9959,59.0348,9.489,high,high,short,male,Ball
+German Shepherd,33983.9931,60.6944,11.382,med,high,med,female,Mendoza
+Bearded Collie,18786.8445,54.2527,13.0764,high,high,long,female,Gilbert
+Bearded Collie,19969.0054,,12.8596,high,high,med,female,Hill
+Boxer,27000.903,58.2615,9.2496,high,high,short,female,Morris
+Akita,50406.59,,10.7765,med,med,med,female,Garcia
+Akita,38855.9766,67.2718,11.9988,med,med,short,male,Taylor
+Boxer,29443.7555,57.368,8.4423,high,med,short,female,Miller
+Boxer,25589.3871,60.52,8.9134,high,high,short,male,Keller
+Boxer,27073.8074,56.8692,8.6334,high,high,short,male,Jackson
+Boxer,22594.2914,60.0682,9.3354,med,high,short,female,Johnson
+German Shepherd,36141.7782,59.8654,9.8915,med,med,med,female,Jones
+German Shepherd,38645.0865,,10.4169,med,med,med,female,Brown
+Bearded Collie,24626.4853,50.659,12.7229,high,high,long,female,Proctor
+Boxer,26109.707,59.0323,8.6589,med,high,short,female,Campbell
+Akita,53626.6856,68.6409,11.2699,med,high,med,female,Bryan
+Akita,41849.7555,67.8524,10.7177,med,med,long,male,Mcdaniel
+Boxer,27050.4799,57.511,8.8983,high,high,short,female,Gilbert
+Bearded Collie,22125.036,51.8885,13.0273,high,high,long,female,Garza
+German Shepherd,35729.8079,,10.5285,med,med,med,male,Steele
+Akita,56008.6913,,10.5999,med,low,med,male,Richardson
+Bearded Collie,16923.7667,,12.1475,high,high,long,male,Dennis
+Akita,42870.5834,67.0806,11.0061,low,med,med,female,Foster
+Akita,33310.7256,63.6222,10.5208,med,med,med,female,Castillo
+Bearded Collie,22372.6774,,13.0138,med,high,long,male,Doyle
+Boxer,27299.1689,57.998,9.3629,high,high,short,female,Crawford
+Akita,49336.8843,64.1344,10.3754,med,med,med,female,Adams
+Bearded Collie,27605.1001,56.6555,13.1126,high,high,long,male,Reed
+Akita,44385.0368,64.6476,11.1877,med,med,short,male,Lewis
+Bearded Collie,24987.8111,54.2427,12.7196,med,high,long,female,Baker
+Bearded Collie,24472.8535,56.7211,13.301,high,high,long,male,Hunt
+Bearded Collie,24474.3134,52.6969,14.6687,high,high,med,male,White
+Boxer,25902.9237,58.8248,8.2153,high,med,short,female,Caldwell
+Akita,31778.2981,,11.4096,med,med,long,female,Kent
+Akita,27693.801,67.3209,11.5015,low,high,med,male,Perez
+Bearded Collie,21611.3752,56.1133,13.6273,high,high,long,male,Ramos
+Boxer,31081.7781,,8.632,high,high,short,male,Phillips
+German Shepherd,34734.8032,62.153,10.6862,med,med,med,female,Glenn
+Boxer,32149.0023,58.4647,8.6624,high,high,med,male,Webb
+German Shepherd,36885.7417,,10.2062,med,med,med,female,Anderson
+Akita,45620.4138,,10.287,med,med,med,male,Farley
+German Shepherd,35997.8489,58.2049,10.9783,med,med,med,female,Randall
+Boxer,29228.1459,59.3153,9.4712,high,med,short,male,Lewis
+Bearded Collie,22867.5011,50.3298,12.8545,high,high,long,female,Smith
+Akita,46925.0806,63.4229,11.2639,med,high,med,female,Harrell
+Akita,48019.9648,68.6821,10.3328,med,med,long,female,Perez
+German Shepherd,35003.5116,,11.9623,med,high,med,male,Ashley
+Akita,49213.8346,,11.6258,med,high,med,male,Guzman
+German Shepherd,35414.6091,58.4915,11.5299,med,med,med,female,Johnson
+Bearded Collie,21184.4618,,12.1812,high,high,long,female,Nicholson
+Bearded Collie,24202.8025,50.6505,13.338,high,high,long,male,Newton
+Bearded Collie,20859.4339,54.6501,13.2614,high,high,long,male,Stewart
+Bearded Collie,20950.3782,49.2515,13.0088,high,med,long,female,Wilson
+Boxer,25738.5336,58.2217,8.5465,high,high,short,male,Brown
+Boxer,22888.0046,58.3551,9.4006,high,high,short,male,Johnson
+Boxer,30758.278,,8.4401,high,high,short,female,Carlson
+Boxer,29263.3633,58.55,9.5459,high,high,short,female,Watson
+German Shepherd,37053.5672,,10.3365,med,low,med,female,King
+Bearded Collie,20686.2081,48.3935,13.891,high,high,med,female,Baker
+Akita,50109.6962,,11.2657,med,med,short,male,Mills
+Akita,41099.2806,67.2685,11.9504,low,med,med,male,Chavez
+German Shepherd,37273.3311,60.4774,11.2025,med,med,med,male,Hill
+German Shepherd,36662.7323,59.4121,10.8048,med,high,med,male,Johnston
+German Shepherd,37038.7641,,11.2017,med,med,med,male,Miranda
+Bearded Collie,18628.3915,55.9107,13.7023,high,high,long,female,Goodman
+Akita,42435.7004,66.6071,10.8067,med,med,med,female,White
+German Shepherd,36603.7631,57.6477,11.8002,high,med,med,female,Acosta
+Bearded Collie,20295.604,54.0298,11.9315,high,med,long,male,Miller
+Boxer,32905.55,59.1906,8.3417,high,high,med,female,Hansen
+Akita,37039.7349,,11.332,high,med,med,male,Underwood
+Bearded Collie,20910.7695,51.2654,13.367,high,high,long,female,Jordan
+Boxer,38695.2044,56.8655,8.5768,high,high,short,female,Lewis
+German Shepherd,38651.7571,,11.1832,med,high,med,male,Richardson
+Boxer,33448.6229,56.6213,8.7198,high,high,short,male,Sanchez
+Akita,30776.5402,64.9157,10.7248,low,med,med,male,Kerr
+Bearded Collie,22762.35,55.8,12.5984,high,high,long,female,Hickman
+Akita,35569.2532,66.2725,11.577,high,med,med,female,Nguyen
+Akita,34210.0898,63.3796,11.0022,med,high,med,male,Mckay
+Boxer,27392.3839,58.9276,8.2058,high,high,short,female,Montgomery
+Akita,47882.3626,66.2593,9.5939,med,med,med,female,Smith
+Bearded Collie,23512.1372,53.2457,13.2356,high,med,long,male,Goodman
+Akita,50773.5884,,11.4972,low,med,med,male,Jones
+Akita,50487.0737,67.5942,10.9289,med,med,med,male,Martin
+Boxer,23426.8696,56.1995,8.9469,med,high,short,male,Weiss
+Bearded Collie,25794.0187,53.3938,14.0263,high,high,long,male,Parrish
+German Shepherd,36658.5302,61.1784,11.2927,low,high,med,female,Perez
+Boxer,28191.0348,59.2187,9.4345,med,high,short,female,Marshall
+German Shepherd,33701.1295,,10.8258,med,med,med,male,James
+Boxer,28411.9653,59.8164,8.2361,high,high,short,female,Ramirez
+Akita,41144.7436,,12.6265,med,low,long,male,Smith
+Bearded Collie,22385.3697,,13.1268,med,high,long,female,Davis
+German Shepherd,34374.3657,58.7327,10.8876,med,med,med,female,Young
+German Shepherd,37160.999,61.285,11.645,med,med,med,male,Meyer
+German Shepherd,36200.3592,,10.4362,med,med,med,female,Hernandez
+Boxer,32144.1669,58.1608,8.6055,high,high,med,female,Parsons
+Bearded Collie,24871.3952,49.0485,12.6627,high,high,long,female,Jefferson
+Boxer,28665.2002,58.9131,9.0701,high,high,short,male,Johnson
+Boxer,31085.3423,57.7203,8.349,high,high,short,female,Lindsey
+Bearded Collie,22781.8921,53.2564,12.9343,high,high,long,male,Sutton
+Akita,47926.3362,66.6438,11.3425,med,med,long,male,Brady
+German Shepherd,34725.0529,59.53,10.7918,med,high,med,female,Tran
+Boxer,29002.2465,59.7284,8.8735,high,high,short,female,Ferguson
+Akita,41625.265,,11.5407,high,med,med,male,Castillo
+German Shepherd,36905.5857,60.536,11.0487,high,med,med,female,Johnson
+German Shepherd,39772.3361,62.1224,10.8323,med,med,med,female,Jones
+Bearded Collie,23391.9958,54.468,13.6071,high,high,long,male,Palmer
+German Shepherd,38489.6518,64.3379,11.1128,med,med,long,female,Coleman
+German Shepherd,35175.0618,60.6906,10.3564,med,med,med,female,White
+German Shepherd,37965.9508,64.3829,11.8967,med,med,med,male,Villa
+German Shepherd,36039.0921,59.8376,11.4973,med,med,med,female,Wilson
+German Shepherd,34742.3857,,11.5806,high,med,med,male,Campbell
+Bearded Collie,22252.9748,52.1044,13.2166,high,med,long,male,Mann
+German Shepherd,35017.7636,,11.7902,med,med,med,female,Walker
+Bearded Collie,23431.3179,,12.6911,high,med,long,female,Hall
+Akita,40100.079,68.8364,10.8881,low,med,med,male,Yates
+Akita,61835.2132,65.8966,11.6234,med,med,med,male,Baker
+Boxer,24233.7134,59.2502,9.5071,high,high,short,male,Rojas
+Akita,38167.288,67.497,11.2438,med,med,med,male,King
+German Shepherd,35457.1904,57.7331,10.9139,med,med,med,female,Smith
+Bearded Collie,21199.2187,54.6718,12.3456,med,med,med,female,Lucas
+German Shepherd,34511.0868,61.1821,13.1542,med,med,med,female,Harris
+German Shepherd,37095.1515,60.7448,11.2102,med,med,med,male,Marquez
+Boxer,29710.0496,60.2862,9.9199,high,high,short,male,Aguilar
+Boxer,34999.5459,61.0292,8.3278,high,high,short,male,Delgado
+Bearded Collie,20889.0619,52.8198,13.2754,med,high,long,female,Castro
+Boxer,22127.1769,58.6955,8.8474,high,high,short,female,Humphrey
+German Shepherd,35023.1684,63.9544,11.3663,med,low,med,male,Nelson
+Akita,53456.7,65.8175,12.1678,high,low,med,female,Wilson
+Akita,41377.125,69.0641,10.4481,med,med,med,male,Nelson
+Boxer,30912.2256,,9.2181,high,high,short,female,Flores
+Boxer,32235.5613,,9.3381,high,high,short,male,Preston
+Boxer,32683.6421,60.871,9.105,high,high,short,male,Long
+Bearded Collie,21837.8518,,12.322,high,high,long,male,Smith
+Akita,47584.6469,,10.9479,med,med,med,male,Cobb
+Boxer,20780.5147,58.0599,8.2505,high,high,short,male,Murphy
+German Shepherd,35524.0862,62.3521,11.6808,med,low,med,male,Morales
+Bearded Collie,23579.0879,51.7964,12.6269,high,high,long,female,Marsh
+Bearded Collie,17352.7511,50.5693,12.464,high,high,long,male,James
+Bearded Collie,23333.4754,,12.3665,high,high,med,female,Martin
+Akita,56149.2411,65.3827,10.8747,med,med,med,female,Wilson
+Boxer,31593.1487,61.5585,8.5015,high,high,med,female,Christopher
+Boxer,29548.7079,55.465,9.8814,med,high,short,female,Davis
+German Shepherd,36674.6409,62.1792,11.1344,med,med,long,female,Jackson
+Boxer,27819.4357,58.0463,8.5921,high,high,short,male,Wilson
+German Shepherd,36475.1534,62.9947,10.9651,low,med,med,male,Ware
+Bearded Collie,23074.7848,51.5252,12.5108,high,high,long,female,Massey
+Akita,43497.0966,66.4164,10.8829,med,med,med,female,Bell
+Akita,45279.585,68.0357,11.4335,med,med,med,female,Bennett
+Bearded Collie,21050.8215,,14.6902,high,high,long,female,Mooney
+German Shepherd,36498.257,60.9159,10.6497,med,med,med,female,Duarte
+Akita,42189.4996,,10.5684,med,med,med,male,Montoya
+Akita,42952.5879,66.837,11.0788,low,med,med,female,Moreno
+Bearded Collie,23448.4806,53.5124,13.8482,high,high,long,male,Eaton
+Boxer,39267.7199,56.4234,8.4438,high,high,short,male,Palmer
+Bearded Collie,21275.2775,53.7566,13.4494,high,high,med,male,Wells
+German Shepherd,35473.7107,,10.4813,high,med,long,female,Hughes
+Boxer,27145.2113,57.7666,9.247,high,high,short,male,Hill
+Boxer,32944.6452,60.2952,8.1349,high,med,short,male,Williams
+Bearded Collie,23463.5603,,12.5717,high,high,long,male,Bonilla
+German Shepherd,34617.4567,57.1244,11.4917,med,low,med,male,Smith
+Akita,22543.023,64.4247,10.5489,med,med,med,male,Wagner
+Boxer,25406.2032,,8.5994,high,high,short,male,Todd
+Bearded Collie,20007.5282,,13.8701,high,high,long,male,Jackson
+German Shepherd,38786.1284,58.6128,10.2195,med,low,med,male,Long
+Bearded Collie,22943.5137,53.6358,12.83,high,high,long,male,Davis
+German Shepherd,35210.1203,62.7893,10.0207,high,med,med,female,Smith
+Akita,42014.802,62.87,10.5316,low,med,short,male,Booth
+Boxer,30637.127,58.3793,8.8438,high,med,short,male,Amy
+Boxer,31465.9427,57.4549,8.3932,high,high,short,female,Lopez
+Boxer,33698.3121,57.3225,8.1057,high,high,short,male,Robinson
+Boxer,32550.6719,59.4428,8.6945,high,high,short,female,Williamson
+German Shepherd,37186.3857,59.5751,10.9937,med,med,short,male,Meyer
+Boxer,27507.6681,56.9425,8.7393,high,med,short,female,Walls
+German Shepherd,36953.5588,,10.7805,med,low,med,male,Thompson
+Bearded Collie,18935.7601,,13.5242,high,high,long,male,Ferrell
+German Shepherd,35729.508,60.183,12.3875,med,med,med,female,Wang
+German Shepherd,35687.7091,57.8548,11.7062,med,med,med,male,Gutierrez
+Boxer,38129.4308,60.5849,9.5701,med,high,short,female,Cole
+Akita,44428.2826,68.5013,10.8061,med,high,med,female,Love
+German Shepherd,39160.3383,,11.4564,med,med,med,male,Stevenson
+German Shepherd,37119.3697,60.548,10.6074,med,high,med,male,Orr
+Bearded Collie,23417.4524,48.978,12.8246,high,high,long,male,Patel
+Akita,48620.81,,11.8748,med,med,med,male,Sherman
+Boxer,30278.1653,60.9021,8.4801,high,high,short,male,Olson
+Akita,50275.8697,,11.8634,med,med,med,female,White
+Bearded Collie,23560.0739,51.3332,12.1645,high,high,long,male,Garcia
+German Shepherd,35961.45,,11.5751,med,med,med,female,Carlson
+Boxer,27671.164,57.5162,8.0854,med,high,short,male,Jimenez
+Bearded Collie,20686.2756,52.9889,12.7764,high,high,long,female,Duarte
+Bearded Collie,21876.8693,52.7317,12.646,high,high,long,male,Cantrell
+Akita,49341.052,65.5993,11.6327,med,med,med,female,Cordova
+Boxer,24886.5207,56.976,8.8038,high,high,short,male,Johnson
+German Shepherd,38589.0409,61.4327,10.9817,med,high,med,female,Mcgrath
+Akita,55622.0832,68.9217,12.4752,low,med,med,female,Garcia
+German Shepherd,36244.1592,,10.984,med,med,long,female,Anderson
+Bearded Collie,19500.0041,,13.7921,high,high,long,male,Stanton
+Akita,45566.7295,66.4515,11.1634,med,med,med,male,Mendoza
+Akita,41667.2849,66.447,10.8941,low,low,med,female,Donovan
+German Shepherd,36719.5737,62.1457,10.9121,med,med,med,female,Avery
+Akita,42462.6022,64.9101,11.3491,high,med,med,male,Shea
+Bearded Collie,24854.0008,52.2897,12.4613,high,high,long,female,Holmes
+German Shepherd,38560.4962,59.7463,10.8378,med,med,long,male,Mendoza
+German Shepherd,36468.2977,,11.7693,med,high,med,female,Lawrence
+Akita,46091.5561,,11.8949,med,med,med,male,Vance
+Akita,38043.4082,66.0671,10.9541,med,low,med,male,Baldwin
+German Shepherd,36310.3003,63.9894,10.7804,med,med,med,female,Rose
+Boxer,31155.7315,58.0491,9.3988,high,high,short,female,Klein
+Bearded Collie,25191.2311,57.1422,11.4106,high,high,long,male,Orr
+German Shepherd,36348.2589,62.4591,10.7735,low,med,med,male,Chen
+Boxer,28231.1574,57.7222,9.4283,high,high,med,male,Rogers
+Akita,40758.1767,68.953,10.2358,low,med,med,male,Washington
+Akita,51719.2983,66.6626,10.5689,med,med,long,female,Marshall
+Akita,34448.3749,68.6171,11.5449,med,low,med,female,Ponce
+Boxer,23591.6554,,9.3077,high,high,short,male,Martin
+Bearded Collie,21860.3459,54.3806,12.704,med,high,long,female,Flores
+German Shepherd,36116.3691,58.5524,11.3905,med,med,med,male,Baker
+Akita,29136.8414,65.9485,9.5461,med,med,med,female,Anderson
+German Shepherd,39016.7534,59.8905,11.3386,med,med,med,male,Bailey
+German Shepherd,35752.7336,62.4515,10.7095,med,med,long,male,Chase
+Akita,44904.5056,65.7458,10.9437,med,med,med,female,Sanders
+Bearded Collie,23993.613,53.3803,13.6928,med,high,long,female,Green
+Akita,43755.0285,67.3561,11.7988,med,med,med,male,Young
+German Shepherd,38720.3587,60.984,11.2851,med,med,short,male,Davis
+Boxer,30195.112,60.2734,8.4714,med,high,short,male,Whitaker
+Akita,46935.4382,,11.5109,med,high,med,male,Owens
+Akita,32881.3923,67.0845,10.1366,low,high,med,male,Snyder
+Bearded Collie,22667.789,52.4531,13.1681,high,high,long,female,Bell
+Bearded Collie,18042.1954,53.8545,13.7599,high,high,long,male,Jones
+German Shepherd,37427.5449,61.0956,10.916,low,high,med,male,Jonathan
+Akita,35273.3323,64.6943,11.0939,med,high,med,male,Gonzalez
+Bearded Collie,23062.9916,51.9773,12.793,high,high,long,male,Knight
+German Shepherd,36275.7822,62.6928,11.1944,low,med,med,male,Butler
+German Shepherd,36707.0483,62.1852,10.9967,med,med,short,female,Martin
+Bearded Collie,23269.725,52.0838,11.8361,high,high,long,female,Norris
+Akita,42287.3981,68.0524,11.7556,high,med,med,male,Dalton
+German Shepherd,35727.4828,62.7626,9.9369,med,med,med,male,Rodriguez
+Boxer,25945.1365,55.8717,8.2219,high,high,short,male,Price
+Bearded Collie,19044.6819,51.2428,13.3618,high,high,long,male,Gonzalez
+Akita,48181.9402,68.0209,10.8078,med,med,long,male,Johnson
+Boxer,36200.809,59.8104,9.4816,high,high,short,male,Vaughn
+Akita,33881.2515,66.9977,11.0433,med,med,med,male,Serrano
+Boxer,30711.9127,57.7694,9.7464,high,high,short,female,Frazier
+Akita,49136.3475,64.0654,10.6821,med,med,med,female,Crystal
+Akita,44974.0611,64.9229,10.8687,med,med,med,male,Jenkins
+Akita,40778.2397,64.2296,9.6027,med,med,med,female,Wheeler
+Bearded Collie,21909.2267,54.6823,12.3767,high,high,long,female,Doyle
+Boxer,26851.4676,62.6303,8.8066,med,high,short,male,Hoover
+Boxer,32744.3829,58.7229,9.6324,high,med,short,male,Ford
+Boxer,27032.6237,61.2624,8.9451,high,high,short,female,Hart
+Akita,41604.3983,64.1213,9.9936,med,med,med,female,Olsen
+German Shepherd,36069.195,59.8417,10.9596,med,med,med,male,Aguilar
+German Shepherd,35747.6377,64.5617,10.4665,med,med,med,female,Mccarthy
+Boxer,31084.1849,59.1642,9.5021,high,high,short,female,Craig
+Akita,36450.0318,71.4319,10.6376,med,high,med,male,Cruz
+German Shepherd,34640.6477,60.4662,12.4779,med,high,med,female,Krueger
+Boxer,32591.5681,58.8449,9.1648,high,med,short,male,Butler
+Boxer,32920.9499,60.0564,9.2106,high,high,short,male,Miller
+Akita,42157.3203,66.5221,10.4094,med,med,short,male,Henderson
+Bearded Collie,21180.9835,51.6739,11.9723,high,high,long,female,Austin
+Akita,56632.1305,66.3748,11.3017,med,med,med,female,Cox
+German Shepherd,35918.3303,63.3372,9.44,low,med,med,female,Parker
+Boxer,25999.5901,57.269,8.5735,high,high,short,male,Santos
+German Shepherd,36936.6278,,11.0338,med,low,long,female,Jones
+German Shepherd,36101.6593,,11.4212,med,med,long,female,James
+Bearded Collie,17905.4204,51.9296,13.297,high,high,long,female,Garcia
+Boxer,33047.4469,56.1263,9.2866,high,high,short,male,Harrison
+Bearded Collie,27763.6305,51.2921,12.2681,high,high,long,female,Burns
+Akita,27808.2169,66.069,11.368,med,med,med,female,Owens
+Boxer,25526.4482,59.4447,9.1115,high,med,short,male,Ramirez
+German Shepherd,38121.8808,63.6044,11.9124,med,med,med,female,Chan
+German Shepherd,32080.2994,,11.6027,low,med,short,male,Jackson
+Boxer,31468.9403,59.1886,8.5225,high,high,short,male,Hughes
+Bearded Collie,25429.3084,,14.4327,high,high,long,male,Rosales
+Bearded Collie,21589.1315,52.842,13.5506,high,high,long,female,Vazquez
+Boxer,30278.6751,58.0971,9.0283,high,med,short,male,Saunders
+Akita,36790.736,68.9146,10.897,low,low,med,female,Frank
+Boxer,31710.6606,,10.1981,high,high,short,female,Johnson
+Akita,55109.5019,64.7049,11.4883,med,med,med,male,Brown
+Boxer,27727.8226,58.0468,8.754,high,high,short,female,Hernandez
+German Shepherd,35616.0538,,11.5347,low,med,med,female,Crawford
+Boxer,27755.3026,58.4922,9.4651,high,high,short,male,Harrison
+German Shepherd,35494.5581,61.1877,10.0708,low,med,med,male,Parrish
+Akita,37915.3969,67.6004,10.8913,high,med,med,male,Armstrong
+German Shepherd,35422.4959,,10.5282,med,med,med,female,Smith
+Boxer,30868.2008,56.4792,8.8037,high,high,short,female,Garcia
+Akita,36992.201,65.9476,11.0805,high,high,med,male,Green
+German Shepherd,35715.1233,,11.349,med,med,med,female,Cruz
+Bearded Collie,23339.9267,53.7431,12.5535,high,high,long,female,Romero
+Boxer,33515.6794,59.0381,8.529,high,med,med,female,Johnson
+Boxer,30116.1298,58.7079,10.3612,high,high,short,male,Hawkins
+Akita,29140.1659,65.8741,11.0906,high,med,med,female,Thomas
+German Shepherd,35373.5576,57.9439,11.0539,med,med,med,female,Morris
+Boxer,31433.0878,62.855,9.1249,med,med,short,male,Harris
+Boxer,31381.341,56.686,9.705,high,high,short,female,Figueroa
+Akita,57397.3666,65.4945,11.1826,med,med,med,female,Thompson
+Akita,51261.5754,66.2067,10.8497,med,med,med,male,Chambers
+Akita,37044.2698,67.9035,11.1186,med,med,med,male,Cisneros
+German Shepherd,36220.5096,57.2587,10.5185,med,med,med,male,Cox
+Bearded Collie,23573.8852,55.5346,12.9076,med,high,long,female,Humphrey
+Bearded Collie,20920.7679,,12.7663,high,high,long,female,Lambert
+German Shepherd,34473.533,60.0216,10.9908,med,med,long,female,Smith
+Boxer,29137.0229,,8.8566,high,med,short,female,Barnes
+German Shepherd,37021.8973,60.4616,10.2353,med,med,med,male,Hall
+Boxer,26531.0527,59.0258,9.9819,high,high,short,female,Lewis
+Boxer,28296.2237,56.8821,9.5021,high,high,short,female,Lynch
+Bearded Collie,25089.2286,52.8892,11.7509,high,high,long,male,Dickson
+Bearded Collie,23681.4276,52.173,14.177,med,high,long,male,Allen
+German Shepherd,35873.2477,,10.3618,high,med,med,female,Torres
+Akita,47351.2887,67.5805,11.0336,med,med,med,male,Hall
+German Shepherd,36919.8623,60.1637,12.1642,high,med,med,male,Fox
+Boxer,29454.7568,,9.2348,high,med,short,male,Barrett
+Boxer,24186.1699,58.4051,9.0084,high,high,short,female,Orozco
+Akita,40868.4456,67.6365,10.7898,med,med,med,male,Salazar
+Boxer,25248.5403,56.3427,10.4008,high,high,short,male,Smith
+Akita,52316.0749,66.6834,11.3603,med,med,med,male,Dixon
+Boxer,31613.9807,58.5249,9.1326,med,high,med,male,Wade
+Akita,47001.8825,69.5719,10.8976,high,med,short,male,Morales
+Bearded Collie,19944.3377,49.0664,12.9381,high,high,long,male,Sweeney
+Bearded Collie,22169.6281,52.3163,12.3019,high,high,long,female,Smith
+German Shepherd,37856.7965,62.4198,10.3239,med,med,med,female,Lee
+Bearded Collie,24026.361,52.8439,13.6522,high,med,long,male,Buck
+Boxer,28323.8606,58.9242,7.4118,high,high,med,female,Hall
+Akita,56609.0684,67.2919,11.0215,med,med,short,female,Doyle
+German Shepherd,36152.5029,60.737,11.1936,med,med,med,female,Schmidt
+Akita,59904.4197,,11.5797,med,med,med,male,Wagner
+German Shepherd,35198.988,60.2534,10.1834,med,med,med,male,Johnson
+Boxer,29067.7152,55.5751,8.4809,high,med,short,female,Herrera
+Akita,38236.2794,,10.2036,high,med,med,male,Zamora
+German Shepherd,35916.1959,60.3916,10.6181,med,high,short,female,Carpenter
+Boxer,33997.4625,61.5318,9.7639,med,high,short,female,Bridges
+Akita,52666.4545,68.4601,10.5823,med,med,med,female,Donald
+Bearded Collie,19272.381,53.4873,13.0757,high,high,long,male,Smith
+Akita,36131.7877,65.6949,10.6958,high,med,med,male,Young
+Akita,41407.6494,64.7979,11.3191,low,med,med,female,Watts
+Boxer,31778.3136,57.8064,8.7951,high,high,short,female,Graham
+Boxer,25904.0502,57.5988,8.7677,high,med,short,male,Huff
+Bearded Collie,21480.3828,,13.6712,high,high,med,male,Williams
+Boxer,31146.1475,57.7448,9.6558,high,high,short,female,Roach
+Akita,43219.025,,11.4789,low,med,med,female,Brown
+German Shepherd,37446.0746,63.5011,10.62,med,med,med,female,Velasquez
+German Shepherd,39021.8019,62.6391,10.493,med,high,long,male,Gill
+German Shepherd,34995.3181,62.0459,11.3807,high,med,med,female,Aguirre
+German Shepherd,36992.7471,58.8918,11.2929,med,med,med,female,Johnson
+German Shepherd,37083.3,60.37,11.3969,med,high,med,female,Long
+Akita,47461.2482,65.2888,9.9433,med,high,med,male,Mendoza
+Bearded Collie,20532.0073,54.8887,13.7127,high,high,long,female,Riddle
+Akita,44681.1398,67.9465,11.2201,low,med,med,male,Boyer
+Akita,43105.6046,64.6231,11.0129,high,med,med,female,Houston
+Bearded Collie,21691.5606,52.1462,13.2609,high,high,long,male,Rogers
+Bearded Collie,20630.9405,53.8931,14.7976,high,high,med,female,Mitchell
+Bearded Collie,19246.3088,52.8936,13.0175,high,high,long,female,Cruz
+German Shepherd,36659.7952,56.7978,11.1001,med,med,med,male,Ford
+Bearded Collie,20184.4557,52.3149,12.5842,high,high,long,female,Olsen
+Boxer,33586.1898,56.9498,7.9526,high,med,short,male,Warner
+Boxer,33164.9473,60.5796,8.2143,med,high,short,male,Anderson
+Akita,56557.2906,68.4702,10.1474,med,med,med,female,Skinner
+Bearded Collie,24214.8483,54.9501,12.3991,high,high,long,female,Campbell
+Akita,61658.793,65.558,11.0527,med,med,med,male,Fisher
+German Shepherd,39527.0403,59.5927,10.3656,med,low,med,female,Lam
+Bearded Collie,20534.9786,53.9404,12.7668,high,high,med,female,Powell
+Boxer,25899.6182,58.4983,8.3337,high,high,short,male,Nelson
+Akita,42584.6161,,11.8116,med,high,short,male,Watkins
+Akita,42941.257,,12.2299,med,med,med,male,Bryant
+Akita,50786.5578,65.4011,11.5576,low,med,med,male,Reid
+Boxer,30800.7113,59.8302,9.391,high,high,short,male,Oliver
+Akita,37943.3744,68.9455,11.3944,med,high,long,male,Singh
+Boxer,33487.1225,56.4856,8.7867,med,high,short,female,Walton

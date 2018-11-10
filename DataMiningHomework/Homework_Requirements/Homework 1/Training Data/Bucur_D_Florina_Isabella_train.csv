@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Daschhund,13188.4741,,14.1302,high,med,short,male,Young
+Akita,46440.5911,,11.9116,high,med,med,female,Tran
+Daschhund,7576.1072,,13.8692,high,med,short,female,Stewart
+Akita,50000.2858,65.4328,10.5878,med,med,med,male,Herrera
+Daschhund,11342.1727,21.4679,12.3341,high,low,short,male,Terrell
+Airedale Terrier,18688.2821,56.8104,13.061,high,high,med,female,Adams
+Rottweiler,52720.6219,65.8516,10.61,low,high,short,male,Nixon
+Rottweiler,63248.858,64.6167,9.3412,med,high,short,female,Brown
+Rottweiler,52378.0993,64.7207,9.9048,med,high,short,female,Warren
+Rottweiler,55518.4701,,11.0928,med,high,short,female,Joseph
+Daschhund,13906.0531,20.2417,12.4583,high,high,short,female,Evans
+Daschhund,9912.7089,20.7193,13.4267,high,low,short,female,Trujillo
+Rottweiler,39541.6319,62.4636,9.0301,med,med,short,female,Moyer
+Rottweiler,47055.4675,62.8775,9.7749,med,high,short,male,Davies
+Akita,33963.1624,64.7129,11.3288,low,high,med,male,Salazar
+Akita,41265.0148,65.4039,9.937,high,low,long,male,Byrd
+Rottweiler,51531.3058,64.8929,10.7439,high,high,short,female,Cordova
+Rottweiler,54053.7863,63.5522,9.8441,med,high,short,male,Simon
+Daschhund,7206.2243,,13.1681,high,med,med,male,Peck
+Airedale Terrier,16737.4551,,11.9535,high,high,med,female,Phillips
+Airedale Terrier,20346.4367,57.4014,11.4851,high,high,med,male,Landry
+Rottweiler,40879.1979,63.5924,9.7586,med,high,short,female,Payne
+Akita,38773.7715,66.2229,12.1819,med,med,short,female,Walker
+Rottweiler,42213.2664,63.4435,10.1156,low,high,short,female,Burnett
+Airedale Terrier,19750.6735,56.3525,12.4664,high,high,med,male,Wilson
+Rottweiler,43771.6594,62.5884,9.7243,med,high,short,male,Estes
+Airedale Terrier,19405.4307,,11.3916,high,high,med,female,Frazier
+Daschhund,14163.4441,20.8203,13.4763,high,med,short,male,Santos
+Akita,50748.1134,66.3026,10.5461,med,med,med,male,Smith
+Airedale Terrier,18932.0112,56.5927,11.9715,high,high,short,male,Reid
+Rottweiler,56201.6668,,9.5388,med,high,short,male,Wheeler
+Akita,34504.4172,65.9896,10.4129,low,med,med,female,Salazar
+Airedale Terrier,20068.9233,57.1105,12.276,med,high,med,female,Wright
+Akita,36070.5629,66.7587,11.5171,med,med,med,male,Hahn
+Airedale Terrier,22293.6659,56.6029,12.8614,high,high,med,male,Fields
+Akita,41049.346,66.3757,11.6218,med,high,med,female,Obrien
+Akita,50718.6141,,10.2579,med,med,med,female,Robinson
+Rottweiler,42069.46,64.9537,10.0572,med,high,med,female,Flores
+Airedale Terrier,22110.305,,12.1454,high,high,med,female,Moore
+Airedale Terrier,21565.1106,55.4893,10.8694,high,med,med,female,Ray
+Daschhund,13695.337,,12.9969,high,med,med,female,Davidson
+Akita,37938.6271,65.6857,9.4161,med,high,long,male,Wright
+Rottweiler,59868.0253,63.9212,9.7272,high,high,short,female,Choi
+Rottweiler,36958.2825,62.1733,10.8437,med,high,short,female,Newman
+Akita,48654.3372,68.591,10.6888,med,med,med,female,Evans
+Airedale Terrier,21407.6613,55.6538,12.6487,high,high,med,male,Hill
+Airedale Terrier,23385.3409,,12.4901,high,high,med,female,Wagner
+Akita,40663.4915,,11.6156,med,med,med,male,Warner
+Akita,34616.4957,65.4536,10.8998,med,med,med,female,Lucas
+Airedale Terrier,22527.8402,56.2679,12.1235,high,high,med,female,Carroll
+Akita,39326.263,,11.53,high,med,med,male,Gonzalez
+Rottweiler,57641.0481,63.1694,10.5723,med,high,short,male,Brown
+Akita,36698.8179,64.6938,10.4161,med,med,long,female,Anderson
+Daschhund,5844.4341,20.5764,13.461,med,med,short,female,Jones
+Rottweiler,56178.3093,63.6278,9.7113,med,high,short,male,Carter
+Rottweiler,53132.5625,64.6221,8.7763,med,high,short,female,Jones
+Daschhund,8726.3334,20.4202,13.9102,high,med,short,female,Fischer
+Daschhund,6741.0828,21.6332,12.3371,high,med,short,female,Prince
+Rottweiler,47673.4804,63.3006,9.1008,med,high,short,female,Burnett
+Rottweiler,51402.0775,63.9032,10.6839,low,high,short,male,Davis
+Airedale Terrier,19912.7002,,12.3738,high,high,short,male,Shepard
+Airedale Terrier,18531.7344,,12.2691,med,high,med,male,Huang
+Akita,51517.7264,67.3364,11.2548,high,med,med,female,Rodriguez
+Rottweiler,47610.5337,63.6643,11.1705,med,high,short,female,Anderson
+Akita,52537.1851,68.583,10.0969,med,med,med,male,Allen
+Akita,45753.3483,66.0669,11.687,med,med,med,male,Wells
+Daschhund,11383.4152,20.3933,12.2868,high,med,short,male,Cooper
+Rottweiler,42558.1735,64.0362,9.7725,low,med,short,female,Scott
+Akita,57329.0772,63.8819,11.5136,high,low,med,female,Steven
+Airedale Terrier,20735.5806,,10.5479,med,high,med,female,Fletcher
+Akita,40436.7772,64.9204,10.0478,med,med,short,male,Moss
+Daschhund,8502.0879,20.5847,13.5575,high,low,short,male,Johnson
+Airedale Terrier,20012.1412,56.8863,10.388,high,high,med,male,Olson
+Airedale Terrier,18369.015,56.5725,10.1899,high,high,med,male,Andersen
+Rottweiler,56485.2355,61.2471,8.1047,high,high,short,female,Ross
+Airedale Terrier,19006.8572,,10.9463,high,high,med,male,Boone
+Airedale Terrier,21814.482,56.7476,10.4243,high,high,med,female,Robles
+Airedale Terrier,16815.503,,14.8556,high,high,short,female,Smith
+Akita,57885.0854,65.6819,10.4625,med,med,med,male,Ibarra
+Rottweiler,57588.3208,63.7035,9.9482,med,high,short,male,Evans
+Akita,43398.0871,66.4308,11.7239,med,high,med,female,Vega
+Daschhund,5841.9816,,12.2669,high,med,short,male,Johnston
+Rottweiler,46943.9859,61.8026,8.9554,med,high,short,male,Moyer
+Airedale Terrier,20042.224,58.1847,11.3426,high,high,med,male,Morris
+Akita,48847.8005,,11.6506,med,high,short,male,Reese
+Daschhund,6538.4093,20.6465,13.7055,high,med,short,female,Sanders
+Rottweiler,50194.221,64.8709,9.0124,high,high,med,female,Jonathan
+Rottweiler,46069.2409,65.4851,8.7141,med,high,short,male,Green
+Daschhund,8916.6108,21.0955,13.1666,high,med,short,male,Mcmillan
+Airedale Terrier,20099.8865,57.3351,11.537,high,high,med,male,Short
+Akita,48257.6308,,11.5717,med,low,med,female,Brown
+Daschhund,14770.3309,19.7137,12.4035,high,med,short,male,Robert
+Airedale Terrier,18364.0362,56.426,13.2112,med,high,med,female,Lowe
+Akita,47147.5761,68.7288,11.087,med,med,med,male,Kelly
+Rottweiler,37943.0639,63.0913,7.8345,med,high,short,female,Cohen
+Rottweiler,38453.6765,62.1985,9.3298,med,high,short,female,Lopez
+Daschhund,11703.5556,21.3786,12.7887,high,med,short,female,Dean
+Daschhund,6728.0365,21.678,12.7902,med,med,short,male,Zhang
+Akita,38516.5223,66.0759,10.3953,med,low,long,male,Phillips
+Akita,59136.8218,66.0698,10.7069,med,med,med,male,Wall
+Akita,53075.2852,66.0464,10.9205,med,med,med,female,Chen
+Akita,41635.7209,65.7458,9.9981,high,med,med,male,Beck
+Akita,49581.1099,,11.3326,high,med,short,male,Chang
+Akita,64432.7742,66.3521,9.8971,high,med,med,male,Harris
+Rottweiler,59896.3724,,8.401,med,high,short,male,Avila
+Rottweiler,44752.0722,63.7373,9.1323,med,high,med,male,Robinson
+Rottweiler,50351.7342,65.0723,9.8976,med,high,short,female,Black
+Akita,41356.2606,67.1572,10.8892,med,high,med,female,Smith
+Rottweiler,50424.0088,65.0746,10.7196,low,high,short,female,Ritter
+Daschhund,9573.7566,21.9233,14.4067,high,med,short,female,White
+Airedale Terrier,20454.6364,58.8344,11.9245,high,high,med,female,Sanchez
+Akita,37190.8334,67.48,10.8429,med,med,med,female,Williams
+Daschhund,12517.708,20.9734,13.5973,high,med,short,male,Morgan
+Daschhund,13386.7619,21.0939,12.5049,high,high,short,male,Young
+Airedale Terrier,19922.7007,57.976,12.1307,high,high,med,male,Robinson
+Daschhund,11690.8215,20.7376,12.5898,high,med,med,male,Wood
+Akita,42157.7165,67.311,11.4205,med,med,med,female,White
+Rottweiler,51894.947,59.1047,9.3494,med,high,short,female,Curtis
+Rottweiler,57426.3322,64.4657,9.4379,med,high,short,male,Rogers
+Daschhund,12670.0318,21.4839,12.8566,high,med,short,female,Parrish
+Akita,45114.2158,65.7079,10.8856,low,med,med,male,Sutton
+Airedale Terrier,21542.7554,56.3859,11.8787,med,high,med,female,Jeremy
+Daschhund,12200.0008,,12.6509,med,med,short,male,Brown
+Rottweiler,39915.0186,62.4152,10.2231,low,high,short,male,Lee
+Daschhund,13667.5718,21.968,13.0133,high,high,short,female,Medina
+Airedale Terrier,20475.2466,57.683,12.4225,high,high,long,female,Morgan
+Daschhund,12111.1354,21.4966,14.0393,med,med,short,female,Payne
+Daschhund,10100.1967,20.9036,13.2023,high,high,short,female,Cooke
+Rottweiler,49418.6358,63.2781,8.9927,med,high,short,male,Cain
+Rottweiler,51619.5174,,8.6056,med,high,short,male,Benjamin
+Rottweiler,51368.335,,10.8437,high,high,med,male,Cameron
+Daschhund,16360.5792,20.6467,12.6868,high,med,short,female,Valdez
+Akita,50617.0467,68.0466,10.3694,med,med,med,male,Shaw
+Airedale Terrier,19287.4162,57.1284,11.4664,high,high,long,female,Stanton
+Akita,63096.5268,69.0764,11.5419,med,high,med,male,Jones
+Daschhund,6504.5537,21.555,14.029,high,med,short,female,Gates
+Airedale Terrier,22857.7868,56.8222,11.7741,high,high,long,female,Cisneros
+Rottweiler,58289.027,,10.3398,low,high,short,male,Frederick
+Airedale Terrier,19663.2828,56.2149,11.9783,high,high,short,female,Rowe
+Airedale Terrier,22855.2062,57.7698,12.5733,high,high,med,male,Cobb
+Airedale Terrier,21763.3567,57.4153,10.8664,high,med,med,male,Baker
+Rottweiler,42913.2362,65.0523,9.8107,med,high,short,female,Hampton
+Akita,39004.9181,66.4993,11.6496,low,med,med,female,Clark
+Akita,45938.9062,,11.6412,med,med,short,female,Price
+Airedale Terrier,18005.4513,57.2249,13.3493,high,med,med,male,Vasquez
+Rottweiler,42690.1108,66.9772,8.8944,med,high,short,male,Baker
+Akita,61041.2734,66.496,9.6291,med,med,med,female,Turner
+Akita,46598.2483,,11.153,med,med,med,male,Lopez
+Akita,35668.6458,65.4733,11.0272,med,low,long,female,Nelson
+Akita,46045.0798,66.5585,11.4287,med,med,med,female,Brooks
+Airedale Terrier,21068.1003,55.604,12.4164,high,high,med,male,Williams
+Rottweiler,54224.2722,64.9848,8.9583,low,high,short,female,Wu
+Akita,56605.6229,,12.0297,high,med,med,male,Dawson
+Daschhund,11067.3299,,12.7779,med,med,short,male,Moses
+Rottweiler,48496.7077,63.7682,9.3692,med,high,short,male,Walker
+Akita,53667.0906,67.0035,10.4349,med,med,med,male,Wells
+Akita,60688.0346,65.5768,10.9167,med,med,short,male,Cruz
+Akita,51361.6159,66.4295,11.4444,med,med,med,male,Larsen
+Daschhund,8638.9755,21.1534,13.5368,high,med,short,male,Carter
+Akita,54541.5056,,11.3185,med,low,long,male,Barker
+Daschhund,9754.8676,20.3722,13.4929,high,med,short,female,Johnson
+Daschhund,14214.3367,19.9307,13.9254,high,med,short,female,Thompson
+Daschhund,3378.3949,20.2884,12.9429,high,med,short,female,Potts
+Airedale Terrier,18032.9366,57.3715,12.0891,high,high,med,female,Davis
+Rottweiler,49351.6268,,9.7342,med,high,short,female,Donovan
+Daschhund,9677.9125,20.4241,12.9075,high,med,short,female,Waters
+Airedale Terrier,19069.6724,56.5116,12.1087,high,high,med,female,Johnson
+Rottweiler,36519.2499,61.2022,11.0759,med,high,short,female,Mcdonald
+Daschhund,17451.5649,21.4314,12.0896,high,med,short,female,Doyle
+Akita,56374.2758,64.9612,11.0716,med,med,med,female,Roy
+Airedale Terrier,18877.385,56.7312,10.1516,high,high,med,male,Bryan
+Akita,46964.0285,66.1533,10.5478,med,med,short,male,Hughes
+Rottweiler,48360.0223,60.9772,7.8065,med,high,short,female,Barrett
+Airedale Terrier,21046.696,58.0592,11.4984,high,med,long,female,Douglas
+Daschhund,5492.834,22.2112,12.8297,high,med,short,female,Black
+Rottweiler,35322.7237,62.293,10.045,high,high,short,female,Shaw
+Rottweiler,49755.9347,,8.8157,low,high,short,male,Jenkins
+Airedale Terrier,21665.1205,56.7997,11.182,high,high,long,female,Baker
+Airedale Terrier,20279.9869,56.2906,11.378,high,high,med,female,Cooper
+Airedale Terrier,19318.8143,56.5819,11.4727,high,high,med,male,Lopez
+Akita,32799.8528,66.3858,11.2429,med,med,long,female,Jones
+Akita,36614.0097,,11.2341,med,med,med,male,Knight
+Akita,53608.3845,68.3195,11.3257,high,med,med,female,Lee
+Akita,38230.6951,67.8515,10.4693,med,med,med,female,Humphrey
+Daschhund,7008.9426,,13.1654,high,med,short,male,Thompson
+Rottweiler,43692.8141,62.1999,8.689,med,high,short,male,Harris
+Daschhund,11218.3141,,12.7395,high,med,short,female,Francis
+Akita,39556.8536,66.0902,9.8952,med,med,med,female,Taylor
+Akita,35904.6683,67.6958,10.918,med,med,med,male,Ramirez
+Airedale Terrier,22680.5802,57.4759,10.0557,high,high,med,male,Pennington
+Airedale Terrier,19393.0174,56.0925,10.5043,high,high,med,male,Davis
+Airedale Terrier,19778.1244,,11.5475,high,high,med,male,Garcia
+Akita,44317.7424,65.749,11.2297,med,med,med,male,Montgomery
+Akita,53862.1326,67.3368,9.8472,med,low,med,female,Gonzales
+Daschhund,9004.8562,20.6959,12.1931,high,med,short,female,Green
+Akita,39681.2345,65.7667,11.4784,med,med,long,male,Davis
+Daschhund,11614.6975,21.2311,12.5972,high,med,short,female,Woodard
+Rottweiler,46799.4393,,9.6425,med,high,short,male,Cohen
+Daschhund,8154.8746,20.4363,13.9405,high,med,short,male,Lee
+Rottweiler,57096.5788,61.0417,10.0023,high,high,short,female,Golden
+Airedale Terrier,21331.353,56.6682,11.0533,high,high,long,female,Kennedy
+Rottweiler,53030.3395,,9.8552,med,high,short,male,Brown
+Rottweiler,50970.2018,67.066,10.4644,low,high,short,female,Vasquez
+Rottweiler,43469.6169,64.0832,8.5645,med,high,short,male,Ortiz
+Rottweiler,37668.7262,64.6537,10.366,med,high,short,male,Gomez
+Daschhund,12065.4616,19.9921,13.3728,high,med,short,female,Gay
+Daschhund,7015.995,22.3117,12.6797,high,med,short,male,Watkins
+Rottweiler,50879.1813,61.3336,8.7839,high,med,short,female,Knight
+Akita,43060.4107,68.4272,10.71,med,med,med,female,Martin
+Daschhund,8138.3507,21.9666,13.5116,high,med,short,female,Nunez
+Daschhund,9865.7835,21.2264,13.7853,high,high,short,female,Clark
+Airedale Terrier,22706.4894,,11.5663,high,high,med,female,Anderson
+Daschhund,8872.0763,20.1973,13.3555,high,med,short,female,Cervantes
+Daschhund,11439.8182,,13.6854,high,med,short,female,Hernandez
+Rottweiler,53652.4469,64.0399,8.6939,med,high,short,female,Conley
+Daschhund,10560.9424,21.5327,13.5503,high,med,short,female,Williams
+Rottweiler,52278.9369,,9.384,med,high,med,female,King
+Rottweiler,47647.0223,64.7095,8.5141,med,high,med,female,Klein
+Daschhund,14004.3479,21.0018,13.6485,high,med,short,female,Amanda
+Akita,44473.0391,65.8429,11.6948,med,high,med,female,Butler
+Rottweiler,47029.6591,,11.9003,med,high,short,male,Rodriguez
+Daschhund,13125.0831,21.2429,13.6388,high,med,short,male,Stevens
+Daschhund,12876.1726,21.4932,13.0801,high,med,short,female,Chang
+Airedale Terrier,22886.0134,57.1692,10.425,high,high,short,male,White
+Rottweiler,51415.4695,66.3159,10.6845,low,high,short,male,Gamble
+Daschhund,12755.0911,21.2348,13.676,high,high,short,male,Franklin
+Rottweiler,54835.6485,62.0772,8.6205,low,med,short,male,Wilson
+Rottweiler,45489.5437,,8.2851,med,high,short,male,Scott
+Rottweiler,51370.921,63.162,9.0243,med,high,short,female,Werner
+Daschhund,11000.85,21.2568,12.4416,high,med,short,female,Bryant
+Akita,18570.3587,,11.448,high,med,med,male,Clark
+Airedale Terrier,21764.8698,56.6449,11.7953,high,high,med,female,Jenkins
+Akita,60429.0576,66.2075,11.3152,med,med,med,female,Davis
+Akita,37767.1654,67.1502,11.0389,med,med,med,female,Rangel
+Airedale Terrier,19115.5095,57.9134,9.9596,high,high,med,female,Wilson
+Rottweiler,67526.9234,62.5123,9.016,med,high,short,female,Peterson
+Daschhund,6565.0658,21.454,12.9909,high,med,short,male,Hunt
+Rottweiler,64289.844,63.8309,9.1851,med,high,short,female,Gutierrez
+Airedale Terrier,19878.4724,57.6432,10.8812,high,high,med,female,Bradley
+Akita,71720.9485,65.1292,10.9039,med,med,med,male,Russell
+Akita,45975.7128,66.0912,9.7514,high,high,short,male,Tucker
+Daschhund,10672.2661,21.3814,12.7215,high,med,short,male,Rodriguez
+Daschhund,8265.3964,20.4041,14.1918,high,med,short,male,Moore
+Akita,48263.5039,66.8153,10.1318,med,med,long,male,Lopez
+Airedale Terrier,20584.0704,,10.6879,high,high,med,male,Moore
+Rottweiler,67049.3697,63.2967,9.9288,med,high,short,female,Kane
+Daschhund,15337.4914,,13.1653,high,med,short,female,Ortiz
+Rottweiler,44709.1322,65.4028,9.589,high,high,short,female,Farmer
+Daschhund,12513.125,22.3443,12.1161,high,med,short,female,Miller
+Akita,41388.2058,,12.2701,med,med,short,male,Price
+Daschhund,11501.3731,20.521,13.2572,high,med,short,male,Duncan
+Akita,56747.741,68.3117,10.9425,med,med,med,female,Hurst
+Akita,40525.7078,,11.1991,med,med,med,female,Nichols
+Rottweiler,62601.0641,62.9209,9.7783,high,high,short,female,Terry
+Akita,37410.7611,66.9279,11.7754,med,med,med,male,Walker
+Akita,47919.0179,64.9684,11.5411,med,med,med,male,Malone
+Rottweiler,48628.5169,64.8529,10.6397,med,high,short,female,Stone
+Airedale Terrier,19281.5742,55.9681,11.7527,high,high,short,female,Hickman
+Rottweiler,50127.004,,9.583,med,high,short,female,Christensen
+Akita,54781.8017,,11.2577,med,med,med,female,Melton
+Akita,27564.0512,68.1,10.7305,med,low,med,female,Dennis
+Airedale Terrier,18994.1549,57.7824,12.9901,high,high,med,female,Cole
+Airedale Terrier,21154.8802,57.4095,12.1339,high,high,med,female,Shaw
+Daschhund,11326.0399,21.2645,12.5396,high,low,short,male,Holder
+Akita,33730.7932,64.3652,11.0596,med,med,short,female,Campbell
+Airedale Terrier,18170.0889,,12.2882,high,high,med,male,Burnett
+Akita,55711.9145,69.5719,9.9233,med,med,med,male,Bennett
+Akita,51650.4162,69.3018,11.1357,med,low,short,female,Mayo
+Rottweiler,45923.3503,62.0931,10.7057,med,high,med,male,Cook
+Rottweiler,43703.1417,62.2704,8.9773,med,high,short,female,Young
+Airedale Terrier,21744.5944,57.4947,11.6955,high,high,med,male,Mcgee
+Airedale Terrier,19455.9346,,13.1156,med,high,med,male,Mccoy
+Rottweiler,39962.705,63.7633,10.6277,med,high,short,male,Mcmillan
+Rottweiler,43328.5047,63.1067,9.39,med,high,short,female,Alvarado
+Rottweiler,46418.2749,65.2117,12.0263,med,high,short,female,Smith
+Akita,55098.8749,67.5962,10.7046,med,med,med,female,Stewart
+Akita,43378.491,65.6184,11.1291,med,high,med,male,Ortiz
+Akita,39430.2242,,11.292,med,med,med,female,Edwards
+Rottweiler,44732.7909,63.7865,7.6218,med,high,short,male,Rivas
+Airedale Terrier,21719.9811,,13.5408,high,med,med,female,Rodriguez
+Daschhund,9386.696,21.3941,13.4539,high,high,short,female,Oliver
+Akita,42575.8342,67.5263,11.413,med,med,med,male,Maynard
+Rottweiler,52087.7598,64.4524,6.9868,med,high,med,female,Ramos
+Daschhund,8189.7935,21.5879,12.6126,high,med,short,female,Cole
+Rottweiler,44598.0982,62.1825,8.8625,high,high,short,female,Perez
+Daschhund,10335.9474,22.3223,12.2186,high,med,short,male,Kelley
+Daschhund,8640.4362,,12.9215,high,med,short,male,Carr
+Airedale Terrier,20560.7111,,11.9026,high,high,med,male,Lewis
+Airedale Terrier,20550.0459,,11.5952,high,high,med,female,Hansen
+Daschhund,11216.0262,21.3892,13.404,high,low,short,male,Martinez
+Airedale Terrier,20689.7192,57.5667,10.1183,high,high,short,female,Lynch
+Akita,33092.6642,69.111,10.9219,med,med,med,male,Clark
+Daschhund,12336.8538,21.7368,13.6053,med,med,short,male,Ramirez
+Akita,47696.2301,67.7444,10.2165,high,med,med,female,Odonnell
+Airedale Terrier,21247.883,56.9143,13.051,high,high,med,female,Morris
+Rottweiler,50971.2592,61.5219,9.7938,med,high,short,female,Bailey
+Airedale Terrier,21832.242,57.0604,11.5301,high,high,med,female,Young
+Rottweiler,40427.4528,61.5082,8.7542,med,high,short,female,Evans
+Rottweiler,52957.613,63.9226,10.2089,med,high,med,female,Howard
+Akita,35944.298,67.996,10.7364,high,med,med,female,Green
+Daschhund,12774.0452,21.7881,12.9153,high,med,short,male,Richardson
+Airedale Terrier,21493.6236,56.3867,10.4765,high,med,med,female,Wilson
+Rottweiler,49473.4082,61.6991,10.1786,high,high,short,male,West
+Akita,52319.2235,,11.0673,med,med,med,male,Robinson
+Akita,39294.4042,65.5686,10.2613,med,med,med,male,Hess
+Airedale Terrier,20597.2434,,11.4459,high,high,short,male,Collins
+Rottweiler,43942.1271,62.8368,9.3461,med,high,short,female,Campbell
+Daschhund,12297.8138,21.1211,13.0376,high,med,short,male,Jennings
+Akita,48692.0023,67.9968,9.7564,med,high,med,female,Bennett
+Daschhund,10982.339,21.0602,12.4927,med,med,short,male,Pollard
+Airedale Terrier,20147.3988,,10.2557,high,high,med,female,Stark
+Airedale Terrier,22862.0889,56.5934,12.0742,high,high,med,male,Williams
+Daschhund,7652.9054,21.1091,13.014,high,med,short,male,Camacho
+Daschhund,10994.2828,22.1003,12.9888,high,low,short,male,Davis
+Akita,38165.3191,70.3388,10.3138,med,high,med,male,Ward
+Akita,41447.7974,,11.0541,high,med,med,male,Williams
+Akita,34356.907,65.9607,12.0326,low,med,med,male,Williams
+Akita,48177.1951,66.8945,11.2612,low,med,long,male,Woods
+Akita,45993.3615,65.8993,12.0977,med,med,med,male,Bradshaw
+Rottweiler,51054.2705,63.0174,7.1765,med,high,short,male,Acosta
+Akita,55071.1718,,11.0323,med,med,med,male,Young
+Airedale Terrier,22684.9045,57.5541,9.2024,high,med,long,female,Golden
+Daschhund,7832.196,20.8528,12.699,high,med,short,male,Stevens
+Rottweiler,42170.7133,62.7189,9.9354,med,high,short,female,Johnson
+Airedale Terrier,19537.24,57.2418,11.2678,high,med,med,male,Webb
+Rottweiler,36436.5179,63.6551,8.302,med,high,short,female,Gardner
+Rottweiler,57788.7847,67.7449,8.8961,med,high,short,male,Richardson
+Akita,43732.2398,65.4547,11.0522,med,med,med,female,Kim
+Airedale Terrier,20590.8309,57.5102,10.7107,high,high,med,female,Drake
+Daschhund,8598.3789,21.2287,12.6311,high,med,short,female,Huffman
+Akita,54661.9864,,11.448,med,med,med,female,Diaz
+Airedale Terrier,23802.1716,56.4471,12.4568,high,high,med,female,Marquez
+Airedale Terrier,20749.6647,56.7774,11.2977,med,high,med,female,Chung
+Airedale Terrier,21901.3871,56.8779,12.6389,high,high,med,male,Stevens
+Airedale Terrier,21592.8371,,10.1034,high,high,short,female,Turner
+Daschhund,5616.9852,21.529,13.4856,high,med,short,male,Schultz
+Airedale Terrier,22692.8954,56.2955,11.4714,high,high,med,male,Jackson
+Daschhund,11953.4253,19.744,12.1093,high,high,short,female,Brown
+Daschhund,11863.5874,19.9101,12.4643,high,med,short,female,Skinner
+Airedale Terrier,20459.7201,56.467,10.9942,med,high,med,male,Peters
+Daschhund,8783.3446,22.0164,12.7021,high,med,short,female,Camacho
+Daschhund,11055.0401,,12.392,high,med,short,male,Hurst
+Akita,29268.6947,65.7634,11.4682,med,low,long,male,Hill
+Daschhund,7768.8148,21.4344,13.0011,high,med,short,male,Camacho
+Akita,43090.4333,,10.9735,high,med,med,male,Ortiz
+Rottweiler,59088.4883,62.4878,10.6798,med,high,short,female,Hernandez
+Daschhund,4885.4694,20.8118,11.759,high,med,short,male,Hess
+Airedale Terrier,18870.5667,56.2387,12.2283,med,med,med,female,Kelly
+Daschhund,11003.5066,,13.1632,med,high,short,female,Lozano
+Akita,51559.6011,,12.2374,med,med,med,female,Peters
+Daschhund,4707.8411,20.9493,12.9429,high,med,short,female,Wilson
+Rottweiler,41558.2873,63.9365,11.5999,med,high,short,male,Adams
+Rottweiler,50675.859,63.0937,8.7097,med,high,short,female,Roberson
+Rottweiler,44901.7704,63.035,11.4843,med,high,short,male,Bennett
+Akita,49633.8354,65.491,10.9864,high,med,long,female,Thornton
+Airedale Terrier,19480.1538,56.788,13.0177,high,high,med,male,Long
+Akita,26379.2942,66.8077,11.841,med,med,long,female,Ross
+Rottweiler,55359.1792,,9.9125,med,high,short,male,Wallace
+Daschhund,14689.1742,20.5954,12.9456,high,low,short,female,Miller
+Rottweiler,61580.2339,64.1706,7.4119,med,high,short,female,Castro
+Rottweiler,56501.9113,,10.2652,med,high,short,male,Hernandez
+Rottweiler,42941.0043,63.2016,8.7237,med,high,short,female,Brown
+Airedale Terrier,20424.321,,10.8387,med,med,med,female,Simpson
+Airedale Terrier,21641.1361,56.9619,10.9662,med,high,med,female,Underwood
+Daschhund,13114.3403,21.7986,12.8165,high,med,short,male,Baker
+Daschhund,9342.1093,21.6769,14.1919,high,low,med,male,Foley
+Airedale Terrier,23605.6644,,11.6943,med,high,med,male,Sean
+Daschhund,14124.0035,21.0301,13.7559,high,med,short,male,Miller
+Airedale Terrier,22828.594,,11.8395,high,high,med,male,Carey
+Rottweiler,45114.4712,63.9167,8.7571,med,high,short,male,Davis
+Daschhund,6244.382,21.093,13.1384,high,high,short,male,Collins
+Airedale Terrier,18647.9547,57.8315,11.8143,high,high,long,female,Mccarthy
+Daschhund,10118.5722,20.0614,12.4543,high,med,short,male,Carter
+Daschhund,5403.7541,20.7518,12.7363,high,high,short,female,Pham
+Airedale Terrier,19155.8161,55.9638,11.0396,high,high,med,male,Anderson
+Rottweiler,44119.2239,,11.3009,low,high,short,female,Powell
+Daschhund,8102.3936,20.8381,13.1632,high,med,short,male,Merritt
+Rottweiler,47967.5596,60.9765,8.985,high,high,short,male,Wise
+Daschhund,6664.4422,21.7039,14.0411,med,med,med,male,Bird
+Rottweiler,33997.6523,64.4642,8.5112,low,high,short,female,Simon
+Daschhund,11787.2634,19.9248,13.1392,high,high,short,female,Thomas
+Daschhund,12577.0188,20.9531,12.2751,high,med,short,male,Richardson
+Akita,41198.583,64.7975,10.4974,med,med,long,female,Taylor
+Rottweiler,58048.7525,63.9717,10.0508,med,high,med,male,Jones
+Akita,26698.9345,63.3555,10.9604,med,low,long,female,Lane
+Airedale Terrier,20254.5317,57.6416,11.9577,high,high,long,male,Dixon
+Akita,50140.6184,67.0799,11.4636,med,med,long,female,Sharp
+Akita,37316.2749,,11.5544,med,med,short,female,Harding
+Daschhund,8805.6822,21.7326,13.1887,high,med,short,female,Ward
+Akita,43984.7921,69.261,11.6915,med,high,med,male,Blackburn
+Airedale Terrier,19834.5784,56.0786,10.8626,med,high,long,female,Miller
+Akita,52430.7936,,11.2429,med,high,med,female,Johnson
+Rottweiler,51239.7154,63.9162,10.2322,low,high,short,male,Jones
+Rottweiler,54925.9652,62.2453,8.6115,high,high,short,female,Beltran
+Rottweiler,48408.7279,60.4874,10.7248,low,med,short,male,Morris
+Daschhund,10582.6309,20.6553,12.5254,high,med,short,female,Mcdonald
+Akita,46534.0931,69.4491,11.3748,med,med,med,male,Atkinson
+Rottweiler,49319.6186,62.2784,10.9756,med,high,short,female,Miller
+Rottweiler,40373.127,62.5547,9.8784,high,high,short,male,Knapp
+Rottweiler,38411.8398,,8.5422,med,med,short,female,Robertson
+Rottweiler,43926.3405,60.3623,10.445,med,high,short,male,Espinoza
+Airedale Terrier,19471.245,,11.576,high,high,med,male,Mays
+Rottweiler,47016.2583,60.3545,9.9358,high,high,short,male,Smith
+Rottweiler,53859.9465,61.8171,11.4508,med,high,short,male,White
+Akita,47832.2698,63.58,9.4816,med,med,med,female,King
+Akita,37593.7446,,11.1089,med,med,med,male,Wright
+Daschhund,2328.5617,20.3758,13.1755,med,med,short,male,Walker
+Daschhund,11591.3516,,12.2983,high,low,short,male,Cline
+Akita,51964.0087,69.6475,10.5734,med,high,med,male,Gross
+Rottweiler,40886.9381,64.0764,9.5177,med,high,short,female,Arnold
+Rottweiler,52868.4966,62.7733,9.9248,med,high,short,female,Sandoval
+Airedale Terrier,17489.235,57.0293,12.6877,med,high,med,female,Randy
+Airedale Terrier,21999.9628,56.6495,11.3477,high,high,med,female,Parker
+Rottweiler,59062.5655,64.0143,10.065,med,high,short,male,Dyer
+Airedale Terrier,19297.8622,56.3125,11.7463,high,high,med,male,Travis
+Airedale Terrier,22675.4251,55.7828,11.2664,med,high,med,male,Erickson
+Rottweiler,42929.3011,64.9175,10.0811,med,high,short,male,Kelly
+Airedale Terrier,19947.7972,57.7115,11.2836,high,med,med,male,Green
+Rottweiler,37266.2864,65.5662,10.0822,med,high,short,male,Steele
+Rottweiler,45066.4833,63.9896,9.2824,med,high,short,male,Patel
+Airedale Terrier,19162.9223,56.5018,11.6106,high,high,med,female,Saunders
+Rottweiler,49071.6495,62.5751,8.3671,low,high,short,male,Rodriguez
+Daschhund,9504.4622,22.0099,13.349,high,med,short,male,Lynn
+Daschhund,8389.9216,21.0047,13.1551,high,low,short,male,Fleming
+Daschhund,14167.8777,21.2509,12.7922,high,med,short,male,Schultz
+Rottweiler,46298.6764,62.7675,9.3651,med,med,short,female,Murray
+Akita,52852.6842,,12.161,low,med,long,female,Key
+Airedale Terrier,18919.7928,,12.4386,high,high,med,female,Sellers
+Airedale Terrier,22545.5442,,11.0601,high,med,med,female,King
+Rottweiler,69467.0217,,8.6703,med,med,short,female,Anderson
+Akita,31160.0118,69.4418,11.1959,med,med,med,male,Robertson
+Daschhund,4121.5867,22.1823,13.5365,high,med,med,female,Torres
+Akita,50103.053,64.8237,10.0336,low,med,med,female,Kelley
+Daschhund,11241.702,21.452,13.0922,high,high,short,female,Nicole
+Daschhund,15057.5597,19.8568,13.8353,high,med,med,male,Taylor
+Daschhund,13954.7307,19.9865,12.508,high,med,short,female,Smith
+Daschhund,6545.2411,22.0373,12.6091,high,med,short,female,Gonzalez
+Daschhund,12869.5766,20.4937,12.681,high,med,short,female,Yu
+Rottweiler,59547.6308,63.0848,9.4359,med,high,short,male,Ramirez
+Daschhund,8655.3667,20.5161,12.8613,high,med,short,male,Wilson
+Akita,29136.1892,68.2731,11.8682,high,med,med,male,Moses
+Rottweiler,49166.4112,61.5972,8.3136,med,high,short,male,Dawson
+Airedale Terrier,20911.9733,57.5149,10.3165,high,high,med,female,Perez
+Airedale Terrier,24427.5628,,12.2518,med,high,med,male,Smith
+Daschhund,6295.0427,,13.9473,high,med,short,male,Costa
+Akita,48317.7847,64.3385,11.801,med,high,med,male,Michael
+Airedale Terrier,21849.8786,55.6753,11.8918,high,high,med,male,Huber
+Daschhund,9280.4282,20.9085,12.6324,high,med,short,male,Delgado
+Akita,48314.423,67.761,10.5658,med,high,med,male,Hester
+Rottweiler,53070.726,65.177,9.3936,med,high,short,female,Simpson
+Airedale Terrier,18505.618,57.3358,12.6152,high,high,med,male,Moses
+Akita,35957.3825,,10.8291,med,med,med,male,Stevens
+Airedale Terrier,19252.5573,57.2317,10.2737,high,high,med,female,Wagner
+Airedale Terrier,18850.5028,56.4575,10.2518,high,med,long,female,Diaz
+Airedale Terrier,19571.0988,57.0048,11.4952,high,high,med,female,Gonzales
+Akita,49828.9,67.256,10.1461,med,med,med,male,Herman
+Airedale Terrier,19760.6826,57.1474,10.3609,high,high,med,female,Orr
+Daschhund,9042.9284,21.3824,12.7462,high,high,short,male,Mathis
+Daschhund,12085.7416,21.6337,13.3046,high,high,short,female,Tucker
+Rottweiler,49329.5893,62.5846,9.4891,med,high,short,female,Martinez
+Rottweiler,51704.284,66.0208,9.671,med,med,short,male,Jones
+Akita,37003.1035,66.5717,10.7685,med,med,med,female,Wolfe
+Daschhund,11433.278,20.1836,13.5619,med,med,short,female,Moore
+Akita,52199.1336,,11.323,med,med,med,female,Jones
+Daschhund,4673.4366,21.5943,13.129,high,med,short,male,Chavez
+Daschhund,13745.0483,21.5239,12.4798,med,med,short,male,Ortiz
+Rottweiler,51847.8097,63.4824,8.5251,med,high,short,female,Cox
+Airedale Terrier,21750.305,,10.8401,high,high,short,female,Collins
+Airedale Terrier,22670.5032,,10.9951,high,high,med,female,Mitchell
+Airedale Terrier,21181.7309,57.5243,11.2258,high,high,short,male,Bradley
+Rottweiler,40276.5967,63.3269,8.6792,med,high,short,female,Bentley
+Daschhund,3852.7625,20.6289,12.0251,med,low,short,male,Robinson
+Daschhund,7663.6755,20.7946,13.6738,high,med,short,male,Garcia
+Daschhund,14347.4841,,11.9536,high,med,short,male,Robinson
+Akita,42161.8847,69.498,9.2746,high,med,med,male,Pratt
+Akita,37941.4469,66.9993,10.7974,low,med,med,female,Vazquez
+Daschhund,12305.9044,20.1409,12.9729,high,med,short,male,Dixon
+Rottweiler,61967.4395,64.0871,10.044,med,high,short,female,Johnson
+Akita,37673.0896,66.9557,9.8166,high,med,med,female,Smith
+Rottweiler,48480.2786,62.1165,8.7375,med,high,short,female,Coleman
+Airedale Terrier,21298.136,56.8293,12.5429,high,high,short,female,Hicks
+Airedale Terrier,22601.4587,57.7352,11.153,high,high,med,female,Taylor
+Airedale Terrier,20725.8753,,11.3865,high,med,med,female,Rojas
+Daschhund,10158.403,20.822,13.2396,high,med,short,male,Nelson
+Akita,42401.9604,,11.9375,med,med,med,male,Jones
+Daschhund,9330.4298,21.0589,13.2879,med,low,short,female,Peterson
+Rottweiler,47791.3095,63.816,9.7498,med,high,short,male,Kathryn
+Airedale Terrier,19303.9533,56.9409,11.2057,high,high,med,male,Mccormick
+Rottweiler,50102.3794,62.2748,9.0107,med,high,short,male,Kirk
+Daschhund,10233.5798,21.1807,12.6282,high,med,short,male,Garcia
+Airedale Terrier,20945.6873,57.1333,13.6302,high,high,med,male,Garcia
+Airedale Terrier,20370.389,56.6619,12.426,med,med,med,male,Bell
+Akita,25521.1233,65.7437,10.6832,med,med,med,female,Holland
+Rottweiler,56652.4836,,7.4574,low,high,short,female,Vazquez
+Rottweiler,52038.1467,62.7262,9.9444,med,high,short,male,Gordon
+Akita,32835.6727,67.1555,11.486,high,med,med,female,Clark
+Rottweiler,57978.1542,,9.2973,med,high,short,female,Hall
+Rottweiler,55147.6517,63.2658,10.2618,med,high,med,female,Higgins
+Rottweiler,59616.6382,63.7233,9.0928,med,high,short,female,Guerrero
+Rottweiler,60166.8932,66.8489,10.6566,med,high,short,male,Mcpherson
+Airedale Terrier,23193.5195,58.5272,11.4465,high,high,med,female,Martinez
+Rottweiler,60849.5757,60.7501,10.0686,med,med,short,female,Hayes
+Airedale Terrier,20996.8325,56.7565,11.5142,high,high,med,male,Olsen
+Akita,30046.0739,64.2615,11.949,med,med,med,male,Sanchez
+Daschhund,13669.7756,,13.1589,high,med,short,male,Larsen
+Daschhund,7426.9417,20.2378,13.9734,high,med,short,female,Cooper
+Daschhund,7848.8969,20.3123,13.0617,high,med,short,male,Sullivan
+Rottweiler,52873.2573,60.5931,8.9404,med,high,short,male,Ford
+Daschhund,13740.0258,20.8505,14.4571,high,med,short,female,Martinez
+Airedale Terrier,23460.0471,57.16,12.6499,high,med,med,female,Benitez
+Daschhund,8399.2538,21.0235,13.4453,high,med,short,female,Thompson
+Rottweiler,39597.0059,62.8148,8.6585,med,high,short,female,Adams
+Akita,55110.928,65.3398,10.5364,high,high,med,female,Carr
+Daschhund,8607.7943,20.6978,13.0784,high,med,short,male,Quinn
+Daschhund,10982.7708,21.2545,12.7995,high,med,short,female,Clark
+Rottweiler,53716.7188,62.5179,9.8083,low,high,short,female,Nelson
+Akita,43504.9678,65.8615,10.758,med,low,med,male,Greer
+Rottweiler,56798.8564,,9.2079,med,high,short,male,Mclaughlin
+Airedale Terrier,23242.0628,57.2085,11.8733,high,high,short,female,Sullivan
+Akita,47403.7099,65.8016,10.597,med,med,short,female,Tate
+Akita,53657.5435,,10.8656,low,low,med,male,Williamson
+Daschhund,9321.8931,20.6305,11.9493,high,med,short,male,Rose
+Rottweiler,62910.0002,60.6534,8.9556,med,high,short,female,Jackson
+Airedale Terrier,20454.6897,56.8187,10.57,high,high,med,male,Singh
+Rottweiler,58418.5851,,10.3916,med,high,short,female,Lynch
+Rottweiler,51583.6711,62.3023,11.0462,low,med,short,female,Coleman
+Daschhund,8108.0281,20.9099,13.7518,high,high,short,female,Mora
+Daschhund,7193.4942,21.8889,13.2622,med,med,short,male,Andrews
+Airedale Terrier,20868.3641,,10.1627,med,high,long,female,King
+Akita,39869.6455,67.3186,10.3125,med,high,med,male,Cervantes
+Airedale Terrier,20707.2473,55.7579,11.2788,high,high,med,male,Riley
+Rottweiler,50995.7052,64.598,9.1729,low,high,short,female,Durham
+Rottweiler,46792.1544,62.4004,11.0476,med,high,short,female,Thompson
+Akita,49735.8716,66.6523,11.2926,med,low,med,male,James
+Rottweiler,47941.1637,61.7089,10.2763,med,med,short,female,Adams
+Airedale Terrier,19270.9196,56.5726,11.6088,high,high,med,female,Landry
+Rottweiler,58533.0296,62.5938,8.6634,med,high,short,female,Tucker
+Daschhund,10327.1436,,13.0759,high,low,short,female,Schultz
+Akita,39846.3673,66.0406,10.0713,med,med,med,female,Hampton
+Akita,43656.014,65.4057,10.4404,low,med,med,female,Salazar
+Daschhund,13322.8884,21.4064,12.9198,high,med,short,male,Acosta
+Rottweiler,48586.0561,62.7959,8.5359,med,high,short,male,Hodges
+Rottweiler,54642.1902,66.497,8.4464,med,high,short,female,Sandoval
+Daschhund,9188.464,21.2444,13.243,high,low,short,male,Garcia
+Daschhund,11778.3511,20.2421,13.5783,med,low,short,female,Harper
+Daschhund,14248.7211,,12.2439,high,med,short,male,Jimenez
+Akita,43372.2706,65.4604,10.8313,med,med,med,male,Vincent
+Airedale Terrier,17718.5457,57.4183,10.4334,high,med,med,female,Humphrey
+Rottweiler,46234.4332,62.9531,9.2388,low,high,short,female,Ward
+Akita,38415.568,65.5076,11.1997,med,med,med,female,Burns
+Daschhund,2860.0346,20.3496,12.2921,high,med,short,female,Moyer
+Akita,34095.8667,,11.6826,med,med,med,male,Leonard
+Rottweiler,47582.8513,60.3105,10.531,med,high,short,male,Banks
+Daschhund,10677.0978,20.5952,13.3653,high,med,short,female,Clark
+Airedale Terrier,21067.4468,56.98,9.6089,high,high,short,male,Patterson
+Rottweiler,31054.5104,63.7796,8.9376,med,high,short,female,Henderson
+Daschhund,6809.788,20.3881,12.3952,high,high,short,male,Barnes
+Rottweiler,39010.6957,63.631,9.0507,med,high,short,male,White
+Akita,36777.5995,67.6636,11.6413,med,med,long,female,Jones
+Rottweiler,49688.1249,61.6636,10.498,low,med,short,female,Sanchez
+Rottweiler,30785.3037,63.47,8.7332,med,high,short,female,Blackwell
+Airedale Terrier,21170.1259,,12.0995,high,med,med,female,Gallagher
+Akita,44941.4025,64.7534,11.2846,med,med,med,female,Lamb
+Daschhund,10641.8694,20.7559,11.5754,high,med,short,female,Molina
+Airedale Terrier,19375.1703,57.3311,12.7574,high,high,short,male,Arnold
+Airedale Terrier,23518.1562,56.615,12.3127,high,high,med,female,Perry
+Airedale Terrier,23180.6063,57.4858,11.8447,med,high,med,female,Price
+Rottweiler,32939.3092,65.7543,9.4832,med,high,short,female,Thomas
+Airedale Terrier,20632.9689,56.425,8.9806,med,high,med,male,Wood
+Daschhund,9364.2154,,13.3235,med,med,short,male,Larson
+Akita,46862.9728,65.9874,10.2285,med,med,long,male,Carter
+Akita,58627.5897,,10.8805,med,med,med,female,Dickson
+Rottweiler,56305.0925,63.6761,10.3809,med,high,short,male,Maldonado
+Rottweiler,61601.1773,66.5171,10.2564,high,high,short,female,Johnson
+Daschhund,10507.6497,19.8889,13.432,high,med,short,female,Jones
+Airedale Terrier,21077.5225,57.024,10.4401,high,high,med,male,Anderson
+Akita,56559.2838,64.7583,11.6848,med,med,med,female,Vargas
+Airedale Terrier,20640.7465,56.4787,12.6897,high,high,med,female,Guzman
+Rottweiler,47536.7934,62.6449,9.4866,med,high,short,female,Suarez
+Akita,51950.9527,67.898,10.8356,med,med,med,male,Mccoy
+Daschhund,10580.9097,20.1834,14.2474,med,med,short,male,Peterson
+Akita,37968.8277,66.9328,9.7058,med,med,med,male,Price
+Airedale Terrier,19964.7924,57.4787,11.5504,high,high,med,female,Molina
+Akita,36894.3565,66.8887,11.863,high,med,med,male,Leon
+Akita,51478.5502,66.9491,11.1001,med,med,long,female,Salazar
+Airedale Terrier,21911.2828,58.1168,11.894,high,high,med,female,Fox
+Daschhund,6735.7069,,13.0573,high,med,short,male,Hawkins
+Rottweiler,39780.1071,64.982,9.5055,med,high,short,male,Hatfield
+Akita,41563.5856,65.8558,10.2138,med,med,short,male,Luna
+Rottweiler,50062.1951,61.3393,10.2069,med,high,short,male,Hernandez
+Akita,41234.879,,10.6614,med,med,med,female,Copeland
+Rottweiler,41123.8992,62.564,8.5957,med,med,short,female,Huang
+Airedale Terrier,19992.4651,56.4044,13.3686,high,high,med,female,Rollins
+Airedale Terrier,21331.1183,57.6801,10.3021,med,high,med,female,Scott
+Airedale Terrier,21114.8304,57.3688,11.6145,high,high,med,male,Walker
+Airedale Terrier,21000.9777,56.8566,11.8266,high,med,med,female,Allen
+Akita,37206.0885,62.747,12.5404,med,med,med,female,Rivera
+Airedale Terrier,21949.5537,56.0879,12.5627,high,high,med,female,White
+Airedale Terrier,22101.6667,56.5195,13.0252,high,high,med,male,Bell
+Airedale Terrier,18941.4485,55.4098,11.6354,high,high,med,male,Tran
+Airedale Terrier,19467.5008,57.2896,12.0784,high,high,med,female,Carter
+Daschhund,11541.8564,20.4076,13.2378,high,med,short,female,Waters
+Daschhund,11855.2342,20.5401,12.1465,high,med,short,female,Richardson
+Daschhund,13392.4617,19.7576,12.3358,high,med,short,female,Miller
+Akita,44943.2154,,11.0333,high,med,med,female,Duncan
+Akita,25312.5688,66.0668,11.8539,med,med,med,female,Wallace
+Rottweiler,47351.4939,63.9502,9.62,med,high,short,female,Clark
+Akita,48332.7959,64.6476,11.0704,med,low,med,female,Mitchell
+Rottweiler,51016.7349,62.9472,8.8924,med,high,short,male,Kennedy
+Rottweiler,51036.0727,62.4485,10.2044,high,high,short,female,Hill
+Akita,44856.6024,67.2765,11.5071,med,high,med,female,Rojas
+Akita,45977.4511,68.954,10.5117,med,high,long,male,Nielsen
+Akita,50618.3516,63.4426,12.5316,med,med,med,male,Mejia
+Rottweiler,57230.4479,63.5211,7.8979,low,high,med,male,Barajas
+Airedale Terrier,18449.1883,58.2173,11.9583,high,high,long,female,Boyd
+Daschhund,10668.5403,21.5058,12.2129,high,med,short,female,Flowers
+Rottweiler,51744.9797,65.3678,8.9134,med,med,short,male,Oneal
+Rottweiler,45072.6834,,10.6539,med,med,short,male,Marks
+Akita,44206.7228,68.5733,10.3026,med,med,short,female,Dean
+Akita,42887.036,68.6346,10.6086,med,low,med,female,Strickland
+Rottweiler,45205.4934,,8.7041,high,high,med,female,Hoffman
+Airedale Terrier,24491.0045,57.9877,11.8294,high,high,med,female,Newman
+Daschhund,12172.5451,,13.0752,high,low,short,male,Wilson
+Akita,39253.2462,64.6395,11.8296,med,med,med,male,Gomez
+Rottweiler,48486.6296,60.7845,8.4764,med,high,short,male,Smith
+Daschhund,8640.9961,21.6599,13.6223,high,med,short,female,Chase
+Daschhund,10342.3656,,12.647,high,high,short,female,Hansen
+Airedale Terrier,21266.7768,57.1045,12.0062,high,high,med,female,Rich
+Airedale Terrier,18913.308,,11.9974,high,high,med,female,Guzman
+Airedale Terrier,20607.9929,55.7742,13.9835,high,med,med,female,Johnston
+Rottweiler,48927.2394,63.7634,8.2725,med,high,short,male,Huber
+Daschhund,5261.597,,13.4769,high,high,short,female,Cohen
+Daschhund,10502.8776,,12.4683,high,high,short,male,Rosario
+Airedale Terrier,17643.6336,56.9814,10.3417,high,high,med,female,Hayes
+Rottweiler,44355.5825,63.0842,9.1248,med,high,short,female,Wang
+Airedale Terrier,21125.2224,58.0277,12.4619,high,high,long,male,Ryan
+Daschhund,11923.9312,20.7936,13.0578,high,med,med,female,Mata
+Rottweiler,49016.4665,61.5272,8.815,med,high,short,male,Nash
+Akita,42787.664,67.7921,11.2813,med,med,med,female,Hall
+Rottweiler,51292.4031,64.4269,8.7097,med,high,short,female,Raymond
+Daschhund,10337.4949,20.9898,12.8182,high,med,med,female,Kline
+Daschhund,10688.0906,20.3083,13.2773,high,med,med,female,James
+Akita,44275.6287,64.5719,11.9881,med,med,med,female,Burton
+Akita,48098.0028,67.566,10.9396,med,med,med,female,Howard
+Akita,36422.9955,64.1749,11.5954,high,med,med,male,Hughes
+Rottweiler,34691.1116,63.2087,8.8463,med,high,short,female,Norton
+Rottweiler,43164.2935,64.0631,9.2562,med,high,short,male,Murray
+Rottweiler,48024.8965,66.8633,9.0442,low,high,short,female,Baker
+Akita,46564.7944,,10.4662,med,med,med,female,Lawson
+Airedale Terrier,19249.8947,56.1723,12.454,high,high,med,female,Price
+Akita,45759.0243,,11.0326,med,high,med,female,Jensen
+Rottweiler,34455.3051,64.4665,9.669,high,high,short,male,Miller
+Akita,62485.4216,66.6187,11.5637,med,med,med,male,Moore
+Daschhund,11615.4342,20.1753,13.1628,high,med,short,male,Brown
+Daschhund,8819.8564,21.3912,13.2523,high,med,short,female,Rodriguez
+Airedale Terrier,19349.8533,57.1823,11.9651,high,high,med,male,Johnson
+Rottweiler,48450.3021,63.7977,9.2872,med,high,short,female,Meyer
+Airedale Terrier,20575.5066,56.8859,12.5818,high,high,med,male,Dunn
+Rottweiler,39341.903,61.3948,10.7116,med,high,short,female,Castillo
+Airedale Terrier,20137.1134,55.762,12.3683,med,high,med,male,Thomas
+Akita,46781.1983,66.0697,9.9432,med,high,long,female,Nelson
+Airedale Terrier,21881.6683,,11.8994,high,high,med,female,Shaw
+Rottweiler,46314.147,,8.6993,med,high,short,female,Jones
+Akita,34535.8377,63.9585,11.951,med,high,long,female,Palmer
+Daschhund,8826.9754,20.9937,13.2848,high,med,med,male,Rios
+Akita,44534.5081,66.1689,10.9574,med,med,med,female,Friedman
+Rottweiler,50241.7017,62.7992,11.1703,med,high,short,male,Callahan
+Akita,49181.929,64.8716,10.2805,med,med,med,female,Lambert
+Daschhund,7346.5032,20.1014,13.6132,high,med,short,female,Brown
+Daschhund,16164.8497,20.8184,12.888,high,low,short,male,Sampson
+Daschhund,10829.226,20.6834,13.1381,high,med,short,male,Romero
+Daschhund,10428.5239,,12.9826,high,med,short,female,Russell
+Daschhund,7641.8021,19.3169,13.5431,high,med,short,male,Mccarty
+Airedale Terrier,21828.1614,,10.7754,high,high,med,male,Gomez
+Daschhund,5053.0357,20.8696,12.9698,high,med,short,female,Hayes
+Akita,49581.4229,66.7243,10.6294,med,low,med,male,Brooks
+Daschhund,4595.7267,20.7692,14.4427,high,med,short,male,Scott
+Rottweiler,39614.8547,62.6125,9.3499,med,high,short,male,Williams
+Airedale Terrier,17517.6462,57.1731,13.1262,med,high,med,female,Moran
+Akita,53838.0992,,11.0858,med,med,med,female,Lee
+Rottweiler,44105.028,,9.2923,high,med,short,male,Dean
+Akita,45433.0417,66.6701,11.4349,med,med,med,male,Sandoval
+Rottweiler,48256.7133,63.104,10.1343,low,high,short,male,Morgan
+Akita,40751.1297,66.0934,11.6003,med,high,med,female,Peterson
+Akita,33425.2003,67.5957,11.1899,med,low,med,female,Miller
+Rottweiler,46737.5606,61.275,9.7335,med,high,short,male,Sparks
+Airedale Terrier,22116.2006,56.7451,11.5312,high,high,med,male,Rodriguez
+Daschhund,6224.5809,20.2533,13.7327,high,low,short,female,Lowe
+Rottweiler,55466.602,62.4011,7.8912,low,high,short,female,Baker
+Daschhund,8434.2282,21.0928,13.1844,high,med,short,male,Harris
+Daschhund,7740.1179,20.7861,12.678,high,high,short,male,Rice
+Rottweiler,38711.1081,62.936,10.1206,high,high,short,male,Brown
+Akita,34242.2942,66.8966,10.3145,med,med,med,male,Davis
+Akita,48311.4351,,12.1828,med,high,med,female,Key
+Akita,45393.4934,,12.3696,med,med,med,male,Hunt
+Airedale Terrier,20381.2902,56.2514,9.6208,high,high,med,female,Chan
+Daschhund,8854.8677,,12.9099,high,high,short,male,Smith
+Daschhund,8536.1628,21.5946,13.5977,high,high,short,male,Henderson
+Daschhund,17427.7055,21.3605,13.2555,high,med,short,male,Garcia
+Daschhund,8656.3543,21.2617,12.9152,high,med,short,male,Martin
+Akita,38270.4891,,11.3787,med,med,med,female,Wilson
+Daschhund,7528.6338,19.8067,13.3164,high,med,short,female,Wallace
+Rottweiler,55627.1316,62.7036,10.4965,high,med,short,male,Smith
+Daschhund,7487.9927,,14.1848,high,med,short,male,Curtis
+Airedale Terrier,21600.4052,57.4101,11.8078,med,high,med,male,Brown
+Airedale Terrier,22137.9435,57.6968,11.7743,med,high,med,female,Black
+Rottweiler,47267.7575,61.5369,9.0339,med,high,short,female,Robertson
+Daschhund,10580.9225,20.2145,12.1008,high,med,short,female,Scott
+Rottweiler,57724.3141,65.6599,9.1184,med,high,short,male,Mcdowell
+Daschhund,9855.4582,20.1237,12.7748,high,med,short,male,Cobb
+Daschhund,10488.725,21.1619,12.7014,high,med,short,male,Lane
+Akita,54323.7904,69.2742,11.0866,high,med,med,male,Wilkinson
+Daschhund,8060.1024,21.4559,13.0961,med,med,short,male,Taylor
+Daschhund,9418.0582,20.3768,13.153,high,med,short,female,Key
+Rottweiler,55908.9405,64.1248,9.0016,high,high,short,female,Green
+Akita,45895.304,,10.0424,med,med,short,female,Carr
+Akita,48041.0744,67.5517,10.9605,med,med,med,female,Bennett
+Rottweiler,53134.6617,65.7083,9.0789,med,high,short,male,James
+Akita,38642.3715,,11.6747,med,low,med,female,Kelly
+Rottweiler,48633.7551,63.3695,10.1308,low,med,short,female,Mcdonald
+Akita,63445.049,63.5135,11.7688,med,med,med,female,Lloyd
+Rottweiler,49553.7079,66.4525,9.2713,med,high,med,female,Peterson
+Rottweiler,48264.155,64.2075,9.8865,med,high,short,female,Simmons
+Airedale Terrier,21648.3407,57.2165,10.8199,high,high,med,female,Estrada
+Rottweiler,41744.2485,60.7488,9.2015,med,high,med,male,Cole
+Rottweiler,36778.4471,59.9261,10.674,med,high,short,male,Patel
+Rottweiler,46263.6798,,11.0266,med,high,short,male,Mitchell
+Akita,37007.419,66.386,10.3683,high,med,med,male,Conway
+Daschhund,16570.709,21.3931,13.0558,med,med,short,female,Middleton
+Airedale Terrier,18691.8074,56.1913,10.1992,med,high,med,female,Floyd
+Daschhund,11294.4215,20.7413,12.5173,high,med,short,female,Morris
+Airedale Terrier,19939.9287,57.0009,11.0018,high,high,med,female,Freeman
+Rottweiler,58130.1221,61.8583,9.2887,med,high,short,female,Taylor
+Rottweiler,58724.0929,61.6947,8.7165,med,high,short,female,Bryan
+Akita,42018.4981,67.4707,11.9474,med,med,med,male,Little
+Airedale Terrier,20447.9829,56.6528,10.8726,high,high,med,male,Rodriguez
+Airedale Terrier,18790.5737,56.9059,10.9656,high,high,med,female,Roberts
+Akita,38369.2073,62.8091,10.5616,med,med,long,female,Dougherty
+Daschhund,10377.2559,20.9328,13.2433,high,med,med,male,Rhodes
+Akita,44405.2912,63.0831,11.1469,med,med,med,female,Garcia
+Daschhund,10777.7002,22.3731,11.998,high,med,short,male,Patterson
+Akita,46917.6523,64.0078,10.4362,med,med,med,female,Melanie
+Airedale Terrier,20713.9925,57.769,11.6435,high,high,med,male,Lyons
+Akita,40960.0746,67.6245,12.6945,med,med,long,female,Alexander
+Airedale Terrier,21709.9781,,10.6826,high,high,med,male,Thompson
+Akita,46532.1808,69.5394,11.3181,med,low,med,male,Howard
+Daschhund,4988.0455,20.94,13.7456,high,med,short,female,Jacobs
+Airedale Terrier,20229.1775,,11.1875,high,high,med,female,Mccoy
+Rottweiler,63316.2572,65.6933,9.0249,med,high,short,female,Lucas
+Akita,41931.9282,66.2685,11.5099,med,med,med,female,Hayes
+Airedale Terrier,20360.4706,57.2062,12.5553,high,high,long,female,Deleon
+Airedale Terrier,19990.3695,,11.1818,high,high,med,male,Mullins
+Daschhund,12455.6549,22.4084,13.7555,high,low,short,female,Torres
+Akita,31822.7967,67.736,12.0011,med,med,med,male,Rocha
+Rottweiler,54366.3596,,8.9884,low,high,short,male,Anderson
+Airedale Terrier,21539.249,56.5657,10.6781,high,high,short,male,Sharp
+Daschhund,10778.5822,,12.6703,high,med,short,male,Edwards
+Airedale Terrier,20645.9059,56.1322,12.1411,high,med,med,female,Davis
+Airedale Terrier,20636.6495,56.6783,12.8404,high,high,long,female,Archer
+Akita,41008.6754,66.2862,10.9232,med,med,short,female,Jimenez
+Airedale Terrier,18357.7009,56.9902,11.4661,med,high,long,female,Paul
+Daschhund,13705.8802,,13.5135,high,med,med,male,Smith
+Daschhund,13716.765,20.9631,12.9535,high,med,med,female,Barnett
+Rottweiler,63928.9329,60.99,10.0115,med,high,short,female,Evans
+Rottweiler,44663.6064,,9.8149,med,med,short,male,Griffin
+Airedale Terrier,20487.0696,57.155,12.1142,high,high,med,male,Becker
+Airedale Terrier,20783.1551,,9.8576,high,med,med,female,Wolfe
+Airedale Terrier,18449.1803,57.3809,12.6886,high,high,med,male,Mathis
+Akita,35275.9784,69.0013,11.532,med,med,med,female,Johnson
+Akita,40105.6548,65.8263,11.0728,med,med,med,male,Spencer
+Akita,49578.3312,66.1053,11.6278,med,low,long,female,Hall
+Airedale Terrier,21800.1532,56.7432,10.6162,med,high,med,female,Lyons
+Akita,54628.0007,66.3378,9.7182,low,med,med,female,Ramos
+Rottweiler,53601.4581,61.7681,10.0091,med,high,short,male,Smith
+Akita,40659.7613,65.7439,11.0915,med,med,med,male,Ramirez
+Akita,41288.8596,,10.0435,med,high,med,male,Richardson
+Akita,47493.8496,65.9555,11.1083,med,high,med,female,Faulkner
+Daschhund,11622.6475,21.733,13.0927,high,high,short,female,Butler
+Daschhund,6281.0733,20.5827,13.8798,high,med,short,female,Carter
+Akita,53111.0923,66.1918,11.367,med,med,med,female,Johnson
+Airedale Terrier,20147.5119,,10.609,high,high,short,male,Juarez
+Rottweiler,57899.6448,63.7729,9.7447,med,high,short,female,Terrell
+Daschhund,7849.0167,,13.8463,high,med,short,male,Avila
+Rottweiler,34755.3431,63.5143,9.4633,med,high,short,male,Nolan
+Akita,36743.1234,65.4096,10.5878,med,med,long,female,Smith
+Rottweiler,48410.9068,64.4627,11.3656,low,high,short,female,Mata
+Daschhund,5723.5711,21.3472,12.2985,high,high,short,female,Ross
+Daschhund,7243.4193,,13.3662,high,med,short,male,Soto
+Akita,50589.0604,62.9416,10.0947,med,high,med,male,Brown
+Rottweiler,37278.8369,64.7901,10.0979,med,high,short,female,Rogers
+Akita,50708.3123,68.4903,9.5019,high,med,med,male,Little
+Airedale Terrier,20810.3908,57.0082,10.8066,high,med,med,female,Delgado
+Akita,41948.9513,67.6473,10.777,med,med,short,female,Ford
+Akita,45822.3074,69.511,11.7819,high,med,med,male,Jackson
+Daschhund,9956.4559,21.2799,13.4362,high,high,short,male,Li
+Akita,36213.9651,65.1462,9.9319,med,med,med,male,Henry
+Airedale Terrier,18679.3843,56.5362,13.2683,high,high,med,female,Green
+Daschhund,15066.4124,20.9422,12.8541,high,med,short,female,Perry
+Rottweiler,50246.0499,62.5509,8.7969,med,high,short,male,Herrera
+Rottweiler,46483.0401,62.5784,9.6409,low,high,short,female,Lee
+Akita,50419.146,67.3073,11.1686,low,med,long,male,Hayes
+Daschhund,9652.2869,21.8713,13.0805,med,med,short,female,Garcia
+Rottweiler,49640.4972,60.6358,10.8416,med,med,short,female,Herman
+Daschhund,12044.7842,,12.9198,high,med,med,female,Lawson
+Rottweiler,35887.2628,63.5425,8.5709,med,high,med,male,Nolan
+Akita,33140.2024,64.073,10.665,med,med,med,female,Mendoza
+Akita,51156.2479,64.223,10.7973,med,high,short,female,Rowe
+Airedale Terrier,20275.477,,10.9425,high,high,med,female,Decker
+Rottweiler,39627.2619,63.1045,9.7259,med,high,short,male,Henry
+Airedale Terrier,21780.0712,,10.7722,high,high,med,male,Leblanc
+Daschhund,7174.2316,21.2448,12.585,high,med,med,female,Hall
+Akita,28406.3446,65.9928,11.5048,low,med,med,male,Lyons
+Akita,50215.4071,,12.2348,high,med,med,male,Bullock
+Daschhund,12885.4276,21.3708,12.2552,high,low,short,male,Jennings
+Akita,53317.7988,63.6502,10.9622,med,low,med,male,David
+Airedale Terrier,20717.1359,56.6871,11.4368,high,high,med,female,Berry
+Daschhund,10205.8077,,13.5228,high,med,short,female,Brooks
+Akita,53954.7295,66.2167,12.3221,med,high,med,female,Haynes
+Akita,43915.7643,,10.3633,med,med,med,male,Bradley
+Airedale Terrier,19946.4028,58.3339,12.0932,high,high,med,male,Paul
+Rottweiler,45185.0682,,10.0025,low,high,short,female,Murillo
+Airedale Terrier,19368.1634,56.8384,12.3661,med,high,med,female,Green
+Airedale Terrier,18805.5565,,11.7316,high,high,med,male,Campbell
+Rottweiler,51005.7217,64.8993,9.9474,med,high,short,male,Lynch
+Airedale Terrier,23313.3799,56.9077,11.6588,med,high,med,female,Daniels
+Daschhund,8672.7977,22.2649,13.5045,high,med,short,female,Flowers
+Airedale Terrier,18260.6887,56.4061,12.8184,high,high,med,male,Carter
+Rottweiler,50604.7678,65.616,8.4907,low,high,short,male,Gray
+Akita,53625.2366,61.8945,11.0133,med,med,med,female,Mills
+Airedale Terrier,20575.6303,56.8145,12.0385,high,high,med,male,Martinez
+Rottweiler,53005.212,,8.8087,med,high,short,male,Dunn
+Rottweiler,45403.4785,64.2761,8.8686,med,med,short,female,Lee
+Daschhund,9257.5993,20.9421,12.5358,high,low,short,male,Dennis
+Rottweiler,45066.6883,63.6219,11.0069,med,high,short,male,Patton
+Daschhund,12214.7647,19.8041,12.8236,high,med,short,female,Ramos
+Akita,46989.8872,,10.6471,med,med,short,female,Lopez
+Akita,43782.8331,64.6496,10.8167,med,high,long,female,Myers
+Airedale Terrier,23215.8571,56.5523,10.9672,high,high,med,male,Daniel
+Rottweiler,55736.2778,62.4662,9.4312,med,med,short,female,Sims
+Akita,39416.564,62.822,11.6638,med,low,med,male,Torres
+Rottweiler,61990.0368,64.5221,10.217,med,high,short,male,Mccarty
+Akita,45396.5,65.5287,11.0071,med,high,med,female,Turner
+Airedale Terrier,23720.8602,56.6803,10.4332,high,med,med,male,Cole
+Daschhund,8239.2527,,12.3334,high,med,short,male,Frazier
+Akita,48091.0675,68.4864,11.1412,high,med,med,female,Wood
+Airedale Terrier,20133.003,,11.8282,high,high,long,male,Dodson
+Akita,56051.9803,,10.443,med,med,med,female,Weeks
+Daschhund,10678.4001,,12.1934,high,med,short,male,Clark
+Daschhund,14374.5651,,13.3542,high,med,med,female,Rivas
+Rottweiler,58289.3279,65.6992,10.0788,med,med,short,male,Martin
+Daschhund,8398.9083,21.5823,13.9776,high,med,short,female,Cervantes
+Akita,37558.123,67.8249,9.8516,low,low,med,male,Garcia
+Akita,54814.0484,68.1297,10.8895,low,high,med,male,Morgan
+Daschhund,6994.3783,21.2745,12.362,med,med,short,male,Peterson
+Daschhund,6969.6083,21.8892,12.9311,high,med,short,female,James
+Rottweiler,46324.8538,62.4085,8.2688,med,high,short,female,Perry
+Airedale Terrier,21350.7195,57.7394,11.5287,high,high,med,female,Ball
+Rottweiler,56359.367,65.9473,8.1944,med,high,short,female,Trujillo
+Airedale Terrier,20240.9226,56.9894,12.2731,high,high,med,female,Martinez
+Airedale Terrier,18524.9905,55.3581,11.9971,high,high,med,female,Michael
+Rottweiler,34315.8573,64.053,8.344,med,high,short,female,Friedman
+Akita,43882.5112,67.1798,11.0507,med,med,med,female,Rodriguez
+Airedale Terrier,21868.2935,56.4176,10.6894,high,med,med,female,Wiley
+Daschhund,10347.3756,21.0978,12.0276,med,high,short,female,Smith
+Akita,30882.6147,65.7021,9.0002,med,med,short,male,Gonzalez
+Akita,40412.5235,65.8219,11.743,med,med,med,male,Hays
+Airedale Terrier,17782.9296,57.5531,10.0423,high,high,med,female,Hernandez
+Akita,64365.8999,66.628,10.5628,med,med,short,female,Robinson
+Airedale Terrier,20591.8708,58.7642,13.2985,high,high,med,male,Anderson
+Akita,42240.606,67.2783,10.5412,med,med,med,female,Wolfe
+Rottweiler,42704.8546,63.1693,8.7244,med,high,short,female,Medina
+Rottweiler,51167.2077,63.3555,10.2732,low,med,short,female,Watson
+Airedale Terrier,20308.7152,,11.5854,high,high,med,male,Ochoa
+Daschhund,14948.3967,,12.5662,med,high,short,male,Baldwin
+Airedale Terrier,18900.5568,56.649,11.8667,high,high,med,male,Wallace
+Daschhund,6745.0184,20.9944,12.6715,high,med,short,female,Zuniga
+Akita,49080.4918,,10.9544,med,med,short,male,Atkinson
+Airedale Terrier,16067.7972,56.7599,11.721,high,med,med,male,Anderson
+Airedale Terrier,18967.7,,10.6607,high,med,med,male,Hogan
+Daschhund,11648.2601,,12.7593,high,high,short,female,Carpenter
+Akita,42749.1492,67.9544,10.891,med,med,med,male,Thompson
+Rottweiler,49924.5127,64.3367,11.5039,med,high,short,male,Cook
+Airedale Terrier,20788.42,56.7241,12.2066,high,high,short,female,Smith
+Daschhund,11501.8049,21.731,13.1081,high,low,short,male,Torres
+Daschhund,13445.5243,20.2762,14.2172,med,low,short,female,Bates
+Akita,59951.4605,67.6915,11.4993,med,med,med,male,Madden
+Daschhund,11781.0438,20.6936,13.8211,high,med,short,male,Wilson
+Daschhund,11920.1682,21.0187,11.945,high,low,short,male,Doyle
+Airedale Terrier,21377.7276,,11.604,high,high,med,female,Everett
+Daschhund,10707.2653,,13.0311,high,med,short,female,Frost
+Airedale Terrier,21180.8805,57.4594,11.5446,high,high,short,male,Brown
+Daschhund,15030.4065,20.9859,13.2195,med,med,short,male,Hill
+Daschhund,6165.7434,21.1956,12.9439,high,med,short,male,Griffin
+Rottweiler,54685.0887,64.471,9.064,low,high,short,female,Gould
+Airedale Terrier,18653.2151,57.2142,11.3201,high,high,med,male,Simpson
+Rottweiler,59189.1069,65.5651,9.2787,med,high,short,male,Lawrence
+Airedale Terrier,20193.8769,56.6614,11.3107,high,med,med,male,Morton
+Daschhund,10626.1288,21.7719,13.3633,high,high,short,female,Miller
+Akita,43423.6761,64.4686,10.9438,med,med,med,male,Gallegos
+Akita,34006.3681,66.7245,11.3139,low,low,med,female,Grant
+Daschhund,13828.9024,21.2395,12.779,high,med,short,male,Morris
+Airedale Terrier,20686.5493,,11.4164,high,high,med,male,Mitchell
+Airedale Terrier,19241.5875,,11.464,high,high,med,female,Mckenzie
+Akita,70794.9637,,10.8679,med,high,med,male,Moore
+Rottweiler,41469.5097,62.2634,10.4642,low,high,short,male,Luna
+Rottweiler,59342.9505,65.0256,10.3604,med,high,short,female,Andrews
+Airedale Terrier,17271.988,57.1114,12.8968,high,high,med,female,Adams
+Daschhund,11158.4912,21.5707,14.2385,med,med,short,male,Frey
+Rottweiler,54234.0149,62.4744,8.9035,med,med,short,female,Parker
+Rottweiler,43630.5458,64.2388,7.9579,med,high,short,female,Avery
+Daschhund,7448.403,,12.6991,high,low,short,female,Marks
+Daschhund,5125.1305,20.1664,12.47,high,med,short,female,Gaines
+Airedale Terrier,21722.3239,57.8406,11.5777,high,high,med,male,King
+Airedale Terrier,19879.7833,57.0375,11.2673,high,high,med,female,Orozco
+Rottweiler,47575.027,61.1119,9.7272,high,high,short,female,Cabrera
+Daschhund,6212.5428,21.3463,13.2568,high,med,short,female,Bailey
+Rottweiler,51274.9922,60.6935,8.8779,med,high,short,male,Peters
+Rottweiler,58734.9346,64.1274,10.1837,med,high,short,female,Cook
+Daschhund,9373.5691,21.676,14.025,high,med,short,male,Diaz
+Akita,47976.8005,64.7585,10.779,med,med,med,female,Collins
+Rottweiler,45156.3305,63.1028,11.7835,med,high,short,male,Robbins
+Airedale Terrier,21776.7891,57.7089,11.9851,high,med,short,male,Leonard
+Akita,47322.7768,66.7718,11.5713,med,med,short,female,Knox
+Akita,53557.665,69.421,11.4325,med,med,med,female,Johnston
+Rottweiler,55599.2245,65.1044,11.0632,med,high,short,male,Robert
+Airedale Terrier,20141.6358,56.9865,12.3035,high,high,med,male,Ward
+Airedale Terrier,20403.422,57.3355,12.2614,high,high,med,female,Wilson
+Rottweiler,50929.7538,,10.0395,med,high,short,female,Mccormick
+Daschhund,7853.9091,21.1784,12.9093,high,med,short,female,Young
+Daschhund,10295.5541,20.9746,13.7219,high,med,short,female,Scott
+Akita,44007.0611,65.3054,10.59,med,med,med,female,Lin
+Airedale Terrier,18125.4501,,9.406,high,high,med,female,Grant
+Daschhund,15481.7509,21.0177,13.038,high,med,short,female,Donaldson
+Daschhund,10382.5507,21.8656,12.5489,high,med,short,female,Jones
+Akita,40864.5253,64.5337,10.1879,med,med,med,male,Anderson
+Akita,50046.3233,,11.0141,med,med,med,female,Hale
+Airedale Terrier,16933.4517,,11.5296,high,med,long,female,Wilson
+Daschhund,11571.5693,21.3519,13.149,high,med,short,female,Lyons
+Rottweiler,38533.3674,66.0472,7.6928,med,high,short,female,Williams
+Rottweiler,50713.9759,61.6796,8.6574,med,high,short,female,Curtis
+Rottweiler,54201.434,61.7508,9.6749,med,med,short,male,Ryan
+Akita,46455.0031,67.2368,10.4811,med,med,long,female,Griffin
+Airedale Terrier,21097.6087,57.2209,12.3191,high,high,med,male,Mcdaniel
+Rottweiler,53090.8252,62.5056,9.6316,med,high,short,female,Vargas
+Airedale Terrier,22548.9854,57.1428,10.1864,high,high,med,male,Conley
+Rottweiler,56172.6967,62.0007,8.9408,med,high,short,male,Burton
+Rottweiler,57916.7449,62.8361,9.0347,high,high,short,female,Dennis
+Airedale Terrier,20698.6346,56.8929,12.8542,high,high,med,female,Chambers
+Akita,54601.83,68.0797,10.9536,med,med,long,female,Bates
+Daschhund,10488.3688,20.8029,13.0251,med,high,short,male,Atkinson
+Akita,42545.9643,65.5463,11.2463,med,med,med,female,Odom
+Daschhund,9361.5647,20.7209,13.4123,high,med,med,female,Meyer
+Rottweiler,44614.4615,67.1252,11.9463,med,high,short,male,Allen
+Rottweiler,45872.7443,64.8809,8.1009,med,high,short,male,Hughes
+Rottweiler,50866.8174,,8.2576,high,med,short,male,Mcdaniel
+Akita,44012.6638,65.2824,11.0066,med,high,med,female,Ortiz
+Rottweiler,53265.2201,64.2917,9.5988,med,med,short,male,Gill
+Daschhund,10260.1957,20.8744,14.0058,high,med,short,female,Davis
+Daschhund,13254.7876,21.5011,11.7919,high,med,med,male,Walker
+Airedale Terrier,21207.8536,56.4513,11.4803,high,high,med,male,Johnston
+Rottweiler,53776.9872,65.0955,9.5646,med,high,short,male,Gonzales
+Akita,60984.1281,,11.1209,med,med,med,female,Mercer
+Daschhund,6607.0133,20.8243,13.6502,high,low,short,male,Soto
+Airedale Terrier,20777.815,57.0851,12.1243,high,high,med,female,Roman
+Rottweiler,43024.3052,63.6163,8.59,high,high,short,male,Allen
+Daschhund,13027.0916,,12.2409,high,low,short,male,Keller
+Akita,56976.4586,65.5659,10.4346,high,med,med,female,Cooper
+Daschhund,6638.2343,20.5404,12.3443,high,med,short,female,Haynes
+Airedale Terrier,20066.0873,57.5321,11.3504,high,high,med,female,Foster
+Rottweiler,49509.3519,63.1555,7.1783,med,high,short,male,Richard
+Akita,43838.3205,67.8763,11.1379,med,med,med,male,Burns
+Rottweiler,53098.9857,63.8152,8.1168,low,high,short,male,Russell
+Akita,57124.8832,65.6644,10.0811,high,low,med,female,Stone
+Daschhund,15505.5128,21.1291,13.6048,high,med,short,male,Wheeler
+Akita,45511.286,67.4741,11.7771,med,med,med,female,King
+Rottweiler,42677.2463,63.3043,9.9211,med,high,short,female,Martinez
+Airedale Terrier,19866.246,56.7909,12.335,high,high,med,female,Hansen
+Airedale Terrier,21762.7402,56.8264,10.7606,high,high,med,female,Perry
+Daschhund,7042.608,20.6166,13.2696,med,med,short,female,Flores
+Daschhund,6998.1161,,13.1571,high,low,med,male,Martinez
+Akita,45662.4423,65.3693,10.7184,med,med,med,male,Gibson
+Airedale Terrier,16823.1053,58.0448,11.9379,high,high,short,female,Rivera
+Airedale Terrier,20478.9087,,12.7704,high,high,med,female,Brown
+Daschhund,10152.6146,20.9556,12.9399,high,med,short,female,Murphy
+Akita,47393.4988,,11.168,med,med,short,male,Nelson
+Rottweiler,42226.5592,65.1775,9.0287,med,high,short,female,Knight
+Daschhund,7826.0774,21.0716,14.3639,high,med,short,male,Anderson
+Akita,67021.456,65.6762,11.2762,med,med,med,female,Jensen
+Akita,54305.3025,66.4432,11.3707,med,med,med,female,Lozano
+Daschhund,9226.4551,20.6578,13.0718,high,med,short,male,Davis
+Rottweiler,57397.5687,62.2713,7.8015,med,high,short,female,Shaw
+Daschhund,9353.3645,19.6287,12.6444,high,med,short,female,Jensen
+Rottweiler,51992.3309,61.7788,11.1557,med,med,short,female,Wilson
+Daschhund,10840.2038,22.0433,13.7616,high,med,short,female,Alvarado
+Rottweiler,31230.2147,61.6564,10.2968,med,high,short,female,Strickland
+Daschhund,11061.6734,21.5766,11.8562,high,med,short,male,Jones
+Airedale Terrier,18100.6871,58.3304,10.8055,high,high,med,female,Gomez
+Airedale Terrier,20723.596,58.934,11.4332,high,high,med,male,Johnson
+Rottweiler,45601.7184,61.9846,9.2742,med,high,short,female,Silva
+Akita,52637.2087,67.1162,10.4607,med,high,med,female,Mann

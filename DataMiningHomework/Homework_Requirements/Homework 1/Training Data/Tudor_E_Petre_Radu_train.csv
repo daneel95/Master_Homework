@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Samoyed,27218.0094,55.4842,10.3092,med,high,med,female,Knight
+Bearded Collie,25593.8305,54.3663,14.5407,high,high,long,female,Mcpherson
+Bearded Collie,23104.553,51.4324,13.7982,high,high,long,male,Howell
+Bearded Collie,20552.5691,52.9461,12.7047,med,high,long,male,Foley
+Airedale Terrier,20163.3668,57.1336,10.5662,high,med,med,male,Cole
+Bearded Collie,20212.4636,55.4117,13.554,high,high,long,male,Shepard
+Amstaff,27540.7933,45.8553,12.9428,med,med,short,female,Castillo
+Bearded Collie,24941.4356,,14.2791,high,high,long,female,Harmon
+Samoyed,25745.4812,53.6291,10.0782,med,high,med,female,Young
+Airedale Terrier,20038.3223,58.0509,13.5823,high,high,med,female,Hall
+Amstaff,27378.3741,46.1391,13.1238,med,high,short,male,Knight
+Bearded Collie,20134.8305,51.4617,12.9363,high,high,long,male,Horton
+Bearded Collie,17740.5241,54.5711,13.7762,high,high,long,male,Howard
+Bearded Collie,23742.2787,52.9689,12.5107,high,med,long,male,Strickland
+Samoyed,26368.0778,,11.3042,high,high,med,female,Harvey
+Airedale Terrier,19432.0061,56.5169,10.8443,high,med,med,female,Quinn
+Amstaff,24291.1135,45.8689,12.6939,med,high,short,male,Alexander
+Airedale Terrier,21070.0627,56.3159,12.0432,high,high,med,female,Foster
+Samoyed,20283.7182,53.4279,10.3861,med,high,med,male,Arroyo
+Airedale Terrier,18318.4775,57.2641,11.2892,high,high,med,male,Quinn
+Amstaff,21262.5508,45.9374,13.2768,low,med,short,female,Phelps
+Bearded Collie,23578.3221,52.01,12.356,high,high,long,female,Thompson
+Bearded Collie,21510.8721,,12.9462,high,high,long,female,Franco
+Bearded Collie,23780.7079,49.6049,12.8817,high,high,long,female,Ramirez
+Airedale Terrier,19669.3725,57.5002,11.6929,high,high,med,female,Ruiz
+Bearded Collie,20711.1227,57.1783,13.1689,high,high,long,female,Olson
+Amstaff,21108.9274,,13.9089,high,high,short,female,Obrien
+Bearded Collie,18359.8765,52.9004,13.0826,high,high,med,male,Carpenter
+Samoyed,12631.0898,56.2266,10.6549,med,high,med,female,Ramirez
+Amstaff,21691.3017,46.3961,13.2451,med,high,short,male,Gentry
+Bearded Collie,22713.5745,49.7208,13.7297,high,high,long,male,Morrow
+Amstaff,29589.5414,,11.7916,med,high,short,female,Thompson
+Bearded Collie,17694.0802,54.6142,12.6203,high,high,long,female,Young
+Airedale Terrier,19876.3636,56.3934,10.2043,high,high,med,female,Bowers
+Amstaff,24872.4416,45.2038,13.972,med,high,short,female,Brown
+Airedale Terrier,21508.5195,57.3214,11.2774,high,high,med,female,Moore
+Bearded Collie,20120.0778,,13.29,high,high,med,male,Juarez
+Samoyed,22780.0209,54.9563,10.5198,med,high,med,male,Gonzalez
+Airedale Terrier,21038.2821,57.3447,9.8123,high,med,long,male,Cline
+Bearded Collie,25542.9732,52.152,13.2983,med,high,long,female,Becker
+Samoyed,18738.0115,51.6266,10.5414,med,high,med,male,Dominguez
+Samoyed,19800.444,51.5352,10.8155,high,high,med,male,Brown
+Amstaff,32400.3913,46.5202,13.0992,med,high,short,female,Jones
+Samoyed,20156.9568,53.3981,11.3087,med,high,long,female,Davis
+Amstaff,20831.8587,46.0768,12.994,med,high,short,female,Mathews
+Samoyed,25389.9263,,12.1886,med,high,med,female,Clark
+Bearded Collie,27682.3134,50.4026,11.9353,high,high,long,female,Morales
+Bearded Collie,21049.406,52.3588,13.2596,high,high,long,female,Butler
+Samoyed,23154.2639,53.4866,10.4559,low,high,med,male,Davis
+Airedale Terrier,21058.5569,56.54,10.7834,high,high,med,female,Adams
+Amstaff,26341.5212,46.3393,12.8074,med,high,short,male,Stephanie
+Samoyed,20293.9145,52.0725,10.5168,med,high,short,male,Mills
+Amstaff,26653.4339,46.2396,13.5874,low,high,short,female,Burgess
+Samoyed,22095.3583,55.0138,11.333,med,high,med,male,Leonard
+Airedale Terrier,20441.9071,56.5672,11.295,high,high,med,male,Palmer
+Bearded Collie,24914.9465,52.2098,13.5229,high,high,med,male,Williams
+Airedale Terrier,19910.5778,56.8886,11.5002,high,high,med,female,Shaw
+Bearded Collie,24201.827,56.1369,13.0871,med,high,long,female,Bean
+Samoyed,24722.5604,,10.839,med,high,med,female,Brady
+Airedale Terrier,19592.374,57.7669,11.3272,med,high,med,male,Carter
+Samoyed,21438.8635,,10.0745,med,high,med,female,Baker
+Bearded Collie,20954.2979,52.7254,13.3986,high,high,long,male,Thomas
+Airedale Terrier,20192.2836,,11.4945,high,med,short,male,Patrick
+Airedale Terrier,18581.5235,56.9835,10.4954,high,high,med,female,Hernandez
+Bearded Collie,23364.3291,54.0947,12.4077,high,high,long,male,Williams
+Bearded Collie,19781.4693,51.7018,14.0693,high,high,long,male,Gray
+Samoyed,25598.9742,53.4218,11.6106,med,high,long,female,Barron
+Airedale Terrier,22293.4638,56.4526,12.8326,high,med,med,female,House
+Airedale Terrier,18630.1402,57.3389,10.8162,high,high,short,male,Jenkins
+Bearded Collie,19739.5358,51.6445,12.588,high,high,long,male,Moore
+Amstaff,30034.5532,45.8671,12.6804,med,high,short,male,Harding
+Airedale Terrier,21881.839,56.985,11.9213,high,high,med,female,Garcia
+Samoyed,28113.7188,50.423,9.502,med,high,med,male,Peterson
+Airedale Terrier,21009.3969,57.4856,10.3777,high,high,med,female,Smith
+Airedale Terrier,20524.9127,,12.1816,high,med,med,female,Robinson
+Airedale Terrier,20023.2766,57.4473,11.9679,high,high,short,female,Wells
+Bearded Collie,19715.5305,55.4105,12.5085,high,high,long,male,Dunn
+Airedale Terrier,20536.7298,,11.5057,high,high,med,male,Smith
+Amstaff,23018.1668,45.6631,13.1412,med,high,med,female,Mills
+Amstaff,23777.7262,,12.3342,low,high,short,male,Boyle
+Airedale Terrier,22594.9973,,11.8324,high,high,med,female,Pratt
+Amstaff,29253.839,46.4205,12.6955,med,high,short,female,King
+Amstaff,29572.9893,45.5738,13.0216,med,high,short,female,Morales
+Samoyed,20680.8464,52.4091,10.2154,med,high,med,male,Allen
+Amstaff,24518.9844,46.5959,13.6763,med,high,short,female,Miller
+Bearded Collie,25278.6931,51.2927,13.0835,high,high,long,male,Mejia
+Airedale Terrier,21882.6785,57.4457,11.5381,high,high,med,male,Johnson
+Bearded Collie,26669.3455,54.0537,13.8052,high,high,long,male,Martin
+Airedale Terrier,19571.3504,57.8695,11.8272,high,high,med,female,Lane
+Airedale Terrier,21241.5944,57.7539,9.9628,high,high,med,female,Crawford
+Airedale Terrier,24772.5413,56.5361,13.1905,high,high,med,female,Bennett
+Amstaff,31590.9806,,14.2131,med,high,short,female,Wells
+Amstaff,28495.4514,45.8619,12.3431,med,high,short,female,Kim
+Bearded Collie,21650.3335,52.5413,12.7812,high,high,long,male,Barnes
+Airedale Terrier,20023.5387,56.8733,11.5478,med,high,med,male,Diaz
+Airedale Terrier,19082.8195,57.4005,12.591,high,high,med,female,Villarreal
+Airedale Terrier,21504.0626,56.0365,12.1152,high,high,med,female,Jackson
+Samoyed,14853.2572,56.4264,11.2811,med,med,long,male,David
+Airedale Terrier,19367.5444,56.7222,9.8524,high,high,med,female,Smith
+Amstaff,28249.8487,46.4783,13.4973,high,high,short,female,Jones
+Amstaff,30047.3948,45.3811,12.0388,med,high,short,male,Woodard
+Airedale Terrier,19051.6594,,11.5578,high,high,med,male,Orr
+Amstaff,27392.4997,45.491,12.6022,high,high,short,male,Franklin
+Amstaff,29255.7013,,13.251,med,high,short,female,Townsend
+Airedale Terrier,20418.0236,58.0034,11.9226,high,high,short,male,Wright
+Amstaff,28633.9915,44.9874,12.3411,med,high,short,female,Little
+Amstaff,23467.8206,46.718,13.1546,med,high,short,female,Wilson
+Samoyed,23091.2358,54.3001,10.6231,med,high,med,male,Clark
+Amstaff,30022.1142,46.2291,13.5966,med,high,short,female,Butler
+Samoyed,26307.1819,50.9678,11.1562,low,high,med,male,Kennedy
+Amstaff,27742.8275,47.2591,12.8818,med,high,short,female,Murray
+Airedale Terrier,20741.4623,56.7611,11.2932,high,high,med,female,Jimenez
+Samoyed,16255.5663,,12.1611,med,high,med,female,Simmons
+Airedale Terrier,19946.5858,58.1056,12.0128,high,med,med,female,Burns
+Airedale Terrier,20027.7308,,11.8128,high,high,med,female,Gomez
+Amstaff,27898.0939,45.7178,13.3051,med,high,short,male,Patel
+Amstaff,24608.5827,,13.1225,med,high,med,female,Cobb
+Samoyed,27222.605,55.4389,10.669,med,high,long,female,Evans
+Amstaff,20103.4371,45.8328,12.5132,med,high,short,male,Burton
+Amstaff,24955.7214,,12.9708,med,high,short,male,Neal
+Airedale Terrier,20537.0157,58.6384,9.2525,high,high,med,male,Jenkins
+Amstaff,25177.5634,46.7043,13.78,med,high,short,male,Jones
+Amstaff,29464.2725,46.1503,13.7706,med,high,short,female,Wilson
+Bearded Collie,25634.5933,,14.3296,high,high,long,female,Moore
+Bearded Collie,26814.8336,50.417,12.9378,high,med,long,female,White
+Bearded Collie,22218.024,51.8792,13.5305,med,high,long,male,Park
+Samoyed,24139.6852,,10.7004,low,high,med,female,Winters
+Amstaff,32765.4524,45.4529,12.7084,med,high,short,male,Johnson
+Samoyed,24453.756,53.7781,10.9777,med,high,long,male,Harvey
+Airedale Terrier,17986.0564,57.054,11.8286,high,med,med,female,Guerrero
+Airedale Terrier,21318.2736,57.6758,11.339,high,high,med,male,Vincent
+Samoyed,20235.5005,,10.931,med,high,med,male,Fernandez
+Amstaff,24265.7141,45.1187,12.8432,med,high,short,male,Gray
+Samoyed,15923.4058,54.1946,11.1524,med,high,med,male,Jackson
+Airedale Terrier,20039.555,56.2616,12.2412,high,high,med,female,Gomez
+Bearded Collie,25271.2556,49.8942,13.2666,high,high,long,male,Jackson
+Airedale Terrier,18853.3171,57.0247,12.7004,high,high,med,female,Schultz
+Bearded Collie,23018.9181,52.512,13.2604,high,high,long,female,Prince
+Samoyed,22607.5672,51.2874,9.8754,med,med,short,female,Schmidt
+Samoyed,22582.1862,,11.1224,med,high,long,female,Hawkins
+Amstaff,26010.2798,45.3106,12.6406,med,high,short,female,Jenkins
+Amstaff,28846.7594,45.6479,12.5039,low,high,short,female,Torres
+Bearded Collie,22227.3602,54.4962,13.5807,high,high,long,male,Mitchell
+Airedale Terrier,18373.4523,56.5343,12.263,high,high,med,female,Johnson
+Amstaff,23409.854,45.1977,12.9008,med,high,short,male,Garcia
+Airedale Terrier,22428.4555,,11.042,high,high,med,female,Hunter
+Amstaff,25291.7435,46.752,12.8471,med,high,short,male,Ruiz
+Bearded Collie,21362.7772,55.6421,13.1603,high,high,long,male,Sanchez
+Amstaff,32220.0806,,12.7618,low,high,short,female,Reyes
+Bearded Collie,25683.9014,53.12,13.5614,high,high,long,female,Boone
+Samoyed,21160.8137,,10.2622,med,high,long,female,Petersen
+Bearded Collie,21915.4024,52.8818,12.3171,high,high,long,female,Morrison
+Samoyed,23256.7831,49.7487,12.1196,med,high,med,male,Gonzalez
+Samoyed,24498.5346,,11.0444,med,high,med,female,Le
+Bearded Collie,23064.0289,54.6634,12.5536,high,high,long,female,Flores
+Samoyed,19513.3007,53.3179,10.9603,high,high,med,female,Bowman
+Samoyed,26227.1251,52.2125,11.4269,med,high,med,female,Arias
+Samoyed,16734.1819,54.573,10.7796,low,high,long,female,Armstrong
+Samoyed,17028.398,52.823,10.075,med,high,med,female,Ryan
+Samoyed,25495.5527,54.9845,12.3823,med,high,med,male,Miller
+Samoyed,18607.0685,50.1915,11.75,high,high,long,female,Wang
+Amstaff,26372.8995,45.5166,14.5081,med,high,short,male,Wilcox
+Bearded Collie,22059.3085,,13.347,high,high,long,female,Hudson
+Bearded Collie,26070.4424,56.8,13.0085,high,high,long,male,Gates
+Airedale Terrier,20939.7194,56.9681,11.1468,high,high,med,male,Peggy
+Airedale Terrier,20642.5176,57.0803,10.9833,high,high,med,male,Brown
+Airedale Terrier,21029.8651,57.0503,11.2186,high,high,med,female,Huang
+Samoyed,22692.6607,52.7329,10.9126,med,high,short,female,Howell
+Airedale Terrier,23090.7773,57.1414,13.2796,high,high,med,female,Smith
+Samoyed,25774.8354,,11.8668,high,high,short,male,Young
+Bearded Collie,21974.7827,51.0786,11.8955,high,high,long,female,Stewart
+Samoyed,23958.9372,,10.6202,med,high,med,female,Pratt
+Bearded Collie,23042.9651,,13.3519,high,high,long,female,Parker
+Bearded Collie,28780.5319,48.9015,12.1975,high,high,long,male,Olson
+Samoyed,17419.506,56.3755,10.8745,med,med,med,male,Allen
+Samoyed,16329.9762,54.5275,11.5869,med,high,med,male,Hull
+Samoyed,19511.2824,56.3632,11.4215,low,med,med,female,Hogan
+Bearded Collie,21585.4063,53.217,12.4637,high,high,long,female,Thomas
+Airedale Terrier,18875.036,56.5849,11.7645,high,med,med,male,Adams
+Samoyed,16680.9083,52.3714,11.0197,med,high,med,male,Santiago
+Bearded Collie,21339.1546,52.0248,12.6691,high,med,long,male,Gonzalez
+Amstaff,21549.633,46.426,12.0977,med,high,short,male,Oliver
+Amstaff,25621.4496,47.2068,12.0716,med,high,short,male,Adams
+Bearded Collie,18670.5042,57.1021,12.8575,high,high,long,female,Frazier
+Amstaff,27883.5183,46.9105,12.3195,high,high,short,male,Marshall
+Airedale Terrier,23516.9332,56.4996,11.542,high,high,med,male,Chavez
+Airedale Terrier,21281.3683,,12.4406,high,high,med,male,Leon
+Airedale Terrier,20079.5202,56.3066,11.8066,high,med,med,male,Garcia
+Amstaff,24444.8897,45.5794,13.2631,med,high,short,male,Jimenez
+Bearded Collie,28188.5357,51.9346,13.1917,high,high,med,female,Hall
+Airedale Terrier,21721.8791,56.6138,10.9601,high,high,long,male,Alvarez
+Samoyed,21175.0463,,11.6055,med,high,med,female,Morales
+Airedale Terrier,21032.0031,58.3499,11.4373,high,high,med,male,Morgan
+Samoyed,23342.6707,55.8741,10.8934,med,high,med,male,Berger
+Samoyed,27542.9586,54.1,10.6725,med,high,med,female,Livingston
+Bearded Collie,25102.4933,53.8529,13.8212,high,high,long,male,Melissa
+Airedale Terrier,20239.0633,58.3882,11.8776,high,high,med,male,Fernandez
+Bearded Collie,22559.0383,53.6679,12.6607,high,high,long,female,Hartman
+Samoyed,12100.8533,53.4512,10.6561,med,high,med,male,Armstrong
+Bearded Collie,24442.9071,52.79,13.0668,high,med,long,male,Friedman
+Airedale Terrier,21844.3218,57.5277,9.6749,high,med,long,male,Stephens
+Amstaff,19677.7622,46.608,12.3535,med,med,short,female,Phillips
+Airedale Terrier,18411.5429,57.0122,11.4906,high,high,med,female,Clarke
+Samoyed,19425.4847,,10.7369,low,high,med,male,Nash
+Airedale Terrier,20843.9048,57.6281,11.3233,high,high,med,male,Parker
+Amstaff,29676.5485,46.4871,12.8431,high,high,short,male,Miller
+Bearded Collie,20279.5185,51.4396,13.2879,med,high,long,female,Harrington
+Bearded Collie,18956.97,54.7895,12.8888,high,high,long,female,Webb
+Bearded Collie,21653.9287,,13.1173,high,high,long,male,Owen
+Samoyed,27513.3873,,10.8491,med,high,med,female,Dougherty
+Airedale Terrier,19327.5183,,11.3436,high,high,med,female,Rivas
+Airedale Terrier,21626.055,,13.2986,high,high,med,female,Green
+Bearded Collie,23947.3585,52.6836,12.4754,high,high,long,female,Campbell
+Airedale Terrier,19418.2692,,11.3015,high,med,med,male,Nunez
+Bearded Collie,23955.5066,51.6841,12.2686,high,high,long,male,Brittney
+Samoyed,27133.4516,51.7271,10.7757,med,high,med,male,Alexander
+Airedale Terrier,19251.5864,,10.3532,high,high,long,male,Garcia
+Airedale Terrier,20529.9178,56.5521,11.4257,high,med,short,male,Murphy
+Samoyed,21522.6398,54.9662,11.4842,med,high,med,male,Miller
+Samoyed,19746.2639,52.3701,11.458,med,high,short,male,Bell
+Bearded Collie,22263.2742,52.7157,13.0919,high,high,long,male,Daugherty
+Amstaff,28634.9154,46.4373,13.1706,med,high,short,female,Burton
+Bearded Collie,21196.816,49.5167,12.7289,high,high,long,male,Buckley
+Bearded Collie,20820.2824,53.1787,13.6606,high,high,long,male,Warren
+Airedale Terrier,19447.7234,,10.4967,high,high,med,female,Conner
+Samoyed,19006.1942,,10.2916,high,high,med,female,Montgomery
+Airedale Terrier,19710.8771,,9.6048,high,high,med,male,Brown
+Airedale Terrier,20652.4536,58.2967,12.8137,med,high,long,male,Park
+Samoyed,23359.4947,52.9201,10.2351,low,high,med,male,Navarro
+Amstaff,27923.8042,45.8701,13.4318,low,high,short,female,Garcia
+Airedale Terrier,20561.8878,56.8121,11.0904,high,high,med,female,Arnold
+Amstaff,27378.6107,45.8754,13.0308,high,high,short,male,Mendoza
+Amstaff,20201.3467,46.3545,12.7407,med,high,short,male,Scott
+Samoyed,22796.3518,56.1442,10.3314,med,high,med,male,Harris
+Samoyed,23828.81,,10.58,med,high,med,female,Garrison
+Samoyed,20789.3726,54.3386,11.1953,high,high,med,female,Peterson
+Bearded Collie,24288.2062,53.6896,12.534,high,high,long,female,Carlson
+Amstaff,29109.0172,,12.5254,med,high,short,male,Ramirez
+Airedale Terrier,19859.3346,,10.9823,high,high,med,female,White
+Samoyed,19449.0025,55.4775,11.0808,med,high,med,female,George
+Airedale Terrier,20582.6236,,12.6253,high,med,med,female,Poole
+Samoyed,25938.8977,54.2038,9.6724,med,high,med,female,Amanda
+Amstaff,25298.7047,46.1614,11.8437,high,high,short,female,Nguyen
+Amstaff,30648.6324,44.9547,13.0199,med,high,short,male,Sullivan
+Bearded Collie,22702.6549,54.8602,12.0336,high,high,long,female,Hernandez
+Amstaff,24645.3243,46.0936,13.0076,med,high,short,male,Mckinney
+Samoyed,20762.9647,53.3644,11.6544,med,high,short,female,Gonzalez
+Samoyed,23252.9697,53.7487,11.6096,med,high,med,female,Gray
+Samoyed,18105.8637,50.1746,11.4161,low,high,med,female,Ward
+Samoyed,24668.7883,54.9385,10.255,med,high,short,female,Hinton
+Samoyed,25590.0186,52.0314,10.1416,med,high,med,male,Bryant
+Bearded Collie,25129.4382,51.1882,12.923,high,high,long,male,Baldwin
+Amstaff,26137.5619,44.3632,12.8622,med,high,short,female,Davis
+Amstaff,24278.9312,45.7627,11.9475,med,high,short,male,Kelley
+Bearded Collie,25309.1749,52.2594,14.6735,high,high,long,female,Barry
+Amstaff,18181.8106,46.1483,13.2579,med,high,med,female,Maddox
+Bearded Collie,24844.4263,53.7663,12.8334,high,med,long,female,Williams
+Samoyed,18679.4123,54.5188,11.3404,med,high,med,male,Reeves
+Amstaff,28214.8402,45.304,12.6044,med,high,short,male,Clayton
+Bearded Collie,28828.2422,53.4677,12.7509,high,high,long,male,Allen
+Amstaff,23473.0405,46.9158,12.6278,med,high,short,male,Hall
+Bearded Collie,21498.9397,53.1105,11.7012,med,high,long,female,Spencer
+Amstaff,22618.1714,,12.5988,med,med,short,female,Reed
+Bearded Collie,23951.0657,52.4778,13.0328,high,high,med,female,Johnson
+Airedale Terrier,20182.0297,57.252,12.6992,high,high,med,male,Stewart
+Samoyed,25583.5935,52.808,11.7157,low,high,med,male,Herrera
+Airedale Terrier,19908.9896,56.7542,12.3692,med,med,long,female,Hayes
+Bearded Collie,24593.6798,51.7095,13.1114,high,high,med,female,Frey
+Amstaff,29832.7022,46.8201,12.6311,med,med,short,female,Roy
+Bearded Collie,24950.8123,51.7659,12.3817,high,high,long,male,Jones
+Samoyed,29629.1105,54.5818,11.2008,med,high,med,female,Richards
+Amstaff,23715.1449,46.0082,13.644,med,high,short,male,Moss
+Bearded Collie,15024.9584,50.5579,12.2406,high,high,long,male,Willis
+Samoyed,20614.8993,53.1191,10.9849,low,high,med,male,Kemp
+Amstaff,29389.9105,,12.1866,med,high,short,male,Day
+Airedale Terrier,18322.2244,56.3812,11.794,high,high,med,male,Vasquez
+Amstaff,29177.5029,,13.2578,med,high,short,female,Parker
+Samoyed,26020.9996,,10.857,high,med,med,female,Butler
+Samoyed,23627.5245,53.5734,10.6149,low,high,short,female,Meyer
+Bearded Collie,24519.1499,49.7944,13.1382,high,med,long,female,Brown
+Samoyed,22115.5373,54.1679,12.1147,med,high,med,male,Henry
+Bearded Collie,19907.6753,53.3456,13.75,high,high,med,female,Thompson
+Bearded Collie,23120.5256,51.5656,12.7439,high,high,med,female,Clements
+Amstaff,26718.6252,46.1298,11.9669,med,high,med,male,Sanchez
+Amstaff,24802.1143,44.9093,13.6543,med,high,short,female,Wolf
+Amstaff,25118.867,45.6162,12.3441,med,med,short,female,Kristi
+Amstaff,26417.245,45.0038,12.493,med,high,med,female,Rodriguez
+Amstaff,19520.8004,46.8668,12.8549,med,med,short,female,Mcdaniel
+Samoyed,23813.8592,54.0259,11.0943,high,high,med,female,Henderson
+Samoyed,26511.0695,53.5937,9.7049,med,high,med,male,Williams
+Airedale Terrier,21299.4165,,12.5897,high,high,med,female,Thomas
+Samoyed,22518.8337,54.313,11.7061,med,med,med,male,Weber
+Samoyed,24473.1939,54.0675,10.5116,med,high,med,female,Wolfe
+Amstaff,29930.625,,14.1428,med,high,short,female,Williams
+Samoyed,26421.5907,53.1542,11.1427,med,high,med,female,Collins
+Amstaff,22429.1779,45.5617,13.4549,med,high,short,female,Rose
+Amstaff,21947.6606,46.1941,14.2798,med,high,short,male,Hill
+Samoyed,31823.0785,53.7799,10.2331,high,high,med,female,Brown
+Airedale Terrier,23862.7596,,10.7203,high,high,med,male,Carr
+Airedale Terrier,21358.5803,58.0052,11.0156,high,high,med,female,Murphy
+Bearded Collie,27193.885,51.1954,13.0695,high,high,long,male,Williams
+Bearded Collie,25198.7672,51.6938,12.369,high,med,long,female,Rosario
+Bearded Collie,24154.7384,54.3423,12.7825,high,high,long,male,Stout
+Airedale Terrier,19964.9016,56.2051,12.882,high,high,short,female,Garcia
+Airedale Terrier,19502.4863,55.3706,13.1785,high,high,med,female,Baldwin
+Bearded Collie,27099.1768,51.6993,12.0871,high,high,long,male,Cameron
+Samoyed,26378.2829,54.6541,11.5034,med,high,med,female,Arroyo
+Samoyed,25886.3848,,11.4528,med,high,med,female,Thomas
+Amstaff,25139.3831,,12.2739,med,med,short,female,Blevins
+Samoyed,25124.4322,53.6332,11.7146,med,high,med,female,Ashley
+Bearded Collie,24278.4208,52.9946,13.2293,high,high,long,male,Fox
+Samoyed,18271.6246,52.046,11.2006,med,high,short,female,Wright
+Samoyed,25296.7321,52.8414,10.4775,med,high,med,female,Gallagher
+Airedale Terrier,21555.488,,11.8525,high,high,med,female,Cole
+Bearded Collie,19858.5437,52.552,13.4321,high,high,long,male,Thompson
+Amstaff,23656.3181,,13.3865,med,med,short,male,Parker
+Samoyed,28750.5308,54.246,10.791,high,high,med,male,Hull
+Samoyed,21636.2712,,10.3967,med,high,short,female,Lewis
+Amstaff,23730.7978,46.1699,11.8161,med,high,short,female,Conner
+Amstaff,31596.1433,45.5919,13.381,med,high,short,male,Willis
+Samoyed,22517.2279,54.3613,11.149,med,high,med,male,Jones
+Airedale Terrier,19965.0172,57.6528,11.6457,high,high,short,female,Jamie
+Amstaff,20683.7473,46.3405,12.6778,med,high,short,male,Rodriguez
+Amstaff,19271.1344,45.3958,12.646,med,high,short,female,Wade
+Samoyed,19010.9693,54.5664,11.5419,low,high,med,male,Turner
+Airedale Terrier,20326.6038,,12.2674,high,high,med,male,Hood
+Bearded Collie,23933.9456,53.1322,13.1904,high,high,med,female,Mccarthy
+Airedale Terrier,21024.1916,57.6248,12.1977,med,high,med,male,Horn
+Amstaff,30411.8095,45.8122,13.3607,med,high,short,male,Lewis
+Samoyed,21830.3971,,10.6469,med,high,short,female,Wright
+Bearded Collie,24521.3662,50.3244,13.6755,high,high,long,female,Haynes
+Samoyed,18352.4221,53.4522,9.9119,med,high,med,female,Perez
+Bearded Collie,22063.4173,,11.853,high,high,long,male,Rowe
+Amstaff,20038.164,,14.038,high,high,short,female,Walsh
+Samoyed,22765.0038,,10.817,med,high,short,female,Meyers
+Samoyed,29705.7131,52.7454,11.5521,med,high,short,male,Carter
+Airedale Terrier,21589.8706,,12.6762,high,high,med,male,Vazquez
+Samoyed,27468.6979,52.0487,10.1707,med,high,med,female,Keller
+Samoyed,20681.0835,54.477,10.9856,med,med,short,female,Flores
+Airedale Terrier,22756.519,57.2015,10.3511,high,high,med,female,Holland
+Amstaff,26962.7915,46.015,12.145,med,high,short,male,Wilson
+Amstaff,25414.8462,,12.7564,med,high,short,female,Jackson
+Amstaff,27781.8973,45.5806,12.4887,med,high,short,female,Campbell
+Airedale Terrier,21079.1793,57.1284,12.7103,high,high,med,female,Martinez
+Amstaff,29159.9932,46.2268,12.7274,med,high,short,female,Oneill
+Bearded Collie,21632.0068,52.8199,13.1088,high,high,long,female,Lambert
+Airedale Terrier,20191.1049,56.5454,13.5786,high,high,med,female,Thompson
+Bearded Collie,25036.3428,54.4015,12.4788,med,high,long,female,Leach
+Amstaff,28974.1367,46.1322,13.8535,med,high,med,male,Banks
+Samoyed,26639.191,,10.9808,med,high,long,male,Smith
+Amstaff,22699.9461,,13.5769,med,high,short,female,Hall
+Bearded Collie,21807.5035,49.5629,13.18,high,high,long,female,Carter
+Amstaff,29379.2832,45.9457,13.7785,med,high,short,male,Taylor
+Amstaff,27941.0584,,13.7356,high,high,short,male,Fuller
+Airedale Terrier,20235.5874,,11.1028,high,high,med,male,Tyler
+Airedale Terrier,18525.5662,56.1118,9.7053,high,high,med,female,Lewis
+Amstaff,23037.0201,45.3095,13.1311,med,high,med,male,Johnson
+Bearded Collie,28666.7567,51.6554,14.2592,high,high,long,male,Harris
+Airedale Terrier,17448.5805,,11.2352,high,high,med,female,Baker
+Amstaff,22177.4025,46.5099,13.8086,low,high,short,female,Stone
+Amstaff,25090.5647,46.1905,12.9658,med,high,short,female,Hernandez
+Bearded Collie,26242.894,51.2171,13.0187,high,high,long,female,Castro
+Airedale Terrier,19512.4508,58.0719,10.9127,high,high,med,female,Lewis
+Amstaff,24856.4047,45.5778,13.2098,med,high,short,male,Marks
+Amstaff,23647.2383,46.4973,12.6163,low,high,short,male,Jones
+Airedale Terrier,18917.3533,57.9047,11.1576,high,med,short,male,Gomez
+Bearded Collie,26089.5281,52.8953,12.8278,high,high,med,male,Hudson
+Airedale Terrier,17843.5085,57.5418,12.3775,med,high,med,female,Williams
+Amstaff,31280.5739,46.3521,13.94,med,high,short,female,Friedman
+Samoyed,25564.8506,53.6825,10.4022,med,high,med,female,Martin
+Bearded Collie,22069.9461,,12.7847,high,high,long,female,Cowan
+Bearded Collie,22742.419,53.2501,12.601,high,high,long,female,Stanley
+Bearded Collie,18561.7358,,13.4686,high,high,long,female,Patrick
+Samoyed,21716.4023,55.0574,9.984,med,high,med,female,Baker
+Bearded Collie,23087.0983,53.3147,13.2793,high,high,long,male,Le
+Amstaff,25551.5728,45.555,12.741,med,med,short,female,Medina
+Samoyed,18992.7674,53.3767,10.8753,low,med,med,female,Zuniga
+Amstaff,23166.0959,,12.9096,med,high,short,male,Ford
+Airedale Terrier,20546.7858,,12.1171,high,high,med,female,Smith
+Airedale Terrier,16972.7272,57.3622,10.973,high,high,long,male,Smith
+Airedale Terrier,20183.871,57.1321,11.3316,high,med,med,female,Blankenship
+Samoyed,18632.2304,54.4673,10.7395,med,high,med,male,Pearson
+Airedale Terrier,21387.5638,56.6517,11.4787,high,med,med,female,Clark
+Amstaff,20941.103,44.5812,12.8196,med,high,short,male,Mathews
+Airedale Terrier,18708.9776,56.579,10.6967,high,high,med,male,Mcintyre
+Bearded Collie,21995.6036,50.2782,14.1722,high,high,long,male,Thomas
+Bearded Collie,25677.3948,54.5822,13.4345,high,med,long,female,Thomas
+Amstaff,25587.2462,45.6785,12.6206,low,high,short,male,Vasquez
+Bearded Collie,23094.5134,52.4902,14.4018,high,high,long,male,Marshall
+Samoyed,20594.1152,51.4805,11.7732,med,high,med,male,Erickson
+Amstaff,26330.9062,,12.6587,med,high,short,female,Lewis
+Amstaff,22077.4356,46.5686,12.7346,med,high,short,female,Dunn
+Amstaff,28581.1981,45.3158,13.8682,med,high,short,female,Byrd
+Amstaff,28551.6916,,13.1898,med,high,short,female,Baker
+Bearded Collie,19276.3265,53.8939,13.8744,high,high,long,female,Lewis
+Samoyed,18036.5605,,11.7694,med,high,med,male,Chapman
+Samoyed,23879.2616,,11.8703,high,high,med,female,Hansen
+Samoyed,18852.1501,54.7058,11.6076,med,high,med,male,Ward
+Amstaff,21939.0893,45.8316,12.9663,med,high,short,female,Kerr
+Bearded Collie,23109.8911,51.6202,12.5349,high,high,med,male,Jackson
+Airedale Terrier,23098.3614,56.9499,11.2967,high,high,med,female,Estrada
+Bearded Collie,18213.3317,49.9823,12.6893,high,high,long,female,Stone
+Samoyed,21371.5977,53.8561,11.0669,med,high,long,female,Murphy
+Samoyed,24834.7161,53.7002,11.1794,med,high,med,male,Berger
+Amstaff,22136.8482,,13.0371,med,high,short,male,Blair
+Airedale Terrier,21164.9175,,11.2941,high,high,long,male,Bowers
+Bearded Collie,25630.5686,52.4766,13.1293,high,high,long,female,Mcknight
+Bearded Collie,22893.5864,54.1994,13.5184,high,high,long,male,Pruitt
+Samoyed,29690.718,,10.61,med,high,long,female,Gomez
+Samoyed,20454.3495,50.3654,10.755,med,high,med,male,Bowen
+Airedale Terrier,20393.9736,57.4144,11.1475,high,high,med,female,Booth
+Amstaff,27289.2963,46.558,13.1798,med,med,med,male,Whitaker
+Bearded Collie,26462.5129,,13.392,high,high,long,female,Morton
+Amstaff,24330.0885,46.435,13.0371,med,high,short,female,Jones
+Samoyed,21494.9233,52.0218,10.0143,med,high,med,male,Smith
+Samoyed,26175.8645,54.4585,10.937,med,high,med,male,Johnson
+Amstaff,21229.9722,,13.5332,med,high,short,female,Lester
+Samoyed,25289.5422,54.7641,11.0492,low,high,med,male,Webster
+Amstaff,21650.3458,46.8524,13.1917,med,high,short,male,Perez
+Samoyed,25807.2464,54.0719,11.2944,med,high,med,female,Howard
+Samoyed,13395.5418,50.8549,11.253,med,high,long,male,Mckay
+Amstaff,23381.8308,45.719,14.8729,med,high,short,female,Gibson
+Samoyed,27519.5051,55.5438,10.2223,low,med,long,male,Mccoy
+Bearded Collie,17673.4809,51.3698,13.0647,high,high,long,male,Judy
+Amstaff,25584.2976,47.151,13.3323,med,high,short,male,Moses
+Bearded Collie,19983.5075,50.8495,13.415,high,high,med,female,Sexton
+Samoyed,21774.6746,55.0775,11.2681,med,high,med,female,Gallagher
+Samoyed,21348.4586,53.1862,11.0124,med,high,med,male,Mendez
+Bearded Collie,20223.5867,52.1784,13.2985,med,high,long,male,Jones
+Bearded Collie,20086.8938,,13.713,high,high,long,male,Alexander
+Airedale Terrier,18828.5336,57.0948,10.9677,high,high,med,male,Garrett
+Bearded Collie,21617.1259,53.28,12.8848,high,high,long,female,Bailey
+Bearded Collie,24090.9712,54.4282,12.97,high,high,long,female,Smith
+Bearded Collie,19812.9938,52.0355,12.8385,high,high,long,male,Burns
+Bearded Collie,20134.0936,52.9208,12.6143,high,high,long,male,Patterson
+Samoyed,21087.6786,54.6477,10.1497,med,high,short,female,Baker
+Samoyed,18731.6412,52.3949,11.1268,med,high,med,male,Wright
+Amstaff,29191.5861,46.9344,13.2286,med,high,short,female,Beck
+Airedale Terrier,20569.4426,58.2078,10.8388,med,high,med,male,Nguyen
+Amstaff,20841.7892,46.0228,12.559,med,med,short,female,Murray
+Amstaff,29305.8454,,12.8637,med,high,short,male,Clements
+Bearded Collie,26333.3027,56.0516,12.9371,med,high,med,male,Rogers
+Bearded Collie,20915.5538,54.8278,12.598,high,high,long,male,Thomas
+Bearded Collie,26464.4476,54.9457,11.8248,high,high,long,female,Martinez
+Airedale Terrier,21800.6035,56.4388,11.7096,high,high,med,female,Jones
+Airedale Terrier,20462.8912,56.0394,11.9736,high,high,med,female,Reynolds
+Airedale Terrier,21213.5597,,10.0118,med,high,med,male,Alvarado
+Amstaff,31025.2617,45.7898,13.1164,med,high,short,male,Fox
+Bearded Collie,21466.7212,,12.7509,high,med,long,male,Black
+Airedale Terrier,20873.1863,57.9219,9.8768,high,high,med,male,Brandon
+Amstaff,21605.5409,,13.2922,high,med,med,female,Hampton
+Airedale Terrier,21064.3622,57.0415,11.3407,high,high,long,female,Hughes
+Airedale Terrier,17848.6601,,13.5779,high,high,med,female,Davis
+Bearded Collie,17192.9304,53.3896,11.9294,high,med,long,female,Evans
+Bearded Collie,23629.042,53.4224,13.8769,high,high,long,female,Grimes
+Samoyed,23355.3834,53.8728,9.7302,high,high,med,male,Chavez
+Samoyed,17938.9924,53.7475,10.9428,high,high,long,male,Santos
+Amstaff,28646.1496,45.7288,13.3255,med,high,med,female,Williams
+Amstaff,23932.8003,46.6253,13.7292,high,high,short,female,Ramos
+Bearded Collie,22510.694,,12.6104,high,high,long,male,Hobbs
+Bearded Collie,18516.2162,53.5437,13.3986,high,high,long,male,Farmer
+Bearded Collie,24570.3441,,14.0445,high,high,long,male,Russell
+Bearded Collie,23476.3379,52.9433,12.3298,high,high,long,female,Sloan
+Airedale Terrier,22161.1109,57.8485,10.9745,high,high,med,female,Gardner
+Bearded Collie,26252.9167,53.9722,12.16,high,high,long,male,Thomas
+Bearded Collie,22349.2145,52.0684,13.3836,high,high,long,male,Shelton
+Amstaff,30285.2269,46.0682,12.5113,med,high,short,female,Cole
+Amstaff,23998.3627,45.9829,13.886,med,high,short,male,Mitchell
+Amstaff,27237.0063,45.0885,12.8154,med,high,med,female,Smith
+Bearded Collie,15580.8886,49.2424,13.2262,high,high,long,male,Gonzalez
+Airedale Terrier,20722.5545,56.6129,11.8019,high,high,med,male,Hart
+Bearded Collie,23758.788,54.3898,13.3372,high,high,long,male,Lamb
+Bearded Collie,24745.5338,,12.3732,high,high,med,male,Durham
+Amstaff,27691.6202,46.843,13.5258,med,high,med,male,Neal
+Amstaff,30103.2071,46.3468,12.5144,med,high,med,female,Pacheco
+Airedale Terrier,18507.5118,,10.5542,high,high,med,male,Gonzalez
+Bearded Collie,21109.9087,51.8779,12.7313,high,high,long,female,Holt
+Amstaff,24458.6594,45.6315,12.6907,med,high,med,male,Shaw
+Airedale Terrier,19623.9415,57.1214,12.9433,high,high,med,female,Greene
+Airedale Terrier,20202.6356,57.5813,11.4531,high,high,short,female,White
+Airedale Terrier,19594.2638,,10.5185,high,high,med,female,Hernandez
+Bearded Collie,17480.8868,55.2247,13.9162,high,med,long,female,Davis
+Amstaff,28667.1003,46.025,12.9939,med,high,short,male,Ramirez
+Bearded Collie,21260.896,55.9563,12.5103,high,high,long,female,Snyder
+Bearded Collie,25669.373,54.2582,13.3835,high,med,long,male,Harding
+Samoyed,20419.2979,51.7501,10.5513,low,high,med,female,Hendricks
+Airedale Terrier,21845.2587,57.6277,10.7791,high,high,med,female,Joseph
+Samoyed,27313.4095,58.2889,10.9352,med,high,med,male,Duran
+Bearded Collie,23910.5096,52.1103,12.818,high,high,long,male,Henderson
+Airedale Terrier,18812.7929,56.4418,10.185,high,high,med,female,Bailey
+Bearded Collie,29271.316,,13.1631,high,high,long,male,Kane
+Samoyed,16622.8311,53.2965,10.8358,high,high,short,male,Bishop
+Airedale Terrier,21380.158,57.4449,12.4453,high,high,long,male,Ross
+Airedale Terrier,20933.6101,,11.8144,med,high,med,male,Wood
+Amstaff,22073.6627,45.3488,12.8522,med,high,med,female,Garza
+Airedale Terrier,23388.2514,57.0416,11.6752,high,high,short,male,Miller
+Samoyed,16491.896,54.6892,10.3248,med,high,med,male,Spencer
+Amstaff,27183.5029,45.7524,13.6065,med,high,short,female,Clark
+Amstaff,28038.2636,,12.6912,med,high,short,female,Parker
+Airedale Terrier,19116.5181,57.8764,12.7232,high,high,med,male,Daniel
+Samoyed,26180.4878,51.2295,11.1392,med,high,med,female,Yu
+Airedale Terrier,20329.463,58.0389,11.201,high,high,short,female,Estes
+Samoyed,15116.3521,54.7305,10.7414,med,high,med,male,Garcia
+Samoyed,25013.5642,51.5888,11.1922,low,high,med,female,Haley
+Bearded Collie,25348.6896,54.9773,13.2148,high,high,long,male,Vega
+Amstaff,29360.2236,,13.5764,med,high,short,female,Gray
+Amstaff,26947.0093,46.3237,13.7164,med,high,short,female,Gray
+Airedale Terrier,21419.6944,,12.7321,high,high,med,female,Jimenez
+Amstaff,31246.1289,46.5895,13.1589,med,high,short,male,Blackburn
+Bearded Collie,23297.396,53.3463,12.8628,high,high,long,male,Green
+Amstaff,22904.7531,45.7535,12.6994,med,high,short,female,Evans
+Samoyed,17402.225,,11.3718,med,high,med,female,Mcguire
+Airedale Terrier,20336.327,56.6147,10.7558,high,high,med,male,Robinson
+Samoyed,18247.9922,52.9291,10.6533,low,high,med,male,Marquez
+Airedale Terrier,20508.3836,57.475,10.8569,high,high,med,female,Cohen
+Amstaff,27878.4538,46.6301,13.1794,med,high,short,female,Harrison
+Amstaff,23777.6559,45.9929,12.715,low,high,med,male,Love
+Samoyed,25984.7016,52.8418,10.8937,med,high,med,female,Green
+Amstaff,32373.4216,45.4381,13.56,med,high,short,male,Ayala
+Bearded Collie,22010.6402,53.1887,13.8038,high,high,long,male,Duran
+Samoyed,20369.7961,,10.6857,med,high,med,female,Howard
+Bearded Collie,21762.3751,50.0877,12.3037,high,high,long,male,Nunez
+Airedale Terrier,21996.6005,56.1508,12.4251,high,high,med,male,Kent
+Amstaff,24196.2829,44.7089,12.0154,med,med,short,male,Smith
+Bearded Collie,22864.8517,53.6322,12.3051,high,high,long,male,Hodge
+Amstaff,30731.5153,45.6511,12.3419,med,med,short,male,Rhodes
+Airedale Terrier,21292.6838,57.7416,11.9705,med,high,med,female,Jones
+Amstaff,26255.8774,46.3283,12.2267,med,high,short,female,Gonzalez
+Airedale Terrier,21955.7497,,11.7343,high,high,med,male,Scott
+Amstaff,20436.9497,,11.9994,med,high,short,male,Baker
+Samoyed,24622.2452,,10.4282,med,high,med,male,Pearson
+Airedale Terrier,20487.1957,56.1636,10.698,high,high,med,female,Sanders
+Samoyed,24370.5121,52.3128,11.1375,med,high,med,male,Griffin
+Bearded Collie,21967.7044,,12.9005,high,high,long,female,Walsh
+Amstaff,29955.6983,,12.7005,low,high,short,male,Mcdonald
+Samoyed,24116.9071,,10.4628,med,high,med,female,Bailey
+Bearded Collie,23939.9564,,12.7184,high,med,long,male,Crane
+Airedale Terrier,20987.9554,56.6785,12.396,high,high,short,female,Sharp
+Bearded Collie,26685.3256,53.3448,12.4207,high,high,long,male,Lee
+Samoyed,18561.5099,58.0503,10.8501,med,high,med,male,Rivas
+Samoyed,31855.7441,,10.3904,med,high,short,female,Alvarez
+Samoyed,27004.5955,53.8983,12.9431,med,high,med,male,Moore
+Samoyed,20493.4235,51.9768,11.1745,med,high,med,male,Stone
+Samoyed,22973.9563,53.1077,9.4847,med,high,med,male,Price
+Airedale Terrier,20033.0316,,8.8096,high,high,med,female,Watson
+Airedale Terrier,16762.4675,57.6414,11.4755,med,med,med,male,Gutierrez
+Bearded Collie,26595.9329,54.8122,13.4061,med,high,med,male,Mcdonald
+Airedale Terrier,19858.9934,,13.2906,high,high,long,female,Jones
+Airedale Terrier,18395.6036,58.0168,11.0126,med,high,med,male,Kirby
+Airedale Terrier,20722.3613,,11.3443,med,high,short,male,Rita
+Samoyed,18680.375,53.8794,11.0073,med,high,med,female,Mccarty
+Samoyed,23142.6781,51.1885,11.8508,med,high,med,male,Quinn
+Bearded Collie,21661.5194,54.0871,13.0611,high,high,long,female,Jordan
+Samoyed,19929.9546,52.238,10.7209,low,high,med,female,Rollins
+Amstaff,19740.9724,,12.0474,med,high,short,male,Curtis
+Amstaff,17949.4968,45.8673,13.2974,med,high,med,female,Blake
+Airedale Terrier,20109.961,57.1268,10.3075,med,high,med,female,Williams
+Samoyed,27799.5313,56.2012,10.9566,med,high,med,male,Ramos
+Airedale Terrier,20272.5232,56.0376,11.5228,high,high,long,male,Carson
+Samoyed,21113.9764,52.2955,11.1777,med,med,med,male,Moreno
+Samoyed,22195.9124,,11.51,med,high,med,female,Booth
+Amstaff,31124.0469,46.0556,11.8778,med,high,short,female,Carter
+Bearded Collie,17629.0979,50.6068,12.5274,high,high,long,male,Adkins
+Samoyed,22146.0769,51.9068,11.1802,med,high,med,male,Davis
+Bearded Collie,19688.6887,51.2973,12.63,med,high,long,female,Cummings
+Amstaff,24530.5265,47.2346,12.7874,med,high,short,female,Livingston
+Samoyed,21883.5355,52.9204,11.3903,med,high,med,female,Davenport
+Bearded Collie,25760.2642,54.9563,12.5384,high,high,long,female,Vaughn
+Airedale Terrier,20259.6989,56.26,12.2383,high,high,long,male,Martin
+Amstaff,20604.7921,,12.4926,med,high,short,male,Joseph
+Airedale Terrier,17852.174,56.575,12.2173,high,high,med,male,Walter
+Bearded Collie,23211.8626,54.5703,13.934,high,high,long,female,Brooks
+Airedale Terrier,19290.5284,57.1412,11.3567,high,high,med,male,Cox
+Amstaff,25519.3325,46.9389,13.1411,med,high,med,female,Fisher
+Airedale Terrier,21033.4593,56.0545,12.0126,med,high,med,male,Garcia
+Bearded Collie,25179.6277,54.9126,13.0957,high,high,long,female,Bond
+Airedale Terrier,20262.2127,57.2183,11.2396,high,high,med,female,Campbell
+Airedale Terrier,21203.4739,57.6512,11.709,high,high,med,male,Johnson
+Bearded Collie,26987.2991,52.8064,12.9866,high,med,long,female,James
+Bearded Collie,18325.997,,12.424,high,high,long,male,Mack
+Amstaff,26932.9723,45.8871,12.6244,med,high,short,female,Johnson
+Samoyed,24123.055,,11.2817,low,med,long,male,Hurst
+Airedale Terrier,21236.6043,,11.0324,high,high,long,female,Chavez
+Airedale Terrier,20207.3403,58.3675,10.8464,med,high,med,male,Wood
+Amstaff,28167.3403,,13.1687,med,high,short,female,Thomas
+Airedale Terrier,20225.403,56.4268,11.5734,high,high,med,female,Blair
+Airedale Terrier,20626.4783,56.5575,10.8942,high,high,med,male,Sandoval
+Samoyed,23653.0367,53.3498,11.1516,med,high,med,female,Lopez
+Samoyed,16973.9081,53.2902,10.3992,med,high,med,female,Hull
+Airedale Terrier,22059.1241,,12.6671,high,high,med,male,Bowman
+Bearded Collie,21795.9204,52.22,13.3593,high,high,long,male,Jackson
+Airedale Terrier,22408.8763,57.0613,12.5848,high,med,med,female,Preston
+Amstaff,22753.4486,45.4415,11.6427,med,high,short,male,Alvarez
+Samoyed,17903.8544,54.7164,11.1514,med,high,med,female,Reyes
+Amstaff,26873.8692,45.5,13.2943,med,high,med,female,Harris
+Samoyed,21849.4708,,10.2832,med,high,med,female,Wagner
+Bearded Collie,21666.1445,53.084,12.6738,med,high,long,male,Ellis
+Samoyed,22844.8548,51.5975,10.475,med,high,med,male,Morrow
+Bearded Collie,22772.8318,53.7853,11.9085,high,high,long,male,Mcintosh
+Airedale Terrier,20277.7762,57.4668,10.9258,high,high,med,male,Lozano
+Samoyed,22082.8521,53.807,11.3698,med,high,med,male,Johnson
+Samoyed,29251.717,53.7616,11.7798,med,high,med,male,Sandoval
+Bearded Collie,22418.9369,51.0512,12.3047,high,high,med,male,Miller
+Samoyed,27234.6681,,10.8368,low,high,med,female,Moore
+Amstaff,24735.1435,45.5923,12.9829,med,high,short,female,Taylor
+Samoyed,26528.092,54.4385,10.6871,med,high,med,male,Williams
+Samoyed,25936.2214,,11.0496,med,high,med,male,Durham
+Airedale Terrier,21145.0071,56.7205,11.5118,high,high,med,male,Barber
+Samoyed,21818.0223,52.1865,11.6077,high,high,med,female,Chavez
+Amstaff,31323.8988,,13.0947,med,high,short,male,Martin
+Bearded Collie,18548.4153,53.6177,12.5723,high,high,long,female,Fox
+Airedale Terrier,18986.9623,56.9854,12.4117,high,high,med,female,Holder
+Samoyed,18893.133,53.2307,10.9587,med,high,med,male,Jacobs
+Samoyed,23173.5846,54.514,10.2179,med,med,med,male,Roth
+Airedale Terrier,21706.534,,12.8535,high,high,med,female,Kim
+Bearded Collie,19685.2495,,12.0143,med,high,long,male,Myers
+Amstaff,24832.1916,47.1141,12.5516,med,high,short,male,Watson
+Bearded Collie,20981.418,51.297,12.6032,high,high,long,male,Miller
+Bearded Collie,20828.5908,52.6159,12.3718,high,high,long,male,Gomez
+Samoyed,15666.4464,50.4402,11.7903,low,high,med,female,Bell
+Airedale Terrier,20551.1714,56.7288,10.8476,high,high,med,male,Sloan
+Bearded Collie,19797.9105,,13.8165,high,high,long,male,Koch
+Airedale Terrier,20999.6095,56.7941,12.7898,med,high,med,female,Baker
+Amstaff,18089.5504,,12.3392,med,high,short,male,Hoover
+Airedale Terrier,21454.2403,57.3323,11.3774,high,high,med,female,Phillips
+Amstaff,25308.7241,45.2424,12.3506,low,high,short,female,Larson
+Bearded Collie,20792.9563,,13.3951,med,high,long,female,Jones
+Samoyed,27543.9925,52.7468,10.7242,high,high,med,female,Meadows
+Airedale Terrier,19223.9179,56.8203,12.7368,high,med,med,female,Clark
+Amstaff,21605.0111,45.5306,12.5254,med,high,short,male,Anderson
+Airedale Terrier,19792.6397,,11.4738,high,high,med,female,Mendez
+Airedale Terrier,20415.6755,,10.4489,high,high,med,male,Kirk
+Amstaff,29184.3998,46.5914,13.749,high,high,short,male,Thompson
+Amstaff,29586.2286,,12.5219,med,high,short,male,Cooper
+Samoyed,23520.5061,50.2724,11.0099,med,high,med,male,Cain
+Airedale Terrier,19880.6952,56.4102,12.0662,med,high,med,female,Johnson
+Bearded Collie,24639.1201,,12.7536,med,high,long,male,Day
+Amstaff,28548.0354,46.2091,12.6203,med,high,short,male,Davidson
+Amstaff,20062.6422,45.4566,14.5229,med,high,short,male,Jones
+Amstaff,22984.9852,45.5588,13.3279,med,high,short,male,Wright
+Amstaff,24895.1176,46.467,12.3567,med,high,med,male,Jensen
+Samoyed,18928.8737,54.6504,11.3663,med,high,med,male,Miller
+Amstaff,33123.1932,46.3597,13.2772,med,high,short,male,Hall
+Amstaff,27338.2037,,11.9929,med,high,short,female,Tyler
+Samoyed,24124.5509,51.3871,11.5727,med,high,med,male,Kaufman
+Amstaff,25771.3033,46.2865,13.4168,low,high,short,male,Watkins
+Bearded Collie,25972.888,55.3294,13.8574,med,high,long,male,Blackburn
+Amstaff,25594.4815,46.8936,13.266,med,med,short,female,Williams
+Airedale Terrier,22513.2999,,9.0146,high,high,short,female,Miller
+Bearded Collie,22274.9449,54.6848,13.4973,high,high,long,female,Lynch
+Airedale Terrier,22134.5482,56.3639,10.7522,high,high,med,male,Kim
+Samoyed,31085.8997,53.2162,11.0377,med,high,med,male,Rodriguez
+Samoyed,27302.4958,53.1956,11.5309,med,high,long,female,Steele
+Bearded Collie,25977.5658,54.5945,12.8968,med,high,long,female,Perez
+Bearded Collie,22210.5068,53.2649,12.701,high,high,long,female,Booker
+Airedale Terrier,20626.7746,56.3078,10.7324,high,high,med,male,Weaver
+Airedale Terrier,22613.0167,56.6397,11.6095,high,high,med,female,Thompson
+Amstaff,22020.7895,,12.3118,med,high,med,male,Shaw
+Airedale Terrier,20899.8722,57.0122,12.7925,high,high,med,male,Vazquez
+Amstaff,20524.5915,,13.8634,med,high,short,male,Lam
+Airedale Terrier,19794.7013,,12.2705,high,high,med,female,Smith
+Samoyed,27628.6173,51.8032,12.1056,high,med,med,male,Jackson
+Amstaff,22967.689,46.1379,12.5757,med,high,short,male,Crawford
+Samoyed,18068.0474,57.0147,10.9575,med,high,med,female,Estrada
+Samoyed,25296.1677,,10.143,med,high,med,female,Richmond
+Airedale Terrier,21151.2927,58.7357,10.9877,high,high,med,male,Johnston
+Airedale Terrier,23717.9766,,11.1934,high,med,short,male,Wilkinson
+Amstaff,22718.1307,46.6281,12.1828,med,high,med,female,Ingram
+Airedale Terrier,17476.3301,56.3277,12.8694,high,high,med,male,Palmer
+Amstaff,27560.4575,45.8833,11.9324,med,high,short,female,Lawson
+Airedale Terrier,21089.7188,56.4654,13.2672,high,high,med,male,Mclaughlin
+Amstaff,22083.3618,45.5915,12.6324,med,high,short,female,Mcdonald
+Amstaff,28848.6437,45.7471,13.1242,med,high,short,female,Booth
+Amstaff,32915.8776,46.0104,13.4515,med,high,short,female,Wade
+Samoyed,21346.6691,54.0193,11.6265,med,med,med,male,Glover
+Samoyed,34750.7835,53.2285,10.7459,high,high,med,female,Pennington
+Samoyed,23106.6917,,10.8568,high,high,med,female,Williams
+Samoyed,25195.499,51.1715,10.7651,high,high,med,female,Cline
+Amstaff,24309.0991,,12.6272,med,high,short,female,Norris
+Amstaff,25408.2065,45.243,11.7314,med,high,short,female,Pacheco
+Bearded Collie,24277.0595,52.8667,13.5235,high,high,long,male,Cole
+Bearded Collie,21960.952,50.8453,13.1982,high,high,long,female,Kelly
+Amstaff,21924.9651,,14.2727,med,med,short,male,Adams
+Airedale Terrier,19275.1938,56.2876,9.9722,high,high,med,female,Miller
+Bearded Collie,19435.6593,52.7342,11.8793,high,high,med,male,Becker
+Samoyed,16819.0381,54.2721,11.8328,low,high,med,female,Petersen
+Bearded Collie,25733.9399,,12.7628,high,med,long,male,Bond
+Bearded Collie,22929.3058,,12.5755,high,high,long,male,Weber
+Bearded Collie,23207.1443,,13.3057,high,high,long,female,West
+Bearded Collie,16335.2176,54.9387,14.072,high,high,long,female,Bush
+Airedale Terrier,21364.9332,56.1783,10.3388,high,high,med,male,Clark
+Airedale Terrier,17568.4168,56.6751,11.3498,high,high,med,female,Harrington
+Airedale Terrier,19143.4306,57.238,11.5498,high,high,short,female,Gamble
+Amstaff,27672.4243,,13.1207,med,high,short,male,King
+Samoyed,18737.3771,,9.824,med,med,med,male,Smith
+Bearded Collie,21630.9758,54.0808,12.6115,high,med,long,male,Lee
+Bearded Collie,21212.7578,51.7577,13.6654,high,high,long,male,Wright
+Amstaff,22594.3127,44.8351,12.598,high,high,short,female,Parsons
+Amstaff,24274.5243,,12.7101,med,high,short,female,Hansen
+Airedale Terrier,21712.7733,,10.4587,high,high,med,male,Keller
+Airedale Terrier,20482.3844,56.9345,11.1519,high,high,med,male,Ramirez
+Airedale Terrier,18969.3737,57.8975,10.6076,high,high,med,male,Johnson
+Samoyed,16840.4639,,11.057,med,high,short,female,Ford
+Bearded Collie,21825.6248,53.8445,13.2035,high,high,long,male,Wood
+Amstaff,24619.1399,46.3936,12.9111,med,high,short,male,Wood
+Samoyed,27155.4492,54.9522,11.2663,med,high,med,male,Hicks
+Amstaff,23194.889,,13.5701,med,high,short,male,Nunez
+Bearded Collie,21793.0314,53.3269,13.404,high,high,long,female,Short
+Bearded Collie,22108.9534,52.424,12.4599,high,high,long,male,Turner
+Samoyed,27190.4625,52.5336,11.1255,med,high,med,female,Brown
+Amstaff,23887.7639,46.2336,13.4555,med,high,short,male,Ayers
+Amstaff,26852.5603,,13.743,med,high,short,female,Owens
+Bearded Collie,26778.9679,50.6973,12.9686,high,high,long,female,Pacheco
+Airedale Terrier,20610.2491,56.4464,12.5984,high,high,short,male,Harris
+Samoyed,26408.5513,51.8666,11.3106,med,high,med,female,Clark
+Bearded Collie,21013.8246,52.6689,13.0458,high,high,long,female,Hartman
+Amstaff,26431.5811,,13.6053,med,high,short,female,Wood
+Airedale Terrier,18768.7302,55.8577,10.8808,high,high,med,female,Greene
+Bearded Collie,24281.7832,54.8477,13.1329,high,med,long,female,Taylor
+Airedale Terrier,18350.6369,57.0877,11.5767,high,high,med,female,Ramirez
+Airedale Terrier,20490.6896,56.5232,12.042,high,high,short,female,Mccoy
+Samoyed,25583.7842,55.9763,11.1648,med,high,med,male,Mcdaniel
+Amstaff,24007.6318,45.5687,12.9162,low,high,short,female,Doyle
+Samoyed,25840.3949,,10.5629,med,high,long,female,Smith
+Airedale Terrier,19775.1744,,11.673,high,high,med,female,Lewis
+Samoyed,14809.444,51.0341,11.619,med,high,long,female,Huang
+Bearded Collie,24195.5581,52.2318,13.0267,high,high,long,female,Figueroa
+Airedale Terrier,25607.7997,,11.0485,high,high,med,male,Kim
+Samoyed,16950.7547,50.6448,11.5894,med,high,med,male,Landry
+Samoyed,23657.1294,53.3323,10.5131,med,med,med,male,Edwards
+Samoyed,21437.6553,,11.223,high,high,med,male,King
+Airedale Terrier,21623.0934,57.2565,10.8929,high,high,med,male,Schneider
+Airedale Terrier,20470.2902,57.0844,11.7058,high,high,med,male,Craig
+Bearded Collie,25162.2916,52.6396,13.1271,high,high,long,female,Norris
+Amstaff,30760.7366,44.5645,13.0229,med,high,short,female,Larsen
+Airedale Terrier,22345.9321,56.7774,10.0542,high,high,long,male,Nelson
+Amstaff,25895.0092,44.5736,13.4827,med,high,short,female,Carter
+Samoyed,27039.4051,55.1147,10.5292,med,high,med,male,Duran
+Samoyed,26820.7796,,10.905,med,high,short,male,Shaw
+Samoyed,18601.5069,53.1967,11.2864,med,high,med,female,Travis
+Airedale Terrier,21681.4703,56.7489,10.9566,med,high,short,female,Dixon
+Bearded Collie,20773.7689,,12.7896,high,high,long,male,Stewart
+Airedale Terrier,20567.4959,57.2406,13.0071,high,high,med,male,Shawn
+Bearded Collie,18639.6003,53.6373,13.6768,med,high,long,male,Hunter
+Airedale Terrier,21299.1542,58.3757,10.9573,high,high,med,male,Bates
+Bearded Collie,22264.8354,54.0301,13.8123,high,high,long,female,Castaneda
+Airedale Terrier,22366.9157,57.3871,11.9472,high,high,long,male,Anderson
+Bearded Collie,22767.2473,,13.6149,high,high,long,male,Hamilton
+Samoyed,20156.5116,52.7603,11.8799,med,high,med,female,Heather
+Bearded Collie,18903.8571,52.082,13.2198,high,high,long,male,Williams
+Samoyed,22196.8867,52.3577,12.6432,med,high,short,female,Griffin
+Samoyed,18066.8153,52.7009,11.4658,med,high,med,female,Roberts
+Samoyed,15198.5932,,10.608,med,high,med,female,Garcia
+Amstaff,27451.3686,46.321,11.9223,med,high,short,male,Mullins
+Amstaff,30670.6245,45.3991,13.4338,med,high,short,male,Austin
+Amstaff,25477.5972,,12.8299,med,high,short,male,Good
+Samoyed,22446.1238,54.0979,11.1666,med,high,med,male,Ramsey
+Bearded Collie,19351.5928,52.6492,12.8217,high,high,long,female,Lane
+Samoyed,17073.3757,55.3584,10.6374,med,high,med,female,Jones
+Bearded Collie,25885.6567,,13.4849,high,high,long,female,Russell
+Amstaff,23863.5904,45.0586,12.2937,low,high,short,female,Andrews
+Amstaff,33409.4963,46.352,12.5625,med,high,short,male,Chapman
+Bearded Collie,20116.7388,57.0523,13.1099,high,high,long,female,Mack
+Airedale Terrier,21802.1122,56.5694,11.1812,high,high,med,female,Johnson
+Samoyed,20913.4734,50.8906,12.1963,med,high,short,female,Hayes
+Bearded Collie,23121.4526,51.9073,13.2313,high,high,long,female,Spencer
+Airedale Terrier,20677.7416,57.5414,11.5066,high,high,med,male,Watson
+Airedale Terrier,22782.5316,,10.506,high,med,med,female,Dawson
+Amstaff,27725.2785,46.043,12.8088,med,high,short,female,Rhodes
+Airedale Terrier,19922.2882,57.2061,11.064,high,high,med,male,Franklin
+Airedale Terrier,22622.1463,56.5794,11.035,high,high,med,male,Vaughan
+Airedale Terrier,21082.041,56.7189,11.8809,high,high,med,female,York
+Airedale Terrier,21327.1707,,10.4903,high,high,med,male,Harmon
+Samoyed,25338.1393,52.4834,10.9247,med,high,med,female,Huff
+Bearded Collie,21617.7647,55.4655,12.8808,high,high,long,female,Evans
+Amstaff,24626.2716,46.7868,12.7304,low,high,med,female,Edwards
+Airedale Terrier,20623.7031,,11.8521,high,high,med,male,Johnston
+Samoyed,22958.1221,51.8806,10.4143,med,high,med,male,Cardenas
+Samoyed,16566.7852,,11.2754,med,high,med,male,Watson
+Amstaff,25898.2852,45.7539,12.6767,med,high,short,female,Molina
+Samoyed,24837.6009,52.9878,11.9049,high,high,med,female,Oliver
+Samoyed,24739.47,56.63,11.2527,med,high,med,male,Mccarty
+Samoyed,25595.4653,,11.1023,med,high,med,female,Anderson
+Bearded Collie,20948.5196,52.3757,13.9586,med,high,med,female,Daniel
+Bearded Collie,21980.1241,51.8142,12.4127,high,high,long,female,Duke
+Samoyed,22093.3139,,11.0041,med,high,med,male,Davis
+Bearded Collie,23045.5695,,13.3558,high,high,med,female,Durham
+Bearded Collie,24084.9625,,13.497,high,high,long,female,Griffin
+Airedale Terrier,20488.2165,56.6366,11.3029,high,high,med,male,Walker
+Amstaff,26092.6649,,13.4519,med,high,short,male,Ruiz
+Bearded Collie,26247.8383,51.5341,13.1337,high,high,long,male,Gonzalez
+Bearded Collie,20360.2002,52.4168,13.7721,high,high,long,male,Keith
+Amstaff,25154.9548,45.3428,13.4098,high,med,short,female,Simpson
+Samoyed,21130.1473,57.0138,11.5643,med,high,short,male,Jefferson
+Samoyed,19267.8204,54.5769,11.6236,low,high,med,female,Hernandez
+Samoyed,22034.504,,9.3387,low,high,med,male,Mueller
+Amstaff,27762.5414,45.7362,13.2608,med,high,short,male,Houston
+Airedale Terrier,19921.8025,57.2322,10.4217,high,high,med,male,Scott
+Bearded Collie,25609.8697,54.2651,11.9334,high,high,med,female,Stark
+Airedale Terrier,22697.8272,57.5036,10.8975,high,high,med,male,Palmer
+Bearded Collie,24205.2433,49.3875,12.5216,high,high,long,female,Gomez
+Amstaff,27225.9974,,13.2885,med,high,short,female,Long
+Airedale Terrier,17510.4648,57.4519,12.0324,high,high,med,female,Bryant
+Samoyed,21889.5313,56.8848,10.3945,med,high,med,female,Price
+Amstaff,18957.7026,45.7199,12.9059,med,high,short,male,Phillips
+Bearded Collie,21669.9929,53.4201,11.6301,high,high,long,male,Aguilar
+Bearded Collie,20111.8005,,13.0292,high,high,long,male,Waters
+Samoyed,24174.0251,52.6157,11.3783,med,high,med,female,Franklin
+Samoyed,21635.3947,,12.1862,med,high,med,female,Martinez
+Amstaff,30014.5579,45.7033,13.2998,med,high,short,female,Terrell
+Samoyed,22806.8296,53.1561,10.4757,med,high,short,male,Bryant
+Samoyed,24669.5073,53.6093,11.3806,med,high,med,male,Johnson
+Amstaff,25547.8286,46.2668,12.8305,med,high,short,male,Gilbert
+Amstaff,25740.4626,45.9842,12.3007,high,high,short,female,Garcia
+Amstaff,26877.6597,45.882,11.9151,low,high,short,female,Porter
+Bearded Collie,22854.9918,52.4441,12.7286,high,high,med,male,Delgado
+Amstaff,31582.7977,46.97,12.8792,med,high,short,female,Velasquez
+Airedale Terrier,18706.0401,,12.9897,high,high,med,male,Mcguire
+Airedale Terrier,19254.1703,57.2556,10.6527,high,med,short,female,Stark
+Samoyed,19797.4021,55.0523,11.3946,low,med,med,female,Gross
+Bearded Collie,25027.2082,53.7603,12.2039,high,high,long,male,Cook
+Bearded Collie,24602.9662,54.0184,12.9284,high,high,long,male,Lewis
+Airedale Terrier,20559.4901,55.0463,12.6024,high,high,med,male,Sanchez
+Samoyed,17646.9092,50.8912,10.5807,med,high,long,female,Guerrero
+Amstaff,26728.7478,45.7739,13.7423,med,high,short,male,Zamora
+Airedale Terrier,20663.3712,55.978,11.2936,high,high,med,female,Williams
+Bearded Collie,25950.1908,51.2732,12.1031,med,high,long,female,White
+Airedale Terrier,21404.5712,56.4021,11.4489,high,high,med,male,Rodriguez
+Bearded Collie,16173.6071,53.6946,12.1594,high,high,long,male,Lewis
+Bearded Collie,23488.8016,52.828,12.8285,high,high,long,female,Mitchell
+Bearded Collie,18820.2709,,14.5906,high,high,long,male,Curtis
+Samoyed,24846.2421,53.4619,10.7885,high,high,med,male,Garner
+Amstaff,22333.0445,,14.0697,med,high,short,female,Martin
+Samoyed,24790.0808,,10.426,high,high,med,female,Harris
+Bearded Collie,20785.446,50.3055,13.274,high,high,long,female,Finley
+Samoyed,17728.415,,10.9093,med,high,med,female,Young
+Airedale Terrier,21487.8188,55.4656,12.4886,high,high,med,female,Campbell
+Samoyed,18453.338,53.0079,11.5345,high,high,med,female,Hamilton
+Samoyed,17530.6671,54.3381,12.2252,med,high,med,male,Bell
+Bearded Collie,23537.3843,51.5543,13.0823,high,high,med,female,Rivera
+Samoyed,18675.5454,54.0487,11.0988,med,high,med,male,Fisher
+Airedale Terrier,21503.499,57.313,12.2607,high,med,long,male,Whitney
+Samoyed,19307.0958,54.2849,11.7895,high,med,med,male,Roberts
+Bearded Collie,22257.6899,53.0708,13.6318,high,high,long,female,Carr
+Airedale Terrier,22630.4267,56.694,11.1524,high,high,med,female,Johnson
+Samoyed,23537.6475,54.9863,11.2266,med,high,med,male,Thompson
+Amstaff,33492.1787,45.9891,13.1974,med,high,med,male,Delacruz
+Airedale Terrier,20406.7359,55.8261,12.2232,med,high,med,female,Armstrong
+Amstaff,21784.3975,46.173,13.6232,med,high,short,female,Wade
+Amstaff,24825.4252,45.5404,12.6423,med,high,short,female,Robinson
+Airedale Terrier,19728.717,56.1064,11.8545,high,high,med,female,Bailey
+Bearded Collie,25901.709,51.5394,13.2148,high,high,med,male,Evans
+Bearded Collie,19528.7458,51.5059,12.8486,high,high,long,male,Alexander
+Samoyed,17410.1087,56.6641,10.6549,med,high,med,male,Anderson
+Bearded Collie,24092.3063,54.1365,13.0718,med,high,long,female,Campbell
+Bearded Collie,19994.5289,56.6888,12.6376,high,high,long,male,Novak
+Airedale Terrier,19978.2815,,12.5585,high,high,med,female,Wright
+Amstaff,24890.2612,44.8343,13.4059,med,high,med,female,Kelley
+Bearded Collie,20617.7178,,12.5354,high,high,long,male,Reynolds
+Airedale Terrier,19761.8592,57.6695,11.9526,high,high,med,female,Jimenez
+Airedale Terrier,19329.7502,,11.6427,high,high,med,female,Rios
+Airedale Terrier,18626.6426,57.0309,11.8158,high,high,med,male,Harris
+Samoyed,22190.4906,51.9353,10.8382,med,high,long,male,Valdez
+Airedale Terrier,21268.8071,56.6824,13.5077,high,high,med,male,Boyle
+Amstaff,25803.6122,46.8225,13.0706,med,high,short,female,Richardson
+Samoyed,24909.4939,56.1902,11.3135,high,high,med,male,Jackson
+Samoyed,21835.9738,54.3084,10.6966,low,high,long,male,Mueller
+Bearded Collie,19378.7985,51.6674,12.3988,high,high,med,male,Nelson
+Samoyed,24456.9814,54.3225,10.923,med,high,long,female,Collins
+Airedale Terrier,20677.7402,,10.2672,high,med,med,female,Olson
+Bearded Collie,19645.155,53.2532,12.4703,med,high,long,male,Mills
+Airedale Terrier,21022.6483,56.1062,10.4563,high,high,long,male,Burke
+Airedale Terrier,20553.0452,56.7512,13.1228,high,high,short,male,Mendoza
+Samoyed,25562.3145,50.1635,9.6598,med,high,med,male,Johnson
+Amstaff,22978.0802,46.2309,14.2799,low,high,short,female,Smith
+Airedale Terrier,15539.4593,,11.3804,high,med,short,male,Wallace
+Samoyed,21696.953,52.0541,10.387,med,med,med,male,Hendrix
+Amstaff,33725.5203,,12.9393,med,high,short,male,Wall
+Bearded Collie,20446.3839,55.0205,12.536,high,high,long,female,Nguyen
+Airedale Terrier,21972.9636,57.5488,11.6394,high,high,med,female,Shields
+Bearded Collie,25136.0017,51.7085,12.9834,high,high,long,female,Taylor
+Amstaff,19210.7252,46.3883,12.7966,med,high,short,male,Martinez
+Bearded Collie,24369.018,49.7279,13.4871,high,high,long,female,Mahoney
+Bearded Collie,22659.712,53.615,12.2872,high,high,long,male,Scott
+Samoyed,27587.3792,52.3479,10.6616,med,high,med,male,Smith
+Bearded Collie,24095.4016,50.0803,12.4866,high,high,long,male,Baker
+Airedale Terrier,21079.4686,,9.7774,high,high,med,male,Wilson
+Bearded Collie,22376.1868,54.9002,12.1877,high,high,long,male,Carter
+Airedale Terrier,20553.0197,,12.5387,high,high,med,female,Hernandez
+Amstaff,29134.5164,,12.87,med,high,short,male,Mcmillan
+Bearded Collie,23211.3908,53.5061,12.8746,high,high,long,female,Carter
+Bearded Collie,22842.6215,52.4654,13.4494,med,high,long,male,Cherry
+Amstaff,22581.7591,45.6754,14.045,med,high,short,female,Harris
+Amstaff,26692.6189,47.2408,12.6678,med,high,short,male,Stevenson
+Amstaff,18920.1103,46.0849,12.0716,med,high,med,female,Phillips
+Amstaff,26255.8344,46.0609,13.5942,low,high,short,male,Rose
+Amstaff,25927.5491,45.7542,12.709,med,high,short,female,Williams
+Amstaff,21417.2154,46.2672,12.6452,high,high,med,female,West
+Bearded Collie,24743.2683,52.7658,12.894,high,high,long,male,Smith
+Samoyed,17965.7438,51.6759,10.2934,med,high,med,female,Evans
+Bearded Collie,21856.6667,54.9197,12.709,high,high,long,male,Perez
+Amstaff,23102.7427,45.3372,13.5056,med,high,short,female,Ibarra
+Airedale Terrier,19399.4801,56.6731,11.2471,high,high,med,male,Bruce
+Bearded Collie,22226.1178,54.0917,12.8489,high,high,long,male,Wilkinson
+Samoyed,20298.4564,52.4194,11.24,med,high,med,male,Gomez
+Bearded Collie,27594.3476,53.2096,13.324,high,high,long,male,Smith
+Airedale Terrier,18324.1605,56.8233,12.0045,high,high,med,female,Fitzgerald
+Bearded Collie,20030.9329,52.6726,13.3392,high,high,long,female,Owen
+Samoyed,20954.8122,54.3066,11.3971,low,high,med,female,Valencia
+Airedale Terrier,20445.9729,56.9084,11.5748,high,high,med,male,Gonzalez
+Samoyed,22209.5567,51.6626,11.1401,med,high,med,female,Padilla
+Samoyed,8812.9611,53.2502,10.32,med,high,med,male,Trujillo
+Amstaff,24376.5278,,12.6846,med,high,short,male,Adams
+Amstaff,19201.1289,,12.7889,high,high,short,male,Baker
+Bearded Collie,17936.5561,,13.1411,med,high,med,male,Rodriguez
+Samoyed,22809.6042,52.8254,10.3565,med,high,short,female,Morgan
+Amstaff,18852.2272,,13.0667,med,med,short,female,Lozano
+Amstaff,21606.4274,47.1819,12.1408,med,high,short,male,Richards
+Amstaff,22208.7333,47.0121,12.5528,med,high,short,female,Smith
+Amstaff,30045.4605,45.6305,12.7695,med,high,short,male,Marsh
+Bearded Collie,20624.7834,,12.6646,high,high,long,male,Wilson
+Samoyed,30605.9695,51.7709,10.6204,med,med,med,female,Tucker
+Bearded Collie,21417.4089,56.3096,14.2245,high,high,long,female,Wong
+Airedale Terrier,19936.3802,57.1703,12.3131,high,high,med,male,Gibson
+Airedale Terrier,20367.5532,56.8975,10.9089,med,high,med,female,Smith
+Amstaff,29461.1452,45.2003,13.9153,med,high,short,female,Smith
+Airedale Terrier,19959.046,57.1656,12.2459,high,high,med,male,Garza
+Airedale Terrier,17888.1575,55.8433,11.2893,high,high,med,female,Cooper
+Samoyed,21394.3935,,11.6219,high,high,med,male,Evans
+Bearded Collie,22737.5954,52.8165,12.8115,high,high,long,female,Mendoza
+Airedale Terrier,24528.5481,56.441,13.3449,high,high,med,female,Maddox
+Amstaff,22941.6476,46.0815,12.3556,med,high,short,female,Gomez
+Samoyed,21355.59,55.9607,10.4294,low,high,med,female,Warren
+Airedale Terrier,21508.8232,55.4917,12.8052,med,high,short,female,Rodriguez
+Samoyed,26126.0516,51.6568,10.1216,low,high,med,male,Sims
+Bearded Collie,26171.4793,51.0133,12.3404,high,med,med,male,Russell
+Samoyed,23184.085,53.7786,10.847,med,high,med,female,Singleton
+Airedale Terrier,20869.1371,,11.2736,high,high,med,male,Padilla
+Bearded Collie,22781.5881,51.2355,11.8481,high,high,long,male,Fuller
+Amstaff,27364.2582,45.3414,12.7552,med,high,short,male,Sanders
+Amstaff,29080.7061,,13.5374,high,high,short,male,Smith
+Samoyed,17028.3561,54.3876,10.8494,low,med,med,male,Reynolds
+Airedale Terrier,22808.0502,57.6791,11.767,high,high,long,female,Daniel
+Amstaff,21297.1548,45.5957,13.572,high,high,short,male,Williams
+Samoyed,20819.1951,53.9836,11.3228,med,high,med,male,Pittman
+Airedale Terrier,19257.2616,56.8958,12.5376,high,high,short,female,Carr
+Bearded Collie,21870.6596,53.8034,13.5195,high,med,long,male,Humphrey
+Airedale Terrier,22067.637,57.1426,9.5645,high,high,med,female,Joseph
+Bearded Collie,19590.9993,51.1545,14.0682,high,high,long,female,Moran
+Airedale Terrier,21105.2685,,11.2967,high,high,med,female,Rollins
+Samoyed,27338.4662,53.1886,10.9709,med,high,med,female,Sanders
+Airedale Terrier,19421.165,56.6637,13.2226,high,high,med,female,Figueroa
+Airedale Terrier,19586.6001,56.0021,11.0269,high,high,med,female,Carr
+Bearded Collie,18752.2321,50.9485,12.0084,high,high,long,male,Roach
+Amstaff,26687.8886,45.3074,13.3198,med,high,short,male,Moore
+Airedale Terrier,21898.892,57.0988,10.4533,high,high,long,female,Whitney
+Samoyed,21873.7668,54.5369,11.2922,high,high,med,female,Gonzales
+Samoyed,18393.6993,,10.5897,med,med,med,female,Cooper
+Bearded Collie,25450.3669,52.351,12.6914,high,high,long,male,Porter
+Amstaff,21416.5833,,12.5632,low,high,short,female,Nunez
+Bearded Collie,20062.9225,,12.2248,high,high,long,female,Rogers
+Amstaff,23550.9473,46.6513,13.5636,high,med,short,female,Kim
+Bearded Collie,22346.8575,53.4937,12.967,high,med,long,female,Mathis
+Bearded Collie,23261.5052,53.8583,13.1913,high,high,long,male,Blake
+Airedale Terrier,20177.7187,56.6883,12.8579,high,high,med,female,Nguyen
+Airedale Terrier,19973.1501,,11.9142,high,high,med,female,Mcguire
+Samoyed,20263.2546,52.868,11.1457,med,med,med,male,Padilla
+Amstaff,24184.5827,46.147,13.7426,med,high,short,male,Mccarty
+Amstaff,28514.2569,44.942,13.2112,med,high,short,female,Smith
+Samoyed,23244.573,50.6632,10.888,med,high,med,male,Ramirez
+Amstaff,22284.9192,46.9733,12.8082,high,high,short,male,Matthews
+Amstaff,23248.6481,45.5899,12.4778,high,med,short,female,Walker
+Samoyed,21432.1622,55.4635,10.3698,med,high,med,female,Barton
+Samoyed,22549.3833,53.0736,10.8731,low,high,med,female,Morris
+Amstaff,27265.302,45.3003,12.5695,med,high,short,female,Munoz
+Bearded Collie,22331.2538,,12.8583,high,high,med,female,Smith
+Bearded Collie,25297.1929,52.5571,12.5989,high,high,long,male,Ortiz
+Samoyed,25546.658,,11.0823,med,high,med,male,Cooke
+Airedale Terrier,18447.4958,57.6368,10.9258,high,high,short,male,Simpson
+Amstaff,27868.0341,46.5387,12.0313,med,high,short,male,Brooks
+Bearded Collie,19750.2714,50.8493,12.4805,high,high,long,female,Lopez
+Bearded Collie,23812.3015,,11.8519,high,high,long,male,Gardner
+Airedale Terrier,17948.1186,57.6012,12.3073,high,med,long,female,Terry
+Airedale Terrier,20710.2293,57.9118,11.6038,high,high,med,male,Young
+Samoyed,24125.2385,51.4271,10.6034,med,high,med,male,Andrews
+Amstaff,26949.8478,45.5024,12.2851,med,high,short,male,Kim
+Samoyed,21384.5912,55.3141,10.781,med,high,long,male,Ramos
+Bearded Collie,23536.8557,55.2004,14.2102,high,high,med,female,Reyes
+Airedale Terrier,21186.9581,57.4151,11.4958,med,high,med,male,Woods
+Bearded Collie,20775.8963,,14.022,high,high,long,male,Cook
+Samoyed,13848.8324,55.2714,11.1715,med,high,med,female,Cobb
+Airedale Terrier,19113.5875,56.3621,11.5306,high,high,med,female,Michael
+Airedale Terrier,20607.9385,57.2533,10.9678,high,high,med,female,Warren
+Airedale Terrier,21310.5067,57.2536,10.4655,high,high,long,male,Frank
+Bearded Collie,18250.5715,51.181,13.5998,high,high,long,male,Rogers
+Samoyed,20725.6149,52.4683,11.7776,med,high,short,female,Bryan
+Airedale Terrier,21534.5721,57.079,10.1816,high,high,med,female,Thompson
+Airedale Terrier,19308.25,56.6586,11.2817,high,high,med,male,Thomas
+Amstaff,21058.8056,45.3681,13.5977,med,high,short,male,Sanders
+Bearded Collie,22809.0361,50.9519,12.5874,high,high,long,male,Collins

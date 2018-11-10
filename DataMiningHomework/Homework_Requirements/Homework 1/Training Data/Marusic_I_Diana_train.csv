@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Bearded Collie,22280.5964,54.3216,13.1931,high,high,long,male,Dyer
+Great Dane,51407.2976,76.6582,6.3828,high,high,short,female,Justin
+Bearded Collie,22122.0794,51.122,12.0584,med,high,med,female,Barnett
+Daschhund,6234.2029,21.4468,13.2225,high,med,med,female,Henderson
+Bearded Collie,18103.0403,54.3006,12.6288,high,high,long,female,Gomez
+Daschhund,10843.0668,21.1785,13.2595,med,low,med,female,Buchanan
+Great Dane,49810.6146,,6.3221,med,high,short,male,Lee
+Daschhund,10333.2284,19.9325,12.6203,high,med,short,male,Chambers
+Bearded Collie,26618.0765,54.2249,12.4848,high,high,long,male,Johnson
+Great Dane,53354.6487,82.7296,6.7679,high,high,short,female,Ward
+Great Dane,50098.9062,79.9508,6.7008,low,high,short,male,French
+Dalmatian,20409.6415,48.0,12.3616,high,high,short,female,Evans
+Great Dane,50870.7271,,7.8348,med,high,short,male,Campbell
+Daschhund,10299.2239,21.7039,13.0605,high,med,short,male,Mosley
+Bearded Collie,18356.9047,55.5343,12.7272,high,high,long,female,Scott
+Great Dane,48362.7646,,6.8854,med,high,short,male,Baker
+Dalmatian,21368.5933,48.0,13.3623,high,high,short,male,Foster
+Daschhund,7042.338,21.8623,13.3002,high,high,short,female,Floyd
+Dalmatian,21577.3243,48.0,12.9687,high,high,short,male,Finley
+Daschhund,4396.7016,20.5682,12.1936,high,med,short,female,Perez
+Daschhund,11433.2976,21.2226,12.7733,high,med,med,female,Deleon
+Dalmatian,21656.656,48.0,12.1221,high,high,short,female,Morris
+Bearded Collie,24306.7334,53.8335,13.1953,high,high,med,male,Andrews
+Dalmatian,22465.1342,48.0,13.5011,high,high,short,male,Morse
+Daschhund,12762.4336,21.0449,13.2343,high,med,short,female,Fry
+Bearded Collie,26244.107,,12.3565,high,high,long,female,May
+Daschhund,15753.9774,20.8158,12.6636,high,med,short,male,Coleman
+Dalmatian,22513.1093,48.0,12.9858,high,high,short,male,Faulkner
+Daschhund,5773.9699,20.9662,13.1109,high,med,short,male,Edwards
+Great Dane,53861.4657,79.6045,6.7502,med,high,short,male,Gallagher
+Dalmatian,21902.3959,48.0,11.6049,high,high,short,male,Krause
+Dalmatian,18528.5158,48.0,11.8679,high,high,short,female,Vincent
+Great Dane,52655.3994,80.62,6.1508,med,high,short,male,Diaz
+Daschhund,11067.6023,21.0666,11.922,high,med,short,male,Shields
+Bearded Collie,22412.7761,51.5578,12.7764,high,high,long,male,Foster
+Bearded Collie,24907.446,52.343,13.9639,high,high,long,female,Arroyo
+Bearded Collie,20709.9527,52.334,13.0631,high,high,long,female,Ortega
+Great Dane,56880.6823,,7.7946,high,med,short,female,Jacobs
+Dalmatian,24784.4633,,13.5619,high,high,short,male,Roberts
+Great Dane,47467.8737,78.4737,7.5009,med,high,short,female,Santiago
+Bearded Collie,19809.1396,53.3496,13.0808,high,med,long,female,Moss
+Dalmatian,20993.2485,48.0,13.1936,high,high,short,male,Pratt
+Bearded Collie,20738.1858,55.2322,12.9724,high,high,long,male,Ford
+Bearded Collie,24776.0803,53.4479,13.2412,high,high,long,male,Peterson
+Great Dane,56285.2481,82.2953,7.6924,med,med,short,male,Wagner
+Great Dane,48482.9701,,6.9998,high,high,short,male,Stevens
+Dalmatian,23599.3461,,13.2215,high,high,short,female,Ball
+Bearded Collie,20649.5303,52.4365,13.9376,high,med,long,male,Phillips
+Great Dane,49512.8906,76.2954,7.2176,med,high,short,female,Marshall
+Bearded Collie,21987.2082,51.8097,13.2284,high,high,long,female,Price
+Daschhund,11641.9116,21.1181,13.4548,high,med,short,male,Glover
+Bearded Collie,20706.2495,50.2434,12.7501,high,high,long,female,Jacobs
+Great Dane,56138.4795,82.0243,7.6382,med,high,short,female,Johnson
+Bearded Collie,24918.4836,54.8901,12.2701,high,high,med,male,Liu
+Daschhund,3903.2708,21.3622,12.3706,med,med,short,male,Santiago
+Dalmatian,25234.1409,48.0,13.7789,high,high,short,male,Bridges
+Bearded Collie,27240.2922,52.8381,13.4933,high,high,med,female,Kemp
+Dalmatian,24749.8737,48.0,12.507,high,high,short,male,Rodriguez
+Great Dane,52462.8632,81.1075,7.4586,med,high,short,male,Boyer
+Dalmatian,23024.2266,48.0,12.1908,high,high,short,female,Padilla
+Bearded Collie,19425.818,52.132,12.2878,high,high,med,male,Wilson
+Great Dane,49326.3114,80.7803,6.1694,low,high,short,male,Shaw
+Bearded Collie,25018.9077,51.3898,12.9222,med,high,long,female,Frey
+Great Dane,43835.208,78.3784,6.504,med,high,med,male,Thompson
+Daschhund,12927.0334,21.0165,12.7135,high,low,short,male,French
+Bearded Collie,26214.0974,,12.1544,high,high,long,male,Woods
+Bearded Collie,20986.5722,51.2734,13.1083,high,high,long,male,Petersen
+Daschhund,7476.9423,20.9505,13.1465,med,med,short,male,Grant
+Great Dane,54371.1743,,6.2678,med,high,short,female,Mahoney
+Daschhund,5949.017,,13.4349,high,med,med,female,Morris
+Great Dane,49066.9228,,6.9671,high,high,short,female,Lopez
+Dalmatian,19915.6244,,12.7088,high,med,short,male,Berg
+Dalmatian,23661.3197,,12.6533,high,high,short,female,Acevedo
+Great Dane,47825.7434,76.0074,8.3324,med,high,short,female,King
+Daschhund,10119.8681,20.1108,12.7029,high,med,short,male,Davis
+Dalmatian,22952.9802,,14.082,high,high,short,female,Chandler
+Dalmatian,24572.6195,,12.6028,med,high,short,male,Rojas
+Dalmatian,24469.0103,48.0,14.0937,high,high,short,male,Bruce
+Great Dane,49945.6592,,6.3518,med,high,short,male,Cross
+Daschhund,13359.7317,20.63,13.7146,high,med,short,male,Velasquez
+Great Dane,49091.5354,77.1613,6.4345,med,high,short,female,Mercer
+Bearded Collie,24645.8266,55.0684,13.2133,high,med,long,male,Gilbert
+Dalmatian,20701.5744,48.0,12.8648,high,high,short,female,Velez
+Dalmatian,22066.56,48.0,13.1207,high,high,short,female,Taylor
+Great Dane,56506.8346,80.9468,5.0293,med,high,short,male,Hicks
+Bearded Collie,21819.8021,53.3897,12.5035,high,high,long,female,Young
+Daschhund,9729.8293,21.3465,13.1009,high,low,short,female,Arnold
+Dalmatian,25419.8302,48.0,14.1562,high,high,short,female,Parker
+Daschhund,11459.2682,,12.7181,med,med,med,male,Ortega
+Bearded Collie,25004.4564,,13.5169,med,med,long,female,Rogers
+Dalmatian,22333.876,48.0,13.1567,high,high,short,female,Jones
+Great Dane,52625.2951,80.858,7.3214,med,high,short,female,Allen
+Dalmatian,25492.661,48.0,12.8992,high,high,med,male,Haynes
+Dalmatian,19558.5521,48.0,13.6014,high,high,short,female,Kelly
+Daschhund,12044.5232,20.3878,12.8523,high,med,short,female,Allen
+Bearded Collie,25498.9485,51.7485,13.2697,high,high,long,male,Ramirez
+Bearded Collie,20321.1885,53.4309,12.3767,high,high,long,female,Cross
+Bearded Collie,24520.2927,,13.7671,high,high,long,male,Turner
+Bearded Collie,21679.7205,55.5081,13.3723,high,high,med,male,Gilbert
+Dalmatian,20629.9953,,12.9929,high,high,med,male,Kimberly
+Bearded Collie,18833.7309,52.5604,12.1374,high,med,long,male,Gallagher
+Daschhund,10178.7071,20.5442,12.8447,high,med,short,female,Armstrong
+Great Dane,52102.5625,80.3347,5.4749,med,high,short,female,Decker
+Bearded Collie,23073.8426,53.811,13.2538,high,med,long,female,Leonard
+Daschhund,8589.3298,21.7997,13.9479,high,med,short,male,Adams
+Dalmatian,21448.6146,48.0,12.589,med,med,short,female,Harrington
+Bearded Collie,23240.0172,46.7182,12.5446,high,high,med,male,Cannon
+Dalmatian,23977.5854,48.0,13.4503,high,high,short,female,Vasquez
+Daschhund,9331.888,,13.5909,high,low,short,female,Barrera
+Dalmatian,25613.3128,48.0,11.7367,high,high,short,female,King
+Daschhund,9898.9577,21.813,13.9057,high,med,short,female,Graves
+Dalmatian,27379.024,48.0,12.5794,high,high,short,male,Taylor
+Great Dane,43953.34,78.0223,7.1925,med,high,short,male,Johnson
+Daschhund,13503.467,21.5619,13.1769,med,med,short,male,Blanchard
+Great Dane,52232.5081,79.0583,7.4066,med,high,short,female,Mendoza
+Dalmatian,27296.2504,48.0,13.3852,high,high,short,female,Perry
+Daschhund,10936.1933,21.7569,14.0989,high,med,short,female,Campbell
+Dalmatian,21320.7096,48.0,13.1597,high,med,short,female,Frederick
+Bearded Collie,23022.5981,51.2558,12.624,high,high,long,female,Moreno
+Daschhund,8461.6921,21.1634,12.8063,high,med,short,female,Bates
+Daschhund,12570.5955,20.2272,13.7823,high,med,short,female,Owen
+Bearded Collie,22765.7281,52.2867,12.8342,med,med,long,male,Mcgee
+Great Dane,50280.7625,75.2039,7.4909,med,high,short,male,Howell
+Dalmatian,23648.0097,,12.0358,high,high,short,female,Vance
+Bearded Collie,19427.7682,,12.163,high,high,long,male,Hernandez
+Great Dane,48555.0849,81.7622,6.4714,med,high,short,female,Garza
+Daschhund,5649.8044,22.3047,14.0702,high,med,short,female,Yang
+Daschhund,3637.8824,21.726,13.0624,high,high,short,male,Flores
+Great Dane,46962.3723,77.8964,6.9209,low,high,short,male,Atkins
+Bearded Collie,26588.8188,55.2842,13.6093,high,high,long,female,Johnston
+Dalmatian,22841.7195,48.0,13.3122,high,high,short,male,Fletcher
+Daschhund,8854.9129,,13.1444,high,med,short,female,Mullins
+Daschhund,5567.001,20.7649,11.8436,high,med,med,female,House
+Great Dane,52578.7372,78.4016,7.2283,med,high,short,male,Lambert
+Dalmatian,25556.5394,48.0,12.8035,high,high,short,male,Kim
+Bearded Collie,20546.9904,49.9823,13.6044,high,high,long,female,Robinson
+Great Dane,49482.3094,,8.1996,med,high,short,male,Wallace
+Bearded Collie,19263.7939,52.4543,13.4972,high,med,long,male,Wilson
+Great Dane,49197.2217,77.0345,7.674,med,high,med,female,Brown
+Great Dane,50172.3759,78.181,7.5372,low,high,med,male,Chavez
+Great Dane,50075.2697,78.6222,6.3321,med,med,short,female,Moore
+Bearded Collie,15298.9241,50.4076,12.0153,high,med,med,male,Riley
+Dalmatian,21845.7258,48.0,13.1425,high,high,short,female,Wallace
+Great Dane,52499.0941,,7.5793,med,high,short,male,Roberson
+Bearded Collie,28026.2214,53.4918,13.2943,high,high,long,male,Rocha
+Daschhund,14217.8309,22.0371,12.8361,high,med,short,female,Miller
+Dalmatian,24672.9882,,12.6695,high,high,short,male,Pena
+Great Dane,48139.3265,,6.8735,med,high,short,male,Davis
+Bearded Collie,20495.9794,,12.1295,med,high,long,male,Santiago
+Daschhund,9038.5489,20.4898,13.607,high,med,med,male,Green
+Dalmatian,23934.9154,48.0,12.8269,high,high,short,female,Stanley
+Daschhund,11187.1677,21.4122,12.8835,high,med,short,male,Kelly
+Great Dane,53398.888,79.3062,7.0552,med,high,short,female,Garza
+Daschhund,14106.3752,20.7161,13.9012,high,med,short,male,Sanders
+Great Dane,52737.7039,83.9259,7.176,med,high,short,female,Parker
+Daschhund,9832.4156,20.655,13.5859,high,med,short,male,Mendoza
+Great Dane,47659.6421,78.9599,7.5243,med,med,short,female,Ryan
+Dalmatian,23860.17,48.0,12.852,high,high,short,male,Pena
+Dalmatian,23629.287,,12.9594,high,high,short,female,Horn
+Great Dane,52739.7207,75.7611,6.6291,med,high,short,male,Wood
+Dalmatian,21665.5324,48.0,12.2788,high,med,short,male,Dixon
+Great Dane,52456.2449,,6.7953,med,high,short,male,Bowman
+Daschhund,8159.9931,22.2748,14.4514,high,med,short,male,Nguyen
+Bearded Collie,19689.8673,53.1627,12.8113,high,high,long,female,Small
+Dalmatian,23572.8659,,12.683,high,high,med,female,Snow
+Great Dane,45578.7859,75.9646,7.3294,high,high,short,male,Wilson
+Great Dane,48671.1863,83.429,6.7256,med,high,short,female,Richardson
+Great Dane,48989.5148,80.0873,7.8368,med,high,short,female,Ho
+Bearded Collie,22235.342,55.3863,13.2447,high,high,long,female,Carroll
+Daschhund,6949.8229,21.4244,13.2216,high,med,short,female,Morales
+Bearded Collie,20094.7659,53.9526,13.125,high,high,long,female,Cummings
+Dalmatian,22934.6927,,12.7483,high,high,short,male,Frye
+Daschhund,9944.8519,21.4574,12.3291,high,med,short,male,Wright
+Dalmatian,16821.0219,48.0,12.9693,high,high,short,male,Black
+Great Dane,47880.5614,79.6683,8.2193,med,med,med,female,Keller
+Dalmatian,26062.237,48.0,13.4428,med,high,short,male,Bryant
+Bearded Collie,22291.5642,,13.1509,high,high,long,male,Yates
+Daschhund,12764.425,,12.7923,high,med,short,female,Roberts
+Bearded Collie,22957.1323,,12.9872,high,med,long,female,Willis
+Daschhund,10093.1172,20.6757,13.0885,high,med,med,female,Christensen
+Dalmatian,27163.0322,48.0,13.8653,high,high,short,female,Fisher
+Bearded Collie,23054.4432,51.0637,12.9726,high,high,long,male,Burke
+Dalmatian,20445.8554,,13.633,high,high,short,male,Greene
+Daschhund,9137.472,21.8844,12.1131,med,med,short,female,Howard
+Great Dane,46995.0753,79.5793,6.7682,high,high,short,female,Hopkins
+Daschhund,10270.6329,20.977,12.2731,high,med,short,male,Nguyen
+Great Dane,56197.7503,,6.4981,med,med,short,female,Mcmillan
+Bearded Collie,20780.4589,52.0558,13.3367,high,high,long,female,Stewart
+Daschhund,7895.1687,20.8504,13.7434,med,med,short,male,Lee
+Daschhund,8715.2358,,13.6914,high,med,short,female,Mann
+Dalmatian,22769.2049,48.0,13.6242,high,high,short,male,Wilkins
+Great Dane,44054.4326,,6.9357,med,high,short,male,Lane
+Dalmatian,25757.4088,48.0,13.8981,high,high,short,female,Jackson
+Bearded Collie,22363.4968,55.987,13.0709,high,high,long,male,Jones
+Bearded Collie,22955.3859,53.7593,13.0723,high,high,long,male,Gibbs
+Dalmatian,24631.9363,48.0,12.6996,high,high,short,male,Jones
+Great Dane,45996.5753,75.2681,6.521,med,high,med,male,Miller
+Daschhund,11236.4343,21.1302,12.7732,high,med,short,male,Fleming
+Dalmatian,25967.3092,48.0,12.2673,high,high,short,male,Wilson
+Dalmatian,23619.9815,48.0,12.8997,med,high,short,female,Clark
+Daschhund,11603.327,20.6212,13.8328,high,med,short,female,Jones
+Dalmatian,25139.932,48.0,11.8471,med,high,short,male,Hunter
+Dalmatian,20452.7252,48.0,13.9667,med,high,short,male,Michael
+Daschhund,7080.9834,21.2464,12.4235,high,low,short,male,Conley
+Great Dane,49750.0299,75.8767,6.3771,med,med,short,male,Jordan
+Dalmatian,24859.4977,,14.3918,high,high,short,female,Combs
+Daschhund,6792.6913,21.003,13.4664,med,med,short,female,Jimenez
+Daschhund,8053.736,20.2892,13.9396,high,med,short,male,Raymond
+Great Dane,49461.6035,82.6214,7.1655,med,high,short,female,Johnson
+Daschhund,5263.3108,,13.5264,high,med,short,female,Fisher
+Bearded Collie,21976.8617,56.7538,12.4823,med,high,long,male,Murray
+Bearded Collie,22694.6277,,12.1047,high,high,long,male,White
+Bearded Collie,18483.3523,,12.9415,high,high,long,female,Cox
+Bearded Collie,20737.4891,,13.8176,med,high,long,female,Elliott
+Daschhund,1973.8889,20.9589,11.6479,high,med,short,female,Jacobs
+Bearded Collie,20553.7753,51.7298,13.0606,high,high,long,female,Reed
+Bearded Collie,24915.9183,54.5828,12.3199,high,med,long,female,Bender
+Daschhund,10145.4995,20.7978,13.023,high,med,short,male,Coffey
+Great Dane,50726.6314,77.5453,7.757,med,high,short,female,Smith
+Bearded Collie,23443.4587,,13.0602,high,high,med,male,Jones
+Daschhund,7739.9703,,12.6236,high,high,short,male,Katherine
+Bearded Collie,23062.9592,,12.7925,high,high,long,female,Cohen
+Bearded Collie,25893.0491,,12.8507,high,high,long,male,Tran
+Dalmatian,22650.2479,48.0,13.4316,high,med,short,female,Palmer
+Dalmatian,21251.5673,48.0,11.969,high,high,short,male,Rosario
+Dalmatian,23367.6928,48.0,12.8174,high,med,med,male,Avila
+Daschhund,10239.9763,21.236,12.6059,high,high,short,female,Marsh
+Daschhund,11847.5542,21.8836,13.0694,high,high,short,female,Cardenas
+Dalmatian,24056.7238,48.0,12.5741,high,med,short,male,Lawson
+Great Dane,51396.6692,81.3839,7.4775,med,high,short,male,Smith
+Dalmatian,23018.8831,,13.5368,high,high,short,female,Reid
+Daschhund,8277.1734,20.8948,13.2127,high,low,short,female,Buck
+Bearded Collie,19660.4811,50.1229,12.8788,med,high,long,female,Munoz
+Great Dane,44253.7418,,7.1944,med,high,short,male,Miller
+Great Dane,49126.5311,78.6995,7.1073,med,med,short,female,Bradshaw
+Dalmatian,24273.1627,48.0,13.0883,high,high,short,female,Calhoun
+Dalmatian,22459.1169,48.0,13.5757,med,high,med,male,Glenn
+Bearded Collie,22934.3587,48.2758,13.0114,high,high,long,female,Sweeney
+Bearded Collie,20216.4118,54.0603,13.6831,high,high,long,female,Buckley
+Daschhund,10141.6958,20.4624,13.3712,high,high,short,male,Fleming
+Bearded Collie,17988.1317,52.4484,12.3519,med,high,long,female,Day
+Great Dane,52622.626,79.8365,6.9771,low,high,med,male,Gutierrez
+Bearded Collie,25133.8134,,12.2749,high,high,long,male,Blake
+Daschhund,9677.8988,21.4019,13.5108,high,med,short,female,Lopez
+Bearded Collie,23859.2243,54.6351,13.1873,high,high,long,female,Sanford
+Bearded Collie,27985.7491,,12.7703,high,high,long,male,Wells
+Great Dane,49680.4526,,7.6777,med,med,short,female,Mcdowell
+Great Dane,44946.4998,81.7059,7.0709,med,high,short,male,Jones
+Bearded Collie,23543.7604,,13.4234,high,high,long,female,Cline
+Bearded Collie,23933.1807,48.3175,12.3449,high,high,long,female,Quinn
+Great Dane,46756.5109,76.0151,7.0939,med,high,short,male,Martinez
+Dalmatian,22755.0939,48.0,13.8875,high,high,short,female,Martin
+Bearded Collie,24433.5328,51.9495,12.7622,high,high,long,male,Alvarez
+Great Dane,46820.9182,77.4444,7.4262,med,high,short,male,Graham
+Dalmatian,24812.0829,48.0,13.5123,high,med,short,male,Jones
+Bearded Collie,20211.6153,52.1788,14.0102,high,med,long,female,Bryant
+Dalmatian,25603.0582,48.0,12.5974,high,high,short,male,Morgan
+Bearded Collie,24486.911,,12.1332,high,high,long,female,Collins
+Bearded Collie,24295.7449,51.3447,13.4889,high,high,long,male,Richard
+Great Dane,44547.1697,80.8801,6.1226,med,high,short,female,Snyder
+Bearded Collie,26735.0054,53.8693,12.2675,high,high,med,male,Fisher
+Dalmatian,18297.9507,48.0,12.058,high,high,short,female,Lozano
+Great Dane,51048.0729,76.9054,7.0617,med,high,short,female,Schneider
+Great Dane,49963.8952,76.685,7.0991,med,high,short,male,Cox
+Daschhund,7290.8929,21.2046,11.8912,high,med,short,female,Orr
+Daschhund,15667.3646,21.2015,13.2676,high,med,short,male,Roberts
+Bearded Collie,21488.9479,,12.7471,high,high,long,male,Hahn
+Daschhund,10460.7094,,13.1509,high,med,short,female,Jackson
+Daschhund,6810.4028,21.0668,13.1819,high,med,med,male,Palmer
+Daschhund,14770.5733,20.8147,12.8945,high,low,short,male,Moon
+Bearded Collie,24090.4958,51.801,11.9873,high,high,long,female,Myers
+Bearded Collie,21929.2519,,13.0863,high,high,long,female,Drake
+Bearded Collie,17912.1256,53.8508,13.7787,high,high,long,male,Lin
+Dalmatian,23947.6807,48.0,13.4419,high,high,short,female,Cook
+Great Dane,50568.0304,80.1221,7.3839,med,high,med,female,Larsen
+Great Dane,49473.8237,76.6477,7.6631,low,med,short,male,Long
+Daschhund,8026.2044,21.2335,12.8742,high,med,short,female,Green
+Dalmatian,22339.5371,48.0,13.3462,med,high,short,male,Church
+Dalmatian,20906.2004,,12.7634,high,high,short,male,Stokes
+Great Dane,48577.4492,79.6332,7.1129,med,high,short,female,Brown
+Daschhund,13913.8121,21.9713,13.5291,high,low,med,female,Maxwell
+Bearded Collie,19496.223,52.9189,12.9849,high,high,long,male,Rivera
+Dalmatian,23144.9426,48.0,14.1668,med,med,short,male,Perez
+Bearded Collie,22176.9131,54.6281,13.325,med,high,long,male,Martin
+Great Dane,46673.3692,79.8988,6.2336,med,high,short,male,Flores
+Bearded Collie,22375.6535,55.2686,13.4992,high,med,long,female,Jones
+Daschhund,12418.755,20.4114,12.7699,med,med,short,male,Fuller
+Daschhund,6185.3132,20.7952,12.1603,high,low,short,male,Jimenez
+Dalmatian,24085.93,48.0,14.0808,high,high,short,female,Garcia
+Daschhund,12370.4656,19.8597,12.1472,high,med,short,female,Schroeder
+Great Dane,45504.5548,78.2323,6.7506,high,high,med,female,Martinez
+Daschhund,11578.6898,20.2525,13.179,high,med,short,male,Deleon
+Daschhund,11583.0712,21.1462,12.8149,high,med,short,male,Pittman
+Great Dane,46869.7038,77.8949,6.6677,med,high,med,male,Ramsey
+Dalmatian,23847.7064,48.0,13.2504,high,high,short,female,Li
+Great Dane,48311.5119,77.4428,6.6266,med,high,short,male,Copeland
+Dalmatian,23434.1499,48.0,12.8106,high,high,med,male,Osborn
+Bearded Collie,24214.5347,52.663,12.2493,med,high,long,male,Zamora
+Daschhund,11694.7699,21.3769,12.5521,high,med,short,female,Dominguez
+Great Dane,50004.0323,80.1355,7.5485,med,high,short,female,Baxter
+Dalmatian,28183.0447,48.0,11.5074,high,high,short,male,Lawson
+Daschhund,11450.2101,20.8392,12.6621,high,med,short,male,Nelson
+Daschhund,10565.6809,20.6997,14.687,high,med,short,male,Johnson
+Great Dane,48187.2054,,7.3471,low,high,short,female,Porter
+Great Dane,51385.7821,78.7176,6.8201,med,high,short,male,Jensen
+Bearded Collie,19727.5835,,13.2609,med,med,long,female,Mcgee
+Bearded Collie,21139.3475,53.9947,12.9185,high,high,long,female,Martin
+Bearded Collie,17975.6867,54.3652,12.7516,med,med,med,female,Mccarthy
+Daschhund,10654.6637,20.1402,12.9716,high,med,short,male,Sanchez
+Great Dane,47753.0508,,7.3017,med,high,short,female,Chen
+Dalmatian,23035.2215,48.0,12.37,high,high,med,male,Warren
+Bearded Collie,23669.8762,54.0982,11.7432,high,high,long,female,Newman
+Daschhund,10058.6434,,12.3623,high,med,short,male,Miller
+Bearded Collie,23898.3781,51.3769,12.5145,high,high,long,male,Johnson
+Dalmatian,22856.679,,12.8189,high,high,short,female,Patton
+Great Dane,49295.9212,80.6354,7.4668,med,high,short,female,Wilson
+Dalmatian,23752.0367,48.0,13.4739,high,med,short,female,Castro
+Bearded Collie,22116.5437,52.7757,12.6621,high,med,long,male,Williams
+Great Dane,49399.5091,,7.2341,med,high,short,female,Johnson
+Great Dane,46521.9645,79.9176,6.7601,high,high,short,female,Kerr
+Bearded Collie,19050.2331,56.7919,13.1895,med,med,long,female,Hicks
+Dalmatian,24479.7079,,13.7303,high,high,short,male,Zavala
+Dalmatian,19193.9771,48.0,13.4202,high,high,short,female,Lara
+Daschhund,12968.3558,21.676,13.6573,high,med,short,male,Gibbs
+Daschhund,7290.2179,21.1216,14.3475,high,med,short,female,Wilson
+Dalmatian,25240.0192,48.0,14.0058,high,high,short,female,Cook
+Great Dane,52086.9483,79.688,7.8112,med,med,short,female,Graves
+Great Dane,45685.2903,,5.6749,med,high,med,male,Evans
+Dalmatian,25050.1897,,13.5331,high,high,short,female,Brown
+Daschhund,12096.6609,21.7358,13.2862,med,med,short,female,Martinez
+Bearded Collie,21967.0652,,13.2338,high,high,long,male,Andrews
+Bearded Collie,24917.2001,54.9765,13.3439,high,high,long,female,Norman
+Bearded Collie,18546.8981,53.1925,12.903,high,high,long,male,Simon
+Great Dane,52113.5156,,6.2958,med,high,short,male,Olsen
+Daschhund,6145.7078,19.9006,13.2965,high,med,short,female,Lawson
+Bearded Collie,24910.2482,54.4368,12.7953,high,high,long,female,Martinez
+Daschhund,13281.1355,,13.4201,high,high,short,female,Harmon
+Great Dane,50002.6722,,7.2059,med,high,short,female,Morrow
+Dalmatian,22365.8172,48.0,13.2656,high,high,short,male,Mosley
+Dalmatian,21865.8941,48.0,12.4379,high,high,short,male,Collins
+Bearded Collie,20079.3669,51.7055,13.3862,med,high,long,male,Bailey
+Dalmatian,21503.2343,48.0,12.6033,high,high,short,female,Schultz
+Daschhund,7356.5613,21.0449,12.9913,med,med,short,male,Ortega
+Great Dane,54642.9257,78.4923,6.9041,med,high,short,male,White
+Bearded Collie,23184.9855,53.4023,13.601,high,high,long,male,Williams
+Daschhund,10055.1383,21.2027,12.2188,high,med,short,female,Porter
+Dalmatian,20402.6955,,12.0578,high,high,short,female,Bailey
+Great Dane,49742.3437,,6.4656,med,high,short,female,Nelson
+Daschhund,9174.2432,,13.744,high,high,short,female,Diane
+Dalmatian,21658.3935,48.0,12.9548,high,high,short,male,Brown
+Dalmatian,23541.6492,48.0,12.4451,high,high,short,male,Anderson
+Dalmatian,24930.8966,48.0,14.1083,high,high,short,male,Perez
+Great Dane,48725.0641,79.9532,7.3685,med,high,short,male,Solomon
+Great Dane,47083.4585,,6.7349,low,high,short,male,Foster
+Great Dane,53676.1858,,6.7919,high,high,short,male,Smith
+Dalmatian,24077.6337,48.0,12.4404,high,high,short,female,Benson
+Daschhund,7070.3333,21.252,12.8658,high,med,short,male,Randolph
+Great Dane,51487.0382,78.8787,7.3416,med,high,med,female,Manning
+Daschhund,8381.3635,21.4726,13.3524,high,med,short,male,Julie
+Great Dane,49172.4622,78.8751,5.6512,med,high,short,male,Barker
+Daschhund,11367.3799,20.8113,12.6406,med,med,med,male,Kaitlyn
+Bearded Collie,20556.953,,13.0956,high,high,long,female,Moses
+Dalmatian,21565.9584,48.0,12.5787,high,high,short,male,Hunt
+Great Dane,50384.7702,,5.1548,med,high,short,female,Adams
+Bearded Collie,25044.1564,51.7419,13.7723,high,high,long,male,Higgins
+Bearded Collie,19448.4197,50.7718,11.9938,high,high,long,female,Davis
+Dalmatian,20361.599,48.0,12.0139,high,high,short,male,Martin
+Dalmatian,23395.3721,48.0,14.058,med,high,short,male,Yang
+Bearded Collie,21587.7839,,13.0298,high,high,med,male,Williams
+Great Dane,51829.4803,79.4296,6.4833,med,high,short,female,Davis
+Daschhund,12822.3133,21.3107,13.4193,high,med,short,male,Kane
+Great Dane,49922.3831,78.4064,7.2131,med,med,short,female,Dillon
+Daschhund,5243.3869,21.1611,12.4766,high,med,short,female,Dickson
+Bearded Collie,21593.5725,54.9862,12.6688,high,high,long,female,Romero
+Bearded Collie,24713.1187,53.6359,12.6418,high,high,long,male,Young
+Daschhund,11510.5541,21.264,12.4123,high,med,short,female,Sanchez
+Dalmatian,27341.0834,48.0,12.7269,high,high,short,female,Young
+Daschhund,8276.9744,,13.1325,high,med,med,male,Fuentes
+Bearded Collie,18430.7511,,12.9973,high,high,long,male,Terry
+Dalmatian,25225.5425,48.0,11.4319,med,high,short,female,Jones
+Daschhund,13781.2924,22.1661,13.1706,high,med,short,female,Chavez
+Bearded Collie,18083.3003,,13.4093,high,high,long,female,Acosta
+Bearded Collie,25528.5492,,11.5406,high,med,long,female,Drake
+Great Dane,53015.7819,78.1839,7.0198,med,high,short,female,Nguyen
+Daschhund,8213.3598,20.9776,12.214,high,high,short,male,Garcia
+Bearded Collie,20135.9882,54.6409,12.6247,high,high,long,female,Steven
+Daschhund,12044.093,22.6182,12.2849,high,high,short,male,Prince
+Great Dane,53017.5579,79.1708,8.0656,med,high,short,female,Meyer
+Daschhund,10885.091,21.5867,12.5357,high,low,short,male,Wallace
+Great Dane,52363.445,,6.7898,med,high,short,male,Black
+Daschhund,9434.4912,21.6102,12.1122,high,med,short,female,Lowe
+Great Dane,47943.202,,6.7554,med,high,short,male,Hamilton
+Daschhund,8402.172,20.3268,12.4503,med,med,short,female,Thompson
+Dalmatian,22416.937,,13.98,high,high,med,male,Hale
+Bearded Collie,18720.3671,51.4203,13.6279,high,med,long,male,Stewart
+Bearded Collie,21180.8408,,13.4882,high,med,long,female,Thompson
+Dalmatian,24057.6099,48.0,13.5508,high,high,short,male,Stephen
+Great Dane,41869.5918,80.0491,7.3779,high,high,short,male,Zimmerman
+Daschhund,11676.2714,,13.5027,med,med,med,male,Stokes
+Great Dane,46543.0116,,6.7437,med,high,short,female,Ramirez
+Great Dane,51279.9495,77.1216,7.5554,low,high,short,female,Allen
+Daschhund,8887.8299,20.8181,13.8531,med,med,short,male,Brown
+Dalmatian,23064.5275,48.0,12.8954,high,high,short,male,Poole
+Dalmatian,27791.2145,48.0,13.1428,high,high,short,female,Smith
+Great Dane,48314.1882,,6.8529,med,med,short,female,Porter
+Bearded Collie,26088.6755,,12.0454,high,high,long,female,Baker
+Bearded Collie,20429.2968,,11.8501,high,high,long,male,Stokes
+Daschhund,8515.1385,20.9633,12.5576,high,med,short,male,Smith
+Great Dane,49519.7492,79.2847,6.4943,low,high,short,female,Murphy
+Great Dane,48036.28,78.3915,7.8993,med,high,short,female,Foster
+Dalmatian,22837.3658,48.0,13.2404,high,high,short,female,Ruiz
+Dalmatian,20117.116,48.0,12.5963,high,high,short,female,Simmons
+Dalmatian,20198.4941,48.0,12.6643,high,high,short,male,Walter
+Bearded Collie,20605.72,53.1291,12.6671,high,high,long,male,Norton
+Dalmatian,24961.4623,48.0,12.0498,high,high,short,female,Oliver
+Daschhund,7284.7905,21.1624,13.4778,high,med,short,male,Howell
+Dalmatian,24275.7095,48.0,12.487,high,med,short,male,Mathis
+Bearded Collie,19669.403,51.1585,13.6127,high,high,long,female,Sanchez
+Dalmatian,24101.0937,48.0,12.7361,high,high,short,male,Aguilar
+Daschhund,8210.4847,21.0526,13.5578,high,med,short,female,Villarreal
+Bearded Collie,25496.7956,50.6063,13.094,high,high,long,female,Scott
+Dalmatian,22034.0697,48.0,14.1835,high,high,short,female,John
+Daschhund,7897.1089,,12.4671,high,med,short,female,Smith
+Dalmatian,26220.9456,48.0,12.5369,high,high,short,female,Rose
+Dalmatian,22831.2047,,13.2905,high,high,short,female,Patterson
+Daschhund,7845.77,21.3263,14.4807,high,med,short,male,Robbins
+Dalmatian,24330.7047,48.0,12.8933,high,high,short,male,Moore
+Great Dane,47653.4182,75.0441,6.9837,med,high,short,female,Ruiz
+Bearded Collie,23678.0345,49.9748,13.3922,high,high,long,male,Rogers
+Daschhund,7587.2974,21.1634,13.4442,high,med,short,male,Woods
+Dalmatian,25403.2761,48.0,12.3131,high,high,short,male,Walker
+Dalmatian,25336.7242,,13.5893,high,high,short,male,Lowe
+Great Dane,49006.4023,82.5961,7.7421,low,high,short,male,Huber
+Bearded Collie,23394.3224,53.3593,12.9161,med,high,long,male,Dickerson
+Bearded Collie,25481.7064,52.9067,12.7039,high,high,long,female,Lutz
+Bearded Collie,21232.3964,54.6094,11.7389,high,high,long,male,Daniel
+Great Dane,46413.8731,78.7554,6.7743,med,high,short,female,Palmer
+Dalmatian,23829.2624,48.0,13.193,high,high,short,female,Silva
+Dalmatian,26706.5936,48.0,13.21,med,med,short,female,White
+Bearded Collie,26554.7139,53.628,11.6349,high,high,long,male,Walker
+Great Dane,45752.6768,76.6527,7.8303,high,high,short,male,Henderson
+Bearded Collie,26813.3866,51.6889,12.0287,high,high,long,female,Jackson
+Great Dane,53379.9547,81.6357,7.3528,med,high,short,female,Mullen
+Dalmatian,23821.0587,48.0,12.0699,high,med,short,male,Miller
+Bearded Collie,18805.1179,55.0281,13.0935,high,high,long,male,Mcguire
+Great Dane,50253.8285,76.8627,7.1664,low,high,med,male,Galvan
+Bearded Collie,25460.6294,,13.4348,high,med,long,male,Becker
+Bearded Collie,21883.0836,50.7004,12.7395,high,high,long,male,Steven
+Daschhund,10356.845,20.7399,12.9746,med,med,short,male,Ruiz
+Bearded Collie,23248.4882,50.6201,13.1913,med,high,long,male,Washington
+Great Dane,45056.293,78.7522,7.2151,low,med,short,female,Ramirez
+Bearded Collie,21294.0301,53.3803,12.592,high,high,long,male,Dodson
+Great Dane,51272.6227,78.7531,7.5522,med,high,short,female,Martin
+Daschhund,8799.2435,,12.1907,high,med,short,male,Lopez
+Daschhund,8855.1271,21.5937,13.6146,high,low,short,female,Brown
+Dalmatian,23076.3053,48.0,12.9453,med,high,short,male,Morris
+Bearded Collie,21348.0115,53.2035,12.8797,high,high,long,female,Miller
+Bearded Collie,23015.9823,53.6983,12.5675,high,med,long,female,Clarke
+Bearded Collie,21390.0983,52.3436,13.2704,high,high,long,female,Smith
+Daschhund,10636.8898,20.6115,12.6857,high,med,short,male,Bates
+Dalmatian,25362.2701,48.0,12.6478,high,high,short,female,Flynn
+Great Dane,45180.4233,77.0971,7.3591,med,high,short,male,Stewart
+Dalmatian,28124.4463,48.0,12.795,high,high,short,female,Smith
+Bearded Collie,20868.6332,54.1167,13.3046,high,high,long,female,Dickson
+Great Dane,48427.1906,78.4731,6.2235,med,high,short,female,Higgins
+Bearded Collie,24368.3148,,13.1441,high,high,long,male,Walker
+Bearded Collie,24357.0628,52.4676,12.344,high,high,long,female,Lopez
+Great Dane,51093.7714,78.2013,7.586,med,high,short,female,Ferguson
+Daschhund,11981.3451,21.0038,13.8217,high,med,short,female,Allen
+Dalmatian,24609.8682,48.0,12.2548,high,high,short,female,Cox
+Bearded Collie,24599.2845,52.8803,12.9066,high,med,long,female,Kim
+Great Dane,49748.416,81.3993,8.4318,med,high,short,male,Wise
+Daschhund,8781.1589,20.2614,13.0479,high,high,short,female,Bailey
+Bearded Collie,23382.4341,52.4768,13.6051,high,high,med,female,Gamble
+Dalmatian,23156.7607,48.0,13.503,high,high,short,female,Macias
+Dalmatian,20564.3379,48.0,13.8089,high,med,short,male,George
+Daschhund,8217.5689,,13.0036,high,high,short,female,Gonzales
+Dalmatian,21430.6785,,13.0561,high,high,short,male,Barron
+Bearded Collie,22970.6204,53.5916,13.0306,high,high,long,female,Hansen
+Bearded Collie,19878.501,55.2195,13.7609,high,high,long,female,Villa
+Dalmatian,23943.9374,48.0,12.1063,high,high,short,male,Goodman
+Bearded Collie,24475.3265,49.9012,12.786,high,high,med,female,Gutierrez
+Daschhund,6787.803,21.2196,12.126,high,med,short,male,Jones
+Dalmatian,24610.1133,48.0,11.452,med,med,short,female,Watts
+Great Dane,52008.7306,79.1476,7.1585,med,high,short,male,Buck
+Bearded Collie,21961.309,54.1438,13.3367,high,high,long,female,Hall
+Dalmatian,25127.3985,48.0,13.024,high,high,short,male,Ward
+Great Dane,44970.9008,,6.3739,med,med,short,male,Smith
+Daschhund,12234.9343,21.1623,13.3841,high,low,short,female,Diaz
+Great Dane,51031.5931,,7.9254,med,high,short,male,Rasmussen
+Great Dane,44179.9377,,6.4817,med,high,short,male,James
+Great Dane,53247.3849,,5.6839,med,med,short,male,Carter
+Great Dane,48748.2437,79.3548,7.2129,med,high,short,female,Daniels
+Daschhund,10958.4937,22.1599,12.515,high,med,med,female,Turner
+Daschhund,11118.573,19.7747,11.8091,high,med,short,female,Smith
+Dalmatian,26776.1321,48.0,13.5802,high,high,short,female,Alvarado
+Bearded Collie,23039.5751,,13.7061,high,high,long,female,Ross
+Dalmatian,18768.2364,48.0,11.8149,high,med,short,female,Romero
+Great Dane,52441.6431,76.6508,7.5209,med,high,short,female,Bailey
+Great Dane,46780.5867,79.276,7.2172,med,high,short,male,Mahoney
+Daschhund,3236.0767,20.3633,12.2598,high,med,short,male,Watkins
+Daschhund,13404.9706,,12.4334,high,med,short,female,Maxwell
+Great Dane,46491.7969,76.3548,7.851,med,high,short,male,Gomez
+Great Dane,50720.955,78.0137,7.3796,low,high,short,male,Ramsey
+Bearded Collie,19057.7376,,13.0852,high,high,long,female,Snow
+Bearded Collie,22014.6416,,13.1663,high,high,long,female,Walker
+Great Dane,54930.8604,79.0276,7.6664,med,high,short,female,Day
+Daschhund,6530.7852,21.1971,12.197,high,med,med,female,Walker
+Daschhund,8066.376,20.7983,13.0889,med,high,short,male,Garcia
+Dalmatian,19878.0452,48.0,13.45,high,high,short,male,Duarte
+Daschhund,8989.3943,20.958,13.8349,high,med,short,male,Young
+Dalmatian,22746.9875,48.0,13.8498,high,high,short,male,Green
+Bearded Collie,26632.0504,53.5605,12.2019,high,high,long,female,Pope
+Great Dane,49332.8882,,6.8008,med,high,short,female,Mcdonald
+Daschhund,15913.9945,21.205,13.511,med,low,short,male,Butler
+Great Dane,54953.1861,,7.6795,med,high,med,female,Gonzalez
+Dalmatian,23856.9967,48.0,13.0661,high,high,short,male,Barker
+Daschhund,10527.3082,,12.7213,high,med,short,male,Baker
+Daschhund,5402.2729,20.9247,13.5456,high,med,short,male,Orr
+Daschhund,10926.3532,21.4805,12.9453,high,med,short,male,Reid
+Great Dane,51112.6139,78.5099,6.8932,med,high,short,male,White
+Great Dane,44935.6686,,7.372,med,high,short,female,Walker
+Great Dane,48401.9746,,7.7974,low,high,short,female,Taylor
+Daschhund,10250.2414,20.4443,13.1561,high,med,short,male,Stanley
+Dalmatian,21930.9056,,12.6652,high,high,short,female,Vasquez
+Bearded Collie,15639.621,,12.5132,high,med,long,male,Gardner
+Daschhund,9138.7418,20.4591,12.4424,high,med,short,male,Williams
+Great Dane,52481.3286,,6.3264,med,high,short,female,White
+Daschhund,9546.1567,20.6105,12.4082,high,low,short,female,Compton
+Bearded Collie,23583.5005,53.3723,12.9052,high,high,long,female,Obrien
+Daschhund,8442.3512,21.1255,12.6786,high,med,short,male,Roberts
+Bearded Collie,25384.0102,53.8541,12.9818,high,high,long,female,Bender
+Daschhund,9780.0117,20.5426,12.1961,high,med,short,male,Brown
+Daschhund,9813.1101,21.0747,12.088,high,med,med,male,Bolton
+Great Dane,50914.1175,79.2435,6.8444,med,high,short,female,Thompson
+Great Dane,54030.3538,77.4429,6.6459,med,high,short,male,Wagner
+Dalmatian,20301.4992,48.0,14.2285,high,high,short,female,Dustin
+Bearded Collie,24343.3175,52.1973,11.6484,high,high,long,female,Pearson
+Daschhund,13796.5474,22.0542,13.3477,high,med,short,male,Barton
+Bearded Collie,22215.3252,56.2818,13.9938,high,high,long,male,Carter
+Bearded Collie,23019.6531,55.6568,13.6252,high,high,long,male,Prince
+Bearded Collie,23276.0432,,12.8914,high,high,long,female,Glenn
+Dalmatian,27743.0833,48.0,13.1015,high,high,short,female,Curry
+Daschhund,8207.6619,,12.9148,high,med,med,female,Smith
+Bearded Collie,27183.2691,53.0263,13.2245,high,med,long,female,Brown
+Dalmatian,23801.7277,48.0,12.6014,high,high,short,female,Johnson
+Daschhund,12186.5406,,12.4923,high,high,short,male,Walker
+Daschhund,11557.4158,21.771,13.2872,high,low,short,male,Walters
+Dalmatian,25506.3964,48.0,13.3044,high,high,short,male,Ortiz
+Bearded Collie,27979.3802,,12.2803,high,high,long,male,Wood
+Bearded Collie,18676.9462,53.5286,13.4543,high,high,med,male,Good
+Dalmatian,25022.3357,48.0,12.2579,med,high,med,female,Ray
+Bearded Collie,25782.6354,54.0306,11.98,high,high,long,female,Clark
+Daschhund,10988.1945,19.7238,13.5073,high,med,med,female,Cline
+Dalmatian,26466.1341,,12.4147,med,high,short,male,Jacobson
+Dalmatian,26479.0037,48.0,12.2013,high,high,short,female,Humphrey
+Bearded Collie,18158.1968,,13.3932,high,med,long,female,Matthews
+Bearded Collie,20825.8731,56.0833,13.1293,high,high,long,female,Scott
+Bearded Collie,22290.9655,52.4115,12.8378,high,high,med,male,Harrison
+Great Dane,48003.796,80.636,6.3475,med,high,short,female,White
+Dalmatian,23805.4734,48.0,12.9485,high,high,short,male,Moore
+Daschhund,7997.326,21.212,14.4329,high,med,med,female,Brown
+Bearded Collie,21265.2746,52.2295,13.0246,high,high,long,male,Christian
+Bearded Collie,19548.3692,53.6824,14.1039,high,high,med,male,Thomas
+Great Dane,47298.939,,6.8306,med,high,short,male,Reynolds
+Daschhund,12802.4361,21.1014,12.6759,high,med,short,male,Carter
+Great Dane,47900.1195,,6.2791,med,high,short,male,Cole
+Bearded Collie,25428.3068,52.5869,13.4486,med,high,long,male,Hunter
+Bearded Collie,20713.7968,53.7504,13.1126,high,high,long,male,Walton
+Daschhund,11555.688,20.9641,13.5968,high,med,short,male,Walker
+Great Dane,49838.1214,80.6846,6.2386,med,high,short,female,Crawford
+Dalmatian,23877.8225,48.0,12.681,high,high,short,male,Martin
+Great Dane,47676.6761,80.7097,6.9939,med,high,short,female,Harris
+Daschhund,16642.1706,20.8633,12.3604,med,med,short,female,Vega
+Bearded Collie,23932.9899,51.2154,11.5702,high,high,med,female,Higgins
+Bearded Collie,26068.0833,,12.994,high,high,long,female,Mullins
+Bearded Collie,22241.5184,55.6767,12.185,high,high,long,female,Medina
+Great Dane,53057.8827,79.9988,6.9556,med,high,med,male,Schultz
+Great Dane,54263.5619,,6.4349,med,high,short,male,Austin
+Dalmatian,25227.9868,48.0,13.2184,high,high,short,female,Henderson
+Daschhund,11701.0937,,13.3959,high,high,short,female,Walsh
+Dalmatian,26146.9461,48.0,13.3613,high,high,short,male,Castillo
+Daschhund,11059.5641,21.2617,12.9762,med,med,short,male,Hutchinson
+Daschhund,10193.7798,21.0193,12.9352,high,high,short,male,Trujillo
+Dalmatian,24397.968,48.0,12.85,high,high,short,female,James
+Bearded Collie,22800.0954,52.7453,12.8341,high,high,long,female,Marquez
+Daschhund,11207.6864,20.9279,13.3846,high,med,short,male,Bennett
+Great Dane,47948.0537,81.323,7.1961,med,high,short,female,Faulkner
+Dalmatian,28223.2936,48.0,13.4481,high,high,short,female,Davila
+Great Dane,52220.2393,79.5334,6.7007,med,high,med,female,Olson
+Bearded Collie,30635.6018,51.9845,13.6172,high,high,long,male,Chavez
+Daschhund,7912.7284,20.4847,11.9622,med,med,short,male,Young
+Daschhund,13070.1791,19.6608,13.0828,high,high,short,female,Smith
+Daschhund,10815.8707,21.9031,12.5,high,med,short,male,Page
+Bearded Collie,24425.2611,52.4802,13.3825,high,high,long,female,Curry
+Dalmatian,27009.8319,48.0,12.7876,high,high,short,male,Malone
+Daschhund,11978.7753,,12.3518,high,med,short,female,Gonzales
+Daschhund,9622.3124,21.6721,13.4089,high,med,short,female,Petersen
+Bearded Collie,23283.2659,53.9236,12.1078,high,high,long,female,Miller
+Bearded Collie,23195.8787,54.8651,13.4027,high,high,long,male,Padilla
+Daschhund,5325.7257,21.2996,11.8927,high,high,short,male,Moore
+Bearded Collie,22932.7097,53.8256,13.3556,high,high,long,male,Howard
+Daschhund,9199.2955,,12.6782,med,med,short,female,Shea
+Dalmatian,22907.9669,48.0,13.6796,high,high,short,female,Susan
+Bearded Collie,19589.1764,52.9305,12.2941,high,med,long,female,Galloway
+Bearded Collie,23949.7335,57.7163,13.643,high,high,long,male,Gomez
+Bearded Collie,22308.3766,53.323,12.3392,high,high,long,male,Noble
+Daschhund,7654.9985,20.5056,13.2695,high,med,short,male,Schroeder
+Bearded Collie,24201.7522,52.2445,13.6252,high,high,long,female,Rose
+Dalmatian,27053.2243,,12.8938,med,high,short,male,Torres
+Daschhund,8463.6807,20.9088,13.6896,high,med,short,female,Davis
+Great Dane,50412.4666,80.8837,7.9129,med,high,short,female,Brooks
+Dalmatian,19945.1454,48.0,12.6336,high,high,short,female,Lopez
+Daschhund,9014.963,20.4804,13.2909,med,med,short,male,Mckinney
+Great Dane,56102.1186,,6.9732,med,high,med,female,Nguyen
+Daschhund,13741.5418,21.24,12.7397,high,med,short,female,Smith
+Bearded Collie,25957.9938,,12.7651,high,high,long,male,Wood
+Great Dane,48396.9622,77.7108,7.1554,med,high,short,male,Williams
+Dalmatian,21164.4444,48.0,12.3089,high,high,short,female,Willis
+Daschhund,9596.7052,20.9419,12.8937,high,med,short,female,Williams
+Dalmatian,22176.3606,48.0,12.4644,high,med,med,male,Roth
+Daschhund,13639.8557,20.2111,14.2291,high,med,short,male,Weber
+Bearded Collie,24875.4448,,13.2749,high,high,long,male,Flores
+Dalmatian,19614.5544,48.0,12.9168,high,high,short,male,Marks
+Daschhund,16955.0388,,13.3637,high,med,short,female,Graham
+Daschhund,8551.7048,20.7668,13.0506,high,med,short,male,Miller
+Bearded Collie,23869.7538,53.8964,13.0587,high,high,long,male,Armstrong
+Daschhund,9600.2171,21.4824,13.9965,med,med,short,male,Schmitt
+Bearded Collie,24529.6803,54.45,12.4741,high,high,long,male,Chang
+Bearded Collie,24999.2511,54.3655,12.3413,high,high,med,female,Kristina
+Daschhund,13737.4566,,11.8526,high,med,short,female,Brown
+Great Dane,53368.4317,,6.7545,med,high,short,male,Bell
+Daschhund,2612.7268,21.2352,12.765,high,med,short,male,Thomas
+Daschhund,12987.4445,21.2218,13.3185,med,low,short,male,Brown
+Bearded Collie,20399.5777,49.9827,13.2122,high,high,long,male,Lawson
+Daschhund,9414.8418,20.8229,12.4012,high,med,short,female,Fowler
+Daschhund,12388.5897,21.8259,12.7213,med,med,short,female,Glass
+Great Dane,44818.587,80.9288,7.885,med,high,short,male,Roy
+Dalmatian,19857.0843,,13.3249,high,high,short,male,Mitchell
+Daschhund,11190.102,,13.3744,high,med,short,male,Hester
+Dalmatian,23881.1174,48.0,12.2386,high,high,short,female,Cannon
+Daschhund,13506.6023,21.4966,12.1431,high,med,short,male,Alvarez
+Great Dane,49903.8676,76.3179,7.0467,high,high,short,male,Gonzales
+Great Dane,45819.0554,,6.6981,med,high,short,female,Stone
+Daschhund,7822.3256,21.057,12.5064,high,med,short,female,Velasquez
+Great Dane,51621.3287,77.5597,5.8464,med,high,short,female,Gray
+Great Dane,47772.1101,79.6869,7.4958,med,high,short,male,Mendez
+Great Dane,54196.261,,7.0874,med,high,short,female,Mcmahon
+Bearded Collie,19578.321,52.2707,12.4909,high,high,long,female,Hernandez
+Dalmatian,20999.9101,,13.4103,high,high,short,female,Morgan
+Great Dane,46870.563,80.4122,7.7709,med,high,short,female,Johnson
+Bearded Collie,22902.1807,51.9363,13.177,high,high,long,male,Torres
+Dalmatian,24359.8883,48.0,13.0591,high,high,short,male,Mcbride
+Dalmatian,23642.4238,48.0,12.9541,high,high,short,male,Wolf
+Great Dane,54019.3501,77.714,6.3572,high,high,short,female,Alvarez
+Great Dane,48261.8396,80.1877,6.9907,high,med,short,female,Lopez
+Daschhund,7050.6167,20.7852,13.067,high,med,short,male,Beth
+Daschhund,11176.773,20.4295,13.1671,med,med,short,male,Quinn
+Dalmatian,25688.7194,48.0,13.5905,high,high,short,female,Porter
+Great Dane,51650.502,,6.5056,med,med,short,male,Ramos
+Great Dane,51523.0068,77.0069,6.8003,med,high,short,male,Simmons
+Bearded Collie,20211.7679,54.5735,12.8675,high,high,long,male,Pham
+Bearded Collie,21690.4168,52.0194,13.0811,high,high,long,male,Bridges
+Bearded Collie,28053.9323,51.3292,13.672,high,high,long,male,Sims
+Great Dane,47688.4588,78.1514,7.8029,low,high,short,male,Kelley
+Daschhund,8639.9219,20.9046,12.6655,high,med,short,male,Fowler
+Daschhund,7806.7056,20.9359,13.42,high,med,short,female,Floyd
+Daschhund,9148.8096,21.3715,12.3071,high,med,short,female,Adkins
+Bearded Collie,26324.3859,52.3336,12.4382,high,high,long,female,Taylor
+Bearded Collie,26266.5192,,11.9907,high,high,long,male,Wilkins
+Daschhund,8171.2584,20.2646,13.0094,high,med,med,male,Mcpherson
+Bearded Collie,20045.4637,51.9077,12.6586,high,high,long,female,Warren
+Great Dane,48026.0457,77.538,6.325,med,high,med,female,Schwartz
+Dalmatian,24440.7771,48.0,12.1855,high,high,short,female,Arellano
+Daschhund,9094.4773,20.8018,13.1689,high,med,short,female,Long
+Bearded Collie,23387.1468,53.151,14.2819,high,high,med,female,Smith
+Bearded Collie,24936.7727,52.9701,13.4275,high,high,long,female,Smith
+Bearded Collie,24065.0637,55.8454,13.5883,high,med,long,female,Young
+Bearded Collie,18791.838,52.5699,12.1791,high,high,long,male,Gilmore
+Dalmatian,23590.4438,48.0,13.0919,high,high,short,male,Nguyen
+Dalmatian,29271.7106,48.0,12.753,med,high,short,female,Edwin
+Dalmatian,25692.8854,48.0,13.8397,high,high,med,male,James
+Daschhund,9234.9861,19.7176,13.5224,high,med,short,female,Cooley
+Great Dane,50511.9631,77.485,6.177,med,high,short,female,Johnson
+Bearded Collie,22591.796,,12.234,high,high,long,female,Miller
+Dalmatian,21427.5487,48.0,13.6462,high,high,med,female,Frost
+Daschhund,11098.9996,20.5443,12.7005,high,low,short,male,Sharp
+Bearded Collie,22255.3616,54.8899,11.9196,high,med,long,male,Tate
+Dalmatian,23428.9903,48.0,12.0356,high,med,short,female,Price
+Great Dane,46575.5062,,7.315,med,high,med,female,Pearson
+Daschhund,12572.1298,21.6742,13.0386,high,med,short,male,Chung
+Daschhund,10433.6366,20.4371,12.6468,high,med,short,female,Khan
+Dalmatian,25649.8791,,13.1481,high,high,short,female,Hill
+Dalmatian,25638.1889,48.0,11.8241,high,high,short,male,Williams
+Bearded Collie,22452.9752,,13.5602,high,high,long,male,Parks
+Daschhund,14191.4052,,12.5056,high,med,short,female,Jackson
+Dalmatian,20221.5104,48.0,12.8075,med,high,short,male,Jones
+Great Dane,53600.3943,,6.7881,med,high,short,female,Smith
+Great Dane,53425.6057,77.5324,7.7641,med,high,short,female,Nichols
+Bearded Collie,21820.6191,53.3042,13.5754,high,high,med,female,Smith
+Daschhund,8766.5143,21.2162,13.4659,high,high,short,male,Fleming
+Daschhund,15310.2904,,12.782,high,med,short,female,Burgess
+Daschhund,2493.3875,20.137,13.2667,high,med,short,female,Ramirez
+Great Dane,48129.8647,78.035,6.7519,low,high,short,male,Chen
+Daschhund,7620.4365,20.7359,13.3732,high,high,short,male,Hall
+Daschhund,9590.3954,21.2634,12.8924,high,med,short,male,Willis
+Dalmatian,25105.8299,48.0,12.7309,high,high,med,male,Hamilton
+Great Dane,51382.8695,,6.5409,med,high,short,male,Miller
+Great Dane,45855.4502,77.6117,5.753,med,high,short,female,Thompson
+Bearded Collie,24618.2999,,12.6438,med,med,long,male,Delgado
+Great Dane,51288.4637,,6.7326,med,high,short,male,Nicholson
+Dalmatian,23073.1148,48.0,13.2946,high,high,short,male,Wolf
+Great Dane,42392.1011,78.6867,6.8109,low,high,short,female,Harris
+Dalmatian,23560.3747,48.0,12.6629,high,med,short,female,Cain
+Dalmatian,23843.443,48.0,11.7068,high,high,short,female,Forbes
+Dalmatian,22295.9111,48.0,13.127,high,high,short,female,Cook
+Great Dane,52641.1026,76.6572,6.6856,med,high,short,male,Bell
+Dalmatian,24824.4041,48.0,12.2477,high,high,short,male,Snyder
+Bearded Collie,22030.1059,52.2701,12.6668,high,high,long,female,Contreras
+Great Dane,53793.1032,,7.7059,med,high,short,female,Patel
+Dalmatian,27283.3295,,13.3438,high,high,short,female,Heather
+Great Dane,49393.4339,78.3818,7.2155,med,high,short,female,Cook
+Bearded Collie,26788.0568,54.2104,13.3928,high,high,long,male,Morgan
+Daschhund,7633.3807,21.4713,12.9927,high,med,short,male,Stephenson
+Dalmatian,25775.6895,48.0,13.6137,high,high,short,male,Smith
+Bearded Collie,20759.6223,53.5234,13.5001,high,high,long,male,Carter
+Bearded Collie,24753.545,52.464,12.773,high,high,long,female,Cruz
+Daschhund,11625.5011,21.3788,12.7806,high,med,short,male,Thomas
+Daschhund,10322.488,21.625,12.7527,high,med,med,male,Delacruz
+Bearded Collie,27397.4104,53.3166,13.1369,high,med,long,female,Humphrey
+Great Dane,49488.1065,78.6688,6.7684,med,high,short,female,Peters
+Bearded Collie,21543.0867,52.7841,12.9256,high,high,long,female,Smith
+Great Dane,50004.5088,,7.0123,med,med,short,male,Moore
+Dalmatian,21741.5855,48.0,13.5364,high,high,short,male,Small
+Dalmatian,24332.6272,48.0,13.2735,high,high,short,female,Williams
+Bearded Collie,23899.8865,52.5077,12.6681,high,med,long,male,Brown
+Dalmatian,26804.9144,48.0,13.406,high,high,short,female,Rodriguez
+Great Dane,47434.6144,79.3602,7.0093,med,high,short,female,Davis
+Bearded Collie,22929.9472,53.032,12.7291,high,high,med,female,Colon
+Daschhund,8270.9132,21.8605,13.6558,med,med,med,male,Burgess
+Bearded Collie,26473.22,51.1263,13.5774,high,high,long,male,Smith
+Dalmatian,24225.4583,48.0,13.9666,high,high,short,female,Davis
+Great Dane,49776.7061,79.6863,7.3047,med,high,med,male,Johnson
+Dalmatian,22251.8622,48.0,12.9843,high,high,short,male,Kirk
+Dalmatian,20756.6013,,13.3411,high,high,short,male,Williams
+Bearded Collie,21361.1375,50.6856,13.2277,high,high,med,female,Morrow
+Great Dane,54518.758,,6.4027,med,high,short,male,Green
+Bearded Collie,20433.8322,51.6991,12.3422,high,high,long,female,Miller
+Dalmatian,23727.9177,48.0,13.0997,high,high,short,female,Mercado
+Bearded Collie,24065.6943,,13.8087,high,high,long,male,Powell
+Daschhund,11424.394,21.3876,12.9827,high,med,short,male,Stevens
+Great Dane,42590.4234,76.8285,7.2565,med,high,short,female,Marshall
+Dalmatian,25290.6345,48.0,13.7823,med,med,short,male,Vasquez
+Daschhund,8134.2216,21.6395,13.1081,high,med,short,male,Little
+Great Dane,51311.8338,77.305,6.3229,med,high,short,male,Gonzalez
+Great Dane,50309.1911,,6.9008,med,high,short,male,Patrick
+Daschhund,11071.6422,19.9668,13.1248,high,med,short,female,Graham
+Great Dane,52027.1458,77.0824,6.6315,low,high,short,female,Chavez
+Bearded Collie,20546.0738,,13.8856,high,high,long,female,Carlson
+Bearded Collie,21291.9888,50.3543,13.5879,high,high,long,male,Turner
+Great Dane,47506.5228,80.1121,7.8259,med,high,short,female,Gallegos
+Bearded Collie,25091.5981,51.1545,13.0706,high,high,long,male,Stevenson
+Bearded Collie,20403.9182,56.3438,11.6358,high,high,med,male,Rivera
+Bearded Collie,25816.3483,52.6501,13.103,high,high,long,male,Simpson
+Dalmatian,23472.7575,48.0,12.3034,high,high,short,male,Smith
+Bearded Collie,21127.5527,55.6199,13.9869,high,med,long,male,Kemp
+Dalmatian,22813.3306,,13.2435,high,high,short,female,Daniels
+Bearded Collie,20162.1433,,13.2676,high,high,long,male,Ferguson
+Daschhund,4278.1485,21.4891,12.8017,high,med,short,female,Nguyen
+Dalmatian,21237.7517,48.0,13.9787,med,med,short,male,Fischer
+Dalmatian,22893.5406,48.0,13.7925,high,high,short,female,Smith
+Bearded Collie,18486.9012,55.2633,14.1018,high,high,long,male,Anderson
+Great Dane,58129.6266,80.5072,6.7302,med,high,short,female,Garcia
+Great Dane,52434.841,77.9279,7.3345,med,high,short,female,Conway
+Dalmatian,27204.777,48.0,12.574,high,high,short,male,Padilla
+Bearded Collie,21958.7861,52.5895,13.9337,med,high,long,female,Fox
+Bearded Collie,24870.1677,53.5999,12.9929,med,high,long,male,Harris
+Dalmatian,21659.9201,48.0,13.5277,high,high,short,female,Christensen
+Great Dane,48020.0427,78.9871,6.8695,med,high,short,female,Phelps
+Dalmatian,19543.6423,48.0,13.3405,high,high,short,male,Riddle
+Bearded Collie,20415.0612,51.2413,13.916,high,high,long,female,Moore
+Bearded Collie,26826.6609,49.6678,12.7455,med,high,long,male,Huber
+Daschhund,14149.5288,20.9715,13.4219,med,med,short,female,Taylor
+Dalmatian,22220.185,,12.124,high,med,med,male,Martinez
+Dalmatian,25304.5805,48.0,12.5933,med,high,short,female,Evans
+Daschhund,11683.7814,21.461,12.5961,high,low,short,female,Barrett
+Dalmatian,24189.0736,48.0,12.5743,high,high,short,male,Kemp
+Great Dane,51035.116,78.0323,6.3166,med,high,short,female,Norton
+Bearded Collie,24268.4629,52.1054,13.151,high,high,med,male,Ware
+Great Dane,54593.4675,81.7733,7.0969,med,high,med,male,Thompson
+Daschhund,9904.8736,22.4108,13.8937,high,med,short,female,Vaughn
+Bearded Collie,27365.6948,52.8792,12.0617,high,high,long,female,Turner
+Great Dane,50537.5963,,7.2758,low,high,short,female,Patel
+Daschhund,6774.5289,20.5713,13.1352,high,med,short,male,Gibbs
+Bearded Collie,24888.919,52.5885,12.1505,high,high,long,male,Miller
+Bearded Collie,22036.7509,53.4588,13.5014,high,high,long,female,Simmons
+Great Dane,55918.7541,,6.721,med,med,short,male,Malone
+Dalmatian,18774.9754,48.0,12.2919,high,high,short,male,Eaton
+Great Dane,50050.3036,80.4216,8.0084,med,high,short,male,Nunez
+Dalmatian,24431.6753,,12.5861,high,high,short,male,Cross
+Great Dane,49304.3171,83.1663,5.8334,high,high,short,male,Davis
+Bearded Collie,23843.6181,51.6112,13.1604,med,high,long,female,Adams
+Dalmatian,22600.3607,48.0,12.823,high,high,med,male,Becker
+Dalmatian,24567.2598,48.0,14.285,high,high,short,female,Smith
+Daschhund,8987.7494,21.1187,12.6038,high,high,short,female,Case
+Great Dane,48696.4965,80.2164,6.9181,med,high,short,male,Butler
+Bearded Collie,19456.8069,54.3168,13.272,high,med,med,male,Guerrero
+Dalmatian,23474.5682,48.0,13.1867,high,high,short,female,Anderson
+Great Dane,49394.4355,79.974,6.8571,med,high,short,female,Adams
+Great Dane,47859.2938,,7.2838,med,high,short,male,Thomas
+Dalmatian,18651.8246,48.0,12.627,high,high,short,male,White
+Daschhund,10739.3611,21.3897,14.1912,high,med,short,female,Davis
+Great Dane,51713.7282,78.9975,7.1789,med,high,short,female,Gonzales
+Bearded Collie,27573.6592,48.9998,12.7119,high,high,long,female,Lopez
+Great Dane,51870.0937,79.6443,7.0389,low,high,med,female,Sims
+Great Dane,48458.2265,76.6827,7.0256,med,high,short,male,Harding
+Great Dane,50590.9566,,8.2236,med,high,short,male,Parks
+Bearded Collie,21291.8564,,13.4777,high,high,long,male,Wilson
+Daschhund,11765.1089,20.522,13.1047,med,med,med,male,Jefferson
+Great Dane,55884.0042,78.4057,6.152,med,high,short,male,Sullivan
+Great Dane,50521.2555,,6.8455,med,high,short,female,Acevedo
+Daschhund,9296.1729,20.833,12.4718,med,med,short,male,Nichols
+Daschhund,15050.6148,21.7123,13.8563,high,med,short,female,Carter
+Bearded Collie,19724.8159,51.6701,12.5305,high,high,long,female,Barber
+Daschhund,9214.5557,20.0537,13.4827,high,med,short,female,Martinez
+Bearded Collie,21757.6438,50.4001,13.2493,high,med,long,female,Caldwell
+Daschhund,5855.7023,20.7426,12.8749,high,med,med,female,Spears
+Daschhund,12714.4577,20.7559,13.167,med,high,short,male,Brown
+Dalmatian,19695.0548,48.0,13.098,high,high,med,male,Marquez
+Great Dane,51103.4759,,7.3047,med,high,short,male,Rodriguez
+Bearded Collie,27097.3137,52.0183,13.733,high,high,long,male,Kennedy
+Bearded Collie,23063.5535,,12.1949,high,high,long,female,Phillips
+Great Dane,51136.5652,77.5038,8.0073,high,med,short,female,Marshall
+Daschhund,9755.1424,21.7913,13.7607,high,med,short,female,Martinez
+Bearded Collie,25244.7337,52.1703,13.9098,high,high,long,male,Boyer
+Great Dane,46631.2368,79.1959,6.8912,med,high,short,female,Martinez
+Great Dane,51614.6637,76.926,6.7479,med,high,short,female,Jackson
+Bearded Collie,24223.5369,51.1048,12.2236,high,high,long,female,Galvan
+Daschhund,9399.3976,19.6079,13.6953,high,med,short,female,Bartlett
+Daschhund,14616.2477,21.514,13.5888,high,med,short,female,Shawn
+Daschhund,12572.4574,21.436,13.175,high,med,short,female,Crawford
+Great Dane,55031.3437,,6.9615,med,high,short,female,Jordan
+Bearded Collie,23574.6782,55.0469,12.1108,high,high,long,male,Bray
+Dalmatian,22671.4422,48.0,13.4577,med,high,short,male,Gray
+Bearded Collie,22588.0047,53.8237,13.2195,high,high,long,male,Schneider
+Bearded Collie,24268.9361,51.1859,13.2639,high,high,long,male,Kelly
+Great Dane,47767.2162,77.0285,7.141,med,high,short,male,Jones
+Daschhund,7344.3862,21.4222,11.9198,high,med,short,female,Barrett
+Daschhund,13241.6888,23.1235,13.641,high,med,med,male,Reed
+Great Dane,49086.7122,78.726,7.6536,med,med,med,male,Johnson
+Great Dane,51951.3966,78.993,6.9611,med,med,short,male,Wilson
+Daschhund,13472.6851,20.868,12.8304,high,med,short,male,Villa
+Great Dane,51830.2245,76.3434,5.901,high,high,short,male,Carter
+Great Dane,48354.233,76.5135,7.9937,med,high,short,male,Ramirez
+Bearded Collie,21405.8484,52.5524,12.777,high,high,long,female,White
+Daschhund,8066.5909,21.0235,13.8151,high,med,short,male,Noble
+Dalmatian,25940.9974,48.0,12.934,high,med,short,male,Burton
+Great Dane,47894.6267,80.7965,5.8332,low,high,short,male,Smith
+Great Dane,50245.8531,80.0072,7.2394,med,high,short,male,Roth
+Bearded Collie,21803.3737,,12.9748,high,high,long,male,Miller
+Great Dane,47486.4133,79.8976,5.9469,med,high,short,female,Ray
+Daschhund,8950.3356,21.4997,12.5801,high,med,short,female,Diaz
+Bearded Collie,21519.1982,,13.3308,high,high,long,male,Morris
+Daschhund,4286.2404,20.5401,14.2283,high,med,short,female,Lawson
+Dalmatian,25035.4727,48.0,13.0081,high,high,short,male,Davis
+Great Dane,48405.6614,79.709,6.1125,med,high,short,female,Torres
+Dalmatian,24171.3956,48.0,13.3012,high,high,short,male,Atkinson
+Bearded Collie,19239.4632,52.8973,13.2702,high,high,long,male,Weiss
+Bearded Collie,20637.1344,,13.5847,high,high,long,male,Wolf
+Great Dane,53614.7255,79.8547,6.9905,med,high,short,male,Miller
+Great Dane,46147.0691,80.2888,7.7239,med,high,short,male,Randall
+Dalmatian,21331.6452,48.0,13.2957,high,high,short,male,Curry
+Daschhund,11473.7755,,12.5608,high,med,med,female,Smith
+Daschhund,11964.8233,,12.3074,high,med,short,male,Schneider
+Daschhund,5996.3447,21.5055,12.3169,high,med,short,male,Lewis
+Daschhund,7982.8674,20.2856,12.6031,high,med,short,male,Nguyen
+Bearded Collie,24429.8307,52.7688,13.3604,med,high,long,female,George
+Bearded Collie,20655.5711,50.9808,12.8124,high,high,long,male,Cruz
+Dalmatian,20616.5488,48.0,12.9644,high,high,short,female,Boyd
+Dalmatian,21838.0705,48.0,12.424,high,high,short,female,Taylor
+Daschhund,11380.4452,20.4449,12.7472,high,med,short,male,Guzman
+Bearded Collie,20665.6657,55.3628,13.9569,high,med,long,female,Evans
+Daschhund,10102.6435,20.3759,12.3764,high,med,short,female,Wright
+Dalmatian,23142.2958,48.0,13.7106,high,high,short,male,Williams
+Great Dane,55406.8282,79.7732,7.2395,med,high,short,male,Maxwell
+Daschhund,13818.8566,20.2903,12.9011,high,med,med,female,Bird
+Daschhund,5062.6619,20.8772,13.2515,high,high,short,female,Meza
+Great Dane,50539.3289,78.637,7.7504,med,high,short,female,Knight
+Dalmatian,23242.8984,48.0,12.9868,med,high,short,male,Lee
+Bearded Collie,17495.1338,50.8611,13.5219,high,high,long,female,Johnson
+Great Dane,57549.214,75.6685,7.0345,med,high,short,male,Fritz
+Bearded Collie,21945.3997,53.0098,11.546,high,high,long,male,Montgomery
+Dalmatian,21849.7101,48.0,13.1772,med,high,short,male,Cannon
+Great Dane,57685.285,76.5174,6.5982,med,high,short,female,Young
+Great Dane,47958.2635,,8.0757,med,high,short,female,Hancock
+Daschhund,7760.2175,21.3892,12.3004,high,med,short,female,Crosby
+Dalmatian,23179.4907,48.0,12.1634,med,high,short,female,Williams
+Dalmatian,27831.353,48.0,14.2215,high,high,short,male,Stewart
+Daschhund,4601.9937,21.2317,13.5703,high,med,short,male,Bradford
+Great Dane,49693.8646,78.5279,6.7797,low,high,short,male,Camacho
+Daschhund,8465.9104,21.4662,12.8438,high,high,short,male,Santana
+Great Dane,49856.5822,77.5698,6.1274,low,high,short,male,Ellis
+Dalmatian,24111.316,48.0,13.0871,med,high,short,female,Kelly
+Dalmatian,22448.9497,48.0,12.3878,high,high,short,male,Simpson
+Bearded Collie,22715.0313,53.765,12.6594,high,high,long,male,Michael
+Daschhund,7983.0991,21.4429,12.7787,high,med,short,female,Craig
+Great Dane,55925.598,80.7482,7.2587,med,high,short,female,Barnett
+Daschhund,8438.9525,21.3557,12.9021,high,low,short,male,David
+Bearded Collie,21560.3181,53.9611,12.6256,high,high,med,female,Norris
+Dalmatian,20681.8173,48.0,13.1749,high,high,short,male,Quinn
+Bearded Collie,26225.6793,53.5025,13.1118,high,high,long,male,Irwin
+Bearded Collie,21281.0618,50.9507,12.3031,med,high,long,male,Taylor
+Daschhund,9848.8529,21.4684,13.3356,high,med,short,male,Andrews
+Great Dane,48398.7785,76.8839,7.6114,med,high,short,female,Thomas
+Dalmatian,24239.6524,48.0,13.2754,high,high,short,male,Garcia
+Dalmatian,26955.7117,48.0,13.2222,high,high,short,male,Anderson
+Great Dane,53686.1061,77.2585,7.5206,med,med,short,female,Johnson
+Bearded Collie,22253.3741,53.241,12.9375,high,high,long,female,Brown
+Daschhund,8827.1599,21.3669,13.3156,high,med,short,male,Guzman
+Bearded Collie,22262.9532,52.2283,12.9148,high,high,long,male,Moore
+Great Dane,49483.9698,79.2086,6.3269,high,high,short,male,Barnett
+Great Dane,50927.2262,79.519,6.7459,med,high,short,male,Sweeney
+Daschhund,9975.9322,21.8734,12.1357,high,med,short,female,Sandoval
+Bearded Collie,24910.9748,,13.112,high,high,long,male,Webb
+Great Dane,46687.4424,,6.1806,med,high,short,male,Wells
+Bearded Collie,20883.7809,54.8969,12.9779,high,med,long,male,Combs
+Daschhund,14055.8055,20.7651,13.0662,high,med,short,male,Ortiz
+Daschhund,8511.4746,21.5455,13.3115,high,med,short,female,Jenkins
+Bearded Collie,23055.9539,48.3925,12.8033,med,high,long,male,Caldwell
+Bearded Collie,24507.5328,,13.8166,high,high,med,male,Wilson
+Daschhund,15198.3649,19.8132,12.9675,high,high,short,female,Stanley
+Great Dane,50042.6004,81.2679,7.3206,med,high,med,female,Krueger
+Great Dane,47382.9006,76.7585,7.6842,med,high,short,male,Hunt
+Dalmatian,25892.0019,,12.4315,high,high,short,male,Austin
+Daschhund,6253.0107,,13.2072,high,med,short,female,Reyes
+Bearded Collie,23202.0039,51.933,13.6332,med,high,long,male,Ramos
+Bearded Collie,18973.3411,55.1811,14.2379,high,high,long,male,Miller
+Bearded Collie,21689.6465,51.0478,12.9059,med,high,long,male,Rowe
+Great Dane,54972.9638,79.2455,6.298,med,high,short,female,Ward
+Bearded Collie,18128.5653,53.5298,12.0947,high,high,long,male,Kimberly
+Daschhund,12932.255,21.2541,13.8114,med,med,short,male,Taylor
+Daschhund,10324.4481,21.4545,11.749,high,med,short,male,Guerrero
+Dalmatian,23836.9979,48.0,13.252,high,high,short,male,Freeman
+Bearded Collie,23859.1728,53.4544,14.4289,high,med,long,male,Allen
+Bearded Collie,24876.7761,49.3698,13.1909,high,med,long,female,Spencer
+Great Dane,49541.8105,80.6805,6.7947,med,high,med,male,Jones
+Great Dane,49234.7992,78.3414,6.1542,med,high,short,female,Shelton
+Bearded Collie,21744.5197,,13.3631,high,high,long,male,Villarreal
+Bearded Collie,20646.255,54.2677,13.1177,high,high,long,male,Mitchell
+Daschhund,8836.9681,20.9744,12.5882,high,low,short,male,Moore
+Great Dane,44705.1267,76.4439,6.3629,med,high,short,male,Welch
+Dalmatian,27979.2273,,12.7189,high,high,med,male,Burnett
+Daschhund,12074.2234,20.8872,12.4924,high,med,short,male,Aguirre
+Bearded Collie,18584.4317,51.6023,13.1236,high,high,med,female,Abbott
+Daschhund,1439.9684,,12.6206,high,med,med,female,Walker
+Bearded Collie,29605.4039,52.988,13.227,med,high,med,male,Leon
+Daschhund,6238.2502,21.1702,14.1143,high,med,short,female,Reed
+Bearded Collie,25775.1726,52.6897,13.9354,high,high,long,female,Pineda
+Great Dane,51566.0359,78.3623,7.1975,low,high,short,male,Douglas
+Great Dane,44362.8294,78.742,7.2723,med,high,short,male,Pena
+Daschhund,13136.5552,21.5799,13.6144,high,low,short,female,Hernandez
+Daschhund,10496.8907,20.6001,13.2803,high,low,short,female,Smith
+Dalmatian,21269.3853,48.0,13.1617,high,high,short,female,Martinez
+Bearded Collie,21334.0687,53.1201,13.1567,high,high,long,female,Lopez
+Daschhund,6786.4762,,13.041,high,high,med,female,Williams
+Bearded Collie,25957.3525,53.624,12.3452,high,high,long,male,Melton
+Bearded Collie,26406.5462,54.7794,13.0458,med,high,long,female,Bennett
+Dalmatian,22366.629,48.0,12.8198,high,high,med,male,Pena
+Great Dane,51004.265,79.1883,7.7142,med,high,short,female,Williams
+Daschhund,7367.5852,20.799,12.9928,high,high,short,female,Washington
+Daschhund,6255.8818,20.0609,14.372,high,low,short,female,Bright
+Daschhund,16015.92,20.8394,12.9353,high,low,short,female,Andrew
+Daschhund,6054.0949,22.4742,11.5526,high,med,short,female,Fisher
+Bearded Collie,22473.5681,52.2653,12.327,high,high,long,male,Smith
+Daschhund,7428.7355,,12.9798,high,med,short,male,Wise
+Daschhund,5743.0749,21.678,12.9176,high,med,med,female,Lynch
+Bearded Collie,20815.0938,53.7945,13.7196,high,high,long,female,Rogers
+Great Dane,42409.866,79.1492,6.5953,med,high,short,male,White
+Bearded Collie,23339.0555,51.5275,12.6412,high,high,long,female,Petty
+Daschhund,7388.0392,,11.6209,high,low,short,female,Villarreal
+Daschhund,11740.0881,20.6187,12.69,high,med,short,female,Johnson
+Daschhund,10778.8023,20.2909,12.5996,high,high,short,female,Mark
+Great Dane,50153.1864,78.4999,7.1712,med,high,short,female,Smith
+Bearded Collie,26019.1376,51.8643,13.6353,high,high,long,male,Marks
+Daschhund,10218.3848,21.0785,13.0612,med,high,short,female,Allen
+Great Dane,50457.7801,84.2325,6.8166,med,high,short,female,Krueger
+Dalmatian,20727.279,48.0,13.7212,high,high,short,male,Wilson
+Great Dane,52850.8866,79.5227,7.1041,med,high,short,male,Ruiz
+Daschhund,13234.1511,21.139,12.1184,high,med,short,female,Taylor
+Dalmatian,26708.1702,48.0,13.9332,high,high,short,female,Morgan
+Great Dane,48471.0274,,6.8635,med,high,short,female,Everett
+Dalmatian,24053.1834,48.0,12.2427,high,high,short,male,Walker
+Bearded Collie,23010.2249,51.3982,13.2734,high,high,long,male,Gray
+Great Dane,47968.9544,76.6145,6.6582,med,high,short,female,Davis
+Great Dane,52059.8762,,6.4776,med,high,short,male,Smith
+Bearded Collie,25627.2075,53.1869,12.8122,high,high,long,male,Lawson
+Bearded Collie,24921.465,54.5445,13.5297,high,high,long,female,Cox
+Great Dane,51987.9996,81.2372,7.3245,med,high,med,female,Nichols
+Great Dane,50567.4984,,7.7188,low,high,short,female,Foster
+Dalmatian,21960.5921,48.0,12.9592,high,high,short,female,Linda

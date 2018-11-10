@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Airedale Terrier,20512.444,,10.9636,high,high,med,male,Conner
+Dalmatian,24253.843,48.0,13.5267,high,high,short,male,Bryant
+Airedale Terrier,20397.7638,56.8351,12.5338,high,high,med,male,Ayala
+Airedale Terrier,22037.2391,,10.939,high,high,long,female,Garcia
+Beagle,10299.8447,33.3678,13.8428,low,high,short,male,Russell
+Airedale Terrier,21402.6425,,11.5533,high,high,short,male,Cameron
+Airedale Terrier,19839.5475,56.9036,11.3971,high,high,med,male,Mahoney
+Dalmatian,21590.7888,48.0,13.8199,high,high,short,male,Turner
+Welsh Corgi,14596.2029,,9.7807,med,high,long,male,Kim
+Welsh Corgi,14504.4288,27.8568,11.4195,med,high,med,female,Horton
+Beagle,8271.5398,35.6056,15.2032,med,high,short,male,Hall
+Dalmatian,24512.0054,,12.9046,high,high,short,male,Campbell
+Beagle,9662.255,,13.0959,med,high,short,male,Smith
+Dalmatian,26772.6507,48.0,13.0353,high,high,short,male,Kent
+Welsh Corgi,11730.5574,24.7206,12.4087,med,high,med,female,Rosario
+Beagle,11446.4496,34.8833,14.8126,med,high,short,male,Smith
+Welsh Corgi,12982.2333,,11.3018,med,high,med,female,Baker
+Welsh Corgi,12611.8128,29.6816,10.6504,med,high,med,male,King
+Airedale Terrier,16873.777,56.3671,10.8954,high,high,med,female,Casey
+Beagle,11166.6101,35.613,12.1523,low,high,short,male,Spencer
+Beagle,8860.8386,35.9996,12.5708,med,high,short,male,Kemp
+Beagle,12301.4908,34.3485,12.2374,med,high,short,male,Ellis
+Dalmatian,22697.9049,48.0,13.102,high,high,med,female,Carter
+Airedale Terrier,23758.6115,,13.9025,high,high,med,male,Horne
+Beagle,9893.677,36.0928,15.3598,high,high,short,male,Bennett
+Welsh Corgi,16269.7272,26.8019,11.2185,med,high,med,female,Miller
+Welsh Corgi,15211.6339,,11.2572,med,high,med,female,Stephenson
+Dalmatian,19450.1736,48.0,13.1445,high,high,short,male,Anderson
+Dalmatian,22980.8715,48.0,12.7608,high,high,short,male,Mckee
+Beagle,11951.3764,36.7425,12.6499,med,high,short,male,Benjamin
+Welsh Corgi,14161.9687,25.5372,11.7872,med,high,med,male,Randolph
+Airedale Terrier,20438.0093,55.9532,10.493,med,med,med,female,Yu
+Airedale Terrier,21680.7404,56.4497,11.3097,high,high,short,female,Burke
+Dalmatian,23794.762,48.0,13.2381,high,high,short,male,Wilson
+Beagle,12238.9079,,12.4445,med,high,short,male,Hayes
+Beagle,12125.4086,36.4022,12.9248,med,high,short,female,Chase
+Dalmatian,24981.6756,48.0,12.8167,high,high,short,male,Schneider
+Welsh Corgi,18216.4454,34.8835,10.8549,low,med,med,female,Murphy
+Dalmatian,25008.9274,48.0,12.8336,high,high,short,female,Andrade
+Welsh Corgi,14599.4531,29.4727,10.1937,med,high,short,male,Evans
+Welsh Corgi,14715.9492,25.7921,11.1492,med,high,med,female,Brown
+Welsh Corgi,13812.6551,26.0661,10.7115,med,high,med,female,Adkins
+Dalmatian,24554.0894,48.0,13.569,high,high,short,female,Lane
+Welsh Corgi,12108.4829,28.3946,11.5362,med,high,med,male,Harrison
+Welsh Corgi,15012.5828,,10.704,med,high,long,male,Davis
+Dalmatian,20601.6809,48.0,15.418,high,high,short,male,Brown
+Airedale Terrier,19604.3969,57.0074,10.8114,high,high,med,male,Ellis
+Airedale Terrier,19735.6038,57.5684,11.3037,high,high,long,male,White
+Airedale Terrier,19515.0805,56.3869,12.6648,high,high,med,female,Hicks
+Dalmatian,20342.2781,48.0,12.7394,high,high,short,male,Whitaker
+Airedale Terrier,21248.2924,58.3449,11.5613,med,high,med,female,Lynch
+Dalmatian,23520.1724,48.0,11.8222,high,high,short,male,Boyd
+Dalmatian,21486.3156,48.0,13.7239,high,high,short,female,Stanton
+Dalmatian,25769.1374,48.0,12.8308,high,high,short,male,Simmons
+Airedale Terrier,19778.7158,,11.4342,high,high,med,female,Werner
+Beagle,8758.5269,,13.5174,med,high,short,male,Lisa
+Dalmatian,21309.3008,48.0,11.4769,high,high,short,female,Salazar
+Airedale Terrier,22130.4005,57.02,11.49,high,high,med,female,Perry
+Dalmatian,23417.8022,48.0,12.823,high,med,short,female,Miller
+Airedale Terrier,19581.5639,57.9658,11.922,high,high,long,female,Bailey
+Airedale Terrier,21898.9362,57.3333,11.7562,high,high,med,female,Davis
+Welsh Corgi,14151.2684,27.0557,11.526,med,high,med,male,Washington
+Dalmatian,21919.0502,48.0,12.161,high,high,short,male,King
+Beagle,12055.3931,34.7198,12.7193,med,med,short,male,Thomas
+Welsh Corgi,11462.0295,,11.5399,med,high,med,female,Mcknight
+Welsh Corgi,15488.5055,27.1134,10.984,med,high,med,female,Mcintosh
+Welsh Corgi,14904.3631,,10.2496,med,high,med,female,Fuentes
+Beagle,11358.4232,,13.1459,high,high,med,female,Smith
+Dalmatian,25859.5986,48.0,12.2975,high,med,short,female,Obrien
+Beagle,10545.5472,36.4257,12.6417,med,high,short,female,Moreno
+Welsh Corgi,13516.5429,29.1098,11.253,med,high,med,male,Bowers
+Beagle,11264.9474,,12.9531,med,high,short,female,Medina
+Airedale Terrier,22006.2509,57.5997,10.8777,high,high,med,male,White
+Welsh Corgi,12984.4284,36.3466,11.1175,med,high,short,female,Hill
+Airedale Terrier,19336.8775,57.1785,10.6358,med,high,med,male,Eric
+Dalmatian,23853.2959,,14.0776,high,high,short,female,Miller
+Dalmatian,25230.1452,48.0,13.9131,high,high,short,female,Scott
+Airedale Terrier,23310.1915,57.6742,11.2839,high,high,med,male,Harmon
+Airedale Terrier,19501.189,56.9254,14.0883,high,high,med,female,Hendricks
+Welsh Corgi,16061.2385,33.0259,10.681,med,high,med,female,Klein
+Welsh Corgi,14927.9857,27.6417,11.534,med,high,med,female,Anderson
+Airedale Terrier,20380.9673,56.7053,11.6256,high,high,med,female,Hahn
+Beagle,10856.764,,13.8965,med,high,short,male,Richards
+Welsh Corgi,13516.4121,26.4172,9.7117,med,high,long,male,Warren
+Dalmatian,24429.4453,48.0,13.7175,high,high,short,male,Jordan
+Welsh Corgi,16180.04,,11.7367,med,high,med,male,Morales
+Beagle,8890.9149,36.0369,13.779,med,high,short,male,Stark
+Dalmatian,22321.3394,48.0,13.0869,high,high,short,male,Dunn
+Welsh Corgi,13956.2343,28.2996,10.5664,med,med,med,female,Lopez
+Dalmatian,23559.3356,48.0,12.6894,high,high,short,male,Glenn
+Dalmatian,26612.4106,48.0,12.0059,high,med,short,male,Bernard
+Airedale Terrier,18259.3355,57.7093,11.0707,high,high,long,female,Taylor
+Beagle,9742.745,36.1641,15.0886,high,high,short,male,Peters
+Welsh Corgi,16174.7349,31.0816,11.357,med,high,short,female,Richards
+Airedale Terrier,19037.4346,56.4161,11.6162,high,high,med,female,Michael
+Beagle,11359.9373,,13.2725,low,high,short,male,Smith
+Welsh Corgi,11173.7748,30.1321,10.7031,med,high,med,female,Lee
+Welsh Corgi,11501.9078,27.6308,9.769,low,high,med,male,Patterson
+Airedale Terrier,20100.8359,56.9534,11.1854,high,high,med,male,Rogers
+Welsh Corgi,14887.2599,31.8595,11.8284,med,high,med,female,Richards
+Dalmatian,22946.4571,48.0,13.1879,high,high,med,female,Buck
+Welsh Corgi,17157.5794,27.8168,10.4717,med,high,med,male,Curtis
+Dalmatian,21251.8719,48.0,13.0229,high,high,short,male,Munoz
+Airedale Terrier,20330.4386,56.2837,11.8662,high,high,med,male,Amanda
+Airedale Terrier,21798.8068,57.1171,11.9029,high,high,med,female,Valdez
+Welsh Corgi,13383.8375,35.7657,10.6163,med,high,med,female,Bernard
+Dalmatian,21627.0381,48.0,13.2557,high,med,short,female,Levy
+Airedale Terrier,22626.6968,,11.7698,high,high,med,male,Gutierrez
+Welsh Corgi,12179.0527,,10.892,med,high,med,female,Hammond
+Dalmatian,23013.8144,,13.4751,high,high,short,female,Johnson
+Dalmatian,22225.6172,48.0,13.2765,high,high,short,female,Brown
+Welsh Corgi,13854.0425,,12.2969,low,high,med,female,Turner
+Beagle,10269.1798,37.0078,14.5805,low,high,short,female,Keller
+Airedale Terrier,21958.7245,56.2436,10.4015,high,high,med,male,Chen
+Dalmatian,24368.9887,48.0,13.4101,high,high,short,female,Gonzalez
+Welsh Corgi,13567.8261,30.742,9.9876,med,high,med,male,Thompson
+Welsh Corgi,11771.6769,30.1645,10.7494,med,high,short,male,Hall
+Beagle,10390.1306,34.6905,13.9777,med,high,short,female,Hoover
+Airedale Terrier,19128.5038,,13.0016,high,high,short,male,Smith
+Dalmatian,20721.4547,48.0,12.6825,high,high,short,male,Jonathan
+Airedale Terrier,21067.5904,,10.5246,high,high,long,female,King
+Beagle,10763.6132,36.427,12.9903,high,med,short,male,Swanson
+Beagle,12876.5981,,13.8113,med,high,short,male,Herring
+Beagle,8800.7148,36.8929,14.041,high,high,short,male,Arnold
+Beagle,9215.6018,34.8647,13.008,med,high,short,female,Brewer
+Airedale Terrier,19651.835,57.0633,11.3688,high,high,med,male,Gonzalez
+Welsh Corgi,14494.9837,23.5357,10.696,med,high,med,male,Robinson
+Dalmatian,23768.2361,48.0,12.8888,high,high,short,female,Jones
+Dalmatian,27096.9555,,13.4807,high,high,short,female,Baker
+Airedale Terrier,19783.695,,12.4226,high,high,med,male,Long
+Beagle,7973.6881,37.9558,14.9921,med,high,short,male,Stafford
+Welsh Corgi,13406.5944,27.3778,11.6781,med,med,med,female,Harvey
+Dalmatian,23714.942,48.0,12.7512,high,high,short,male,Dillon
+Beagle,14131.0838,36.1865,12.4053,med,med,short,female,Gross
+Airedale Terrier,20610.1317,,11.2277,med,med,med,female,Brown
+Airedale Terrier,18882.4134,57.2662,9.8049,high,high,med,male,Perry
+Dalmatian,23184.8505,48.0,11.7339,high,high,short,female,Richardson
+Beagle,12026.862,34.9724,13.6565,med,high,short,female,Charles
+Dalmatian,19639.9423,48.0,12.4761,high,high,short,female,Wilson
+Welsh Corgi,11027.7248,25.3403,10.7325,med,high,med,male,Harris
+Dalmatian,23680.455,48.0,12.1787,high,high,short,female,Marsh
+Airedale Terrier,19649.3701,56.8671,11.5559,high,high,long,male,Velez
+Beagle,10964.8478,37.1632,11.7902,high,high,short,male,Sanders
+Beagle,8648.8147,35.5408,13.1469,med,med,short,male,Espinoza
+Airedale Terrier,20090.9386,56.1393,12.606,high,high,med,female,Torres
+Welsh Corgi,13204.4118,27.7941,10.8737,med,high,short,female,Hernandez
+Airedale Terrier,21026.0693,57.6394,13.7112,high,high,med,female,Davis
+Airedale Terrier,18866.6427,57.1536,10.9459,high,high,med,male,Jackson
+Welsh Corgi,13746.3725,30.0097,11.9946,med,high,med,female,Garcia
+Welsh Corgi,12220.2341,33.1798,10.7246,med,high,med,female,Martinez
+Welsh Corgi,14321.1204,25.7946,11.358,med,high,med,female,Nichols
+Airedale Terrier,18818.5484,,11.9371,med,high,med,male,Moore
+Beagle,12298.951,34.5693,15.6591,low,high,short,female,Mckee
+Airedale Terrier,20949.0914,57.4906,12.5234,high,high,med,male,Williams
+Airedale Terrier,20559.7365,,12.0398,high,high,med,male,Mcdaniel
+Airedale Terrier,20509.2526,,11.9793,med,high,med,female,Montoya
+Welsh Corgi,14657.2726,25.4243,11.3908,med,high,med,female,Cox
+Welsh Corgi,14626.0341,,10.5296,med,high,med,female,Brown
+Welsh Corgi,13282.164,29.4286,11.4759,med,high,med,female,Clark
+Welsh Corgi,11257.0218,30.4715,10.8104,med,high,med,female,Blanchard
+Airedale Terrier,19836.0276,57.1011,11.706,high,high,short,male,Parker
+Dalmatian,25598.3376,48.0,12.9217,high,high,med,female,Vincent
+Airedale Terrier,19753.5457,,11.3019,high,med,short,male,Boyer
+Beagle,11237.1633,35.2837,13.3661,med,med,short,male,Hayes
+Airedale Terrier,18501.5253,56.6674,13.9622,high,high,med,female,Owen
+Dalmatian,21285.2916,48.0,13.4686,med,high,med,female,Goodwin
+Beagle,11374.5789,,13.2604,med,high,short,female,Patton
+Welsh Corgi,16419.9791,28.3072,10.8136,med,high,short,female,Vega
+Dalmatian,24929.942,,12.4339,high,high,short,male,Horn
+Beagle,11403.1162,33.6293,13.3218,med,high,short,female,Austin
+Airedale Terrier,17754.2955,57.8869,11.868,high,high,med,female,Lopez
+Beagle,9917.8972,36.351,13.5475,med,high,short,male,Nichols
+Airedale Terrier,20144.0064,,11.2175,high,high,med,female,Perez
+Welsh Corgi,16229.3339,28.681,11.1641,med,high,short,male,Sanchez
+Welsh Corgi,14400.4721,28.9969,10.8918,med,high,short,male,Payne
+Beagle,11248.1999,33.63,13.7469,med,high,short,female,Gonzalez
+Welsh Corgi,15081.2167,28.7013,10.2771,med,high,med,male,Abbott
+Welsh Corgi,15012.0518,29.0884,10.5901,low,high,short,female,Lawson
+Airedale Terrier,19912.4152,,10.6665,high,high,short,female,Smith
+Airedale Terrier,24107.2523,55.737,10.9522,med,med,med,female,Chavez
+Beagle,10653.8317,38.1844,12.5205,med,high,short,male,Carter
+Welsh Corgi,14784.9873,27.5782,10.8193,low,high,med,female,Butler
+Welsh Corgi,13380.8844,,9.5945,high,high,med,female,Cruz
+Dalmatian,20368.6146,48.0,12.8441,high,high,short,male,Campbell
+Airedale Terrier,21604.8106,57.0162,11.3493,high,high,med,male,Church
+Welsh Corgi,14095.6144,30.2913,11.6608,med,high,med,male,Doyle
+Airedale Terrier,19843.5372,57.1072,12.2377,high,high,med,female,Rocha
+Beagle,10671.7393,,14.509,med,high,short,female,Pratt
+Welsh Corgi,14266.2655,32.9023,10.3916,low,high,med,male,George
+Welsh Corgi,14524.1356,31.6251,10.6613,med,high,med,female,Rasmussen
+Dalmatian,23895.3615,48.0,12.9562,high,high,short,male,Smith
+Dalmatian,24587.3494,48.0,12.7903,high,high,short,female,Taylor
+Dalmatian,22633.3315,48.0,12.515,high,high,short,male,Herrera
+Airedale Terrier,23282.8771,57.2582,10.3342,high,high,short,female,Roberts
+Dalmatian,21572.2998,48.0,14.1626,high,high,short,female,Porter
+Dalmatian,20055.2688,48.0,12.4681,high,high,short,female,Moore
+Dalmatian,24809.2751,,13.0454,med,high,med,female,Hernandez
+Welsh Corgi,10091.2376,29.7924,11.0922,med,med,med,female,Nelson
+Airedale Terrier,20574.684,57.1848,11.0652,high,high,long,female,Alexander
+Beagle,7782.0593,,12.9341,low,high,short,female,Smith
+Welsh Corgi,12602.6181,28.0073,10.4655,med,high,med,female,Griffith
+Dalmatian,24799.0247,,13.1174,high,high,short,male,Robinson
+Dalmatian,24390.8963,48.0,12.6105,high,high,short,female,Neal
+Dalmatian,24552.2596,48.0,12.8095,high,high,med,female,Rangel
+Welsh Corgi,11520.5564,28.7371,10.9456,med,high,med,male,Wright
+Dalmatian,23750.9746,48.0,13.3092,high,high,short,male,Fleming
+Welsh Corgi,15515.4509,29.2973,11.4255,med,med,long,male,Tamara
+Airedale Terrier,19286.8728,56.9299,11.2799,high,high,med,female,Clayton
+Welsh Corgi,13972.8223,29.7936,10.5725,med,high,med,female,Fritz
+Dalmatian,26633.1137,,13.1561,high,high,short,male,Hood
+Beagle,11518.7231,36.5979,13.1606,med,high,short,male,Kirk
+Dalmatian,22779.6193,48.0,12.9267,high,high,med,female,Carpenter
+Beagle,10861.2202,35.7195,12.6172,med,high,med,male,Hill
+Dalmatian,25008.0212,48.0,12.536,med,med,short,male,Jonathan
+Welsh Corgi,13388.2322,30.3499,11.0179,med,high,med,female,Anderson
+Airedale Terrier,23567.3575,,12.3578,high,high,med,male,Edwards
+Dalmatian,23259.3999,48.0,12.5132,high,high,short,male,Larson
+Dalmatian,22610.3776,48.0,12.9232,high,high,short,male,Davies
+Welsh Corgi,14654.3491,25.6324,10.4371,med,med,med,female,Cox
+Airedale Terrier,20079.5448,,10.439,high,high,med,male,Mclaughlin
+Welsh Corgi,15735.4084,27.4577,11.0345,med,high,med,male,Anderson
+Dalmatian,22316.5323,48.0,12.1182,high,high,short,female,Wilkins
+Beagle,9923.7034,,13.9646,med,high,short,female,Sanchez
+Welsh Corgi,12831.6813,,10.573,med,high,med,female,Miller
+Welsh Corgi,13922.5458,26.9782,11.3674,med,high,med,male,Wilson
+Airedale Terrier,23116.2014,56.258,11.8436,high,high,med,female,Williams
+Dalmatian,24260.6904,48.0,12.1798,high,high,med,female,Craig
+Dalmatian,21535.8406,48.0,11.6825,high,high,short,male,Castillo
+Beagle,12242.1792,,13.4477,med,high,short,female,Gray
+Airedale Terrier,19215.4417,57.5853,9.6567,high,high,med,male,Cohen
+Airedale Terrier,20372.3871,57.2984,11.0923,high,high,med,male,Martinez
+Airedale Terrier,19747.5485,55.7527,11.6902,high,high,med,male,Carpenter
+Dalmatian,26062.3426,,11.5504,high,high,short,female,Robinson
+Dalmatian,24385.2719,48.0,11.8702,high,high,short,male,Wilson
+Dalmatian,24401.8969,,13.6023,high,high,short,male,Foster
+Dalmatian,26641.2215,48.0,12.7125,med,high,short,male,Barton
+Welsh Corgi,11455.2816,,9.8814,low,high,long,male,Miller
+Dalmatian,27493.7669,48.0,12.7647,high,high,med,male,Sharp
+Beagle,10717.4765,33.7577,14.3433,med,high,short,male,Harvey
+Airedale Terrier,21449.319,56.8346,12.562,high,med,med,male,Johnson
+Dalmatian,22595.5786,48.0,13.9916,high,high,short,female,Davies
+Beagle,14859.2296,35.7043,12.4398,high,high,short,male,Mendez
+Airedale Terrier,23107.6194,56.939,10.927,high,high,med,female,Elliott
+Welsh Corgi,14835.9579,31.2501,11.5984,med,high,med,female,Curtis
+Airedale Terrier,21975.261,57.4565,10.9284,high,high,short,female,Giles
+Welsh Corgi,14394.3295,28.8405,10.5262,med,high,med,female,Wilson
+Welsh Corgi,12981.8821,30.5459,10.2968,med,high,med,male,Rubio
+Welsh Corgi,15181.2738,28.9664,9.5579,high,high,med,male,Gibson
+Beagle,10377.4172,,13.2466,med,high,short,female,Patterson
+Airedale Terrier,20829.3203,56.5286,10.6266,med,high,med,female,Luna
+Dalmatian,26410.524,48.0,12.1442,high,high,short,male,Morales
+Airedale Terrier,19790.7874,56.2833,11.7588,high,med,med,female,Graham
+Beagle,9902.6735,34.1211,13.6919,high,med,short,female,Brown
+Airedale Terrier,18431.5438,57.4602,9.7655,high,high,med,female,Harding
+Welsh Corgi,13707.6259,29.7426,10.9396,low,high,short,male,Cardenas
+Dalmatian,28127.3,48.0,13.0098,high,high,short,male,Bennett
+Welsh Corgi,11987.3383,26.6163,11.5623,med,high,long,female,Hernandez
+Beagle,10386.8167,33.5941,13.1753,med,high,short,female,Miles
+Airedale Terrier,21109.2414,56.2763,13.3033,high,med,long,male,Higgins
+Beagle,11119.6009,35.7979,14.4217,med,high,short,female,Sims
+Welsh Corgi,13054.3974,28.946,11.3436,med,high,short,female,Colon
+Beagle,12653.1258,,14.0182,med,med,short,male,Sutton
+Airedale Terrier,19680.5354,57.296,10.0955,med,high,med,female,Velazquez
+Dalmatian,20738.1517,,13.1305,high,high,short,male,Garcia
+Airedale Terrier,20273.1617,57.3909,12.1078,med,high,med,female,Spencer
+Dalmatian,22813.783,,13.9432,med,high,short,male,Anderson
+Beagle,12703.2526,33.2525,13.6839,high,med,short,male,Henderson
+Airedale Terrier,21487.1263,56.1683,11.2128,high,high,med,male,Parks
+Welsh Corgi,12570.4744,29.6105,10.8598,med,high,short,male,Kramer
+Dalmatian,22190.1397,48.0,12.0192,high,high,med,male,Barry
+Dalmatian,22541.0734,48.0,13.6321,high,high,short,male,Parker
+Dalmatian,21745.5542,48.0,13.4195,high,med,short,male,Harper
+Airedale Terrier,21614.7803,57.5894,13.0437,high,high,med,female,Romero
+Airedale Terrier,23312.7569,57.2234,12.984,high,high,med,female,Gordon
+Airedale Terrier,19508.0213,57.4275,11.4639,high,high,med,male,Garcia
+Dalmatian,24947.7453,48.0,12.9521,high,med,short,male,Sullivan
+Airedale Terrier,20693.2478,57.9739,12.0071,high,high,short,female,Smith
+Beagle,11035.2721,,13.7676,med,high,short,male,Walters
+Beagle,12095.241,34.8873,12.9077,med,high,med,male,Smith
+Airedale Terrier,21004.0447,57.3975,12.2585,high,high,med,male,Clark
+Beagle,6759.7059,,14.2189,med,high,short,female,Cobb
+Welsh Corgi,11782.9698,,11.0551,med,med,med,female,Lewis
+Welsh Corgi,15709.0189,32.8743,10.1154,med,med,med,female,Powell
+Welsh Corgi,16259.2177,28.2642,10.7523,med,high,long,female,Hernandez
+Welsh Corgi,14833.3724,,12.035,med,high,med,female,Dalton
+Dalmatian,24295.87,,12.8254,high,high,short,female,Brown
+Welsh Corgi,16344.1036,26.9721,11.9064,med,high,med,female,Jones
+Dalmatian,24137.6044,48.0,12.7185,high,high,short,male,Fleming
+Dalmatian,26199.9872,48.0,12.5118,med,high,short,female,Hernandez
+Welsh Corgi,13266.8911,25.3873,11.3661,med,high,med,male,Dawson
+Welsh Corgi,14361.3706,25.0267,11.9597,med,high,long,female,Sherman
+Welsh Corgi,12801.2952,26.477,10.7176,med,high,long,male,Scott
+Dalmatian,24305.4089,48.0,12.9366,high,high,short,female,Park
+Welsh Corgi,13652.8185,32.3153,11.3525,med,high,med,female,Collins
+Airedale Terrier,21800.6449,,10.1076,high,high,med,female,Hernandez
+Dalmatian,24891.6285,48.0,12.7489,med,high,short,male,Jordan
+Dalmatian,17003.1854,48.0,13.1215,high,high,med,male,Montes
+Dalmatian,21096.001,48.0,13.6382,high,high,short,male,Ellis
+Welsh Corgi,13966.8944,31.2884,10.2695,med,med,short,female,Chambers
+Dalmatian,23141.333,48.0,13.7179,high,high,short,male,Robinson
+Beagle,9609.8778,38.8316,12.8984,med,high,short,male,Christina
+Welsh Corgi,13539.5227,,10.8663,med,high,short,male,Nicole
+Welsh Corgi,14079.0676,25.7252,11.6694,med,high,short,female,Harvey
+Dalmatian,26323.368,48.0,13.162,high,high,short,female,Johnston
+Dalmatian,18807.4124,,13.2795,high,high,short,female,Freeman
+Beagle,10781.9572,33.8487,13.2223,med,high,short,female,Beltran
+Welsh Corgi,14406.2358,26.7208,10.844,med,high,med,male,Davis
+Beagle,9954.4604,,13.816,med,med,short,male,Conley
+Dalmatian,21701.3306,48.0,13.4791,high,high,med,female,Harper
+Welsh Corgi,14037.4565,27.7851,11.5325,high,med,med,male,Greer
+Airedale Terrier,19996.8667,56.9229,12.0227,high,high,med,male,Jones
+Airedale Terrier,18628.8174,57.4336,10.3663,high,med,med,male,Gomez
+Dalmatian,27526.4434,48.0,12.5761,high,high,short,male,Marshall
+Welsh Corgi,14036.3992,30.836,11.4951,high,med,med,female,Bates
+Airedale Terrier,21442.9549,56.6477,11.6067,high,high,med,female,Pierce
+Airedale Terrier,19859.6202,,10.7963,high,high,long,female,Russell
+Dalmatian,26871.0916,,13.3749,high,high,short,female,Carroll
+Welsh Corgi,12296.4469,,11.4208,low,high,med,female,Smith
+Beagle,10221.9914,33.416,12.6023,med,med,short,male,Medina
+Beagle,12655.6395,35.3965,12.6393,med,high,short,male,Thomas
+Dalmatian,23471.0958,48.0,12.978,high,high,short,female,Bird
+Beagle,7188.7978,37.8475,11.8589,med,high,short,male,Ellis
+Beagle,11389.069,34.7894,12.9724,med,high,short,male,Daniels
+Beagle,6243.3893,,13.9277,med,high,short,male,Olson
+Dalmatian,26927.2734,48.0,13.4618,high,high,short,female,Jones
+Airedale Terrier,19734.037,56.3257,10.6588,high,high,short,male,Henderson
+Dalmatian,22201.7354,,13.4298,high,high,short,male,Palmer
+Welsh Corgi,12854.2834,25.191,10.9149,med,high,med,female,Singleton
+Airedale Terrier,20398.306,57.2451,11.6083,med,high,med,female,Pacheco
+Dalmatian,21551.508,48.0,14.3536,high,med,short,female,Perry
+Dalmatian,20526.9384,,13.368,high,high,short,male,Todd
+Airedale Terrier,18150.5393,56.5588,12.3409,high,high,med,male,Page
+Dalmatian,25451.7146,48.0,12.6956,med,high,short,male,Oneal
+Dalmatian,25000.4166,48.0,12.0748,high,high,short,female,Sims
+Beagle,11250.8844,,13.0002,med,high,short,female,Johnson
+Dalmatian,24500.6458,48.0,12.5314,high,high,short,male,Walton
+Airedale Terrier,19994.3774,56.1055,10.5218,med,high,med,female,Burgess
+Welsh Corgi,14013.5647,29.6077,11.5291,med,high,med,female,Campbell
+Beagle,10935.7806,38.1504,13.9202,med,high,short,male,Phillips
+Dalmatian,24269.3386,48.0,12.7274,high,high,short,male,Duarte
+Airedale Terrier,22096.9239,57.2404,11.2892,high,high,med,male,Carlson
+Welsh Corgi,15160.7274,27.0258,10.4506,med,high,med,male,Kim
+Airedale Terrier,23975.8823,56.4483,9.8406,high,high,long,female,Phillips
+Welsh Corgi,13723.2295,27.4734,11.1679,high,high,med,male,Perez
+Dalmatian,19907.4437,48.0,12.9248,med,high,med,female,Elliott
+Welsh Corgi,12345.8107,27.7496,11.0983,high,high,long,male,Benjamin
+Dalmatian,20223.7722,48.0,13.6619,high,high,short,female,Ross
+Beagle,9185.6934,38.7564,13.2418,low,high,med,female,Ramos
+Airedale Terrier,20118.6866,,12.1309,high,high,med,male,Thomas
+Airedale Terrier,18595.9685,56.7915,10.1588,high,high,med,female,Boyer
+Airedale Terrier,18046.9174,57.053,11.6209,high,high,med,male,Steele
+Welsh Corgi,12477.8883,31.3301,10.6845,low,high,med,female,Foster
+Beagle,7333.1782,37.7681,11.4893,med,high,short,female,Wong
+Airedale Terrier,18559.128,56.2294,11.3027,high,med,med,male,King
+Dalmatian,21347.484,48.0,13.369,high,high,short,female,Ramsey
+Dalmatian,24710.7152,48.0,11.8189,med,high,short,male,Gomez
+Airedale Terrier,21710.5547,,11.3743,high,high,med,female,Ward
+Airedale Terrier,20314.5901,55.9372,9.2983,med,med,med,male,Zavala
+Beagle,10683.3602,35.9104,15.0826,low,high,short,male,Garcia
+Dalmatian,23160.4344,48.0,13.2531,high,high,short,male,Foster
+Dalmatian,23749.6422,48.0,13.0983,high,high,short,female,Dudley
+Welsh Corgi,13533.8948,24.3912,10.6873,low,high,med,female,Klein
+Airedale Terrier,19816.8718,,10.8283,high,high,long,male,Thompson
+Airedale Terrier,18705.1805,56.6931,13.9998,med,high,med,female,Nguyen
+Dalmatian,23614.2472,48.0,12.4807,high,high,short,female,Robinson
+Dalmatian,25468.8359,48.0,13.7876,high,high,med,female,Price
+Dalmatian,24073.5189,48.0,14.1708,high,high,short,female,Robbins
+Beagle,8284.2824,36.0951,13.1404,med,high,short,female,Alexander
+Beagle,12502.4616,34.1236,13.3444,med,high,short,female,Kent
+Welsh Corgi,13413.3069,29.3933,11.0071,med,high,med,female,Carr
+Dalmatian,24577.4644,,12.6339,high,high,short,female,Liu
+Airedale Terrier,21227.2483,,11.9782,high,high,med,male,Fox
+Airedale Terrier,19488.0409,,12.8512,high,high,med,male,Bradley
+Airedale Terrier,21218.5001,57.8466,10.6489,high,med,short,female,Hernandez
+Dalmatian,25660.3939,48.0,14.2539,high,high,short,male,Flores
+Beagle,9277.9753,,13.1571,high,high,short,male,Diaz
+Beagle,10340.2685,34.4746,13.7777,med,high,short,female,Cruz
+Beagle,9862.5608,38.1878,12.6243,med,high,short,male,Dunn
+Airedale Terrier,18970.9777,,13.0266,high,high,med,female,Stone
+Welsh Corgi,12314.0702,29.1883,11.543,high,high,med,male,Peters
+Beagle,8462.0032,35.0494,14.5867,med,med,short,female,Porter
+Airedale Terrier,22609.0496,57.5194,11.3922,high,high,med,female,Thompson
+Welsh Corgi,11556.4917,29.0347,11.0377,med,high,short,female,Washington
+Airedale Terrier,19047.3142,57.3643,11.5324,high,high,short,male,Spencer
+Welsh Corgi,13229.6627,30.1086,11.5373,med,high,long,male,Casey
+Airedale Terrier,21217.2778,,11.5538,high,high,med,female,Moore
+Dalmatian,26542.2911,48.0,13.1245,high,high,short,female,Kim
+Welsh Corgi,14933.0136,22.8194,11.0839,high,high,med,female,Anderson
+Welsh Corgi,16617.2468,24.3263,11.2425,med,high,med,male,Garrett
+Beagle,12049.9668,35.9403,12.0308,high,high,short,male,Thomas
+Dalmatian,24266.7998,48.0,12.279,high,high,short,male,Olsen
+Airedale Terrier,22865.3775,56.8423,10.5302,high,high,short,female,Eaton
+Dalmatian,21738.1704,48.0,14.0581,high,med,short,female,House
+Airedale Terrier,22230.9226,55.7801,10.6064,high,high,short,female,Garcia
+Beagle,11948.147,38.2123,14.5463,med,high,short,female,Carroll
+Welsh Corgi,15569.0409,29.1087,11.1239,high,high,med,male,Stuart
+Airedale Terrier,19344.3509,,11.5249,med,high,med,female,Hill
+Beagle,8546.6708,34.2586,12.5114,med,high,med,male,Boyle
+Dalmatian,23602.0601,,12.4906,high,high,short,male,Davis
+Airedale Terrier,21668.2303,56.4141,11.1424,high,high,med,male,Jones
+Welsh Corgi,12434.676,,10.968,low,high,med,male,Morgan
+Welsh Corgi,13488.6376,30.4886,10.2089,med,high,med,male,Lane
+Welsh Corgi,17238.2913,27.4148,11.7516,med,med,med,female,Washington
+Dalmatian,21670.5561,48.0,13.7605,high,high,short,female,Romero
+Airedale Terrier,21483.5139,57.8875,12.0662,high,high,med,male,Garcia
+Dalmatian,27784.7739,,12.873,high,high,short,male,White
+Beagle,9369.4454,,14.4376,med,high,short,female,Wilson
+Airedale Terrier,21979.1808,,12.9553,high,high,med,female,Wilson
+Dalmatian,26046.896,48.0,12.737,med,high,short,male,Johnson
+Beagle,10333.0386,38.6877,13.335,med,high,short,female,Singh
+Dalmatian,22175.2775,48.0,12.9619,high,high,short,female,Kelly
+Dalmatian,20297.4302,48.0,13.022,high,high,short,female,Griffith
+Airedale Terrier,22544.3514,57.0748,10.9859,high,high,med,male,Farmer
+Airedale Terrier,20089.4657,57.1521,10.9156,high,med,med,female,Wright
+Welsh Corgi,15533.1713,,11.5434,med,med,med,male,Alvarado
+Welsh Corgi,12560.8021,26.4897,9.931,low,med,short,male,Green
+Airedale Terrier,22265.4343,57.1908,11.3053,high,high,long,female,Carr
+Beagle,11233.5047,37.7978,12.9547,med,high,short,female,Morris
+Welsh Corgi,17598.8119,32.0501,11.554,med,high,med,female,Lee
+Dalmatian,22639.4851,48.0,13.2007,high,high,short,female,Padilla
+Airedale Terrier,20410.3135,57.3157,11.7358,med,high,med,female,Travis
+Dalmatian,21752.2273,,12.6275,high,high,short,female,Rios
+Beagle,11934.3632,33.1796,14.9735,high,high,short,female,Schmidt
+Dalmatian,20952.2999,,13.3215,high,high,short,male,Horton
+Welsh Corgi,12790.3558,25.6671,11.445,med,med,long,female,Diaz
+Welsh Corgi,14333.3959,24.8797,10.8833,low,high,med,male,Robinson
+Welsh Corgi,14629.3989,26.1014,10.4465,high,high,med,male,Kim
+Dalmatian,20479.3458,48.0,15.0699,high,high,short,male,Reynolds
+Beagle,12854.6718,34.1892,13.1617,med,high,short,male,Knight
+Beagle,7795.9128,,13.2933,med,high,short,female,Medina
+Beagle,9746.6252,,13.8758,med,high,short,female,Lane
+Dalmatian,23160.379,48.0,13.1038,high,high,short,female,Nicholson
+Welsh Corgi,12957.4174,30.0061,11.342,med,high,med,male,Roberts
+Dalmatian,20566.583,48.0,13.7932,high,high,short,male,Smith
+Welsh Corgi,15899.7944,28.4841,10.1068,med,high,med,male,Thompson
+Welsh Corgi,15690.7061,30.506,9.4701,med,high,long,male,Clark
+Beagle,9564.9825,,13.3161,med,high,short,male,Brady
+Welsh Corgi,10659.4912,25.6495,10.9124,low,high,med,female,Tucker
+Dalmatian,24575.6321,,12.7678,high,high,short,female,Singh
+Airedale Terrier,20721.3175,56.9681,10.3283,high,high,med,female,Jimenez
+Welsh Corgi,10620.322,30.7467,10.019,high,high,med,female,Anthony
+Dalmatian,23701.8007,48.0,13.1433,high,high,short,male,Dillon
+Airedale Terrier,22130.8573,55.8622,11.1242,high,high,med,male,Johnson
+Airedale Terrier,20271.7069,56.4085,11.8258,med,high,short,male,Elliott
+Beagle,11347.576,36.9729,12.5547,med,high,med,male,Dennis
+Beagle,9246.4212,35.6196,12.8925,med,med,short,male,Henderson
+Dalmatian,28539.7972,48.0,14.1855,high,high,short,female,Fox
+Welsh Corgi,14560.1569,,11.087,med,med,med,female,Hess
+Airedale Terrier,18642.5658,56.2918,11.4236,high,high,med,male,Cervantes
+Airedale Terrier,19584.5936,57.9628,11.4634,high,high,med,male,Myers
+Beagle,10594.4009,,13.9713,high,high,med,female,Roberts
+Airedale Terrier,21225.3131,55.8446,12.4329,med,high,med,female,Powell
+Welsh Corgi,14175.7339,,10.5842,med,high,med,female,Stevens
+Beagle,10167.4389,32.9229,13.7491,med,high,short,male,Reeves
+Airedale Terrier,20916.6216,58.5784,11.2411,high,high,med,female,Gordon
+Beagle,10242.7165,37.0487,12.6,med,high,short,female,Gonzales
+Dalmatian,23622.9698,,12.3117,high,high,short,male,Lam
+Welsh Corgi,13335.5877,28.7829,11.7867,med,high,short,female,Bolton
+Dalmatian,23888.4374,48.0,12.2356,high,high,short,male,Harper
+Airedale Terrier,22663.1013,56.1728,11.8565,high,high,med,male,Williams
+Dalmatian,28893.9839,48.0,12.5111,high,high,short,female,Vasquez
+Dalmatian,26912.7185,48.0,12.9542,high,high,short,female,Kim
+Airedale Terrier,19022.3566,55.6091,10.7854,high,med,med,female,Ford
+Welsh Corgi,11870.2743,31.4892,10.961,med,high,med,male,Banks
+Beagle,12837.4672,,13.401,med,high,med,female,Green
+Beagle,8726.9528,37.6242,14.2339,med,med,short,male,Ryan
+Dalmatian,22654.4784,48.0,13.1113,high,high,short,male,Cowan
+Dalmatian,21603.2529,48.0,12.4566,high,high,med,male,Fisher
+Welsh Corgi,16489.863,,10.9968,med,high,med,female,Dougherty
+Welsh Corgi,16738.772,29.461,10.5281,med,high,short,female,Monroe
+Dalmatian,21554.0029,48.0,12.3759,high,high,short,male,Mendez
+Beagle,9858.6494,34.2951,13.6763,med,high,short,female,Powell
+Airedale Terrier,20079.3864,57.057,11.7415,high,high,med,female,Luna
+Welsh Corgi,14348.9513,25.9235,10.6336,med,high,short,male,Terry
+Beagle,9891.7532,37.5634,13.8055,low,high,short,male,Knapp
+Beagle,9741.7322,38.5622,12.8041,med,high,short,male,Vargas
+Dalmatian,22266.5257,48.0,14.1468,high,high,short,female,Turner
+Welsh Corgi,14003.8332,25.3767,11.5847,med,high,med,female,Robbins
+Dalmatian,17789.7145,48.0,12.9274,high,high,short,male,Arnold
+Beagle,9254.1813,34.9474,13.672,med,high,short,female,Cowan
+Beagle,12074.0157,34.6953,13.1796,med,high,short,male,Garcia
+Beagle,12334.3464,36.2307,12.8614,med,high,short,male,Evans
+Welsh Corgi,13351.2846,32.6147,10.7958,med,high,med,male,Higgins
+Dalmatian,24349.7736,48.0,13.0425,high,high,short,female,Obrien
+Welsh Corgi,12673.8371,28.1039,9.5784,low,high,med,male,Miller
+Welsh Corgi,9626.1393,26.9957,10.5797,med,high,med,female,Hernandez
+Dalmatian,26029.276,48.0,13.1456,high,high,short,female,Guzman
+Welsh Corgi,11966.836,28.4457,11.613,high,high,med,male,Fuentes
+Airedale Terrier,17231.3321,56.3977,10.6816,high,med,long,female,Torres
+Beagle,10677.3729,35.8855,12.6442,med,high,short,male,Eaton
+Welsh Corgi,14036.3578,27.962,9.7373,high,high,med,male,Foster
+Dalmatian,19799.8693,48.0,13.3919,high,med,short,female,Kane
+Welsh Corgi,14625.3719,,11.4711,med,high,med,male,Campbell
+Airedale Terrier,19031.9568,56.9868,12.1754,high,high,med,female,Silva
+Beagle,10034.5809,34.4137,13.4185,med,high,short,male,Brown
+Beagle,9998.9194,35.4845,14.3548,med,high,med,female,Martin
+Welsh Corgi,13237.814,29.951,10.6397,high,high,long,female,George
+Dalmatian,27401.1331,48.0,13.4102,high,high,med,male,Vargas
+Welsh Corgi,12379.2145,25.8815,9.6853,high,high,med,male,Deleon
+Beagle,7702.2495,35.4788,12.5342,med,high,short,male,Chapman
+Welsh Corgi,15421.5984,,12.5054,med,med,med,male,Lawrence
+Welsh Corgi,12179.8792,33.2843,10.6241,med,high,long,female,Ballard
+Airedale Terrier,20122.1332,57.3802,11.8418,high,high,long,female,Armstrong
+Airedale Terrier,20833.3441,57.0487,12.9738,high,high,med,female,Vargas
+Airedale Terrier,22539.9048,57.453,12.2031,high,high,long,female,Malone
+Beagle,10969.6125,,13.9634,med,med,short,male,Hart
+Welsh Corgi,12190.8401,25.3041,11.2805,med,high,long,male,Ramirez
+Welsh Corgi,11548.8487,34.2758,11.8444,med,high,med,male,Barton
+Dalmatian,21505.8595,48.0,13.2804,high,high,short,male,Rogers
+Airedale Terrier,19718.1077,57.129,12.1616,med,high,short,female,Huber
+Welsh Corgi,13700.1487,,12.504,med,high,med,female,Murphy
+Dalmatian,24228.5917,48.0,14.0072,high,high,short,male,Barber
+Airedale Terrier,20737.3411,56.9329,11.8341,high,high,long,male,Mendoza
+Dalmatian,26786.671,48.0,11.548,high,high,short,male,Fowler
+Beagle,12134.0487,35.9601,12.6379,high,high,short,female,Thompson
+Beagle,10086.2201,,13.0065,med,high,med,female,Tyler
+Dalmatian,24254.4819,48.0,13.3111,high,high,short,female,Rodriguez
+Airedale Terrier,20837.4759,57.5203,11.5127,high,high,med,female,Snow
+Welsh Corgi,12451.0739,31.1973,11.5612,med,high,med,male,Wagner
+Airedale Terrier,19388.6245,57.5567,10.5875,high,med,med,female,Kelley
+Airedale Terrier,20571.6992,56.7798,10.9544,high,high,med,female,Burke
+Dalmatian,27057.7788,48.0,14.1849,high,med,med,male,Gutierrez
+Airedale Terrier,20727.8737,57.1478,10.3861,high,high,med,female,Carroll
+Airedale Terrier,21158.1016,57.2739,11.1452,high,med,med,male,Martinez
+Welsh Corgi,13295.0275,26.3971,10.691,med,high,short,male,Gomez
+Airedale Terrier,19633.6529,56.859,11.6753,high,high,short,female,Thompson
+Welsh Corgi,12511.1704,27.9069,11.8809,high,high,med,male,Wilson
+Welsh Corgi,12412.1477,29.8507,12.1242,med,high,med,female,Cline
+Beagle,12260.2482,36.0597,13.435,med,high,short,female,Ford
+Dalmatian,20676.7116,48.0,13.4495,high,high,short,male,Smith
+Welsh Corgi,9628.9218,32.6648,11.2621,med,high,med,female,Cisneros
+Airedale Terrier,22718.3907,57.6491,12.531,high,high,short,male,Williams
+Dalmatian,23420.1226,48.0,13.1382,high,high,short,male,Garcia
+Dalmatian,23601.1363,48.0,12.8091,high,high,short,female,Green
+Welsh Corgi,12723.2088,28.6954,11.3738,med,high,med,male,Reynolds
+Dalmatian,21919.5488,48.0,12.6729,high,high,short,male,Miller
+Welsh Corgi,15663.6647,26.2774,10.9858,med,med,med,female,Pham
+Airedale Terrier,22290.2433,57.3561,11.747,high,high,med,male,Lewis
+Beagle,10669.6905,35.225,15.3709,med,high,short,male,Davenport
+Dalmatian,25266.5714,,13.7907,high,high,short,female,Williams
+Airedale Terrier,21682.9337,,11.6063,high,high,med,male,Fisher
+Beagle,10509.9447,,12.0758,med,high,short,male,Rice
+Welsh Corgi,13380.0392,26.1146,12.0598,low,high,med,female,Poole
+Beagle,7694.4119,33.6249,12.2566,med,high,short,female,Ferguson
+Dalmatian,22846.3675,48.0,13.8951,high,high,short,male,Preston
+Beagle,10330.8788,35.2285,13.4155,med,high,short,male,Colon
+Dalmatian,19523.771,,12.7712,high,med,short,male,Cummings
+Dalmatian,23106.0331,,12.9616,high,high,short,male,Collins
+Airedale Terrier,20055.3244,56.9144,13.0221,high,high,long,female,Reyes
+Beagle,13603.9708,34.284,12.9512,low,high,short,male,Bush
+Welsh Corgi,16392.4933,28.4151,11.3524,med,high,med,male,Woods
+Dalmatian,23242.4569,48.0,13.1758,high,high,short,female,Smith
+Welsh Corgi,11975.0024,,10.6488,med,high,long,female,Hood
+Welsh Corgi,13885.272,,11.9526,med,high,med,female,Lewis
+Airedale Terrier,19951.0273,57.0717,12.3331,high,high,med,female,Ford
+Welsh Corgi,13708.7166,,11.8755,med,high,med,male,Winters
+Airedale Terrier,21532.4333,57.4992,11.2161,high,high,med,male,Lloyd
+Airedale Terrier,19992.9299,,12.4219,high,high,med,female,Powell
+Beagle,13159.5303,33.8726,12.4543,med,high,short,female,Evans
+Dalmatian,24486.1976,48.0,12.5689,high,high,short,female,Hoffman
+Beagle,12408.2921,36.8164,14.4072,med,high,short,female,Wilkinson
+Airedale Terrier,17831.9518,57.684,11.62,high,high,med,male,Spencer
+Dalmatian,22655.9609,,13.7774,high,med,short,female,Dean
+Beagle,9332.0616,,12.6999,med,high,short,male,Rodriguez
+Dalmatian,21399.1975,48.0,13.579,high,high,short,female,Harris
+Airedale Terrier,20965.0385,56.7243,11.788,high,high,med,female,Jackson
+Dalmatian,24296.0029,48.0,12.4208,high,high,short,female,Price
+Welsh Corgi,11825.9102,28.2631,11.9026,med,high,short,female,Jenkins
+Dalmatian,22109.8757,,13.3081,high,high,short,male,Ramirez
+Airedale Terrier,18930.4526,57.6362,11.7041,high,high,med,female,Weaver
+Airedale Terrier,23509.2981,56.8991,10.7071,high,med,med,female,Brooks
+Dalmatian,24387.4493,48.0,12.6539,high,high,short,male,Guzman
+Beagle,10903.904,33.961,13.5654,med,high,short,male,Cummings
+Airedale Terrier,20114.019,57.2126,10.9896,high,high,med,male,Ramirez
+Welsh Corgi,12950.6689,23.3842,8.9299,low,high,short,female,Clay
+Beagle,8552.0245,35.8947,13.7996,med,high,short,male,Ryan
+Beagle,8478.6809,36.8555,13.1735,med,high,short,female,Brown
+Welsh Corgi,15300.4561,29.5416,12.5125,med,high,med,female,Bender
+Dalmatian,23770.3791,48.0,13.3201,high,high,short,male,Spencer
+Welsh Corgi,11300.7729,27.7365,10.2441,med,high,med,male,Mcguire
+Beagle,9735.8174,,13.361,med,high,med,male,Salazar
+Airedale Terrier,23601.5735,56.2123,12.855,high,high,short,male,Pittman
+Dalmatian,22303.4253,48.0,12.9731,high,high,short,male,Walsh
+Airedale Terrier,21240.6317,57.3707,11.4258,high,high,long,female,Estes
+Welsh Corgi,12579.4903,28.6276,9.6044,med,high,short,female,Carney
+Airedale Terrier,20008.4469,57.2749,12.3523,high,high,short,female,Fuller
+Airedale Terrier,19848.7704,57.1168,12.6386,high,high,med,male,Brooks
+Dalmatian,22621.1649,48.0,13.3639,high,high,short,female,Castro
+Dalmatian,22933.1019,48.0,12.053,high,high,short,female,Rodriguez
+Welsh Corgi,15391.9449,31.3262,10.2282,med,high,long,male,Rivera
+Dalmatian,25804.7873,,12.7958,high,high,short,female,Thompson
+Dalmatian,28668.0004,48.0,13.7325,high,high,short,female,Neal
+Beagle,9164.5388,33.6829,14.1521,high,high,short,male,Acosta
+Welsh Corgi,11463.5986,25.9928,10.2836,low,high,med,female,Adams
+Airedale Terrier,18354.8439,,11.4182,high,med,med,female,Smith
+Beagle,14621.7118,35.7341,14.213,high,high,med,female,Flores
+Airedale Terrier,21272.8629,,10.9466,high,high,long,female,Gregory
+Beagle,11060.1354,36.2992,14.3712,med,high,short,female,Henry
+Dalmatian,24940.4897,48.0,13.4558,high,high,short,male,Ward
+Dalmatian,27560.1743,48.0,13.1317,high,high,short,female,Miller
+Airedale Terrier,20586.04,57.1802,11.9875,med,high,med,female,Rasmussen
+Beagle,7814.9645,34.1217,15.686,med,high,short,male,Beard
+Beagle,8763.5851,32.8069,14.283,low,high,short,male,Wright
+Welsh Corgi,12583.7121,,10.849,high,high,short,female,Powell
+Airedale Terrier,20743.3795,56.227,10.6634,high,high,med,female,Jones
+Welsh Corgi,12156.6032,28.3028,10.1737,med,high,long,male,Ryan
+Airedale Terrier,17494.3195,57.3339,10.2816,high,high,med,female,Murphy
+Beagle,10400.1627,39.4216,13.4071,med,high,short,female,Fox
+Dalmatian,19899.4459,48.0,14.3145,high,high,short,male,Washington
+Beagle,10028.8064,36.0176,14.3,med,med,short,male,Gomez
+Beagle,9421.7185,35.0478,11.5332,med,high,short,female,Brown
+Dalmatian,25490.12,48.0,13.4688,high,high,short,female,Morris
+Airedale Terrier,20504.8021,,11.0403,high,med,long,female,Young
+Beagle,10151.7774,34.4996,14.8343,med,high,short,female,Martinez
+Dalmatian,24899.902,48.0,12.1902,high,high,short,female,Monroe
+Welsh Corgi,17912.3502,28.7961,9.9559,med,med,short,female,Green
+Welsh Corgi,12921.3944,29.4577,10.4336,med,high,med,female,Navarro
+Beagle,10650.3981,36.6057,13.3532,med,high,med,male,Lewis
+Dalmatian,23380.5116,48.0,13.0892,high,med,short,female,Warner
+Dalmatian,24893.2746,,12.9092,high,med,short,female,Cunningham
+Beagle,10123.4677,,12.6217,med,high,short,male,Blackwell
+Beagle,8146.5353,36.1543,13.8915,low,high,med,male,Walker
+Dalmatian,25671.5959,,13.1231,high,high,short,male,Foster
+Airedale Terrier,20383.3839,57.0365,12.9071,high,high,med,male,Barber
+Beagle,13344.1899,37.8577,11.5444,med,med,short,female,Bailey
+Dalmatian,22918.7861,48.0,12.1317,high,high,short,male,White
+Dalmatian,27756.4524,,12.6519,high,high,short,female,Matthews
+Airedale Terrier,19764.814,,11.8131,high,high,short,male,Moody
+Dalmatian,28506.541,48.0,13.0919,high,med,med,female,Burns
+Dalmatian,27110.4822,48.0,12.0538,high,high,short,male,Adams
+Dalmatian,21386.1656,48.0,13.2449,high,high,short,male,Nelson
+Beagle,9594.43,37.8893,14.6532,med,high,short,female,Lee
+Airedale Terrier,19709.3732,,11.5272,high,high,long,male,Wilson
+Beagle,12376.545,37.1666,10.8518,med,med,short,female,Rush
+Beagle,12972.1808,33.3777,14.109,med,high,med,female,Weiss
+Dalmatian,23664.8626,48.0,13.6813,high,high,short,male,Cervantes
+Beagle,9938.6009,34.1736,14.1063,med,high,short,female,Hood
+Dalmatian,23699.7796,48.0,12.727,high,high,short,female,Miller
+Dalmatian,19887.2941,48.0,12.8764,high,med,short,female,Wallace
+Beagle,12324.4655,32.1255,13.6526,med,high,short,female,Cabrera
+Beagle,11528.43,36.6741,11.8419,high,high,short,male,Phillips
+Beagle,9205.7613,36.8325,13.4902,med,high,short,male,Buchanan
+Beagle,10593.2767,36.1399,14.565,med,high,short,male,Smith
+Beagle,10105.8852,33.2914,13.3322,med,high,short,female,Martin
+Welsh Corgi,12597.8709,28.7739,10.731,med,high,med,male,Pierce
+Welsh Corgi,14205.0835,32.2139,11.1945,high,high,med,male,Miranda
+Beagle,10979.7056,35.9906,14.3782,med,high,med,male,Smith
+Airedale Terrier,20720.7988,57.981,11.1869,high,high,med,female,Hill
+Welsh Corgi,13844.4506,30.9581,11.3528,high,high,med,male,Sergio
+Airedale Terrier,18273.1731,56.9061,11.851,high,med,med,female,Spencer
+Dalmatian,22650.1102,48.0,14.4293,high,high,short,male,Benitez
+Dalmatian,22828.8225,48.0,12.7717,high,high,short,female,Young
+Airedale Terrier,18039.2165,,13.1626,high,high,long,male,Scott
+Welsh Corgi,12463.1787,27.3099,11.0754,low,high,long,male,Baker
+Beagle,11044.3579,37.9067,13.6728,med,high,short,male,Robertson
+Dalmatian,23997.6129,,13.5551,high,high,short,male,Gomez
+Dalmatian,24817.5251,48.0,13.0272,high,high,short,female,Wells
+Airedale Terrier,19119.2337,,10.4121,high,high,med,male,Smith
+Beagle,7304.6424,33.8013,14.7952,med,high,short,male,Jacobson
+Beagle,9734.439,37.6789,14.9332,med,high,short,male,Roach
+Dalmatian,22741.6133,48.0,12.7637,high,high,short,male,Walton
+Beagle,9934.586,36.9217,13.6359,med,high,short,female,Hanson
+Airedale Terrier,21977.1261,57.046,10.1114,high,high,med,male,Mckinney
+Dalmatian,25987.03,48.0,13.7426,high,high,short,male,Tran
+Airedale Terrier,21809.8774,57.0156,13.2383,high,high,med,female,Benson
+Dalmatian,22622.7504,48.0,13.1508,high,high,short,female,Martinez
+Airedale Terrier,21657.0865,57.2572,12.0454,high,high,med,female,Miller
+Welsh Corgi,13643.2829,28.1476,10.1688,med,high,long,male,Rodriguez
+Dalmatian,20809.2249,48.0,13.2322,high,high,short,female,Lutz
+Welsh Corgi,12620.2758,27.6513,11.1962,med,high,short,male,Cook
+Beagle,8228.0922,34.0313,12.575,med,high,med,male,Delgado
+Beagle,12054.8667,34.1728,14.118,med,high,short,male,Anderson
+Welsh Corgi,16258.7284,30.3152,11.0554,low,high,med,female,Cunningham
+Dalmatian,22952.4728,,12.6547,high,high,short,male,Young
+Beagle,9763.3111,35.0429,13.8518,med,high,short,female,Mitchell
+Dalmatian,24173.4891,48.0,13.4952,high,high,short,female,Barnes
+Welsh Corgi,12895.5247,29.0826,10.5593,med,high,med,male,Perry
+Beagle,9422.2166,36.6442,13.0961,high,high,short,male,Roberts
+Beagle,10900.017,36.0566,14.3011,med,high,med,male,Osborne
+Airedale Terrier,21951.9459,57.1873,10.0508,high,high,med,female,Wilson
+Airedale Terrier,21629.2335,55.7,10.9807,high,high,med,male,Greene
+Dalmatian,24321.1091,,13.2093,high,high,short,female,Kelly
+Dalmatian,21609.9083,48.0,13.4606,high,high,short,female,Jennifer
+Beagle,10330.9724,,15.3187,med,high,short,female,Rogers
+Airedale Terrier,20892.2055,57.363,11.2623,high,high,med,male,Barnes
+Airedale Terrier,21512.563,,10.6245,high,high,long,female,Hall
+Welsh Corgi,12971.5829,32.183,10.3973,med,high,short,female,Wang
+Airedale Terrier,20356.3237,57.6051,11.565,high,high,med,male,Reed
+Dalmatian,23279.1166,48.0,12.4509,high,high,short,female,Gonzalez
+Beagle,11849.1947,,12.4806,med,high,short,male,Mitchell
+Welsh Corgi,13510.3755,31.4292,10.6016,low,high,long,male,Johnson
+Beagle,10209.5595,37.6201,12.2869,med,high,short,male,Graves
+Beagle,8807.5585,,14.115,med,high,short,female,Allen
+Welsh Corgi,13795.23,,11.1706,low,high,med,male,Reynolds
+Airedale Terrier,20834.7267,57.1108,11.3714,high,high,med,male,Clark
+Dalmatian,24909.9055,48.0,13.8734,high,high,med,male,Johns
+Beagle,9043.3436,37.5455,14.4909,med,high,short,male,Cervantes
+Dalmatian,28536.9864,48.0,12.6393,high,high,short,male,Williams
+Beagle,9766.5268,,15.2298,med,high,short,female,Gonzales
+Airedale Terrier,20995.1933,,11.6479,high,high,med,male,White
+Airedale Terrier,18360.6067,,11.9332,high,high,short,female,Nelson
+Beagle,10012.8808,37.1655,13.1475,med,high,short,female,Stevenson
+Welsh Corgi,14887.7715,31.6577,11.0031,med,high,long,male,Conway
+Welsh Corgi,15721.2613,,11.381,med,high,med,female,Lopez
+Beagle,11501.6965,37.9006,12.3238,low,med,short,male,Davila
+Dalmatian,22690.0036,,12.365,high,high,short,female,Brown
+Dalmatian,25063.7067,48.0,13.1679,high,high,short,female,Hays
+Dalmatian,20172.0439,48.0,12.7501,high,high,short,male,Audrey
+Welsh Corgi,11330.7417,26.8989,10.485,med,high,med,male,Brown
+Welsh Corgi,15443.9701,30.2261,10.0457,med,high,med,female,Cervantes
+Welsh Corgi,12551.2128,26.3144,10.249,med,med,med,male,Sullivan
+Airedale Terrier,16611.2381,56.5041,12.0067,high,high,med,female,Curry
+Welsh Corgi,13373.268,,11.0919,med,med,med,male,Leonard
+Airedale Terrier,20382.8057,57.2958,10.3669,high,high,med,male,Eaton
+Airedale Terrier,20330.9643,,12.7676,high,high,long,male,Murphy
+Airedale Terrier,20875.6494,56.9416,12.5997,high,high,med,male,Blair
+Welsh Corgi,13978.5785,,10.9403,med,high,med,male,Collier
+Airedale Terrier,20679.5844,,10.6224,high,high,med,male,Beck
+Welsh Corgi,15976.6906,27.7434,11.5213,med,high,med,female,Howe
+Welsh Corgi,12586.7885,22.8772,10.7232,med,high,long,male,Weeks
+Airedale Terrier,22626.3095,56.568,12.1836,high,high,med,male,Jackson
+Welsh Corgi,12203.1821,,10.9629,med,high,med,male,Peterson
+Welsh Corgi,15799.1809,30.1757,11.1464,med,med,med,female,Perez
+Beagle,12163.9538,,12.5087,med,high,short,female,Thomas
+Welsh Corgi,10140.1569,29.6592,11.4937,low,high,med,female,Gonzalez
+Dalmatian,23067.156,,12.4079,high,high,short,female,Rojas
+Dalmatian,26770.0544,48.0,13.2725,high,high,short,male,Walls
+Airedale Terrier,20633.2826,57.3368,11.3627,high,high,med,male,Roberts
+Welsh Corgi,16402.2404,30.9704,10.5004,med,high,med,male,Fletcher
+Airedale Terrier,22569.5813,56.5223,12.5541,high,high,med,female,Gonzalez
+Welsh Corgi,13710.0405,,11.1055,med,high,med,female,Thomas
+Beagle,12181.0138,32.7162,13.5695,low,high,short,male,Johnson
+Airedale Terrier,19426.3356,,10.6665,high,high,med,female,Knight
+Airedale Terrier,20502.4313,58.3177,11.2265,high,high,med,female,Mills
+Welsh Corgi,16025.9739,29.447,10.0533,high,high,med,male,Diaz
+Beagle,10482.1434,36.4895,12.5374,med,high,short,male,Swanson
+Beagle,11573.4687,,12.6563,med,med,short,female,Thomas
+Airedale Terrier,21380.2945,57.1066,11.6064,high,high,med,male,Nunez
+Airedale Terrier,17070.5134,56.1805,11.1188,high,high,short,female,Haynes
+Beagle,11794.0264,35.3233,13.1677,low,med,short,female,Harrell
+Dalmatian,26225.0071,,12.7303,high,high,short,female,White
+Beagle,12148.1468,35.3704,13.448,low,high,short,male,Garcia
+Welsh Corgi,12454.9303,30.3727,10.9268,med,high,med,male,Lewis
+Airedale Terrier,22300.8156,56.9247,10.7106,high,high,long,male,Werner
+Dalmatian,25042.9515,48.0,12.9572,high,high,short,female,Fernandez
+Beagle,9077.1345,35.5968,13.9955,med,high,short,female,Benson
+Dalmatian,22620.1737,48.0,13.5595,high,high,short,female,George
+Airedale Terrier,20063.7592,,10.2323,high,high,short,male,Martin
+Welsh Corgi,15529.1299,28.9753,11.2578,low,high,long,female,Silva
+Welsh Corgi,13751.057,35.3445,11.4416,med,high,short,male,Wilson
+Dalmatian,22777.0265,48.0,13.83,high,high,short,female,Ford
+Airedale Terrier,21120.195,58.2255,9.6394,high,high,med,female,Fitzgerald
+Beagle,11139.7288,36.3773,13.1713,low,high,short,male,Miller
+Airedale Terrier,20185.26,56.1164,10.934,high,high,med,female,Hall
+Beagle,11727.6129,33.521,12.9565,med,high,short,male,Nash
+Beagle,8618.4752,37.5153,14.5844,med,med,short,female,Vance
+Dalmatian,23088.0436,48.0,14.2617,high,high,short,male,Wright
+Beagle,12833.5832,37.0973,13.5683,med,high,short,male,Hayes
+Beagle,6329.4024,35.0971,12.285,low,high,short,female,Diaz
+Beagle,9815.8979,,13.5059,med,high,short,female,Snyder
+Welsh Corgi,12276.4699,28.2458,10.7873,med,high,med,female,Chen
+Beagle,9211.0764,35.5248,15.0932,med,high,short,male,Smith
+Dalmatian,24386.8382,48.0,13.8211,high,high,short,male,Mora
+Beagle,10482.9556,36.1907,13.6399,med,high,short,male,Romero
+Dalmatian,24706.1507,48.0,12.2914,high,high,med,male,Hubbard
+Welsh Corgi,14830.1818,25.1902,11.0226,med,high,med,male,Sharp
+Welsh Corgi,16045.6716,24.288,11.2664,med,med,med,female,Cook
+Welsh Corgi,15496.2183,29.8749,12.1234,med,high,med,female,Cooper
+Dalmatian,24056.2048,,13.1829,high,high,short,male,Fuller
+Beagle,10743.3494,35.001,13.1689,med,high,short,male,Cook
+Welsh Corgi,14892.5036,24.468,10.8489,med,high,med,female,Emily
+Beagle,10842.5461,34.4012,12.809,med,high,short,female,Barrera
+Beagle,11792.6938,33.8236,12.2987,med,high,short,male,Meza
+Dalmatian,25278.4711,48.0,12.3355,high,high,short,male,Graham
+Beagle,13446.4176,33.9265,12.8,med,high,short,female,Silva
+Welsh Corgi,15528.8915,23.7618,11.5444,med,high,med,female,Moore
+Dalmatian,22278.7753,48.0,13.1254,high,high,short,female,Nash
+Airedale Terrier,19370.3819,57.5409,9.8697,high,high,long,female,Sellers
+Beagle,10525.3619,,13.4631,high,high,short,male,Davis
+Beagle,11078.7533,37.354,14.3289,low,med,short,male,Chan
+Beagle,12706.0217,,13.7988,med,high,short,male,Baker
+Welsh Corgi,10819.8846,24.8059,11.6428,med,med,med,male,Austin
+Welsh Corgi,13905.891,29.2407,10.9685,high,high,med,male,Stokes
+Beagle,10139.3666,36.4358,13.4663,med,high,short,female,Martin
+Beagle,8972.6974,37.269,13.2043,low,med,short,female,Green
+Beagle,10927.7326,33.9678,13.6701,med,high,short,female,Munoz
+Beagle,9625.7395,33.6982,13.1149,med,med,short,male,Anderson
+Welsh Corgi,13873.4921,28.919,9.6036,med,high,short,male,Palmer
+Beagle,12891.2177,35.3387,14.0258,med,high,short,male,Lee
+Welsh Corgi,14611.1096,31.188,10.8324,med,high,med,male,Vega
+Beagle,8251.8577,35.8764,14.0811,med,high,short,male,Chandler
+Airedale Terrier,22955.2093,57.0225,13.3437,high,high,long,male,Atkins
+Beagle,11513.0284,36.5553,13.1287,med,high,short,female,Burnett
+Dalmatian,23916.5691,48.0,12.6776,high,high,short,male,Davis
+Airedale Terrier,16981.0547,57.8707,11.2184,high,high,med,female,Mayo
+Dalmatian,25900.2608,48.0,12.9638,high,high,short,male,Wilson
+Welsh Corgi,14110.1614,26.9534,10.1996,med,high,med,female,Mccarthy
+Airedale Terrier,20346.7585,57.4995,11.2996,med,high,med,male,Bailey
+Welsh Corgi,13431.0649,24.4063,11.2659,med,high,med,male,Smith
+Airedale Terrier,18081.6849,57.1515,11.2555,med,high,long,female,Collins
+Airedale Terrier,22676.5155,57.5287,10.8426,high,high,long,male,Patel
+Airedale Terrier,22851.4584,58.4335,11.532,high,high,short,male,Lopez
+Dalmatian,24618.9796,48.0,11.122,med,high,short,male,Underwood
+Dalmatian,24595.9024,48.0,11.2984,high,high,short,male,Williams
+Airedale Terrier,21353.0713,,11.665,high,high,short,male,Flores
+Airedale Terrier,19138.3899,55.8112,10.9775,high,med,med,male,Miller
+Beagle,11507.9961,35.5021,12.6043,med,med,short,female,Myers
+Welsh Corgi,13059.4575,32.7796,10.0627,med,high,short,female,Bryan
+Beagle,11783.4124,33.5257,13.3058,med,high,short,female,Lee
+Beagle,10894.2352,35.0843,14.0892,med,high,short,male,Scott
+Airedale Terrier,19868.9354,56.3469,11.9275,high,high,med,female,Carter
+Welsh Corgi,12722.4417,27.2946,11.5804,med,high,short,male,Stevens
+Beagle,9077.2937,33.5237,15.0358,med,high,short,female,Brown
+Beagle,14202.4849,,14.0401,med,high,short,male,Davis
+Dalmatian,25231.442,48.0,13.6501,high,high,med,male,Martin
+Welsh Corgi,13399.7343,25.8517,11.8743,high,high,med,female,Brown
+Welsh Corgi,15040.4764,26.5768,9.8924,high,high,med,male,Hahn
+Beagle,10636.7447,32.6473,13.3649,med,high,short,female,Young
+Welsh Corgi,17148.7479,28.979,10.8485,high,high,med,female,Stanton
+Dalmatian,24248.021,48.0,12.9332,med,high,short,female,Bowman
+Dalmatian,27712.4767,48.0,12.9107,high,high,short,female,Harmon
+Beagle,11381.5343,,12.354,med,high,short,female,Wong
+Dalmatian,24719.2904,48.0,12.8606,high,high,short,female,Fowler
+Welsh Corgi,17517.7867,26.6253,10.2405,med,high,med,male,Harper
+Dalmatian,22302.5779,48.0,11.4282,high,high,short,female,Wyatt
+Dalmatian,23303.9011,,13.0286,high,high,short,male,Jones
+Airedale Terrier,18023.1368,58.1362,11.8408,high,med,med,female,Graves
+Airedale Terrier,23551.3695,,11.2856,high,high,med,male,Nguyen
+Dalmatian,23643.0942,,12.8996,high,high,short,female,Gates
+Dalmatian,17712.425,48.0,13.6644,high,high,short,male,Paul
+Airedale Terrier,18989.7714,57.2716,12.026,high,high,long,male,Spencer
+Airedale Terrier,20485.8064,57.7402,11.5832,high,high,med,female,Brown
+Welsh Corgi,16389.2387,33.1474,11.7231,low,high,long,male,Sharp
+Dalmatian,24130.5611,48.0,12.9045,high,high,short,male,Hunt
+Beagle,9629.8152,33.7182,11.5725,low,high,short,male,Smith
+Beagle,9606.2253,36.3667,12.2263,med,high,short,female,Robinson
+Welsh Corgi,13786.2356,28.6253,11.0902,med,high,med,female,Boyle
+Welsh Corgi,17016.4848,29.4424,11.828,med,high,med,female,Hughes
+Dalmatian,22614.9311,48.0,12.7813,med,med,short,female,Phillips
+Beagle,8353.5715,,14.628,high,high,short,female,James
+Airedale Terrier,23082.4131,57.034,13.635,high,high,long,female,Hurley
+Dalmatian,21500.5376,48.0,12.7906,high,med,short,female,Cooke
+Airedale Terrier,20020.2052,56.1864,11.0548,high,high,med,female,Pearson
+Beagle,11862.6351,34.7924,12.4708,med,high,med,female,Crosby
+Welsh Corgi,13150.2739,31.4962,11.2025,med,high,med,male,Morris
+Beagle,9250.4782,,13.8122,med,high,short,female,Hernandez
+Airedale Terrier,20206.559,57.0285,11.9133,med,high,med,female,Williams
+Dalmatian,23136.8663,,12.4494,med,high,short,female,Reynolds
+Beagle,11795.3291,,13.5482,med,high,short,female,Davidson
+Airedale Terrier,20376.362,56.7291,12.0736,high,med,med,female,Davis
+Airedale Terrier,22077.9917,57.0064,12.7888,high,high,med,male,Smith
+Welsh Corgi,13631.1935,31.3276,11.9271,med,high,med,male,Martinez
+Welsh Corgi,14550.7072,28.9232,10.641,med,high,med,male,Freeman
+Welsh Corgi,12847.5417,30.0122,10.135,med,high,long,male,Taylor
+Welsh Corgi,12490.5088,27.0657,11.1102,low,med,med,male,Roberts
+Airedale Terrier,21910.4952,57.3233,11.5289,high,high,med,female,Barnes
+Dalmatian,24849.7568,48.0,13.915,high,high,short,female,House
+Beagle,9511.6849,,13.551,med,high,short,male,Alicia
+Dalmatian,25113.3536,,13.7488,high,high,short,male,Clarke
+Airedale Terrier,21461.3199,56.5961,12.5364,high,high,long,female,Baker
+Beagle,9969.8274,33.9336,13.8871,med,high,short,male,Parker
+Beagle,12114.9824,37.7135,14.3089,med,high,short,female,George
+Beagle,9813.8927,34.6555,12.0632,med,high,short,male,King
+Welsh Corgi,12161.7172,31.0326,11.51,med,high,med,male,Brady
+Beagle,10743.407,,14.8167,med,high,short,male,Gallagher
+Beagle,13537.3338,32.8838,13.8382,med,high,short,female,Johnson
+Welsh Corgi,13937.1932,32.9253,11.0178,med,high,long,male,Murphy
+Airedale Terrier,17829.8357,,12.8003,high,high,med,male,Patel
+Dalmatian,23267.2776,48.0,12.7142,high,high,short,female,Norton
+Airedale Terrier,19477.3175,57.7264,10.1326,med,high,med,female,Cox
+Airedale Terrier,22767.3041,,11.0645,high,high,med,female,Ross
+Airedale Terrier,20378.2999,,10.827,high,high,med,male,Smith
+Welsh Corgi,13500.914,28.1363,10.9863,med,med,med,male,Morris
+Beagle,8641.0532,34.0996,13.3965,med,high,short,female,Reynolds
+Beagle,12155.8625,36.8181,13.7937,med,med,short,female,Mitchell
+Beagle,12266.7933,37.6635,13.7775,med,high,short,male,Floyd
+Dalmatian,23002.361,48.0,13.6066,high,high,short,male,Brown
+Dalmatian,21056.6162,48.0,12.0867,high,med,short,male,Mendez
+Dalmatian,21765.4505,48.0,12.7052,high,high,short,female,Durham
+Airedale Terrier,22058.2691,,11.0352,high,high,med,female,Murphy
+Beagle,9627.3631,39.0308,14.7682,med,high,med,female,Atkins
+Welsh Corgi,14413.0448,,9.5952,med,high,med,female,Sexton
+Welsh Corgi,11754.0736,25.6009,11.5041,med,high,med,male,Sullivan
+Beagle,9728.3828,34.3936,13.4061,med,high,short,male,Renee
+Welsh Corgi,15983.5392,23.698,11.573,low,high,med,female,Lopez
+Welsh Corgi,13170.4542,,10.752,med,high,med,male,Davis
+Dalmatian,26033.6851,48.0,13.2549,high,med,short,male,Mccoy
+Welsh Corgi,12690.3259,,10.2263,med,high,long,male,Lyons
+Beagle,9681.3152,35.6052,13.0685,med,high,short,male,Sanchez
+Dalmatian,22736.4896,48.0,13.2227,high,high,short,male,White
+Beagle,5601.0219,35.0699,12.8304,med,high,short,male,Vaughn
+Welsh Corgi,15231.1071,27.7952,10.9602,med,high,med,male,Oliver
+Welsh Corgi,16496.2884,28.6845,11.025,med,med,short,male,Everett
+Airedale Terrier,19483.9137,,12.0469,high,high,med,male,Hill
+Dalmatian,26293.0336,,12.0747,high,high,short,female,Nixon
+Welsh Corgi,14980.5643,28.9432,11.1358,med,med,med,male,Soto
+Beagle,7176.8772,35.1639,15.2616,low,high,short,female,Johnson
+Welsh Corgi,13199.1798,28.4313,11.2279,med,high,med,female,Anderson
+Dalmatian,21671.0991,48.0,12.5662,high,high,short,female,Smith
+Beagle,7019.3429,36.9444,14.4804,high,high,short,female,Harris
+Dalmatian,23310.4177,48.0,12.1621,med,high,short,female,Travis
+Dalmatian,23567.918,48.0,12.8762,high,high,med,female,Montgomery
+Beagle,9741.7507,35.0709,14.1116,high,high,short,male,Medina
+Dalmatian,25760.1944,48.0,13.219,high,high,short,female,Morales
+Beagle,12584.9741,,13.9095,med,high,short,female,Woodard
+Dalmatian,25812.0657,48.0,13.4028,high,high,short,male,Morris
+Airedale Terrier,20827.1715,55.9874,11.0675,high,high,med,male,Moyer
+Welsh Corgi,17727.8785,26.2364,10.8212,med,high,med,female,Stanley
+Airedale Terrier,22735.7053,57.4201,11.3054,high,med,short,male,Rivera
+Airedale Terrier,21400.2383,,12.0966,high,high,med,male,Hunt
+Dalmatian,20849.066,48.0,13.2847,high,high,short,female,Potter
+Welsh Corgi,11081.4448,30.7563,10.6933,med,high,med,female,Stafford
+Beagle,9235.6726,34.7268,13.4836,med,high,short,female,Melendez
+Beagle,11457.5427,34.8066,15.0311,med,high,med,male,Phillips
+Airedale Terrier,21753.1198,58.1781,11.6347,med,high,med,female,Daniel
+Dalmatian,24904.181,48.0,12.6439,high,high,short,female,Atkinson
+Welsh Corgi,15503.0477,,10.9323,med,high,med,male,Lowe
+Welsh Corgi,14429.7302,26.9022,10.5662,med,high,med,female,Calderon
+Welsh Corgi,16695.6543,28.361,11.1149,med,high,med,male,Baker
+Beagle,11047.215,,13.0121,med,high,short,male,Peck
+Airedale Terrier,19306.6129,57.2034,11.0189,med,high,med,male,Young
+Airedale Terrier,21168.6902,,12.0685,high,high,med,female,Hicks
+Dalmatian,24510.2244,48.0,13.1088,high,high,short,male,Hill
+Welsh Corgi,14003.2516,25.9657,10.7548,low,high,med,male,Rowe
+Airedale Terrier,21881.1812,56.1543,11.2451,high,high,med,female,Taylor
+Welsh Corgi,13178.2036,,10.1803,med,high,med,female,Lambert
+Beagle,12092.7591,,13.459,med,high,short,female,Amanda
+Beagle,9217.9532,36.4846,12.8152,med,high,short,female,Harper
+Airedale Terrier,19456.5859,,9.9189,high,high,med,female,Willis
+Beagle,11416.5317,34.0471,12.352,med,high,short,female,Short
+Dalmatian,24355.1208,48.0,13.141,med,high,short,male,Page
+Dalmatian,22285.3529,48.0,14.348,high,high,short,male,Parks
+Dalmatian,22074.5846,48.0,13.2885,med,med,short,female,Washington
+Beagle,10855.623,32.2433,13.4255,med,high,short,female,Tanner
+Beagle,9778.9163,37.4829,13.2499,med,high,short,male,Gibson
+Airedale Terrier,21289.5028,56.5622,11.7094,high,high,med,female,Marsh
+Airedale Terrier,16236.8714,,11.6822,high,med,med,female,Marquez
+Beagle,9738.0417,38.776,13.053,low,high,short,male,Woods
+Welsh Corgi,19009.1974,27.4861,10.8284,high,high,med,female,Green
+Beagle,14008.8691,35.4202,13.2396,low,med,short,male,Cherry
+Welsh Corgi,14180.7135,,11.3409,med,med,short,male,Barnes
+Welsh Corgi,13514.6959,25.1118,10.9307,med,med,med,male,Brown
+Dalmatian,24851.0085,48.0,13.9976,high,high,short,female,Peters
+Welsh Corgi,15008.3391,29.0803,11.1163,med,high,med,male,Brewer
+Dalmatian,26267.1483,48.0,12.1959,high,high,short,female,Lloyd
+Dalmatian,23699.8844,48.0,13.9776,high,high,short,female,Wyatt
+Dalmatian,21162.5094,,13.2039,high,high,short,female,May
+Airedale Terrier,17852.043,57.0717,11.9587,high,med,long,female,Nelson
+Airedale Terrier,22088.9277,55.9791,13.1122,high,high,med,female,Krause
+Dalmatian,24974.0315,48.0,12.1033,high,med,short,female,Thomas
+Welsh Corgi,12782.6113,27.293,11.512,med,high,med,male,Smith
+Dalmatian,24469.9467,48.0,14.1916,high,high,short,female,Butler
+Beagle,8900.3686,35.7966,14.2931,med,high,short,male,Robinson
+Welsh Corgi,12910.2606,27.5285,11.1904,med,high,med,male,Duncan
+Airedale Terrier,20836.9695,57.2389,13.4221,high,high,med,male,Ashley
+Welsh Corgi,15853.2053,28.8311,10.5873,med,high,med,female,Bryant
+Dalmatian,23862.3958,,14.6095,med,high,short,female,Murphy
+Welsh Corgi,15818.0435,25.7781,11.1595,med,high,med,male,Fields
+Welsh Corgi,15732.011,29.5653,11.1667,low,high,med,male,Andrade
+Beagle,11024.1411,,15.3003,med,high,med,male,Garcia
+Beagle,10849.321,36.5606,13.1441,med,high,short,male,Aguirre
+Welsh Corgi,14375.3166,25.6275,11.1708,med,high,med,male,Small
+Beagle,10076.2516,35.5644,13.1529,med,med,med,male,Juarez
+Beagle,10242.9676,36.8074,13.2273,high,high,short,female,Ward
+Welsh Corgi,13661.4437,,10.3241,med,high,med,male,Phillips
+Airedale Terrier,21922.0906,57.7698,11.8986,high,high,short,male,Munoz
+Airedale Terrier,21207.9405,58.3238,12.4512,high,high,med,female,Miller
+Welsh Corgi,14145.3764,28.7504,10.3157,med,high,med,male,Scott
+Dalmatian,20264.8887,48.0,13.435,high,high,short,female,Bender
+Welsh Corgi,13767.9745,,10.4965,med,high,med,female,Smith
+Airedale Terrier,18045.5644,57.0429,10.7485,high,high,long,male,Bonilla
+Dalmatian,26936.9652,48.0,13.2749,high,high,short,male,Lane
+Welsh Corgi,15846.4892,29.0353,11.8106,high,high,med,male,Bullock
+Welsh Corgi,15287.7545,23.3809,10.9019,med,med,med,male,Williams
+Beagle,11305.5857,38.5224,15.4125,med,high,short,male,Frost
+Welsh Corgi,14556.7987,32.1394,11.2972,med,high,med,female,Sanchez
+Welsh Corgi,16722.8475,26.9033,10.1512,med,high,med,female,Morgan
+Dalmatian,23554.9409,48.0,12.8461,high,high,short,male,Bryant
+Beagle,9382.6804,33.6346,13.7263,med,high,med,male,Townsend
+Beagle,11614.3207,36.4935,14.799,low,high,short,male,Thompson
+Welsh Corgi,15891.9938,29.7944,9.4431,med,med,short,female,Wood
+Dalmatian,25555.1111,48.0,13.1552,high,high,short,male,Villarreal
+Dalmatian,23172.0499,48.0,13.6811,high,med,short,female,Obrien
+Beagle,10381.0089,36.3647,13.125,med,high,short,female,Dennis
+Airedale Terrier,19458.0268,56.6986,12.1207,high,high,med,female,Collins
+Dalmatian,25325.4875,48.0,12.1331,high,high,short,male,Wells
+Beagle,11759.8491,35.1191,14.0574,med,high,short,female,Warren
+Dalmatian,23341.0538,48.0,13.8515,med,high,short,male,Hancock
+Dalmatian,25355.7249,48.0,12.8372,high,high,short,male,Francis
+Dalmatian,25439.243,48.0,12.7858,high,high,med,male,Garcia
+Beagle,10887.3946,36.8878,13.613,med,high,short,male,Wheeler
+Beagle,7687.6976,34.4412,13.862,med,high,short,female,Wade
+Welsh Corgi,12198.9421,26.8638,10.9631,med,high,med,male,Gomez
+Airedale Terrier,20196.1033,,10.0051,high,high,med,female,Faulkner
+Welsh Corgi,11555.1178,29.4752,11.1172,med,high,long,female,Wilson
+Dalmatian,23724.8502,48.0,13.4304,high,high,short,female,Rivers
+Airedale Terrier,21953.9516,56.867,11.946,high,high,long,male,Lane
+Welsh Corgi,12548.0067,31.1804,10.5774,med,high,med,female,Oconnor
+Beagle,10879.8514,36.5908,16.6337,med,high,short,female,Smith
+Airedale Terrier,21432.6755,56.3576,10.9154,high,high,med,female,Gonzalez

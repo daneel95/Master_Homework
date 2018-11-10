@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Bearded Collie,20404.6314,,13.4934,high,high,long,male,Allen
+Great Dane,45984.8107,79.6746,6.2755,med,high,short,female,Sandoval
+Great Dane,50003.5581,78.4553,6.6638,med,med,short,female,Reeves
+Bearded Collie,24900.7873,53.1426,12.8443,high,high,long,female,Ward
+Dalmatian,22679.7053,48.0,13.5268,high,high,short,male,Obrien
+Welsh Corgi,13128.372,28.8212,11.1173,low,high,med,female,Johnson
+Great Dane,44728.705,77.4827,6.92,med,med,short,female,Black
+Great Dane,50072.7065,75.2159,7.5717,high,high,med,male,Quinn
+Welsh Corgi,8991.8478,26.2972,11.7323,low,high,med,male,Scott
+Bearded Collie,15348.9944,49.7865,13.2527,high,high,long,female,Boyd
+Welsh Corgi,16482.546,26.4724,10.5319,med,high,med,male,Smith
+Bearded Collie,23206.5461,,12.7507,high,high,long,male,Finley
+Bearded Collie,24450.5048,,12.2564,high,high,long,female,Roberts
+Welsh Corgi,14159.6727,29.2762,12.5134,low,high,med,female,Smith
+Dalmatian,20557.8367,48.0,12.3128,high,high,med,male,Woods
+Welsh Corgi,14735.5396,,11.9911,med,high,med,female,Peterson
+Great Dane,50598.7985,80.336,7.0202,med,high,short,female,Miller
+Great Dane,53370.3659,82.7814,6.7792,med,high,short,female,Davenport
+Great Dane,49838.7955,78.602,7.6752,med,high,short,female,Chung
+Dalmatian,26180.3025,,12.8315,high,high,short,female,Simon
+Welsh Corgi,13605.0445,,11.3747,med,high,med,male,Stein
+Dalmatian,25017.6968,48.0,12.9203,high,high,short,male,Thompson
+Great Dane,49415.9865,78.6305,7.6856,high,high,short,male,Thomas
+Welsh Corgi,14124.2351,29.7272,10.7349,high,high,med,female,Cardenas
+Bearded Collie,20338.205,52.1668,12.428,high,high,long,male,Wright
+Bearded Collie,23544.7941,53.4383,13.8198,high,med,long,male,Combs
+Great Dane,52129.6707,79.0586,7.5713,high,high,short,male,Mora
+Dalmatian,23262.7604,48.0,12.2118,high,high,short,female,Joyce
+Dalmatian,24090.5213,,13.012,high,high,short,male,Gonzalez
+Bearded Collie,22521.8514,54.4042,14.0837,high,med,long,male,Boyd
+Welsh Corgi,12590.523,32.0499,11.0086,med,high,long,female,Barry
+Welsh Corgi,15088.3756,27.1065,11.5077,high,high,med,male,Vasquez
+Bearded Collie,23403.6994,52.629,13.3792,high,high,long,female,Cline
+Great Dane,51766.9301,,7.1641,med,high,short,male,Hendricks
+Dalmatian,20425.5349,48.0,12.9581,high,high,short,male,Brewer
+Welsh Corgi,16515.9233,28.2167,11.0867,med,high,med,male,Christian
+Dalmatian,24360.9815,48.0,13.7868,high,high,short,male,Wilkinson
+Bearded Collie,24496.7549,55.1552,13.0453,high,high,long,male,Jefferson
+Dalmatian,23700.7641,48.0,12.808,high,high,short,female,Norman
+Welsh Corgi,11518.265,,11.0917,med,med,med,male,Anderson
+Welsh Corgi,14147.7707,,11.3294,med,high,short,male,Ross
+Bearded Collie,20627.4525,54.0833,13.4074,high,high,long,male,Hernandez
+Great Dane,48014.4567,,7.6561,med,high,short,female,Yoder
+Great Dane,50862.217,78.8723,7.5679,med,med,short,female,Lawrence
+Welsh Corgi,14924.7734,28.0712,10.5406,med,high,med,male,Johnson
+Dalmatian,23473.8251,48.0,12.9233,high,high,short,male,Kelly
+Great Dane,46685.3112,,7.5665,med,high,short,male,Carlson
+Dalmatian,23384.7061,48.0,12.4806,high,high,med,female,Noble
+Great Dane,51298.5894,81.8475,7.6258,high,high,short,female,Baird
+Great Dane,54874.955,,7.4639,med,high,short,female,Garcia
+Dalmatian,21785.2931,,12.3079,high,high,short,female,Johnson
+Bearded Collie,23111.7002,53.5895,12.235,high,high,long,male,Guerra
+Great Dane,47785.7693,77.5638,5.5976,med,high,short,female,Winters
+Dalmatian,21223.3001,48.0,13.2023,high,med,short,female,Wade
+Great Dane,53510.4699,,6.39,med,high,short,male,Chaney
+Welsh Corgi,15330.1096,27.6274,10.4898,med,high,long,female,Thompson
+Great Dane,51497.7048,,7.0808,med,high,med,male,Smith
+Dalmatian,20521.1062,,12.3966,high,high,short,female,Mueller
+Dalmatian,18762.4544,48.0,12.8669,high,high,short,male,Taylor
+Bearded Collie,22693.7357,52.9483,12.5464,high,high,med,male,Rubio
+Dalmatian,26197.3509,48.0,13.1345,high,high,short,male,Bell
+Welsh Corgi,10731.5343,29.7209,10.0701,med,med,short,male,Oliver
+Bearded Collie,26114.6065,53.7426,12.95,high,high,long,female,Lane
+Bearded Collie,24024.9994,,13.6495,high,high,long,female,Courtney
+Welsh Corgi,15453.7502,,12.0543,med,high,med,male,Hardy
+Dalmatian,21660.0738,,12.6152,high,high,short,male,Chen
+Great Dane,47930.406,,6.1826,med,high,short,male,Cabrera
+Dalmatian,24589.0234,,13.6383,high,high,short,male,Thompson
+Dalmatian,24665.6975,,13.502,high,high,short,male,Lewis
+Bearded Collie,18685.2774,52.0593,12.5955,high,high,med,male,Nunez
+Bearded Collie,22753.8875,52.5075,11.9523,high,high,long,male,Phillips
+Dalmatian,23470.0468,48.0,12.6693,high,high,short,male,Wilson
+Welsh Corgi,13625.9542,,11.7431,med,high,med,female,Myers
+Welsh Corgi,14020.1236,28.737,10.7004,low,high,med,male,Johnson
+Welsh Corgi,11553.4714,30.3757,11.1354,low,med,short,male,Miller
+Great Dane,57927.8617,80.4926,7.0219,med,high,short,male,Clark
+Welsh Corgi,10399.5648,,11.9837,med,high,med,female,Jenkins
+Bearded Collie,20832.834,52.5652,12.3551,med,high,long,male,Taylor
+Bearded Collie,18950.0765,,13.1957,high,high,long,female,King
+Welsh Corgi,16626.9921,30.5351,9.9152,med,high,med,male,Washington
+Welsh Corgi,13567.6974,,9.8939,med,high,med,female,Ramsey
+Welsh Corgi,13746.1227,30.2871,10.7395,med,high,med,male,Davidson
+Dalmatian,23198.4379,48.0,12.5256,high,high,short,male,Brown
+Bearded Collie,23840.2392,,13.0385,high,high,long,male,Washington
+Dalmatian,26013.0082,48.0,12.6932,high,high,short,female,Church
+Dalmatian,24197.0642,48.0,11.8204,high,high,short,male,Burns
+Dalmatian,23288.9215,48.0,12.5812,high,high,short,male,Allen
+Great Dane,47075.0112,79.3566,6.9195,med,high,short,female,Briggs
+Great Dane,51667.41,78.1555,7.8597,med,med,short,male,Bishop
+Dalmatian,24024.71,48.0,12.9384,high,high,short,female,Montgomery
+Great Dane,51423.3443,80.84,6.7465,med,med,short,male,Green
+Great Dane,46015.6373,77.1752,7.1586,med,high,short,female,Stewart
+Great Dane,54939.8439,77.7973,6.3522,med,high,short,male,Bryant
+Bearded Collie,19060.1335,,13.4081,high,high,long,male,Bailey
+Bearded Collie,23870.2839,49.8437,13.1528,high,high,long,male,Williams
+Welsh Corgi,15066.5675,,12.2953,med,high,med,female,Peterson
+Bearded Collie,23178.3441,,13.5519,high,high,long,female,Thomas
+Dalmatian,25939.2647,48.0,12.6848,high,high,short,female,Ray
+Great Dane,48944.6527,79.4266,8.1256,med,high,short,female,Fitzgerald
+Great Dane,55024.8551,80.3561,7.2143,med,high,short,male,Gonzales
+Welsh Corgi,15876.8569,34.261,12.1071,med,high,med,male,Moore
+Welsh Corgi,13336.5802,,11.7134,high,high,med,female,Wiley
+Dalmatian,24350.2472,48.0,12.4643,high,high,med,female,Roy
+Great Dane,52448.6285,78.2246,6.5398,med,high,short,female,Villanueva
+Great Dane,46956.2588,77.102,6.5574,low,high,short,female,Clark
+Welsh Corgi,14541.5969,32.5384,10.4566,high,high,med,female,Natasha
+Welsh Corgi,14069.5919,,10.7107,med,high,med,male,Ray
+Welsh Corgi,14576.6169,27.7954,11.7413,med,high,long,female,Vang
+Dalmatian,26633.7935,48.0,13.2346,high,high,short,female,Carlson
+Welsh Corgi,14236.0529,34.0665,11.7411,med,high,med,female,Vargas
+Welsh Corgi,18167.8442,30.4803,9.8548,med,high,short,female,Hawkins
+Great Dane,44966.5662,77.5174,7.1815,med,high,short,male,Freeman
+Great Dane,50224.4844,77.746,6.7989,med,high,short,female,Maynard
+Great Dane,51174.7309,78.8144,7.5796,med,high,short,male,Paul
+Great Dane,51862.7931,80.1324,6.5947,med,high,short,male,Fitzpatrick
+Great Dane,49283.6693,79.735,8.1091,med,high,short,female,Lawson
+Bearded Collie,21519.1103,52.7671,13.2762,high,med,long,male,Butler
+Welsh Corgi,14332.3408,26.1512,11.3993,med,high,med,female,Brooks
+Bearded Collie,20089.6606,55.5344,13.1708,high,high,long,male,Garcia
+Great Dane,48692.9969,77.0056,8.1028,med,high,short,male,Graham
+Welsh Corgi,13255.6414,29.8013,11.5096,med,med,med,male,Hansen
+Bearded Collie,20937.7383,54.1987,13.3273,high,high,long,male,Ponce
+Great Dane,51731.3411,,5.825,med,high,short,male,Collins
+Great Dane,53324.8687,80.1607,7.9398,med,high,short,female,Ferguson
+Dalmatian,25666.5136,48.0,12.4764,high,high,short,female,Lewis
+Dalmatian,23226.1685,48.0,12.1753,high,high,short,female,Rubio
+Welsh Corgi,11785.0458,29.9348,10.1115,med,high,med,male,Fernandez
+Great Dane,49739.6864,80.5008,5.9512,med,high,short,male,Ellis
+Dalmatian,21630.7737,48.0,12.3251,high,high,med,male,Kennedy
+Great Dane,52747.0956,75.7756,6.4929,med,high,med,female,Williams
+Great Dane,52539.2985,,6.9994,med,high,short,female,Gardner
+Bearded Collie,24750.3532,54.1612,12.9307,high,med,long,male,Turner
+Bearded Collie,23447.9416,,13.3179,high,med,long,male,Roberts
+Bearded Collie,22172.3108,,13.025,high,high,long,female,Adams
+Welsh Corgi,14231.3027,29.0369,11.483,med,high,med,male,Wright
+Great Dane,42568.3978,,6.9424,high,med,short,female,Reyes
+Welsh Corgi,13430.0263,30.0095,10.5855,med,med,med,male,Pearson
+Great Dane,53880.9845,,7.6795,low,high,short,female,Sweeney
+Great Dane,45823.762,80.5648,6.8705,med,high,med,male,Allen
+Great Dane,48266.1698,79.9609,6.9109,med,high,short,female,Murphy
+Great Dane,50397.3188,78.612,7.1846,med,high,short,male,Peterson
+Dalmatian,23367.3351,48.0,14.0493,high,high,short,male,Collins
+Welsh Corgi,13765.3426,26.1882,11.6932,med,high,med,male,Karen
+Great Dane,50590.5882,78.0533,6.6546,low,med,med,male,Cooley
+Great Dane,51719.5311,80.2006,7.5724,med,med,short,female,Gray
+Bearded Collie,24693.4606,,11.9571,high,high,long,male,Garcia
+Dalmatian,22506.6058,48.0,12.7392,high,high,med,female,Meyer
+Bearded Collie,27167.2591,,13.4694,high,high,long,female,Velasquez
+Bearded Collie,24236.9275,,13.0485,high,high,long,female,Shah
+Dalmatian,22661.5945,48.0,12.9855,high,high,short,female,Boyle
+Welsh Corgi,12923.7935,32.1006,10.7527,med,high,med,male,Haley
+Great Dane,45787.4408,81.1375,7.0223,med,high,short,female,Armstrong
+Great Dane,51425.1886,75.5809,7.408,med,high,short,male,Lee
+Welsh Corgi,12857.6204,29.0967,11.5369,low,high,med,male,Cooke
+Dalmatian,28577.4306,,12.9514,high,high,short,male,Peterson
+Great Dane,51783.6253,76.0326,6.8043,med,high,short,female,Berger
+Welsh Corgi,13905.4686,28.209,10.6501,med,high,med,female,Porter
+Welsh Corgi,14913.3701,31.0284,10.8657,high,high,med,male,Patterson
+Bearded Collie,27463.2173,51.8591,12.8744,high,high,long,male,Neal
+Great Dane,47124.8344,73.7766,6.5301,med,med,short,female,Peterson
+Great Dane,51555.4474,,7.4789,med,high,short,male,Morse
+Welsh Corgi,12842.7337,,8.9544,med,high,med,male,Clay
+Great Dane,47755.8009,,7.3653,med,high,short,female,Davis
+Great Dane,50507.5321,78.9036,6.7843,med,med,short,female,Santiago
+Bearded Collie,18730.0042,52.4048,12.7861,high,high,long,female,Powell
+Great Dane,47362.4514,77.6183,6.8169,med,med,short,female,Hernandez
+Welsh Corgi,16206.689,28.0005,11.1508,med,high,med,male,Brown
+Bearded Collie,18360.8744,52.3856,13.7141,high,high,long,male,Potts
+Great Dane,58603.775,81.3303,7.943,med,high,short,male,Tucker
+Dalmatian,20075.7238,48.0,12.6839,high,high,short,male,Baker
+Dalmatian,24804.3721,48.0,13.4592,high,med,short,female,Jensen
+Great Dane,48038.2472,80.1175,7.1403,med,high,short,female,Johnson
+Great Dane,47981.3389,,6.7852,med,high,short,female,Yang
+Welsh Corgi,10134.4968,25.7207,12.5087,med,high,med,male,Romero
+Great Dane,49624.8586,78.9299,6.96,med,high,short,male,Yates
+Dalmatian,24000.9621,48.0,13.2511,high,high,short,female,Williams
+Dalmatian,23477.2548,48.0,13.1365,high,high,short,male,Townsend
+Great Dane,48167.0458,78.3151,6.7265,high,high,short,female,Wall
+Bearded Collie,22231.3966,,12.9648,high,high,long,female,Sullivan
+Great Dane,50376.0508,78.082,7.0359,med,high,short,male,Robinson
+Welsh Corgi,15285.1744,29.5628,10.8894,high,high,med,female,West
+Welsh Corgi,17435.3945,,11.2468,med,high,med,male,Guzman
+Dalmatian,26982.0294,48.0,12.5618,high,high,short,female,Carroll
+Bearded Collie,23572.4211,50.8621,12.9365,high,high,long,male,Graham
+Great Dane,48950.1073,75.7232,7.6682,med,high,short,female,Perez
+Dalmatian,22758.812,,13.2709,high,high,short,female,Barajas
+Dalmatian,23658.8793,48.0,12.8213,high,high,short,male,Trujillo
+Welsh Corgi,14370.7867,30.6394,11.177,med,high,med,male,Davies
+Bearded Collie,22928.4963,55.0432,12.1187,high,high,med,male,Sparks
+Welsh Corgi,12108.6442,,11.6265,med,high,med,male,Reed
+Dalmatian,21887.8567,48.0,13.179,high,high,short,female,Jensen
+Welsh Corgi,11761.9811,,11.6302,med,high,med,male,Kaufman
+Bearded Collie,20483.6479,55.8608,13.103,high,high,long,male,Smith
+Great Dane,48653.9243,76.4259,6.7128,med,high,short,male,Chung
+Great Dane,51441.7525,,8.3298,med,high,short,male,Acosta
+Dalmatian,21301.115,48.0,12.9876,high,high,short,female,Mendoza
+Great Dane,50745.5418,75.5701,8.0391,med,high,short,male,Maxwell
+Welsh Corgi,13821.4134,29.2009,10.9218,med,high,med,female,Russell
+Welsh Corgi,13993.3883,27.7896,10.9144,med,high,med,male,Espinoza
+Bearded Collie,22806.0779,49.345,12.8142,high,high,long,female,Bennett
+Welsh Corgi,12962.4542,,10.6616,med,high,short,female,Wilson
+Dalmatian,19574.2946,48.0,13.6654,high,high,short,female,Watson
+Dalmatian,22250.1873,,12.5485,high,high,short,female,Gordon
+Dalmatian,23746.4527,48.0,13.1778,high,high,short,male,Jones
+Great Dane,48000.3545,,6.7069,med,high,short,male,Munoz
+Bearded Collie,19296.0019,53.3845,13.4674,high,high,long,female,Owens
+Dalmatian,22098.5156,48.0,12.0189,high,med,short,female,Clayton
+Welsh Corgi,12753.9492,28.9629,11.1345,med,high,med,male,Jimenez
+Bearded Collie,25909.5387,51.9612,12.365,high,high,long,female,Smith
+Great Dane,54148.4472,,7.5494,med,high,short,male,Smith
+Dalmatian,23935.1532,48.0,12.6945,high,high,short,female,Brown
+Great Dane,50353.4073,79.8003,7.7501,med,high,short,female,Martinez
+Great Dane,53173.0118,84.6347,7.61,high,high,short,male,Clark
+Bearded Collie,22821.8514,54.723,13.0884,high,high,long,male,Hunt
+Bearded Collie,20464.644,53.7063,13.087,med,high,long,male,Miller
+Great Dane,50650.6641,77.9874,7.3713,med,high,short,female,Anderson
+Dalmatian,26461.8117,48.0,13.8257,high,high,short,male,Contreras
+Bearded Collie,22675.5387,,12.748,high,high,long,female,Cooper
+Welsh Corgi,15175.7788,28.758,10.9814,med,high,med,male,Stanton
+Great Dane,51540.5252,75.6021,7.4843,med,high,short,female,Hernandez
+Dalmatian,23194.8816,48.0,13.2379,high,high,short,female,Myers
+Bearded Collie,18746.4333,52.5418,13.7359,high,high,long,female,Wallace
+Dalmatian,20567.8104,48.0,14.1626,high,high,short,female,Wilson
+Welsh Corgi,14460.3564,,9.6484,med,high,short,female,Evans
+Dalmatian,23614.1151,,13.8392,high,med,med,male,Davila
+Bearded Collie,24382.4036,51.6692,12.9777,high,high,long,female,Bowers
+Welsh Corgi,15784.6221,26.0034,11.41,med,high,med,female,Lopez
+Bearded Collie,16069.2155,51.0194,12.3645,high,high,long,male,Williams
+Dalmatian,23422.937,48.0,11.8694,med,high,short,male,Mullins
+Great Dane,48456.2309,78.5211,6.7126,med,high,short,female,Anderson
+Welsh Corgi,14346.6564,27.8898,11.1204,high,high,long,male,Harris
+Bearded Collie,18979.5374,53.2688,13.2434,high,high,long,male,Fox
+Bearded Collie,27366.0254,54.7294,12.1531,high,high,med,male,Green
+Dalmatian,22625.0187,48.0,12.5917,high,high,short,male,Medina
+Welsh Corgi,14848.3075,,11.0321,low,high,short,male,Jones
+Great Dane,46450.6258,,6.9778,low,med,short,female,Adams
+Bearded Collie,24686.7912,54.899,11.9359,med,high,long,female,Wilkins
+Dalmatian,23581.1606,48.0,12.892,high,high,short,female,Jones
+Welsh Corgi,15142.8855,,11.1886,med,high,short,male,Mendoza
+Dalmatian,18773.8953,48.0,12.9245,high,high,short,female,Abigail
+Dalmatian,23635.933,48.0,13.4133,high,high,short,female,Davis
+Dalmatian,21173.9584,48.0,11.1458,high,high,short,male,Washington
+Great Dane,43294.1808,77.7706,7.3482,med,high,short,female,Leon
+Great Dane,47297.1522,78.1266,7.8531,med,high,short,male,Osborne
+Welsh Corgi,15847.7593,27.1832,11.4016,med,high,long,female,Todd
+Dalmatian,24433.0079,48.0,12.8021,high,high,short,female,Hall
+Bearded Collie,25499.4588,50.9426,13.0659,high,high,med,male,Ramsey
+Bearded Collie,26364.8343,50.1653,13.2435,high,high,long,female,Hernandez
+Great Dane,53726.8284,80.6868,6.5645,high,high,short,female,Watkins
+Great Dane,46716.7528,,6.7334,high,high,short,female,Sherman
+Welsh Corgi,13033.6757,28.8746,11.1355,low,high,med,male,Barrett
+Welsh Corgi,13642.5293,29.9372,11.129,med,high,med,male,Nelson
+Great Dane,52193.8346,80.6624,7.5766,high,high,med,female,Hansen
+Welsh Corgi,14259.9153,31.532,12.2588,med,high,long,male,Shaffer
+Welsh Corgi,12660.2216,23.8917,10.8783,med,high,med,male,Brady
+Welsh Corgi,14405.1291,,11.2208,med,high,med,female,Anderson
+Welsh Corgi,15196.2219,29.051,10.414,med,high,short,female,Galvan
+Bearded Collie,27183.0193,49.5037,13.4195,med,high,long,male,Freeman
+Welsh Corgi,13983.734,31.1959,10.4807,med,high,med,female,Garcia
+Welsh Corgi,11707.4242,,11.2108,med,high,med,female,Reed
+Welsh Corgi,12336.2093,31.7394,10.6792,med,high,med,male,Schmidt
+Welsh Corgi,15610.9861,26.442,9.4253,med,high,med,female,Rangel
+Great Dane,48454.0979,,6.5915,med,high,short,female,Nicholson
+Great Dane,53079.9839,76.7746,8.0424,med,high,short,male,Peterson
+Welsh Corgi,14877.5461,,10.7612,med,high,med,female,Marshall
+Dalmatian,23768.7185,48.0,12.2548,high,high,med,male,Rivera
+Bearded Collie,20912.2825,54.0669,13.3807,med,high,long,male,Madden
+Bearded Collie,22836.7667,,13.212,med,high,long,female,Spence
+Dalmatian,26869.9341,48.0,12.0452,high,high,short,male,Peterson
+Welsh Corgi,13900.4353,31.009,10.9044,low,high,med,male,Peterson
+Great Dane,47762.496,82.0102,5.8777,med,med,short,female,Parker
+Welsh Corgi,15653.9988,28.2157,10.5418,med,high,short,female,Grimes
+Welsh Corgi,14430.1689,25.6998,10.6439,med,high,med,male,Mcintyre
+Bearded Collie,16490.5098,50.9559,14.2912,high,high,long,male,Robinson
+Great Dane,52467.1511,77.6918,7.0158,med,high,short,female,Cameron
+Great Dane,48261.8629,75.849,6.7244,med,high,short,female,Robbins
+Dalmatian,23563.3877,48.0,12.4508,high,high,short,female,Ryan
+Dalmatian,24077.0087,48.0,12.1055,med,high,short,female,Shepherd
+Dalmatian,23826.2654,48.0,13.2491,high,high,short,male,Johnson
+Welsh Corgi,15604.4837,30.104,11.7547,med,high,short,male,Walker
+Dalmatian,22132.6423,48.0,12.6431,high,high,short,male,Phillips
+Dalmatian,18546.6615,,12.9287,high,high,short,male,Cook
+Dalmatian,24296.6067,48.0,13.8635,high,high,short,male,Collins
+Great Dane,52238.975,80.3738,6.6113,med,high,short,female,Rowe
+Bearded Collie,24995.3582,51.4124,12.6605,high,high,long,male,David
+Bearded Collie,24914.2621,51.543,13.1828,high,high,med,female,Walker
+Welsh Corgi,12940.4681,,11.2215,med,high,short,female,Castillo
+Welsh Corgi,16642.9024,28.537,10.8305,med,high,med,male,Lucero
+Welsh Corgi,12512.0222,25.9481,10.8218,med,high,med,female,Mitchell
+Great Dane,47041.6925,79.7178,6.1432,med,high,short,male,Anderson
+Dalmatian,24416.9733,48.0,12.7114,high,high,short,male,Carroll
+Welsh Corgi,16683.501,27.2009,10.7271,med,high,med,female,Love
+Great Dane,52441.3589,,6.7711,low,high,med,female,Ortiz
+Welsh Corgi,14099.682,31.8963,10.3634,med,high,short,female,Barrett
+Dalmatian,21562.1359,,13.4159,high,med,short,female,Diaz
+Welsh Corgi,14645.5899,29.7801,11.0818,med,high,short,male,Hendrix
+Great Dane,45160.3352,77.7042,7.0171,med,high,short,male,Jennings
+Bearded Collie,21662.8132,52.8232,13.1267,high,high,med,female,Hunt
+Welsh Corgi,14878.066,,11.1906,med,high,med,female,Johnson
+Bearded Collie,24624.4824,54.5466,13.2365,high,high,long,male,Chapman
+Bearded Collie,20364.772,53.6808,12.4146,high,med,long,female,Ponce
+Welsh Corgi,15201.9424,26.8334,11.0605,med,high,med,male,Hayes
+Bearded Collie,20170.0245,,13.0918,high,high,long,male,Pope
+Welsh Corgi,13309.4216,,11.2598,med,high,long,male,Sanchez
+Welsh Corgi,12525.788,29.8588,11.0571,med,high,med,female,Bauer
+Dalmatian,26488.3842,48.0,12.5027,high,high,short,female,Taylor
+Bearded Collie,24578.0151,54.8035,13.0251,high,high,long,female,Foster
+Dalmatian,21285.9606,,13.6852,high,med,short,male,Gates
+Dalmatian,24625.9121,48.0,11.9524,high,high,short,female,Chapman
+Welsh Corgi,12606.4918,,10.2372,low,high,med,female,Webb
+Dalmatian,23501.5594,48.0,12.9739,high,high,short,male,Mcdonald
+Great Dane,49845.4087,76.3933,8.1528,med,high,short,male,Thompson
+Welsh Corgi,13624.3239,,9.925,high,high,long,male,Wright
+Great Dane,50502.3111,77.6985,7.7098,med,high,short,male,Cummings
+Bearded Collie,21955.4729,52.0819,13.5954,high,med,long,female,Evans
+Bearded Collie,28049.6989,50.9344,13.1291,high,high,long,male,Ward
+Welsh Corgi,13755.7331,,11.9611,med,high,short,male,Meza
+Great Dane,45822.6524,77.1135,6.2592,med,high,short,female,Hall
+Bearded Collie,22204.9758,51.6399,13.6645,high,high,long,female,Ray
+Welsh Corgi,14735.4975,28.4271,11.3805,med,high,med,male,Graham
+Great Dane,46986.8924,86.0076,7.2537,med,med,short,female,Rice
+Bearded Collie,20763.186,53.2022,12.2059,med,high,long,female,Jacobs
+Dalmatian,25910.3922,48.0,13.1363,high,high,short,female,Gay
+Welsh Corgi,14979.1939,,10.9822,med,high,med,female,Jones
+Dalmatian,27111.9896,,12.8267,high,high,short,male,Benson
+Dalmatian,23208.8905,48.0,12.6193,high,high,short,female,Martinez
+Bearded Collie,26154.8938,52.2184,12.7757,high,high,long,female,Zimmerman
+Welsh Corgi,16187.2907,32.0873,11.5483,med,high,short,male,Shields
+Welsh Corgi,14509.3062,28.0845,10.9072,med,high,med,male,Anderson
+Dalmatian,23035.7191,,12.9552,high,high,short,male,Holden
+Bearded Collie,24524.431,50.8056,13.705,med,high,long,male,Ross
+Dalmatian,23104.8082,48.0,13.6088,high,high,med,female,Conner
+Dalmatian,23727.6951,48.0,13.1889,high,high,short,female,Porter
+Welsh Corgi,13993.5829,27.3727,11.4837,low,high,short,male,Berry
+Welsh Corgi,15974.326,33.0338,11.8734,med,high,med,female,Morrow
+Dalmatian,23406.1213,48.0,12.2615,high,high,med,male,West
+Welsh Corgi,14734.2028,25.3324,11.7909,med,high,med,female,Jackson
+Dalmatian,22532.3064,48.0,12.1902,med,high,short,male,Evans
+Dalmatian,23240.8175,48.0,13.634,high,high,short,male,Peters
+Great Dane,50883.6629,,7.3358,med,high,short,male,Young
+Bearded Collie,18839.8996,49.2976,14.0294,high,high,long,male,Fernandez
+Welsh Corgi,14095.8527,27.3,11.0183,med,high,med,male,Moore
+Bearded Collie,24017.0598,,12.6999,high,high,long,male,Ruiz
+Welsh Corgi,10236.8253,32.3687,11.0216,med,high,short,male,Wilson
+Great Dane,52292.1131,79.8299,6.3147,med,high,short,male,Gordon
+Bearded Collie,23650.1984,52.9899,12.9903,high,high,long,female,West
+Dalmatian,22976.8577,48.0,12.8187,high,high,short,male,Jacobs
+Great Dane,50728.9908,80.208,7.2346,med,high,short,female,Dawson
+Welsh Corgi,15794.0026,28.1858,11.0229,med,high,med,female,Soto
+Dalmatian,22412.4829,,13.3543,high,med,short,female,Smith
+Bearded Collie,21834.8335,54.2003,13.8527,high,high,long,male,Carr
+Welsh Corgi,15177.5042,27.7925,11.7347,low,high,short,female,Cain
+Welsh Corgi,12408.391,29.0604,10.9256,low,high,med,female,Burnett
+Dalmatian,20908.7857,48.0,13.6748,high,high,short,male,Bentley
+Bearded Collie,22025.3808,51.7845,12.6297,med,high,long,female,Wiggins
+Bearded Collie,17158.6546,52.8937,14.2116,high,high,long,male,Chung
+Bearded Collie,22355.6965,53.597,12.7928,high,med,long,male,Garcia
+Bearded Collie,20862.2404,55.2659,13.1271,high,high,long,female,Thompson
+Bearded Collie,22207.0383,,12.9125,high,med,long,male,Welch
+Welsh Corgi,14673.485,28.0727,10.377,med,high,med,male,Gilbert
+Dalmatian,25066.8306,,12.5594,high,high,short,female,Kennedy
+Great Dane,52032.0368,79.477,7.1014,high,high,short,male,Hernandez
+Dalmatian,23061.2307,,13.7419,high,med,short,male,Reynolds
+Dalmatian,19048.5728,48.0,11.8644,high,high,short,male,Jennings
+Dalmatian,23320.4858,48.0,12.85,high,high,short,female,Caldwell
+Great Dane,47440.7848,,6.1055,med,med,short,male,Garner
+Great Dane,48077.4231,79.0772,7.4551,med,high,short,male,Gibbs
+Welsh Corgi,15058.0087,28.3226,11.3093,med,high,med,female,Pollard
+Great Dane,46193.7956,78.6762,8.0466,med,high,short,male,Wheeler
+Dalmatian,21950.3455,48.0,12.5945,med,high,short,male,Holden
+Dalmatian,20580.3518,,13.4375,high,med,short,male,Brown
+Great Dane,47631.6236,82.6674,7.5417,high,high,short,male,Robertson
+Great Dane,49843.6069,77.7161,7.8565,med,high,short,male,Villanueva
+Welsh Corgi,12934.5704,26.4879,11.2452,med,high,med,female,Copeland
+Welsh Corgi,13208.3507,27.7071,10.487,med,high,med,female,Freeman
+Welsh Corgi,15381.7272,27.7482,11.3069,med,high,long,female,Jones
+Great Dane,50822.1879,,7.2863,med,high,short,female,Knight
+Dalmatian,23476.315,48.0,12.4821,high,high,short,female,Murray
+Welsh Corgi,14675.9782,28.5374,10.7655,med,high,med,female,Bush
+Welsh Corgi,13521.4145,,10.2767,med,high,med,male,Johnson
+Great Dane,52075.4192,79.1854,7.0955,med,high,short,male,Herring
+Bearded Collie,21682.983,51.9953,12.6011,high,high,med,male,Kaiser
+Bearded Collie,24369.2636,51.1734,13.7982,high,high,long,male,Perry
+Welsh Corgi,14504.92,25.2963,10.9017,med,high,med,female,Roberts
+Dalmatian,24416.9596,48.0,12.9613,high,high,short,male,Benson
+Welsh Corgi,12203.4204,25.793,11.715,high,high,short,female,Serrano
+Welsh Corgi,14701.8158,26.4433,11.4345,med,med,med,female,Cory
+Dalmatian,23943.4864,48.0,12.8186,high,high,short,female,Bass
+Great Dane,44487.0013,79.8584,7.7796,med,med,short,male,Orr
+Great Dane,53632.5383,79.2393,6.9103,med,high,short,female,Bridges
+Great Dane,51505.5986,,6.459,med,high,short,female,Gray
+Welsh Corgi,12119.7201,32.4897,11.2846,med,high,med,female,Mann
+Great Dane,54217.8522,79.2239,6.8847,med,high,short,male,Gomez
+Bearded Collie,24470.9142,53.3709,12.9963,high,high,long,female,Garcia
+Great Dane,45553.4556,80.7063,6.1895,med,high,short,male,Cook
+Bearded Collie,24115.29,,13.2057,high,high,long,male,White
+Bearded Collie,18358.5119,,14.0282,med,high,long,male,Rodriguez
+Welsh Corgi,13661.319,29.9029,10.6391,med,high,med,female,Scott
+Welsh Corgi,15851.2103,,10.2692,med,high,long,male,Dunn
+Dalmatian,21415.4461,,14.0728,high,high,short,female,Reyes
+Welsh Corgi,11155.3584,28.9285,11.5996,med,med,med,female,Reyes
+Great Dane,48906.4329,77.255,7.0534,med,high,short,male,Roberts
+Great Dane,52831.8209,,5.8133,med,high,short,female,Sanchez
+Great Dane,50108.7292,,7.4967,med,high,short,male,Stewart
+Bearded Collie,23176.4941,53.6471,12.8217,high,high,long,female,Brown
+Bearded Collie,22837.1454,,13.0153,high,high,long,male,Fisher
+Great Dane,49119.9526,,6.975,med,high,short,female,Quinn
+Welsh Corgi,12481.0307,,10.9259,low,high,med,male,Thompson
+Welsh Corgi,17260.22,30.5079,11.007,med,high,med,male,Garcia
+Bearded Collie,27527.7622,54.0436,13.352,high,high,long,male,Henry
+Dalmatian,21630.1539,48.0,13.0198,med,high,short,male,Stephens
+Bearded Collie,19724.9825,55.6114,13.5389,high,high,long,male,Tucker
+Dalmatian,19204.3184,48.0,13.0976,med,high,short,female,Morgan
+Dalmatian,23777.8297,48.0,12.8385,high,high,short,male,Chavez
+Great Dane,50023.1302,,7.2142,med,high,med,female,Burns
+Bearded Collie,22603.0679,53.536,12.9942,high,med,long,male,Mooney
+Welsh Corgi,12287.5734,28.2669,10.7999,med,med,med,male,Martin
+Welsh Corgi,11757.479,25.4975,10.817,med,high,long,female,Taylor
+Welsh Corgi,14128.5378,,9.5124,med,high,short,female,Roach
+Dalmatian,23302.8536,,12.6858,high,high,med,male,Vasquez
+Dalmatian,22038.8443,48.0,13.1755,high,high,short,male,Gill
+Dalmatian,25623.3374,48.0,13.0474,high,high,short,male,Mcgee
+Dalmatian,26618.4951,,13.1149,high,high,short,male,Ramsey
+Great Dane,49778.4205,79.9058,5.6572,low,high,short,male,Carter
+Great Dane,53622.2757,82.6553,6.1931,med,high,med,female,Jackson
+Bearded Collie,23747.0373,49.891,13.0758,high,high,long,female,Zhang
+Bearded Collie,27782.0008,52.5511,11.6962,high,high,long,female,Coleman
+Bearded Collie,19503.1739,,12.7442,high,high,long,female,Maddox
+Dalmatian,22457.7246,48.0,12.3552,high,high,short,female,Robinson
+Great Dane,50522.3813,77.9987,6.5508,low,high,short,female,Cooper
+Dalmatian,25765.6345,,13.6419,high,high,short,male,Maldonado
+Welsh Corgi,13220.3023,28.0957,10.1014,med,high,med,male,Carlson
+Bearded Collie,18214.3551,54.853,12.5993,high,high,med,male,Patel
+Dalmatian,25476.3458,48.0,12.993,high,med,short,male,Stevenson
+Bearded Collie,20420.3935,50.3312,13.0572,high,high,long,female,Nguyen
+Bearded Collie,19063.2403,,12.3537,high,high,long,male,Contreras
+Welsh Corgi,14783.837,30.504,11.0858,med,high,med,female,Vazquez
+Dalmatian,21804.174,48.0,13.0549,high,high,short,male,Phillips
+Dalmatian,22641.2196,48.0,12.7949,med,high,short,female,Bryant
+Bearded Collie,21984.0843,51.7755,12.6501,high,high,long,male,Jonathan
+Dalmatian,26406.38,48.0,12.0801,high,high,short,male,Cooper
+Welsh Corgi,16175.1126,31.466,10.9729,med,high,long,male,King
+Great Dane,52306.9404,76.9668,7.3207,med,high,short,male,Hawkins
+Dalmatian,21950.9495,48.0,12.6276,high,med,short,male,Ortiz
+Bearded Collie,23089.7266,51.5254,13.4068,high,high,long,male,Matthews
+Welsh Corgi,12813.1361,,11.5921,med,high,med,male,Dickerson
+Bearded Collie,19615.2638,54.3572,13.3657,high,med,long,male,Escobar
+Dalmatian,25696.6744,,13.2512,med,high,short,female,Lara
+Bearded Collie,25556.1487,54.0665,13.1333,high,high,long,male,Spencer
+Great Dane,50840.7471,78.0465,6.6298,high,med,short,male,White
+Dalmatian,22870.2292,48.0,12.2119,high,high,short,male,Daniel
+Welsh Corgi,11842.6593,,11.7065,med,high,med,male,Taylor
+Bearded Collie,25534.7551,53.4362,12.7687,med,high,long,male,Taylor
+Welsh Corgi,14539.4478,,11.3538,med,high,med,male,Jefferson
+Welsh Corgi,13613.03,26.4338,11.0795,med,high,med,female,Velasquez
+Dalmatian,24042.116,48.0,11.9832,high,high,short,female,Hensley
+Bearded Collie,19420.4678,,13.2003,high,high,long,female,Carter
+Bearded Collie,26953.6562,,13.4323,high,high,long,female,Johnson
+Dalmatian,28097.5653,48.0,14.2995,med,high,short,male,Smith
+Bearded Collie,24483.3079,51.4764,13.687,high,high,long,female,Lutz
+Dalmatian,22918.8941,,11.7605,high,high,short,female,Ashley
+Dalmatian,24974.8465,,13.2724,high,med,short,male,Miller
+Bearded Collie,23923.8235,55.6962,12.7809,high,med,long,female,Griffin
+Welsh Corgi,15271.5119,30.6404,10.4456,med,high,long,male,Jones
+Dalmatian,25566.1821,48.0,12.483,high,high,short,male,Stevenson
+Great Dane,50599.9193,78.7748,6.644,med,high,short,male,Jimenez
+Dalmatian,21607.0465,48.0,13.1429,med,high,short,male,Johnson
+Bearded Collie,21886.0665,57.2738,12.5994,high,high,long,male,Wright
+Great Dane,43906.0438,79.2749,7.4239,high,high,short,female,Jones
+Dalmatian,20072.3346,48.0,13.5842,high,high,short,female,Jacobson
+Dalmatian,17680.5788,48.0,12.8001,high,high,short,male,Sanchez
+Great Dane,54688.1636,76.9021,8.3781,med,high,short,female,Johnson
+Dalmatian,24096.9273,48.0,13.6499,high,med,short,female,Krueger
+Great Dane,47045.0514,78.5685,7.7105,med,high,short,male,Cochran
+Great Dane,47941.469,79.0652,7.4513,med,high,short,male,Moran
+Great Dane,49392.1561,,7.1947,med,high,short,male,Hart
+Welsh Corgi,15396.0609,25.8505,11.2149,med,high,med,female,Woodward
+Great Dane,45246.2086,76.9655,6.7191,med,med,short,male,Cameron
+Dalmatian,24079.4568,48.0,13.5434,high,high,short,male,Greene
+Great Dane,44088.6981,79.3564,6.296,med,med,short,female,Moore
+Bearded Collie,21634.4989,52.8068,13.3099,high,high,long,male,Castillo
+Bearded Collie,19520.6743,50.0469,12.9121,high,high,med,female,Brown
+Dalmatian,25204.0582,48.0,12.8432,high,high,short,male,Dixon
+Bearded Collie,22461.9297,,12.4817,high,high,long,female,Johnson
+Bearded Collie,18724.0694,52.8875,13.289,high,high,long,female,Harrison
+Dalmatian,22943.2866,48.0,12.9348,high,high,short,male,Li
+Dalmatian,24150.9405,48.0,13.7217,high,high,short,male,Harper
+Bearded Collie,18213.354,54.3713,13.4058,high,high,long,male,May
+Welsh Corgi,11250.7295,25.424,10.4456,med,high,med,female,Roach
+Welsh Corgi,13568.9768,29.0563,12.1957,high,high,med,male,Ramirez
+Welsh Corgi,13736.0511,,10.5829,med,high,med,female,Trevino
+Bearded Collie,21960.1618,55.41,13.3013,high,high,long,female,Moreno
+Welsh Corgi,14726.8722,,11.5355,low,high,long,male,Wagner
+Great Dane,44051.8576,79.5544,7.0321,med,med,med,female,Miller
+Great Dane,48097.0551,77.5055,7.2372,high,high,short,male,Stewart
+Bearded Collie,29544.8315,48.6036,12.1213,high,high,med,female,Carter
+Welsh Corgi,14345.6088,29.6233,9.6006,med,med,med,male,Jones
+Bearded Collie,23762.6398,51.2976,12.6031,high,high,long,male,Jensen
+Bearded Collie,23637.8346,51.6069,12.8432,high,high,long,male,Amanda
+Bearded Collie,23738.7644,,13.083,high,high,long,male,Stevenson
+Welsh Corgi,15374.8165,28.1731,10.7168,med,high,med,male,Morrison
+Welsh Corgi,13767.2978,32.8623,10.5751,med,high,med,female,Chapman
+Great Dane,51531.9086,79.8234,6.6274,med,high,med,female,Wu
+Bearded Collie,21825.0977,53.479,14.4267,high,high,long,female,Johnson
+Bearded Collie,20563.8377,52.6522,12.719,high,high,long,male,Johnson
+Dalmatian,27249.5587,48.0,13.9685,high,high,short,male,Logan
+Great Dane,49546.2319,76.5865,7.178,med,high,short,male,Romero
+Welsh Corgi,15480.7208,30.5317,11.8132,med,med,med,female,Smith
+Bearded Collie,22112.9593,52.3766,12.0435,high,high,long,female,Clark
+Dalmatian,24394.3721,48.0,13.3862,med,high,short,male,Williams
+Dalmatian,23112.6767,48.0,13.6959,high,high,med,female,Smith
+Welsh Corgi,16385.1037,29.215,11.2277,high,high,med,female,Rodgers
+Great Dane,49679.6503,79.779,6.6218,low,high,short,female,Wilson
+Welsh Corgi,14987.0575,27.5945,10.9414,high,high,med,male,Owen
+Dalmatian,23321.7048,48.0,12.7996,high,high,short,female,Patterson
+Great Dane,50610.9105,79.83,6.2887,low,high,short,male,Horn
+Dalmatian,20565.068,48.0,13.2816,high,high,short,male,Gross
+Dalmatian,26730.7761,48.0,12.6194,high,high,short,male,Ford
+Great Dane,45476.6483,77.8242,6.9512,med,high,short,male,Sanchez
+Dalmatian,26912.7044,48.0,12.0935,high,high,short,male,Zamora
+Bearded Collie,21990.6639,,12.1766,high,high,long,female,Mcdaniel
+Welsh Corgi,14300.7037,,11.4043,med,high,med,male,Martinez
+Great Dane,54957.8435,82.7709,7.4248,med,high,short,female,Morales
+Bearded Collie,22606.8389,,12.6146,high,high,med,female,Fletcher
+Bearded Collie,23486.113,50.217,13.419,high,high,long,female,Smith
+Dalmatian,20196.8994,,13.2923,high,high,short,female,Moon
+Dalmatian,23250.6261,48.0,12.3843,high,high,med,male,Nelson
+Dalmatian,23143.1917,48.0,13.2223,high,high,short,female,Walsh
+Welsh Corgi,13134.1649,30.2218,11.4269,low,med,med,female,Hernandez
+Welsh Corgi,15551.1999,28.6709,10.6709,med,high,med,female,Morrison
+Welsh Corgi,12306.9336,29.7387,10.6275,low,high,med,female,Allen
+Dalmatian,22944.9806,48.0,13.6188,high,high,short,female,Chang
+Dalmatian,22970.9505,48.0,12.4962,high,high,short,female,Fernandez
+Dalmatian,22226.6071,48.0,13.3877,high,high,short,female,Cochran
+Welsh Corgi,11784.111,29.857,11.824,med,high,med,male,George
+Bearded Collie,17148.4847,52.5896,13.1493,med,high,long,male,Black
+Bearded Collie,20480.8869,,13.1909,high,high,long,female,Wright
+Welsh Corgi,14212.6017,,10.6642,med,high,med,female,Wells
+Welsh Corgi,14805.1718,29.7191,10.6354,low,high,med,female,Rogers
+Bearded Collie,20576.2178,56.5882,12.6747,high,high,long,male,Smith
+Welsh Corgi,14172.5779,24.1593,11.3466,med,high,short,male,Cochran
+Dalmatian,21581.7772,48.0,12.4179,high,high,short,male,Hernandez
+Bearded Collie,23639.5047,55.5373,12.6304,high,high,long,male,Lewis
+Bearded Collie,20788.4475,54.7122,13.0123,high,high,long,male,Pacheco
+Bearded Collie,22839.3105,,12.5068,high,high,long,female,Velez
+Welsh Corgi,13589.1555,27.078,11.7246,med,high,long,male,Mathis
+Welsh Corgi,16121.5748,24.0407,10.133,low,high,med,female,Perez
+Welsh Corgi,13138.987,28.6003,10.8569,low,high,long,male,Rios
+Welsh Corgi,12272.1035,31.1623,10.552,med,high,long,male,Newman
+Welsh Corgi,18124.775,,11.2302,med,med,med,male,Frey
+Bearded Collie,25940.3346,53.9023,13.2536,high,high,med,male,Miller
+Welsh Corgi,13754.1913,29.1772,12.4577,med,high,med,male,Baldwin
+Welsh Corgi,12993.0398,24.8806,11.5422,med,high,med,male,Hernandez
+Great Dane,49262.6566,77.2408,6.5944,med,high,short,female,Prince
+Dalmatian,28914.018,,12.2144,high,med,short,female,Lopez
+Great Dane,54762.4247,76.1248,7.0092,med,high,short,male,Chung
+Bearded Collie,22866.019,54.0757,13.445,high,high,long,male,Evans
+Bearded Collie,19224.3936,54.9722,13.3573,high,high,long,male,White
+Dalmatian,26320.26,,11.5466,high,high,short,male,Jackson
+Great Dane,49259.6585,78.4922,7.4712,med,high,short,female,Walters
+Welsh Corgi,15982.051,32.9648,10.5765,med,high,med,male,Moody
+Dalmatian,26140.3841,48.0,12.2288,med,high,short,female,May
+Welsh Corgi,14845.5265,31.0775,11.3712,med,high,med,male,Daniel
+Great Dane,54803.2557,79.65,7.211,med,med,short,female,Arellano
+Welsh Corgi,13148.8494,,11.0566,low,high,med,male,Schwartz
+Great Dane,45666.3957,,6.4156,med,high,short,female,Stewart
+Welsh Corgi,17640.5174,29.1273,11.543,high,med,med,male,Brown
+Dalmatian,21680.782,48.0,12.8148,high,high,short,male,Jones
+Welsh Corgi,12914.6533,,10.8352,med,high,med,female,Wade
+Great Dane,47674.4043,77.0775,7.5733,med,high,short,female,Riley
+Bearded Collie,23611.274,52.9349,13.4574,high,high,med,female,Brown
+Bearded Collie,17121.7741,,11.9567,high,high,long,female,Valenzuela
+Great Dane,51281.4609,80.1336,7.1194,med,high,short,female,Mcfarland
+Bearded Collie,22946.0828,,14.3688,high,high,long,female,Ferguson
+Great Dane,51235.1514,79.3241,7.6408,med,high,short,female,Martinez
+Bearded Collie,19885.3813,52.5747,13.5601,high,high,long,female,Castillo
+Great Dane,49217.9289,79.4234,6.344,high,high,short,female,Dennis
+Dalmatian,22528.7022,,13.0966,high,high,short,female,Hill
+Dalmatian,26783.9342,48.0,12.6399,med,high,short,male,Smith
+Dalmatian,23292.2675,48.0,13.2169,high,med,short,female,Williams
+Welsh Corgi,12385.2453,,11.1948,low,high,med,female,Perez
+Bearded Collie,22719.6028,,12.8115,high,high,long,female,Peters
+Dalmatian,19196.6189,48.0,12.1843,high,high,short,female,Perez
+Welsh Corgi,14557.2378,,10.6502,med,high,med,female,Moody
+Welsh Corgi,14218.854,31.6216,10.6252,med,high,med,female,Johnson
+Dalmatian,23625.4832,48.0,12.6635,high,high,short,male,Bass
+Dalmatian,22722.5002,48.0,13.6017,high,high,short,male,Weaver
+Welsh Corgi,13250.3138,,11.4399,med,high,med,male,Scott
+Great Dane,49415.3869,81.0671,6.9708,med,high,short,male,Oliver
+Dalmatian,20951.3948,,12.7325,high,high,short,male,Lopez
+Welsh Corgi,12293.5968,31.1518,10.2729,low,high,med,female,King
+Bearded Collie,19600.4078,53.8803,12.4495,high,high,long,male,Flowers
+Welsh Corgi,9160.3159,26.9607,11.0004,high,high,med,male,Lloyd
+Great Dane,53203.9327,78.8542,7.2208,med,high,short,male,Parks
+Great Dane,48073.3361,81.8074,7.3984,med,high,short,male,Thomas
+Dalmatian,19087.3601,48.0,12.9748,high,high,short,female,George
+Bearded Collie,27386.4854,55.6632,12.054,high,high,long,male,Torres
+Dalmatian,25409.8033,48.0,13.6465,high,high,short,male,Owens
+Bearded Collie,17884.7704,52.3449,11.8935,high,high,long,male,Ingram
+Bearded Collie,22415.6566,48.0796,12.5311,high,high,med,male,Atkinson
+Bearded Collie,22960.3544,50.8054,13.2533,high,high,long,female,Moore
+Great Dane,48169.5743,,6.3796,med,high,short,female,Wood
+Bearded Collie,26314.7632,,13.2317,high,high,long,male,Williams
+Dalmatian,20237.3014,48.0,14.06,high,high,short,male,Gabriela
+Welsh Corgi,12650.1344,28.3041,10.3462,high,high,med,male,Wright
+Welsh Corgi,16721.2025,30.75,11.0759,med,med,med,male,Ochoa
+Great Dane,55595.2909,79.8954,7.7006,med,high,short,male,Hall
+Great Dane,51602.3534,78.6526,6.6185,med,high,short,male,Caldwell
+Dalmatian,27042.4653,,13.6959,high,high,short,female,Leach
+Dalmatian,25135.0306,,13.0056,high,high,med,male,Jones
+Great Dane,48860.6894,79.712,7.1339,med,high,short,female,Mcguire
+Bearded Collie,16961.5488,52.4015,13.243,high,med,long,male,Potts
+Welsh Corgi,14672.4828,25.5209,11.4598,med,high,med,female,Webb
+Dalmatian,23271.4843,48.0,12.5975,high,high,short,female,Carter
+Bearded Collie,22825.2929,56.65,12.6206,high,high,long,female,Lynch
+Welsh Corgi,13390.5155,27.0632,10.3794,med,high,med,male,Welch
+Great Dane,47408.2573,,5.9401,med,high,short,male,Soto
+Dalmatian,24126.0327,48.0,12.3067,high,med,short,female,King
+Dalmatian,25771.0813,48.0,13.6297,high,high,short,female,George
+Welsh Corgi,16419.1278,32.6621,10.9569,med,high,med,female,Lane
+Welsh Corgi,12304.1864,30.5872,10.4238,med,high,short,female,Dixon
+Dalmatian,23161.165,48.0,12.4316,high,high,short,male,Delacruz
+Dalmatian,20443.7831,48.0,13.0367,med,med,med,female,Singh
+Bearded Collie,20801.5413,,12.9627,high,med,long,male,Bowen
+Bearded Collie,22276.5315,53.4727,13.2233,high,high,long,male,Howard
+Dalmatian,21985.5217,,12.8172,high,med,short,male,Campbell
+Welsh Corgi,16441.113,31.0172,10.7958,med,high,med,male,Wilson
+Welsh Corgi,16648.9688,,11.8253,med,med,short,male,Carlson
+Dalmatian,19052.0184,48.0,12.459,high,high,short,male,Daniel
+Dalmatian,23327.5854,48.0,11.9408,high,high,short,male,Sandoval
+Bearded Collie,17806.4198,52.8968,13.2741,high,high,long,male,Peters
+Welsh Corgi,10938.1685,30.6639,12.051,med,high,short,female,Davis
+Great Dane,55924.0118,81.5408,7.7056,med,high,short,male,Jones
+Welsh Corgi,13209.3169,28.2838,11.432,low,high,med,female,Wilson
+Bearded Collie,16416.008,52.7822,13.3265,high,med,long,male,Burns
+Welsh Corgi,11837.31,25.1816,11.3869,low,high,med,female,Long
+Welsh Corgi,14893.509,,10.5626,med,high,med,male,Smith
+Welsh Corgi,13920.5736,31.2594,11.2815,med,high,med,male,Roy
+Welsh Corgi,13037.1536,28.5229,11.0485,med,high,med,female,Nelson
+Dalmatian,20617.6084,48.0,12.7971,med,high,short,female,Gutierrez
+Great Dane,53280.4869,80.1319,7.0861,high,high,short,male,Young
+Bearded Collie,13365.4325,56.4236,12.6638,high,high,long,male,Young
+Welsh Corgi,11708.8624,26.3922,10.7678,med,high,med,male,Banks
+Great Dane,51490.2952,76.6941,7.2405,high,med,short,female,Ruiz
+Welsh Corgi,11404.2316,27.6715,11.3491,med,high,long,male,Mack
+Welsh Corgi,16321.5017,30.3233,11.5041,med,high,med,female,Bean
+Bearded Collie,25094.836,54.48,13.3219,high,high,long,male,Montoya
+Bearded Collie,22254.8397,52.7459,12.5095,high,high,long,female,Beard
+Bearded Collie,24668.8119,51.4535,12.0673,high,high,long,male,King
+Dalmatian,26430.3142,48.0,13.6529,high,high,short,male,Bryant
+Great Dane,47931.8148,79.1311,7.6168,med,high,short,female,Cox
+Bearded Collie,21629.0728,,12.5883,high,high,long,female,Rowland
+Bearded Collie,23509.7136,52.8303,12.4023,high,med,long,male,Edwards
+Bearded Collie,16816.8933,51.7764,13.1143,high,med,long,male,Morales
+Welsh Corgi,10910.4531,30.1454,11.2283,med,high,med,male,Deleon
+Great Dane,49377.0676,79.1108,7.4402,med,med,med,female,Allen
+Welsh Corgi,13742.4239,28.8818,10.765,med,high,long,female,Harris
+Dalmatian,23597.0837,,11.4084,med,high,short,male,Stone
+Bearded Collie,18236.4246,52.2126,13.3251,high,high,long,male,Nolan
+Welsh Corgi,12177.7615,,11.0744,med,high,med,female,Ryan
+Bearded Collie,16301.4031,53.9327,12.5298,high,high,med,female,Sharp
+Dalmatian,22538.6518,48.0,12.4952,high,high,med,female,Cervantes
+Great Dane,48029.7442,,7.4064,med,high,short,male,Chambers
+Bearded Collie,24376.0523,,13.4398,high,high,long,male,Flowers
+Great Dane,46708.0698,77.0357,6.5493,med,med,short,male,Allen
+Welsh Corgi,10540.6305,,11.2402,med,high,med,female,Collins
+Great Dane,51783.1957,,5.4597,med,high,short,male,Meadows
+Bearded Collie,22916.8791,52.284,13.5235,high,high,long,male,Hansen
+Bearded Collie,19879.5829,54.2786,13.1951,high,high,med,female,Jones
+Bearded Collie,23188.0218,50.9398,12.7053,high,high,long,female,Dominguez
+Dalmatian,21972.6532,,13.0632,high,high,short,male,Smith
+Welsh Corgi,13933.5886,26.0296,12.5941,med,high,med,male,Taylor
+Great Dane,47961.3111,,7.4709,med,med,med,male,Sharp
+Dalmatian,22647.7218,48.0,13.5497,high,high,short,male,Mayer
+Dalmatian,23004.4873,48.0,12.9054,high,high,short,female,Flores
+Bearded Collie,20100.265,56.8623,12.8494,high,high,long,male,Nelson
+Dalmatian,22028.6986,,12.4456,high,med,med,male,Guzman
+Bearded Collie,18533.2521,53.908,13.3555,high,high,long,female,Walker
+Dalmatian,25287.6986,48.0,14.0598,high,high,short,female,Mendez
+Bearded Collie,24444.8315,,13.7306,high,high,long,male,Gardner
+Welsh Corgi,15662.1877,28.3454,11.9404,med,high,med,female,Hudson
+Dalmatian,24838.4749,48.0,13.128,high,high,med,male,Gardner
+Bearded Collie,21506.1573,52.0056,13.9068,med,high,long,male,Moore
+Dalmatian,22601.1084,48.0,13.2194,high,high,short,female,Murphy
+Dalmatian,24749.6893,48.0,13.0077,high,high,short,male,Ingram
+Dalmatian,25047.1324,48.0,11.9277,high,high,short,male,Miller
+Bearded Collie,22181.3579,54.0499,13.5583,high,high,long,male,Henry
+Bearded Collie,25896.7446,51.0538,13.7804,high,high,long,female,Hines
+Great Dane,48979.7029,78.6892,5.9339,med,high,med,female,Steele
+Welsh Corgi,10886.8342,26.9753,11.0216,high,high,short,female,Morris
+Dalmatian,20634.8169,48.0,14.2909,med,high,short,male,Jones
+Great Dane,51852.7734,77.3539,6.6542,med,high,short,female,Nelson
+Bearded Collie,27853.6939,52.8448,13.4031,high,high,long,male,Taylor
+Dalmatian,23577.2003,48.0,12.7571,high,high,short,male,Greene
+Great Dane,49253.8757,78.5647,6.7685,med,high,short,male,Farley
+Great Dane,55903.5064,80.7232,6.5835,med,high,short,male,Bright
+Great Dane,52764.1046,,7.6037,med,high,short,male,Pugh
+Bearded Collie,25940.8141,52.7728,11.9703,high,high,med,male,Brooks
+Welsh Corgi,12283.7683,,10.1417,med,high,med,female,Stout
+Bearded Collie,26507.6814,52.5063,13.5552,high,high,long,male,Barnes
+Dalmatian,21470.8864,48.0,13.1375,high,med,short,female,Parker
+Dalmatian,27861.7465,48.0,13.474,high,high,short,female,Anderson
+Great Dane,42496.7606,,5.4741,med,med,short,female,Black
+Dalmatian,17801.293,48.0,13.0678,high,high,short,female,Waller
+Bearded Collie,17583.9282,55.3512,13.7443,med,high,long,female,Jones
+Great Dane,53511.2274,76.1568,6.7863,med,high,short,male,Steele
+Bearded Collie,23928.4141,52.6002,13.1446,high,high,long,female,Carrillo
+Great Dane,53448.0226,78.8117,7.0025,high,high,short,male,Schmidt
+Dalmatian,20754.0049,48.0,13.1283,high,high,short,male,Clark
+Great Dane,44276.5359,78.28,7.701,med,high,med,female,Cruz
+Dalmatian,24803.3589,48.0,12.7697,high,high,short,male,Byrd
+Dalmatian,26929.3207,48.0,12.7788,high,high,short,male,Carlson
+Great Dane,49412.6015,,6.5227,med,high,med,female,Newton
+Dalmatian,18834.5599,,13.0726,high,high,short,female,White
+Dalmatian,24504.3164,48.0,11.9861,high,high,short,male,Hunt
+Bearded Collie,24402.1357,54.7108,12.1338,high,high,med,male,Duncan
+Bearded Collie,23369.8872,52.2779,12.4688,high,med,med,male,Dominguez
+Great Dane,51435.1453,82.4152,7.6244,med,high,short,female,Walsh
+Great Dane,52262.334,77.4902,7.2375,med,high,short,female,Sandoval
+Dalmatian,20756.3221,48.0,12.5544,high,high,med,female,Young
+Welsh Corgi,16001.9408,,11.1759,med,high,med,female,Curry
+Great Dane,45487.1183,77.747,6.5237,med,high,short,male,Farmer
+Great Dane,49823.1533,,7.2388,med,high,short,male,Khan
+Great Dane,49951.0134,78.0905,7.0667,high,med,short,female,Curtis
+Great Dane,47077.7426,75.4418,7.0118,med,high,short,male,Mendez
+Dalmatian,27054.5129,48.0,13.0356,med,high,short,female,Olsen
+Welsh Corgi,14459.9392,31.8803,11.0042,med,high,med,female,Young
+Dalmatian,26460.0836,48.0,13.0317,high,med,short,male,Herman
+Welsh Corgi,15567.439,,10.1865,med,high,med,male,Johnson
+Dalmatian,24921.9405,,13.3313,high,high,short,male,Hansen
+Bearded Collie,22937.8336,54.2165,12.7118,high,high,long,male,Malone
+Welsh Corgi,14378.1845,29.4341,10.1843,med,high,long,female,Porter
+Bearded Collie,18672.9656,53.0791,13.2461,high,high,long,female,Rose
+Bearded Collie,21476.1899,53.9531,12.3099,high,high,long,female,Hamilton
+Dalmatian,21730.0247,48.0,13.7105,high,high,short,female,Vargas
+Dalmatian,24145.838,48.0,13.5804,med,high,short,male,Miller
+Welsh Corgi,13272.3629,29.6132,11.538,med,high,med,male,Guerra
+Dalmatian,23310.0427,48.0,13.5097,high,high,short,female,Simon
+Great Dane,48276.2532,80.0578,5.685,low,med,short,male,Patterson
+Great Dane,49313.9292,82.8562,6.8225,high,high,short,female,Martin
+Great Dane,48006.1382,76.6577,5.7247,med,med,short,female,David
+Bearded Collie,24532.5797,56.0453,12.9556,high,high,long,male,Hanson
+Great Dane,44036.0895,77.7105,7.5148,low,high,short,female,Simpson
+Great Dane,52047.119,77.2294,7.4314,low,high,short,female,Hall
+Welsh Corgi,13045.9269,29.9114,10.3365,med,high,long,male,Hernandez
+Bearded Collie,20803.9774,54.04,14.1266,high,high,long,male,James
+Dalmatian,22746.2427,48.0,12.7438,high,med,med,male,Taylor
+Great Dane,49066.1941,81.1569,6.8298,med,high,short,female,Anderson
+Dalmatian,23856.2745,48.0,14.3966,high,high,short,male,Odonnell
+Dalmatian,20901.1911,48.0,13.093,high,high,short,male,Williams
+Great Dane,52617.2426,80.0431,6.296,med,high,short,female,Waters
+Welsh Corgi,14979.5311,,11.5343,med,high,med,female,Gonzalez
+Welsh Corgi,11413.3142,,12.1472,med,high,med,female,Johnson
+Great Dane,52020.1267,75.4861,6.4532,med,high,short,male,Maldonado
+Welsh Corgi,14159.8912,25.8229,10.4419,med,high,med,male,Henson
+Bearded Collie,23178.3912,,12.384,high,high,med,male,Padilla
+Bearded Collie,17799.9084,,12.7324,med,high,long,male,Simmons
+Welsh Corgi,12357.589,32.0421,10.0021,low,high,med,female,Williams
+Dalmatian,26112.0788,,12.8408,high,high,short,male,Chambers
+Great Dane,54800.6127,81.7962,7.6573,med,high,short,male,Cooper
+Dalmatian,19355.3935,48.0,12.1625,high,high,short,female,Stephens
+Bearded Collie,21247.3425,,12.4277,high,high,long,male,Robinson
+Welsh Corgi,13229.5158,32.301,10.992,low,med,med,female,Castillo
+Bearded Collie,25197.2727,51.2816,13.7354,high,high,long,female,Evans
+Dalmatian,25852.3662,48.0,12.3944,high,high,short,male,Reyes
+Welsh Corgi,15835.4171,30.4435,10.982,med,high,med,female,Allen
+Bearded Collie,21273.6285,53.3302,13.5495,high,high,long,male,Roach
+Welsh Corgi,13563.2605,30.4647,10.6885,low,med,long,female,Nixon
+Great Dane,48494.2188,81.2558,7.8904,high,high,short,male,Harris
+Dalmatian,20781.9014,48.0,12.0338,high,high,short,female,Anderson
+Welsh Corgi,11560.5352,30.6743,11.2439,low,high,med,male,Curtis
+Welsh Corgi,16666.6956,25.4743,11.5995,med,high,med,female,Alexander
+Dalmatian,21478.6111,,13.2789,high,med,short,male,Gray
+Welsh Corgi,12153.8245,,11.2547,med,high,med,female,Morrow
+Dalmatian,24781.9266,48.0,13.3664,high,high,short,male,Perez
+Welsh Corgi,15853.6913,32.726,10.7242,med,high,med,male,Jones
+Dalmatian,22136.9778,48.0,12.5125,high,high,med,male,Stone
+Dalmatian,24548.5812,48.0,13.0825,high,high,short,female,Kim
+Great Dane,50785.3702,,6.9197,med,high,short,female,Phillips
+Dalmatian,18621.0609,48.0,12.21,high,high,short,female,Morrison
+Great Dane,56976.6669,80.4781,6.7666,med,high,short,male,Lee
+Welsh Corgi,14867.0942,28.5139,10.0757,med,high,med,male,Tucker
+Dalmatian,28407.8332,,13.1929,high,high,short,male,Miller
+Great Dane,47610.3667,77.7895,6.6816,med,high,short,male,Brooks
+Welsh Corgi,17027.9604,30.699,10.9758,med,high,med,male,Vasquez
+Welsh Corgi,13278.5151,27.3407,10.9013,med,high,long,female,Brown
+Bearded Collie,17605.629,53.5499,12.6721,high,high,long,male,House
+Great Dane,51237.0119,,8.016,med,high,short,female,Cook
+Bearded Collie,21793.3698,55.1315,12.8162,high,high,long,male,Shea
+Bearded Collie,22676.5674,50.3324,13.2518,high,med,long,female,Farmer
+Bearded Collie,19313.5572,51.8928,12.3807,med,med,long,male,Howe
+Dalmatian,26582.1438,48.0,13.0727,high,high,short,male,Smith
+Bearded Collie,26612.8592,51.1892,13.4267,high,high,long,male,Jackson
+Great Dane,51976.1931,81.7437,7.3614,low,high,short,female,Boyd
+Bearded Collie,22580.0687,53.3681,14.1967,high,high,long,male,Rice
+Welsh Corgi,15990.431,,10.2876,low,high,med,female,Hansen
+Great Dane,51877.7228,,7.05,med,high,short,female,Lopez
+Welsh Corgi,12307.9721,27.0977,11.1353,med,high,med,male,Smith
+Dalmatian,19233.1952,48.0,13.7569,high,med,short,female,Carlson
+Bearded Collie,27259.5356,55.1669,13.0601,high,high,med,male,Lawrence
+Dalmatian,22518.5913,,12.3119,med,high,short,female,Vazquez
+Great Dane,53850.354,83.945,6.9114,med,high,short,male,Barr
+Great Dane,51372.3719,76.5653,7.5987,high,high,short,female,Crawford
+Welsh Corgi,14860.0706,30.7955,10.9549,med,high,med,female,Jones
+Dalmatian,20968.9808,48.0,12.887,high,high,short,female,Gonzalez
+Dalmatian,26578.7866,,12.4398,high,high,short,female,Lucas
+Bearded Collie,22464.4516,57.318,14.0523,high,high,long,female,Hancock
+Great Dane,53133.7551,78.6849,7.1174,med,high,short,male,John
+Welsh Corgi,12668.8721,27.9003,12.2693,med,high,med,male,Smith
+Dalmatian,24759.4746,,12.3159,high,high,short,male,Hudson
+Great Dane,49736.8992,75.8335,7.6051,med,high,short,female,Miller
+Great Dane,50297.0345,79.0078,7.7694,med,high,med,male,Lopez
+Great Dane,54680.7338,79.437,7.8459,med,med,short,male,Harris
+Dalmatian,24731.0713,,13.5925,med,med,short,female,Johnson
+Great Dane,49194.0451,79.4006,6.4608,med,high,short,male,Brock
+Dalmatian,22076.5476,,14.2786,high,high,short,female,Hamilton
+Great Dane,47181.1441,77.0534,6.6224,med,high,short,male,Bautista
+Bearded Collie,22303.9186,50.0508,13.5818,med,high,long,male,Lewis
+Dalmatian,22155.5069,48.0,13.1847,high,high,short,female,Stewart
+Great Dane,45044.1198,80.0693,7.6537,med,high,short,female,Miller
+Welsh Corgi,19321.0625,30.9648,10.9253,high,high,med,female,Reed
+Great Dane,52367.1738,80.2028,4.9316,med,high,med,male,Hess
+Bearded Collie,22166.5686,,13.81,high,high,long,female,Lowery
+Dalmatian,21531.7171,48.0,12.5236,high,high,short,female,Zamora
+Great Dane,51338.2972,,7.3558,med,high,short,female,Williams
+Welsh Corgi,16089.7913,29.2555,10.4373,med,high,short,male,Evans
+Great Dane,50410.67,76.3282,8.3221,med,med,short,male,Jones
+Welsh Corgi,15459.449,27.8753,11.0434,med,med,med,female,Wood
+Dalmatian,23277.7218,48.0,13.0537,high,med,short,female,Kelly
+Bearded Collie,22165.9189,53.4282,12.7757,high,high,long,male,Powell
+Dalmatian,26733.5933,,13.8218,high,high,short,female,Willis
+Welsh Corgi,14252.4289,27.2689,9.9142,med,high,med,male,Rivers
+Bearded Collie,21921.8979,52.956,13.0328,high,high,long,male,Hunt
+Dalmatian,22007.8012,48.0,13.1349,high,high,short,female,Thompson
+Great Dane,49024.1587,78.5695,7.2305,low,high,short,male,Jenkins
+Welsh Corgi,12832.1281,29.7852,10.5004,med,high,med,female,Simon
+Dalmatian,22234.3995,48.0,13.2103,high,high,short,female,Jones
+Great Dane,47335.2994,,6.7782,med,high,short,male,Atkinson
+Dalmatian,23136.3583,48.0,12.5915,high,high,short,female,Rice
+Bearded Collie,27313.0886,53.2466,12.3722,high,med,long,female,Hill
+Dalmatian,24884.2144,48.0,12.1753,high,high,short,male,Nichols
+Bearded Collie,17879.8472,55.3031,13.9959,high,high,long,male,Boyd
+Dalmatian,25177.8133,48.0,12.0656,med,high,med,female,Moore
+Welsh Corgi,12852.3144,30.7418,11.7039,med,high,med,male,Gomez
+Bearded Collie,25271.934,53.1348,13.4215,high,high,long,female,Travis
+Dalmatian,26806.8171,48.0,12.6786,high,high,short,female,Julie
+Great Dane,47512.8878,,6.5747,med,med,short,male,Moss
+Welsh Corgi,10379.1597,,10.9634,med,high,med,female,Mccall
+Welsh Corgi,12778.6599,25.6025,11.0651,med,high,med,male,Smith
+Great Dane,48961.4735,77.2279,8.1912,low,high,short,female,Vega
+Great Dane,47481.3572,,7.7012,med,high,short,male,Sanchez
+Bearded Collie,25602.8384,52.4376,13.3086,med,high,long,male,Rodriguez
+Dalmatian,25646.4512,48.0,13.6825,high,high,short,female,Black
+Bearded Collie,22440.283,,13.7789,high,high,long,male,Bruce
+Great Dane,44881.5999,78.8961,6.666,low,high,short,female,Lester
+Welsh Corgi,10961.1891,,10.6352,med,high,med,male,Johnson
+Great Dane,49494.5176,79.0886,8.1159,high,high,short,female,Mitchell
+Dalmatian,24221.3039,48.0,12.6133,high,high,short,female,Santiago
+Welsh Corgi,13016.1176,30.7653,10.8934,low,high,med,female,Alvarez
+Dalmatian,23515.2099,48.0,13.4695,high,med,short,male,Parker
+Bearded Collie,18949.5229,50.9266,13.4206,high,high,long,male,Elliott
+Bearded Collie,25567.858,,13.6291,high,high,med,male,Jensen
+Bearded Collie,26146.9947,52.2272,14.4444,high,high,long,female,Frey
+Welsh Corgi,14525.44,,11.4699,low,high,med,female,Nolan
+Welsh Corgi,14071.8258,28.2472,10.2516,med,med,med,male,Rivera
+Bearded Collie,24208.8481,51.7538,13.5507,high,high,long,female,Fitzgerald
+Bearded Collie,24192.8235,49.2457,13.8539,high,high,long,male,Hill
+Bearded Collie,24512.677,,11.8375,high,high,long,male,Smith
+Dalmatian,18731.0769,48.0,13.5686,med,high,med,male,Garrett
+Dalmatian,24194.2712,48.0,12.3314,med,high,short,female,Edwards
+Great Dane,49924.183,78.9208,6.9924,med,high,short,male,Gill
+Great Dane,51522.3578,79.9068,6.2784,low,high,short,male,Cowan
+Welsh Corgi,14342.3942,28.1597,9.901,med,high,med,male,Benson
+Dalmatian,26627.8801,48.0,12.7952,med,high,short,male,Barber
+Great Dane,53764.3231,,5.6672,med,high,short,female,Baker
+Dalmatian,24218.8504,,12.7268,high,high,short,female,Carter
+Great Dane,49195.2721,79.3005,7.0551,med,high,short,female,Barr
+Dalmatian,20787.3678,,13.6377,high,high,short,female,Salazar
+Welsh Corgi,11095.9661,28.9025,11.0504,med,high,med,female,Barrera
+Welsh Corgi,14584.3141,28.7772,10.7192,low,high,med,male,Nelson
+Great Dane,48630.0924,81.1503,6.0681,high,high,short,male,Collins
+Dalmatian,21773.3531,48.0,12.8351,high,high,short,female,Wolf
+Welsh Corgi,17313.769,,11.0968,med,high,med,female,Byrd
+Welsh Corgi,13880.781,,11.5597,med,high,med,female,Charles
+Bearded Collie,21338.8698,53.8009,13.3445,med,high,long,female,Robertson
+Welsh Corgi,13600.2049,,10.57,med,high,long,female,Fernandez
+Welsh Corgi,16166.7123,32.1661,11.6427,med,high,short,male,Glass
+Great Dane,48742.2052,78.9388,7.371,med,high,short,female,Aguirre
+Bearded Collie,18201.8661,50.4573,12.2942,high,med,long,female,Smith
+Bearded Collie,24219.5737,56.299,13.4052,high,high,long,male,Perez
+Welsh Corgi,11815.9195,29.6336,10.3016,med,high,med,female,Benjamin
+Great Dane,43964.5208,79.2708,6.476,med,high,short,female,Wu
+Dalmatian,22668.614,48.0,11.9252,high,med,short,male,Miranda
+Bearded Collie,23546.4623,,11.5473,high,high,long,male,Buck
+Great Dane,52660.6527,78.7538,6.3471,med,high,short,male,Hoffman
+Dalmatian,26778.451,,13.1271,high,high,short,female,Cox
+Bearded Collie,19494.0283,56.5174,12.5674,high,high,long,male,Lopez
+Bearded Collie,20664.6422,,13.7295,high,high,long,male,Diaz
+Bearded Collie,18282.3481,,12.1529,high,high,long,female,Kaufman
+Bearded Collie,21444.1417,52.4748,13.6754,high,high,long,male,Edwards
+Welsh Corgi,14390.1679,29.3599,9.8569,low,high,med,female,Adams
+Welsh Corgi,12353.3671,29.4229,12.1625,med,high,med,male,Glass
+Great Dane,50803.6038,78.4101,7.2155,med,high,med,male,Foley
+Welsh Corgi,14314.4969,33.3021,10.9289,med,high,med,male,Flores
+Dalmatian,19447.8568,48.0,13.0802,high,high,short,female,Mccoy
+Welsh Corgi,16245.9159,27.0482,10.3967,med,high,med,female,Bailey
+Dalmatian,23384.3155,48.0,12.8845,high,high,short,male,Zimmerman
+Bearded Collie,19215.7252,50.1317,12.8243,high,high,long,male,Salazar
+Bearded Collie,25089.4801,51.6604,12.8232,high,high,long,female,Jones
+Great Dane,48575.6822,81.0034,6.5786,med,high,med,male,Carlson
+Bearded Collie,21699.9829,55.9037,13.6294,high,high,long,female,Nelson
+Great Dane,46569.7938,78.0628,7.7586,med,high,short,male,Jackson
+Bearded Collie,22263.9099,50.773,13.6443,high,high,long,female,Lee
+Bearded Collie,23625.9283,49.1341,12.8265,med,high,long,female,Vaughn
+Great Dane,57502.7372,76.1952,7.1966,high,high,short,female,Shelby
+Bearded Collie,23867.0571,54.8506,12.7075,high,high,med,male,Gutierrez
+Bearded Collie,24670.5226,,13.91,high,high,long,female,Wells
+Dalmatian,25829.2859,48.0,12.868,high,high,short,female,Cabrera
+Great Dane,50203.095,78.8304,7.1641,med,med,short,male,Hawkins
+Great Dane,48398.1782,78.1266,6.1806,med,high,short,female,Newton
+Welsh Corgi,14928.0935,,10.9204,med,med,short,female,Morgan
+Welsh Corgi,13298.1982,,12.0338,med,high,med,male,Crawford
+Welsh Corgi,15770.35,,11.0581,med,high,med,female,Lane
+Bearded Collie,23308.9438,51.9255,12.4539,med,med,long,male,Hicks
+Dalmatian,19066.2463,48.0,13.0848,high,high,short,male,Kim
+Bearded Collie,20022.6842,54.6583,13.5117,high,high,long,female,Hebert
+Welsh Corgi,11271.2314,31.301,11.7358,med,high,med,female,Davis
+Great Dane,48259.7651,77.0659,6.9878,med,high,short,female,Wagner
+Bearded Collie,25413.6374,53.2562,13.4456,med,high,long,male,Walker
+Welsh Corgi,13175.2426,30.0754,10.7318,med,high,med,female,Combs
+Great Dane,45131.0783,75.295,7.4885,med,high,short,female,Reynolds
+Dalmatian,22681.1845,48.0,12.4613,high,high,short,male,Keller
+Bearded Collie,22300.7429,51.9422,12.5754,high,high,long,female,Brown
+Great Dane,56574.7863,78.1258,6.6352,med,high,short,female,Haley
+Great Dane,49069.7258,78.9879,6.9664,low,high,short,male,Robertson
+Bearded Collie,21092.1818,54.5615,14.2289,high,med,long,male,Walker
+Bearded Collie,22763.6437,,12.8646,high,high,long,male,Ross
+Great Dane,53023.9433,76.9325,7.9577,med,med,short,male,Lane
+Great Dane,50802.9437,79.3779,7.0522,med,high,short,male,Johnson
+Bearded Collie,25210.0515,47.9554,11.879,high,high,long,female,Young
+Great Dane,48285.818,76.9069,6.7999,med,high,short,female,Chambers
+Great Dane,47283.914,,7.3293,low,high,med,male,Butler
+Dalmatian,23439.6166,48.0,13.8992,high,high,short,male,Elliott
+Welsh Corgi,14733.4457,28.4474,11.9755,med,high,med,male,Ray
+Great Dane,54638.4355,78.67,6.9653,med,high,short,female,Trujillo
+Welsh Corgi,11423.8781,31.4948,11.8602,med,high,med,male,Wilson
+Bearded Collie,21449.4921,,12.6955,high,high,long,female,Rivera
+Bearded Collie,25149.8393,51.4739,13.3288,high,high,long,male,Walker
+Bearded Collie,24941.2061,,12.6438,high,high,long,female,Bishop
+Welsh Corgi,14265.7348,28.2952,11.4481,low,high,med,female,Alexander
+Dalmatian,23971.6107,48.0,13.1168,high,high,short,female,Foster
+Bearded Collie,20105.1261,51.7045,13.0694,high,high,long,male,Jones
+Dalmatian,25083.84,48.0,12.0454,high,high,short,male,Walters
+Bearded Collie,21330.0936,52.6988,12.7803,high,high,long,male,Hudson
+Bearded Collie,25618.6151,,12.8162,high,high,long,female,Duffy
+Bearded Collie,20645.5713,,13.5818,high,high,med,female,Rosario
+Bearded Collie,29071.1546,50.919,12.8353,high,high,long,female,Gill
+Dalmatian,24005.6951,48.0,12.5945,med,high,short,male,Gonzalez
+Welsh Corgi,15013.7692,26.7478,11.3572,med,high,med,female,Bauer
+Dalmatian,24484.8785,48.0,13.6617,high,med,short,female,Jimenez
+Great Dane,53809.0014,75.9326,6.5817,med,high,short,male,Alexander
+Dalmatian,22332.5536,48.0,12.7599,med,high,short,female,Gonzalez
+Welsh Corgi,11600.2462,29.9891,12.1883,med,high,med,male,Henderson
+Welsh Corgi,12483.236,,11.0608,med,high,med,female,Allen
+Bearded Collie,20297.6475,52.4486,13.5021,high,high,long,male,Brown
+Great Dane,51336.5166,79.6465,7.2306,med,med,short,male,Walker
+Great Dane,50631.2685,77.6242,8.4013,med,med,short,female,Berry
+Bearded Collie,22375.643,,12.0743,med,high,long,male,Bailey
+Great Dane,51745.2505,77.4805,6.6282,med,high,short,male,Wolfe
+Dalmatian,21354.4985,48.0,12.5278,high,high,short,female,Ryan
+Bearded Collie,21911.3543,53.3423,14.1329,high,high,long,male,Suarez
+Welsh Corgi,13710.9882,,11.8487,med,high,med,female,Welch
+Bearded Collie,23066.87,51.5847,11.9969,high,high,long,male,Becker
+Dalmatian,22295.0759,48.0,13.4712,med,high,short,male,Gonzales
+Dalmatian,23987.6397,48.0,13.5421,high,high,short,male,Love
+Great Dane,51950.5908,76.2521,7.1978,med,high,short,female,Mercado
+Dalmatian,23680.0593,48.0,13.8756,high,high,short,female,Richard
+Dalmatian,26994.2576,48.0,13.1747,med,high,short,male,Peterson
+Dalmatian,25419.3863,48.0,13.6555,high,high,short,male,Ward
+Great Dane,49529.3707,75.2874,7.2184,med,high,short,female,Barton
+Welsh Corgi,11252.0398,24.3462,10.8416,med,high,med,male,Johnson
+Bearded Collie,22645.1034,53.6256,12.5883,med,high,med,male,Summers
+Bearded Collie,25740.9756,,12.8583,high,high,long,male,Bird
+Welsh Corgi,14144.7803,,11.1573,low,high,med,female,Taylor
+Welsh Corgi,15549.5042,29.0758,11.2661,med,high,long,female,Smith
+Great Dane,50739.1619,75.6308,7.0291,med,high,short,male,Kent
+Great Dane,55828.8833,,7.2301,med,high,short,female,Castro
+Great Dane,48793.8914,81.0332,6.1357,high,high,short,male,Lopez
+Welsh Corgi,16286.2489,27.1266,11.2877,med,med,med,male,Perez
+Great Dane,53785.1321,81.9669,7.1091,med,high,short,female,Hernandez
+Great Dane,51693.9225,,6.9098,med,med,short,male,Ayala
+Great Dane,50768.4441,75.999,6.6695,med,high,short,male,Holmes
+Bearded Collie,23269.0929,51.9782,13.6823,med,high,med,female,Phelps
+Great Dane,46279.8992,80.5004,6.8545,med,high,short,female,Hall
+Dalmatian,27042.2435,48.0,12.8417,high,high,short,female,Diaz
+Dalmatian,21653.1855,48.0,13.5538,high,high,short,male,Jackson
+Welsh Corgi,13328.341,,11.3343,med,high,med,male,Rowe
+Welsh Corgi,12358.0648,,12.4441,med,high,med,male,Schultz
+Welsh Corgi,17207.7774,29.4997,11.0583,low,med,long,male,Webb
+Welsh Corgi,13430.068,33.0795,11.5216,low,high,med,female,Estrada

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Siberian Husky,17778.4179,54.9522,12.4306,high,med,short,male,Walker
+Samoyed,27678.6023,52.7413,11.3533,med,high,med,female,Davis
+Samoyed,28210.2384,53.2813,10.4482,med,high,med,female,Marks
+Daschhund,9139.8506,,13.3928,high,med,short,male,Walker
+German Shepherd,35972.4497,,11.7771,high,med,med,male,Brown
+Samoyed,19824.5126,,11.1686,med,high,short,male,Gross
+German Shepherd,34177.2654,65.3041,10.9027,med,med,long,male,Martin
+Daschhund,4494.9668,20.5203,11.9182,high,med,short,male,Hardy
+Samoyed,16320.9917,55.0074,9.8374,med,high,med,male,Williams
+Siberian Husky,18831.837,,12.129,med,med,med,male,Robinson
+Daschhund,16778.9759,,13.2708,high,med,short,female,Garcia
+Siberian Husky,19380.403,,12.2678,med,med,long,male,Evans
+German Shepherd,37019.2066,60.4372,10.5652,low,med,med,male,Higgins
+Daschhund,18343.5617,,12.8505,high,med,short,female,Russell
+Daschhund,10614.5303,21.2921,12.8439,high,high,short,female,Small
+German Shepherd,37418.9593,58.5431,11.0305,med,med,med,female,Mckenzie
+Siberian Husky,18284.7659,54.1046,11.5039,med,med,short,female,Fleming
+Samoyed,21432.4529,,11.1124,med,high,med,male,Gray
+Siberian Husky,19451.3948,54.6043,11.8906,med,med,med,female,White
+Daschhund,10960.949,19.9665,11.888,high,med,short,male,Palmer
+Samoyed,17473.1134,50.5667,11.0895,high,high,med,male,Barrett
+Samoyed,24110.5749,51.6096,9.8413,med,high,med,female,Dunn
+Samoyed,22242.5418,,11.7775,med,high,med,male,Alexander
+German Shepherd,36349.4593,,10.5103,med,high,med,male,Smith
+German Shepherd,38960.3484,61.8781,9.6335,low,med,med,female,Carter
+Daschhund,13011.6123,20.8096,13.0638,high,low,short,male,Mckenzie
+German Shepherd,34159.5329,61.7327,11.4182,med,low,med,male,Lee
+Samoyed,24702.9647,,10.9525,med,high,med,male,Jackson
+Siberian Husky,16666.6047,51.7423,11.2014,med,med,med,male,Hodges
+German Shepherd,34548.659,60.9198,11.5818,low,low,med,male,White
+Samoyed,25448.0173,,10.7866,med,high,med,male,Lindsey
+Siberian Husky,17986.1547,57.0001,11.2382,high,med,med,male,Perry
+Siberian Husky,15672.2972,54.9434,12.067,med,med,short,female,Allen
+Siberian Husky,19402.599,50.5196,12.7576,med,med,med,female,Watts
+German Shepherd,36376.2806,,11.1133,low,med,med,female,Skinner
+Samoyed,21330.3626,53.7776,11.5284,med,high,med,male,Mcknight
+Samoyed,27195.3306,51.4791,10.6067,med,med,short,male,Chaney
+Samoyed,14920.949,,11.2113,med,high,med,female,Thomas
+German Shepherd,37980.5548,,10.9963,high,med,med,female,Perez
+Samoyed,18343.738,51.4556,9.8834,med,high,med,male,Conner
+Daschhund,8603.9692,22.0554,12.855,high,med,med,female,Brown
+German Shepherd,36505.3725,61.4273,10.6403,med,med,med,female,Jones
+Samoyed,19263.037,56.1204,11.3965,high,high,med,male,Callahan
+Siberian Husky,16966.8632,54.0118,12.2697,med,med,med,female,Allison
+German Shepherd,39916.8821,62.5001,10.8302,med,low,med,male,Brown
+Samoyed,19995.4949,,10.8076,med,high,med,female,Sandoval
+German Shepherd,35034.5414,56.0859,10.4946,med,med,med,male,Miller
+Siberian Husky,19704.8193,,12.6867,med,low,med,female,Allen
+Siberian Husky,16760.3694,55.6597,11.4586,med,med,med,male,Murray
+Samoyed,23864.9712,52.4315,11.4413,high,high,med,female,Kim
+German Shepherd,37262.8704,,10.8726,med,med,med,male,Harris
+Siberian Husky,21640.1315,56.1641,12.0323,med,med,med,male,Day
+Daschhund,9541.7108,21.1048,13.4367,high,med,med,female,Walker
+Siberian Husky,20321.8415,52.3519,11.633,med,high,med,female,Gonzalez
+German Shepherd,36039.5067,62.4777,10.6784,med,med,med,female,Copeland
+Samoyed,19713.2666,52.2019,11.0513,med,med,med,male,Benson
+Siberian Husky,18526.2087,55.9822,11.0084,med,med,med,female,Erickson
+Siberian Husky,18972.7581,56.4432,12.1454,med,med,long,female,Jackson
+Samoyed,17653.6575,,10.5392,med,high,med,female,Houston
+Samoyed,15888.668,52.8585,10.8396,high,high,med,female,Richardson
+Siberian Husky,16050.2691,55.6673,11.6753,med,low,med,female,Sanford
+Siberian Husky,16562.3042,,12.1918,med,med,med,female,Savage
+Siberian Husky,19043.0235,55.3048,12.1859,high,med,med,female,Garcia
+Samoyed,25024.9659,50.659,11.0923,med,high,short,female,Garcia
+German Shepherd,35716.0876,58.4222,10.3784,med,low,med,male,Harris
+Samoyed,18391.9935,51.056,10.9478,med,high,med,male,Horton
+Daschhund,8097.7428,21.5289,12.8555,high,med,short,male,Dean
+Samoyed,24808.2513,52.9897,11.1415,med,high,med,male,Reed
+German Shepherd,36734.5139,60.0128,11.6521,med,med,med,male,Smith
+German Shepherd,36178.0217,60.6111,10.3729,med,med,med,male,Johnson
+German Shepherd,35817.1348,62.1052,9.7224,med,med,med,female,Elliott
+Siberian Husky,18653.9513,,10.4953,med,med,med,male,Wood
+Samoyed,19122.9502,54.9594,10.499,med,high,med,female,Warren
+Samoyed,26766.9305,52.4797,10.5056,med,med,med,male,Sparks
+Siberian Husky,19885.3629,50.9461,10.3072,med,med,med,female,Martinez
+Siberian Husky,19356.1085,51.6015,12.6668,med,low,med,male,Miller
+Daschhund,11517.8212,,12.6345,high,high,short,male,Brown
+Daschhund,11694.7693,20.7179,13.7058,high,high,short,male,Franco
+Daschhund,10779.41,21.5219,12.6701,high,med,short,male,Johnson
+Samoyed,28722.3997,54.1243,11.0395,med,high,med,female,Schmidt
+German Shepherd,38199.191,61.1904,11.1208,high,med,short,male,Ashley
+German Shepherd,35743.218,63.7122,10.7547,med,med,med,male,Kelly
+Siberian Husky,20127.7333,53.6712,12.3143,med,med,short,male,Osborne
+Siberian Husky,22648.7986,53.9729,12.9306,med,med,short,female,Foster
+Siberian Husky,17152.1493,51.2179,12.466,med,med,long,male,Lee
+Siberian Husky,17874.7229,,11.6253,high,med,med,female,Cervantes
+Samoyed,28180.5055,52.8291,10.4235,med,med,med,male,Kristi
+Siberian Husky,18104.5603,,11.9208,med,med,med,male,Pugh
+Daschhund,12416.0053,20.7505,14.1338,high,med,short,female,Adams
+Samoyed,23533.2565,54.5664,10.7186,med,high,med,female,Chavez
+German Shepherd,37897.1503,61.7233,10.4929,med,low,short,male,Sherman
+Siberian Husky,17629.497,,11.1713,med,med,med,female,Richardson
+German Shepherd,38580.3198,,11.2084,med,med,med,female,Smith
+Daschhund,2102.7643,20.3302,13.5804,high,med,short,male,Carter
+Siberian Husky,23932.933,51.2759,11.5157,med,med,long,female,Wagner
+Siberian Husky,21266.4927,,10.9608,med,med,med,female,Santana
+German Shepherd,38762.8397,57.8169,11.6281,med,med,med,male,Thomas
+German Shepherd,36388.256,,11.074,med,med,med,female,Bradley
+Siberian Husky,19720.6241,53.5089,11.6264,high,low,med,female,Rodriguez
+Daschhund,8349.9895,20.2263,13.3443,high,med,short,female,Andrews
+Daschhund,10389.4613,21.088,11.7788,high,med,short,female,Alexander
+German Shepherd,37274.1982,61.2125,11.03,med,med,long,male,Wilson
+Samoyed,27440.6862,56.8049,11.9616,low,high,med,female,Mcknight
+Samoyed,26899.6411,52.1654,11.9428,high,high,short,female,Jackson
+Daschhund,3449.0822,20.4619,12.104,high,med,short,female,Smith
+German Shepherd,37160.4873,59.0861,11.5976,med,med,long,female,Knight
+German Shepherd,37387.0588,60.5387,11.5547,med,low,short,male,Sosa
+German Shepherd,35155.8887,62.3838,9.9546,med,med,med,female,Berry
+Samoyed,19789.3191,,11.1051,med,high,med,male,Berg
+Daschhund,17878.2126,22.1537,13.0301,high,med,short,male,Walker
+Siberian Husky,18094.3603,55.1662,12.71,high,med,med,male,Murphy
+Daschhund,9952.6505,20.5476,12.4294,high,med,short,female,Turner
+Samoyed,19896.2856,,9.9293,med,high,med,male,Durham
+Siberian Husky,18897.5161,54.6431,11.0706,low,med,med,male,Johnson
+Siberian Husky,19863.7418,54.0625,12.0013,med,med,med,male,Melendez
+Siberian Husky,16482.4633,54.3998,12.0368,med,med,long,female,Taylor
+German Shepherd,36476.7274,60.2963,11.4798,med,med,short,male,Hill
+Daschhund,8452.9714,20.3513,13.8714,high,med,short,male,Hill
+German Shepherd,36743.764,61.426,11.085,med,med,med,female,Ford
+German Shepherd,37728.923,60.3394,10.7321,med,med,med,female,Sanchez
+German Shepherd,38436.408,61.8505,11.0831,low,high,long,female,Nelson
+Samoyed,19519.7642,54.6911,11.4765,med,high,med,female,Daniels
+Siberian Husky,22152.7647,55.2108,11.5667,med,med,med,female,Robbins
+Daschhund,13458.5863,21.0336,12.4521,high,med,short,female,Ortega
+Samoyed,26257.8006,53.5356,11.4162,med,high,short,female,Torres
+German Shepherd,33691.3678,58.9142,9.9238,med,low,med,female,Thomas
+Samoyed,22753.9254,55.0367,11.781,med,high,med,male,Carter
+Siberian Husky,18559.5561,57.4705,11.4919,med,med,med,female,Riddle
+Daschhund,8544.1607,21.1687,12.9172,high,med,short,female,Ross
+Daschhund,10023.5944,21.2165,12.225,high,low,short,female,Meyer
+Samoyed,17011.184,53.7759,10.6187,med,high,med,male,Burgess
+Samoyed,22883.0102,51.542,11.49,med,high,med,male,Carpenter
+Siberian Husky,20461.0247,54.4225,12.125,med,med,med,female,Vazquez
+Siberian Husky,19332.0558,,11.4726,med,med,med,female,Bell
+Samoyed,17582.0832,,11.092,med,high,med,female,Brandon
+Siberian Husky,20256.6182,56.5546,12.4489,med,med,med,male,Williams
+Daschhund,8031.1713,21.1623,12.8104,high,low,short,male,Martin
+German Shepherd,37953.4423,,11.3734,med,med,long,female,Martin
+Daschhund,10173.9516,21.2922,12.9943,high,med,short,female,Wagner
+German Shepherd,34939.5114,62.6609,9.4452,high,low,med,male,Villarreal
+Siberian Husky,15760.7735,58.6363,12.7525,med,med,med,female,Benson
+Siberian Husky,17851.1596,52.7317,11.7646,low,med,long,female,David
+Samoyed,32121.6209,58.3645,11.1053,med,high,med,female,Nguyen
+German Shepherd,37430.5626,60.6007,11.2625,med,med,med,male,Padilla
+German Shepherd,34272.2858,60.6821,10.475,med,med,med,male,Rangel
+Samoyed,20415.4765,55.6515,10.9618,med,high,med,male,Palmer
+German Shepherd,34288.7913,61.5414,12.0136,med,low,med,female,Osborne
+Siberian Husky,17860.9869,53.5106,11.2275,med,med,med,male,French
+German Shepherd,35408.5442,,12.4143,med,med,med,male,Bernard
+Siberian Husky,21257.3939,49.3075,11.2169,med,high,med,female,Jones
+Siberian Husky,18535.6301,55.4834,11.4713,med,low,med,male,Timothy
+Siberian Husky,17607.013,,12.3629,med,med,long,male,Taylor
+German Shepherd,36527.3973,58.1756,11.4898,med,med,med,female,Meyers
+Daschhund,11418.8738,,11.8207,high,med,short,male,Foster
+German Shepherd,36410.6787,64.7806,10.8366,med,med,med,female,Shaw
+Siberian Husky,21224.2849,52.3464,12.6772,med,med,med,female,Dougherty
+German Shepherd,34226.8469,62.3942,11.1847,med,high,long,male,Ramirez
+Samoyed,24577.6709,,10.2851,low,high,med,male,Bass
+Daschhund,12365.1827,,13.2371,high,med,short,male,Gregory
+Siberian Husky,18207.8115,60.4267,12.1743,med,med,med,female,Douglas
+Daschhund,10060.8426,20.3922,12.6892,high,med,short,male,Smith
+German Shepherd,34275.4556,,11.554,med,med,med,male,Nguyen
+Siberian Husky,17201.8894,55.3629,12.1788,med,med,med,female,James
+Daschhund,10360.2646,21.2919,12.6398,high,med,short,male,Everett
+German Shepherd,38859.2358,60.9348,11.763,high,high,med,female,Williams
+Samoyed,19586.9687,53.4212,12.1371,med,high,short,male,Rodriguez
+Siberian Husky,19145.4625,51.4513,12.0219,med,med,med,female,Rogers
+Daschhund,9551.4065,20.7692,12.6912,high,med,short,male,Rivera
+German Shepherd,37927.3059,63.1722,10.3834,med,med,long,female,Hart
+German Shepherd,37796.7802,63.8866,10.8644,high,med,short,male,David
+German Shepherd,33871.4023,61.4071,10.6536,med,high,med,male,Thornton
+Siberian Husky,18612.1775,55.0825,11.9957,high,med,med,female,Davis
+Daschhund,9384.7635,20.692,13.4477,high,high,short,female,Smith
+Daschhund,5387.3584,21.7272,13.0448,high,med,short,female,Wright
+Samoyed,19020.2734,53.9306,10.8191,med,med,med,male,Rodgers
+Samoyed,28011.1836,54.1385,11.0525,med,high,med,male,Barrett
+Siberian Husky,17980.0507,53.9783,11.9254,med,med,med,female,Haney
+Samoyed,23892.0726,53.8622,12.3557,med,high,med,male,Anderson
+Daschhund,8296.5465,20.3273,12.7145,high,med,med,female,Stephens
+Samoyed,27836.3611,,10.3366,med,high,med,male,Smith
+Daschhund,12967.4982,21.1133,12.9962,high,med,short,female,Martinez
+Siberian Husky,16882.4351,52.5022,12.8983,med,med,med,male,Hodges
+Samoyed,29614.8132,54.6308,11.8033,med,med,med,female,Delgado
+Siberian Husky,18981.1286,55.6854,12.5292,med,high,med,male,Howard
+Daschhund,4940.6332,21.6024,13.3335,high,low,short,male,Young
+Siberian Husky,17497.7097,56.0173,11.921,med,med,med,female,Johnson
+Siberian Husky,18747.264,,11.499,med,med,med,male,Roberts
+Samoyed,21280.9435,52.2718,11.4047,high,high,med,male,Johnson
+German Shepherd,36015.2182,,11.0091,med,low,short,male,Curtis
+Siberian Husky,18494.6424,,10.7131,med,med,med,female,Brown
+Daschhund,10908.7159,,12.4855,high,med,short,male,Kerr
+Daschhund,10997.1477,20.9704,13.577,high,med,short,female,Brown
+German Shepherd,35336.2647,64.7516,10.5319,med,med,med,female,Hebert
+Samoyed,24542.3516,51.0856,12.0684,med,high,short,female,Massey
+German Shepherd,35134.1934,59.1277,11.6718,med,med,med,male,Morrison
+Siberian Husky,17861.9064,55.6832,12.4007,med,low,med,female,Campbell
+Daschhund,9449.469,,14.0076,high,med,short,female,Nelson
+German Shepherd,38157.5684,,11.226,low,low,med,male,Warren
+Samoyed,18437.4505,51.2335,9.9401,high,high,med,female,Ayala
+Daschhund,11547.4953,20.5286,12.443,high,med,short,female,Rivera
+Samoyed,24167.8087,52.9498,11.1239,high,high,med,female,Carney
+Daschhund,4704.9467,20.1309,13.2497,high,med,short,female,Burnett
+Siberian Husky,21790.2855,,11.9888,med,med,med,female,Martinez
+German Shepherd,35885.2501,58.4781,11.017,med,med,short,female,Floyd
+Samoyed,21663.635,52.3057,11.1441,med,high,long,female,Thomas
+Samoyed,32007.5553,,11.9889,med,high,med,male,Dawson
+Daschhund,13551.5195,21.7073,12.4939,high,high,short,male,Lamb
+Daschhund,7309.6839,20.9527,12.6054,med,med,short,male,Hanna
+Daschhund,9020.9452,21.4871,14.204,high,med,med,male,Diaz
+Siberian Husky,18524.4568,56.1183,12.4054,med,med,med,female,Henry
+Samoyed,15304.9316,51.4938,12.2892,med,med,long,male,Jackson
+Siberian Husky,18518.4215,60.3608,10.5841,med,med,med,female,Allen
+Samoyed,19013.5201,53.3256,9.9599,med,high,med,female,Wallace
+Daschhund,6009.7883,21.7543,12.3111,high,low,short,female,Garcia
+German Shepherd,36502.8683,59.1734,10.5144,low,med,med,male,Lucas
+German Shepherd,37063.8354,57.5304,11.0114,low,med,med,female,Mclaughlin
+Siberian Husky,18224.2286,55.4209,12.3896,med,med,med,male,Hubbard
+German Shepherd,35437.307,60.5586,10.1692,med,high,med,female,Perry
+Samoyed,20701.822,,11.6329,med,high,med,male,Sawyer
+Samoyed,24684.5166,,11.1083,low,high,med,female,White
+Samoyed,20341.5347,52.8994,11.2346,med,high,med,female,Allen
+Daschhund,10996.8036,20.0722,12.8224,high,med,med,male,Kelley
+German Shepherd,36870.1101,60.8543,10.2694,high,med,med,female,Mitchell
+Siberian Husky,19033.022,54.068,13.1276,med,med,med,male,Martin
+Samoyed,20505.4852,51.1202,11.1769,high,high,med,male,Howe
+German Shepherd,36420.2371,,11.9125,med,med,short,female,Carrillo
+Daschhund,9625.8907,,13.5349,high,med,short,male,Hodges
+German Shepherd,34996.5609,59.2604,11.0655,med,med,med,male,Mcdonald
+Siberian Husky,18321.1327,52.162,12.0699,med,med,med,female,Ross
+Siberian Husky,16728.7289,51.2985,12.5693,low,med,med,female,Thomas
+Siberian Husky,17471.9296,55.8485,12.1696,med,low,med,male,Gardner
+Samoyed,19745.0743,,11.2375,high,high,long,female,Murphy
+Siberian Husky,18258.4863,,12.9987,med,low,med,female,Gallagher
+German Shepherd,36005.8786,60.5926,10.6032,med,med,med,male,Singh
+Siberian Husky,19834.2882,49.6851,11.0762,med,med,short,male,Smith
+Siberian Husky,17574.2744,51.762,12.0584,med,med,long,male,May
+Daschhund,7129.681,21.7875,13.0352,high,med,short,female,Lewis
+Daschhund,10003.2781,21.0137,13.168,high,med,med,female,Ford
+German Shepherd,35601.7619,62.1726,10.2295,med,med,long,female,Marshall
+Samoyed,26424.4503,51.3311,10.7383,med,high,med,female,Moore
+German Shepherd,36894.4452,62.6914,11.0729,med,med,med,male,Kirby
+Samoyed,22738.3962,52.9011,11.3844,low,high,med,female,Lawson
+German Shepherd,34895.1596,60.9388,10.3995,med,med,med,female,White
+Samoyed,23941.7856,,10.8805,med,high,med,male,Valdez
+Siberian Husky,16353.7545,,12.6275,high,med,med,male,Herman
+German Shepherd,37230.9211,58.9522,11.4184,med,med,med,male,Lindsey
+Samoyed,23442.7699,54.3018,11.3161,high,high,med,male,Johnson
+Daschhund,12863.1952,20.2108,13.7123,high,low,short,male,Jonathon
+Siberian Husky,22982.3261,54.0151,11.7434,med,high,short,female,Wallace
+Siberian Husky,20069.7471,58.2742,10.6443,med,low,med,female,Smith
+Daschhund,9340.58,21.277,12.4742,high,high,short,male,Hunt
+Samoyed,21515.417,55.0222,10.5583,med,high,med,male,Robinson
+Siberian Husky,17173.5545,56.6836,12.2427,med,med,med,female,Edwards
+Daschhund,8886.3943,20.423,13.3503,high,high,short,male,Sims
+Siberian Husky,20247.7277,52.7711,11.9568,med,med,med,male,Reyes
+German Shepherd,37495.355,,10.9064,high,med,short,female,Scott
+Daschhund,12660.4231,21.2973,13.1993,high,med,short,female,Jackson
+German Shepherd,35367.1345,62.3107,12.1465,med,high,med,female,Kennedy
+Samoyed,19892.0589,55.9919,10.2838,med,high,med,male,Miller
+German Shepherd,34949.5255,61.0787,10.8163,high,med,med,female,Heather
+Siberian Husky,19321.9785,,11.627,med,med,med,female,Todd
+German Shepherd,37416.2701,63.9122,10.862,high,med,med,male,Woods
+German Shepherd,35477.9283,,11.6357,med,low,med,male,Munoz
+Samoyed,22788.6781,53.9933,10.6202,med,high,med,female,Thomas
+Samoyed,21637.8185,52.7476,10.2884,low,high,med,female,Clark
+German Shepherd,36477.3747,61.1068,11.3392,high,high,short,female,Harvey
+Siberian Husky,16863.7424,54.9276,12.0213,med,med,long,male,Richardson
+German Shepherd,35810.6428,57.2851,11.0619,low,high,med,male,Underwood
+Samoyed,22533.9109,55.1358,10.4179,med,high,med,male,Mckenzie
+Samoyed,21587.8438,51.557,11.3293,med,high,med,male,Weaver
+Samoyed,19510.9915,53.7041,11.2545,med,high,med,female,Richmond
+Samoyed,18723.7103,,10.3986,low,high,med,female,Thompson
+Samoyed,17889.11,52.831,11.1761,med,high,med,male,Cooley
+Daschhund,6980.1277,21.102,12.9788,high,med,short,female,Fowler
+Samoyed,21921.8866,52.5051,12.2184,med,high,med,female,Fry
+Daschhund,6672.6679,,12.5187,high,med,short,female,Jackson
+Samoyed,23144.0862,55.2762,11.5708,med,high,long,female,Hall
+Daschhund,5823.6539,21.4194,12.0536,high,med,short,male,Alvarez
+Samoyed,23279.7119,54.003,11.3285,med,high,short,male,Smith
+Samoyed,28109.564,,11.8973,med,high,med,male,Davis
+Samoyed,20066.1421,50.4541,11.4182,med,high,med,male,Gates
+Siberian Husky,19938.2619,53.5874,11.8673,high,high,med,male,Maynard
+Samoyed,19381.6558,53.6446,10.3732,med,high,med,female,Martinez
+Daschhund,10912.3262,21.854,13.2256,high,med,short,male,Rogers
+Daschhund,9021.969,20.2869,12.1685,high,med,med,female,Bryant
+Samoyed,21742.9485,52.1962,10.7711,med,high,med,male,Carlson
+German Shepherd,36373.4465,,10.9541,low,med,med,female,Novak
+Samoyed,27321.8349,50.2608,12.2219,med,high,short,male,Gonzales
+German Shepherd,37653.2003,60.2083,11.2675,med,med,med,female,Warren
+Samoyed,23359.7797,53.8259,9.9673,med,high,med,male,Vasquez
+Siberian Husky,17916.9931,57.3766,12.9888,med,med,long,male,Miller
+Daschhund,5093.1896,,13.0485,high,med,short,male,Gilbert
+Samoyed,27747.6615,54.7913,11.4013,med,high,med,male,Smith
+Siberian Husky,18719.0432,,10.7917,med,high,short,male,Harrison
+Daschhund,10272.411,21.1475,12.5378,high,med,short,female,Moore
+Siberian Husky,20692.7613,,12.0001,med,low,med,female,Guerra
+Siberian Husky,18112.8531,,12.9323,med,high,long,female,Moore
+Samoyed,23298.9706,53.3275,11.5208,med,high,med,male,Gould
+Samoyed,22180.4607,53.749,11.3818,med,high,med,male,Wright
+Siberian Husky,18363.0254,56.9595,12.6787,med,med,long,female,Reyes
+German Shepherd,37364.4806,61.8683,11.0273,med,med,med,male,Morales
+Siberian Husky,20439.7988,55.4288,11.1925,med,med,long,male,Roberts
+Samoyed,22293.5326,52.4273,10.5924,low,high,med,female,Barker
+Samoyed,18305.7367,,11.39,low,med,short,male,Wolfe
+German Shepherd,34778.2708,61.235,10.7697,med,high,med,female,Nguyen
+German Shepherd,35552.2743,59.7856,11.0958,med,med,med,female,Jones
+Siberian Husky,14602.8245,52.281,12.4513,med,med,med,male,Carter
+German Shepherd,37553.9859,60.387,10.8251,high,med,med,male,Williams
+German Shepherd,37144.3387,64.0955,12.205,med,med,med,female,Ramsey
+Daschhund,9756.7048,,12.8598,high,med,short,female,Castillo
+Daschhund,8981.6532,20.471,13.3455,high,med,short,female,Smith
+Samoyed,20902.5089,53.0598,11.8112,med,high,med,female,Ward
+Siberian Husky,21785.3255,56.8466,13.0806,med,med,med,female,Green
+German Shepherd,37016.2566,61.1985,10.7166,med,high,short,female,Adams
+German Shepherd,34385.8328,,10.4954,med,med,med,female,Sims
+German Shepherd,37270.5433,61.0743,11.652,med,med,long,female,Park
+German Shepherd,33280.1296,58.9002,10.4073,med,med,med,male,Li
+Samoyed,25553.8752,54.4088,11.7956,med,med,med,male,Thompson
+Siberian Husky,22016.4264,53.2127,11.6069,med,med,med,male,Lopez
+German Shepherd,33727.9618,60.6937,11.2046,med,med,med,female,Miller
+German Shepherd,33898.7438,60.3951,10.9415,med,low,med,male,Wolfe
+Siberian Husky,17552.7272,,10.8653,med,med,med,female,Mcgee
+Siberian Husky,19188.3817,54.1181,11.0305,low,high,med,female,Zimmerman
+German Shepherd,35848.572,60.6799,11.4122,med,low,med,female,Smith
+Siberian Husky,20210.7025,54.8406,11.5925,med,med,med,female,Stevens
+Siberian Husky,20363.1506,56.7436,12.4263,med,med,med,female,Thomas
+Samoyed,16111.532,55.0458,9.69,med,high,med,female,Bolton
+German Shepherd,39119.2896,63.1343,10.8911,med,med,med,male,Thompson
+German Shepherd,37945.4703,,10.7552,high,med,med,female,Figueroa
+German Shepherd,32855.2621,60.6925,10.8317,med,high,med,male,Foster
+Siberian Husky,19133.6567,54.1195,12.5574,med,med,med,male,Flynn
+Samoyed,23433.837,,9.9986,med,med,med,female,Ayala
+Siberian Husky,19852.9861,53.4444,11.4202,med,low,med,female,Sanchez
+German Shepherd,35463.2457,63.5268,12.0137,med,med,med,male,Campbell
+German Shepherd,36864.4106,62.7183,11.8763,med,med,med,female,Collier
+Samoyed,21324.1537,,11.6586,med,high,med,female,Howell
+Siberian Husky,19008.286,50.8433,11.1779,high,med,med,female,Randolph
+Siberian Husky,15499.6305,55.8963,12.2725,med,low,short,female,Valencia
+Samoyed,20333.7797,51.5715,11.1228,med,high,med,female,Miller
+Daschhund,16834.561,20.9106,13.7236,high,low,short,female,Joyce
+Siberian Husky,16841.7463,56.8452,11.9134,med,med,med,female,Jacobs
+German Shepherd,37749.1016,61.179,11.1107,med,med,med,male,Montgomery
+Samoyed,25755.2811,54.8163,10.5439,med,med,med,female,Wolf
+Siberian Husky,16335.9325,,12.0949,med,med,med,male,Hernandez
+German Shepherd,37380.6692,,10.9477,med,med,med,female,Krueger
+Samoyed,24589.7245,52.455,10.1553,med,high,short,female,Walker
+Daschhund,7273.8933,20.5149,12.5399,high,med,short,male,Bruce
+Siberian Husky,14303.0551,53.4209,13.0656,med,high,med,female,Lucas
+Samoyed,21242.5222,53.6717,11.6579,med,high,med,female,Davies
+Daschhund,8411.1801,20.8675,13.0963,high,med,short,male,Taylor
+Daschhund,10229.7931,21.6419,11.6464,high,med,med,male,Neal
+German Shepherd,33134.1229,62.9142,11.0945,med,med,med,female,Hernandez
+Samoyed,22460.3732,,11.1609,med,high,long,female,Evans
+German Shepherd,35756.6795,61.1982,11.6741,low,med,med,female,Sims
+Daschhund,6431.522,20.0892,12.9821,high,high,short,female,Gallagher
+Samoyed,23253.5645,55.2055,10.8083,med,high,med,female,Williams
+Daschhund,6134.4928,21.8093,12.5677,med,med,short,male,Davenport
+German Shepherd,38551.4103,63.269,10.4203,med,med,med,male,Jones
+Siberian Husky,20514.9103,54.1624,11.2005,med,med,med,male,Allen
+Siberian Husky,20384.9959,,12.0714,med,med,med,female,Moore
+Daschhund,15109.0252,20.0648,13.5264,high,low,short,female,Davis
+German Shepherd,38992.556,62.8811,11.0707,med,med,med,female,Hicks
+German Shepherd,38430.0042,62.4897,11.0234,med,med,med,male,Jordan
+German Shepherd,34479.2573,60.0192,9.9607,low,med,med,female,Parker
+German Shepherd,38262.176,62.1548,10.4238,high,med,long,female,Butler
+Daschhund,9675.4389,20.4706,12.7855,high,low,short,male,Walker
+Siberian Husky,21644.956,52.1146,11.868,med,med,long,male,Whitaker
+Daschhund,7255.8021,,13.3785,high,med,short,male,Jones
+Siberian Husky,21092.1412,54.8489,10.5238,low,med,med,male,Zimmerman
+Daschhund,11357.6691,21.0751,12.6101,high,med,med,female,Edwards
+Samoyed,22086.7875,54.52,11.6363,med,high,med,male,Coleman
+German Shepherd,39290.5601,59.5462,12.3621,med,high,med,female,Roth
+Samoyed,18660.6214,,11.6201,med,high,med,female,Harper
+German Shepherd,35473.8867,62.9938,10.9023,med,med,short,female,Ryan
+German Shepherd,37029.689,59.7057,10.8781,med,low,med,male,Fernandez
+Samoyed,19612.6226,53.6855,9.8508,med,high,med,male,Scott
+Samoyed,23056.4256,52.9165,11.161,med,high,short,female,Wilson
+Daschhund,7805.1135,21.2918,12.412,high,low,short,female,Davis
+Samoyed,26493.9848,,11.7728,med,high,short,male,Fernandez
+Daschhund,14160.2054,20.7811,13.789,high,med,short,male,White
+Siberian Husky,18960.0546,51.4791,11.7669,med,high,med,male,Lloyd
+German Shepherd,36458.1676,57.373,10.6302,high,med,med,female,Bond
+Samoyed,27750.2864,52.0763,10.8276,high,high,med,male,Collins
+Samoyed,24902.9536,50.5617,10.3579,med,high,med,female,Diaz
+Siberian Husky,16317.3485,58.3696,12.3937,med,low,med,female,Matthew
+German Shepherd,39776.7181,59.7418,11.8403,med,med,med,male,Robles
+German Shepherd,33817.5475,61.8128,9.7798,med,med,short,female,Brooks
+Samoyed,24586.5994,52.5212,10.8149,med,high,med,male,Stuart
+Samoyed,22351.3074,55.2222,12.0914,low,high,med,female,Carrillo
+Daschhund,6412.472,,12.8523,high,med,short,female,Alvarez
+Samoyed,16477.8304,,10.812,med,high,med,male,Wilson
+Daschhund,4429.9423,20.2627,12.8089,high,med,short,female,Davidson
+Samoyed,16554.8876,53.6037,10.6317,med,high,med,male,Duncan
+Daschhund,10961.6311,20.3412,13.0211,high,med,short,male,Fernandez
+Samoyed,26098.2126,55.0312,11.383,med,high,short,female,Chapman
+Samoyed,21359.2166,52.2313,11.079,high,high,med,female,Riley
+Daschhund,7812.2554,20.4006,13.0105,high,med,med,female,Cobb
+Siberian Husky,19952.9882,,11.8911,med,med,med,male,Pineda
+Siberian Husky,16100.9542,,11.2344,high,high,med,female,Miles
+Daschhund,2314.3298,21.0219,13.599,high,med,short,male,Bailey
+Samoyed,13640.3355,55.5231,10.7067,low,high,long,female,Koch
+Samoyed,25221.6183,54.7291,11.4075,med,high,med,male,Davis
+Siberian Husky,23965.7219,,12.1532,med,med,med,male,Lawson
+Daschhund,6644.3053,20.6625,13.4827,med,med,short,male,Green
+German Shepherd,38418.7061,,10.6296,med,low,med,male,Wilkins
+German Shepherd,35143.6666,61.0605,11.6569,med,med,med,male,Shepherd
+Daschhund,6338.8399,20.7142,13.2788,med,med,short,male,Pennington
+Daschhund,11878.1949,21.227,12.3447,high,low,short,female,Nelson
+German Shepherd,35641.2789,62.1556,11.2146,med,med,med,female,Neal
+Siberian Husky,22770.7617,55.1938,12.0486,med,low,med,female,Curtis
+Daschhund,15421.1802,,13.901,high,med,short,female,Adams
+Daschhund,11845.7211,20.5696,13.3398,high,low,short,female,Carter
+Daschhund,11764.104,20.8657,12.6852,high,med,short,male,Martinez
+Siberian Husky,20345.1347,56.337,11.5818,med,med,med,female,White
+Siberian Husky,16675.3891,55.4956,11.6741,med,med,long,female,Kelley
+Daschhund,12604.0094,20.9067,13.8288,high,med,short,male,Zuniga
+Siberian Husky,18828.1837,56.6327,11.1111,med,med,med,female,Montes
+Samoyed,18312.712,53.5574,11.9012,med,high,med,male,Roach
+German Shepherd,39452.5554,64.1371,11.0281,med,med,med,female,Russell
+German Shepherd,35759.1185,61.4859,9.8077,high,med,med,female,Reeves
+Samoyed,29063.3791,52.9656,11.4568,high,high,med,male,Murray
+Samoyed,26363.3683,53.5016,11.109,med,high,med,female,Anderson
+Siberian Husky,17488.8619,51.829,11.9501,med,med,med,female,Adams
+Daschhund,12419.2379,20.5651,13.8179,high,med,med,male,Tyler
+Daschhund,11243.0808,21.2953,13.557,high,med,short,male,Lang
+Daschhund,8990.9722,21.4429,12.3547,high,med,short,female,Mendoza
+Daschhund,11155.7705,20.2983,12.5372,high,med,short,female,Peterson
+Daschhund,10945.31,,12.8145,high,med,short,male,Anderson
+Siberian Husky,16182.2962,55.2502,12.4964,med,high,long,female,Hughes
+Siberian Husky,21460.2285,52.4363,12.1384,high,med,med,male,Austin
+Samoyed,26590.7045,51.8211,10.6921,med,high,med,male,King
+Siberian Husky,18309.4045,53.0382,11.2006,med,med,med,female,Burton
+Daschhund,6676.1147,,13.6997,high,med,short,female,Ramos
+Daschhund,6965.1375,20.4615,12.5305,high,med,short,female,Thomas
+Siberian Husky,20537.3509,57.1301,11.7259,med,med,short,male,Rivera
+German Shepherd,37109.133,59.2842,10.917,high,med,med,male,Rollins
+German Shepherd,34624.701,59.6825,11.7947,med,med,med,male,Klein
+Samoyed,18241.6113,55.4398,10.6502,high,high,short,female,Patton
+Siberian Husky,20941.3625,51.5594,12.5545,med,med,med,male,Warner
+Daschhund,9330.6832,,12.3031,high,med,short,male,Soto
+Daschhund,9504.913,,13.7506,high,high,short,female,Davila
+Daschhund,7418.2286,21.8965,13.0282,high,med,short,female,Dixon
+Samoyed,19257.6281,51.8136,11.545,med,med,med,male,Montoya
+Samoyed,26257.9176,,11.7578,med,high,med,male,Ford
+Siberian Husky,16883.2711,51.8286,12.4771,med,low,short,male,Gallegos
+Samoyed,22167.6002,51.7322,11.3991,med,high,long,male,Bruce
+Samoyed,21080.3805,52.8344,12.1802,high,med,med,female,Martin
+German Shepherd,34082.0386,62.4035,11.186,high,med,med,female,Flores
+German Shepherd,36052.8645,60.1006,10.9844,med,med,short,female,Jackson
+Samoyed,20809.315,53.8665,11.0727,low,high,med,female,Hill
+German Shepherd,35632.8743,57.9568,10.5287,med,high,short,male,Green
+Samoyed,21226.4943,53.2927,11.539,med,high,med,male,Lindsey
+Samoyed,20263.8929,,11.611,high,high,med,female,Lee
+Samoyed,17138.8631,53.548,11.0628,med,high,med,female,Ortiz
+Siberian Husky,15176.0417,56.2228,12.6185,low,med,long,male,Cobb
+Siberian Husky,18088.0217,,11.0813,med,med,med,female,Martinez
+German Shepherd,39390.9199,,11.1453,med,med,med,female,Stevens
+German Shepherd,36250.2338,,11.4325,med,med,short,male,Howard
+Siberian Husky,18424.9178,55.5348,12.4475,low,med,med,female,Morales
+Daschhund,8217.2145,20.1963,12.5138,high,med,short,female,Carter
+Daschhund,7335.3807,20.3022,12.1156,high,med,short,male,Brock
+German Shepherd,35810.1906,60.4579,10.1546,med,med,med,male,Fuller
+Siberian Husky,16324.7725,58.6329,11.342,med,med,short,female,Melendez
+German Shepherd,36762.5517,60.3542,10.8008,high,med,med,female,Fischer
+Samoyed,20256.4852,54.5481,11.6942,med,high,med,female,Perez
+Samoyed,20366.5223,52.6304,12.1783,med,high,med,male,Reed
+Daschhund,7464.6159,21.1304,13.0337,high,med,short,male,Morrow
+Samoyed,18628.5212,55.7911,10.81,med,high,med,male,Foster
+Daschhund,11705.7321,20.788,12.622,high,low,short,male,Adams
+Siberian Husky,17091.5859,56.8096,12.4434,med,med,med,male,Hawkins
+Daschhund,12439.4644,21.0224,13.5229,high,med,short,female,Larsen
+German Shepherd,36419.5109,,11.8603,low,med,med,female,Curry
+Samoyed,26829.3987,55.0027,11.5524,med,high,med,male,Jackson
+Siberian Husky,19275.811,53.2013,11.4834,med,med,med,female,James
+Samoyed,25523.4908,55.3472,11.0243,low,high,med,male,Moore
+Samoyed,26316.2636,,11.4423,med,high,short,female,Brown
+Samoyed,15023.2001,,10.2202,high,high,short,female,Lopez
+Samoyed,13729.7352,53.2371,11.7918,med,high,med,female,Griffin
+German Shepherd,37001.4924,59.8247,11.3222,high,med,med,female,Jackson
+Siberian Husky,20024.9401,56.0892,12.2546,med,med,med,male,Williams
+Daschhund,9992.2756,20.4696,13.2265,high,high,short,female,Short
+Samoyed,20238.9387,52.1717,11.0117,med,med,short,male,Chan
+Samoyed,21936.5252,56.2787,10.2136,med,high,med,male,Rivera
+Daschhund,12751.0408,21.5558,13.0747,high,med,short,female,Ortiz
+German Shepherd,35499.7036,62.9409,11.6741,med,med,long,male,Bowers
+Siberian Husky,18242.6566,55.3581,12.8014,med,med,long,female,Grant
+Siberian Husky,19818.599,56.0773,11.309,high,med,med,female,Garza
+Daschhund,10180.4839,20.9603,13.3887,high,med,short,male,Roy
+Siberian Husky,19683.177,53.3885,12.1287,med,med,med,male,Reynolds
+German Shepherd,36665.8021,,10.9362,med,med,med,male,Lucas
+Daschhund,9814.2678,,12.8941,high,med,short,female,Lewis
+Daschhund,11639.524,21.6073,12.2015,high,low,short,female,Cortez
+German Shepherd,35707.4104,60.8748,11.4786,med,low,long,female,Haynes
+German Shepherd,35573.4008,,10.5402,med,med,med,male,Fisher
+Samoyed,20971.5252,52.4058,10.765,med,high,med,female,Terry
+Daschhund,12891.3678,20.4529,12.8886,high,med,short,female,Reese
+Siberian Husky,18381.8469,53.59,12.2703,low,med,long,male,Scott
+Siberian Husky,13585.48,57.6643,11.9553,med,med,med,female,Russell
+Daschhund,8419.1862,,12.7545,high,med,short,female,Miles
+German Shepherd,36092.819,61.5986,11.3876,med,low,med,male,Davila
+Daschhund,12027.6591,,13.2344,high,med,short,female,Miller
+Siberian Husky,16743.7446,52.2236,11.4697,high,med,med,male,Richards
+Siberian Husky,18822.5315,,11.7189,med,med,med,female,Carpenter
+Daschhund,7082.7367,21.4098,13.4786,high,med,short,male,Perez
+Samoyed,22204.9423,51.7919,11.3636,high,high,med,female,Davis
+German Shepherd,37588.089,62.7858,10.3694,med,high,long,male,Freeman
+Samoyed,23623.1592,54.1278,10.0323,med,high,med,male,Logan
+Samoyed,10868.7865,53.6851,11.0955,high,high,med,male,Melton
+Daschhund,12744.4815,21.078,12.77,high,high,short,female,Burns
+Siberian Husky,17654.089,54.9731,13.0814,high,med,med,male,Nguyen
+German Shepherd,36224.0776,63.1824,11.3721,high,med,med,female,Rodriguez
+Samoyed,28525.0179,52.5389,11.3698,med,high,med,female,Jones
+German Shepherd,36089.212,58.3328,10.7398,med,med,med,male,Lee
+Daschhund,10277.4223,20.7975,12.5316,high,med,short,male,Raymond
+Samoyed,27361.0189,55.833,10.6561,med,high,med,male,Fisher
+Siberian Husky,18097.9308,54.715,11.7478,med,med,med,female,Allen
+German Shepherd,38964.707,62.0609,10.533,med,med,med,male,Villarreal
+Daschhund,6311.9796,20.6419,12.5912,high,med,short,male,Horton
+Daschhund,11209.6671,20.3127,13.1113,high,med,short,male,Pennington
+German Shepherd,36943.4022,60.9743,10.0758,med,med,med,male,Caldwell
+Siberian Husky,17771.8648,,12.0526,med,med,med,male,King
+Daschhund,11071.0232,,12.834,high,med,short,female,Frost
+Daschhund,10252.3592,,12.2537,high,med,short,female,Foley
+German Shepherd,36301.1047,63.5522,10.6235,med,med,med,male,Dana
+Daschhund,11155.2326,20.9586,13.3083,high,med,short,female,Lewis
+Samoyed,23346.7121,51.8384,10.7156,med,high,med,male,Hughes
+Daschhund,9985.8056,21.3486,14.9485,high,med,short,female,Matthews
+Siberian Husky,18983.9917,55.3263,12.5044,med,med,med,male,Frey
+German Shepherd,36726.9592,,10.8953,med,med,long,female,Coleman
+Siberian Husky,16805.3293,55.6897,11.0788,med,med,med,female,Russell
+Samoyed,27958.2302,50.6874,11.2137,med,high,med,male,Martin
+Samoyed,23267.319,52.955,11.7742,med,high,med,male,Michael
+Samoyed,23912.8575,56.4478,10.8844,med,med,med,female,Brown
+Siberian Husky,20698.9142,,11.5382,med,med,long,female,Bell
+Samoyed,20773.3575,52.7405,10.0491,med,high,med,male,Kelly
+Samoyed,20962.4076,54.7435,11.0731,high,high,med,female,Hammond
+Daschhund,10358.0531,,13.074,high,med,short,male,Bond
+Samoyed,20458.7226,54.4945,11.1261,med,high,med,male,English
+Siberian Husky,17356.175,,12.5606,med,med,med,male,Hanna
+Samoyed,23844.6202,55.6368,11.0698,med,high,med,male,Leach
+Siberian Husky,17876.6463,51.6461,12.6174,low,med,long,male,Ellis
+Siberian Husky,20112.0532,51.4125,13.062,med,med,med,male,Huynh
+German Shepherd,38521.5482,63.8026,10.4934,med,med,med,male,Poole
+Siberian Husky,17838.9332,56.737,11.7949,med,med,med,male,Jennings
+Samoyed,23885.9592,49.6174,12.2277,med,med,med,male,Gomez
+Daschhund,10738.1009,20.6928,11.6812,high,med,short,female,Robinson
+Siberian Husky,17728.7601,52.9448,12.7089,med,high,med,female,Perkins
+German Shepherd,37946.9517,,10.2023,med,high,med,male,Reyes
+German Shepherd,33801.8707,,10.613,med,med,med,male,White
+German Shepherd,35985.4257,58.3757,9.4378,med,med,med,female,Jones
+Samoyed,22693.0972,54.052,10.618,med,high,med,male,Roman
+Siberian Husky,22575.2263,,12.281,high,med,med,male,Wilson
+Samoyed,23716.5657,54.8152,10.8719,high,high,med,male,Sanchez
+German Shepherd,36060.5649,59.828,10.0373,med,med,med,female,Neal
+Siberian Husky,19851.1911,,12.5345,med,med,med,male,Jordan
+Daschhund,15412.8483,20.6659,11.9954,med,low,short,female,Wood
+German Shepherd,35290.6315,57.7328,11.072,high,med,med,male,Parker
+Daschhund,10730.4901,20.9522,12.1076,high,med,short,male,Glover
+German Shepherd,34745.9605,60.2531,11.2801,med,med,med,male,Arroyo
+Siberian Husky,16139.4854,,12.0332,med,med,med,female,Weeks
+Daschhund,6020.927,19.6621,13.6011,high,med,short,female,Reed
+Siberian Husky,20242.4914,53.6529,12.0565,med,med,med,female,Smith
+Siberian Husky,18466.2995,,11.5041,low,med,med,male,Rodriguez
+German Shepherd,37353.8537,,11.7968,low,med,med,female,Morris
+Siberian Husky,17508.3643,54.1463,11.7386,high,high,med,male,Daniels
+Samoyed,23681.8388,55.472,10.5226,high,high,short,female,Davis
+Daschhund,6299.528,20.5129,12.4802,high,med,short,male,Walters
+Samoyed,25790.5208,,11.0761,med,high,med,female,Ramirez
+Samoyed,20320.5459,55.6292,11.3521,med,high,med,female,Wong
+Samoyed,22832.5087,56.3101,11.0209,high,high,long,male,Moore
+Daschhund,10291.4988,21.4389,13.23,high,med,short,male,Gray
+Siberian Husky,18621.2284,57.6414,11.1877,med,low,med,female,Black
+German Shepherd,35980.2427,,10.2164,med,high,short,female,Alexis
+Daschhund,10496.8801,20.6002,13.5498,high,med,short,female,Wright
+Samoyed,20096.118,53.6328,10.7831,med,high,med,male,Cox
+Daschhund,13284.4195,20.9827,13.5518,high,med,short,female,Jones
+Samoyed,18339.0151,52.4747,9.6098,high,high,short,male,Meadows
+Samoyed,26600.52,51.8663,11.8066,med,med,med,male,Miller
+Daschhund,9002.3458,22.1373,11.7786,high,med,short,female,Melton
+Samoyed,29303.2189,52.2818,11.1255,med,high,med,male,Owens
+Daschhund,6984.5013,20.1491,12.0516,high,med,short,female,Raymond
+Samoyed,20542.7653,53.9954,11.1382,med,high,med,female,Harrington
+Samoyed,24665.0523,53.9802,10.6637,med,high,med,male,Wood
+Samoyed,22167.2837,56.0486,11.4682,med,high,med,male,Johnson
+Daschhund,7148.3953,20.1801,12.58,high,med,short,male,Carey
+Daschhund,4529.8847,21.0884,12.3082,high,med,med,female,Adams
+German Shepherd,35597.8131,60.3973,10.7922,low,low,med,male,Fritz
+German Shepherd,35916.4597,,11.3913,med,med,med,female,Gomez
+German Shepherd,37700.9217,64.6673,11.2935,med,med,med,female,Morales
+Samoyed,27324.8133,53.917,10.9453,med,high,med,male,Smith
+Samoyed,19827.5871,54.3459,11.9598,med,high,med,male,Harris
+Daschhund,13755.5116,,11.7897,high,med,med,female,Lynn
+Daschhund,3630.6401,21.6504,13.4416,med,med,short,female,Willis
+German Shepherd,34044.7894,,10.2532,high,med,short,female,Martinez
+Samoyed,22512.0201,54.0591,10.4248,low,med,med,male,Lowe
+Siberian Husky,19236.5756,,12.8272,low,med,med,female,Thomas
+Samoyed,17872.2144,52.3434,11.297,med,high,med,female,Porter
+Samoyed,23033.3173,53.0892,11.5715,med,high,med,male,Williams
+German Shepherd,33499.2252,61.1888,10.8966,med,med,med,female,Rose
+German Shepherd,35662.4185,60.4962,10.8151,med,med,med,male,Hill
+German Shepherd,33511.833,60.8999,10.3019,med,med,med,female,Warren
+Daschhund,4547.032,20.6919,12.5055,high,med,short,male,Simpson
+Daschhund,5359.5905,21.5557,12.7613,high,med,short,female,Martinez
+Siberian Husky,21822.4221,56.9741,12.1797,low,med,long,female,Ashley
+German Shepherd,33964.9762,61.2982,11.0127,med,med,med,male,White
+Daschhund,5446.5576,21.7544,13.1817,med,med,short,male,Fuller
+Siberian Husky,22109.4638,,11.9994,med,low,med,female,Wilkins
+Daschhund,11097.805,20.6657,12.7596,high,med,short,female,Costa
+Samoyed,21985.1501,54.8912,10.3741,high,high,short,male,Warren
+Siberian Husky,17396.0904,,11.781,med,med,long,male,Rose
+Samoyed,17622.7106,,11.1556,med,med,med,female,Flores
+Samoyed,22600.1238,52.9362,11.1091,med,high,med,female,White
+Samoyed,27209.6751,52.4864,10.1329,med,high,short,female,Wu
+German Shepherd,36072.5907,62.3527,11.9497,med,med,med,male,Middleton
+Samoyed,26038.8308,54.7186,11.7405,med,high,med,male,Hebert
+German Shepherd,38447.1717,58.9933,10.6341,low,med,med,male,Rodriguez
+Samoyed,24165.4132,53.709,11.043,high,high,med,female,Collins
+Samoyed,19749.4804,,10.9882,med,high,med,female,Calderon
+Daschhund,10698.2351,21.0251,13.0375,high,med,short,male,Mills
+Siberian Husky,19783.3553,54.4112,11.9761,med,med,med,female,Moses
+Siberian Husky,19456.647,51.7777,11.6473,med,high,med,male,Flores
+German Shepherd,37089.4344,60.1184,10.3588,high,high,med,male,Scott
+Daschhund,12698.9499,20.0866,13.9693,high,med,short,male,Davis
+German Shepherd,37528.9378,,12.1915,med,med,med,male,Allen
+German Shepherd,34854.6931,,10.5926,med,med,short,female,Clark
+Daschhund,10243.5467,21.123,13.2229,high,med,med,female,Reynolds
+Siberian Husky,21295.4436,52.2589,10.5268,med,med,med,male,Williams
+Siberian Husky,20678.2908,,11.1347,med,med,med,female,Baldwin
+Samoyed,22196.3515,50.8871,11.6585,med,high,long,female,Randall
+Siberian Husky,19338.7881,,12.6847,med,med,med,male,Gibson
+German Shepherd,37025.5898,60.222,11.8117,med,med,med,male,Brewer
+German Shepherd,37397.2104,64.2901,10.6647,med,med,long,female,Foley
+Siberian Husky,20732.4106,,12.9097,med,med,med,female,Gordon
+Samoyed,25882.876,53.1212,11.8232,med,high,med,female,Rodriguez
+Daschhund,6888.8311,21.3429,13.3143,high,med,short,male,May
+Daschhund,11282.5691,,12.7046,high,med,short,male,King
+Siberian Husky,20159.6516,,12.3251,med,med,med,female,Brown
+Samoyed,25218.5488,,10.5621,low,med,short,female,Mcdowell
+Daschhund,9655.496,21.1855,12.9914,high,med,short,female,Castro
+German Shepherd,36920.9604,57.8086,11.1809,high,med,med,male,Mcdonald
+Samoyed,22576.4785,52.9987,12.0719,med,high,short,female,Henderson
+Daschhund,11905.6971,19.992,12.7721,high,med,short,male,Lee
+Siberian Husky,16940.5545,54.8804,12.031,med,high,med,female,Stokes
+Daschhund,10481.5518,20.218,12.238,high,med,short,male,Jones
+German Shepherd,37013.1553,59.982,10.1841,med,med,med,female,Nicholson
+German Shepherd,38128.0848,59.9781,11.9322,low,low,med,male,Liu
+Samoyed,22985.5527,51.2486,10.7748,med,high,long,male,White
+Siberian Husky,17159.6448,,11.8433,med,med,short,male,Martinez
+Daschhund,7406.2807,,12.7284,high,med,short,male,Christina
+Samoyed,26734.7232,54.4284,10.8953,med,high,short,male,Morales
+German Shepherd,36784.2116,,11.6146,med,med,med,female,Pearson
+Daschhund,6878.7811,20.6312,13.6598,high,med,short,male,Gonzalez
+German Shepherd,34882.9746,,11.6933,low,med,short,male,Johnson
+Samoyed,21465.4942,54.3434,10.4317,med,high,med,male,Garcia
+German Shepherd,40808.4361,63.7073,10.9454,low,med,med,female,Munoz
+Daschhund,11794.4587,20.8319,13.5259,high,high,short,female,Lane
+Samoyed,31261.6224,54.2252,11.3234,med,high,med,male,Oconnor
+Daschhund,14055.5995,20.498,12.9881,high,med,short,male,Jones
+Samoyed,21814.8,52.8105,10.7663,med,high,short,female,Kline
+Samoyed,23580.8291,54.6688,10.1048,med,high,med,male,Weaver
+German Shepherd,35030.1476,61.8378,11.0388,med,med,med,female,Mark
+Samoyed,24614.2081,52.5662,10.3771,med,high,med,female,Graham
+German Shepherd,36436.0551,61.5992,10.914,low,high,short,male,Misty
+Daschhund,10747.8133,20.9747,13.3879,high,low,short,male,Debbie
+Siberian Husky,19109.1565,,11.263,med,med,med,male,Murray
+German Shepherd,36821.164,61.5207,10.2645,med,med,med,female,Yates
+Samoyed,26875.4084,53.6645,10.889,med,high,med,female,Garcia
+German Shepherd,38248.9074,59.0911,10.5394,med,med,med,male,Kristine
+German Shepherd,34444.2947,61.2627,10.169,med,med,med,male,Murphy
+Daschhund,10770.3298,,12.5838,high,med,short,male,Wilson
+Daschhund,13839.6808,,13.6837,high,med,short,male,Brooks
+German Shepherd,35575.5186,,10.3818,med,high,med,female,Bowers
+Samoyed,21064.9113,54.4407,11.9826,med,high,med,female,Robinson
+Siberian Husky,20382.6266,54.7061,12.2144,med,med,long,male,Miller
+Samoyed,18735.179,51.3839,10.52,med,med,med,male,Williams
+Daschhund,1829.8008,20.0274,12.5246,high,med,short,female,Mendez
+Daschhund,8061.9134,20.2804,11.7885,high,med,short,male,Kennedy
+German Shepherd,37113.7199,59.0693,10.4057,med,med,long,female,Hunter
+German Shepherd,36255.694,62.8476,10.5115,med,med,short,male,Elliott
+German Shepherd,33859.8873,,11.665,med,med,med,male,Reeves
+Daschhund,7496.2657,21.167,11.7877,high,med,short,male,Smith
+German Shepherd,36405.433,61.4551,11.84,high,med,med,female,Armstrong
+Daschhund,10029.064,21.0004,12.8507,high,med,med,female,Guzman
+Daschhund,15154.2759,21.2858,12.1244,med,med,short,female,Ross
+Siberian Husky,21012.1312,53.7263,11.2655,low,med,long,female,Sullivan
+Siberian Husky,17704.1135,52.3341,11.2565,low,med,short,female,Gonzalez
+Siberian Husky,17018.9489,55.7985,12.757,med,med,med,male,Williams
+Siberian Husky,19635.4821,53.9196,12.1699,med,med,med,female,Carter
+Siberian Husky,20683.8078,52.3171,11.8648,med,low,med,male,Ewing
+German Shepherd,37830.8228,60.8722,11.7652,med,med,short,female,Long
+Siberian Husky,16921.2521,56.4412,12.1663,high,med,short,male,Pierce
+Daschhund,8162.3021,20.9434,13.1461,high,med,short,male,Curtis
+Daschhund,11634.9493,19.9219,13.4215,high,med,short,female,Lucero
+Samoyed,28804.6023,53.9723,10.8383,med,high,long,male,Jordan
+Siberian Husky,18410.9404,52.8437,12.8243,med,med,med,male,Church
+Daschhund,8074.8331,21.6411,13.2436,high,med,short,male,Robinson
+Siberian Husky,20028.7486,57.6135,12.1707,high,med,long,female,Watson
+Daschhund,11812.5588,21.299,12.9842,high,med,short,female,Scott
+Siberian Husky,15475.9207,51.6128,12.3857,med,med,med,male,Harris
+Samoyed,29422.1633,53.8703,10.5861,med,med,med,male,Ward
+German Shepherd,35048.2025,63.519,10.4354,med,med,med,male,Rodriguez
+Samoyed,27914.0964,50.6156,11.3552,med,high,med,male,Cook
+Siberian Husky,14549.3577,55.9307,12.1333,med,med,med,female,Parker
+Daschhund,12194.8399,21.5217,12.1592,high,med,short,female,Ramirez
+Daschhund,10503.1211,21.0441,12.7521,high,med,short,male,Willis
+German Shepherd,36330.8409,,10.4404,med,med,med,female,Stokes
+Samoyed,31850.2402,,12.1373,med,high,long,female,Lam
+German Shepherd,35411.155,62.4994,10.3673,high,med,med,female,Griffin
+German Shepherd,34965.798,,11.1129,low,med,med,male,Fitzgerald
+Siberian Husky,16902.279,52.2485,11.4171,med,med,med,female,Hunter
+Daschhund,11352.9109,,13.9892,high,med,short,female,Timothy
+Samoyed,21029.0674,51.7964,11.8114,med,high,med,male,Payne
+Siberian Husky,17462.2815,52.1764,11.743,med,med,med,male,Freeman
+Samoyed,28076.2767,53.0992,11.4128,med,high,med,male,Lee
+German Shepherd,36019.5405,62.9001,10.7428,med,med,med,female,Cannon
+German Shepherd,38641.6706,61.5463,11.4509,med,med,short,male,Williams
+Daschhund,13130.5581,20.8491,13.7743,high,med,short,male,Mclaughlin
+Samoyed,24111.9484,51.9105,11.1245,low,high,med,female,Bennett
+Samoyed,21205.1857,53.2306,11.876,med,med,med,male,Chavez
+Samoyed,25208.6771,54.5039,10.6719,med,high,med,male,Silva
+Siberian Husky,18209.5763,51.1325,12.4642,med,med,med,female,Taylor
+Samoyed,23621.3511,51.143,11.0735,high,high,long,female,Bailey
+Siberian Husky,15580.6834,55.5963,12.343,med,high,med,female,Harrington
+Siberian Husky,19372.4905,53.9828,11.743,med,med,med,female,Holden
+Siberian Husky,18691.2096,52.4315,12.3313,med,med,med,female,Perry
+Samoyed,20003.9407,,10.9413,med,high,short,male,Gibson
+Siberian Husky,19279.508,55.4759,11.5934,med,med,med,female,Mitchell
+German Shepherd,38401.9571,60.7519,11.7679,med,med,med,male,Hernandez
+Daschhund,14258.9916,22.1994,12.9383,high,low,med,male,Taylor
+German Shepherd,35432.8079,61.5887,10.6578,med,med,med,female,Preston
+Siberian Husky,20091.9516,55.4213,11.2296,med,high,long,male,Shaw
+Daschhund,2685.899,21.821,13.5413,high,med,short,male,Guerra
+Siberian Husky,19209.6486,52.6756,11.7144,med,med,med,male,Wilson
+Siberian Husky,20214.6459,53.0537,13.4046,med,med,short,female,Stephenson
+Daschhund,15435.7033,20.8159,12.1507,high,med,med,female,Short
+Daschhund,4178.3549,20.6698,12.9506,high,low,short,female,Barry
+Siberian Husky,21463.1821,53.0055,11.9298,med,med,short,female,Clark
+Daschhund,12633.7494,21.3051,13.5561,high,med,short,male,Andrews
+Samoyed,19261.5921,51.055,10.6186,high,med,med,female,Sosa
+German Shepherd,36711.3138,59.3424,10.2914,med,med,med,male,Johnson
+Samoyed,22984.4018,52.5135,11.021,med,high,med,male,Medina
+German Shepherd,37731.2518,59.7769,10.0771,med,med,med,female,Long
+Daschhund,11262.9713,21.9558,13.5237,high,med,short,male,Villa
+Samoyed,19817.885,,10.7092,med,med,med,male,Ellis
+German Shepherd,34944.3397,58.7354,9.7836,med,low,med,male,Jacobson
+Siberian Husky,19149.6135,53.7978,10.9607,med,med,med,male,Bell
+Daschhund,11131.7582,20.6351,13.7583,high,med,short,male,Stanley
+Samoyed,29012.9941,52.912,9.9887,med,high,long,male,Harrell
+Samoyed,25979.9153,54.7313,10.7472,med,high,short,male,Hernandez
+Samoyed,30276.3794,54.1609,11.2055,med,high,med,male,Chang
+German Shepherd,34814.0159,61.3587,11.2644,med,med,med,male,Orozco
+Siberian Husky,20447.5401,56.2294,12.0234,low,med,med,female,Koch
+Samoyed,23761.65,53.969,10.5769,low,high,med,female,Roberts
+Samoyed,21242.0789,53.9147,10.1576,med,high,med,female,Smith
+Daschhund,7135.3121,20.9215,13.378,high,med,med,female,Mckee
+Samoyed,22604.7387,,11.7205,high,high,med,female,George
+German Shepherd,35690.1331,59.8831,10.6455,med,med,med,female,Nielsen
+Samoyed,26488.9298,55.7144,11.1334,med,high,long,male,Mcconnell
+Siberian Husky,19226.8216,54.1055,11.9316,high,med,short,male,Powell
+German Shepherd,38883.876,66.0384,11.306,med,high,short,female,Henry
+Daschhund,12217.6356,21.1139,12.056,high,med,short,female,Shepherd
+Siberian Husky,17134.2879,55.886,13.6321,med,low,med,female,Gonzalez
+Samoyed,21087.3452,52.3683,11.8996,low,high,med,male,Brooks
+Daschhund,7104.8339,,11.6576,high,med,short,male,Mccall
+German Shepherd,35605.9864,61.2119,10.9875,med,med,long,female,Webb
+Samoyed,21610.4299,52.8596,11.875,med,high,med,female,Kim
+Siberian Husky,18133.63,,11.6126,med,med,med,male,Rodriguez
+Siberian Husky,20733.3397,,13.6971,med,med,med,female,Mendez
+Siberian Husky,18305.7911,53.7893,12.6332,med,med,long,female,Valenzuela
+Daschhund,10350.242,20.8201,13.3293,high,med,short,female,Sanchez
+Daschhund,5031.2194,,12.9392,high,med,short,male,Jones
+German Shepherd,37430.872,59.1512,11.1079,med,med,med,male,Cole
+German Shepherd,35414.6923,,11.745,med,med,med,female,Reynolds
+Siberian Husky,19660.3082,,12.3739,med,high,med,male,Saunders
+Daschhund,6662.73,19.7992,14.1384,high,med,short,male,Atkins
+Daschhund,7909.7974,,13.3208,high,med,med,male,White
+Samoyed,26942.6497,54.6884,11.5118,high,high,med,male,Horton
+German Shepherd,34959.7649,63.0311,10.844,med,low,med,female,Smith
+Daschhund,9798.227,20.2706,13.2658,high,high,short,female,Malone
+Daschhund,11804.6241,21.7569,12.6119,high,med,short,male,Johnson
+Daschhund,7499.2186,20.5204,13.8635,high,med,short,female,Manning
+Daschhund,9770.4057,20.9073,12.8754,high,med,short,female,Wise
+Siberian Husky,19844.4167,51.6208,12.4726,med,med,short,male,Walker
+German Shepherd,36973.5593,57.9306,10.7005,med,med,med,female,Allen
+German Shepherd,35603.9794,,11.5263,med,med,med,female,Perez
+Siberian Husky,19782.9307,53.7898,10.4735,med,high,long,male,Lewis
+Samoyed,25298.1972,54.3768,9.8609,med,high,med,male,Garcia
+German Shepherd,36238.5494,62.5778,11.3152,med,med,med,male,Neal
+Siberian Husky,19523.0941,54.1543,11.5367,med,med,med,male,Sherman
+Samoyed,31763.1721,52.7222,11.4135,med,high,med,male,Glenn
+Samoyed,22972.6494,52.1359,10.0058,med,high,med,female,Johnson
+Samoyed,22440.624,52.7707,10.5922,med,high,med,male,Baker
+Daschhund,6539.6657,,13.3442,high,med,short,male,Mcguire
+German Shepherd,34225.9324,62.3617,11.4077,high,low,med,male,Ramirez
+Siberian Husky,18048.0332,55.4104,11.7192,high,med,med,female,Hardy
+Siberian Husky,19561.179,54.9688,10.9042,med,med,med,female,Hall
+Samoyed,24953.0444,53.0297,10.5229,med,med,med,female,Mcmillan
+German Shepherd,35378.3296,60.6593,11.1623,med,med,med,male,Gonzalez
+Siberian Husky,21704.2401,,11.8867,med,low,med,female,Watkins
+Siberian Husky,18082.3903,54.551,11.0906,med,med,med,female,Burns
+Siberian Husky,18780.6493,,11.7685,med,med,short,male,Greer
+Daschhund,12229.0177,21.5574,12.7963,high,med,med,male,Allen
+Siberian Husky,18283.3684,,11.2339,low,med,med,female,Thompson
+Samoyed,19681.1611,51.9488,11.4164,med,high,long,male,Horton
+Samoyed,25975.6444,55.5496,11.8356,med,high,med,female,Hicks
+Daschhund,16094.3853,20.5678,12.8177,high,med,short,female,Jensen
+Daschhund,12953.4128,20.3004,12.9586,high,med,short,female,Gonzales
+Siberian Husky,18365.947,53.0995,11.3381,med,med,med,male,Collins
+German Shepherd,38678.7602,62.3403,11.0448,high,med,long,female,Cooper
+Siberian Husky,17762.596,56.5575,12.6518,med,med,med,female,Ross
+Daschhund,9918.1109,21.3724,13.0756,high,med,short,female,Wagner
+German Shepherd,32858.0881,,11.402,med,med,med,female,Chapman
+Samoyed,18148.8672,55.8427,11.4036,low,high,med,male,Ellis
+German Shepherd,37039.9575,,9.8596,med,med,med,female,Smith
+Daschhund,10262.8691,21.6452,13.9838,high,low,short,male,Powers
+Daschhund,11309.826,21.9275,13.1743,high,med,short,male,Lane
+Samoyed,16932.6542,55.4601,10.6169,med,high,med,female,Fletcher
+Daschhund,18223.9516,20.32,13.0628,high,med,short,female,Owens
+Samoyed,25688.3327,53.7615,11.5434,med,high,med,female,Larson
+Siberian Husky,19476.4264,56.6892,12.4098,med,low,med,female,Byrd
+German Shepherd,36295.8487,58.7006,11.4918,med,med,long,male,Gibson
+German Shepherd,38086.3467,,11.4621,high,low,short,female,Green
+Daschhund,13485.1125,19.9944,12.9159,med,med,short,male,Wallace
+German Shepherd,36005.3738,,12.0136,med,med,med,male,Hamilton
+German Shepherd,39065.5155,60.9911,11.0645,med,high,med,male,Hart
+German Shepherd,36842.9115,60.588,10.5913,med,med,med,female,Hernandez
+Siberian Husky,17983.6035,,11.7068,med,high,med,male,Roth
+German Shepherd,36082.592,61.9808,10.4704,high,med,med,female,Rodriguez
+Samoyed,25013.4693,54.5662,11.1192,med,med,med,female,Carter
+German Shepherd,39004.6686,,12.4064,med,med,med,female,Flores
+German Shepherd,36068.8298,60.5769,9.8545,med,med,med,male,Robinson
+Siberian Husky,17695.5709,54.3814,10.9683,med,high,med,female,Crawford
+German Shepherd,37448.9289,62.2341,10.378,med,high,med,male,Turner
+Siberian Husky,19669.9109,57.1537,11.5894,med,med,med,female,Smith
+Daschhund,8634.7583,21.1509,12.9147,high,med,short,male,Harrington
+German Shepherd,34816.3507,61.9368,11.2692,high,med,long,female,Gomez
+German Shepherd,35817.6998,61.0941,11.882,med,med,med,male,Fox
+Daschhund,7314.7911,21.3323,13.0096,med,low,short,female,Mclaughlin
+Samoyed,21900.9318,51.3903,10.1692,med,high,med,male,Holt
+Samoyed,23465.6895,51.587,9.5666,med,high,med,female,Mack
+German Shepherd,38703.6945,61.3356,11.9519,low,med,med,female,Brian
+Daschhund,14089.891,,14.0045,high,med,short,male,Welch
+Daschhund,9817.1141,21.1659,12.972,high,high,short,male,Scott
+Daschhund,7548.0129,20.9737,12.6177,high,med,short,male,Crawford
+Daschhund,9205.7951,22.3762,12.2386,high,high,med,female,Cole
+Siberian Husky,17333.198,52.0713,11.4124,med,med,med,male,Jimenez
+Siberian Husky,17725.2615,,12.1409,med,med,short,male,Koch
+Siberian Husky,17321.7819,,11.8692,med,med,long,male,Kennedy
+Samoyed,21906.6384,,10.9098,med,high,med,male,Harrison
+German Shepherd,37126.9484,,12.0318,med,high,med,female,Collins
+German Shepherd,36419.4807,63.399,11.0174,med,med,med,male,Faulkner
+German Shepherd,37005.236,60.7675,10.4202,med,med,med,female,Little
+German Shepherd,34519.7547,61.7543,9.6849,med,high,med,male,Navarro
+Siberian Husky,19886.8632,57.0836,11.9476,med,med,short,female,Lee
+Siberian Husky,17212.7588,57.1813,13.1439,med,med,med,male,Sandoval
+Siberian Husky,16796.0391,54.8885,11.3756,med,med,med,female,Pena
+Samoyed,15911.7173,,11.3594,low,high,med,male,Cain
+Siberian Husky,15554.2135,58.4558,12.7292,med,med,short,female,Bailey
+Daschhund,10029.9273,20.5144,13.8286,high,med,short,female,Long
+Samoyed,18296.3476,54.4912,11.5549,med,high,med,male,Knight
+Samoyed,22435.0367,53.7305,11.037,med,high,med,female,Daniels
+Siberian Husky,19452.0866,52.8691,11.2454,low,low,long,female,Smith
+German Shepherd,34062.39,62.0296,11.1142,med,med,med,male,Salinas
+German Shepherd,38989.9664,60.5778,11.8216,med,med,short,female,Patel
+Samoyed,23160.0909,55.4375,11.1335,med,high,med,male,Armstrong
+Daschhund,8038.0439,20.5415,12.1176,high,med,short,male,Meyer
+Samoyed,22715.3023,,11.2997,low,high,med,female,Klein
+German Shepherd,36213.7846,60.5877,10.5974,med,med,med,female,Parker
+German Shepherd,38514.8326,60.2942,11.7222,med,med,med,male,Jones
+Samoyed,19167.2077,,10.7856,low,high,med,female,Thomas
+Samoyed,25235.169,,10.8731,med,high,med,female,Benjamin
+German Shepherd,38228.4285,60.1072,10.1205,med,med,med,female,Li
+Siberian Husky,17234.458,53.0732,11.844,med,med,long,female,Fischer
+Siberian Husky,18879.2952,55.4667,11.6507,med,med,short,female,Johnson
+Samoyed,22044.7228,,11.8791,med,high,med,male,Goodman
+Siberian Husky,17292.3455,54.879,12.745,med,med,med,female,Clark
+German Shepherd,39759.0622,58.2751,11.1487,med,med,med,female,Gibson
+Daschhund,9943.4423,20.9402,12.4748,high,med,short,female,Morris
+Samoyed,22259.4525,54.9644,11.4969,med,high,med,male,Parker
+Samoyed,25384.6194,,12.2176,med,high,med,male,Wagner
+German Shepherd,37020.9283,57.8271,11.6101,med,med,med,male,Rowe
+Samoyed,18878.7056,52.3615,12.3996,med,med,med,female,Ryan
+Siberian Husky,14479.4542,55.528,12.0669,med,med,med,male,Faulkner
+Siberian Husky,17401.7038,,12.2719,med,med,med,female,Norman
+German Shepherd,38899.6139,61.9314,10.8875,med,med,long,female,Hogan
+Samoyed,21637.5164,55.4618,11.4761,med,high,med,male,Bennett
+German Shepherd,37140.7529,62.6435,10.3876,high,med,med,male,Santana
+Siberian Husky,17281.1606,,12.2405,low,med,med,male,Wilson
+Samoyed,27462.2516,50.7385,11.0096,med,high,med,female,Grant
+Samoyed,25096.7674,50.4323,11.2731,med,high,short,female,Parks
+Samoyed,25857.9023,52.3758,12.6343,med,med,short,female,Ramirez
+Siberian Husky,17725.3588,53.0324,11.3002,med,med,med,male,Cantrell
+Siberian Husky,17689.4684,58.9713,11.3342,med,med,long,female,Jones
+Siberian Husky,18533.0806,53.3188,11.0253,low,low,med,male,Reed
+Daschhund,9793.025,20.873,13.8684,high,med,short,male,Cooley
+Siberian Husky,21045.1706,54.676,11.5696,med,med,short,male,Ward
+Siberian Husky,19136.9981,55.1774,12.0346,med,med,long,female,Roberts
+Siberian Husky,18019.9586,52.3705,13.3279,high,high,med,male,Wilson
+Samoyed,22690.9233,,11.2014,med,high,med,male,Garza
+Daschhund,7423.7175,21.8828,12.8291,med,med,short,female,Marshall
+Siberian Husky,19003.4665,53.9841,13.0935,med,med,med,male,Moore
+Daschhund,10626.3493,21.2656,12.3774,high,med,short,male,Holland
+Daschhund,11271.5066,21.5895,13.4859,high,med,med,male,Christensen
+Daschhund,9661.2114,21.8374,12.8617,high,med,short,female,Scott
+Daschhund,9065.3748,,13.4309,high,med,short,female,Davis
+German Shepherd,39094.6531,61.2289,12.1631,high,high,med,female,Alexander
+Samoyed,21873.0189,51.5796,10.7592,med,high,med,male,Wright
+German Shepherd,35856.2072,62.7493,11.6511,low,med,med,female,Lopez
+Samoyed,23441.3133,50.931,11.0022,med,med,med,male,Pace
+Daschhund,9081.3024,20.8557,11.9731,high,med,med,male,Williams
+Daschhund,14667.7876,21.6875,13.2502,high,med,short,male,Davis
+German Shepherd,39074.1588,,10.334,med,low,med,female,Gentry
+Siberian Husky,18721.3239,56.4575,12.4948,high,med,med,male,Marshall
+Samoyed,25344.1305,,11.2159,med,high,long,male,Frazier
+Samoyed,20202.0724,52.2796,11.1178,med,high,med,male,Kim
+Daschhund,10406.7236,20.8211,12.8762,high,low,short,female,Pearson
+Siberian Husky,21450.7492,53.8344,12.1755,med,med,med,female,Luna
+Daschhund,8415.1955,,13.5126,high,med,short,male,Thompson
+Samoyed,27025.8576,,11.4392,med,high,med,female,Watkins
+Samoyed,23131.3024,54.1935,11.366,med,high,med,female,Mendoza
+Siberian Husky,18661.7177,54.3711,11.6222,high,med,med,male,Simmons
+Daschhund,12434.9972,22.3682,13.699,high,med,short,male,Mccarty
+Siberian Husky,19577.223,55.3175,11.2753,med,med,med,male,Allison
+German Shepherd,37413.1821,62.6213,9.7282,med,med,med,male,Gomez
+Daschhund,8137.1215,20.9043,13.212,high,low,short,male,Bailey
+German Shepherd,35088.0068,58.2514,11.1582,med,med,med,male,Estrada
+Siberian Husky,19444.9169,56.9076,11.9079,low,med,med,male,Scott
+Siberian Husky,18483.2654,,11.5102,high,low,med,female,Campos
+Daschhund,4332.1486,20.3631,13.135,high,med,short,female,Martinez
+Siberian Husky,19752.4483,53.1716,12.146,med,high,med,male,George
+Samoyed,22907.9512,51.4406,11.3327,med,med,med,male,Ramirez
+Daschhund,9729.9224,21.5874,13.4602,high,med,short,male,Saunders
+Samoyed,18958.7105,53.2614,10.6853,med,med,med,female,Holt
+Siberian Husky,19249.277,52.8091,12.5918,low,med,short,male,Smith
+Samoyed,24785.0044,,10.6498,med,high,med,female,Perez
+Samoyed,21234.8299,50.6318,10.5807,med,high,med,female,Jennifer
+Samoyed,35114.836,53.7312,10.1639,med,high,long,male,Susan
+Daschhund,12125.771,22.0591,12.9878,high,low,short,male,Cooper
+Daschhund,10139.1095,20.725,13.0863,med,med,short,male,Reeves
+Daschhund,5070.6339,20.6425,12.5847,high,med,med,male,Turner
+Siberian Husky,18543.4639,56.058,12.1844,low,high,med,female,Simmons
+Daschhund,9626.9984,21.5372,12.9483,high,med,short,male,Payne
+Samoyed,10920.4191,55.2434,10.2243,med,high,short,female,Davis
+Siberian Husky,17639.8443,58.0025,11.5392,med,med,long,male,Ortiz
+German Shepherd,35643.8091,,11.9309,med,high,med,male,Lowery
+Siberian Husky,20268.0329,55.56,11.724,med,med,med,male,Lewis
+German Shepherd,36003.6235,59.8831,11.36,med,low,med,female,Edwards
+German Shepherd,39030.9293,62.245,10.7259,med,med,med,female,Atkins
+Daschhund,7159.0159,22.4428,12.2684,high,high,short,female,Thompson
+Siberian Husky,18906.7063,58.83,11.5399,med,med,med,female,Aguilar
+Daschhund,9498.2739,20.5094,12.3126,med,low,short,female,Landry
+Samoyed,19518.3399,,10.859,low,high,med,male,Johnson
+Siberian Husky,16015.9916,56.2391,11.4843,low,med,med,male,Hughes
+German Shepherd,37578.6559,58.6309,11.8295,med,med,med,female,Welch
+German Shepherd,35967.3166,61.312,11.0927,med,med,med,female,Sims
+Siberian Husky,19191.7085,,13.03,high,med,med,male,Decker
+Siberian Husky,19857.1043,,12.4001,med,med,med,female,Warren
+Siberian Husky,22153.7381,51.6593,11.7081,med,med,med,female,Holden
+Samoyed,23731.6767,55.6759,10.1747,med,high,med,male,Reynolds
+German Shepherd,35163.3199,63.1224,10.0507,med,med,med,female,Liu
+Samoyed,20115.5112,50.7175,10.5943,med,high,med,female,Walters
+Daschhund,6336.8637,21.2284,14.0299,high,med,short,male,Kirk
+German Shepherd,35951.3446,58.6095,12.1044,high,med,med,female,Ellison
+Samoyed,19431.9019,,11.4102,low,high,med,female,Acevedo
+Daschhund,11325.398,19.9976,12.766,high,med,short,male,Lindsey
+German Shepherd,35437.1504,60.8466,11.3908,med,med,med,male,Gray
+Siberian Husky,19901.4658,,11.4476,med,med,short,female,Callahan
+Samoyed,20252.2284,55.9655,11.8585,high,high,med,male,Richardson
+Daschhund,7121.9706,,12.7846,high,med,short,female,Moore
+Samoyed,20358.735,53.2017,10.132,med,high,med,female,Glover
+Siberian Husky,19727.0815,55.9946,10.9913,med,med,med,female,Phillips
+Siberian Husky,18076.7869,54.6942,12.5461,med,med,med,male,Bell
+Daschhund,5582.4901,20.2641,13.4038,high,med,short,male,Chen
+Samoyed,18779.403,53.2063,11.0153,med,high,med,female,Small
+Siberian Husky,16295.16,,11.0274,high,med,med,female,Dalton
+Samoyed,15544.4558,53.0733,10.9413,med,high,med,male,Thomas
+Samoyed,26890.1993,,11.5226,med,high,med,female,Wang
+Daschhund,9573.4037,,12.3778,high,med,short,male,Cooper
+Samoyed,25165.6906,55.289,10.9706,med,med,long,female,Smith
+German Shepherd,36191.4698,65.5214,11.1564,med,med,short,male,Jackson
+Samoyed,21612.4904,,10.8491,med,high,med,male,Costa
+Daschhund,9647.6639,21.2992,12.5494,high,med,short,female,Mccarthy
+Samoyed,27341.3473,53.7496,11.1465,med,med,med,male,Hurst
+Siberian Husky,18814.0877,57.9655,12.0803,high,med,med,female,Williams
+Daschhund,7971.3666,20.6997,11.4477,high,high,short,female,Danielle
+Daschhund,5069.2203,,12.3061,med,med,short,male,Walker
+German Shepherd,36044.4286,62.5012,11.4897,med,med,med,male,Gardner
+Daschhund,10727.2763,22.0525,12.9286,high,med,short,male,Bowers
+Siberian Husky,20519.6778,51.4531,12.4264,med,med,med,male,Goodman
+Daschhund,13529.1149,20.8126,13.5793,high,med,short,female,Thompson
+Siberian Husky,18497.8818,54.2784,12.5662,med,high,long,female,Mcclain
+German Shepherd,35720.0291,,11.4912,high,med,med,male,Gould
+Daschhund,13478.2199,20.4204,13.4952,high,med,short,male,Jacobs
+Samoyed,20835.2329,52.1807,10.5697,med,med,med,female,Chaney
+Daschhund,13661.3299,21.5342,12.3686,high,med,med,female,Mcclain
+Samoyed,23340.3463,53.2747,10.6016,med,med,long,male,Wagner
+Daschhund,9928.0323,20.6527,11.9325,high,med,short,female,Barr
+Siberian Husky,19511.7249,53.9686,12.798,low,med,med,female,Harrell
+Siberian Husky,19742.1928,,12.1308,low,med,short,female,Hill
+Siberian Husky,19951.9941,,12.8257,med,med,long,female,Melton

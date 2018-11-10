@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Airedale Terrier,20760.3848,,12.3516,high,high,med,male,Jimenez
+Airedale Terrier,20206.2127,56.9246,11.7185,high,high,med,female,Calhoun
+Airedale Terrier,20422.7437,,11.0263,med,high,med,male,Casey
+Beagle,11429.5939,35.0825,13.6995,med,high,med,male,Joseph
+Airedale Terrier,19280.9374,57.1608,11.9839,high,high,short,female,Becker
+Airedale Terrier,20211.2115,57.3381,10.3976,high,high,short,male,Williams
+Beagle,9153.6468,34.8146,14.0748,low,high,short,female,Martinez
+Golden Retriever,26759.3387,53.8108,12.6297,med,high,med,female,Barton
+Bloodhound,39960.6276,,7.4602,low,med,short,male,Lee
+Airedale Terrier,20051.3558,57.1008,12.917,high,high,med,male,Griffin
+Golden Retriever,30595.019,56.761,11.2995,med,high,med,female,Santiago
+Airedale Terrier,16656.8727,57.342,10.8153,high,high,med,female,Humphrey
+Beagle,9921.3727,,14.1135,med,high,short,female,Rogers
+Bloodhound,31860.3049,62.4212,8.5799,high,high,short,male,King
+Airedale Terrier,21049.9379,56.3184,12.9556,high,high,med,female,Brady
+Golden Retriever,28191.4949,,11.1214,med,med,med,female,James
+Bloodhound,41276.5193,64.0523,9.0,high,high,short,male,Johnson
+Airedale Terrier,20259.0076,57.3522,11.6524,high,high,med,female,Parker
+Bloodhound,44429.1232,,9.9935,high,high,short,male,Mills
+Bloodhound,36448.9054,,10.1852,med,high,short,male,Keller
+Beagle,10118.2456,34.9652,13.7638,med,high,short,female,Garcia
+Airedale Terrier,20371.3965,57.4108,12.1965,high,high,long,female,Vasquez
+Bloodhound,49392.2193,,9.3751,med,high,short,male,Rowe
+Airedale Terrier,18841.3605,57.7492,9.9444,med,high,long,male,Robbins
+Beagle,11169.9668,34.7378,12.2005,med,high,short,female,Peters
+Airedale Terrier,19011.7124,57.7103,11.6843,high,high,long,female,Wagner
+Bloodhound,35071.1528,,8.4906,low,high,short,female,Ibarra
+Airedale Terrier,20970.6695,,11.1126,high,med,med,female,Coleman
+Golden Retriever,32303.323,57.9169,12.7338,med,high,med,female,White
+Airedale Terrier,21082.3972,57.2563,11.1227,high,high,long,male,Williams
+Beagle,9307.5155,36.8056,14.3048,high,high,short,male,Young
+Golden Retriever,29638.8355,57.6113,10.0929,med,high,med,male,Roberts
+Bloodhound,51125.3312,,8.4729,med,high,short,female,Ray
+Bloodhound,40906.6119,64.524,7.1026,med,med,short,male,Fletcher
+Airedale Terrier,19917.6819,,11.005,high,high,med,female,Dennis
+Beagle,10440.3818,35.959,13.7792,low,high,short,female,Holloway
+Beagle,9465.0095,35.8344,13.8469,med,high,short,male,Hoffman
+Golden Retriever,27479.302,,11.5922,med,high,med,female,Smith
+Airedale Terrier,19990.2298,57.7396,11.3407,high,med,med,female,Harris
+Beagle,10602.4915,38.3946,12.9753,low,high,short,male,Collins
+Beagle,12847.0447,35.0901,11.3751,low,high,short,female,Taylor
+Bloodhound,45108.1404,,8.3831,med,high,short,female,Watson
+Airedale Terrier,19728.5533,56.2551,12.1182,high,high,med,female,Anderson
+Airedale Terrier,21876.6391,57.7609,10.433,high,high,med,female,Morris
+Airedale Terrier,19148.5443,57.7894,10.9398,high,med,med,female,Perez
+Airedale Terrier,19910.0319,,10.397,high,high,med,female,Barrera
+Bloodhound,44214.3841,62.2253,7.9144,low,high,short,male,Pitts
+Bloodhound,39573.4369,,7.7296,med,high,short,male,Adams
+Golden Retriever,34971.8589,58.6221,10.3713,med,high,long,male,Taylor
+Beagle,10565.8913,36.124,13.557,med,high,short,male,Andersen
+Beagle,8831.6014,35.7321,12.5547,high,high,short,male,Gay
+Golden Retriever,30062.504,55.6918,11.191,med,high,short,male,Pham
+Airedale Terrier,21253.4032,56.5225,11.2799,med,med,med,female,Jones
+Golden Retriever,27284.5815,59.0671,12.956,med,high,med,male,Underwood
+Bloodhound,39496.2682,60.8667,9.9181,med,med,short,male,Williams
+Airedale Terrier,20316.4055,57.4973,10.2123,high,med,med,female,Montgomery
+Bloodhound,42248.9187,61.7736,9.5213,med,high,short,female,Parker
+Beagle,11443.4822,,13.5242,low,high,short,female,Campbell
+Bloodhound,39747.2196,63.1358,7.5033,med,high,med,male,Hood
+Airedale Terrier,21354.8626,56.6419,12.8735,high,high,med,female,Hayes
+Airedale Terrier,20117.3872,57.1068,12.6891,high,high,med,male,Gonzalez
+Airedale Terrier,22020.6466,56.8102,10.7236,high,high,med,male,Soto
+Airedale Terrier,21075.0849,,10.906,high,high,med,female,Clark
+Beagle,8628.8598,36.9132,13.7058,med,high,short,female,Weber
+Airedale Terrier,19370.017,57.2147,10.7505,high,high,long,male,Freeman
+Bloodhound,36783.995,64.1996,8.5927,med,high,short,male,Jones
+Bloodhound,40016.1226,61.6991,8.6837,med,high,med,female,Kane
+Airedale Terrier,19355.0874,56.3118,11.5494,high,high,med,female,Smith
+Beagle,13643.0823,35.2717,12.3189,med,high,short,female,Cohen
+Golden Retriever,30217.8201,56.7907,11.8953,low,high,med,female,Johnson
+Beagle,12221.2627,36.6941,13.5506,med,high,short,male,Adams
+Bloodhound,43773.3402,64.0567,10.3517,med,high,med,female,Nguyen
+Bloodhound,47225.65,,6.9018,med,med,short,male,Dunn
+Airedale Terrier,21007.2313,56.0,10.8276,high,high,med,male,Fuller
+Golden Retriever,29876.9268,58.9842,12.3585,med,high,med,male,Miller
+Beagle,9969.4103,37.3136,13.7615,med,high,med,male,Bryant
+Golden Retriever,31900.3484,61.2125,11.9524,med,high,med,male,Frazier
+Airedale Terrier,22366.272,56.7603,11.1396,high,high,med,female,May
+Airedale Terrier,21630.73,57.6686,9.5153,high,high,short,female,Peterson
+Golden Retriever,32005.3167,56.768,11.2905,high,high,med,female,Conley
+Airedale Terrier,21031.5559,57.4347,13.1703,high,high,med,female,Wallace
+Airedale Terrier,21571.2772,57.2093,10.8246,high,high,long,male,Wood
+Beagle,8478.4538,38.9199,12.6323,high,high,short,female,Hill
+Bloodhound,43967.0889,62.8746,10.2306,med,high,short,male,Ramirez
+Airedale Terrier,19717.7001,56.5013,10.5077,high,high,short,female,Johnson
+Beagle,11666.1471,35.9292,14.1189,med,high,short,male,Marks
+Bloodhound,48404.7553,61.9218,9.1327,med,high,short,male,Lopez
+Bloodhound,41435.1932,64.0235,9.0019,med,high,short,female,Jones
+Airedale Terrier,19227.2706,56.129,11.2886,med,high,med,male,Phillips
+Bloodhound,44559.2302,64.1382,7.7147,med,high,short,male,Riley
+Golden Retriever,32148.1613,58.4867,10.9195,med,high,med,male,Garza
+Airedale Terrier,19482.7221,56.7802,10.8114,high,high,med,male,Williams
+Beagle,12102.0546,34.0729,14.2672,med,high,short,male,Huynh
+Airedale Terrier,19097.1359,57.4397,10.0167,high,high,med,male,Washington
+Beagle,8769.0583,36.7684,13.904,med,high,short,female,Miller
+Beagle,10965.3044,36.8466,13.6666,med,high,short,male,Gonzalez
+Beagle,11321.4863,35.9837,12.0495,med,high,short,male,Lewis
+Beagle,10867.6142,38.7585,13.9698,med,high,short,male,Doyle
+Bloodhound,42502.2489,,8.2385,med,high,short,female,Hood
+Airedale Terrier,17923.4904,57.8405,10.3888,high,high,med,male,Davis
+Golden Retriever,30842.2058,54.4919,12.3267,med,high,med,male,Wang
+Airedale Terrier,22786.3709,57.312,10.332,high,high,med,female,Moreno
+Bloodhound,44214.005,64.0103,9.6308,med,high,short,female,Williams
+Bloodhound,46781.9061,65.133,7.5714,med,high,short,male,Fuentes
+Bloodhound,48940.633,61.5162,7.8676,med,high,short,female,Diaz
+Bloodhound,41278.9959,63.6847,8.9007,med,high,short,female,Anderson
+Golden Retriever,23802.7057,56.8043,10.7373,high,high,med,male,Curtis
+Airedale Terrier,19868.4485,57.6296,11.9625,high,high,med,female,Cline
+Beagle,11988.0847,,12.0444,med,high,short,female,Lori
+Bloodhound,42472.1693,63.7261,6.5675,med,high,short,male,Brown
+Golden Retriever,28774.3205,57.2751,8.3476,med,high,med,male,Swanson
+Golden Retriever,30005.8618,55.7161,11.6303,med,high,med,female,Allen
+Bloodhound,38284.5229,,7.9496,med,high,short,male,Harris
+Beagle,10669.1261,32.8205,15.0176,med,high,short,female,Rice
+Airedale Terrier,20713.7308,,12.1317,high,high,med,female,Brooks
+Beagle,10391.6507,36.2824,12.7982,med,high,short,male,Garza
+Airedale Terrier,20725.579,57.7879,10.9985,high,med,med,male,Miller
+Golden Retriever,32089.9803,58.4025,10.0606,med,high,short,male,King
+Airedale Terrier,20794.2046,57.8185,11.6116,high,high,med,male,Christensen
+Beagle,9993.4288,36.0613,13.2263,med,high,short,male,Schmidt
+Beagle,11970.7154,35.3616,13.5044,med,med,short,female,Mitchell
+Golden Retriever,29737.6119,56.8791,11.8043,med,high,med,female,Keith
+Beagle,11346.6507,34.1053,13.3595,med,high,short,female,Williams
+Airedale Terrier,20778.087,57.1517,10.3902,high,high,med,male,Schwartz
+Beagle,10397.5637,,13.9407,med,high,short,female,Meyer
+Golden Retriever,35286.8254,55.4288,10.7717,med,high,med,male,Montgomery
+Golden Retriever,29612.1366,59.7816,12.1377,med,high,med,male,Rasmussen
+Golden Retriever,25765.9127,,11.1541,med,high,med,female,Miller
+Airedale Terrier,20243.4184,,11.1707,high,high,med,male,Anderson
+Golden Retriever,29259.9102,58.7269,10.2787,med,high,med,female,Berry
+Golden Retriever,27536.5332,55.8152,12.4983,med,med,med,male,Rose
+Golden Retriever,33974.2269,58.1919,10.9825,med,high,med,male,Coleman
+Golden Retriever,32750.125,60.1221,11.7217,med,high,med,female,Williams
+Golden Retriever,28067.5018,54.8584,11.0288,med,high,med,male,Pollard
+Beagle,10341.7367,37.2183,11.4053,med,high,short,male,Palmer
+Airedale Terrier,19191.3522,56.3837,9.9836,high,high,med,male,Hood
+Bloodhound,43372.8485,61.9866,7.8545,med,high,short,female,Stark
+Beagle,9209.7616,,12.6246,med,high,short,female,Russell
+Beagle,9565.3447,,14.0805,med,high,short,female,Morales
+Golden Retriever,29447.3649,58.1905,11.2785,high,high,short,male,Mullins
+Golden Retriever,24220.2852,55.1206,12.0741,med,med,med,female,Walker
+Golden Retriever,27061.2615,58.3122,11.9731,med,high,med,male,Rocha
+Golden Retriever,33067.9576,55.7541,11.4924,med,high,med,female,Green
+Bloodhound,49384.4511,62.2802,6.9283,med,high,short,female,Perez
+Golden Retriever,28946.439,57.3107,11.7191,med,high,med,female,Frank
+Bloodhound,45969.0608,,7.8293,med,high,short,male,Martinez
+Golden Retriever,32001.1073,,11.5867,med,high,long,male,Dennis
+Golden Retriever,30419.4932,55.6281,12.0317,med,high,med,male,White
+Beagle,8468.7723,35.7856,12.4628,med,high,short,male,Sanders
+Airedale Terrier,22126.0253,,11.8239,high,high,med,male,Armstrong
+Bloodhound,43322.337,64.3,7.6008,low,high,short,female,Jones
+Beagle,11112.9944,,12.2954,med,high,short,male,Hayes
+Beagle,9874.002,,13.0954,med,high,short,female,Kline
+Bloodhound,49219.0529,61.8157,7.8967,med,high,short,female,Brenda
+Golden Retriever,23919.3845,58.1243,10.1632,med,high,med,male,Carpenter
+Airedale Terrier,18877.5731,56.1946,11.3597,high,high,med,male,Garcia
+Airedale Terrier,16874.78,,13.3981,high,med,med,female,Roman
+Golden Retriever,31163.0553,56.7403,11.0122,med,high,med,male,Garrison
+Bloodhound,41271.1603,,8.3508,low,med,med,male,Wilson
+Beagle,12747.9787,35.3304,13.9967,med,high,short,male,Knox
+Golden Retriever,34021.8905,58.5526,10.1074,high,high,med,male,Martin
+Golden Retriever,28278.8426,57.2606,11.357,med,high,med,female,Gonzalez
+Airedale Terrier,20706.3334,56.5336,11.1704,high,high,short,female,Irwin
+Airedale Terrier,18720.8059,57.2874,10.1672,high,high,med,male,Lee
+Golden Retriever,26560.1197,57.168,11.7195,med,med,med,male,Robinson
+Airedale Terrier,22198.2742,56.1798,11.3256,high,high,long,female,Thomas
+Golden Retriever,35321.5757,,11.6103,high,high,med,male,Bowman
+Bloodhound,40157.6085,,9.4055,med,high,short,female,Soto
+Golden Retriever,29006.1886,57.1297,10.7908,low,high,long,male,Brown
+Bloodhound,36573.7137,,8.8386,high,high,short,female,Campbell
+Airedale Terrier,19652.3174,56.6338,12.4636,med,high,med,female,Lane
+Golden Retriever,29493.0346,57.0671,12.7807,high,high,med,male,Berry
+Beagle,9425.8325,36.2402,12.8406,med,high,short,male,Mckenzie
+Bloodhound,47559.539,64.7595,8.5256,med,high,short,female,Sims
+Golden Retriever,29573.8442,,12.2838,med,high,med,male,Jimenez
+Bloodhound,42633.5096,60.2819,10.1928,med,high,short,female,Jones
+Airedale Terrier,18877.1526,,12.2395,med,high,long,male,Black
+Airedale Terrier,20880.0109,56.4388,10.7051,high,high,med,male,Anthony
+Airedale Terrier,20227.8993,57.8715,12.4776,high,med,med,male,Flores
+Bloodhound,46916.0637,,8.884,med,high,short,male,Stevenson
+Airedale Terrier,19908.1486,56.5701,11.0544,high,high,med,female,Faulkner
+Airedale Terrier,17645.9866,57.9501,11.551,med,high,med,male,Willis
+Bloodhound,45643.6798,64.8739,9.2273,med,high,short,male,Estes
+Golden Retriever,29380.111,53.9337,11.9832,med,high,med,male,Sharp
+Golden Retriever,27835.5838,59.3268,11.4283,med,high,long,male,Daniels
+Beagle,9205.4667,34.3313,13.0779,med,high,short,female,Klein
+Beagle,10396.6661,,13.8726,med,high,short,female,Campbell
+Airedale Terrier,20909.2012,56.5157,11.3748,high,high,short,female,White
+Beagle,9554.8281,,12.19,med,high,short,female,Mills
+Airedale Terrier,21517.686,57.1806,12.6838,high,high,med,female,Cannon
+Beagle,10864.1362,,11.2294,med,high,short,male,Craig
+Airedale Terrier,22070.6885,57.1707,12.1141,med,high,med,male,Barnes
+Airedale Terrier,19628.1908,57.4282,12.9926,high,high,med,female,Russell
+Bloodhound,42626.8486,63.0058,9.3566,med,high,med,male,Martinez
+Bloodhound,44032.8823,64.0026,9.7116,med,high,short,male,Atkinson
+Beagle,12683.193,36.2841,14.4041,med,high,short,male,Hale
+Airedale Terrier,21247.6843,56.4399,11.162,high,high,med,female,Garza
+Golden Retriever,28520.5344,57.0698,10.8172,med,high,med,female,Wilson
+Golden Retriever,24014.0529,56.4377,10.6919,med,high,med,female,Walker
+Bloodhound,38647.1422,62.9809,9.161,med,high,short,female,Olsen
+Airedale Terrier,19769.9472,57.524,12.0679,med,med,med,male,Padilla
+Bloodhound,44731.5291,65.3533,7.5665,med,high,med,male,Irwin
+Airedale Terrier,19743.6307,,10.9159,high,high,med,male,Davenport
+Beagle,10339.355,36.9538,13.246,med,high,short,female,Gardner
+Golden Retriever,32209.7133,57.7774,9.5558,med,high,med,female,Cline
+Bloodhound,40805.5933,64.5809,7.3664,med,high,short,male,Schmidt
+Beagle,11368.5155,37.1432,13.2613,high,high,short,female,Wallace
+Airedale Terrier,18425.6286,56.4055,11.6681,high,high,med,female,Russell
+Golden Retriever,26291.4766,55.5362,11.9755,low,med,med,female,Bennett
+Golden Retriever,26821.7772,,9.6447,low,high,med,male,Johnston
+Beagle,10422.3048,36.5384,15.482,low,med,short,male,Gibson
+Bloodhound,44553.6467,66.5263,9.4136,high,high,short,male,Stewart
+Golden Retriever,27457.2255,55.1943,11.8633,med,high,med,male,Bishop
+Beagle,12979.3484,37.2095,13.5745,low,high,short,male,Simmons
+Airedale Terrier,19029.2546,,12.0184,med,high,med,female,Johnson
+Golden Retriever,27830.8464,,10.5418,med,high,short,male,Patterson
+Beagle,7637.4152,35.5237,15.1427,med,high,short,female,Medina
+Beagle,8952.1308,36.1556,13.0929,med,high,short,female,Fernandez
+Golden Retriever,24768.0797,59.9318,10.5148,med,high,med,male,Frank
+Bloodhound,46579.4285,66.7978,7.9203,med,high,med,female,Castillo
+Beagle,11446.7223,36.2119,12.0229,high,high,short,male,Welch
+Airedale Terrier,21481.0814,55.9181,12.9341,high,high,med,male,Gonzales
+Beagle,11638.1487,34.8833,11.9687,med,high,med,female,Mcdaniel
+Airedale Terrier,18603.0096,57.2348,11.9648,high,high,long,female,Gamble
+Airedale Terrier,20324.1402,55.9716,10.5968,high,high,long,male,Arnold
+Airedale Terrier,21615.8484,57.8166,11.424,high,med,med,male,Moore
+Airedale Terrier,19577.3892,,12.5985,high,high,med,female,Burns
+Beagle,10897.087,35.4354,13.8458,med,high,short,female,Walsh
+Beagle,9270.5401,31.8213,13.685,med,high,short,female,Carr
+Beagle,8197.6156,35.2157,14.4107,med,med,short,male,Orr
+Airedale Terrier,20230.2005,56.9977,12.7134,med,high,med,male,Wyatt
+Beagle,8805.9029,34.977,11.7551,med,med,short,female,Williams
+Beagle,9396.3316,34.2374,15.0942,med,high,short,male,Jones
+Bloodhound,37460.4806,63.4027,8.0581,med,high,short,female,Castillo
+Beagle,12052.9303,,13.037,med,high,short,male,Hanson
+Beagle,9613.4947,34.4996,12.5006,med,high,short,female,Cross
+Airedale Terrier,20430.2829,55.5103,10.0528,high,high,med,male,Gould
+Golden Retriever,28663.403,57.2212,11.7051,med,high,med,male,Harris
+Bloodhound,40423.8722,62.1291,7.048,low,high,short,male,Acosta
+Golden Retriever,31217.4428,58.4751,12.2059,med,high,med,female,Hardy
+Bloodhound,50701.8531,64.6134,6.6261,med,high,short,male,Schneider
+Beagle,14083.7486,37.7938,14.328,med,high,short,female,Henry
+Bloodhound,53451.6426,,9.0923,med,high,short,male,Rivera
+Bloodhound,35862.8965,62.2205,8.58,med,high,med,male,Delgado
+Golden Retriever,27344.3179,,12.7607,med,high,med,female,Moore
+Beagle,10212.3396,33.7764,13.9182,med,high,short,male,Salazar
+Beagle,9481.7877,36.3288,13.375,med,high,short,female,Ramirez
+Beagle,12219.24,,12.3872,med,high,short,female,Morales
+Airedale Terrier,19042.1713,56.9684,11.5357,high,high,med,male,Yates
+Beagle,10544.9617,36.7756,13.9862,low,high,short,female,Frazier
+Golden Retriever,26750.4308,56.2868,11.9517,med,high,long,male,White
+Bloodhound,39334.3057,61.7567,10.2561,med,high,short,male,Miller
+Beagle,8895.6521,36.8669,12.9259,med,high,short,male,Hanna
+Beagle,10542.6131,38.683,14.9914,med,high,short,female,Montgomery
+Beagle,9046.8689,34.834,13.1605,high,high,short,male,Carroll
+Bloodhound,48794.2256,,8.4781,high,high,short,male,Smith
+Airedale Terrier,21015.8097,56.3931,13.422,high,high,med,male,Gross
+Golden Retriever,30451.5181,57.2365,12.4167,med,high,med,male,Wiggins
+Golden Retriever,27743.3337,57.3973,10.7063,med,high,med,male,Jensen
+Golden Retriever,28031.5261,60.717,12.5988,low,high,short,male,Davis
+Airedale Terrier,20355.9731,56.5538,10.91,high,med,med,male,Edwards
+Beagle,10097.9319,33.6431,14.0383,med,high,short,male,Green
+Golden Retriever,34152.2109,61.0728,10.2309,med,high,med,male,Kelly
+Beagle,10128.3691,34.9755,13.3322,med,high,short,male,Clark
+Bloodhound,47544.3526,,8.6034,low,high,short,male,Jordan
+Airedale Terrier,20957.3995,58.038,12.2425,high,med,med,female,Cooke
+Golden Retriever,31205.0749,,11.7573,med,med,med,female,Gibson
+Bloodhound,39656.4293,61.5174,7.9251,med,high,short,female,Roberts
+Golden Retriever,33332.8362,59.497,11.9942,low,high,short,male,White
+Golden Retriever,29745.5985,57.7485,12.3506,med,high,short,male,Wang
+Beagle,10463.0363,,14.5721,med,high,med,male,Stevens
+Golden Retriever,25163.0473,57.0479,11.0808,low,high,med,male,Christensen
+Airedale Terrier,20424.0444,57.3537,13.7477,high,high,long,female,Lowe
+Airedale Terrier,20943.1619,56.8263,11.2225,high,high,med,male,Scott
+Golden Retriever,28941.752,57.2327,10.8927,med,med,med,female,Shelton
+Golden Retriever,30209.6766,,10.3994,low,high,med,male,Rios
+Golden Retriever,30521.8458,,10.9312,med,high,long,male,Beasley
+Beagle,9643.0786,33.8442,14.2788,med,high,short,male,Duncan
+Beagle,10346.3407,33.845,12.2952,med,high,short,female,Marks
+Beagle,11571.1987,33.0436,12.5305,med,high,short,male,Rollins
+Bloodhound,35772.3378,,10.4845,med,med,short,female,Sims
+Golden Retriever,32146.9188,58.5318,12.922,med,high,short,male,Mckinney
+Airedale Terrier,18243.5538,,11.4486,med,high,med,female,Miller
+Airedale Terrier,17694.6443,56.3914,11.1186,high,high,short,female,Hughes
+Bloodhound,41377.9003,63.4119,6.4272,med,high,short,female,Johnson
+Airedale Terrier,21558.7475,57.5962,11.8325,high,high,long,male,Bennett
+Airedale Terrier,20278.2999,,10.7251,high,high,med,male,Vaughn
+Airedale Terrier,19424.3132,57.0502,11.8075,high,high,med,male,Jackson
+Airedale Terrier,22014.8598,56.224,11.1379,high,high,med,male,Adams
+Airedale Terrier,22024.2063,,10.4229,high,high,short,female,Lane
+Airedale Terrier,17611.7488,56.882,10.9597,high,high,med,female,Rivera
+Airedale Terrier,22189.3608,56.9375,12.7119,high,high,med,male,Rose
+Beagle,9500.1501,33.1156,14.4562,med,high,short,female,Fowler
+Bloodhound,41602.253,62.8893,9.1014,med,med,short,female,Austin
+Airedale Terrier,21289.1083,,11.5705,med,med,med,female,Cunningham
+Airedale Terrier,21385.6203,54.9884,11.4773,high,high,med,female,Rodriguez
+Bloodhound,46042.2557,62.5147,9.9619,med,high,short,female,Natasha
+Airedale Terrier,22555.9743,56.7755,11.8426,med,high,med,female,Harris
+Bloodhound,40503.6012,65.2952,7.5722,med,high,short,female,Cabrera
+Bloodhound,45166.5666,64.8617,10.1108,med,high,med,male,Nelson
+Golden Retriever,26243.8558,59.2871,12.149,med,med,med,female,Jones
+Airedale Terrier,20486.8264,56.8696,11.1809,high,high,med,female,Ross
+Beagle,7787.5587,35.639,14.3443,med,high,short,male,Conway
+Beagle,9121.6788,36.4637,14.3578,med,high,short,male,Young
+Airedale Terrier,20585.1384,58.8019,11.135,high,high,med,male,Johnson
+Airedale Terrier,19376.384,57.4571,13.1855,high,med,med,female,Scott
+Airedale Terrier,23842.189,56.7781,11.8494,high,high,med,female,Preston
+Beagle,10344.0794,34.2905,12.4579,med,high,short,female,Sosa
+Airedale Terrier,17296.0721,56.8335,11.1001,high,high,med,male,Love
+Bloodhound,42041.0,63.5603,7.1003,med,med,med,female,Fisher
+Bloodhound,43827.3357,,9.6404,med,high,short,male,Joanne
+Golden Retriever,32588.3841,58.8206,9.9997,med,high,short,male,Gonzalez
+Bloodhound,45040.5388,,9.2537,med,high,short,male,Hardy
+Golden Retriever,28062.1531,57.0964,11.8222,med,high,med,male,Rhodes
+Airedale Terrier,19029.8874,57.4084,11.2141,high,high,med,male,Martinez
+Golden Retriever,31285.2845,,12.4183,med,high,med,male,Lewis
+Golden Retriever,27978.2583,58.7089,11.372,med,med,med,male,Sawyer
+Beagle,9983.2243,38.5596,14.7637,med,high,short,female,Weaver
+Airedale Terrier,19449.6511,56.6545,12.0769,high,high,long,female,Marshall
+Bloodhound,41704.3889,64.1342,7.1619,med,high,short,male,Contreras
+Bloodhound,38145.2655,63.4132,9.7296,med,high,short,male,Daniel
+Airedale Terrier,19544.5044,57.6082,10.7635,high,high,med,female,Garcia
+Airedale Terrier,20016.1047,58.131,10.5618,high,high,med,female,Martin
+Bloodhound,41630.6579,63.6591,9.3357,low,high,short,male,Tyler
+Beagle,12788.4456,35.5218,13.4993,high,high,short,male,Schmidt
+Bloodhound,43891.7171,62.7524,7.4972,med,high,short,male,Silva
+Airedale Terrier,21325.5117,57.6795,12.7472,high,high,med,male,Turner
+Bloodhound,49084.4545,66.4162,7.3753,med,high,short,male,Wells
+Golden Retriever,26102.1025,59.2006,10.9761,med,high,med,male,Brown
+Airedale Terrier,18855.3072,56.2206,11.0739,high,high,med,female,Williams
+Beagle,8092.9269,,14.5862,med,high,short,female,Harris
+Beagle,7465.0416,35.7469,13.7531,high,high,short,female,Buck
+Beagle,11003.055,34.4367,12.8351,med,high,short,female,Smith
+Bloodhound,46173.4422,63.1761,10.3481,med,high,short,male,Cline
+Golden Retriever,32789.2158,59.8051,10.9841,med,high,med,male,Morrison
+Golden Retriever,29836.0538,,12.248,med,high,med,female,Thompson
+Airedale Terrier,16135.5096,57.0187,11.3317,high,med,med,female,Wilson
+Beagle,11863.0058,,14.8686,med,high,short,female,Ross
+Airedale Terrier,19504.8148,56.8931,11.8421,high,high,med,female,Davis
+Bloodhound,47915.429,63.6635,8.5739,med,med,short,male,Barrera
+Airedale Terrier,15475.1223,56.1102,11.2422,high,high,med,male,Hall
+Airedale Terrier,18720.8915,56.2758,12.2412,high,high,med,male,Lopez
+Beagle,13069.3465,33.4517,13.3864,high,high,short,female,Carroll
+Beagle,7997.2306,35.1654,13.6171,high,high,short,female,Lewis
+Bloodhound,41940.5339,63.876,7.5248,med,high,med,male,Johnston
+Bloodhound,40676.9588,64.4544,6.5141,med,high,short,male,Kimberly
+Airedale Terrier,19159.7511,57.8042,11.6709,high,high,med,female,Mccoy
+Golden Retriever,25569.9483,57.2433,10.158,med,high,short,female,Martinez
+Beagle,8832.518,38.6201,13.5013,med,high,short,male,Pena
+Beagle,11544.4045,35.2491,13.1122,med,high,short,female,Morris
+Bloodhound,41751.9842,61.887,9.8468,med,high,med,female,Page
+Airedale Terrier,19699.4051,,11.9266,high,med,med,male,Brown
+Golden Retriever,26144.1753,,11.3609,med,high,long,male,Parks
+Golden Retriever,31933.3946,,12.0427,med,high,med,female,Nguyen
+Bloodhound,42029.6138,65.0351,8.2955,med,med,med,male,Perez
+Beagle,10180.6281,,13.7823,high,med,med,male,Steele
+Airedale Terrier,21979.7342,57.5537,12.4675,high,high,med,female,Mendez
+Golden Retriever,30936.8437,55.1347,10.1563,low,high,med,male,Lozano
+Golden Retriever,27326.4361,,12.5172,med,med,med,male,Coleman
+Airedale Terrier,18259.1903,56.793,13.4854,high,high,med,female,Huffman
+Beagle,10061.7504,33.1473,14.4191,med,high,short,female,Santiago
+Bloodhound,39973.3221,65.7706,7.8815,med,high,short,female,Ochoa
+Golden Retriever,30255.3747,59.4619,11.7826,med,high,long,male,Henderson
+Airedale Terrier,21194.3241,56.6283,12.2467,high,high,med,male,Lindsey
+Beagle,10505.8341,,13.793,med,high,short,female,Jones
+Golden Retriever,31428.3189,56.6377,10.8595,med,high,med,female,Sanders
+Bloodhound,41814.5288,,9.4502,med,high,short,male,Warren
+Airedale Terrier,20525.6899,56.9118,12.5933,high,high,med,male,Alexander
+Beagle,9289.7556,36.4123,11.9594,med,high,short,male,Sanchez
+Golden Retriever,27003.0984,58.0436,10.9714,high,high,med,male,Hart
+Beagle,10053.5576,,12.0442,med,high,short,female,Jordan
+Beagle,8949.4881,37.1546,14.0565,low,high,short,male,Nguyen
+Beagle,10727.2996,34.8504,13.3712,med,med,short,female,Garcia
+Beagle,9492.1539,,13.9329,med,high,short,male,French
+Golden Retriever,31868.6463,55.7464,11.9709,med,high,med,female,Fernandez
+Airedale Terrier,20208.0583,56.8308,10.9218,high,high,med,female,Hunt
+Beagle,9507.9359,37.4931,12.7653,med,high,short,male,Kerr
+Beagle,9621.8168,35.7563,13.4299,med,high,short,female,Briggs
+Airedale Terrier,18295.3823,56.8234,11.0002,high,high,med,female,Silva
+Bloodhound,42315.503,,9.9391,med,high,short,male,Johnson
+Airedale Terrier,19012.5042,56.9268,10.2174,high,med,med,male,Guerrero
+Golden Retriever,28267.9035,58.4824,11.266,high,high,med,female,Moore
+Bloodhound,45790.0407,62.8337,8.8651,med,high,short,female,Butler
+Golden Retriever,27495.0033,59.9041,10.8842,med,high,med,male,Schmidt
+Golden Retriever,28359.5357,59.1492,11.1928,high,high,med,female,Garcia
+Airedale Terrier,21259.841,56.7662,12.9834,high,med,med,female,Calhoun
+Bloodhound,39475.6442,62.8562,10.1203,med,high,short,female,Thompson
+Bloodhound,41305.8441,61.8252,9.0787,med,med,med,female,Brown
+Golden Retriever,24960.6036,59.6031,10.7483,med,high,med,male,Brooks
+Bloodhound,44920.7714,63.2099,7.7788,high,high,short,male,Alexander
+Golden Retriever,28763.3307,58.0828,12.4255,med,high,med,male,Bowers
+Airedale Terrier,20316.498,,12.6128,high,high,med,female,Ramos
+Bloodhound,41669.0297,64.7396,9.6563,med,high,short,female,Robinson
+Airedale Terrier,19791.2504,56.6374,11.7919,high,high,long,male,Cummings
+Bloodhound,39764.3954,63.6123,8.8598,med,high,short,female,Smith
+Airedale Terrier,17594.3461,56.4799,10.2017,high,high,med,male,Daugherty
+Airedale Terrier,21499.3979,58.173,11.3921,high,high,med,male,French
+Golden Retriever,29072.988,60.3734,11.4694,med,high,short,female,Steele
+Golden Retriever,33293.583,59.0367,11.1947,med,high,med,male,Shields
+Bloodhound,40548.3529,63.6059,8.5696,med,high,short,female,Hall
+Beagle,11452.3694,31.8796,12.296,low,high,short,male,White
+Beagle,12924.3539,,13.8655,med,high,short,male,Sawyer
+Bloodhound,40335.5815,61.2535,7.8288,med,high,short,male,Silva
+Golden Retriever,28411.8071,54.7695,11.4686,med,high,med,female,Booker
+Beagle,11081.9871,33.6294,12.5177,low,high,short,male,Dickson
+Beagle,11012.6382,35.0903,13.8793,high,high,short,female,Perez
+Bloodhound,46220.4668,65.2972,7.5681,med,high,short,female,Owens
+Golden Retriever,28854.9351,56.2144,12.1755,med,high,short,male,Campbell
+Bloodhound,45182.707,64.8715,8.5364,high,med,short,female,Mccormick
+Beagle,10382.7071,35.1155,14.2921,med,high,short,male,Webb
+Golden Retriever,31910.3796,57.111,11.9535,med,high,med,female,Ford
+Beagle,8872.0643,36.1148,14.9337,high,high,short,female,Gibson
+Golden Retriever,28870.894,,10.5831,med,high,med,female,Krueger
+Golden Retriever,27419.9187,55.8613,10.5269,low,high,med,female,Smith
+Beagle,11574.1167,33.8517,12.1987,med,high,short,male,Armstrong
+Golden Retriever,27918.6422,,12.9506,med,high,med,male,Dixon
+Airedale Terrier,22866.2617,,11.6971,high,high,med,male,Daugherty
+Golden Retriever,28513.8682,,11.4743,med,high,short,female,Morris
+Golden Retriever,27363.0544,56.804,11.2558,med,high,med,male,Rivera
+Bloodhound,40151.9441,64.4473,8.0147,med,high,short,female,Myers
+Beagle,11028.2901,,14.0588,low,high,short,male,Gross
+Bloodhound,46463.744,62.4187,8.158,med,high,short,female,Abigail
+Airedale Terrier,21502.558,56.5481,10.6373,high,med,med,male,Pearson
+Golden Retriever,26962.5849,58.1783,11.4704,med,high,long,male,Mcdonald
+Beagle,7361.2467,37.0247,14.0008,low,high,short,female,Kirby
+Airedale Terrier,19226.8908,56.8705,11.7816,med,high,long,female,Hatfield
+Airedale Terrier,21810.4154,56.3358,11.2802,high,high,med,male,Brown
+Airedale Terrier,21446.6493,56.6693,11.7353,high,high,med,female,Mccoy
+Beagle,10930.029,,12.5398,med,high,short,male,Casey
+Airedale Terrier,21948.885,58.5975,11.3311,high,high,med,male,Brown
+Airedale Terrier,21764.3302,,12.212,high,high,long,male,Ramos
+Bloodhound,44116.5359,65.5558,9.1405,low,med,short,female,Jimenez
+Airedale Terrier,21429.3764,57.6542,11.3758,high,high,long,female,Mccarthy
+Bloodhound,36761.1817,61.6501,8.7667,med,high,short,male,Oconnor
+Beagle,9625.4012,35.8539,14.3675,med,high,short,male,Smith
+Beagle,10901.2205,31.5348,15.574,med,high,short,female,Meyers
+Airedale Terrier,21478.0065,57.2873,12.3901,high,high,med,male,Rivera
+Bloodhound,41438.4761,64.3996,8.6251,med,high,short,female,Young
+Airedale Terrier,20426.7444,,11.2595,high,high,med,male,Vazquez
+Airedale Terrier,20863.4233,57.4314,11.861,high,high,med,female,Adams
+Beagle,8853.053,35.6413,12.0416,med,high,short,male,Thompson
+Airedale Terrier,21972.3106,,11.3226,high,med,med,female,Barrett
+Beagle,11561.5121,31.8398,13.4565,low,high,med,male,Rivera
+Bloodhound,42161.5675,64.6887,8.2748,med,high,short,female,Castro
+Beagle,11431.1359,35.5223,13.0778,med,high,short,male,Brown
+Golden Retriever,30184.0516,56.7077,12.9388,med,high,med,male,Patel
+Beagle,12041.0581,36.4228,13.1716,high,high,short,male,Lowery
+Beagle,9108.1848,36.7052,13.5009,high,high,short,male,Martinez
+Golden Retriever,31625.5903,,11.0031,med,high,med,male,Williamson
+Golden Retriever,32052.519,61.7906,10.6466,med,high,med,female,Ryan
+Golden Retriever,28934.8796,56.3605,11.4531,med,high,med,female,Callahan
+Airedale Terrier,20306.2908,56.9553,10.6148,high,high,med,male,Turner
+Bloodhound,38008.1714,63.3534,8.1115,med,high,short,female,Conway
+Airedale Terrier,19082.7243,57.305,10.1375,med,high,med,female,Smith
+Beagle,9130.3355,,13.5619,med,high,short,female,Hull
+Golden Retriever,28530.7258,,11.3463,med,med,med,female,Hernandez
+Beagle,11838.9368,,14.1306,low,high,short,female,Khan
+Airedale Terrier,20518.0991,57.6538,12.4851,high,high,med,male,Turner
+Airedale Terrier,22324.7052,,11.6801,high,high,med,male,Hill
+Beagle,10937.9931,33.0988,12.328,med,high,short,male,Shaw
+Beagle,12705.4742,34.0443,13.9134,med,high,short,female,Harris
+Bloodhound,41739.1992,63.9417,9.7157,med,med,short,male,Franklin
+Airedale Terrier,22117.3943,,10.2797,high,high,med,female,Collier
+Airedale Terrier,21068.7678,,10.5818,high,high,med,male,Clayton
+Bloodhound,40334.3247,64.6793,10.588,high,med,short,male,Johnson
+Golden Retriever,29272.9633,54.7432,12.1415,med,high,med,female,Harris
+Golden Retriever,31694.9529,,12.8246,low,high,med,female,Miller
+Golden Retriever,26376.3627,56.0015,13.7272,med,high,med,male,Hawkins
+Airedale Terrier,21369.9428,56.7529,10.4891,high,high,med,male,Bennett
+Bloodhound,39778.6988,64.6714,7.9398,med,med,med,female,Smith
+Golden Retriever,26332.4173,59.0547,10.8204,med,high,short,male,Wright
+Beagle,11722.2112,34.7832,14.5535,med,high,short,male,Johnson
+Beagle,7725.8365,37.5855,14.0622,med,high,short,female,Cruz
+Bloodhound,51709.8842,62.4002,8.4149,med,high,short,female,Rivera
+Bloodhound,43232.711,62.931,8.1429,med,high,short,male,Murray
+Beagle,7850.4429,,15.5467,low,high,short,female,Calhoun
+Airedale Terrier,20695.7012,56.0406,12.6207,high,high,med,male,Hartman
+Bloodhound,41299.5397,62.9948,9.3563,med,high,short,female,Torres
+Golden Retriever,32670.5204,55.4113,11.5085,med,med,med,male,Washington
+Airedale Terrier,20201.2729,56.8463,12.3751,high,high,med,male,Flores
+Beagle,11233.6854,34.5554,13.9122,med,high,short,male,Matthews
+Bloodhound,36936.4555,62.5461,8.0513,med,med,short,female,Mclean
+Beagle,13928.9339,35.9214,13.2256,med,high,short,female,Lewis
+Airedale Terrier,19371.8555,56.6515,11.0864,high,high,med,male,Morrow
+Bloodhound,50159.4042,,8.0607,med,high,short,female,Lawrence
+Beagle,10507.0102,34.8201,12.74,low,med,short,female,Hutchinson
+Beagle,13515.0758,33.0243,13.9649,med,high,short,male,Miller
+Bloodhound,41178.1572,64.6298,7.6382,med,med,short,female,Nunez
+Golden Retriever,29194.6206,59.5441,12.2431,med,high,med,female,Anderson
+Beagle,11743.1582,37.2241,12.8796,med,high,med,male,Rodriguez
+Golden Retriever,26645.8247,59.7688,12.1971,med,high,med,male,Barker
+Airedale Terrier,20646.4501,55.9473,11.5929,high,high,med,male,Young
+Golden Retriever,28692.4471,55.8193,9.7888,med,high,short,female,Lindsey
+Bloodhound,38617.117,62.4462,9.7271,med,med,short,female,Davis
+Beagle,11222.9782,37.3246,13.3729,med,high,short,female,Kirk
+Bloodhound,43396.0087,61.6488,8.4216,med,high,short,male,Sanders
+Airedale Terrier,20997.2503,56.4959,11.2167,med,high,med,male,Flynn
+Airedale Terrier,21304.1058,56.4612,10.7043,high,med,med,male,Martinez
+Golden Retriever,28438.3709,56.1588,12.5241,low,med,med,female,Martin
+Airedale Terrier,22103.2879,57.0669,11.0813,high,high,med,male,Salazar
+Beagle,11164.9969,,14.1385,low,high,short,female,Hunt
+Bloodhound,50061.7021,,7.3332,med,high,short,female,Shepard
+Bloodhound,41469.3532,63.4269,7.4137,med,high,short,male,Robbins
+Airedale Terrier,22411.5697,56.9649,10.9596,high,high,med,male,Wagner
+Bloodhound,43945.8391,64.9296,8.7684,med,high,short,male,Wright
+Airedale Terrier,24833.0309,56.8241,10.063,high,high,med,male,Ford
+Beagle,7261.0152,37.0242,13.5933,med,high,short,male,Ward
+Beagle,8047.4318,34.6123,13.9727,med,high,short,male,Reid
+Airedale Terrier,22193.8741,56.6212,10.2879,high,high,med,male,Gray
+Golden Retriever,29414.8128,61.3084,11.4494,high,high,med,female,Ramirez
+Bloodhound,39744.8469,61.2625,7.8143,high,med,short,female,Allen
+Beagle,10884.083,34.3419,11.4775,med,high,short,female,Adams
+Beagle,12007.0981,,12.9024,med,high,short,male,Malone
+Golden Retriever,30951.1012,57.6666,9.8843,med,high,med,male,Quinn
+Golden Retriever,33673.7675,57.0224,12.1845,low,high,med,female,Oliver
+Golden Retriever,31728.2376,57.1042,13.2119,med,high,med,male,Sweeney
+Bloodhound,38408.6599,62.8261,7.2371,high,high,short,female,Anderson
+Golden Retriever,27346.5841,58.1655,12.5438,med,high,med,female,Dyer
+Beagle,9409.8151,,12.0562,med,med,short,male,Howard
+Bloodhound,52641.1464,63.8831,6.3227,high,med,short,female,Franco
+Airedale Terrier,21972.6867,57.9055,11.3531,high,high,short,female,Sanchez
+Airedale Terrier,19505.3499,58.1565,10.8422,high,high,med,male,Norman
+Beagle,10231.1899,36.5545,14.69,high,high,med,female,Newman
+Beagle,9899.2757,,12.5633,high,med,med,male,Adams
+Bloodhound,52511.5588,66.9675,7.9442,med,med,short,male,Cooper
+Bloodhound,40770.6676,64.0929,7.0651,high,high,short,male,Griffin
+Beagle,12461.1775,30.6877,12.9044,med,high,short,female,Hayes
+Airedale Terrier,21924.0926,57.0025,11.113,high,high,med,female,Gilbert
+Bloodhound,43728.0324,61.8534,9.7916,med,high,short,female,Horton
+Golden Retriever,30829.2938,60.2511,13.9488,low,high,med,female,Hernandez
+Golden Retriever,30487.7404,53.5825,12.0724,med,high,med,female,Brown
+Airedale Terrier,22103.2929,57.8554,12.5632,high,high,med,female,Bond
+Golden Retriever,26233.0106,59.0801,14.0702,med,high,med,female,Rodriguez
+Airedale Terrier,19213.005,57.6347,12.2754,high,high,long,female,Harris
+Golden Retriever,27830.4999,59.6745,11.1463,low,high,med,male,Tran
+Beagle,8647.1745,34.7832,14.413,high,high,short,male,Jennings
+Beagle,9832.2554,36.5354,14.2595,med,high,short,female,Kennedy
+Bloodhound,43207.5981,63.7758,9.106,med,med,short,male,Benjamin
+Airedale Terrier,22148.7196,56.7469,13.5337,high,high,med,male,Summers
+Bloodhound,52524.164,64.7592,8.3342,high,med,short,male,Long
+Beagle,12138.7354,34.3879,13.0836,med,high,short,female,Reeves
+Bloodhound,39577.8973,,7.7744,high,high,short,male,Bruce
+Golden Retriever,27367.8534,,12.6515,med,high,med,female,Martinez
+Golden Retriever,28061.8216,59.4663,11.0578,med,high,med,male,White
+Golden Retriever,32928.9358,57.9849,10.3302,med,high,med,male,Price
+Golden Retriever,24089.0945,57.7764,10.3776,med,high,med,female,Flores
+Beagle,10204.1647,34.8399,14.0063,high,high,short,female,Barajas
+Airedale Terrier,22888.1451,57.0224,11.9319,high,high,long,male,Rodriguez
+Airedale Terrier,20845.9992,57.2892,10.9464,med,high,short,male,Wallace
+Golden Retriever,28929.9726,58.5499,12.332,med,high,med,female,Lowery
+Beagle,10020.6378,,14.0482,med,high,short,male,George
+Golden Retriever,27797.9375,61.1556,11.8524,med,high,long,male,Chen
+Bloodhound,39605.6502,63.7313,9.8468,med,med,short,female,Horne
+Beagle,10227.5251,35.689,12.7143,med,high,short,female,Craig
+Bloodhound,54332.0119,,6.8459,high,high,short,male,Alvarez
+Golden Retriever,28153.9668,,11.1001,med,high,med,male,Mcdonald
+Golden Retriever,29581.4495,59.6821,10.9457,med,high,med,female,George
+Airedale Terrier,22974.5861,,12.8818,high,high,short,female,Cook
+Bloodhound,47002.0312,64.1568,7.4622,med,high,short,female,Jones
+Bloodhound,45572.3558,64.8353,9.6479,med,high,short,male,Baker
+Golden Retriever,31643.835,61.5962,9.5994,med,high,med,male,Hopkins
+Bloodhound,42795.1202,59.8045,10.2492,med,med,short,male,Rodriguez
+Golden Retriever,30977.4617,56.0906,12.9586,high,high,med,male,Bryant
+Golden Retriever,30181.0788,57.5891,12.0399,med,high,med,male,Robinson
+Golden Retriever,26364.6926,58.5294,13.3586,med,high,med,female,Williamson
+Bloodhound,47181.936,64.0797,9.3031,med,high,short,female,Washington
+Beagle,11431.6343,36.5732,13.1846,high,high,short,female,Jones
+Beagle,9897.2286,35.7605,14.7568,low,high,short,female,Brown
+Airedale Terrier,21896.5168,56.8859,11.1977,high,high,short,male,Williams
+Airedale Terrier,21487.5611,58.3565,11.7206,med,high,short,female,Werner
+Beagle,10820.0336,36.1384,13.4281,low,high,short,female,Flores
+Beagle,10991.678,,14.8478,med,high,short,male,Price
+Bloodhound,39727.407,64.5385,8.9917,med,high,short,female,Diane
+Bloodhound,44778.5799,68.5007,8.9449,med,med,short,female,Berger
+Airedale Terrier,18471.8397,57.0613,10.5682,high,high,med,male,Johnson
+Golden Retriever,25804.6188,,11.3633,high,high,med,female,Archer
+Beagle,9348.8393,,14.1814,med,high,med,female,Giles
+Beagle,9472.1313,33.4241,12.7236,high,high,short,male,Smith
+Bloodhound,37949.3091,65.0564,7.9103,low,high,short,male,Rodriguez
+Beagle,10345.3446,36.3792,14.6233,med,high,short,male,Cain
+Bloodhound,37634.8559,65.3717,7.1943,med,high,short,male,Pearson
+Golden Retriever,26372.0606,55.3175,11.5387,med,med,med,female,Santos
+Beagle,8943.8543,36.1665,12.5013,med,high,short,male,Robinson
+Bloodhound,39436.1351,61.067,10.0449,high,high,short,female,Mitchell
+Golden Retriever,31003.9883,59.3099,11.6072,med,high,med,female,Wang
+Golden Retriever,27550.9704,57.2957,10.7501,med,high,long,male,Ali
+Bloodhound,42986.7681,,8.8161,med,high,short,female,Roach
+Beagle,8453.167,,12.9728,med,high,short,female,Alexander
+Golden Retriever,33250.5173,,13.0561,med,high,med,female,Burke
+Beagle,11600.8154,34.4329,14.2665,med,high,short,male,Davis
+Bloodhound,49279.1023,64.0022,9.0755,high,high,med,female,Maldonado
+Airedale Terrier,20506.7484,57.6865,11.4845,high,high,med,male,Romero
+Beagle,10286.3589,37.8456,13.8018,med,high,short,male,Woodard
+Beagle,10074.5776,34.9928,14.1586,med,high,short,female,Villarreal
+Bloodhound,42083.4831,64.2874,8.6465,med,high,short,male,Clark
+Beagle,10859.611,35.0604,12.3936,med,high,short,male,Proctor
+Golden Retriever,27908.7802,58.1607,11.9867,med,high,med,male,Kelly
+Airedale Terrier,18610.6249,58.0954,11.661,high,high,med,female,Nash
+Beagle,8599.6636,31.8549,13.1808,med,med,short,female,Keller
+Bloodhound,46833.13,64.2637,7.6292,low,high,short,female,Burgess
+Bloodhound,41910.4695,65.0685,8.6268,med,high,short,male,Cortez
+Airedale Terrier,22346.9177,,11.2693,high,high,med,male,Bishop
+Bloodhound,39302.3627,64.067,8.6865,med,high,short,female,Keller
+Golden Retriever,30138.5221,59.8066,11.0783,med,high,med,male,Morgan
+Bloodhound,43870.9517,61.0333,10.0084,med,high,short,female,Martinez
+Beagle,11829.7789,35.6529,13.5677,med,high,short,male,Rodriguez
+Beagle,11890.3891,34.8774,12.7222,med,med,short,female,Wade
+Beagle,12125.2797,36.4812,14.1509,med,high,short,female,Johnson
+Bloodhound,41261.8867,61.1522,7.964,low,high,med,male,Sanchez
+Golden Retriever,32870.2399,59.3693,12.2666,low,high,med,female,Mendez
+Beagle,10012.0654,,13.8953,med,high,short,female,Waters
+Airedale Terrier,18702.2102,57.9562,10.2867,high,high,med,male,Norton
+Bloodhound,45325.138,64.3204,7.8999,low,high,short,male,Butler
+Bloodhound,45673.4713,61.2853,9.1653,med,high,short,male,Jenkins
+Bloodhound,50265.368,65.7479,8.0688,med,high,short,female,Elliott
+Airedale Terrier,17827.636,,10.561,high,med,med,male,Chambers
+Beagle,9653.0212,37.3175,14.1033,med,high,short,female,Nguyen
+Beagle,9603.854,34.5334,14.8469,low,high,short,female,Boone
+Bloodhound,42218.2624,63.5619,6.9033,med,high,short,female,Morrison
+Airedale Terrier,20503.5245,57.3152,11.2288,high,high,long,female,Lawson
+Airedale Terrier,20354.9904,56.2594,12.0726,high,high,med,female,Cunningham
+Beagle,11735.0517,37.1932,14.3157,med,high,med,female,Garcia
+Bloodhound,38631.4578,62.9357,10.0153,med,med,short,female,Moore
+Golden Retriever,33502.1547,54.5077,11.3397,med,med,med,male,Thomas
+Bloodhound,46891.4751,61.7434,8.5115,low,med,short,female,Sims
+Beagle,12701.2921,,12.9024,med,med,short,female,Reid
+Golden Retriever,26934.7491,,10.7433,med,high,med,female,Smith
+Golden Retriever,29225.6619,,12.304,high,high,med,female,Bryant
+Bloodhound,44318.3769,63.8419,8.356,med,high,short,female,Fields
+Golden Retriever,28152.3138,55.4543,10.8419,med,high,long,male,Torres
+Golden Retriever,24304.1137,59.9743,11.8619,high,high,med,female,Casey
+Golden Retriever,26090.0519,58.1178,11.1761,med,high,long,female,Benson
+Beagle,7490.7984,37.5952,12.4865,med,high,short,female,Contreras
+Beagle,9935.1543,,13.6781,med,high,short,female,Shaw
+Beagle,7934.6127,37.9309,14.3623,high,high,short,female,Molina
+Beagle,7048.7725,35.8654,14.3017,med,high,short,female,Boyle
+Beagle,10711.4759,,12.8582,med,high,short,female,Figueroa
+Airedale Terrier,20406.0113,,13.0227,high,med,med,male,Carroll
+Bloodhound,46404.3656,62.2783,9.0623,med,high,short,male,Timothy
+Airedale Terrier,23953.4276,57.0958,12.0988,high,high,short,male,Castillo
+Airedale Terrier,19889.7708,56.8816,10.1377,high,high,med,male,Jackson
+Beagle,11241.0075,,13.4417,med,med,short,female,Warren
+Golden Retriever,29984.9419,58.3474,11.2219,med,high,med,male,Perkins
+Golden Retriever,25384.2608,55.1142,11.7806,med,high,med,female,Willis
+Airedale Terrier,22003.6179,57.5506,11.7528,high,high,med,female,Cline
+Golden Retriever,32696.3354,56.5369,11.1637,med,high,short,male,Mary
+Airedale Terrier,19851.6115,,10.3802,high,high,med,female,Pham
+Beagle,10308.6315,36.1455,12.9485,med,high,short,female,Tran
+Airedale Terrier,19644.7539,57.4916,11.5678,med,high,long,male,Palmer
+Airedale Terrier,18843.3761,56.415,10.485,high,med,med,female,Rivera
+Golden Retriever,28280.407,57.8776,10.2377,low,high,med,female,Wright
+Beagle,10785.6131,36.5177,13.5796,med,high,short,female,Shelton
+Golden Retriever,30056.9851,,13.3757,med,high,med,male,Walker
+Airedale Terrier,17609.0434,56.9944,13.5353,high,med,med,female,Walker
+Airedale Terrier,20251.9414,56.5988,12.4442,high,high,med,female,Dougherty
+Bloodhound,46637.4932,,10.4504,med,high,short,male,Nelson
+Beagle,11488.9447,31.6559,14.6961,low,high,short,male,Warren
+Golden Retriever,32842.8368,,12.6847,med,high,med,male,Nguyen
+Beagle,11858.2691,,14.7803,med,high,short,male,Larson
+Airedale Terrier,19483.2553,57.3596,10.5538,high,high,short,male,Warren
+Bloodhound,38300.7764,64.1427,8.4011,med,high,short,male,Wright
+Golden Retriever,29557.8273,58.4219,11.109,low,high,med,female,Allen
+Airedale Terrier,20592.6039,57.215,11.789,med,high,med,female,Mcintyre
+Beagle,12243.4232,35.2047,13.0997,med,med,short,male,Hunt
+Golden Retriever,29863.4397,,11.197,med,high,med,female,Ortiz
+Airedale Terrier,20127.2171,56.2652,11.6633,high,high,med,male,Day
+Golden Retriever,35681.358,60.0845,12.4919,med,high,med,female,Madden
+Beagle,10854.9316,36.2419,12.4205,low,high,short,female,Valentine
+Beagle,11600.3427,33.5913,13.9614,med,high,short,female,Nelson
+Airedale Terrier,20187.1492,58.3337,11.0257,med,med,med,female,Gilbert
+Beagle,12834.2069,34.4273,13.2192,med,high,short,male,Dyer
+Golden Retriever,23688.8614,59.798,11.572,med,high,med,male,Lester
+Bloodhound,51006.2843,,8.2923,med,high,short,male,Henry
+Golden Retriever,27988.5585,,11.8188,med,high,med,female,Oneill
+Bloodhound,49062.3175,,9.2738,med,high,short,female,Roy
+Bloodhound,42177.4463,61.5202,7.2987,med,high,short,male,Griffin
+Beagle,7640.5244,,14.3447,med,high,short,male,Ward
+Beagle,10696.6742,33.4649,13.726,med,high,short,male,Allen
+Golden Retriever,29561.7139,60.0539,12.9473,med,high,med,female,Chandler
+Beagle,8902.8159,33.3721,13.8159,low,high,short,female,Klein
+Airedale Terrier,22133.9403,55.8301,11.3328,high,high,med,female,White
+Golden Retriever,29188.3657,58.7625,11.9994,med,med,med,female,Harrington
+Golden Retriever,28781.9978,,11.5058,med,high,med,female,Ortiz
+Airedale Terrier,20656.9515,56.893,12.1102,high,high,short,male,Blevins
+Airedale Terrier,19115.4221,,11.8584,high,high,med,male,Anderson
+Airedale Terrier,20155.2258,56.832,10.7961,med,high,med,male,Figueroa
+Airedale Terrier,20468.5283,,10.8957,high,high,med,male,Bishop
+Beagle,11683.1334,35.9417,14.124,med,high,short,female,Hicks
+Airedale Terrier,19796.7789,57.0398,10.8667,high,high,med,female,Gibson
+Golden Retriever,32818.1358,58.6141,12.1714,med,high,med,female,Singh
+Golden Retriever,27185.544,57.8949,11.2676,med,high,long,male,Torres
+Bloodhound,48794.5626,,8.6672,high,high,short,female,Johnson
+Golden Retriever,31032.4095,57.8712,10.5368,med,high,med,female,Turner
+Airedale Terrier,18487.9061,56.9404,13.0578,high,high,med,male,Larsen
+Airedale Terrier,19937.7792,56.6108,12.3879,high,high,med,male,Smith
+Golden Retriever,34471.5935,57.779,11.9712,med,high,med,female,Duran
+Golden Retriever,28769.0051,52.5551,12.49,med,high,long,male,Santos
+Golden Retriever,27187.4562,60.8073,10.7837,med,high,med,female,Townsend
+Airedale Terrier,21286.4444,56.3605,11.3129,high,high,med,male,Johnson
+Golden Retriever,33376.353,,12.0172,med,high,med,female,Rivera
+Airedale Terrier,22584.2096,57.4742,9.3172,med,high,med,male,Williams
+Beagle,11215.1041,35.9096,12.44,med,high,short,male,Yoder
+Beagle,10303.393,39.0779,12.0319,med,med,short,female,Callahan
+Bloodhound,45083.9838,66.604,8.3434,med,high,short,female,Salazar
+Beagle,11805.5291,35.1578,15.4123,med,high,med,male,Oneal
+Bloodhound,38310.7712,63.8897,7.7503,med,med,short,male,Skinner
+Golden Retriever,39897.7605,61.0131,9.1648,med,med,med,female,Sanchez
+Bloodhound,43674.1316,,9.6711,med,high,short,female,Miller
+Bloodhound,47534.6745,63.8026,8.7792,med,med,short,female,Silva
+Golden Retriever,28176.5367,56.4713,12.4157,med,high,short,female,Myers
+Bloodhound,38845.3768,63.938,9.9907,high,high,short,male,Harris
+Beagle,10856.5339,36.8724,13.9122,med,high,short,female,Sanders
+Golden Retriever,28649.6205,,11.0819,med,high,med,female,Roberts
+Beagle,8575.1752,33.9599,13.5897,med,high,short,male,Jones
+Bloodhound,39792.9942,66.6669,8.8852,med,high,short,female,Macias
+Golden Retriever,28145.4297,56.9206,12.4358,med,high,med,male,Martin
+Bloodhound,50787.1895,62.8116,7.1279,low,high,short,male,Gray
+Golden Retriever,30849.1875,58.4166,10.5646,med,high,med,female,Morris
+Beagle,8792.1893,36.5826,13.7924,med,high,short,male,Case
+Beagle,9932.9947,32.3417,13.7271,med,high,short,female,Reynolds
+Airedale Terrier,19540.3399,,10.872,high,high,short,female,Rodriguez
+Beagle,9735.3328,35.5099,14.5986,med,high,short,male,Stanley
+Beagle,13518.4698,,13.3471,low,high,short,male,Houston
+Airedale Terrier,19078.7444,56.6348,10.5796,high,high,med,female,Garcia
+Beagle,9179.1894,33.6469,12.9877,med,high,short,male,Taylor
+Golden Retriever,31875.1434,56.833,11.4432,med,high,short,male,Walker
+Bloodhound,34675.9451,,8.1554,med,high,short,male,Morris
+Bloodhound,47575.8495,63.9013,8.6029,med,high,short,male,Miles
+Golden Retriever,30801.4109,57.9623,11.8375,med,high,med,male,Wright
+Golden Retriever,26245.0534,58.0629,11.3502,med,high,med,male,Kennedy
+Beagle,12357.8033,36.1477,12.3367,med,high,short,female,Warner
+Golden Retriever,36863.8758,58.2774,10.5205,med,high,med,female,Serrano
+Airedale Terrier,21918.8583,,10.5184,high,high,med,male,Oliver
+Bloodhound,36519.3309,64.0986,7.7929,med,high,med,female,Lopez
+Golden Retriever,32416.1856,,11.6291,med,high,short,female,Benson
+Bloodhound,34979.858,66.291,6.9501,low,high,short,female,Roach
+Golden Retriever,28788.5597,59.7339,9.3139,med,high,med,male,Davis
+Bloodhound,46175.4599,,9.1314,med,high,short,female,Wood
+Golden Retriever,29985.2131,56.9982,12.3672,med,high,long,male,Walker
+Beagle,9137.1578,36.205,14.6935,low,high,short,male,Moore
+Bloodhound,43074.7564,63.5316,9.251,low,high,med,male,Poole
+Beagle,10915.3094,35.6662,13.0883,med,high,short,female,Ramirez
+Airedale Terrier,18850.2687,56.1693,11.624,high,high,med,female,Smith
+Beagle,11539.2097,38.3016,13.0281,med,high,short,female,Larsen
+Golden Retriever,30189.9392,57.1838,14.6213,med,high,med,female,Nguyen
+Golden Retriever,30498.5282,,11.0325,med,high,short,female,Higgins
+Beagle,12121.9991,35.2233,13.4845,med,high,short,male,Garcia
+Bloodhound,38703.0405,62.0814,9.5861,high,high,short,male,Evans
+Beagle,14644.1694,37.4232,12.9435,med,high,med,male,Turner
+Bloodhound,44003.726,,8.9937,med,high,short,male,Jones
+Golden Retriever,28893.8221,57.865,11.3636,med,med,long,male,Simmons
+Golden Retriever,24226.9375,,8.3598,med,high,short,male,Robinson
+Golden Retriever,24004.8782,58.3719,11.8818,med,high,short,male,Peterson
+Beagle,10474.3708,,11.897,med,high,short,male,Valdez
+Beagle,8454.1797,33.4417,13.3724,med,high,short,male,Kelly
+Beagle,9232.1982,,12.7216,med,high,short,female,Kemp
+Bloodhound,40674.3735,61.2409,8.7026,med,high,short,male,Smith
+Beagle,8120.7052,35.1773,13.95,med,high,short,male,Powers
+Airedale Terrier,22300.1255,56.4158,12.5086,high,high,med,male,Benson
+Airedale Terrier,17920.4983,56.1634,13.509,med,high,med,female,Edwards
+Golden Retriever,30574.0776,,10.5141,med,high,med,female,Hughes
+Golden Retriever,22357.4572,59.9656,10.939,med,high,med,female,Hendrix
+Bloodhound,45428.6995,63.0287,8.3328,med,high,short,male,Johnson
+Golden Retriever,26676.9954,56.8901,10.5577,med,high,med,male,Mcintyre
+Bloodhound,46054.4583,63.2,8.5617,med,med,short,female,Matthews
+Airedale Terrier,20148.7993,57.3923,12.7379,med,high,med,female,Dickerson
+Bloodhound,43787.6161,,7.7076,med,high,short,male,Potter
+Golden Retriever,28908.7948,58.3184,13.0373,med,high,med,male,Morrison
+Beagle,10081.337,34.1486,13.2607,med,high,short,male,Sims
+Bloodhound,39596.2708,62.1426,8.5079,med,high,short,female,Morgan
+Bloodhound,40039.6826,,8.2511,med,high,short,male,Erica
+Airedale Terrier,19799.3685,56.7515,10.2709,high,high,med,male,Carr
+Golden Retriever,31776.6672,58.4317,11.0433,med,high,long,female,Gonzalez
+Golden Retriever,31082.9933,59.0909,11.2953,med,high,med,female,Watson
+Airedale Terrier,21014.5849,55.7774,12.173,high,high,long,male,Hawkins
+Beagle,11394.3703,34.2729,13.4533,med,high,short,female,Kelly
+Beagle,9070.6676,35.2527,13.1562,low,high,short,male,Lewis
+Golden Retriever,28905.7614,57.8594,12.1314,med,high,med,female,Dixon
+Bloodhound,40735.6113,63.0483,7.8521,med,high,short,female,Miller
+Airedale Terrier,20360.2686,56.0037,11.9608,med,high,med,male,Sanders
+Airedale Terrier,19999.0158,56.8301,10.6508,high,high,med,female,Jones
+Bloodhound,44058.6676,63.0956,8.4679,low,high,short,female,Fox
+Bloodhound,49811.5572,,9.7144,high,high,short,female,Karen
+Golden Retriever,31640.178,58.9699,10.9233,med,high,med,female,Krueger
+Golden Retriever,32071.0388,,11.1966,med,high,med,male,Moore
+Bloodhound,36728.3074,62.7464,8.4345,med,high,short,female,Decker
+Airedale Terrier,19552.4245,56.9416,11.872,high,high,med,male,Colon
+Golden Retriever,27995.7548,58.4188,12.7387,med,high,long,male,Ramsey
+Airedale Terrier,19443.3806,56.7784,10.2907,high,high,med,male,Sexton
+Beagle,11303.8021,36.1269,13.8512,high,high,short,female,Johnson
+Bloodhound,43421.4497,64.2983,8.8078,low,high,short,female,Olson
+Bloodhound,45178.9442,,8.6472,med,med,med,male,Martinez
+Golden Retriever,30214.5261,58.6738,11.7616,med,high,med,female,Freeman
+Bloodhound,47546.0252,61.0567,8.9992,med,high,short,male,Harris
+Airedale Terrier,20013.312,,11.0534,high,high,med,male,Jimenez
+Beagle,8495.6953,36.4503,12.5875,high,med,short,male,Lopez
+Airedale Terrier,20469.0302,,11.439,high,high,med,female,Wells
+Airedale Terrier,20610.4569,58.0138,11.7609,high,med,med,male,Sanders
+Beagle,8414.2728,33.3835,14.7484,med,high,short,female,Giles
+Bloodhound,47896.0922,64.8556,10.0282,med,high,short,female,Moreno
+Bloodhound,48550.5917,63.54,8.0646,med,high,short,female,Gallegos
+Golden Retriever,29896.842,57.3416,12.5539,med,high,short,female,Clark
+Golden Retriever,22694.4193,56.6681,13.4263,med,high,med,female,Evans
+Golden Retriever,29456.5137,,11.9928,low,high,med,male,Mitchell
+Golden Retriever,30262.4644,59.9705,10.6724,med,med,med,female,Bowers
+Airedale Terrier,21116.7347,57.2481,12.1737,high,high,med,female,Wilson
+Golden Retriever,23193.2806,60.0884,12.9643,med,high,short,female,Robertson
+Bloodhound,44444.1677,62.301,6.4747,med,high,short,male,Bond
+Golden Retriever,35076.4766,58.4147,11.759,low,high,med,male,Turner
+Airedale Terrier,22419.4941,,11.1909,high,high,med,female,Tran
+Bloodhound,49109.4833,62.9732,9.9054,med,high,short,female,Wilkinson
+Beagle,12314.011,,14.7305,med,high,short,female,Wallace
+Golden Retriever,27442.547,56.1997,9.8758,med,high,med,male,Henry
+Golden Retriever,34180.3147,57.746,11.447,med,high,med,male,Santos
+Airedale Terrier,18966.9966,56.9118,10.5583,med,high,med,male,Carney
+Airedale Terrier,17710.83,57.0544,11.6862,high,high,med,male,Johnston
+Bloodhound,42801.478,,9.4547,med,high,short,male,Adams
+Golden Retriever,29103.1438,56.0549,11.302,med,high,med,male,White
+Beagle,8760.7008,37.9918,12.2897,med,high,short,female,Gonzales
+Bloodhound,49320.7667,63.4175,7.906,low,high,short,male,Rogers
+Golden Retriever,30943.2413,56.3231,11.1895,med,high,long,female,Hill
+Golden Retriever,32155.3062,57.8485,10.3771,med,high,med,male,King
+Beagle,8450.5835,37.11,15.2164,low,high,short,male,Romero
+Bloodhound,51621.8118,,9.0125,med,med,med,female,Olson
+Beagle,11639.4306,36.2083,14.5601,med,high,short,male,Lester
+Golden Retriever,24482.9821,58.4083,10.9895,low,high,med,male,Thompson
+Beagle,11124.6604,35.5911,11.9953,med,high,med,female,Jensen
+Bloodhound,43951.3308,64.2892,8.5009,med,med,short,male,Smith
+Beagle,11667.0312,34.0777,13.9708,med,high,short,female,Brady
+Golden Retriever,25019.3434,60.2025,12.7435,med,high,med,male,Leblanc
+Golden Retriever,28136.7437,58.7637,11.8109,med,high,med,male,Adams
+Airedale Terrier,20304.0443,56.6698,11.5606,med,high,med,female,Bell
+Bloodhound,37506.1934,66.4218,9.3173,med,med,short,male,Robinson
+Golden Retriever,29104.4073,,10.8748,med,high,med,female,Taylor
+Airedale Terrier,21349.0165,56.2966,10.9551,high,high,med,male,Weaver
+Bloodhound,41475.0004,61.6001,9.6414,high,high,short,female,Jennings
+Airedale Terrier,19277.5933,,10.3615,med,high,long,female,Reese
+Golden Retriever,25911.6638,59.3482,11.2707,high,med,long,male,Santiago
+Bloodhound,40955.9662,64.2024,7.9374,med,high,short,male,Martinez
+Airedale Terrier,20303.6074,,11.0079,high,high,short,female,Carroll
+Beagle,8358.6915,36.9703,12.2477,med,high,short,male,Sanchez
+Golden Retriever,25924.6801,,10.6921,high,high,med,female,Carlson
+Bloodhound,43548.4995,61.8144,8.9134,med,high,short,female,Vasquez
+Golden Retriever,28387.5082,61.9609,12.5162,med,high,med,female,Walter
+Golden Retriever,26801.6619,59.8975,10.9796,med,high,med,female,Phillips
+Beagle,10492.3205,,13.9362,med,high,short,female,Fletcher
+Golden Retriever,22496.9005,57.6195,12.8318,med,high,med,female,Carroll
+Airedale Terrier,22149.1924,58.0706,11.0014,high,high,med,male,Brooks
+Beagle,9860.0901,,14.1946,med,high,short,female,Perez
+Bloodhound,33748.4737,62.7623,6.7372,med,high,short,male,Thomas
+Golden Retriever,30327.8662,58.1064,9.5355,med,high,med,female,Morgan
+Bloodhound,42757.1258,,9.738,med,med,short,female,Lopez
+Beagle,6808.6848,35.7648,14.1257,high,high,short,female,Willis
+Beagle,10010.094,,12.778,med,high,short,male,King
+Bloodhound,46102.0133,63.9019,8.1514,med,high,short,female,Carey
+Golden Retriever,33584.0183,57.8654,12.0787,med,high,med,female,Taylor
+Beagle,11744.4077,34.9329,13.8596,med,high,short,male,Gomez
+Beagle,6450.8303,32.9724,13.7297,med,high,short,male,Williams
+Beagle,12101.3205,,13.0478,med,high,short,male,Hill
+Bloodhound,44105.7478,63.6503,6.3825,med,high,short,male,Bartlett
+Golden Retriever,28686.3278,57.5437,13.5004,med,high,long,female,Banks
+Airedale Terrier,20266.4937,,11.7095,high,high,short,female,Herring
+Airedale Terrier,18557.2433,56.3966,10.4707,high,high,med,male,Franklin
+Airedale Terrier,21423.1989,58.266,12.7439,high,high,med,male,Ryan
+Bloodhound,44985.7715,63.4788,10.2824,med,high,short,male,Stephenson
+Bloodhound,47491.7297,,7.5679,med,high,med,female,Carpenter
+Beagle,11185.9178,,12.4555,high,high,short,male,Montes
+Golden Retriever,29923.0367,58.3398,11.4895,med,high,med,female,Johnson
+Bloodhound,46012.3849,65.222,9.0091,med,high,short,female,Roberts
+Beagle,10480.0585,35.0408,12.9865,med,high,short,male,Day
+Airedale Terrier,19091.0316,57.267,12.2365,high,high,med,male,Hudson
+Golden Retriever,33049.4013,56.2782,11.1915,med,high,med,female,Gill
+Beagle,14439.7754,,12.7094,med,med,short,male,Andrews
+Airedale Terrier,20440.6803,56.8917,10.8316,med,high,med,female,Fowler
+Beagle,9163.1246,35.691,13.9639,med,high,short,male,Snyder
+Golden Retriever,27678.7009,56.7993,9.9768,med,high,med,female,Mcguire
+Beagle,9336.1197,33.5956,13.8281,med,high,short,male,White
+Airedale Terrier,19345.6912,56.3206,11.066,high,high,med,male,Mendoza
+Airedale Terrier,20364.1131,57.464,9.6128,high,high,long,male,Rodriguez
+Airedale Terrier,19899.3354,56.362,10.7827,high,high,long,female,Craig
+Golden Retriever,29959.3906,59.5905,10.6365,med,high,med,female,Black
+Beagle,8500.3298,35.2612,13.6521,med,high,short,female,Lopez
+Beagle,8876.9724,37.2235,13.9367,med,high,short,male,Walters
+Golden Retriever,34510.9469,56.7942,12.0054,med,high,med,male,Nichols
+Bloodhound,40570.5509,63.6718,8.8719,med,high,short,female,Ashley
+Bloodhound,40389.3566,65.9214,8.1219,med,high,short,female,Snow
+Golden Retriever,24248.4231,56.196,11.6124,med,high,short,female,Guzman
+Airedale Terrier,18796.6505,56.516,12.6883,high,high,med,male,Snyder
+Bloodhound,48925.5744,,9.4997,med,high,short,female,Montgomery
+Beagle,10147.7909,35.8062,14.2967,low,high,short,female,Johnson
+Airedale Terrier,19788.0202,,12.4941,med,high,long,male,Hayes
+Golden Retriever,30019.6054,59.3254,12.3271,med,high,med,female,Decker
+Airedale Terrier,20355.1703,,12.5774,high,high,short,male,Estrada
+Golden Retriever,33290.4229,58.8249,10.4443,med,high,long,male,Robertson
+Bloodhound,49052.5742,62.9936,7.8212,med,high,short,male,Brown
+Golden Retriever,34137.9688,54.3317,11.4582,med,high,med,male,Aguilar
+Beagle,8684.9967,35.8112,11.9142,high,high,short,male,Leblanc
+Airedale Terrier,21256.6408,57.3077,11.003,high,high,med,male,Flores
+Golden Retriever,30549.2773,56.5199,12.1414,med,high,long,male,Ware
+Golden Retriever,33190.3036,56.2217,12.0982,med,high,med,male,Carr
+Beagle,12341.9774,35.85,14.394,med,high,short,male,Soto
+Golden Retriever,32560.7601,62.6574,11.5851,med,high,med,female,Peters
+Airedale Terrier,21854.8657,58.133,12.2335,high,high,med,male,Carter
+Golden Retriever,30061.7078,59.6405,11.5584,med,med,med,female,Atkins
+Beagle,11955.7057,,15.23,high,high,short,female,Taylor
+Beagle,9406.4235,35.6319,13.4634,med,high,short,female,Moore
+Beagle,13502.5616,35.2886,12.7732,med,high,med,male,Hinton
+Beagle,9435.6919,35.4213,13.5203,med,high,med,female,Mcdonald
+Beagle,11082.2421,34.1816,12.1453,med,med,short,female,Roberts
+Airedale Terrier,19620.7279,57.6358,10.8357,med,med,med,female,Turner
+Beagle,9776.9263,36.6068,12.2274,low,high,med,female,James
+Airedale Terrier,20624.0331,,12.2757,high,high,short,male,Mcbride
+Golden Retriever,24352.8439,56.425,11.2288,med,high,med,male,Lane
+Beagle,8458.3449,35.7339,13.7161,med,med,short,female,Anderson
+Golden Retriever,27757.3566,59.9014,10.5215,med,med,med,female,Jones
+Airedale Terrier,19471.4003,,11.0382,high,high,med,male,Miller
+Airedale Terrier,20306.5013,57.8091,12.2057,high,high,short,male,Thompson
+Bloodhound,43038.7457,,8.6081,high,high,short,male,Davis
+Airedale Terrier,18935.3262,57.3129,11.9477,high,high,med,male,Jackson
+Airedale Terrier,20280.5826,56.9708,10.6597,high,high,med,female,Jordan
+Airedale Terrier,20983.4041,56.8827,11.2467,high,high,med,male,Leonard
+Golden Retriever,29495.8604,57.8103,11.582,med,high,med,male,Mendez
+Beagle,8637.6339,37.24,13.7622,med,high,short,female,Stokes
+Bloodhound,50940.5881,64.2992,7.8798,low,high,short,female,Martinez
+Bloodhound,41759.3224,,9.6031,med,high,short,female,Evans
+Airedale Terrier,24235.302,56.8146,12.9974,high,high,med,female,Mata
+Beagle,12136.6292,35.3766,14.0335,med,high,short,male,Lewis
+Beagle,8610.8707,35.9488,13.315,med,high,short,male,Johnson
+Golden Retriever,34294.7754,,10.3332,med,high,med,male,Gray
+Beagle,11647.0359,36.3374,13.279,med,high,short,male,Cooper
+Golden Retriever,25332.8997,55.3039,11.9005,med,high,med,female,Gonzales
+Bloodhound,42697.4418,63.9343,7.537,med,high,short,female,Johnson
+Airedale Terrier,22804.0678,,11.0453,high,high,med,female,Myers
+Bloodhound,36139.011,67.3148,9.4407,med,high,short,female,Pennington
+Beagle,11072.0397,35.9547,13.588,med,high,short,female,Brown
+Airedale Terrier,17543.4705,57.3579,11.6105,high,high,short,female,Brown
+Bloodhound,35536.8097,61.5929,8.0906,med,high,short,female,Braun
+Bloodhound,37186.0357,62.7634,9.3253,med,high,short,male,Anderson
+Bloodhound,40391.5935,61.5547,8.2446,med,high,short,male,Christensen
+Beagle,9944.4117,37.3253,12.6097,med,high,med,female,Moore
+Beagle,11770.0758,36.8114,12.281,med,high,short,female,Hunter
+Bloodhound,45813.7629,63.3079,9.5616,med,high,short,male,Grimes
+Golden Retriever,27991.4825,,8.963,med,high,short,male,Todd
+Beagle,9486.2177,35.2499,14.3037,high,high,short,female,Munoz
+Beagle,9685.0728,37.8021,14.4946,med,high,short,male,Hull
+Bloodhound,42755.9192,62.659,9.183,med,high,short,male,Estrada
+Golden Retriever,27967.2986,59.4813,11.2524,med,high,med,female,Martinez
+Beagle,8918.6226,33.9572,13.8947,med,high,short,female,Hughes
+Airedale Terrier,19311.1154,,11.0954,high,high,med,male,Dudley
+Beagle,10948.474,31.5636,11.7785,med,high,short,female,Ward
+Golden Retriever,32975.9529,,11.8263,high,high,long,male,Love
+Golden Retriever,27897.7858,59.6257,11.8772,med,high,med,male,Morgan
+Golden Retriever,29259.4161,,10.1214,med,high,long,female,Martinez
+Beagle,10337.2864,36.4037,14.6288,med,high,short,male,Lopez
+Golden Retriever,28358.0456,,12.0696,med,high,short,female,Small
+Airedale Terrier,20215.1347,56.7543,10.5596,high,high,long,female,Hunt
+Golden Retriever,28436.629,55.8065,13.1313,med,high,short,female,Alvarez
+Beagle,12161.3808,34.0415,13.8322,med,high,short,female,Cooke
+Golden Retriever,30886.1621,58.8065,12.8302,med,high,med,male,Vasquez
+Beagle,13915.8663,35.7354,14.6285,med,high,short,female,King
+Airedale Terrier,21684.264,56.5899,12.6395,high,high,med,male,Archer
+Bloodhound,49401.029,63.2504,9.0649,med,high,short,male,Wilkins
+Bloodhound,53193.3919,61.6209,6.7641,low,high,short,female,Anderson
+Airedale Terrier,20969.5496,,9.8987,high,high,med,female,Wilson
+Beagle,12896.7326,35.1078,12.3597,high,med,short,female,Lewis
+Airedale Terrier,18842.2992,57.3955,10.9478,med,high,med,female,Washington
+Airedale Terrier,21242.8637,,10.8888,high,high,med,female,Heath
+Bloodhound,40600.0989,63.9459,9.1,med,high,short,female,Cochran
+Golden Retriever,28686.8689,61.2593,11.2234,med,high,med,male,Lewis
+Bloodhound,41155.1453,60.9765,9.4666,high,high,short,male,Escobar
+Bloodhound,40264.5801,64.6607,8.7025,med,high,short,female,Reese
+Bloodhound,44836.4783,63.8272,6.8903,med,high,short,female,Walters
+Beagle,9587.2583,,14.1156,med,med,short,female,Scott
+Beagle,9307.4267,33.0903,13.2194,high,high,short,female,Mitchell
+Airedale Terrier,20375.7148,57.1726,10.4351,high,high,med,female,Clark
+Golden Retriever,32867.3054,55.9494,10.5964,med,high,med,female,Freeman
+Airedale Terrier,19983.5623,,11.8278,high,high,med,male,Jones
+Beagle,9190.7351,37.3052,13.9564,med,med,med,male,Vaughan
+Beagle,9074.7712,34.5432,13.2228,med,high,short,male,Moreno
+Beagle,11583.8305,34.861,13.4741,med,high,short,female,Steele
+Airedale Terrier,22360.1819,55.7534,10.8938,high,high,med,female,Adams
+Beagle,6195.8666,38.9575,12.2272,med,high,short,male,Allen
+Bloodhound,42877.8441,64.0523,9.4115,med,high,short,male,Campos
+Golden Retriever,28754.501,54.5783,10.9709,med,high,med,male,Rodriguez
+Bloodhound,42371.2217,,8.8947,high,high,short,male,West
+Golden Retriever,27531.2218,56.9254,12.0255,med,high,long,female,Wells
+Airedale Terrier,20153.6018,57.1904,13.3174,high,high,med,male,Hines
+Golden Retriever,28183.2581,57.5472,11.211,med,high,med,male,Johnston
+Bloodhound,47081.3692,62.2057,9.903,high,high,short,male,Wallace
+Airedale Terrier,18691.0145,57.2827,12.429,high,high,med,female,Thompson
+Golden Retriever,29001.8861,,13.226,med,high,med,male,Parker
+Bloodhound,43130.4061,62.5877,8.7638,med,high,short,male,Thompson
+Bloodhound,52178.8646,64.2121,9.4547,med,high,med,male,Brown
+Beagle,11886.7117,33.8292,15.0654,med,high,short,male,Russell
+Golden Retriever,28243.2112,59.8045,11.8742,med,high,med,female,Kelly
+Airedale Terrier,17027.3295,58.0391,11.6389,high,high,med,male,Mcdaniel
+Bloodhound,43988.7424,,9.0956,med,high,short,female,Parker
+Airedale Terrier,21243.4107,,9.5478,high,high,med,male,Mckinney
+Golden Retriever,28166.5695,57.1571,12.3849,low,high,med,female,Sanchez
+Beagle,10556.5223,33.6963,14.5719,med,high,short,female,Martinez

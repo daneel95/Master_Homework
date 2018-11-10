@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Dalmatian,27093.3015,48.0,13.5471,high,high,short,female,Davis
+Bichon Frise,4742.4234,30.4542,12.7418,high,high,short,female,Bryant
+Bichon Frise,5605.7164,30.7435,15.1966,med,med,med,female,Dickerson
+Bichon Frise,3975.4518,30.3749,12.7236,high,high,med,male,Davis
+English Setter,23985.8299,65.5067,11.6841,high,high,short,male,Ellis
+Jack Russel Terrier,6918.2049,33.0354,13.7942,med,med,short,female,Smith
+Bichon Frise,5517.395,,13.7531,med,high,med,male,Reyes
+English Setter,26370.1306,,11.124,high,high,med,male,Bradford
+English Setter,20330.8386,65.4584,12.9327,high,high,short,male,Wyatt
+English Setter,27108.2246,61.053,11.7882,high,high,med,male,Huff
+English Setter,31743.7618,60.4978,11.1177,high,high,med,female,Thornton
+Bichon Frise,2855.6167,30.5424,11.6065,med,high,med,male,Barber
+Jack Russel Terrier,7652.8481,34.1239,12.869,high,med,short,male,Holt
+Dalmatian,19299.253,48.0,13.117,high,high,short,female,Harrison
+Jack Russel Terrier,6775.8926,34.2052,14.0723,high,med,short,male,Parker
+Jack Russel Terrier,7223.7484,34.8871,13.9157,high,med,short,male,Prince
+Jack Russel Terrier,6719.0942,,13.7441,high,med,short,female,Hull
+Jack Russel Terrier,6891.7678,33.4615,14.5225,high,med,short,female,Cox
+Jack Russel Terrier,5970.8591,34.2283,13.5814,high,med,med,female,Schultz
+Jack Russel Terrier,7572.9181,34.4292,13.7033,med,med,short,female,Matthews
+Dalmatian,23931.9656,48.0,12.9389,high,high,med,female,Velez
+Bichon Frise,4659.9104,30.6646,11.1802,med,med,med,male,Johnson
+English Setter,30198.7248,64.6587,12.7571,high,high,long,male,Miller
+Dalmatian,22559.0473,48.0,13.8093,high,high,short,female,Harris
+English Setter,32263.8203,62.0429,13.0661,high,high,long,female,Harrell
+Dalmatian,23648.1161,48.0,12.9208,high,high,short,male,Walker
+Dalmatian,25189.9427,48.0,13.8232,high,high,short,male,Acevedo
+Jack Russel Terrier,7108.5711,34.3516,14.9901,high,med,short,female,Kirby
+Bichon Frise,4288.9483,30.5642,11.8068,med,high,long,male,Marshall
+Jack Russel Terrier,7303.1662,33.6592,14.1984,high,med,short,male,Gonzales
+Bichon Frise,5779.8157,30.5255,14.133,med,high,med,female,Cook
+Dalmatian,23303.2837,,13.397,high,high,short,male,Vargas
+English Setter,31904.189,,11.7638,high,high,med,female,Hernandez
+English Setter,27630.4973,,12.1107,high,med,med,male,Hebert
+Jack Russel Terrier,6385.9725,35.2439,13.8189,med,med,med,female,Perez
+Dalmatian,22045.7084,,13.3634,high,high,short,female,Carter
+Dalmatian,23260.6408,48.0,13.0918,high,high,short,male,Price
+Jack Russel Terrier,6152.1597,33.6982,13.8076,high,med,short,male,Smith
+English Setter,28170.6682,,11.0102,high,med,med,female,Graves
+English Setter,32057.6622,67.6246,11.1986,high,high,long,female,Alvarez
+English Setter,34241.4742,65.9366,12.5109,high,high,med,female,Roberts
+Dalmatian,22053.7389,48.0,13.2415,high,med,short,female,Cross
+Dalmatian,27516.0954,48.0,12.2707,high,high,short,male,Greene
+English Setter,39118.4044,62.5298,12.6837,high,high,med,female,Bradford
+Jack Russel Terrier,7784.307,,13.168,high,high,short,male,Wells
+Jack Russel Terrier,6315.5821,32.6576,14.9492,high,med,short,female,White
+Jack Russel Terrier,6855.17,34.5243,13.7713,high,med,short,female,Mcclain
+Jack Russel Terrier,6906.4211,34.3013,13.3037,high,med,short,male,Gray
+Jack Russel Terrier,6267.7449,34.7209,14.0089,high,low,short,female,Baldwin
+Jack Russel Terrier,7320.2896,,14.7264,high,med,short,female,Harris
+Dalmatian,20280.8336,48.0,12.5914,high,high,short,male,Roberts
+English Setter,26684.4959,63.4791,12.3663,high,high,short,female,Diaz
+English Setter,25368.8993,57.0571,11.3491,high,high,med,female,Bell
+Jack Russel Terrier,5461.4869,34.2757,13.6233,high,med,short,male,Greene
+Bichon Frise,4372.8333,,13.6233,high,med,med,female,Weber
+Bichon Frise,3396.0534,29.6672,14.5412,med,high,med,male,Freeman
+English Setter,31840.6559,,12.1719,high,high,med,male,Chase
+Jack Russel Terrier,6809.9875,33.7216,14.0905,high,med,short,female,Gonzalez
+English Setter,28134.8286,63.2077,12.1857,high,high,med,female,Johnson
+English Setter,32445.1774,62.5053,12.8357,high,high,med,male,Baker
+English Setter,26776.0194,62.6127,13.397,med,high,med,male,Hobbs
+English Setter,28423.3068,,11.0774,high,high,long,female,Barr
+Jack Russel Terrier,5994.0565,35.0387,14.2584,high,med,short,male,Myers
+Bichon Frise,4094.9253,,14.3132,med,high,short,male,Nash
+English Setter,21863.5845,59.9511,11.8061,high,high,med,female,Martinez
+Bichon Frise,5275.7576,30.2481,14.6129,med,high,med,male,Long
+Jack Russel Terrier,5725.1795,33.9571,14.3011,high,med,short,female,Barton
+Dalmatian,22917.875,,13.7638,high,high,short,male,Parker
+Bichon Frise,3946.6811,30.5581,14.6343,med,high,med,male,Mullins
+English Setter,32179.4879,61.593,12.8587,high,high,med,male,Reeves
+Bichon Frise,5816.9972,30.2815,13.6254,med,high,med,female,Edwards
+Jack Russel Terrier,6270.4674,33.7544,13.918,high,med,short,female,Castillo
+English Setter,23398.7467,65.4176,12.1406,high,high,med,female,Myers
+Jack Russel Terrier,5401.2233,34.1336,14.7793,med,low,short,male,Hart
+Dalmatian,22768.1187,48.0,13.204,high,high,short,male,Brown
+Bichon Frise,5534.0789,30.1984,13.2586,med,high,med,female,Davis
+English Setter,21794.4544,63.4702,12.1821,high,high,med,female,Ramos
+Dalmatian,21812.6869,48.0,11.8036,high,high,short,female,Hunt
+Bichon Frise,3549.9935,30.0956,14.4083,high,high,med,male,Santana
+English Setter,30315.1699,61.9737,13.6449,high,high,long,male,Smith
+Bichon Frise,4686.849,,13.1779,low,high,med,male,Huynh
+Jack Russel Terrier,6229.9147,34.5411,13.8796,high,low,short,male,Holmes
+Jack Russel Terrier,7207.9893,,14.2298,high,med,short,male,Olson
+Jack Russel Terrier,6929.8967,34.4187,14.3901,high,med,med,female,Nguyen
+Jack Russel Terrier,6267.3221,34.5789,13.9239,high,med,short,female,Long
+Bichon Frise,4322.6084,30.506,13.6757,med,high,short,female,Parks
+English Setter,27562.216,60.8078,13.579,med,high,med,female,Valenzuela
+Jack Russel Terrier,7908.9173,33.9355,14.2252,high,high,short,female,Garrett
+English Setter,28626.4935,62.3279,13.1743,high,high,long,female,Mitchell
+Dalmatian,22462.853,48.0,12.3902,high,high,short,male,James
+English Setter,27880.8259,60.814,12.1022,high,high,med,female,Boyle
+Bichon Frise,5242.6333,,13.7407,med,high,med,female,Powell
+Dalmatian,25434.1353,48.0,12.1382,high,high,short,female,Patton
+Jack Russel Terrier,6620.2808,34.2025,14.5367,high,med,short,female,Ortiz
+Bichon Frise,3527.9928,,13.7858,med,high,med,female,Anderson
+Dalmatian,21390.6407,48.0,12.1603,high,high,med,male,Johnson
+English Setter,16942.6289,65.0214,13.1711,high,high,med,female,Vincent
+English Setter,29579.2611,62.1954,12.254,high,high,long,female,Philip
+Bichon Frise,6600.1103,30.5991,14.0518,med,high,med,female,Fields
+Bichon Frise,2749.3132,29.7893,13.1317,med,high,short,male,Raymond
+Jack Russel Terrier,5835.6117,34.4749,13.5145,high,med,short,male,Hoffman
+English Setter,34996.9662,60.2333,12.3794,high,high,med,male,Hall
+English Setter,32081.6539,64.6079,12.1297,high,high,long,female,Russell
+English Setter,34683.1761,62.0552,12.4402,high,high,med,female,Miller
+Bichon Frise,5045.0608,,12.9254,low,high,med,female,Jones
+Bichon Frise,4506.051,30.455,13.0493,low,high,med,male,Butler
+Jack Russel Terrier,4946.5516,33.4541,14.5887,high,low,short,male,Harvey
+Bichon Frise,5558.5064,30.1098,12.1058,med,high,med,male,May
+Jack Russel Terrier,6581.0465,33.8605,14.2049,high,med,short,male,Hall
+Jack Russel Terrier,6656.6127,35.0396,13.6364,high,med,short,male,Velasquez
+English Setter,20217.4153,,13.0457,high,high,med,female,Ellison
+English Setter,28557.3082,58.835,10.2259,high,high,med,female,Walsh
+Dalmatian,24499.2123,48.0,12.5623,high,high,short,male,Wall
+Bichon Frise,3991.8553,30.0961,14.0929,med,high,med,male,Martin
+Jack Russel Terrier,7153.7474,32.712,13.5932,high,med,med,male,Wells
+Jack Russel Terrier,5292.6496,34.9828,14.1774,high,med,short,male,Miller
+Dalmatian,21265.2307,48.0,12.9548,high,high,short,female,Martin
+Jack Russel Terrier,6353.0789,34.0807,14.2721,high,med,short,female,Martin
+Bichon Frise,5119.3056,,15.6384,med,high,med,male,Cruz
+Bichon Frise,5685.3504,30.7544,12.3685,med,high,med,female,Williams
+Dalmatian,23661.5517,48.0,12.7582,high,high,med,female,Lozano
+English Setter,25201.3299,62.0972,13.8738,high,high,short,female,Alexander
+Dalmatian,25759.852,48.0,13.0414,high,high,short,female,Miller
+English Setter,31316.1602,62.4805,11.4308,high,high,long,female,Rodgers
+Dalmatian,27492.3576,48.0,12.9464,high,high,short,female,Wallace
+English Setter,37620.8106,66.253,11.0898,high,med,med,female,Woods
+Bichon Frise,5524.7695,,15.011,med,med,short,female,Taylor
+Dalmatian,21820.1739,48.0,13.3678,high,high,short,male,Young
+Dalmatian,23854.0588,48.0,13.6089,high,high,short,male,Fisher
+Dalmatian,22827.7974,48.0,13.4874,high,high,short,male,Stanley
+Bichon Frise,3384.5981,30.4655,12.1847,med,high,med,male,Garrett
+Bichon Frise,5344.4661,30.1532,12.2093,med,high,med,female,Ellis
+Bichon Frise,5634.4636,30.596,11.7311,med,high,med,female,Hall
+English Setter,28690.689,60.225,13.0081,high,high,med,male,Rodriguez
+Jack Russel Terrier,6030.8234,,12.9509,high,med,short,female,Bell
+Bichon Frise,4842.006,30.9387,14.4898,med,high,med,female,Harris
+Dalmatian,24738.2854,48.0,12.4921,high,high,short,female,Cruz
+Jack Russel Terrier,6744.0366,,14.1452,high,med,short,male,Garcia
+Dalmatian,26180.1735,48.0,11.7834,high,high,short,male,Taylor
+English Setter,25058.4125,65.3235,11.7984,high,high,med,female,Gonzalez
+English Setter,28307.1575,61.3445,12.1416,high,high,long,female,Banks
+Bichon Frise,4058.3978,30.4406,14.0367,med,high,med,female,Forbes
+Jack Russel Terrier,6172.475,,13.1723,high,high,short,female,Fox
+Dalmatian,21877.5446,,13.1466,high,high,short,female,Schmidt
+Dalmatian,21976.9157,48.0,13.2889,high,high,short,female,Renee
+English Setter,26984.3923,63.8894,10.2854,high,high,short,female,Mack
+Jack Russel Terrier,6395.3783,35.1198,12.7075,high,med,short,male,Butler
+Bichon Frise,4300.7387,30.8817,12.8219,med,high,med,female,Mckinney
+English Setter,24198.4597,61.9488,11.7604,high,high,short,male,Barry
+Bichon Frise,4321.718,31.032,13.22,low,high,med,female,Martinez
+Bichon Frise,2968.4382,31.1119,13.3419,high,high,med,female,Scott
+Dalmatian,20180.2878,,13.5321,high,high,short,female,Long
+Bichon Frise,4728.6052,,13.1439,med,high,med,male,Mcneil
+English Setter,35199.2745,61.35,11.6346,high,high,med,male,Brown
+Bichon Frise,3910.878,30.8338,14.2893,high,high,med,male,Snow
+English Setter,22773.7069,,12.3321,high,high,med,female,Vargas
+Bichon Frise,3330.9549,30.644,13.5796,med,high,med,male,Rogers
+Bichon Frise,4017.2673,30.2505,13.1044,med,high,med,female,Juarez
+English Setter,30777.2122,,11.5411,high,high,med,female,Giles
+Bichon Frise,5041.7091,30.4807,14.4496,med,high,short,female,Sandoval
+Dalmatian,24316.6145,48.0,12.8586,high,high,short,female,Weber
+English Setter,28714.7475,60.6698,9.4826,med,high,med,female,Smith
+Dalmatian,21118.6642,48.0,13.2753,high,high,short,male,Brown
+Dalmatian,26027.57,48.0,14.0056,high,high,short,female,Smith
+Bichon Frise,4685.1585,30.4417,13.8839,med,high,med,female,Reynolds
+Jack Russel Terrier,6782.2435,33.873,14.119,high,med,short,female,Lewis
+Dalmatian,23297.6428,48.0,12.1007,high,high,short,male,Jacobson
+Bichon Frise,6153.969,30.6746,11.5828,high,high,med,female,Lopez
+English Setter,34485.8626,65.1566,12.8833,high,high,med,female,Peterson
+Bichon Frise,5906.1869,,13.9567,med,high,med,male,Larsen
+Dalmatian,21253.4179,48.0,13.4059,high,high,short,male,Mack
+Jack Russel Terrier,3626.8239,34.5341,14.7241,high,med,short,male,Gray
+Dalmatian,20674.0638,48.0,12.2722,high,high,short,male,Li
+English Setter,32837.0559,59.6271,10.9662,high,high,med,female,Carter
+Dalmatian,24197.5482,48.0,14.2842,high,high,med,female,Robbins
+Bichon Frise,3401.177,30.5301,13.8794,med,high,med,female,Meyers
+English Setter,27606.7598,60.1028,10.9056,high,high,med,female,King
+Jack Russel Terrier,6251.2496,33.936,13.066,high,med,short,female,Watson
+Jack Russel Terrier,6042.7297,33.2218,14.1509,high,high,short,female,Ross
+Dalmatian,22288.9931,48.0,12.6844,high,high,short,male,Harris
+English Setter,23612.1788,61.4304,12.3061,high,high,med,male,Lawrence
+Jack Russel Terrier,4054.7951,32.9279,14.2629,high,med,short,male,Ponce
+English Setter,30046.5876,,10.1706,high,high,med,female,Wolfe
+Jack Russel Terrier,5674.0614,33.9602,14.9479,med,med,short,female,Montgomery
+Bichon Frise,5318.5182,30.3386,12.5062,med,high,long,male,Sutton
+Dalmatian,26133.4924,48.0,12.6556,high,high,short,male,French
+Bichon Frise,5576.8725,29.6079,13.1774,med,high,med,male,Jennifer
+Bichon Frise,6231.7879,,14.8977,med,high,med,male,Wall
+English Setter,31105.8234,65.0973,12.4255,med,high,med,male,Cooper
+Dalmatian,23274.2316,48.0,12.4596,med,high,short,female,Nelson
+English Setter,23937.4256,59.8065,12.7369,high,high,med,female,Bryant
+Jack Russel Terrier,5606.1788,33.4807,14.6926,high,med,short,female,Walsh
+Bichon Frise,4487.72,30.5325,12.6802,med,high,med,female,Hoffman
+Bichon Frise,4050.9022,,13.1341,med,high,med,female,Jennings
+Bichon Frise,4844.985,30.2994,13.57,low,high,med,female,Mills
+Dalmatian,23225.5877,48.0,13.4595,high,high,short,female,Lewis
+English Setter,27250.9119,62.2054,14.0329,high,high,med,male,Wolf
+Bichon Frise,4742.5282,30.1879,12.7447,med,high,med,female,Cooper
+Bichon Frise,5463.2021,30.6932,13.1398,med,high,med,female,Rodriguez
+Dalmatian,22189.7887,48.0,13.8326,high,high,short,female,Jones
+Dalmatian,24042.7482,48.0,12.7745,high,high,short,female,Burns
+Jack Russel Terrier,6195.1383,34.0939,14.2285,high,low,short,male,Turner
+Bichon Frise,4080.0347,30.4714,14.5085,med,high,med,male,Russell
+English Setter,22808.8398,,8.2936,high,high,med,male,Farrell
+English Setter,29668.1415,,13.3693,high,high,med,female,Flores
+English Setter,33562.7675,58.2495,10.9592,high,med,med,female,Wheeler
+English Setter,34423.0443,62.3726,11.9129,high,high,med,male,Diaz
+Jack Russel Terrier,7473.5251,32.461,13.7155,med,med,short,male,Simmons
+English Setter,36388.9248,62.8598,12.4961,high,high,med,male,Johnston
+Jack Russel Terrier,6331.6461,34.4014,12.975,high,low,short,female,Flynn
+Dalmatian,21396.3505,48.0,14.1554,high,high,short,male,Winters
+Jack Russel Terrier,5112.5836,,12.8798,high,low,short,male,Lawrence
+Dalmatian,22894.3135,48.0,13.4847,high,high,short,male,Hodge
+English Setter,29770.0096,,11.4812,high,high,med,female,Rogers
+English Setter,27531.189,62.4801,13.0568,high,high,med,female,Jones
+Bichon Frise,4848.2439,30.1691,12.668,med,high,med,female,Caldwell
+Jack Russel Terrier,5984.4605,34.5013,12.5852,high,med,short,female,Pena
+Jack Russel Terrier,5821.6353,34.1447,13.7947,high,med,short,male,Short
+Bichon Frise,4522.0806,,14.3408,med,high,med,female,Contreras
+English Setter,23378.3986,57.704,13.9988,high,high,med,male,Hill
+Bichon Frise,3737.5163,,14.9453,med,high,med,male,Love
+English Setter,28677.7561,64.2176,11.4845,high,high,med,female,Park
+Jack Russel Terrier,6586.7891,33.9513,14.9261,med,med,short,female,Hamilton
+English Setter,33759.079,,12.331,high,high,med,female,James
+English Setter,32233.8482,61.7755,15.4751,high,high,med,female,Jackson
+Jack Russel Terrier,7296.8043,34.2101,14.1021,high,high,short,female,Walter
+English Setter,33954.6924,64.7312,10.8727,high,high,long,male,King
+Dalmatian,25946.0821,48.0,13.0431,med,high,short,female,Mendoza
+English Setter,30684.9173,63.5607,12.4999,high,high,long,male,Castro
+Dalmatian,23651.2579,48.0,12.9275,high,high,short,male,Reed
+Dalmatian,24833.4769,48.0,11.9732,high,high,short,female,Daniels
+Dalmatian,25655.3831,48.0,13.0984,high,high,short,male,Morris
+Dalmatian,23706.6975,,13.6383,high,high,short,female,Ortiz
+Jack Russel Terrier,6911.2166,,14.2291,high,med,short,female,Franklin
+English Setter,26737.8174,68.8491,11.4334,med,high,med,female,Michael
+Dalmatian,19939.5784,48.0,12.0966,high,high,short,male,Reed
+Jack Russel Terrier,6201.7681,34.1952,12.5379,high,med,short,male,Wong
+Bichon Frise,3152.7174,29.9948,12.5778,med,high,long,male,Haynes
+Jack Russel Terrier,8380.2239,33.4024,15.0398,high,med,short,male,Henry
+Dalmatian,24853.333,48.0,13.8224,high,high,short,male,Smith
+English Setter,27481.815,52.4,11.8513,high,high,long,female,Barnes
+Bichon Frise,4067.8928,31.1937,14.1762,med,med,med,female,Maldonado
+Jack Russel Terrier,8638.9127,33.4028,14.3714,med,high,short,female,Powers
+Bichon Frise,4101.0287,30.875,14.7865,med,high,med,female,Thomas
+Bichon Frise,4876.7322,30.6442,13.237,med,high,long,female,Gilbert
+English Setter,21411.5706,59.878,12.4332,high,high,med,male,Allen
+Bichon Frise,3451.5801,30.6624,13.2606,low,high,med,female,Turner
+English Setter,30915.8535,61.2464,10.9948,high,high,med,male,Ward
+Bichon Frise,4860.9607,30.2893,13.3466,med,high,med,female,Anderson
+Bichon Frise,5103.1055,,13.5706,med,high,med,female,Brown
+Bichon Frise,5854.9982,30.6439,12.9631,med,high,med,female,Perez
+Jack Russel Terrier,6145.4542,33.6409,13.2185,high,med,short,male,Allison
+Bichon Frise,3790.7644,30.6134,11.8006,high,high,med,female,White
+Bichon Frise,4493.0872,30.5594,14.3596,med,med,med,female,Fowler
+Jack Russel Terrier,7186.9044,,14.0958,high,med,short,male,Lee
+English Setter,28733.7719,60.3648,14.0123,high,high,med,female,Miller
+Dalmatian,24177.812,48.0,12.979,high,high,short,male,Davis
+Dalmatian,20484.5066,48.0,13.4776,high,med,short,male,Valdez
+English Setter,29764.5041,,11.6017,high,high,med,male,Martinez
+Bichon Frise,5079.9355,30.6307,13.7985,med,high,med,female,Miller
+Jack Russel Terrier,3399.1919,34.4662,14.5476,high,med,short,male,Aguilar
+Bichon Frise,4108.1653,30.5355,12.6901,med,high,med,female,Ramsey
+Jack Russel Terrier,5344.3296,34.0919,14.7217,high,med,short,female,Brown
+Dalmatian,21360.8295,48.0,12.9345,high,high,short,male,Campos
+Bichon Frise,3534.7261,29.9071,13.9672,med,high,med,male,Morgan
+Jack Russel Terrier,6830.5902,34.6151,13.8184,high,high,short,female,Miller
+Jack Russel Terrier,7010.4056,,12.6649,high,med,short,male,West
+Jack Russel Terrier,6473.2538,34.5997,14.8134,high,med,short,male,Patel
+Jack Russel Terrier,6663.2995,,14.2858,med,med,short,male,Lane
+English Setter,25902.0642,60.877,11.2384,high,high,short,male,Anderson
+Dalmatian,22956.2316,48.0,12.3987,high,med,short,female,Fields
+Bichon Frise,5143.6108,30.5823,12.9358,med,med,med,female,Bennett
+Jack Russel Terrier,6747.9487,34.2493,13.9307,high,med,med,male,Barry
+Dalmatian,24473.7777,48.0,12.3054,high,high,short,male,Hansen
+Bichon Frise,4683.4869,30.9233,12.7492,med,high,med,female,Woodward
+English Setter,27075.5546,60.6612,13.5497,high,high,med,female,Gardner
+Bichon Frise,5447.2564,30.969,14.3185,med,high,med,female,Chang
+Dalmatian,24652.5973,48.0,11.821,high,high,short,female,Baird
+Dalmatian,24655.5764,48.0,12.9787,high,high,short,female,Smith
+Jack Russel Terrier,5614.5888,33.5515,14.2115,high,med,short,male,Hutchinson
+English Setter,25701.6101,65.808,11.3536,high,high,long,female,Schroeder
+English Setter,33336.5426,60.1272,9.6836,high,high,med,male,Cameron
+Jack Russel Terrier,5751.953,33.5426,13.84,high,med,short,male,Callahan
+English Setter,26857.5984,62.9649,9.9304,high,high,med,female,Reeves
+Bichon Frise,4003.9445,30.7036,14.8307,med,med,med,female,Allen
+English Setter,35142.1895,65.1637,10.702,high,high,med,male,Montoya
+English Setter,34259.9165,61.2909,12.1927,high,high,med,female,Scott
+Dalmatian,24893.9527,48.0,12.927,high,high,short,female,Hernandez
+English Setter,26337.6563,64.0398,9.4358,high,high,med,male,Sandoval
+English Setter,29550.6734,62.547,13.7456,med,med,med,female,Sellers
+Bichon Frise,4823.8993,30.1309,13.2505,med,high,med,female,Good
+Jack Russel Terrier,6549.9318,,13.9041,high,low,short,female,Soto
+Bichon Frise,4692.9939,30.3092,13.8202,med,high,med,male,Kim
+Jack Russel Terrier,5948.9898,,13.5734,high,med,short,female,Williams
+English Setter,30580.438,67.2554,11.7606,high,high,med,male,Bryant
+Dalmatian,25072.952,48.0,13.1243,high,high,short,female,Jefferson
+Dalmatian,24368.7684,48.0,12.8375,high,high,med,male,Hicks
+Bichon Frise,3845.8997,30.6266,14.1355,med,high,med,male,Thomas
+Dalmatian,21592.3854,48.0,13.6826,high,high,short,male,Martin
+English Setter,31028.4253,58.3684,11.4896,high,high,long,female,Ward
+English Setter,28132.886,58.4406,14.1768,high,high,med,male,Berry
+Dalmatian,22897.1059,48.0,13.5222,high,med,short,female,Hall
+Dalmatian,21209.027,48.0,13.0701,high,high,short,male,Gomez
+English Setter,28690.4371,58.7102,11.0591,med,high,med,male,Gonzalez
+English Setter,25185.4299,63.4302,12.1447,high,high,short,female,Cole
+English Setter,31679.711,61.7507,11.8916,high,high,med,male,Davies
+Bichon Frise,3639.0467,30.62,14.2014,med,high,med,female,Carter
+Dalmatian,25273.7493,48.0,12.8732,high,high,short,male,Green
+Jack Russel Terrier,7612.0105,,13.6709,high,med,short,female,Gonzalez
+Dalmatian,22190.7374,,12.2401,high,high,short,male,Zamora
+Bichon Frise,4158.1872,30.3345,14.9351,med,high,med,female,Black
+Jack Russel Terrier,6200.3358,33.7161,14.7657,high,med,short,male,Costa
+Dalmatian,22996.4717,48.0,13.2819,high,med,short,female,Tate
+Dalmatian,23956.0183,48.0,13.1744,med,high,short,male,Lewis
+English Setter,27094.6496,64.8252,13.9963,high,med,med,male,Ali
+Bichon Frise,4204.298,30.8012,14.896,low,high,short,female,Hill
+Bichon Frise,4518.7637,30.6255,13.5644,med,high,short,male,Underwood
+English Setter,29569.3537,60.3106,13.9124,high,high,med,male,Lee
+Dalmatian,23451.1465,48.0,13.1093,high,high,short,female,Brown
+Bichon Frise,5009.6443,,13.5579,med,high,med,male,Chan
+Dalmatian,27952.1325,48.0,12.5007,high,high,short,male,Moreno
+English Setter,30589.8118,61.7007,13.2584,high,high,med,female,Grimes
+Bichon Frise,5319.2124,30.4054,14.0525,med,high,med,female,Parks
+Bichon Frise,5631.9902,30.2439,13.0466,med,high,med,female,Rodriguez
+Jack Russel Terrier,4652.7264,34.0131,13.7225,high,med,short,female,Prince
+Dalmatian,24775.2047,,12.5098,high,high,short,female,Johnson
+Dalmatian,23478.5506,48.0,13.5481,high,high,short,male,Simpson
+Jack Russel Terrier,6188.746,34.0556,14.3685,high,high,short,male,Martinez
+English Setter,34485.0274,61.818,11.8921,high,high,med,male,Campbell
+Dalmatian,20901.0396,48.0,13.0103,high,high,short,male,Marquez
+Bichon Frise,4721.6907,30.0858,14.8074,high,high,med,male,Swanson
+Bichon Frise,5337.7899,,13.5348,low,high,med,female,Durham
+Jack Russel Terrier,5797.3535,35.3194,13.5912,high,med,short,male,Carlson
+Jack Russel Terrier,6560.6439,33.8406,13.4579,high,med,short,male,Tate
+Dalmatian,22516.2882,,13.8868,high,high,short,female,Ruiz
+Jack Russel Terrier,7015.9105,34.0049,14.7038,med,med,short,female,Garcia
+Bichon Frise,4695.5771,29.8855,13.5388,high,high,med,female,Oconnor
+Dalmatian,24139.4762,,13.7913,high,high,short,male,Perez
+Jack Russel Terrier,6316.2965,34.0493,12.7101,high,med,short,female,Wilson
+Bichon Frise,4670.5016,30.6052,12.0217,med,high,med,male,Allen
+Jack Russel Terrier,5159.5757,35.0968,14.1992,high,med,short,male,Graham
+Bichon Frise,5606.7113,30.418,14.3521,med,high,med,male,Salinas
+Bichon Frise,3938.9996,30.8491,13.9583,high,high,med,male,Edwards
+Bichon Frise,2641.987,,13.5818,med,high,long,male,Allen
+Dalmatian,25194.0251,48.0,13.2079,high,high,short,female,Smith
+English Setter,28259.027,67.554,11.915,high,med,med,female,Brown
+English Setter,30988.7841,62.3375,11.9569,high,high,med,male,Dennis
+Jack Russel Terrier,7765.5482,33.7089,14.1875,high,med,short,female,Brown
+Jack Russel Terrier,7624.1421,33.5611,14.2347,high,med,med,female,Barry
+English Setter,36166.0056,,12.5702,high,med,med,male,Santos
+Bichon Frise,4963.2277,,12.8042,med,high,med,female,Howard
+Dalmatian,23152.8283,48.0,13.9054,high,high,short,male,Powell
+English Setter,22245.9267,62.1867,13.1237,high,high,med,female,Miller
+Dalmatian,25381.2643,48.0,12.5543,high,high,short,female,Norris
+Dalmatian,27027.7602,48.0,13.1411,high,high,short,female,Johnson
+Jack Russel Terrier,7081.6252,,13.7535,high,med,short,male,Hughes
+English Setter,28196.2719,59.9935,13.6869,high,med,med,male,Jones
+Jack Russel Terrier,6080.2407,35.1676,13.0773,high,med,short,female,Dickson
+Bichon Frise,4270.7635,,14.8811,med,high,med,male,Alexander
+English Setter,33018.8292,64.2291,11.4011,high,high,med,female,Gilmore
+Jack Russel Terrier,7769.9894,33.3588,13.3699,high,med,short,male,Collins
+Dalmatian,24316.9965,48.0,12.8911,high,high,short,female,Ramirez
+English Setter,30682.5921,62.9154,13.7011,high,high,med,female,Suarez
+Jack Russel Terrier,5193.6039,33.7679,14.6192,high,low,short,female,Gregory
+Dalmatian,22133.3178,48.0,12.8495,high,high,short,female,Ramirez
+Dalmatian,28752.5502,48.0,13.5693,high,high,short,male,Collins
+Jack Russel Terrier,7545.866,33.989,13.5455,high,med,short,male,Hall
+Dalmatian,21387.5636,48.0,12.3362,high,high,med,female,Waters
+Bichon Frise,3244.8012,30.2641,13.7482,med,high,med,male,Fletcher
+Dalmatian,23887.9585,,13.3002,high,high,short,male,Humphrey
+Jack Russel Terrier,9227.6445,34.4502,14.4791,high,med,short,female,Holmes
+Dalmatian,23674.2463,,13.2221,high,med,short,male,Short
+Bichon Frise,4627.1715,30.8455,12.8696,med,high,med,male,Carlson
+Bichon Frise,4779.0108,30.2582,13.694,low,med,med,male,Duncan
+Bichon Frise,3693.292,,14.0307,med,high,long,female,Hanson
+Jack Russel Terrier,6258.0851,33.701,13.8768,high,med,short,male,Jones
+Jack Russel Terrier,5985.9544,34.7421,14.0509,high,med,short,male,Butler
+Jack Russel Terrier,5684.5612,,13.7757,high,med,short,female,Harrington
+Bichon Frise,4107.7015,31.1245,13.1901,med,high,med,male,Benton
+English Setter,33931.9685,,13.2865,high,high,med,male,Short
+English Setter,27080.9162,64.316,12.6404,high,high,med,male,Cooper
+Jack Russel Terrier,6742.6594,34.69,14.2102,high,high,med,female,Hood
+Dalmatian,25631.2423,48.0,13.5359,high,high,short,female,Cooper
+English Setter,31351.2305,58.4799,11.0192,high,high,med,female,Camacho
+English Setter,30378.0548,,9.3459,high,high,med,male,Martin
+Dalmatian,24877.0659,48.0,14.2282,high,high,short,male,Smith
+English Setter,33015.2517,,11.3534,high,high,med,male,Santos
+Dalmatian,24023.0555,48.0,12.9464,high,high,short,female,Jennings
+Jack Russel Terrier,6039.4723,34.1318,12.8104,med,med,short,male,Holloway
+Dalmatian,21397.536,48.0,12.6884,high,high,short,male,Shaw
+Bichon Frise,3365.3324,30.5019,13.6567,med,high,med,female,Elliott
+Jack Russel Terrier,5714.4851,33.7482,13.9939,high,med,short,female,Johnson
+Dalmatian,20285.8606,48.0,14.2952,high,high,short,female,Austin
+Bichon Frise,5532.4947,29.6344,14.1799,high,high,long,male,Thomas
+Bichon Frise,3820.8654,30.069,14.5974,high,med,short,male,Green
+Jack Russel Terrier,8816.8517,34.9307,15.3906,high,high,short,female,Moss
+English Setter,27315.4956,,10.9981,high,high,med,male,Lewis
+Jack Russel Terrier,6216.3964,34.3768,13.2408,high,med,short,female,Rivera
+Dalmatian,22409.2507,48.0,12.8393,high,high,short,male,Hays
+Dalmatian,23389.2911,48.0,12.8866,high,high,short,female,Neal
+Bichon Frise,4686.624,30.6015,13.5743,med,high,short,female,Peterson
+Bichon Frise,5295.1576,30.5107,13.7929,med,med,med,female,Tucker
+Dalmatian,19227.9262,48.0,13.1891,high,med,short,male,Perez
+Bichon Frise,3920.6672,,12.6919,med,high,long,female,Watts
+Jack Russel Terrier,7611.7455,34.1929,14.4428,high,med,short,female,Rogers
+Jack Russel Terrier,7195.423,33.8093,14.241,high,med,short,male,Johnson
+Bichon Frise,3831.7194,30.3653,14.0528,med,med,med,male,Miller
+Jack Russel Terrier,7431.7012,,14.33,high,med,short,male,Crawford
+Jack Russel Terrier,4894.9475,34.3039,14.3836,med,med,short,male,Ward
+English Setter,26276.1724,58.655,11.3937,high,high,long,female,Ritter
+English Setter,30841.3416,63.3814,12.4058,high,med,med,male,Willis
+Jack Russel Terrier,6908.3363,33.6828,14.1499,high,med,short,male,Annette
+English Setter,29009.9813,60.443,12.3044,high,high,med,male,Taylor
+Jack Russel Terrier,6767.7613,33.1125,14.3598,high,med,short,female,Wallace
+English Setter,22961.9183,,10.7949,high,high,med,female,Wilson
+Dalmatian,23762.868,48.0,13.4196,high,high,short,female,Grimes
+English Setter,33493.5007,60.2988,11.9357,high,med,med,female,Clark
+Dalmatian,22311.3356,,13.7295,high,high,med,female,Johnson
+English Setter,26862.7723,61.7196,12.4165,high,high,med,male,Edwards
+Dalmatian,23067.0969,,13.0365,high,high,med,female,Mcguire
+Jack Russel Terrier,6127.739,34.2225,13.7991,med,high,short,female,Diaz
+Jack Russel Terrier,7266.9656,33.8835,13.373,high,med,short,male,Steele
+Jack Russel Terrier,6381.2965,33.2819,14.0707,med,low,short,male,Brooks
+English Setter,24062.3759,63.2291,13.7048,high,high,med,female,Walker
+Jack Russel Terrier,5920.7929,33.0661,14.1897,med,med,short,female,King
+English Setter,29518.0414,64.0333,10.9849,high,med,med,male,Brown
+Bichon Frise,6114.4092,30.7432,13.953,med,high,med,female,David
+Bichon Frise,3822.4072,30.6641,12.8148,med,high,long,male,Clark
+Dalmatian,23717.6933,48.0,13.1899,high,high,short,male,Lopez
+Dalmatian,25274.864,48.0,12.8114,high,high,short,male,Daniel
+English Setter,27662.2704,57.5507,13.2047,high,high,short,male,Mosley
+English Setter,32193.8745,62.9848,11.4291,med,high,med,male,Morales
+Bichon Frise,6100.6085,30.0163,14.007,med,high,med,female,Dominguez
+English Setter,26278.9014,,13.5372,high,high,med,female,Bradley
+Bichon Frise,4439.6245,30.2756,12.7572,med,high,long,male,Page
+Bichon Frise,3558.3696,,15.4453,med,high,med,female,Jones
+English Setter,27272.681,,12.9898,high,high,med,female,Thompson
+Bichon Frise,4812.5538,30.5823,12.6515,low,high,med,male,Manning
+English Setter,19752.715,66.1598,10.7984,high,high,med,female,Jensen
+Dalmatian,23114.498,,12.1791,high,high,short,female,White
+Bichon Frise,4857.8296,30.6748,13.4621,med,high,med,female,Bennett
+Bichon Frise,4183.6557,30.3306,14.8801,low,high,med,female,Haynes
+English Setter,26973.3733,63.3063,11.8388,high,high,med,female,Lin
+Dalmatian,25454.0569,48.0,13.4266,high,high,short,male,Huang
+Dalmatian,23991.2186,,14.0161,high,high,short,male,Sandoval
+Jack Russel Terrier,5201.3941,35.1931,13.6,high,med,short,male,Pope
+Jack Russel Terrier,5271.4629,,14.1621,high,med,short,male,Woods
+Bichon Frise,4311.1812,,13.7048,med,high,med,male,Stout
+Dalmatian,26396.9348,48.0,13.7223,high,med,short,female,Baker
+Jack Russel Terrier,5112.9531,33.6035,13.7776,high,med,short,male,Haney
+English Setter,33160.774,,11.8858,med,high,med,female,Jones
+Jack Russel Terrier,5856.691,,14.9685,high,low,short,male,Best
+English Setter,30881.6235,66.4951,12.7821,high,high,long,female,Lopez
+Bichon Frise,2442.2967,30.4671,12.8305,med,high,med,female,Golden
+Dalmatian,22477.3022,,12.7389,high,high,short,female,Sanchez
+Jack Russel Terrier,7263.3276,33.7242,13.1801,high,high,short,female,Smith
+Jack Russel Terrier,6099.8189,34.8089,15.2798,high,low,short,male,Rice
+Dalmatian,24901.5819,,13.5137,high,high,short,female,Whitney
+Jack Russel Terrier,5318.0151,,13.9969,high,med,short,male,Hendricks
+Dalmatian,20585.0192,48.0,12.9611,high,high,short,female,Turner
+English Setter,24538.6825,63.1201,12.9272,high,high,med,female,Clark
+Bichon Frise,4654.573,30.2888,14.6835,med,high,long,male,Barnes
+Dalmatian,20744.3838,48.0,12.7033,high,high,short,female,Grimes
+English Setter,36647.4068,58.864,11.4662,high,high,med,male,Bush
+English Setter,35179.3265,59.2551,12.441,high,high,med,female,Lopez
+English Setter,27003.2545,,11.7054,med,high,short,female,Campbell
+Jack Russel Terrier,8306.9756,34.1016,12.42,med,med,short,female,Rebecca
+English Setter,29452.0315,65.0099,13.5307,high,high,med,male,Erickson
+Bichon Frise,5056.9023,30.4668,13.2381,med,high,med,female,Hobbs
+English Setter,25473.981,66.1622,11.0161,high,med,short,male,Collins
+Dalmatian,26104.7608,48.0,13.2071,high,high,short,male,Fields
+Jack Russel Terrier,6733.8335,34.4688,13.1936,high,med,short,male,Wright
+Jack Russel Terrier,8051.734,33.8538,13.0477,high,med,med,male,Delacruz
+Jack Russel Terrier,5353.5814,32.858,15.357,high,high,short,female,Watts
+Dalmatian,22991.6305,48.0,13.0918,high,high,short,male,Bell
+Dalmatian,22961.3775,48.0,13.4458,high,med,short,male,Gutierrez
+Bichon Frise,4371.1878,30.626,15.1697,med,high,med,male,Brady
+Bichon Frise,2398.7876,30.0474,12.9266,high,high,med,male,Murray
+Jack Russel Terrier,7297.9363,33.9236,13.9879,high,med,short,male,Garcia
+Dalmatian,24309.4299,48.0,13.0974,high,high,short,female,Beck
+Bichon Frise,3962.7475,30.2966,16.0368,med,high,med,male,Bell
+English Setter,25497.4723,,9.9625,med,high,med,male,Mendoza
+Dalmatian,21736.2464,48.0,13.4281,med,med,short,male,Moore
+Dalmatian,20983.2863,,12.6569,high,high,short,male,Gutierrez
+English Setter,30153.4095,65.9204,11.492,high,high,short,female,Larson
+Jack Russel Terrier,6642.525,34.6805,13.9055,high,med,short,female,Brown
+Dalmatian,17522.3609,,12.721,high,med,short,male,Anderson
+Dalmatian,22604.3709,,12.5808,high,high,short,male,Baker
+Jack Russel Terrier,6853.7455,33.11,14.1239,high,med,short,male,Rodriguez
+Jack Russel Terrier,5255.154,33.3037,14.7131,high,med,short,male,Blankenship
+Bichon Frise,4542.3022,,12.0585,med,high,med,male,Hancock
+English Setter,18150.6579,62.3282,11.2233,high,high,med,female,Wright
+Dalmatian,26746.0172,,13.0023,high,high,short,female,Smith
+Bichon Frise,6013.031,30.0907,13.1312,med,high,med,female,Lambert
+Bichon Frise,4758.2286,30.336,15.2476,med,high,med,male,Atkins
+Jack Russel Terrier,6460.2854,,14.1263,high,med,short,male,Floyd
+Bichon Frise,5411.9803,,13.7337,med,high,med,male,Thomas
+Bichon Frise,4997.5581,30.8376,13.5265,med,high,med,female,Blanchard
+Jack Russel Terrier,6938.2122,,13.9723,med,low,short,female,Williams
+Jack Russel Terrier,7003.4784,32.7683,14.0072,high,med,short,female,Wilson
+Bichon Frise,4319.2026,30.2858,11.9344,med,high,med,male,Barnes
+Jack Russel Terrier,5604.9268,33.82,13.5215,high,high,short,male,Payne
+Bichon Frise,6248.0845,30.5601,13.8755,med,high,med,female,Johnson
+English Setter,30966.5394,64.4808,12.8272,high,high,med,female,Nielsen
+Bichon Frise,4035.3431,30.4955,13.4082,med,high,long,female,Velazquez
+Jack Russel Terrier,6148.9023,33.4992,13.9893,high,med,short,male,Burns
+Bichon Frise,4446.2401,30.6069,12.8576,med,high,med,male,Smith
+English Setter,34069.3503,60.0052,11.9238,high,high,med,female,Zhang
+Jack Russel Terrier,6733.8469,34.3246,13.8466,high,med,short,female,Garcia
+Dalmatian,24876.3678,,13.2758,high,high,short,female,Burns
+English Setter,33569.7122,64.0258,11.4224,high,high,med,female,Richards
+Dalmatian,20638.5683,48.0,13.3426,high,high,short,female,Golden
+Jack Russel Terrier,5472.0161,33.3098,13.9773,high,med,short,female,Barrera
+Bichon Frise,4550.398,30.5568,14.1773,med,high,med,female,Hawkins
+Dalmatian,22691.0461,48.0,13.5315,med,high,med,male,Madden
+English Setter,32421.3772,,12.3052,high,high,med,female,Mitchell
+Jack Russel Terrier,8182.9733,34.0115,13.2994,med,med,short,female,Lopez
+Dalmatian,22131.5659,,12.6128,med,high,short,male,Lewis
+Jack Russel Terrier,5035.2907,34.1208,14.0747,med,high,short,female,Cantrell
+Dalmatian,21669.2724,48.0,13.1538,high,high,short,female,Wilson
+Dalmatian,23558.7874,48.0,12.6046,high,high,short,male,Koch
+Bichon Frise,5635.7957,30.9216,12.4826,med,high,med,male,Harrison
+Dalmatian,26402.3352,48.0,13.2105,high,high,short,male,Jimenez
+Bichon Frise,3090.2251,,13.0762,med,high,med,female,Cox
+Dalmatian,21859.6557,48.0,12.4288,high,high,short,female,Smith
+English Setter,29908.2884,63.29,10.6982,high,med,long,female,Williams
+Bichon Frise,3520.8304,30.2204,13.2776,med,high,med,male,Keller
+English Setter,21750.6533,60.0213,11.8133,high,high,med,male,Bryant
+Dalmatian,24231.2056,48.0,12.5764,med,high,short,male,Burns
+English Setter,27866.1377,62.2135,12.5131,high,high,med,female,Flowers
+Dalmatian,23479.2328,48.0,12.4781,high,high,short,female,Jones
+Jack Russel Terrier,5317.0233,33.9906,14.4154,high,med,short,female,Gray
+Bichon Frise,3393.6012,31.094,15.1989,med,high,med,female,Noble
+Jack Russel Terrier,6779.3374,33.6365,15.0504,high,med,short,male,Hall
+English Setter,26579.2945,60.6558,12.6625,high,high,med,female,Thomas
+Dalmatian,23335.6408,,13.5764,high,high,short,male,Harris
+Bichon Frise,5029.5578,30.4074,13.7919,med,high,long,female,Warren
+Jack Russel Terrier,5369.6114,34.4803,13.6044,high,med,short,female,Sweeney
+English Setter,25986.7358,63.9852,10.301,high,high,med,female,Norman
+Bichon Frise,2571.4079,30.2003,13.2285,med,high,long,female,Wade
+Dalmatian,26667.0382,48.0,12.4628,high,high,short,male,Colon
+Jack Russel Terrier,5393.5383,34.4266,14.8209,high,med,short,female,Mcdonald
+Dalmatian,25307.3024,48.0,13.7281,high,high,med,male,Berry
+Jack Russel Terrier,5650.1275,34.7925,14.8998,high,high,short,male,Wagner
+Jack Russel Terrier,7473.845,34.1352,13.6396,high,med,short,male,Ward
+Jack Russel Terrier,5559.2932,,13.8603,high,low,med,male,Barr
+English Setter,26281.3797,,12.9588,high,high,med,female,Rodriguez
+Jack Russel Terrier,6000.5713,35.1893,13.5199,high,med,short,male,Gregory
+Bichon Frise,4925.5372,30.7777,14.2007,low,high,short,male,Fisher
+Bichon Frise,4841.9618,30.7613,13.076,med,med,med,female,Taylor
+Dalmatian,22736.6047,48.0,12.6734,high,high,short,female,Guerrero
+Jack Russel Terrier,6194.9312,33.6934,13.5675,high,med,short,male,Jones
+English Setter,27341.2376,59.7794,10.931,high,high,med,female,Thompson
+Dalmatian,21634.0406,48.0,12.3183,high,high,short,male,Young
+English Setter,26424.3756,62.8624,11.3471,high,high,short,female,Price
+Jack Russel Terrier,4958.7289,32.9702,14.234,high,med,short,female,Douglas
+Bichon Frise,6341.1557,30.651,13.5762,med,high,med,male,Price
+Jack Russel Terrier,7139.3149,,14.5686,high,high,short,female,Contreras
+Bichon Frise,4168.1949,30.6901,12.1213,low,high,med,female,Booker
+Bichon Frise,3222.9724,30.3686,14.0595,med,high,med,female,Marshall
+Dalmatian,24476.983,48.0,11.6894,high,high,short,male,Woods
+Jack Russel Terrier,4649.9268,34.3172,14.478,high,med,short,female,Cardenas
+English Setter,29364.3986,64.4387,11.4097,high,high,med,male,Morales
+English Setter,34519.7839,67.141,11.5458,high,high,med,female,Jones
+Bichon Frise,5593.3615,30.8342,13.8464,med,high,med,male,Patrick
+Dalmatian,22591.4454,48.0,13.0142,high,med,short,female,Smith
+Dalmatian,24342.3005,,13.4864,med,high,short,female,Dougherty
+Dalmatian,21476.4452,48.0,13.2199,high,high,short,female,Day
+Bichon Frise,5171.4417,30.2788,13.3752,high,high,short,female,Mason
+Dalmatian,24276.8595,48.0,13.5816,high,high,short,male,Porter
+Dalmatian,23379.862,48.0,13.439,high,med,short,female,Moore
+Dalmatian,24180.1535,48.0,13.8415,high,high,short,female,Perez
+Jack Russel Terrier,6913.1602,34.0075,13.9998,high,med,short,male,Cain
+Dalmatian,24378.2924,48.0,13.5951,high,high,short,female,Castillo
+English Setter,22132.8172,63.9731,11.2841,high,high,med,female,Yates
+Jack Russel Terrier,7457.1697,,13.7406,high,med,short,female,Mccoy
+Bichon Frise,5186.3794,30.9667,14.0924,med,high,med,male,Schmidt
+Bichon Frise,4846.5961,29.9074,15.4584,med,high,short,male,Perry
+Jack Russel Terrier,5900.6526,,14.3372,high,med,short,female,Silva
+Bichon Frise,3326.5572,30.9839,13.4335,med,med,med,female,Brown
+Jack Russel Terrier,6688.2855,33.715,13.0328,high,med,short,male,Parker
+Dalmatian,21965.0947,48.0,13.3622,high,high,short,female,Ward
+English Setter,36594.5864,64.28,11.1833,high,high,med,male,Mann
+Dalmatian,19175.2963,48.0,11.6865,high,high,short,female,Fernandez
+Bichon Frise,3080.0627,30.7096,13.8342,med,high,med,male,Cuevas
+Bichon Frise,5700.7213,30.0847,11.9038,low,high,med,female,Johnson
+English Setter,32151.1423,62.1872,11.0449,high,high,med,female,Palmer
+Jack Russel Terrier,7500.9441,33.1531,13.6378,high,low,short,female,Gutierrez
+Dalmatian,29296.4002,48.0,13.4355,high,high,short,female,Cooper
+Bichon Frise,4308.0805,30.8092,12.7594,med,med,long,male,Nguyen
+Dalmatian,26542.589,48.0,12.7255,high,high,short,female,Medina
+Bichon Frise,3394.1087,30.5466,12.2801,med,high,med,female,Johnson
+Bichon Frise,4259.935,,15.0207,med,high,med,male,Richards
+English Setter,26472.1081,64.3136,11.7176,high,high,med,female,Ingram
+Jack Russel Terrier,6742.6068,33.8786,13.8101,high,med,short,female,Bender
+English Setter,22014.114,64.0996,12.6224,high,high,med,female,Thornton
+English Setter,30726.5314,63.842,12.3267,high,high,med,female,Sanchez
+Dalmatian,23406.2625,,12.9492,high,high,short,male,Watkins
+Jack Russel Terrier,7558.3264,,13.1123,high,high,short,female,Li
+Dalmatian,21383.3777,48.0,13.2266,high,high,short,male,Robinson
+English Setter,23539.3458,60.4909,11.5286,high,high,med,female,Lynch
+Dalmatian,25361.546,48.0,13.4,high,high,short,female,Johnson
+English Setter,28364.8365,,11.3925,high,high,med,female,Gonzalez
+Jack Russel Terrier,6196.1193,34.3577,13.8374,high,med,short,male,Peterson
+English Setter,29814.7459,,12.6986,high,high,med,female,Virginia
+Dalmatian,21571.198,48.0,12.7782,high,high,short,female,Adkins
+English Setter,25618.6507,57.3088,13.9427,high,high,med,male,Zhang
+Bichon Frise,5411.8658,30.181,12.5738,med,high,med,female,Bishop
+Dalmatian,25234.3068,,13.6338,high,high,short,male,Cross
+Bichon Frise,5277.6711,,12.4512,med,high,long,male,Oliver
+Dalmatian,26153.612,48.0,13.8042,high,high,short,female,Small
+Dalmatian,22277.3985,48.0,12.7038,high,high,short,female,Boyer
+Dalmatian,25588.9851,48.0,13.0668,high,med,short,male,Scott
+Bichon Frise,4252.7903,,12.7076,med,med,med,female,Crosby
+Jack Russel Terrier,5739.1971,,14.4448,high,med,short,female,Gordon
+English Setter,27381.4643,62.8421,11.7415,high,high,short,male,Arnold
+Bichon Frise,3535.2241,30.6689,13.9187,med,high,short,male,Malone
+Jack Russel Terrier,5070.4962,33.4884,13.5393,high,med,short,male,Tran
+Bichon Frise,4067.6028,30.4076,12.3386,high,high,med,female,Jordan
+Dalmatian,23989.106,,13.6311,high,high,short,male,Bailey
+Jack Russel Terrier,7002.2849,33.6977,13.4218,high,med,short,male,Martinez
+Jack Russel Terrier,5889.3702,32.0107,13.8897,high,med,short,female,Douglas
+Dalmatian,23542.5305,,13.0318,high,high,short,female,Wagner
+Jack Russel Terrier,7636.1922,,14.0154,high,high,short,female,Davis
+Jack Russel Terrier,5658.8578,34.1642,12.2965,high,med,short,female,Sherman
+Bichon Frise,3216.3669,30.1853,13.8112,med,high,med,female,Sanchez
+Jack Russel Terrier,7601.0775,33.9237,14.0169,high,low,med,male,Shelton
+English Setter,24145.9481,65.3366,12.7052,high,high,med,male,Jones
+Bichon Frise,4172.6968,30.6303,13.7468,low,high,med,male,Diaz
+English Setter,29771.027,61.0912,12.7406,med,med,short,female,Paul
+Jack Russel Terrier,8226.129,33.6919,13.9284,high,med,short,female,Clayton
+Jack Russel Terrier,7770.5497,33.6489,13.5192,high,high,short,male,Hill
+Bichon Frise,3787.3794,29.8366,14.1886,med,high,med,male,Mcintosh
+Jack Russel Terrier,4709.977,,13.0404,high,med,short,female,Lyons
+Jack Russel Terrier,7210.4837,32.8892,14.2337,high,high,short,male,Baxter
+Dalmatian,27244.1403,48.0,13.1662,high,high,short,male,Lee
+Bichon Frise,5233.4113,30.257,10.8917,med,high,med,male,Banks
+Jack Russel Terrier,7481.5839,33.5523,14.0489,high,low,short,female,Mcintosh
+Dalmatian,25146.147,48.0,12.2785,high,high,short,male,Delgado
+Dalmatian,26244.9358,48.0,12.7464,high,high,short,male,Dixon
+Jack Russel Terrier,5924.8745,34.0768,13.5998,high,med,short,male,Walsh
+English Setter,28259.0141,,12.366,high,high,long,female,Martinez
+English Setter,29309.9545,63.3606,14.1444,high,high,med,male,Peterson
+Jack Russel Terrier,6087.8068,,14.3705,high,med,short,male,Wang
+Bichon Frise,4344.9616,,14.1999,med,high,med,male,Pratt
+English Setter,25291.9855,63.9894,9.6522,high,high,med,male,Heath
+Bichon Frise,4636.236,30.4262,13.5431,med,high,med,male,Baker
+Bichon Frise,3513.643,30.3198,13.6702,med,high,med,male,Bradley
+English Setter,20961.2011,,9.8319,high,high,med,female,Becker
+Bichon Frise,5200.3104,30.7334,12.2323,high,high,med,female,Dudley
+English Setter,26761.3174,69.5108,10.9435,high,high,med,female,Rivera
+Jack Russel Terrier,6947.2573,33.4789,13.5788,high,med,med,female,Morris
+Jack Russel Terrier,8151.2394,33.8281,14.1294,high,med,short,male,Zimmerman
+Bichon Frise,2848.1668,30.498,13.9918,med,high,short,female,Mathis
+English Setter,28037.0064,,13.0151,high,high,med,female,Dickerson
+Dalmatian,23153.5814,48.0,12.8586,high,high,short,female,Lewis
+English Setter,24330.869,,10.6194,high,high,med,female,Johnson
+Jack Russel Terrier,4721.5566,33.3775,14.1133,med,low,med,male,Dawson
+Jack Russel Terrier,6417.7067,34.396,14.2306,high,med,short,female,Silva
+Bichon Frise,6102.1568,30.6725,13.9326,med,high,short,female,Turner
+Jack Russel Terrier,5993.9874,34.707,14.2034,high,med,short,female,Hernandez
+Dalmatian,22283.3254,,11.9696,high,high,short,female,Bell
+Bichon Frise,5602.1593,30.301,13.5605,med,high,med,female,Dunlap
+Jack Russel Terrier,7303.263,33.4765,12.8795,high,high,short,male,Howard
+Jack Russel Terrier,5740.3578,33.7088,13.7444,high,med,short,female,Morgan
+English Setter,28091.5948,61.2608,10.8183,high,high,med,male,William
+Bichon Frise,5165.6569,29.4946,12.9234,med,high,med,male,Watts
+Bichon Frise,3904.6114,30.3754,12.6366,low,high,med,male,Alvarez
+Jack Russel Terrier,6093.2384,34.7825,13.545,med,med,short,male,Davenport
+English Setter,17405.8858,61.9707,10.3006,high,med,short,male,Rice
+English Setter,25149.5758,63.6831,14.472,high,high,med,male,Trevino
+Jack Russel Terrier,5971.5936,,13.5449,high,med,short,female,Ramsey
+Dalmatian,23436.6786,,12.9984,med,high,short,male,Mann
+Jack Russel Terrier,7212.6632,,13.845,high,high,short,male,Vaughan
+Jack Russel Terrier,6292.318,,15.0276,high,med,short,female,Rodriguez
+Dalmatian,22488.1342,,13.0677,high,high,short,male,Fox
+Dalmatian,26178.2906,48.0,13.6104,high,high,short,female,Barnes
+Dalmatian,25499.4035,48.0,12.6631,med,high,short,male,Jennings
+English Setter,29207.3799,63.088,12.8076,high,high,med,male,Porter
+English Setter,26482.8561,61.8952,11.8355,med,high,med,male,Parks
+Dalmatian,20965.4142,48.0,12.4272,high,high,short,male,Robinson
+Jack Russel Terrier,6514.2807,34.2853,14.0981,high,med,short,male,Schmitt
+Jack Russel Terrier,8364.9129,,15.6408,high,med,short,female,Sparks
+English Setter,28003.9898,60.9188,14.2352,high,high,med,male,Hinton
+Jack Russel Terrier,7388.6586,,14.1801,med,med,short,female,Vazquez
+Bichon Frise,3625.4269,30.5223,13.5892,med,high,med,male,Beck
+Jack Russel Terrier,6761.0253,,14.1873,med,med,short,male,Haynes
+Bichon Frise,3864.1849,30.283,12.8272,med,high,med,female,Bird
+Bichon Frise,3971.8665,30.277,12.926,low,high,long,female,Graves
+Dalmatian,22288.4931,48.0,12.3307,high,high,short,female,Mitchell
+Dalmatian,23648.4385,48.0,13.0498,high,med,short,female,Robbins
+Jack Russel Terrier,5788.3469,34.1493,14.2493,high,high,short,male,Hudson
+Bichon Frise,3224.3768,,14.5399,med,high,med,female,Sanchez
+Bichon Frise,4497.5303,29.9478,13.3314,med,high,med,male,Blake
+English Setter,33086.6911,60.814,9.8656,high,high,short,female,Flowers
+Bichon Frise,5471.8989,30.3643,15.7185,med,high,med,male,Cox
+Bichon Frise,5291.2628,30.5038,13.1882,med,high,med,female,Scott
+Jack Russel Terrier,8338.0327,33.5523,14.2838,high,med,short,male,Parker
+English Setter,27603.3335,,10.1524,high,high,med,male,Shaffer
+English Setter,25750.0644,64.1275,13.4007,high,high,med,male,Hall
+Jack Russel Terrier,7816.6508,34.5417,14.8993,high,med,short,male,Gonzalez
+English Setter,27613.2664,66.4864,12.3339,high,high,med,female,Marshall
+English Setter,32240.0124,65.005,11.3758,high,high,med,male,Ramirez
+English Setter,33888.0155,62.4627,14.1058,high,high,med,male,Smith
+Dalmatian,25252.7105,48.0,13.2586,med,high,short,male,Lang
+Jack Russel Terrier,7821.0803,35.9044,14.365,high,med,med,female,Johnson
+Dalmatian,23864.0625,48.0,13.9655,high,high,short,female,Ross
+Dalmatian,23843.7114,48.0,13.1012,med,high,med,male,Lee
+Bichon Frise,4574.1767,30.8776,12.141,med,high,med,female,Johns
+Bichon Frise,5041.8952,29.8456,12.6975,med,high,med,male,Schneider
+English Setter,31223.0387,,12.2107,high,high,med,male,Woods
+Dalmatian,19618.9516,48.0,14.6514,high,high,short,female,Green
+Dalmatian,25865.742,48.0,13.2963,high,high,short,male,Jones
+Bichon Frise,3883.4733,30.9606,12.3735,med,high,med,female,Johnson
+Bichon Frise,4642.0089,30.8383,13.437,med,med,long,male,Spencer
+Dalmatian,17916.7087,,14.1593,high,high,short,female,Higgins
+Jack Russel Terrier,5071.1587,,14.2723,high,med,short,male,Jones
+Jack Russel Terrier,6736.6247,32.9611,12.7907,high,med,short,female,Barton
+Dalmatian,25064.5739,48.0,11.7277,high,high,short,male,Carter
+Jack Russel Terrier,7981.5597,34.3069,13.6737,high,low,short,female,Davidson
+Bichon Frise,3576.5691,30.5094,12.5977,med,high,med,female,Dudley
+English Setter,21611.1839,59.31,11.6414,med,high,med,male,Santiago
+English Setter,25502.9518,63.2392,11.8073,high,high,med,female,Hoffman
+English Setter,34282.8501,60.3372,11.3282,high,high,med,female,Hill
+Dalmatian,23598.1777,48.0,13.9031,high,high,short,male,Thomas
+Jack Russel Terrier,7976.0694,34.5827,15.5114,high,med,short,male,Moore
+Jack Russel Terrier,6237.6585,33.7113,13.4071,high,med,short,female,Wells
+Bichon Frise,4288.5898,30.6747,13.7943,low,med,med,female,Bennett
+English Setter,19225.923,60.2468,10.6412,high,high,med,male,Anderson
+Jack Russel Terrier,6489.8521,,14.0216,med,med,short,male,Peck
+English Setter,18322.207,62.8503,12.651,high,high,med,male,Hill
+Jack Russel Terrier,5405.1886,34.844,13.6959,high,med,short,male,Jordan
+Bichon Frise,4340.1982,,14.8719,med,high,short,female,Chambers
+Bichon Frise,3987.5503,30.498,12.3458,med,high,short,male,Tucker
+Dalmatian,23348.7638,48.0,12.7525,high,high,med,female,Johnson
+English Setter,29160.9996,,11.2997,high,high,short,male,Newman
+Dalmatian,23215.4994,48.0,13.2079,high,high,short,male,Meyers
+Bichon Frise,4291.283,30.811,15.1482,low,high,long,male,Martin
+Bichon Frise,4956.471,30.7301,13.7537,low,high,med,male,Lane
+Jack Russel Terrier,5723.6705,33.1695,13.4883,high,med,short,female,Rodgers
+Dalmatian,28073.065,,13.7721,high,high,short,female,Carly
+English Setter,32585.7713,,11.8081,high,high,med,male,Thompson
+Dalmatian,23772.0712,48.0,12.973,high,high,short,male,Taylor
+Jack Russel Terrier,8333.206,,12.6474,high,high,short,male,Stewart
+Dalmatian,21907.9331,,12.5214,high,high,short,male,Perez
+English Setter,16983.4905,61.681,12.9489,high,med,med,male,Duke
+English Setter,29485.113,,11.909,med,high,med,female,Robinson
+Dalmatian,20770.6481,48.0,13.1983,high,high,short,male,Lopez
+Bichon Frise,4947.8882,30.3894,14.3958,high,high,med,male,Willis
+Jack Russel Terrier,5983.2472,33.2592,13.7768,high,med,short,male,Gutierrez
+Bichon Frise,3204.4495,30.1581,14.6063,med,high,med,female,Bullock
+Bichon Frise,2812.3879,31.0212,11.0707,med,high,med,female,Austin
+Jack Russel Terrier,5340.9454,33.5037,14.1406,high,med,short,female,Bowen
+Dalmatian,21399.3151,48.0,12.5643,high,high,short,male,Garza
+English Setter,28259.6675,,11.336,med,high,med,male,Horn
+Bichon Frise,4582.8918,30.9741,12.2615,high,high,med,male,Bell
+Jack Russel Terrier,5676.7203,34.9966,14.558,high,high,short,female,Soto
+Jack Russel Terrier,6097.1631,34.7616,14.3575,med,low,short,female,Meza
+Jack Russel Terrier,5458.3965,,13.7825,high,low,short,female,Smith
+Bichon Frise,5582.4678,30.3637,14.7082,med,high,short,female,Morgan
+Jack Russel Terrier,5455.2728,34.0769,14.5755,high,med,short,male,Wright
+Dalmatian,24288.5349,48.0,12.3686,high,med,short,male,West
+Bichon Frise,3985.8194,30.053,13.312,med,high,med,male,Spears
+Bichon Frise,5385.6407,,12.2674,med,high,med,male,Martinez
+Dalmatian,21602.0678,48.0,13.3405,high,high,short,female,Lopez
+Dalmatian,23519.6158,,12.7139,high,high,short,male,Reed
+Jack Russel Terrier,6470.267,33.8946,14.405,high,med,short,female,Wilkins
+Dalmatian,27160.924,48.0,13.7856,med,high,short,female,Baldwin
+Dalmatian,22493.9854,48.0,14.1226,high,high,short,female,Boyd
+Dalmatian,22221.1547,48.0,13.4746,med,med,short,female,Harris
+Dalmatian,23723.7788,,13.8109,high,high,short,male,Brown
+Jack Russel Terrier,5068.0144,34.5997,12.2674,high,med,short,female,Wong
+Dalmatian,24438.2737,48.0,13.4013,high,high,short,male,Davis
+Jack Russel Terrier,5964.4404,32.5653,14.1025,high,med,short,male,Lawson
+Jack Russel Terrier,5658.4676,34.4271,14.5627,high,med,short,female,Anderson
+Bichon Frise,5155.2865,,14.3971,med,high,med,female,Barnes
+Jack Russel Terrier,7054.0568,33.4083,12.7517,high,med,short,male,Orozco
+Jack Russel Terrier,3632.5902,34.7323,13.3887,high,high,short,female,Morgan
+Jack Russel Terrier,6340.7309,35.5001,15.449,high,med,short,male,Scott
+English Setter,24829.5476,,10.103,med,high,med,female,Bautista
+Bichon Frise,5359.4627,,13.077,med,high,med,female,Russell
+Bichon Frise,4474.2625,30.3092,15.1444,med,high,med,male,Kelly
+Bichon Frise,4591.1189,30.7066,12.3492,med,high,med,male,James
+English Setter,23068.8376,60.0238,13.3724,high,high,med,female,Lewis
+English Setter,30686.4223,58.302,10.6038,high,high,med,male,Douglas
+English Setter,19768.5294,62.5361,12.7575,high,high,med,male,Lewis
+English Setter,26987.5966,59.7609,13.4977,high,high,med,male,Best
+Dalmatian,22681.7521,,12.1831,high,high,short,female,Cameron
+Jack Russel Terrier,6481.4311,,13.5274,high,med,short,female,Davis
+Dalmatian,22958.371,,13.1903,high,high,short,female,Molina
+Bichon Frise,4251.1317,30.3364,13.5767,med,med,med,male,Henry
+Dalmatian,22569.1089,48.0,13.3994,med,high,short,female,Morton
+Bichon Frise,4208.5717,30.2605,13.1396,med,high,med,female,Morales
+Bichon Frise,4544.7695,30.6949,14.2104,med,high,med,female,Baxter
+Dalmatian,26313.2897,48.0,11.7631,high,high,short,male,Ortiz
+Bichon Frise,5665.3341,30.1637,13.6537,med,high,med,male,Miller
+Dalmatian,23376.8026,48.0,13.3086,high,high,short,female,Levine
+Jack Russel Terrier,7723.6498,33.5103,14.3216,high,med,med,male,Perez
+Bichon Frise,5464.0877,30.3196,12.1261,med,high,med,male,Brooks
+English Setter,29468.4215,60.5525,11.917,high,high,short,male,Shaw
+Dalmatian,22621.6215,48.0,12.9818,med,high,short,female,York
+Dalmatian,22540.8631,,13.801,high,med,short,female,Phillips
+Dalmatian,26362.1996,48.0,13.831,high,high,short,male,April
+Bichon Frise,4104.474,30.5949,11.9909,med,high,med,male,Sullivan
+Dalmatian,23044.1534,48.0,13.0604,high,high,short,female,Smith
+English Setter,32307.618,60.3553,14.6879,high,high,long,male,Le
+Dalmatian,23722.754,48.0,13.2409,high,high,med,female,Jones
+Bichon Frise,5508.3099,30.3467,12.7638,low,high,med,male,Baldwin
+Bichon Frise,5460.1179,29.9947,13.4062,low,med,med,female,Alvarez
+Jack Russel Terrier,7202.0483,,13.9729,high,low,short,female,Conner
+English Setter,26507.9515,64.7779,11.1141,high,high,med,male,Oneill
+Bichon Frise,4735.4868,30.0186,10.5943,med,high,med,female,Salas
+Bichon Frise,5245.3341,30.5875,14.936,med,high,med,female,Miller
+Dalmatian,23249.8723,48.0,13.4141,high,high,short,female,Rivera
+Bichon Frise,3460.4562,30.5398,11.6061,med,high,med,male,Cook
+Bichon Frise,2806.2391,30.2098,13.7991,low,med,med,female,Larsen
+Dalmatian,23697.1465,48.0,13.507,high,med,med,male,Jacobson
+Bichon Frise,4045.9418,30.2969,12.7371,low,high,med,male,Miller
+English Setter,27375.9658,60.7608,14.0102,high,high,med,female,Davis
+Bichon Frise,4443.8983,30.3938,14.7472,med,high,med,female,Stewart
+English Setter,32073.94,62.5999,13.1306,high,med,med,female,Pena
+Dalmatian,21988.6837,48.0,13.8456,high,high,short,female,Padilla
+English Setter,26072.1692,62.5555,14.0996,high,high,med,female,Patrick
+Jack Russel Terrier,5236.0673,33.8944,14.597,high,med,short,female,Bennett
+English Setter,26273.0318,64.2892,13.7393,high,med,short,female,Jordan
+English Setter,32576.6767,,12.7377,high,high,med,female,Burns
+Dalmatian,20665.3138,48.0,13.4836,high,high,short,male,Mcgee
+Jack Russel Terrier,7959.5416,33.6796,13.7571,high,med,short,female,Brock
+Jack Russel Terrier,6212.1018,33.7213,13.6265,high,med,med,male,Hunt
+English Setter,34658.7819,62.1033,10.832,high,high,med,female,Martinez
+English Setter,31437.5162,60.4072,12.0026,high,high,med,female,Bell
+English Setter,24190.6055,61.4308,12.5842,high,high,med,female,Mitchell
+Dalmatian,22845.7404,48.0,13.9803,high,high,short,male,Conrad
+Bichon Frise,4919.6276,30.5444,14.0293,med,high,med,male,Griffin
+Dalmatian,22179.9295,48.0,13.3777,med,med,short,male,Benson
+Dalmatian,27051.0446,,12.6346,high,high,short,female,Williams
+Jack Russel Terrier,6240.7249,32.3881,15.4317,high,med,short,male,Wise
+Bichon Frise,4329.7773,30.5627,11.6932,med,high,short,male,Singh
+Dalmatian,27775.6863,48.0,13.559,high,high,short,male,Hogan
+Dalmatian,18797.5401,,12.9404,high,high,short,female,Hopkins
+English Setter,25449.4608,65.8162,10.5379,high,high,med,female,Mendez
+Bichon Frise,3809.4729,,13.6888,med,high,med,male,Long
+Jack Russel Terrier,6813.0274,33.4957,14.7688,high,med,short,male,Hogan
+Bichon Frise,3529.9741,30.9784,14.4491,med,high,med,male,Barker
+Dalmatian,22911.0814,48.0,13.5655,high,high,short,female,Harvey
+Jack Russel Terrier,5129.4642,34.4699,13.9744,high,high,short,female,Rogers
+Bichon Frise,4444.1506,,12.0962,med,med,med,male,Miller
+Bichon Frise,4035.3115,,12.9753,high,high,short,male,Cortez
+Dalmatian,22827.0872,48.0,13.9417,high,high,short,male,Vaughn
+Bichon Frise,4385.1933,,12.861,med,high,med,male,Phillips
+Dalmatian,21264.538,48.0,12.2758,high,med,short,male,Smith
+Dalmatian,24745.4135,48.0,12.4207,high,med,short,female,Reed
+Jack Russel Terrier,8059.6446,34.2587,14.8961,high,high,short,male,Browning
+Dalmatian,23714.928,48.0,12.627,high,high,short,male,Jenkins
+Bichon Frise,3997.5244,,15.5354,med,high,long,male,Barber
+Dalmatian,25432.0752,,13.278,high,high,short,female,Dillon
+Bichon Frise,5474.167,30.288,13.19,med,med,med,female,Eaton
+Jack Russel Terrier,7828.5496,,15.1429,high,med,short,female,Miller
+Dalmatian,23835.4101,48.0,14.0031,high,high,med,male,Williams
+Jack Russel Terrier,6656.609,,13.3349,high,low,short,female,Meyer
+Jack Russel Terrier,6821.8397,33.5527,14.4983,high,low,short,female,Simpson
+Dalmatian,22511.1625,48.0,12.2736,high,high,short,female,Diaz
+Bichon Frise,4640.2036,30.3435,13.5285,med,high,short,female,Sims
+Bichon Frise,4110.0925,30.7229,14.2795,med,high,med,male,Hart
+English Setter,26845.7154,65.498,12.4464,high,high,med,male,Hunt
+Dalmatian,25468.2044,48.0,14.1402,high,high,short,female,Carpenter
+Dalmatian,21964.2563,48.0,13.2511,high,high,short,male,Knox
+English Setter,23110.3832,60.9131,12.2443,high,high,med,female,Christian
+Dalmatian,18259.5875,48.0,13.6678,med,high,short,male,Mitchell
+English Setter,19298.4576,58.6813,12.1107,high,high,med,male,Logan
+Bichon Frise,5120.4797,,13.2299,med,high,med,male,Gray
+English Setter,16446.0652,62.583,9.5485,med,high,med,female,Jones
+Bichon Frise,5054.0363,,13.3313,med,high,med,female,Mckenzie
+English Setter,33787.2535,63.0698,11.8818,high,high,med,male,Cole
+Jack Russel Terrier,7839.2595,34.6481,14.1095,high,med,med,male,Chase
+Jack Russel Terrier,4732.8082,,13.4539,high,med,short,female,Herrera
+English Setter,28383.6076,62.6914,11.8735,high,high,med,female,Ortiz
+Jack Russel Terrier,6881.0401,34.3271,14.0795,high,med,short,female,Young
+English Setter,23173.6953,,11.4031,high,high,med,male,Rodriguez
+Dalmatian,22530.4773,48.0,13.8067,high,med,short,male,Hayden
+Bichon Frise,4077.5317,30.598,14.7784,med,high,short,female,Shepard
+Dalmatian,23439.3652,48.0,13.566,high,high,short,female,Clements
+English Setter,30704.4151,63.9305,12.9012,high,high,med,female,Peterson
+Dalmatian,25845.5536,48.0,12.8206,high,high,short,female,Jordan
+Jack Russel Terrier,8079.9937,35.0708,14.6757,high,med,short,male,Johnston
+English Setter,25596.4232,,11.0127,high,high,med,female,Bell
+English Setter,33150.8438,59.7207,12.8796,high,high,med,female,Long
+Bichon Frise,3071.3285,30.6787,13.055,med,high,med,female,Salazar
+Bichon Frise,4202.2124,30.7425,15.2375,med,high,med,female,Miller
+English Setter,28503.0065,64.5111,13.1942,high,high,med,female,Lang
+Dalmatian,22957.7413,48.0,13.252,high,high,short,male,Davidson
+Dalmatian,25678.079,48.0,12.6845,high,high,short,male,King
+English Setter,23535.7587,,13.7775,med,high,med,male,Wallace
+Jack Russel Terrier,9081.7272,34.4356,14.6197,high,med,short,male,Green
+Dalmatian,25759.2461,48.0,13.0468,high,high,med,female,Patrick
+English Setter,22875.0921,60.0778,12.5541,med,high,med,male,Collins
+Dalmatian,26339.3657,48.0,13.3337,high,med,short,female,Murphy
+English Setter,24606.6555,61.1461,10.956,high,high,med,male,Rangel
+Dalmatian,23924.9022,48.0,12.8062,high,high,short,female,Price
+English Setter,25662.106,63.6771,13.1436,high,high,med,male,Woodward
+Bichon Frise,4822.5512,30.4126,14.0403,med,high,long,female,Johnson
+Dalmatian,26489.8061,48.0,13.7433,high,high,short,male,Tran
+Jack Russel Terrier,6931.9498,33.9253,13.2379,high,med,short,male,Wallace
+Dalmatian,24763.0678,48.0,12.2289,high,high,short,female,Myers
+Dalmatian,22123.942,48.0,13.4002,high,high,short,male,Mcpherson
+Dalmatian,24145.8072,,13.8474,high,med,short,female,Bailey
+English Setter,24846.8667,62.6938,10.3984,high,high,med,male,Ward
+Dalmatian,23107.1395,,12.8483,high,high,short,male,Hampton
+Dalmatian,23098.712,48.0,12.8381,high,high,short,male,Curtis
+Bichon Frise,4706.9624,30.5037,14.7141,low,high,short,male,Moore
+Bichon Frise,4909.467,30.9459,12.8293,med,med,med,female,Thomas
+Bichon Frise,4469.4555,,13.7192,med,high,med,female,Hamilton
+Dalmatian,22707.0874,48.0,13.433,med,high,short,male,Scott
+Jack Russel Terrier,8149.747,33.9571,14.2115,high,med,short,male,Campbell
+Dalmatian,23062.8919,48.0,13.6954,high,high,short,female,Miller
+Jack Russel Terrier,7125.5829,,14.0391,med,low,short,male,Daniels
+Jack Russel Terrier,6123.1328,34.9614,14.6071,high,med,short,male,Arnold
+English Setter,27223.5908,59.0989,13.1523,high,high,med,female,Gallagher
+Bichon Frise,4003.9999,30.0642,14.0039,med,high,short,female,Graham
+Bichon Frise,5496.4193,30.3027,14.1284,low,high,short,female,Allen
+Bichon Frise,6307.5041,30.6947,13.4145,low,high,med,male,Johnson
+Bichon Frise,3268.5752,30.2656,11.9813,med,high,med,female,Pena
+Jack Russel Terrier,6761.0594,33.8625,13.5163,high,med,med,female,Sanchez
+English Setter,28315.1603,61.5217,11.655,high,high,med,female,Mccullough
+Bichon Frise,3742.386,30.1316,12.0253,med,high,med,female,Daugherty
+Dalmatian,25563.0845,48.0,13.2593,med,high,med,male,Bauer
+Dalmatian,20943.006,48.0,13.9392,high,high,short,female,Jenkins
+Dalmatian,22027.8789,48.0,12.1814,high,high,short,female,Davis
+Bichon Frise,5425.5126,29.9514,14.3318,med,high,med,male,Clark
+Bichon Frise,5468.7256,29.8675,13.5035,med,high,med,male,Sutton
+Dalmatian,21172.345,48.0,12.932,high,high,short,male,English
+Bichon Frise,3821.0255,,13.8194,med,high,long,male,Long
+Bichon Frise,5329.8347,30.2203,13.0954,high,high,med,female,Foster
+Bichon Frise,3151.5465,30.3178,11.5754,high,high,med,female,Bates
+Jack Russel Terrier,7119.7551,,14.0194,high,med,short,female,Schmidt
+Jack Russel Terrier,6367.7492,,14.0798,high,low,short,male,Nunez
+Bichon Frise,4257.3215,29.9486,14.4038,med,high,med,female,Wang
+Bichon Frise,3913.3463,30.3966,14.0998,med,high,long,male,Gonzalez
+English Setter,26679.3626,58.8489,10.2424,high,high,med,male,Pittman
+Dalmatian,24218.3705,,11.9943,med,high,short,female,Mosley
+Dalmatian,25344.4511,48.0,12.3182,high,high,short,male,Gaines
+Bichon Frise,5744.2624,30.5263,13.2706,med,high,med,female,Brown
+English Setter,30524.2781,61.059,13.7945,high,high,long,female,Miller
+English Setter,29025.7537,62.2684,12.4844,high,high,short,female,Cordova
+Dalmatian,22451.8293,48.0,13.2535,med,high,short,male,Aguirre
+Dalmatian,19255.6207,48.0,13.1791,med,high,short,male,Graham
+English Setter,22302.4568,64.5093,11.2083,high,med,med,female,Mercado
+Dalmatian,24946.178,,12.2344,high,high,med,male,Rivera
+Dalmatian,24843.0052,48.0,12.5203,high,high,short,male,Collins
+Jack Russel Terrier,7496.9102,35.3695,14.8568,high,med,med,male,Montgomery
+Dalmatian,22370.7179,,13.2395,high,high,short,female,Vargas
+English Setter,32906.0626,,11.8347,med,high,short,male,Meadows
+Dalmatian,22542.9514,48.0,13.3254,high,high,short,female,Taylor
+English Setter,39094.0608,63.2104,13.8745,high,med,long,female,Leonard
+Dalmatian,26282.0744,48.0,13.327,med,high,short,male,Wilson
+Dalmatian,20892.5793,48.0,12.8201,high,high,short,female,Cox
+Bichon Frise,3162.5066,30.4563,12.5966,med,high,short,female,Wilson
+English Setter,28219.3594,64.6913,11.487,high,high,med,female,Brown
+Bichon Frise,5016.1893,30.8035,15.1459,med,med,med,male,Robbins
+Dalmatian,25488.5222,,13.3103,high,high,med,female,Powell
+Dalmatian,25559.2133,,12.7445,high,high,short,male,Chang
+Jack Russel Terrier,6267.9335,33.9714,14.6406,high,low,short,female,Medina
+Jack Russel Terrier,5514.3261,34.7822,14.2106,high,med,short,female,Martinez
+Jack Russel Terrier,5797.1571,,13.8724,med,med,short,female,Armstrong
+Dalmatian,23516.5565,48.0,13.2801,high,high,med,female,Kelly
+English Setter,26969.7161,63.8342,12.8663,high,high,long,male,Patel
+English Setter,23793.7713,60.4197,10.172,high,high,med,female,Taylor
+Jack Russel Terrier,7504.8325,33.063,13.4204,high,med,short,male,Fowler
+Jack Russel Terrier,7536.1427,33.2005,13.0495,high,med,short,male,Villa
+Dalmatian,23750.2624,48.0,13.0112,high,high,short,male,Lewis
+Jack Russel Terrier,7847.854,33.4281,14.6277,high,med,short,male,Hayes
+Bichon Frise,2893.625,30.5118,12.7421,med,high,med,female,Petersen
+Bichon Frise,4094.0954,30.1205,13.7193,med,high,med,male,Vaughn
+Dalmatian,22573.9368,48.0,13.4514,high,high,short,male,Pearson
+Bichon Frise,3877.3585,,14.0218,med,high,long,female,Mack
+Bichon Frise,5675.5371,30.6516,13.1317,med,high,med,male,Mccullough
+Dalmatian,24117.6469,48.0,13.3865,high,high,short,female,Kennedy
+Bichon Frise,4435.3704,29.8287,11.6939,med,high,med,female,George
+Dalmatian,23103.1198,48.0,13.4514,high,high,short,female,Armstrong
+Bichon Frise,5002.3319,,13.718,med,high,med,female,Heath
+Bichon Frise,6172.1916,30.5107,14.8222,med,high,long,female,Murray
+English Setter,30461.685,62.816,12.6033,high,high,med,male,Sharp
+English Setter,31972.1605,64.6263,10.8388,high,high,med,female,Hanson
+Jack Russel Terrier,7674.7768,33.7309,13.4573,high,med,short,female,Leslie
+Dalmatian,23588.4453,48.0,12.8937,high,high,med,female,Johnson
+English Setter,29935.1164,62.8846,15.5568,med,high,short,male,Nelson
+Bichon Frise,6617.9293,30.6469,13.1776,med,high,med,female,Moyer
+Jack Russel Terrier,6197.7835,34.0516,12.5825,high,med,short,male,Walter
+Jack Russel Terrier,7276.0326,34.2038,13.2117,high,med,short,male,Collins
+Jack Russel Terrier,8644.7216,,13.9867,high,med,short,female,West
+Jack Russel Terrier,6440.3165,34.8979,14.2063,high,med,short,female,Vaughn
+Jack Russel Terrier,7728.9976,,13.8669,high,med,short,male,Woods
+Jack Russel Terrier,6180.918,33.2925,14.6234,high,low,short,female,Martin
+Bichon Frise,4578.2871,30.4132,13.1276,med,high,med,male,Moore
+English Setter,31710.4407,64.5796,13.553,high,high,med,female,Johnson
+Jack Russel Terrier,7485.8975,,14.4004,high,med,short,female,Simon
+Dalmatian,22350.6651,48.0,13.2796,high,med,short,female,Walker
+Bichon Frise,4125.9608,30.4598,15.2189,med,high,med,female,Cruz
+Bichon Frise,4712.0516,30.7854,12.8962,med,high,short,male,Underwood
+Bichon Frise,6301.1766,,13.1064,med,high,med,male,Pittman

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Siberian Husky,18416.6534,52.5625,11.947,med,med,med,female,Johnson
+Great Dane,52003.4677,80.6276,7.2681,med,high,short,female,Kelly
+Great Dane,50232.4527,78.2007,7.9471,med,high,short,male,Conrad
+Amstaff,29066.9442,46.5947,12.193,med,high,short,male,Horne
+Amstaff,25027.8449,45.5821,13.252,med,high,short,female,Sandoval
+Great Dane,48225.8202,79.7929,8.1072,med,high,med,male,Haynes
+Siberian Husky,20350.8806,51.8944,12.5464,med,med,med,female,Daniels
+Great Dane,46555.1809,79.8576,7.0083,med,high,short,female,Russell
+Siberian Husky,17040.5911,53.3327,11.1536,med,med,med,male,Ware
+Amstaff,24795.909,46.6591,14.0786,med,high,short,male,Peters
+Siberian Husky,19362.5028,54.633,12.8862,med,med,med,male,Guerra
+Amstaff,26872.9441,45.4316,13.3308,med,high,short,female,Travis
+Siberian Husky,18996.9515,55.4523,12.1608,low,med,long,female,Armstrong
+Amstaff,31421.65,46.3337,12.4983,med,high,short,female,Smith
+Amstaff,24432.4022,46.7407,13.6327,med,high,short,female,Serrano
+Boxer,33070.6826,57.6705,9.1121,high,high,med,male,Ballard
+Siberian Husky,21873.4831,53.4769,11.6288,med,high,med,male,Mccann
+Great Dane,49508.5165,79.984,6.9569,med,high,short,female,Gonzales
+Amstaff,21307.5442,45.4716,12.4251,high,high,short,male,Caldwell
+Boxer,22878.7748,57.5575,8.3206,high,high,short,female,Reynolds
+Boxer,22730.4827,,9.5914,high,high,short,male,Henderson
+Siberian Husky,18378.6683,54.2783,11.3468,med,med,med,female,Fox
+Siberian Husky,17702.4312,54.8207,12.2846,med,low,med,male,Terry
+Great Dane,49145.1496,80.9696,7.5366,med,high,short,male,Knapp
+Siberian Husky,17271.5598,55.7622,11.6063,med,med,med,female,Archer
+Great Dane,54830.617,,6.9555,med,high,short,female,Allen
+Great Dane,52837.2321,78.3242,7.2048,high,high,short,male,Ponce
+Boxer,27060.1241,58.8514,9.2522,high,high,short,male,Davis
+Amstaff,26411.0721,,12.5274,med,high,short,female,Smith
+Boxer,29642.7026,58.3603,8.7176,high,high,short,female,Bryant
+Boxer,24962.2831,58.5454,10.1519,high,high,short,male,Garcia
+Boxer,30124.057,58.1697,8.7419,high,med,short,female,Rodgers
+Great Dane,46677.0995,77.9972,7.3769,med,high,short,female,Bailey
+Amstaff,32390.4476,46.3143,12.286,med,high,short,female,Johnston
+Great Dane,46224.7239,83.3814,8.7064,med,high,short,male,Miller
+Siberian Husky,20386.4096,55.9622,12.1072,med,med,med,female,Adams
+Siberian Husky,22606.7089,54.2647,12.3806,high,low,long,male,Anderson
+Amstaff,30869.4088,,14.0697,med,high,short,male,Martin
+Boxer,32717.1734,57.8181,8.7018,high,high,short,male,Graham
+Boxer,31060.0243,58.9474,8.5248,med,high,short,male,Harrell
+Boxer,35364.7092,59.9839,9.3282,high,high,short,female,Lee
+Siberian Husky,18579.598,54.3071,11.4207,med,med,med,male,Benjamin
+Boxer,39950.9211,59.7558,9.2827,high,high,short,male,Valentine
+Boxer,32540.408,,8.3565,high,high,short,female,Garcia
+Great Dane,53209.6741,78.1241,6.778,med,high,short,male,Bailey
+Amstaff,24278.9964,47.4242,12.6888,med,high,short,male,Craig
+Siberian Husky,21193.7525,,11.0486,med,med,med,male,Anderson
+Amstaff,28649.9273,46.1486,13.3313,med,high,short,female,Sanchez
+Great Dane,51061.2583,81.2871,6.1853,low,high,short,male,Hunt
+Siberian Husky,20757.3431,,12.7849,med,med,med,female,Burch
+Amstaff,32048.7819,,12.8092,med,high,short,male,Coffey
+Siberian Husky,19593.3102,53.4284,11.083,med,med,med,female,Quinn
+Great Dane,48448.5301,78.4318,7.754,med,med,short,male,Robinson
+Great Dane,51658.2779,76.8548,6.5111,med,high,short,male,Russo
+Boxer,22894.9686,58.2411,9.3066,high,high,short,male,Wright
+Siberian Husky,17650.097,,11.579,med,high,med,male,Hernandez
+Great Dane,40556.4549,77.3139,7.2528,med,high,short,female,Gonzales
+Amstaff,26099.059,,13.189,low,high,short,male,Callahan
+Siberian Husky,18579.6218,56.6366,11.9031,med,med,med,female,Chan
+Siberian Husky,22080.5252,53.0713,11.2683,med,med,med,female,Cline
+Great Dane,52846.376,,6.6489,med,high,short,male,Joyce
+Amstaff,34797.1831,45.5183,12.4899,med,high,short,male,Burke
+Great Dane,43749.379,77.6235,7.0061,med,high,med,male,Woodard
+Amstaff,28537.902,,13.2574,low,med,med,female,White
+Amstaff,25216.6452,45.4341,12.9858,med,med,short,female,Christensen
+Siberian Husky,16685.8361,53.0862,12.3947,med,med,long,male,Stewart
+Siberian Husky,21852.722,56.6632,11.0996,med,med,med,female,Wheeler
+Amstaff,35692.3043,45.8502,13.6642,low,med,short,male,Bryant
+Boxer,22961.7779,,9.3591,high,high,short,female,Graham
+Boxer,27160.1118,56.0775,9.2826,high,high,short,female,Erin
+Siberian Husky,19705.5615,57.7815,11.4598,low,med,med,female,Cunningham
+Siberian Husky,20203.1969,53.2483,10.9989,high,med,med,male,Pena
+Amstaff,27504.6339,45.5552,12.9791,med,high,short,female,Smith
+Boxer,28006.1796,57.5547,7.781,high,high,short,female,Martinez
+Amstaff,26140.5665,46.4623,13.5863,med,high,med,male,Blake
+Great Dane,51259.0054,,7.4274,med,high,short,female,Conner
+Amstaff,27310.2457,46.0656,12.352,med,high,short,female,Nunez
+Boxer,30073.5638,,9.3933,high,high,short,male,Garza
+Boxer,21705.0207,57.2801,8.7178,med,high,short,female,Chang
+Boxer,30858.6274,,9.9665,high,high,short,female,Bullock
+Amstaff,31554.2197,46.2005,13.1847,med,high,short,male,Cruz
+Amstaff,24470.4383,,13.4233,low,high,short,male,Cunningham
+Siberian Husky,16446.1044,55.4839,11.594,med,med,med,male,Nguyen
+Boxer,33871.4094,59.0536,8.2654,high,high,short,male,Turner
+Amstaff,27660.3302,45.4517,13.3524,high,high,short,male,Rodriguez
+Amstaff,24209.7535,46.8406,13.4466,med,high,short,female,Washington
+Siberian Husky,18304.0476,54.4594,11.8001,med,med,med,male,Hodges
+Amstaff,30692.9348,45.8391,13.1023,med,high,short,male,Frazier
+Great Dane,46454.1238,,7.1936,med,high,med,female,Alexander
+Great Dane,50489.0941,79.8166,7.9157,med,high,short,male,White
+Boxer,20837.2231,,9.3896,high,high,short,male,Valentine
+Boxer,28012.1709,58.4198,8.2535,high,high,med,male,Petersen
+Amstaff,26988.3869,45.4741,12.1296,low,high,short,male,Miller
+Boxer,27091.1467,59.9794,8.4911,high,high,med,male,Brown
+Amstaff,27321.9234,46.7849,12.5599,med,high,med,female,Cindy
+Amstaff,27598.1037,45.6344,14.2683,med,high,short,female,Williams
+Siberian Husky,18355.7901,55.8935,12.2212,high,med,med,female,Robbins
+Great Dane,49165.3498,78.2347,6.3318,med,high,short,female,Smith
+Siberian Husky,18746.1596,,12.5132,med,med,med,male,Waters
+Great Dane,47024.6232,81.5241,6.6148,med,med,short,female,Cheryl
+Amstaff,24605.3895,47.7987,11.8494,med,high,short,male,Valenzuela
+Boxer,28407.273,,8.1115,high,med,short,male,Barrett
+Boxer,31807.0229,,8.7434,high,high,med,male,Mendez
+Great Dane,47468.9782,76.419,7.2922,med,high,short,female,Olsen
+Amstaff,29250.2665,47.3527,12.3727,med,med,short,male,Sandra
+Siberian Husky,21148.4063,58.5199,12.0955,med,med,med,male,Wade
+Siberian Husky,17185.5209,54.5806,12.6778,med,med,med,male,Boyd
+Amstaff,28707.4622,45.8142,13.0054,med,high,short,male,Hardin
+Great Dane,45582.0318,74.8517,6.832,high,high,short,male,Jones
+Amstaff,22398.4735,45.9499,12.5065,med,high,short,male,Brown
+Amstaff,34318.093,,12.1366,med,high,short,female,James
+Great Dane,49937.7609,78.0337,7.273,med,high,short,male,Rowe
+Great Dane,50404.2457,,7.2145,high,high,short,female,Barrett
+Amstaff,24206.6955,46.248,12.6184,high,high,short,female,Johnston
+Amstaff,30782.5103,45.2139,13.301,med,high,short,female,Weber
+Great Dane,48807.7498,80.2524,6.8003,med,high,short,female,Cole
+Boxer,34850.6049,,9.2749,high,high,short,female,Brown
+Great Dane,53431.6312,78.1575,6.9441,med,high,short,male,Gilbert
+Great Dane,52618.5483,77.9525,6.0847,med,high,short,male,Carter
+Amstaff,30465.8527,46.1694,13.3076,med,med,short,female,Mccormick
+Amstaff,28586.158,44.8939,12.7639,med,med,med,female,Moore
+Siberian Husky,19487.6619,53.3803,11.856,low,med,med,male,Freeman
+Boxer,31115.7417,58.8562,9.1478,med,med,short,male,Robinson
+Amstaff,23110.9338,,12.8987,med,high,short,male,Robertson
+Boxer,25122.1678,56.5564,8.9053,med,med,short,male,Gray
+Amstaff,26473.1221,45.6132,12.5692,med,med,short,male,Phillips
+Amstaff,28771.5528,46.9496,12.5021,med,high,short,male,Adams
+Amstaff,27421.4928,,13.18,med,high,short,female,Shields
+Great Dane,52196.3807,,6.78,med,high,short,male,Bennett
+Amstaff,22290.0706,45.3362,12.7851,med,high,short,male,Fields
+Boxer,32266.9579,57.5702,8.3837,high,high,short,male,Davis
+Siberian Husky,17576.6463,54.5035,11.7796,med,med,med,male,Hill
+Boxer,34915.0008,60.0404,9.154,high,high,short,female,Henry
+Great Dane,51448.3494,77.5211,6.6345,med,high,short,female,Madden
+Siberian Husky,22193.793,53.8717,12.7708,med,high,med,male,Alvarez
+Siberian Husky,21914.7073,55.2469,12.1096,med,low,long,male,Bauer
+Great Dane,53967.2211,82.0886,6.3371,med,high,short,female,Wright
+Boxer,31944.2694,58.0506,8.8615,high,high,med,female,Rich
+Siberian Husky,17008.1993,52.8218,11.7018,med,high,med,male,Morris
+Boxer,37095.2481,59.9977,8.8425,high,high,short,female,Lowery
+Great Dane,53770.3921,77.7245,6.2199,med,high,short,male,Buchanan
+Great Dane,48375.5935,77.9977,6.6064,low,high,short,male,Boyle
+Siberian Husky,19448.8399,,11.4443,med,med,short,female,Walker
+Siberian Husky,19882.5241,54.1745,12.24,low,med,short,male,Gomez
+Siberian Husky,17515.4392,49.8887,12.8074,med,med,med,female,Wilson
+Siberian Husky,16880.9985,,10.5415,med,med,med,male,Dillon
+Great Dane,50428.3101,78.5927,6.5607,med,med,short,male,Young
+Amstaff,24135.044,47.1652,12.5489,med,high,short,female,Parsons
+Boxer,27092.5389,58.6643,9.272,high,high,short,male,Willis
+Great Dane,50195.3303,80.6007,7.3828,med,high,short,male,Garcia
+Boxer,28863.9042,,8.3622,high,high,short,female,Warren
+Great Dane,56215.0312,79.611,6.5653,med,high,short,male,Solomon
+Great Dane,53028.4786,80.6933,8.402,low,high,short,male,Le
+Boxer,22243.2512,58.2438,10.6256,high,high,short,female,Campbell
+Boxer,31951.6165,58.1732,9.0699,high,high,short,female,Baldwin
+Siberian Husky,16037.481,54.3018,11.7176,low,med,med,female,Vargas
+Siberian Husky,22782.3934,53.8285,11.452,med,med,med,female,Reeves
+Siberian Husky,17408.283,55.5559,11.1414,med,high,med,male,Richardson
+Amstaff,29661.9513,,12.798,med,high,short,female,Harmon
+Siberian Husky,19267.572,55.3911,11.8552,med,med,med,female,Banks
+Great Dane,51768.8382,80.2995,6.7001,med,high,short,male,Aguirre
+Great Dane,49671.7289,78.0592,7.4442,med,high,short,male,Santiago
+Great Dane,49582.4113,,8.3303,med,high,short,male,Lee
+Amstaff,28972.3865,45.7709,13.0789,med,med,short,female,Rojas
+Amstaff,29359.5251,,12.3721,med,med,short,male,Adams
+Boxer,27054.6747,,8.7813,high,med,short,female,Russell
+Boxer,32906.8176,59.2605,8.9922,high,med,short,male,Khan
+Boxer,28006.3326,57.2216,8.8965,high,high,short,male,Wilson
+Siberian Husky,18559.6029,54.8363,11.79,med,low,med,female,Holland
+Siberian Husky,18409.2367,53.9428,11.9523,med,med,med,female,Benitez
+Amstaff,21641.4327,,13.3031,med,high,med,male,Ayala
+Amstaff,31381.4794,46.5727,13.6824,med,high,short,male,Lawson
+Great Dane,43290.2626,78.2078,5.7388,high,high,short,female,Macias
+Great Dane,51583.6578,80.4377,7.8901,med,med,short,female,Whitney
+Siberian Husky,17437.9297,,11.8425,low,med,med,male,Adams
+Boxer,29106.8643,,8.4733,high,high,short,male,Becker
+Siberian Husky,20165.5382,53.5154,10.9003,med,med,med,male,Mccormick
+Amstaff,17636.1835,,12.1725,med,high,short,male,Snyder
+Siberian Husky,21485.2078,,11.7099,med,med,long,female,Moore
+Boxer,34783.6751,60.5322,8.8953,high,high,short,male,Grimes
+Boxer,24337.8021,57.2064,9.0488,high,high,short,female,White
+Amstaff,24661.8632,46.0,13.1553,med,high,med,male,Wright
+Amstaff,27160.3341,47.0645,12.8233,med,med,short,male,Michael
+Boxer,27636.6548,58.6381,9.0474,high,high,short,male,Young
+Boxer,34144.53,58.4451,10.0641,med,high,short,female,Fisher
+Great Dane,54598.8989,76.0222,7.4702,med,high,med,male,Martin
+Siberian Husky,19123.7445,54.3487,11.1554,med,high,med,male,Koch
+Amstaff,25928.1438,45.8207,13.2213,high,high,short,male,Parker
+Amstaff,32619.1799,45.5913,12.4162,med,high,short,female,Parrish
+Siberian Husky,18626.7355,56.4401,12.102,med,med,med,female,Bryant
+Siberian Husky,20765.6659,57.1943,11.6884,med,med,long,female,Martinez
+Amstaff,24204.431,46.6432,12.8728,med,high,short,male,Grant
+Boxer,30187.0155,,8.7046,high,high,short,male,Crawford
+Siberian Husky,21832.4714,54.9861,13.184,med,med,med,male,Burke
+Siberian Husky,19938.0211,,12.6842,med,med,med,female,Hebert
+Siberian Husky,18197.1079,53.7248,12.6374,med,med,med,male,Reyes
+Boxer,33786.6145,57.4092,9.0074,high,med,short,female,Hart
+Boxer,30760.946,58.4843,9.4609,high,high,short,male,Pittman
+Great Dane,53261.6796,76.5907,7.064,med,high,short,male,Brooks
+Amstaff,23245.8389,,12.9384,med,high,short,male,Simmons
+Siberian Husky,17003.365,51.4541,11.5747,med,high,med,male,Oneill
+Amstaff,28980.0537,,13.0465,low,high,short,female,Ross
+Siberian Husky,19061.6482,55.3601,11.1277,med,med,long,female,Glass
+Boxer,32681.3683,58.6016,8.7018,high,high,short,female,Walker
+Great Dane,47706.7582,77.2257,7.2583,med,high,short,male,Wright
+Great Dane,52025.3314,77.3339,6.4106,low,high,short,female,Hart
+Siberian Husky,19540.1153,56.0118,11.5154,low,high,med,female,Neal
+Siberian Husky,19686.5166,53.8821,11.1132,med,med,med,female,Reed
+Great Dane,51022.8753,80.0387,7.516,med,high,short,female,Munoz
+Great Dane,47375.0687,79.3235,7.5719,med,high,short,male,Williams
+Boxer,26684.5561,55.3482,9.0541,high,high,short,male,Mccormick
+Siberian Husky,21742.7509,,12.233,low,med,long,male,Jones
+Great Dane,45956.7482,78.3771,7.1646,med,high,short,male,Nelson
+Amstaff,27945.4362,45.8984,12.8492,high,high,short,female,Lopez
+Boxer,34436.9008,58.191,8.8718,high,high,short,male,Schultz
+Siberian Husky,14407.0121,57.4773,11.7349,med,med,med,female,Combs
+Boxer,27767.4995,59.0642,9.922,high,high,short,male,Acosta
+Great Dane,50127.8899,,7.9841,med,high,short,female,Webb
+Boxer,29064.1828,59.5969,8.5646,high,high,short,female,Wood
+Great Dane,46433.9376,,6.6736,med,high,short,female,Dougherty
+Siberian Husky,18197.0071,49.3299,11.2171,med,high,med,male,Williams
+Amstaff,27101.4082,45.6974,12.9645,med,high,short,female,Donovan
+Great Dane,50895.4255,78.3094,6.6059,med,med,short,male,Ryan
+Amstaff,24971.0329,45.6833,12.302,med,high,short,male,Smith
+Boxer,31132.56,60.5154,9.6926,high,high,short,female,Boyle
+Great Dane,51347.157,78.2874,7.2372,med,high,short,female,Davis
+Amstaff,23577.5843,46.4568,13.6164,med,high,short,female,Anderson
+Amstaff,24647.6126,45.687,12.6712,med,med,short,female,Cruz
+Siberian Husky,18615.6074,53.2728,11.6427,low,med,med,female,Chapman
+Amstaff,27929.0137,45.9021,12.9274,med,high,short,male,Olson
+Amstaff,26054.2158,46.0526,13.2131,med,high,short,female,Fry
+Boxer,25967.6584,58.1501,7.8417,high,high,short,male,Wright
+Boxer,36483.0239,56.349,10.5039,high,high,short,female,Howard
+Boxer,34882.0745,60.5048,10.1708,high,high,short,male,Estrada
+Siberian Husky,21276.2159,54.9029,12.1509,low,med,med,male,Barrett
+Great Dane,50904.1563,80.7221,6.189,low,high,short,male,Malone
+Great Dane,53201.0165,76.4154,6.7936,med,med,med,male,Meyer
+Siberian Husky,19641.4347,55.5466,12.0314,med,med,med,male,Schneider
+Amstaff,26594.6751,46.3649,12.2899,med,high,short,male,Watson
+Boxer,22953.9353,57.2416,10.0724,high,high,short,female,Banks
+Boxer,37680.9054,55.8986,9.747,high,high,med,male,Marquez
+Amstaff,21185.5038,45.5997,12.6394,med,high,short,female,Hunter
+Siberian Husky,15991.1617,52.0579,12.2066,med,med,long,male,Le
+Amstaff,31659.8685,46.4696,13.2716,med,high,short,female,Crosby
+Siberian Husky,18651.1769,57.8763,12.9539,med,med,short,female,Wilson
+Amstaff,28609.414,,12.4753,med,high,short,male,Williams
+Amstaff,19845.4829,46.4207,14.0498,med,high,short,male,Rogers
+Amstaff,27048.5468,46.255,12.3981,med,high,short,male,Pruitt
+Siberian Husky,18076.4865,52.592,11.6252,med,med,long,male,Hall
+Siberian Husky,13683.0335,52.5899,12.5959,low,med,med,male,Jackson
+Great Dane,52547.6357,76.6844,7.1862,med,high,short,male,Rowland
+Siberian Husky,16700.9503,51.4266,12.4171,med,med,med,female,Buckley
+Boxer,29295.9281,57.6507,9.0226,high,high,short,male,Lewis
+Great Dane,46266.9501,73.1258,6.8946,med,high,short,male,Chandler
+Great Dane,52933.8432,80.1889,6.7655,low,high,short,female,Lopez
+Boxer,28190.3345,57.1288,10.1961,med,med,short,female,Rowe
+Amstaff,18807.364,46.1154,11.9164,med,high,short,female,Miller
+Amstaff,27706.0294,45.6464,12.5943,med,high,short,male,Perkins
+Boxer,35154.0165,57.636,8.4454,high,high,short,male,Rich
+Boxer,24941.059,57.9505,8.0732,high,high,short,female,Dean
+Siberian Husky,22713.0685,55.9077,11.9736,med,low,short,male,Davis
+Amstaff,19868.5609,46.3823,13.0786,med,high,short,female,Palmer
+Siberian Husky,18928.6009,,11.6935,med,med,med,female,Gonzales
+Siberian Husky,22891.6566,53.8245,11.8934,med,med,med,male,Mcdaniel
+Amstaff,28921.7676,45.5052,13.3578,med,high,short,female,Goodwin
+Boxer,31709.274,,8.421,high,high,short,female,Barnes
+Siberian Husky,19169.7905,54.5132,12.6984,med,med,med,male,Gomez
+Great Dane,49394.7954,79.1687,6.7929,med,high,med,female,Mejia
+Boxer,31077.0776,57.6015,9.1955,high,med,short,female,Sanchez
+Boxer,27617.1939,59.8453,8.8594,high,high,short,male,Phillips
+Great Dane,50002.2508,83.3269,7.4014,high,high,short,female,Eric
+Siberian Husky,21416.5777,52.2612,12.7688,med,med,med,female,Lucas
+Siberian Husky,21301.2926,,11.5438,med,med,med,female,Reynolds
+Boxer,31865.6885,59.5994,8.9874,high,high,short,male,Maldonado
+Great Dane,50267.612,82.302,7.3901,med,high,med,female,Flowers
+Great Dane,49164.1722,77.1174,7.482,med,high,short,female,Ward
+Great Dane,52530.127,79.3866,6.6229,low,high,short,female,Baker
+Amstaff,31467.6305,,12.8445,med,high,short,male,Smith
+Amstaff,26276.1553,46.0992,13.0228,med,high,short,male,Wong
+Great Dane,52531.8881,,6.5264,med,high,short,male,Thornton
+Siberian Husky,18634.9422,,12.6917,med,med,med,male,Lynch
+Amstaff,22224.924,,12.9854,med,high,short,female,Mills
+Great Dane,51906.3816,76.4384,6.3718,med,high,med,female,Anderson
+Boxer,25846.5341,,8.2799,high,high,short,male,Preston
+Boxer,28554.3661,,8.6836,high,med,med,male,Sanchez
+Siberian Husky,22741.7787,56.1821,12.661,med,med,short,female,Williams
+Great Dane,47374.8845,78.8207,6.2717,med,high,med,female,Carlson
+Siberian Husky,18714.7531,55.3189,11.996,med,med,med,female,Williams
+Boxer,29293.0064,56.9612,8.9098,high,high,short,female,Smith
+Amstaff,22669.8347,45.502,13.2203,med,high,short,female,Ellis
+Great Dane,53852.6074,81.4932,6.4751,med,high,med,female,Lopez
+Great Dane,54425.8797,78.2556,6.5253,med,high,short,male,Koch
+Great Dane,48402.8567,79.55,6.9755,med,high,med,male,Brown
+Boxer,29662.7126,56.5653,9.5044,high,high,med,female,Stein
+Amstaff,25323.1356,,14.5769,med,high,short,male,Jones
+Amstaff,22723.8015,44.8485,12.66,med,high,short,male,Hardy
+Boxer,34063.5183,58.8652,9.1556,high,high,short,male,Rivera
+Amstaff,25078.0204,45.8277,13.4601,med,high,short,female,Whitehead
+Great Dane,51223.9152,,6.3731,med,high,short,female,Cole
+Great Dane,48034.8287,78.4291,6.2059,med,high,short,female,Zuniga
+Siberian Husky,19584.7607,,12.6729,med,low,med,male,Ramirez
+Amstaff,29037.7221,45.3933,14.6886,high,high,short,male,Phillips
+Great Dane,46807.709,79.6831,5.3989,med,high,med,male,Watson
+Boxer,35754.2317,56.9863,8.5937,high,high,short,female,Johnson
+Amstaff,26653.9112,,13.1339,high,high,short,female,Christensen
+Amstaff,20257.765,45.1995,12.9822,low,high,short,female,Bond
+Great Dane,49719.4699,80.4126,7.187,med,high,short,male,Johnson
+Siberian Husky,20594.0164,55.747,11.0707,high,high,med,male,Cooper
+Great Dane,50632.7925,81.1091,8.5434,med,high,short,male,Donaldson
+Boxer,33932.7742,57.2534,8.7794,high,high,short,female,Kelly
+Boxer,37020.2357,57.0822,8.4628,high,high,short,female,Williams
+Siberian Husky,19610.4923,57.1507,12.2496,med,med,med,male,Hall
+Great Dane,49560.2995,82.3377,7.0016,med,high,short,female,Schultz
+Boxer,30237.524,58.8716,9.782,high,high,short,female,Lee
+Amstaff,28227.6407,45.1234,13.1768,med,high,short,male,Jones
+Great Dane,50387.08,79.271,7.2301,med,high,short,female,Perez
+Amstaff,20396.1812,,13.9011,low,high,short,female,Moore
+Amstaff,23187.166,,13.6094,med,high,short,male,Hopkins
+Amstaff,21442.0709,45.8299,13.5521,med,high,short,female,Graham
+Great Dane,49134.6534,76.2331,8.4498,med,high,short,female,Wilkins
+Boxer,20148.6341,59.0106,8.4246,high,high,short,female,Jordan
+Siberian Husky,18754.2643,51.2411,11.9612,med,med,med,male,Rocha
+Boxer,34339.1269,54.6153,9.5519,high,high,short,female,Frost
+Great Dane,51859.3293,,7.248,med,high,short,male,Cowan
+Amstaff,26362.8529,45.1999,12.8362,med,high,short,female,Butler
+Siberian Husky,20434.097,58.279,11.9342,med,med,med,male,Cole
+Boxer,26555.5494,59.0436,9.1274,high,high,short,female,Miller
+Siberian Husky,16344.1994,57.8326,12.5421,med,med,med,female,Gilbert
+Great Dane,47177.9017,79.5826,8.137,med,high,short,female,Marquez
+Amstaff,27817.3071,45.1542,13.5458,med,high,short,female,Jones
+Great Dane,50153.1216,80.9622,6.9474,med,high,short,female,Michael
+Siberian Husky,19659.5716,56.6933,11.1418,low,med,med,male,Campbell
+Amstaff,29481.2535,,12.7185,med,high,short,female,Henson
+Siberian Husky,20720.3493,53.1045,12.0246,med,high,med,female,Parker
+Siberian Husky,16473.6769,,11.6847,med,high,long,female,Ramsey
+Boxer,32745.9847,57.1761,9.0406,high,high,short,male,Hughes
+Amstaff,24020.523,,13.3257,high,high,short,female,Cooper
+Great Dane,54608.4568,75.9072,7.1012,low,high,short,male,Owen
+Siberian Husky,19645.6212,52.0362,11.7051,med,med,med,female,Watson
+Boxer,23300.9523,58.2109,9.3259,high,high,short,male,Simmons
+Siberian Husky,17800.1564,53.7492,12.3621,high,high,long,female,Smith
+Siberian Husky,20815.9308,,12.0602,low,med,long,male,Gardner
+Siberian Husky,16535.1654,53.3201,11.9537,low,med,med,female,Mosley
+Siberian Husky,19460.8275,,11.8726,low,high,med,female,Montes
+Siberian Husky,20630.3389,53.8269,11.3601,med,med,med,female,Edwards
+Boxer,35015.2747,56.6868,9.7735,med,high,short,female,Fernandez
+Amstaff,22339.773,45.2264,12.5979,med,high,short,female,Wright
+Boxer,35207.5927,59.7347,8.0706,high,high,short,male,Clark
+Siberian Husky,20233.5052,49.7349,11.8868,med,low,med,female,Randall
+Great Dane,51275.4552,81.1712,6.6761,med,high,short,male,Boyd
+Great Dane,49826.1476,,6.3295,med,high,med,female,Patel
+Siberian Husky,18556.9896,,11.955,low,med,med,female,Kennedy
+Amstaff,28368.9261,45.4081,12.9193,med,high,short,female,Hernandez
+Amstaff,25037.2727,,14.0047,high,med,short,male,Salazar
+Boxer,29446.3806,58.2405,8.9588,high,high,short,female,Johnson
+Boxer,28512.3161,60.3547,9.2628,med,high,short,male,Roy
+Amstaff,28459.6444,45.3506,12.9911,med,high,short,male,Stanley
+Great Dane,54210.58,80.1831,6.015,high,high,short,male,Moore
+Amstaff,21098.9393,45.4751,13.3099,med,high,short,male,Shannon
+Great Dane,49972.991,,5.4823,med,high,med,female,Ray
+Siberian Husky,18138.7578,55.9636,12.9238,low,med,med,female,Wilkinson
+Great Dane,44697.0548,77.5745,6.1277,high,high,med,female,Foley
+Great Dane,53626.5199,80.0962,6.8945,high,high,short,male,Macias
+Great Dane,48738.4787,,6.8704,med,high,med,male,Graham
+Boxer,30262.4116,59.3388,9.099,high,high,short,male,Scott
+Great Dane,50692.1553,80.5265,8.1882,med,high,short,male,Hudson
+Amstaff,27381.32,45.3069,12.4526,med,high,short,female,Bush
+Boxer,30506.4659,,8.7871,high,high,med,male,Cherry
+Siberian Husky,18557.2661,54.7367,12.8935,med,high,short,male,Long
+Great Dane,50879.6281,77.9301,5.9389,med,high,short,male,Weber
+Great Dane,54427.234,79.189,7.311,med,high,short,male,Davis
+Great Dane,49906.7665,78.4057,6.5831,med,high,short,female,Hill
+Siberian Husky,19350.5309,,12.2461,med,med,med,male,Mcpherson
+Boxer,35667.0578,57.0466,8.9409,high,high,short,female,Holloway
+Amstaff,23997.049,47.7626,14.3317,med,high,short,male,Scott
+Amstaff,18907.4322,,12.5753,med,high,short,female,Hunt
+Boxer,27207.9869,59.9981,7.5655,high,high,med,male,Ellis
+Great Dane,49548.5752,80.1497,6.4607,med,med,short,female,Gill
+Great Dane,49792.8006,76.7426,6.3365,med,high,short,male,Yang
+Amstaff,32337.0619,46.4768,12.7115,low,high,short,female,Baldwin
+Amstaff,25315.6315,45.8381,12.574,med,high,short,female,Hardy
+Amstaff,25669.1505,,13.3595,med,high,short,male,Mcdowell
+Amstaff,28770.3473,45.7138,12.2596,med,high,short,female,Miller
+Amstaff,29009.3434,45.0434,13.0104,med,high,short,male,Robbins
+Boxer,25792.9742,,9.3268,high,high,short,male,Morales
+Amstaff,29363.9739,45.1147,12.7922,med,high,short,female,Gray
+Siberian Husky,21739.057,56.8608,11.2699,med,med,med,female,Smith
+Boxer,29169.8415,59.3871,10.2363,high,high,short,female,Chapman
+Siberian Husky,17204.5642,53.9258,11.33,med,med,long,male,Morris
+Boxer,27701.7845,56.6631,8.3537,med,high,short,male,Atkins
+Boxer,31780.0951,55.5813,10.2869,med,high,short,female,Grant
+Great Dane,49034.7927,77.4909,6.2548,med,high,short,male,Butler
+Siberian Husky,18317.0151,55.3442,12.457,med,med,short,female,Bell
+Siberian Husky,18780.027,54.3588,12.2327,med,med,short,male,Jimenez
+Boxer,27986.7613,58.0815,8.5013,high,high,med,female,White
+Great Dane,47044.6918,76.1133,5.7817,med,high,short,male,Daniel
+Boxer,32606.7597,,9.3569,high,high,short,female,Collins
+Siberian Husky,19945.6854,53.5033,12.0068,high,med,med,female,Jacobs
+Great Dane,51571.505,78.3629,6.8492,high,high,short,female,Olson
+Boxer,32588.0388,60.5136,8.5872,high,high,short,female,Acosta
+Siberian Husky,20265.4095,54.1675,12.3651,med,med,long,female,Jackson
+Boxer,29534.8192,59.0532,9.2471,high,high,med,female,Morris
+Great Dane,50792.1138,81.6217,6.5748,med,med,short,male,Cochran
+Amstaff,24801.7213,47.7014,12.965,med,high,short,male,Gillespie
+Siberian Husky,17902.3688,53.2364,12.4893,med,med,short,male,Kelly
+Great Dane,50336.0012,79.1465,6.7716,med,high,med,male,Jones
+Great Dane,53251.289,79.6159,6.12,med,high,short,male,White
+Boxer,27641.8645,57.7751,9.8003,high,high,short,male,Elliott
+Siberian Husky,18930.7314,55.0913,12.0304,low,low,long,female,Cook
+Great Dane,48157.6063,77.5168,6.6567,med,high,short,male,Levy
+Siberian Husky,22442.3519,,11.2686,med,med,med,female,Mcconnell
+Siberian Husky,20086.6872,53.971,13.129,low,low,short,male,Bell
+Amstaff,27534.1548,46.6826,12.5202,med,high,short,female,Mosley
+Boxer,28097.882,58.4494,9.3442,high,high,short,female,Warren
+Great Dane,50042.124,77.6806,8.0967,med,high,short,male,Ferguson
+Great Dane,49179.2464,,7.3579,low,high,short,female,Walton
+Boxer,35705.7179,59.2805,8.5389,high,high,short,male,Smith
+Great Dane,48660.5973,78.0584,6.5037,high,high,short,male,Munoz
+Amstaff,18479.8194,46.4135,12.7795,low,high,short,male,Pearson
+Amstaff,27294.8489,45.7106,12.6223,low,high,short,male,Moreno
+Amstaff,33302.532,45.7149,12.9611,med,high,short,male,Adams
+Great Dane,46657.2384,80.5954,6.6741,med,high,med,male,Johnson
+Boxer,21800.2988,58.2974,8.2633,high,med,short,female,Woodard
+Siberian Husky,17824.4232,53.5067,11.422,high,low,med,female,Stewart
+Boxer,26010.9434,,8.4298,high,high,short,female,Thompson
+Siberian Husky,23465.2462,54.8349,12.0228,med,med,med,male,Green
+Siberian Husky,16815.9241,53.4521,12.2776,med,high,long,male,Christian
+Boxer,27082.3548,58.9878,8.3262,med,high,short,female,Meyers
+Great Dane,49779.9939,79.5868,5.6677,med,high,short,male,Clark
+Great Dane,51940.9076,80.8197,7.2184,med,med,short,male,Garner
+Great Dane,47061.2951,77.0775,7.4421,high,high,short,female,Garcia
+Siberian Husky,17866.3686,56.0484,11.9575,med,med,med,female,Meyers
+Amstaff,27792.2152,46.8074,13.6506,high,high,med,female,Spencer
+Amstaff,28056.9967,46.0919,13.1017,med,high,short,male,Perez
+Great Dane,48151.2025,,6.8767,med,high,short,male,Ramos
+Great Dane,52056.5375,78.6018,7.6059,med,high,short,male,Watson
+Amstaff,19782.4662,45.8804,12.6443,low,high,short,female,Cummings
+Great Dane,47809.1161,78.6727,6.5582,med,med,short,male,Williams
+Boxer,27602.0559,,9.2751,high,high,short,male,Larson
+Amstaff,28640.8658,45.8256,12.7831,med,high,short,female,Byrd
+Boxer,30381.5571,,8.5476,high,high,short,female,Rivera
+Boxer,26315.239,60.7846,8.7825,high,high,short,male,Miller
+Boxer,22994.1919,57.9707,9.1265,high,med,short,female,Clark
+Siberian Husky,19980.4735,52.4232,12.7111,med,med,long,male,Montes
+Siberian Husky,17907.4115,56.2159,11.756,med,low,med,female,Smith
+Amstaff,22282.768,45.9974,12.5599,med,high,short,female,Caldwell
+Siberian Husky,17483.4746,54.4822,12.148,med,med,med,male,Thomas
+Amstaff,24424.3002,46.0817,14.2267,med,high,short,male,Harrison
+Siberian Husky,18373.0316,55.3991,12.7393,high,low,short,male,Bell
+Amstaff,28853.1977,,12.5911,med,high,short,male,Henderson
+Siberian Husky,19588.5463,55.6978,12.396,med,med,med,male,Thompson
+Siberian Husky,21902.7041,52.9194,11.1425,med,med,med,female,Gill
+Boxer,35101.3961,59.1329,8.9566,high,high,short,male,Davis
+Amstaff,30780.7275,46.4076,13.2469,med,high,med,male,Wright
+Amstaff,29915.5054,,11.8025,med,high,short,female,Hernandez
+Siberian Husky,17444.4984,,12.6354,med,med,long,female,Church
+Great Dane,49614.6359,,7.1795,med,high,short,male,Huff
+Great Dane,46043.3931,79.9028,7.9965,low,high,short,female,Howard
+Great Dane,46887.1344,79.5194,6.754,low,high,short,male,Johnson
+Amstaff,26779.9746,46.052,12.5701,med,high,med,male,Gonzalez
+Amstaff,22901.5809,,12.8367,med,high,short,male,Robinson
+Great Dane,54787.2825,80.9212,6.554,med,high,short,male,Hill
+Boxer,25823.3396,59.3944,8.4583,med,high,short,male,Gregory
+Amstaff,28651.0563,45.9325,13.0163,med,med,short,male,Hamilton
+Great Dane,49539.1329,,8.2864,med,high,short,male,Smith
+Great Dane,47206.4553,78.8589,7.4397,med,high,short,male,Shah
+Great Dane,50746.4433,78.7602,7.4552,med,high,short,male,Simmons
+Amstaff,27321.8759,45.6953,12.4013,med,high,short,male,Oneill
+Great Dane,51890.0132,,6.8731,low,high,short,female,Kerr
+Siberian Husky,19413.1425,53.9538,12.025,high,med,med,male,Scott
+Great Dane,54228.3514,79.0034,7.2777,med,high,short,male,Collins
+Siberian Husky,19464.1744,52.6031,12.508,med,med,med,female,Gonzalez
+Great Dane,49927.8656,79.6108,7.1262,low,high,short,female,Wu
+Siberian Husky,17046.737,58.4474,11.7805,med,med,med,male,Taylor
+Boxer,30140.3621,58.7727,8.7157,high,med,short,female,Bryan
+Siberian Husky,16361.1843,57.3097,12.9321,med,high,med,female,Myers
+Amstaff,31628.5558,,12.9276,med,high,short,male,Reyes
+Boxer,28784.7647,55.3266,9.1094,high,high,short,male,Phillips
+Great Dane,46638.6896,80.8794,7.1577,med,high,short,female,Morgan
+Amstaff,19129.5069,,12.2702,med,high,short,male,Branch
+Amstaff,23911.6689,46.111,12.8187,low,med,short,female,Johnson
+Siberian Husky,17702.3674,,12.4571,med,med,med,female,Kirk
+Amstaff,24126.5816,45.7984,13.4923,med,high,short,male,Manning
+Siberian Husky,20001.1823,,11.5881,med,med,med,female,Gentry
+Boxer,22607.6896,,9.2044,high,high,short,male,Roberts
+Boxer,33300.407,58.5157,8.8064,high,high,short,female,Weaver
+Siberian Husky,20179.7585,51.8189,12.822,med,med,med,male,Cox
+Great Dane,52173.9877,78.639,6.3967,med,high,short,male,Mitchell
+Great Dane,47410.398,,6.7637,med,high,short,male,Moon
+Great Dane,53755.0364,,6.7407,med,high,short,female,Ingram
+Siberian Husky,21787.5182,52.8193,13.1963,med,med,med,female,Hayes
+Great Dane,52950.5855,80.0673,8.1906,med,high,short,male,Garza
+Great Dane,48371.5394,78.9325,6.9606,med,high,short,female,Gould
+Siberian Husky,20432.8981,,11.464,low,med,med,male,Mullen
+Amstaff,20070.4703,45.3148,12.4892,med,high,short,male,King
+Amstaff,25361.3944,46.3647,12.3119,low,high,short,male,Howard
+Siberian Husky,21672.821,56.3292,12.7849,med,low,med,female,Moon
+Amstaff,25726.2931,46.6255,12.5741,med,med,med,female,Guerrero
+Siberian Husky,16187.1037,55.0606,12.4572,med,med,med,male,Hill
+Great Dane,49751.0742,82.0522,6.7416,med,high,short,male,Richards
+Great Dane,43680.796,77.7093,8.1439,med,high,short,male,Anderson
+Boxer,30304.2298,,9.8982,high,high,short,male,Flores
+Siberian Husky,19207.6412,55.0815,11.8906,high,med,med,male,Burke
+Amstaff,22714.4804,46.2761,13.381,low,high,short,female,Paul
+Great Dane,49978.6283,,6.2428,med,high,med,female,Lewis
+Great Dane,53118.4204,81.0023,6.3685,med,high,short,female,Mcdowell
+Siberian Husky,19411.4464,55.4175,11.9137,med,med,med,female,Patterson
+Siberian Husky,21400.8946,,11.8991,med,med,med,female,Anderson
+Great Dane,48336.9229,79.4172,6.4937,med,high,short,female,Simpson
+Siberian Husky,20816.2929,51.0265,12.6554,low,med,med,female,Pittman
+Great Dane,49984.7347,,6.6482,med,high,short,male,Garcia
+Boxer,26334.7185,58.598,8.5152,high,high,short,female,Boyd
+Boxer,30824.2529,58.5263,9.0898,high,high,short,male,Fisher
+Amstaff,25860.0941,46.2244,12.6524,med,high,short,female,Vance
+Great Dane,46434.3354,83.0279,7.3299,high,high,short,female,Mendoza
+Siberian Husky,19465.796,55.4795,11.5409,med,low,long,male,Jenkins
+Amstaff,30265.3048,47.5903,13.1947,med,high,short,male,Garcia
+Siberian Husky,18426.2756,,12.0064,med,med,med,male,Ford
+Boxer,28346.523,60.92,8.9966,high,high,short,female,Ortiz
+Siberian Husky,18624.7846,51.687,11.963,med,med,med,female,Hawkins
+Great Dane,45617.1356,,6.6031,high,high,short,female,Walters
+Great Dane,43752.6667,80.2719,6.0824,med,high,short,female,Preston
+Siberian Husky,18507.9371,53.237,11.5471,med,med,short,female,Snyder
+Siberian Husky,20088.0039,58.2273,12.3824,med,low,med,male,Mendoza
+Great Dane,47443.2299,79.4977,6.9745,med,high,short,male,Eaton
+Great Dane,54001.9691,,6.7862,med,high,short,female,Mitchell
+Great Dane,46691.0064,,6.6597,med,high,short,male,Bowman
+Amstaff,22024.6634,45.2857,12.7247,med,high,short,female,Andrews
+Boxer,32883.4028,56.2786,9.0555,high,med,short,male,Davis
+Boxer,24097.5338,,9.9685,high,high,short,female,Wallace
+Amstaff,18425.9771,46.921,12.7032,med,high,short,female,Hart
+Amstaff,24112.6582,46.2727,12.4493,med,high,short,female,Cooper
+Great Dane,51641.9226,78.5586,7.479,med,high,short,female,Wiley
+Boxer,27539.0091,59.475,8.7251,high,high,short,male,Valdez
+Siberian Husky,22305.1541,51.1668,11.9761,med,med,med,male,Ramirez
+Great Dane,46678.7713,79.4977,6.9263,low,high,short,male,Welch
+Siberian Husky,17127.0106,55.844,12.078,med,med,med,female,Hernandez
+Siberian Husky,16829.6789,58.8102,11.8921,med,med,med,female,Marshall
+Siberian Husky,15923.5088,52.8407,11.5157,med,med,med,female,Baker
+Siberian Husky,19139.9158,57.5282,11.1202,low,med,med,male,Santiago
+Boxer,30033.4257,57.0091,9.207,high,high,short,male,Buckley
+Siberian Husky,18324.999,55.0986,11.4412,med,med,long,male,Martin
+Siberian Husky,20425.4111,,10.5976,low,high,med,male,Arnold
+Amstaff,21539.5204,45.8336,13.4676,med,high,short,male,Cherry
+Amstaff,20513.2129,45.895,12.9965,med,high,short,male,Baldwin
+Amstaff,24901.2017,46.8001,13.2995,med,high,short,female,Young
+Amstaff,22391.3368,46.7874,12.9052,low,high,short,female,Calhoun
+Amstaff,31883.9331,46.7674,12.9823,low,high,short,male,Hodges
+Siberian Husky,16797.6577,,12.5283,med,med,med,female,Franco
+Great Dane,47928.17,84.1732,6.5718,med,med,med,male,Martinez
+Siberian Husky,18483.5908,53.2731,12.4742,med,high,med,female,Johnson
+Boxer,28990.4937,58.684,9.4612,high,high,short,male,Thornton
+Amstaff,25180.7964,45.6293,13.016,med,high,med,female,White
+Amstaff,23609.425,47.3882,13.5466,med,high,med,male,Caldwell
+Boxer,31887.9823,58.1145,9.6426,high,high,short,male,Jones
+Siberian Husky,19045.6861,,11.9437,med,med,short,female,Bright
+Siberian Husky,19928.3084,47.2429,13.0474,med,high,med,male,Horn
+Siberian Husky,19023.8105,56.2157,11.3997,med,med,med,female,Mayer
+Great Dane,52982.083,,7.6348,med,high,short,male,Diaz
+Boxer,30788.8633,59.9982,8.5529,high,high,short,female,Smith
+Great Dane,50667.6432,80.8601,6.9087,med,high,short,male,Carroll
+Boxer,32448.508,58.184,8.9253,high,high,short,female,Robinson
+Amstaff,28149.0091,,11.8912,med,high,short,female,Berry
+Boxer,26238.5129,,8.6953,high,high,med,male,Johnson
+Amstaff,24260.7075,45.6639,13.4777,low,med,short,male,Stout
+Siberian Husky,22247.2707,58.9098,12.4819,med,high,med,female,Hicks
+Amstaff,20881.3429,,11.8587,med,med,short,male,Williams
+Siberian Husky,20124.2554,50.2766,12.7237,med,high,med,female,Lowe
+Siberian Husky,18645.6077,52.514,12.2941,low,med,med,female,Caldwell
+Siberian Husky,18485.3655,52.9341,11.255,med,med,long,female,Clay
+Amstaff,28925.4335,46.4991,12.8053,med,high,med,female,Osborn
+Siberian Husky,19505.8508,49.6141,11.0843,high,med,short,female,Cole
+Amstaff,18711.6179,46.9685,11.8383,med,med,short,male,Chang
+Great Dane,47016.0399,77.8333,7.1434,med,high,short,female,Howard
+Siberian Husky,18191.071,54.6158,12.4231,med,med,short,female,Murphy
+Siberian Husky,16212.9519,53.0274,11.8711,med,med,med,male,Reyes
+Siberian Husky,21159.7869,54.0886,11.7636,med,low,short,male,Tate
+Boxer,25261.6185,57.4096,10.0209,high,high,short,female,Phillips
+Siberian Husky,19581.8547,58.9863,11.1246,med,high,short,male,Perez
+Siberian Husky,20437.8251,55.6555,12.0778,med,med,med,female,Collins
+Amstaff,30427.5272,,13.7338,med,high,short,female,Decker
+Boxer,23790.3738,61.0459,9.4435,high,high,short,female,Murillo
+Amstaff,30320.2303,46.273,13.0952,med,high,short,female,Edwards
+Boxer,25611.565,,9.1652,high,high,short,female,Miller
+Siberian Husky,22302.8645,54.8937,11.2031,med,med,med,female,Mcdaniel
+Great Dane,44775.6443,,6.924,med,high,short,female,Woods
+Amstaff,24217.8397,46.6356,12.1605,med,high,short,male,Vazquez
+Boxer,21315.5336,59.4541,9.7177,high,med,med,male,Patton
+Siberian Husky,16315.4054,53.4568,11.6681,med,med,med,male,Andrews
+Great Dane,49937.0137,75.7919,6.5334,med,high,short,female,Fisher
+Boxer,32664.2744,,8.2951,high,high,short,female,Vincent
+Amstaff,18495.6657,46.58,12.0737,med,high,short,female,Craig
+Great Dane,44085.2582,76.2588,8.3194,med,high,short,female,Johnson
+Boxer,30534.447,57.737,9.9717,high,high,short,male,Brooks
+Amstaff,20262.2158,44.9694,12.9467,high,med,short,female,Jackson
+Boxer,25768.2491,58.3816,8.5744,high,high,short,male,Price
+Boxer,28210.0575,,8.7255,high,high,short,male,Drake
+Boxer,29601.522,57.5214,9.1918,high,high,short,male,Tanner
+Great Dane,56269.1817,,6.6033,low,high,short,male,Joseph
+Amstaff,25499.8428,45.051,12.6705,med,high,short,female,Taylor
+Boxer,23237.853,58.5331,8.3885,high,high,short,male,Saunders
+Siberian Husky,19958.2911,,12.8552,low,med,long,female,Simpson
+Boxer,24893.9673,,9.5174,high,high,med,female,Harris
+Boxer,32889.6465,60.5972,8.0776,high,high,short,female,Ortiz
+Amstaff,31606.6455,45.931,13.3057,med,high,short,male,Perry
+Boxer,29136.3684,58.3395,9.3755,high,high,short,male,Curtis
+Boxer,25733.9885,60.8289,7.6229,high,high,med,male,James
+Boxer,20805.3215,60.5468,8.6985,high,high,short,male,Reese
+Amstaff,29850.7932,45.7831,13.4388,high,high,short,male,Flores
+Siberian Husky,19619.1943,52.672,12.7008,med,med,med,male,Bowen
+Boxer,31490.3564,57.706,9.5856,high,high,short,female,Bowman
+Great Dane,55989.8108,79.4642,7.8253,high,high,short,female,Newton
+Siberian Husky,17258.7889,,12.1053,low,med,med,male,Mendoza
+Boxer,30882.5874,56.852,8.1314,high,med,short,male,Smith
+Boxer,29020.6569,59.7198,9.878,med,high,short,male,Chan
+Siberian Husky,15949.8882,54.9703,10.9551,med,med,med,male,Morton
+Boxer,29538.6299,,8.5195,high,high,short,male,Nolan
+Boxer,23506.5813,60.6877,9.0616,high,med,short,female,Bond
+Amstaff,23402.7722,,13.0346,low,med,med,male,Barnes
+Great Dane,47826.5045,82.0439,7.0742,low,high,short,male,Leonard
+Great Dane,51563.935,79.0983,6.6017,med,high,short,female,Kelley
+Siberian Husky,17021.1024,,10.6815,med,med,med,male,Shepherd
+Amstaff,21998.6107,45.6914,12.6842,med,high,short,female,Colon
+Boxer,31852.0377,56.6378,9.9151,high,high,short,female,Hoffman
+Boxer,26519.708,,8.0404,high,high,short,male,Sanchez
+Amstaff,23719.0883,,14.0124,med,high,short,female,Sullivan
+Siberian Husky,17495.2663,57.2239,11.2455,med,med,med,female,Warren
+Siberian Husky,17890.5442,55.7609,12.6762,med,med,med,male,Fox
+Great Dane,51521.6553,78.409,7.0117,med,high,short,female,Pierce
+Siberian Husky,20584.3877,,11.5412,med,med,med,male,Craig
+Siberian Husky,20869.6549,56.8169,11.5455,med,med,short,male,Diaz
+Siberian Husky,18868.3863,53.3177,12.4194,med,med,med,male,Patel
+Amstaff,27947.7854,,11.9173,high,high,short,male,Smith
+Great Dane,46670.4365,76.6216,7.1235,med,med,short,female,Pierce
+Great Dane,51511.815,81.2911,7.3681,med,high,short,female,Robinson
+Great Dane,47403.0337,80.0154,6.4121,high,high,short,female,Petersen
+Great Dane,51191.7442,,6.4663,med,high,short,male,Herrera
+Siberian Husky,18235.1141,54.9069,12.9956,med,med,med,male,Guzman
+Siberian Husky,17711.2694,,11.7623,med,med,short,female,Thomas
+Siberian Husky,16906.13,57.417,12.4907,med,med,short,male,James
+Siberian Husky,19890.4701,55.253,11.7163,med,high,med,female,Moore
+Boxer,26231.111,59.5111,9.254,med,med,med,male,Clements
+Amstaff,23382.0123,47.0641,12.0763,med,high,short,female,Cline
+Siberian Husky,15029.5017,,11.9261,med,high,med,male,Parsons
+Great Dane,49413.737,79.0825,7.1006,low,med,short,female,Russell
+Boxer,31760.3249,60.2213,8.3733,high,med,short,female,Weaver
+Great Dane,49206.8019,,7.2162,med,high,short,male,Sanchez
+Great Dane,54908.6339,79.8298,7.3244,high,high,short,female,Curtis
+Amstaff,26029.3442,47.17,11.8242,med,high,short,male,Alvarez
+Boxer,21305.605,,9.0075,high,high,short,male,Clark
+Amstaff,25245.6056,45.4612,12.9736,med,high,short,female,Smith
+Great Dane,54670.3575,,6.8288,med,high,short,female,Hood
+Great Dane,48096.6929,81.9737,6.7274,med,high,short,female,Fuentes
+Siberian Husky,17567.2978,56.7966,12.9091,med,med,long,male,Johnson
+Amstaff,27688.052,45.5723,12.6963,med,high,short,female,Lee
+Great Dane,52331.6422,76.8955,7.9954,med,high,short,male,Garcia
+Boxer,31681.4722,,9.6179,high,high,short,female,Hammond
+Boxer,27357.2926,,9.8765,high,high,short,male,Lynch
+Siberian Husky,20981.0637,56.9713,12.2159,med,med,med,female,Bradley
+Great Dane,45912.8864,79.6086,7.2901,med,med,short,male,Burns
+Great Dane,47592.4952,,6.7109,med,high,short,female,Roberts
+Amstaff,23443.0335,46.9472,12.9297,med,high,short,female,Casey
+Siberian Husky,17915.6391,54.375,11.8704,med,high,med,female,Adams
+Siberian Husky,19615.0909,,11.0367,low,med,med,female,Fuentes
+Siberian Husky,17061.4846,53.9184,12.1803,med,low,med,male,Callahan
+Great Dane,50347.313,81.6122,7.5198,med,high,med,male,Pope
+Great Dane,43928.7947,,7.3042,med,high,short,female,Shaw
+Siberian Husky,17881.3016,,11.9112,med,med,short,female,Romero
+Siberian Husky,18994.6326,,12.6541,med,high,med,male,Bernard
+Boxer,25938.516,60.9009,9.2373,high,high,short,female,Barry
+Great Dane,44909.986,80.0466,5.8321,med,high,short,female,Ray
+Great Dane,49909.4601,79.7206,7.3849,med,high,short,male,Trevino
+Amstaff,25635.9331,47.1278,13.6537,low,high,short,male,Fernandez
+Amstaff,23431.2296,46.152,13.0424,med,high,short,female,Hobbs
+Amstaff,25994.7763,45.9945,13.5381,med,high,short,female,Cunningham
+Great Dane,55536.0478,80.2151,7.9537,med,high,short,female,Boyer
+Boxer,27929.0512,58.0697,8.601,med,med,med,male,Erickson
+Boxer,31132.7602,,8.7806,high,med,short,female,Harris
+Amstaff,29443.4918,45.9126,13.4322,med,high,short,male,Wilson
+Siberian Husky,19293.1611,,11.7063,low,med,short,male,Olsen
+Amstaff,26610.2455,46.1342,13.1772,high,high,med,female,Wood
+Amstaff,25622.6358,45.1555,12.9195,med,high,short,female,Brown
+Boxer,27505.9291,,9.2178,high,high,short,male,Johnson
+Great Dane,53944.9629,,7.1472,med,high,short,female,Flores
+Siberian Husky,19923.6886,58.8787,13.0339,med,med,med,male,Anderson
+Amstaff,19638.4179,,12.1804,low,high,short,male,Page
+Boxer,35730.0162,,8.5543,high,high,short,male,Holmes
+Great Dane,45907.1856,78.7566,6.7917,med,high,short,male,Wallace
+Great Dane,47545.3896,,6.2763,high,high,short,female,Franklin
+Amstaff,28633.4517,45.9082,13.1815,med,high,short,female,Hall
+Siberian Husky,19714.6857,53.4324,11.2434,med,med,short,female,Day
+Great Dane,48289.5602,81.1729,7.5882,med,high,med,male,Armstrong
+Great Dane,50235.9527,,6.1003,high,high,short,female,Rowe
+Great Dane,55533.6886,,6.6763,med,high,short,female,Stewart
+Boxer,25494.4962,59.9084,9.5787,med,high,short,male,Patton
+Great Dane,49778.3467,,6.8196,low,high,short,female,Miller
+Amstaff,29429.9221,45.9447,14.0921,med,high,short,male,Bentley
+Amstaff,32162.7147,44.9847,12.8301,low,med,short,male,Perez
+Boxer,22605.588,60.1944,8.5589,high,med,short,male,Buchanan
+Boxer,23883.8354,58.6765,9.5178,med,high,short,female,Miller
+Amstaff,28982.3474,45.4577,13.8291,low,high,short,female,Ballard
+Boxer,26535.4219,57.3196,8.9025,high,high,med,female,Sullivan
+Siberian Husky,19884.0736,56.5038,11.7562,med,med,long,male,Nicholson
+Siberian Husky,17780.1643,,11.4505,med,low,short,male,Peterson
+Siberian Husky,18477.9702,,11.2663,med,med,med,male,Shannon
+Boxer,29412.4286,58.634,7.8339,high,high,short,female,Gilmore
+Boxer,30732.2015,59.0332,9.557,high,high,short,female,Flores
+Amstaff,24214.5962,45.5798,12.5543,med,high,short,female,Murphy
+Siberian Husky,20178.4191,56.4847,11.3615,med,med,med,male,Knight
+Great Dane,49823.5568,79.9853,7.6731,med,high,med,female,Bush
+Boxer,32276.4743,56.2752,8.8971,high,high,short,male,Dickerson
+Siberian Husky,16813.5506,51.2201,11.5841,med,med,med,male,Johnson
+Siberian Husky,21669.8869,,12.1435,med,med,short,female,Robert
+Great Dane,50898.81,80.657,7.0095,low,high,short,male,Acosta
+Boxer,28873.8095,,9.6571,high,high,short,male,Cox
+Great Dane,50217.2695,82.4776,7.197,med,med,short,female,Villarreal
+Siberian Husky,19077.0438,52.9393,12.1775,med,med,med,male,Simpson
+Great Dane,47766.664,76.1235,7.426,med,med,short,female,Powers
+Siberian Husky,17123.0494,54.6778,12.2139,med,med,med,female,Johnston
+Amstaff,22100.039,46.2699,12.5022,med,med,med,female,Hoffman
+Great Dane,47749.9772,,7.4947,med,med,short,male,Heath
+Great Dane,48633.436,81.019,6.4283,med,high,short,male,Daugherty
+Siberian Husky,19014.909,56.0257,11.8561,med,med,med,female,Merritt
+Boxer,26139.9917,59.086,8.8943,high,high,short,male,Bates
+Boxer,30005.4706,58.1996,9.4606,high,high,short,male,Smith
+Siberian Husky,15627.9377,56.96,12.0652,med,med,short,male,Hansen
+Amstaff,21384.7303,,13.4715,med,med,short,female,Bonnie
+Great Dane,46459.8552,,7.0136,med,high,short,male,Smith
+Amstaff,32036.4644,46.4456,12.416,med,high,short,male,Mendez
+Amstaff,16514.8593,45.4359,13.1023,med,med,short,female,Vega
+Amstaff,25682.0439,46.1078,12.534,med,high,med,female,Holmes
+Great Dane,46633.0672,,7.1805,med,high,short,female,Garner
+Amstaff,27450.4858,,13.1569,med,high,med,female,Tucker
+Great Dane,48302.7692,82.3636,6.4585,med,high,short,male,Phillips
+Great Dane,53826.1364,77.4048,6.6777,med,high,short,female,Morgan
+Amstaff,24483.2186,45.9987,12.0453,med,high,med,male,Rodriguez
+Siberian Husky,20877.6436,56.3818,11.0712,med,high,med,male,Yu
+Great Dane,49688.245,79.4596,7.6151,med,high,short,male,Williams
+Boxer,26382.3143,59.2291,9.9732,high,high,short,male,Parker
+Great Dane,48718.724,84.6048,7.1757,med,high,med,male,Price
+Boxer,28834.0304,58.306,8.5128,high,high,short,male,Lowery
+Amstaff,25824.2743,46.293,12.7746,med,high,short,female,Allen
+Amstaff,26871.1488,45.4309,13.3745,low,high,short,female,Santiago
+Great Dane,50394.6645,80.0305,5.9638,med,high,short,male,Rose
+Boxer,24514.3509,59.5901,9.804,high,high,short,female,Gardner
+Boxer,31241.821,57.2482,8.8324,high,high,short,male,Flores
+Siberian Husky,18959.636,55.1364,12.3983,med,med,short,female,Schmidt
+Amstaff,26931.67,,13.4633,low,high,short,female,Morgan
+Great Dane,52147.9283,,6.1254,med,high,short,male,Baird
+Boxer,28420.8979,61.4725,8.5641,high,med,short,male,Perez
+Amstaff,20768.698,45.6837,13.016,med,med,med,male,Lane
+Boxer,29758.9791,60.2958,8.6748,high,high,short,male,Morris
+Great Dane,52740.6998,,7.1892,med,med,short,male,Turner
+Boxer,33477.9711,58.4397,8.3729,high,high,short,male,Woodard
+Siberian Husky,15267.9341,52.6915,11.7531,med,low,med,female,Patrick
+Boxer,25519.0854,57.9229,7.6703,high,high,short,female,Green
+Great Dane,44254.7832,77.4098,7.0379,high,high,short,male,Mcdonald
+Siberian Husky,18812.145,,12.0908,med,med,med,male,Bailey
+Amstaff,29070.0542,,12.7572,med,high,short,female,Hampton
+Great Dane,49688.9479,78.6835,6.2304,low,med,short,male,Wayne
+Amstaff,25620.8937,45.8978,13.2915,med,high,short,female,Taylor
+Great Dane,50636.9134,,6.7044,med,high,short,male,Johnson
+Amstaff,25894.5445,45.4195,13.1545,med,high,short,female,Brown
+Great Dane,53335.2797,78.1617,8.4085,high,med,short,male,Lawrence
+Siberian Husky,19631.0369,52.3122,13.1517,med,med,med,female,Rowe
+Great Dane,46286.2218,79.0862,7.0958,med,high,short,male,Molina
+Siberian Husky,20224.6071,54.6458,13.5856,med,med,med,female,Richardson
+Boxer,25778.8467,56.2827,9.8302,med,high,med,female,Perkins
+Great Dane,48717.027,80.325,7.2759,med,high,short,male,Glass
+Siberian Husky,16249.1129,53.7108,11.8981,low,med,med,male,Brock
+Amstaff,23226.0515,,12.2806,low,high,short,male,Wilson
+Great Dane,53181.772,,7.0693,med,high,short,male,Wiggins
+Amstaff,23140.4514,46.8227,12.1236,med,high,short,female,Peters
+Great Dane,52117.0547,,6.2225,med,high,short,female,Jones
+Great Dane,49276.6394,,6.7085,med,high,short,female,Daniels
+Amstaff,29539.939,46.6019,12.1659,med,high,short,female,Miles
+Amstaff,23971.2084,47.4388,12.0703,med,high,short,male,Adams
+Boxer,32171.5441,60.099,9.074,high,high,short,male,Pennington
+Siberian Husky,18382.478,58.9736,11.4084,high,med,med,female,Riley
+Great Dane,52565.29,77.9089,7.1075,med,high,short,male,Gomez
+Amstaff,25903.3058,45.6287,12.5791,low,high,short,male,Brown
+Great Dane,48431.2577,81.8165,6.5892,med,high,short,male,Perez
+Amstaff,26732.3433,45.289,12.355,med,high,short,female,Guerrero
+Boxer,34029.0259,59.8493,9.4929,high,high,short,male,Greene
+Great Dane,50331.8675,80.0131,7.665,high,high,short,male,Gonzales
+Amstaff,21036.0215,46.1197,12.6876,med,high,short,female,Acosta
+Siberian Husky,20664.7542,57.0835,11.2096,med,med,short,female,Regina
+Great Dane,50437.8412,78.9554,5.8932,high,med,med,male,Wells
+Boxer,32765.5398,57.1325,10.0635,high,high,short,male,Bender
+Siberian Husky,20539.2708,56.8655,11.2204,low,med,med,female,Silva
+Boxer,28870.2492,,9.2441,high,high,short,male,French
+Amstaff,34874.375,45.5537,13.2721,high,high,short,male,Palmer
+Siberian Husky,20854.0836,57.5794,11.1121,med,med,med,male,Clayton
+Siberian Husky,17263.0377,54.04,12.6879,med,med,short,male,Wright
+Great Dane,47127.8737,80.1783,6.0867,med,high,short,male,Williams
+Siberian Husky,18078.1963,54.3365,11.7984,med,med,med,male,Payne
+Boxer,25058.4614,,9.0536,high,high,short,female,Miranda
+Siberian Husky,19126.1275,54.7193,13.0007,med,med,med,female,Harris
+Great Dane,50790.698,79.3708,6.9533,low,high,short,male,Jared
+Amstaff,27416.2189,46.0371,13.2654,low,high,short,female,Patel
+Siberian Husky,20359.2858,57.3406,12.1066,med,med,med,male,Mata
+Amstaff,24899.5825,46.3543,13.4962,low,high,short,male,Graham
+Amstaff,29363.2382,46.5016,13.6735,high,high,short,female,Campbell
+Amstaff,21388.3955,44.7814,12.2155,med,high,short,male,Johnson
+Siberian Husky,17019.4588,54.5897,11.9602,med,med,med,male,Jones
+Amstaff,36153.7462,44.9782,13.0668,med,high,med,male,Dixon
+Siberian Husky,18915.5246,56.7747,11.1832,med,med,med,male,Villarreal
+Boxer,31435.804,,8.9914,high,high,short,female,Mccarthy
+Amstaff,22482.966,45.8971,13.6771,med,high,short,female,Brady
+Boxer,35106.058,,8.426,high,high,short,female,Hunter
+Siberian Husky,21781.539,58.5361,12.2828,med,med,med,male,Pearson
+Boxer,28932.649,58.7834,9.0069,high,high,short,male,Taylor
+Siberian Husky,19623.6763,50.6782,12.5854,low,med,med,female,Yang
+Siberian Husky,19743.4205,55.576,11.1647,med,med,med,male,Beard
+Great Dane,46991.0496,77.7835,7.7619,med,med,short,male,Jackson
+Boxer,30631.3301,59.4345,10.1789,high,high,med,female,Smith
+Boxer,22836.9731,57.2292,7.8445,high,high,short,male,Griffith
+Amstaff,26476.5383,46.5392,13.4441,med,high,med,male,Bowman
+Siberian Husky,20398.7963,54.3641,12.1819,med,med,med,male,Santos
+Amstaff,31913.5798,,12.9926,high,high,short,female,Gray
+Great Dane,52846.0736,79.354,7.0066,med,high,med,female,Reese
+Boxer,29096.1288,57.6438,9.1552,high,high,short,male,Thompson
+Amstaff,21571.0642,46.6384,12.8904,med,high,short,female,Williams
+Amstaff,19492.9055,46.2471,13.149,med,high,short,female,Murray
+Amstaff,24562.8479,46.352,11.935,med,high,med,male,Robertson
+Boxer,27577.6042,,9.3233,high,high,short,male,Mccoy
+Amstaff,24571.3135,45.454,12.194,med,high,short,male,Myers
+Great Dane,52803.839,77.4639,7.6035,med,high,med,female,Paul
+Great Dane,49923.3445,,6.2262,med,high,short,male,Glass
+Great Dane,48800.5215,78.9051,7.7281,med,high,short,male,Hammond
+Boxer,24454.5261,,9.7339,high,high,short,female,Sosa
+Amstaff,21082.6361,46.4028,13.0964,med,med,short,female,Costa
+Siberian Husky,16521.1338,,11.0001,med,med,med,female,Perkins
+Great Dane,45031.9611,76.9789,7.7133,med,high,short,female,Johnson
+Boxer,33953.9924,57.9313,9.7135,high,high,med,female,Frost
+Amstaff,31759.7183,46.7718,13.5777,med,high,short,male,Henry
+Siberian Husky,21471.6949,56.6512,12.5052,med,med,med,male,Lamb
+Amstaff,18175.7946,45.7279,12.5144,med,high,short,male,Anderson
+Amstaff,27119.3073,46.6593,12.8472,med,high,short,female,Long
+Siberian Husky,20842.1086,54.2402,12.6607,med,med,med,male,Bell
+Boxer,31228.9653,57.2673,8.7884,med,high,short,male,Vaughn
+Great Dane,51323.4997,80.0024,6.3977,high,high,short,male,Allen
+Siberian Husky,15401.1524,53.8398,11.0501,low,med,med,female,Jordan
+Boxer,32611.3081,59.9491,10.3637,high,high,short,female,Welch
+Boxer,28919.8738,59.7811,8.2034,high,high,short,male,Mason
+Siberian Husky,15937.2167,58.9026,12.3893,low,high,short,female,Jackson
+Siberian Husky,17342.3459,,12.6092,med,med,med,male,Fry
+Siberian Husky,18423.8624,52.9298,10.8128,low,med,long,male,Miller
+Amstaff,24454.6642,47.1565,12.4614,med,high,short,female,Dickson
+Amstaff,26043.2577,45.6703,13.2218,med,high,short,male,George
+Boxer,30708.9838,59.049,10.277,high,high,short,male,Choi
+Amstaff,24000.4317,46.0536,12.1416,med,high,short,male,Anthony
+Boxer,33290.9657,59.5424,8.5923,high,high,short,male,Powers
+Siberian Husky,18682.8069,52.5086,10.9417,med,med,med,female,White
+Boxer,28718.0749,,8.9785,high,high,short,female,Gordon
+Siberian Husky,20035.6384,53.0498,12.5317,med,med,long,female,Miller
+Amstaff,24624.4084,45.5053,12.1909,med,high,short,male,Rivas
+Siberian Husky,15109.5582,53.499,11.5053,med,med,med,male,Gordon
+Amstaff,20052.9864,,12.6929,low,high,short,male,Simmons
+Boxer,28130.7292,58.9396,7.9765,high,high,short,female,Mack
+Amstaff,27550.2484,45.3933,12.7633,med,med,short,male,Lee
+Great Dane,54547.4618,82.5446,6.2614,med,high,short,female,Ballard
+Siberian Husky,19145.9043,53.7037,11.0686,high,med,med,male,Mercer
+Siberian Husky,19004.6494,,11.8731,med,med,med,female,Hoover
+Siberian Husky,15870.5645,,13.1635,med,med,med,female,Reid
+Great Dane,46037.0849,80.7366,6.7629,med,high,short,male,Luis
+Siberian Husky,17544.5164,,12.5636,med,low,long,male,Richardson
+Great Dane,52146.6227,79.6016,7.7678,med,high,med,male,Chavez
+Amstaff,29669.0775,45.6079,13.5169,low,high,short,female,Smith
+Boxer,26889.9181,58.9519,9.4508,high,high,short,male,Smith
+Great Dane,44313.4288,78.4201,7.1658,med,high,short,male,Oneal
+Boxer,30128.8512,,9.3619,high,high,short,male,Hernandez
+Siberian Husky,18600.0206,,11.48,med,med,med,female,Solomon
+Boxer,33444.4283,58.2836,9.2635,high,high,short,male,Wolf
+Siberian Husky,15628.1703,53.7629,12.8985,med,med,long,female,Palmer
+Amstaff,20544.7362,46.5273,12.4928,med,high,short,female,Lawson
+Great Dane,50264.2195,79.2079,7.384,med,high,short,female,Carlson
+Great Dane,48517.7975,79.3597,6.2246,med,high,short,male,Johnson
+Great Dane,45899.9425,79.5696,7.1093,med,high,short,male,Miranda
+Siberian Husky,14796.45,54.7526,12.2785,high,med,med,male,Decker
+Siberian Husky,18060.499,56.6553,11.7859,high,med,med,male,Lane
+Great Dane,49693.7122,,7.5045,med,high,short,male,Greene
+Siberian Husky,18318.6558,51.7643,11.3044,med,med,med,female,Townsend
+Siberian Husky,19816.764,56.0689,11.9206,med,med,med,male,Humphrey
+Boxer,28900.8858,,8.5407,high,high,med,male,Rodriguez
+Siberian Husky,18572.3806,53.9668,12.5854,low,med,med,male,Jackson
+Siberian Husky,18647.8666,53.3251,12.0991,med,low,med,male,Mccoy
+Great Dane,52169.8836,77.7543,6.8314,med,high,short,male,Casey
+Great Dane,45578.8012,79.6874,6.8899,med,high,med,male,Bates
+Siberian Husky,20079.0946,56.7687,11.0648,med,med,med,male,Frank
+Amstaff,23462.8503,45.8053,13.7954,med,high,short,female,Andrade
+Amstaff,26343.2478,46.6391,13.6001,med,high,short,female,Wheeler
+Siberian Husky,19080.4518,56.301,11.8077,low,med,med,female,Walters
+Amstaff,20530.8763,47.0674,12.266,low,high,short,male,Krause
+Boxer,30047.9887,57.0869,9.6985,high,high,med,male,Cook
+Great Dane,50925.2361,77.3672,7.4139,med,high,short,female,Larsen
+Amstaff,31547.469,46.2062,13.7989,low,high,short,male,James
+Siberian Husky,13916.7416,54.0828,11.8855,high,med,med,female,Gomez
+Siberian Husky,17014.0379,,11.8848,med,low,med,female,Curry
+Great Dane,51652.293,75.0242,7.0133,low,high,short,female,Fields
+Amstaff,25490.6624,45.8444,12.6908,med,high,short,female,Hunt
+Boxer,32033.7211,61.4416,9.7388,high,high,short,male,Duran
+Siberian Husky,16640.5396,54.8764,12.6609,med,med,long,female,Olson
+Amstaff,16302.3917,45.4509,13.4673,med,high,short,male,Owens
+Great Dane,49212.7931,78.213,7.5733,med,high,short,female,Brown
+Boxer,31014.1271,,8.8318,high,med,short,female,Hunter
+Great Dane,50109.7153,77.3507,7.0411,med,high,med,female,Estrada
+Great Dane,43114.0997,81.3784,5.9906,med,high,short,male,Roberts
+Boxer,30178.285,58.295,9.5854,high,high,short,male,Kline
+Boxer,32411.3628,59.1146,10.0524,high,med,short,female,Murphy
+Boxer,28481.0184,,8.4159,high,med,short,male,Long
+Great Dane,50320.2732,75.1447,7.5415,high,high,short,female,Taylor
+Siberian Husky,15268.4327,52.5508,12.7832,low,low,med,female,Vasquez
+Great Dane,51814.248,79.3034,5.891,med,high,short,female,Davis
+Great Dane,50580.4377,79.8148,6.969,med,high,short,female,Allen
+Siberian Husky,17461.7149,53.3762,11.6212,med,med,long,female,Chambers
+Amstaff,22099.779,46.4954,13.9365,med,high,short,female,Wilson
+Amstaff,29559.7152,46.0132,13.8231,med,high,short,male,Soto
+Great Dane,49751.227,,7.432,med,high,short,female,Cook
+Great Dane,50945.3694,78.6274,7.4547,med,med,short,male,Powers
+Boxer,26962.5606,57.7781,9.0969,high,med,short,female,Rivas
+Boxer,35094.2513,59.1419,9.0447,high,high,med,male,Huffman
+Great Dane,51105.4777,,6.5322,med,high,short,female,Nichols
+Boxer,31809.5024,59.5812,8.3813,high,high,med,male,Torres
+Boxer,25104.9029,59.3814,8.8791,high,high,short,male,Stanley
+Great Dane,52547.4887,80.212,7.3845,med,high,short,male,Colon
+Amstaff,25418.7079,46.7655,13.6163,med,high,short,male,Mendez
+Amstaff,23116.3797,45.1593,13.5098,med,high,short,female,Spears
+Amstaff,31182.42,44.8979,12.6663,med,high,short,male,Becker
+Siberian Husky,19330.4866,51.0438,12.7992,high,med,med,female,Williamson
+Boxer,31336.2248,57.2503,9.8988,high,high,short,female,Chavez
+Amstaff,28264.0851,44.7871,13.1888,med,high,short,male,Webb
+Great Dane,52008.6733,78.2124,7.1767,med,med,short,male,Roberson
+Great Dane,48627.9573,,6.5865,high,high,short,male,Key
+Amstaff,20660.9602,46.2137,13.337,med,high,short,female,Sims
+Amstaff,25249.1199,46.6441,13.8049,med,high,short,male,Santos
+Siberian Husky,18903.6687,55.1747,12.1557,med,low,med,male,Barrera
+Siberian Husky,19747.8556,54.1317,11.8897,med,med,long,male,Lee
+Siberian Husky,18322.6654,48.8491,11.836,med,med,med,male,Hebert
+Great Dane,50493.1922,79.4003,7.0039,low,high,short,female,Young
+Siberian Husky,19554.8379,51.3737,12.1141,med,med,med,female,Lee
+Siberian Husky,20696.8756,53.521,11.665,med,high,med,male,Johnson
+Amstaff,18911.3965,46.3749,13.5253,med,high,short,female,Garrett
+Great Dane,47824.0543,79.0576,7.4421,med,high,short,female,Mccormick
+Boxer,25949.5065,57.1339,8.4546,high,high,short,male,Hensley
+Great Dane,47915.6308,80.8322,7.0235,med,high,short,female,Payne
+Great Dane,50435.7608,77.4656,7.2547,med,high,short,male,Hinton
+Great Dane,54418.2399,77.2734,6.9643,med,high,short,female,Hendricks
+Siberian Husky,20857.356,53.6815,11.692,med,med,med,male,Hurst
+Great Dane,48654.4755,78.2321,6.3593,low,high,short,male,Osborn
+Boxer,22770.5465,,8.9804,high,high,short,female,Solomon
+Amstaff,22633.8076,,12.701,med,high,short,female,Woods
+Great Dane,47211.1861,74.9403,7.1425,high,high,short,male,Wood
+Amstaff,27490.9238,,13.405,med,high,short,male,Glenn
+Siberian Husky,17705.4265,53.7507,12.7016,med,med,med,male,Brady
+Boxer,31200.4326,57.4677,8.7094,high,high,short,male,Rivera
+Amstaff,30146.9875,46.1478,14.0328,med,high,short,female,Brown
+Siberian Husky,16056.8974,53.4256,12.0152,med,med,med,female,Edwards
+Boxer,22478.9565,57.1626,8.9985,med,high,short,female,Klein
+Siberian Husky,16572.1822,53.839,11.1024,med,med,long,male,Thomas
+Amstaff,34720.9936,44.7593,12.1618,med,high,short,male,Campbell
+Amstaff,26773.6104,46.4151,13.7218,high,high,short,female,Scott
+Siberian Husky,19145.7672,50.9858,11.6619,med,low,med,male,Russo
+Siberian Husky,18551.3,55.9275,12.7251,med,low,med,female,James
+Boxer,31752.6249,56.0624,9.1729,high,med,short,female,Wilson
+Boxer,22635.341,57.1159,8.403,high,high,short,female,Cook
+Great Dane,47239.635,,6.4344,med,med,short,male,Cline
+Great Dane,46148.7407,80.0645,5.9824,med,high,short,male,Hall
+Great Dane,51280.9876,80.9125,4.9687,high,high,short,female,Brandt
+Great Dane,46769.0756,80.2492,7.8323,med,high,short,male,Rivera
+Great Dane,53596.0777,77.6197,7.3388,med,high,short,male,Smith
+Amstaff,25583.9177,45.9174,13.4352,high,high,short,male,Aguilar
+Siberian Husky,21241.4093,53.1475,13.234,med,med,short,male,Cochran
+Great Dane,46105.2712,76.0945,6.8423,med,high,short,female,Rose
+Siberian Husky,21260.2841,53.4195,12.169,med,med,med,male,Hood
+Great Dane,51952.072,78.4176,6.6916,med,high,short,female,Ruiz
+Boxer,31764.9128,58.4303,9.9137,high,high,short,male,Payne
+Amstaff,26971.0722,46.0124,13.1409,med,med,short,male,Fuller
+Great Dane,47249.6274,78.4759,6.8387,med,high,short,female,Jackson
+Siberian Husky,18074.7084,52.2864,12.1019,med,med,long,female,Horton
+Great Dane,48860.7117,81.1879,6.2243,med,high,short,female,Allison
+Great Dane,45368.3371,78.182,6.6901,med,high,med,male,Peterson
+Boxer,38004.3282,60.2175,9.5004,high,high,short,female,Wolf
+Great Dane,52187.1243,76.4978,7.4322,med,high,short,male,Le
+Great Dane,51322.6996,80.4644,7.3703,med,med,short,female,Smith
+Amstaff,19376.5924,46.368,12.5127,med,high,short,male,Maldonado
+Amstaff,29845.463,45.7329,13.3043,med,high,short,female,Barrera
+Siberian Husky,18226.763,54.6047,11.5884,med,med,short,female,Jamie
+Amstaff,34054.7211,,12.8035,low,high,short,female,Thomas
+Amstaff,29984.682,45.3958,13.9062,med,high,med,male,Atkins
+Siberian Husky,21388.8702,52.9472,12.4782,med,med,med,male,Santos
+Great Dane,51472.3533,,7.5335,med,high,short,male,Stout
+Great Dane,51779.7518,75.4042,7.7217,med,high,short,female,Matthews
+Boxer,30744.3836,58.6823,8.8975,high,high,short,female,David
+Boxer,26702.5232,59.0606,9.4855,high,high,short,female,Mccullough
+Great Dane,45730.6314,,6.5371,high,high,short,male,Davis
+Siberian Husky,18017.4823,,12.7919,med,med,med,female,Boyd
+Siberian Husky,20314.2601,50.9416,11.3254,med,med,med,female,Martinez
+Great Dane,50619.948,,6.4582,med,high,short,male,Brock
+Amstaff,26262.0377,45.7228,12.6593,low,high,short,male,Gallagher

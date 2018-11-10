@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Pug,7850.8788,31.4171,13.2464,med,high,short,male,Stein
+Airedale Terrier,22857.048,56.8426,10.3627,high,high,med,female,Parker
+Airedale Terrier,21642.592,57.7455,12.5064,med,high,med,male,Richardson
+Airedale Terrier,20653.3344,56.6851,12.5965,high,high,med,male,Garza
+Airedale Terrier,22833.2097,57.6401,11.3693,high,high,long,male,Davis
+French Bulldog,12060.4524,28.0078,10.8322,high,high,short,male,Wong
+French Bulldog,12470.7846,29.0704,10.3816,med,high,short,female,Roberts
+Rottweiler,57692.3296,62.6651,9.8901,med,high,med,male,Freeman
+Rottweiler,47521.5939,62.1142,9.6645,med,high,short,female,Gary
+Rottweiler,61848.9239,,9.8849,high,high,short,female,Stewart
+Rottweiler,50372.4994,62.7747,10.3812,med,high,short,male,Dawson
+Pug,7358.1675,,13.8386,low,high,short,female,Ayers
+Airedale Terrier,19844.5729,57.3816,11.9613,high,high,med,male,Brown
+Rottweiler,39812.1268,64.1566,10.2267,med,high,short,female,Jones
+Airedale Terrier,20694.6926,,10.2337,high,high,long,female,Moody
+Airedale Terrier,17487.0118,,11.4622,high,high,long,female,Miller
+French Bulldog,11862.7796,29.548,9.8712,med,high,short,female,Smith
+French Bulldog,11786.6261,28.4934,10.0297,med,high,short,female,Kim
+French Bulldog,12887.7566,28.7686,9.7663,med,high,short,male,Coleman
+Rottweiler,35204.9186,65.3492,8.9849,med,med,short,male,Singleton
+French Bulldog,12186.8568,29.9459,10.4072,med,med,short,male,Johnson
+Pug,6067.4075,33.0734,14.3227,med,high,short,male,Phillips
+Rottweiler,46209.2421,61.9093,10.1757,med,high,short,male,Mccarthy
+French Bulldog,12488.3222,29.0976,9.9737,med,high,short,male,Carrillo
+French Bulldog,12771.6528,28.736,8.6784,med,high,short,female,Marquez
+Pug,7059.8876,32.5619,14.8124,med,high,short,male,Cross
+Rottweiler,61429.5722,60.1727,8.7387,low,high,short,male,Wells
+Pug,5353.9632,34.6761,13.3512,med,high,short,male,Barnett
+French Bulldog,12085.5168,28.2222,10.0236,med,high,short,male,Lynch
+French Bulldog,12326.9174,,9.8592,high,high,short,female,Johnson
+Pug,6827.9264,30.5439,13.7062,med,high,short,male,Anderson
+Pug,6716.6458,34.7472,13.4751,low,high,med,male,Miller
+Airedale Terrier,21300.7178,,12.0099,high,high,med,female,Roberts
+Airedale Terrier,20194.444,,11.6582,high,med,short,male,Wright
+Pug,6230.231,,13.9526,med,high,short,female,Butler
+French Bulldog,12039.6798,27.9171,10.6397,med,high,med,female,Jackson
+Pug,7185.1614,32.1863,14.1608,med,med,med,female,Carlson
+Rottweiler,69253.0845,,9.2538,med,high,short,male,Harrison
+Airedale Terrier,19205.3264,,13.1627,high,high,med,female,Hoffman
+Pug,7240.8575,,13.4635,low,high,short,female,Everett
+Pug,6861.7621,32.0865,13.0706,med,high,short,female,Elliott
+French Bulldog,13159.3064,28.2289,10.2728,high,high,short,male,Johnson
+Rottweiler,47584.9285,,8.4706,med,high,short,male,Hart
+Pug,7161.4986,,12.8761,med,high,med,male,Snyder
+Rottweiler,56987.0282,,10.1126,med,high,short,male,Alexander
+Pug,7090.1188,,15.1349,low,high,short,female,Lewis
+Airedale Terrier,19203.5627,56.938,11.518,med,high,med,male,Dickerson
+Rottweiler,44395.6466,62.3543,9.3032,med,high,short,female,Evans
+Pug,7602.2768,31.233,12.98,med,med,med,male,Williams
+Pug,7739.1639,30.9465,13.0261,med,high,short,male,Rivera
+Airedale Terrier,19099.4385,,11.7829,high,high,med,male,Brown
+French Bulldog,12481.4899,30.0838,11.3934,med,high,short,male,Hodges
+Airedale Terrier,20502.4105,58.2749,11.0596,high,high,med,female,Wise
+French Bulldog,11752.9904,30.3186,9.715,med,high,short,male,Freeman
+Airedale Terrier,20203.0825,57.0555,11.0801,high,high,long,female,Allen
+Airedale Terrier,20993.3596,55.7348,11.0946,high,high,med,male,Montes
+French Bulldog,11825.9024,29.1171,10.982,med,high,short,female,Smith
+Rottweiler,39588.637,63.2813,9.0863,high,high,short,male,Adams
+French Bulldog,11425.6731,28.7704,11.7859,med,high,med,male,Richardson
+Airedale Terrier,21851.552,57.3764,10.8464,high,high,med,female,Rogers
+Pug,6535.6318,34.6104,13.7803,med,high,short,female,Ortiz
+Rottweiler,55522.127,63.6369,9.3125,med,high,short,female,Soto
+Airedale Terrier,20782.6222,57.0039,12.7315,high,high,med,female,Cowan
+French Bulldog,11973.6742,,10.505,med,high,short,male,Benson
+Airedale Terrier,20079.1069,56.739,10.2766,high,high,med,male,Bates
+Rottweiler,54336.1094,,9.4282,med,high,short,female,Young
+Rottweiler,37491.2264,63.3731,11.2651,high,high,short,female,Macias
+French Bulldog,11161.9779,29.4324,9.5416,med,high,short,female,Estes
+Airedale Terrier,18947.0537,57.6053,12.3939,high,high,med,female,Black
+Pug,6713.1889,35.9358,13.779,med,high,short,female,Brown
+French Bulldog,11643.277,27.8666,10.5844,med,high,short,female,Rogers
+Pug,7691.7943,37.1026,14.755,med,med,short,female,Jenkins
+Rottweiler,44218.1417,64.2679,10.2635,med,high,short,female,Haas
+French Bulldog,11353.9737,28.5423,9.4891,med,high,short,female,Vaughn
+Pug,7161.9798,32.3288,12.4553,med,med,short,female,Simmons
+French Bulldog,12276.6122,,10.728,med,high,short,male,Orr
+Pug,7694.7661,,13.8891,med,high,short,male,Watts
+Rottweiler,45056.9971,62.2505,9.3064,med,high,short,female,Gonzalez
+Pug,6728.9531,26.5873,12.3873,med,high,short,male,Garcia
+Rottweiler,45040.9118,,8.3348,med,med,short,female,Patel
+Rottweiler,56628.3529,62.6228,9.1137,med,high,short,male,Price
+French Bulldog,12767.4158,,8.8504,med,high,short,male,Patel
+Rottweiler,43294.7831,66.2368,7.7318,med,high,short,male,Jefferson
+Rottweiler,57081.8797,62.3242,9.4783,med,high,short,female,Green
+Rottweiler,53007.3003,61.5331,10.5503,med,high,short,female,Campbell
+French Bulldog,10604.9735,28.9784,9.9789,low,high,short,male,Luna
+Rottweiler,54365.0712,62.3698,10.7422,high,high,short,male,Sanchez
+Airedale Terrier,21889.4279,,11.8052,high,high,short,female,Lane
+Airedale Terrier,19313.8747,56.3739,13.505,high,high,med,male,Copeland
+French Bulldog,12107.1811,29.8768,9.55,med,high,short,male,Kim
+Pug,7041.135,33.7987,14.0573,med,high,short,male,Ryan
+French Bulldog,11971.4364,,10.1891,med,high,short,male,Hall
+French Bulldog,11363.9124,29.3922,10.6926,med,high,short,female,Huff
+Airedale Terrier,23087.2971,56.5577,10.6876,high,high,med,male,Johnson
+Pug,7247.0571,30.7875,12.9516,med,high,short,female,Powell
+Airedale Terrier,21343.3329,,10.6451,high,high,med,male,Gonzales
+French Bulldog,12680.3,29.1501,9.7192,med,high,short,male,Wood
+Airedale Terrier,20610.9921,56.8084,10.4078,high,high,med,female,Fuentes
+Airedale Terrier,21952.8855,57.6285,13.313,high,high,med,female,Baker
+Airedale Terrier,21114.6594,56.8996,11.4529,med,high,med,male,Fisher
+French Bulldog,12520.9944,28.7855,9.3184,med,high,short,female,King
+Airedale Terrier,19663.9519,56.6804,11.1852,high,high,med,female,Johnson
+Pug,6619.0127,33.6637,12.0115,high,high,short,female,Banks
+French Bulldog,12082.3573,29.0967,10.4138,high,med,short,female,Ponce
+French Bulldog,12980.1477,29.5932,11.0309,med,high,short,male,Jensen
+Rottweiler,58187.6911,63.9257,10.1565,med,high,short,male,Koch
+Rottweiler,40931.6631,,9.3117,low,high,short,female,Dixon
+French Bulldog,11589.5301,28.476,10.118,med,high,short,male,Dickson
+French Bulldog,12667.1053,29.2219,9.6903,high,high,short,male,Novak
+Rottweiler,44806.9969,66.0261,11.4339,med,high,short,female,Morgan
+Rottweiler,45319.9497,63.0957,10.4019,med,high,short,male,Green
+French Bulldog,13053.497,28.24,10.3174,med,high,short,male,James
+Airedale Terrier,19701.8737,56.6258,12.0699,high,high,med,female,Krause
+French Bulldog,11896.5446,,10.2333,med,high,short,male,Moon
+Pug,7311.9103,34.7551,13.6423,med,high,short,male,Graham
+Airedale Terrier,21047.0187,57.6501,10.7268,high,high,long,female,Rogers
+Rottweiler,50716.3381,62.0617,10.3748,med,high,short,female,Swanson
+Rottweiler,37450.3075,64.2071,8.5093,med,high,short,female,Vasquez
+French Bulldog,11676.7277,28.4331,11.06,med,med,short,female,Trujillo
+Pug,6183.8492,40.4909,13.5677,med,high,short,male,Moore
+Rottweiler,50151.1604,64.5612,9.327,med,high,short,male,Pena
+Airedale Terrier,21958.8784,,10.9877,high,med,med,male,Gallagher
+Pug,6751.3296,,14.175,high,high,short,female,Bowen
+Airedale Terrier,19794.6178,58.5008,11.1024,high,high,long,male,Johnson
+Rottweiler,42105.7918,67.3398,9.8265,med,high,med,male,Anderson
+Rottweiler,41135.1515,64.5095,8.6853,med,high,short,female,Cardenas
+Pug,7385.1541,35.2244,13.8078,med,high,short,male,Chen
+Airedale Terrier,20295.1732,56.5683,10.4922,high,high,med,male,Meza
+Airedale Terrier,22292.4932,58.3519,12.2241,high,high,med,female,Bishop
+Rottweiler,47756.8586,,9.0513,med,high,short,female,Li
+Airedale Terrier,18794.51,56.9582,9.8515,high,high,med,male,Robertson
+Pug,7085.294,34.9079,12.9223,med,high,short,female,Mcdonald
+Pug,7012.1571,33.5329,13.5947,med,high,short,female,Allen
+Airedale Terrier,19295.4072,57.3357,12.7105,med,high,med,female,Tran
+Airedale Terrier,21416.5616,58.6409,10.2759,high,high,med,male,Walter
+French Bulldog,11390.8798,29.4625,9.9643,low,high,short,male,Williams
+Rottweiler,67959.0268,65.3715,8.9789,low,high,short,female,Morgan
+French Bulldog,11116.7618,29.1009,10.0367,high,med,short,female,Williams
+Airedale Terrier,20181.4155,56.9879,13.0123,high,med,short,male,Huff
+Airedale Terrier,19831.3413,57.3714,10.8668,high,high,med,male,Lopez
+Pug,7277.545,34.9953,11.9449,med,high,short,female,Jackson
+Airedale Terrier,19232.1141,57.7698,11.6036,high,high,med,female,Church
+French Bulldog,12246.2473,28.3944,10.3632,med,high,short,female,Lester
+Rottweiler,44841.6466,66.1183,9.3437,high,high,short,male,Blackwell
+Pug,7190.9667,28.649,13.4935,low,high,short,male,Smith
+Airedale Terrier,18802.6573,57.4722,11.8546,high,high,med,male,Robinson
+Airedale Terrier,18991.3347,57.3347,11.0612,high,med,med,male,Moore
+Rottweiler,41168.1255,,10.1598,med,high,short,female,Berry
+Rottweiler,54433.6836,62.3158,11.0085,med,high,short,female,Mann
+French Bulldog,11436.5442,29.4871,8.5651,med,high,short,female,Garcia
+French Bulldog,11543.7461,29.105,10.946,med,med,short,female,Griffin
+Airedale Terrier,19292.1423,57.3109,12.3157,high,high,med,female,Wood
+Pug,6339.5985,,13.293,med,high,short,male,Davis
+Rottweiler,54229.7254,64.7011,10.2332,med,high,short,female,Watson
+French Bulldog,11721.5826,28.2077,9.4785,med,high,med,male,Johnson
+Rottweiler,45192.3822,63.6486,9.4535,low,high,short,male,Morales
+Rottweiler,41329.0116,,9.5477,med,high,short,female,Gray
+Rottweiler,46307.3902,62.8861,10.6853,med,high,med,male,Velasquez
+Airedale Terrier,20138.5301,56.8253,13.5653,med,high,med,female,Lee
+Airedale Terrier,20993.4498,,11.8953,high,med,med,male,Boyd
+French Bulldog,12185.5496,,10.0855,med,high,short,male,Williamson
+French Bulldog,13226.0496,28.5072,10.1205,med,high,short,male,Washington
+Airedale Terrier,18648.2943,57.4232,11.7494,high,high,med,male,Smith
+Pug,7491.8464,33.9898,13.0829,high,high,short,female,Bell
+Airedale Terrier,18743.328,56.6115,12.2841,high,high,med,female,Williams
+French Bulldog,11668.7279,28.7943,9.1842,med,high,short,female,Carter
+Airedale Terrier,21048.3945,57.8048,11.3304,high,high,med,male,Thomas
+Pug,8373.6281,,14.4527,med,high,short,male,Rodgers
+French Bulldog,11846.535,28.7985,10.1659,med,med,short,male,Mcbride
+Rottweiler,48606.2208,62.8415,9.8172,med,high,short,male,Owens
+Rottweiler,43682.1962,,12.3858,med,high,short,male,Ingram
+Airedale Terrier,22321.093,57.4906,11.2579,high,high,med,male,Martinez
+Rottweiler,45274.4516,64.2831,9.9526,med,high,short,male,Jackson
+Rottweiler,42983.5432,64.7449,10.9965,med,high,short,female,Harris
+Airedale Terrier,22269.9282,57.5141,12.4355,high,high,med,female,Curtis
+Pug,7097.3979,,13.8888,med,high,short,male,Turner
+French Bulldog,12165.0157,29.1578,10.1099,high,high,short,male,Garza
+French Bulldog,12105.6964,,10.0754,med,high,short,female,King
+Pug,7017.8603,28.4018,13.9505,med,high,short,male,Reyes
+French Bulldog,12333.0176,30.3087,10.5224,med,high,short,male,Huffman
+French Bulldog,11682.2032,,10.6013,high,high,short,female,Conley
+Pug,6932.7786,32.157,11.537,med,high,short,female,Reynolds
+Rottweiler,53512.1937,62.967,10.8683,med,high,short,female,Torres
+Rottweiler,51972.9563,,9.1626,low,med,short,female,Hale
+Rottweiler,44727.7293,64.5766,9.5834,med,high,short,male,Orozco
+French Bulldog,12608.6199,28.8242,10.7737,med,high,short,female,May
+Airedale Terrier,21579.2157,57.1886,11.1823,high,high,short,female,Lopez
+French Bulldog,12286.1397,29.339,10.2739,low,high,short,male,Esparza
+Airedale Terrier,20503.4447,,10.9999,high,high,med,male,Church
+Airedale Terrier,21647.407,56.6139,13.231,high,med,med,male,Green
+Rottweiler,50738.1478,63.0849,8.9125,med,high,short,female,Rodriguez
+Pug,6474.076,38.5275,15.2241,low,high,short,female,Garcia
+Pug,6805.8782,35.348,14.7434,med,high,short,male,Adams
+Pug,7672.9524,31.7169,14.6344,med,med,short,male,Wilcox
+Pug,7113.2657,41.5971,12.5432,low,high,short,female,Vega
+Airedale Terrier,22560.7247,56.4407,12.3719,high,med,med,female,Ramsey
+Airedale Terrier,18732.0448,57.0378,12.7895,high,high,med,female,Bird
+French Bulldog,12531.4882,29.0511,10.4923,med,high,short,male,Malone
+Pug,7278.7947,34.4352,14.733,med,high,short,female,Ryan
+Pug,6926.931,,14.5382,high,high,med,male,Robinson
+Rottweiler,39976.4468,,8.9851,med,high,short,male,Wise
+Rottweiler,35620.8299,63.7943,9.2635,med,high,short,male,Rodriguez
+Pug,7025.0817,29.8053,13.023,med,med,short,female,Bowen
+Rottweiler,33065.1821,61.5425,9.9389,med,high,short,female,Young
+Airedale Terrier,22239.7573,56.9871,11.6747,high,med,med,male,Barnett
+Airedale Terrier,18750.8595,57.213,10.8605,high,high,med,female,Harrell
+French Bulldog,11421.2588,29.6535,10.6782,med,high,med,female,Davis
+French Bulldog,12159.3641,29.3294,8.4787,med,high,short,female,Kim
+French Bulldog,12117.7826,27.5132,8.8306,med,high,short,female,Christensen
+Rottweiler,55689.3403,62.2648,8.9429,med,high,short,male,Roberson
+Rottweiler,55716.9545,64.8472,9.5677,med,high,short,male,Mack
+Airedale Terrier,19061.5801,56.9692,12.0807,high,med,med,female,Campbell
+French Bulldog,12319.7334,28.9475,10.9127,med,med,short,male,Hines
+Rottweiler,49566.6647,62.4149,10.0544,med,high,short,male,Perez
+French Bulldog,12299.0437,28.8719,9.971,med,med,med,male,Davis
+Pug,7018.6926,33.0512,13.5714,med,med,short,male,Peterson
+Rottweiler,49650.2772,63.062,9.264,med,high,short,male,Benton
+Rottweiler,47755.5446,62.8349,9.7038,med,high,short,female,Rose
+Airedale Terrier,21748.504,55.7623,11.433,high,high,med,female,Taylor
+Pug,6106.0451,29.7211,14.8545,high,high,short,male,Young
+French Bulldog,12375.8542,28.6614,10.6552,med,high,short,male,Martinez
+Rottweiler,41053.3123,61.342,9.3993,med,med,short,female,Stafford
+Rottweiler,29674.3877,61.008,8.4878,med,high,short,female,Kelly
+French Bulldog,11781.1092,28.6033,9.8763,med,high,short,male,Arnold
+French Bulldog,11404.8744,30.1569,9.6057,med,high,short,male,Wright
+Pug,8066.3496,31.9202,11.3906,med,high,short,male,Beard
+Airedale Terrier,22779.8691,,10.848,high,high,long,female,Ward
+French Bulldog,11420.3176,28.7614,9.3311,med,high,short,male,Goodman
+Pug,6487.6027,,13.1339,med,high,short,male,Espinoza
+Rottweiler,47233.7931,65.0893,11.1542,med,high,short,male,Morgan
+Rottweiler,56269.0648,63.2013,10.1839,med,high,med,male,Wells
+Rottweiler,39982.1684,61.6083,9.4921,med,high,short,male,Clark
+Rottweiler,55932.158,61.2295,9.8973,med,high,short,male,Jones
+Airedale Terrier,21447.4225,57.3213,12.666,high,high,med,male,Key
+Airedale Terrier,22572.8932,,10.6752,high,high,med,male,Ryan
+Airedale Terrier,19719.3874,,9.7954,high,high,med,male,Morales
+Airedale Terrier,19147.782,,13.115,high,high,long,male,Ford
+French Bulldog,12254.6887,28.5778,9.8689,med,high,short,male,Carpenter
+French Bulldog,12286.4577,,9.4531,med,high,short,female,Francis
+Pug,7214.2964,32.8458,13.2666,low,high,short,female,Clements
+Rottweiler,51379.5349,,9.0676,low,med,short,female,Thomas
+Rottweiler,47292.2203,61.8294,8.8773,med,high,short,male,Cook
+Airedale Terrier,22194.3714,57.3827,11.7629,high,high,med,female,David
+Rottweiler,47231.3544,65.049,9.6255,low,high,med,male,Garcia
+Rottweiler,42001.5287,61.4963,10.4722,med,high,short,male,Barnes
+French Bulldog,11949.442,28.5498,9.4742,low,high,short,male,Cox
+French Bulldog,11240.9601,29.3777,9.4201,med,high,short,female,Scott
+Pug,7462.7478,,13.5322,med,high,short,male,Hurley
+Rottweiler,39466.3418,64.9151,9.4899,med,high,short,female,Coleman
+French Bulldog,11474.844,29.1372,10.5479,med,high,short,female,Alvarado
+French Bulldog,11561.6323,27.8358,9.7913,med,high,short,male,Castillo
+French Bulldog,12220.2576,29.3045,9.5541,low,high,short,male,Mcfarland
+Rottweiler,51177.6454,,7.5741,low,high,short,female,Young
+French Bulldog,11596.9774,,10.9719,low,high,short,male,Harris
+Pug,5925.802,,16.1884,med,high,short,male,Myers
+Rottweiler,35004.832,64.2755,8.7299,med,high,short,male,Myers
+Rottweiler,37426.2769,62.5744,11.1714,med,high,short,female,Watson
+French Bulldog,10859.4278,,9.2902,med,high,short,male,Montoya
+Airedale Terrier,17807.4868,56.5516,10.7686,high,high,long,female,Rosario
+French Bulldog,12542.4845,28.686,10.3829,med,high,short,male,Barron
+Airedale Terrier,19669.8969,57.4588,11.2145,high,high,med,female,Wallace
+Airedale Terrier,20171.009,56.1915,12.3047,high,high,med,male,Savage
+Pug,6807.435,32.4697,12.7436,med,high,short,female,Velasquez
+Rottweiler,59529.5704,,9.7965,med,high,short,male,Weaver
+French Bulldog,11857.7623,,9.7541,low,med,short,male,Collier
+Pug,7941.405,,11.6454,med,med,short,female,Johnson
+Pug,7096.6963,31.2365,14.1162,high,high,short,female,Duffy
+French Bulldog,12094.8075,28.1257,9.1385,med,high,short,male,Wilson
+Airedale Terrier,23092.0993,,10.8647,high,high,med,male,Walls
+Airedale Terrier,20459.9288,57.0726,12.0665,high,high,med,female,Russell
+Pug,6678.1983,,13.9453,high,high,short,male,Hudson
+French Bulldog,12428.2514,,9.5269,med,high,short,female,Fisher
+Rottweiler,50849.0727,61.1356,9.3984,med,high,short,male,Thomas
+Airedale Terrier,19601.5147,,10.9322,high,high,med,female,Simpson
+Rottweiler,51287.1326,66.5318,9.5927,low,high,med,male,Adams
+French Bulldog,12076.4277,,10.7149,med,high,short,male,Brown
+Pug,7645.6544,37.7294,15.7534,med,high,med,female,Walker
+Pug,6862.8945,30.1926,13.3612,med,high,short,female,William
+Airedale Terrier,20576.1242,56.2387,11.0874,high,high,long,female,Martinez
+Airedale Terrier,20252.8832,57.1247,11.1945,high,high,med,female,Robinson
+Airedale Terrier,20628.2264,,10.6794,high,high,med,female,Randall
+Airedale Terrier,21634.0178,57.0437,11.8741,high,med,med,female,Martinez
+Airedale Terrier,17588.7997,56.6383,12.6515,high,high,med,male,Diaz
+French Bulldog,11782.4221,29.1283,10.4044,med,high,med,male,Campbell
+Rottweiler,46041.606,,8.7126,med,high,short,male,Fox
+Rottweiler,45630.9836,,9.3593,med,high,short,male,Stewart
+French Bulldog,12704.9395,28.9781,9.3353,med,high,short,female,Arnold
+Rottweiler,49176.8672,62.6334,8.8957,med,high,short,male,Morris
+Rottweiler,31559.5139,64.5746,11.9778,med,high,short,female,Perry
+French Bulldog,11728.5886,27.9612,9.9804,high,high,short,female,Dixon
+Pug,6265.1376,31.3478,13.8772,med,high,short,male,Reed
+French Bulldog,11573.7558,,11.083,med,high,short,female,Brewer
+French Bulldog,11559.812,29.3545,10.5189,med,high,med,male,Roberts
+French Bulldog,12973.7636,27.8371,9.7378,med,high,short,male,Jensen
+French Bulldog,10908.6186,28.2904,10.2401,med,high,short,male,Thomas
+Rottweiler,39527.9205,65.3187,9.0307,med,high,short,female,Griffith
+Airedale Terrier,18034.7667,,11.4133,high,high,med,female,Montgomery
+Pug,6916.2046,35.6664,12.8753,med,high,med,female,Dickerson
+Pug,6367.1973,,12.5658,med,high,short,male,Barker
+Rottweiler,29061.688,62.9491,9.3866,med,high,short,female,Turner
+Rottweiler,33193.4813,63.8653,9.1771,med,high,short,female,Meza
+French Bulldog,11463.6547,28.7095,9.4942,med,med,short,female,Arroyo
+Pug,6484.295,38.1846,13.7166,low,high,short,female,Juarez
+French Bulldog,11493.5924,28.0463,9.9321,med,med,short,male,Woodward
+Pug,6397.7381,,15.1808,med,high,short,male,Roberts
+Pug,7896.5132,38.7709,12.5732,med,high,short,female,Walker
+Airedale Terrier,21250.539,57.5318,10.0839,high,high,med,male,James
+Airedale Terrier,20379.6529,57.3918,12.0404,high,high,med,male,Gallegos
+Airedale Terrier,20153.1365,56.5668,12.0145,high,high,med,male,Richardson
+Airedale Terrier,24411.2607,56.6809,11.5556,high,high,med,male,Mcdaniel
+Rottweiler,52137.889,59.962,9.4695,med,high,med,female,Jackson
+Rottweiler,45607.4358,65.0656,9.3212,med,high,short,male,Adams
+Pug,7262.828,34.7892,13.1853,med,high,short,male,Schultz
+French Bulldog,12224.0796,27.6725,11.0732,med,high,short,female,Perry
+Airedale Terrier,19355.7328,57.2502,11.7249,high,high,med,male,English
+Pug,6700.957,29.9042,12.9973,high,high,short,male,Mercado
+Airedale Terrier,21942.3585,56.7507,12.1172,high,high,med,female,Hawkins
+Pug,7428.1724,37.9203,13.0329,med,high,short,male,Williams
+Rottweiler,43721.8493,63.9898,9.6295,med,high,short,male,Hughes
+Pug,7372.781,34.4382,13.5692,med,high,short,male,Rangel
+Rottweiler,48590.8975,64.4875,9.8332,high,high,short,female,Williams
+French Bulldog,11996.2823,28.3552,10.2926,med,high,short,female,Rosales
+French Bulldog,11823.4419,28.4436,10.2911,med,high,med,female,Barr
+French Bulldog,12282.2434,29.8618,9.6894,med,high,short,female,Park
+Pug,7037.2038,35.1104,15.8909,med,high,short,male,Miller
+Pug,7195.9549,31.0636,13.4322,high,high,short,female,Henderson
+Pug,7451.8357,,14.0538,low,high,short,female,Mejia
+French Bulldog,12110.5841,29.539,9.6138,med,high,short,female,Contreras
+Airedale Terrier,21455.5519,57.1184,11.2283,high,high,med,female,Vasquez
+Rottweiler,45767.4128,62.9265,10.6215,med,high,short,male,David
+French Bulldog,12572.4514,,11.3005,high,high,short,male,Rodriguez
+Pug,6317.3688,33.2336,12.9502,med,high,med,male,Young
+French Bulldog,12553.8259,28.2026,11.3957,low,high,short,male,Green
+Airedale Terrier,17104.4075,57.1879,12.3138,high,high,med,female,Martin
+Pug,7334.5161,31.197,12.5098,low,high,short,male,Smith
+Pug,6991.1709,36.1554,13.6264,med,high,short,male,Miller
+Rottweiler,50042.2139,63.9223,11.664,med,high,short,male,Ortiz
+Rottweiler,52120.2231,66.5223,10.751,high,high,short,male,Davis
+Airedale Terrier,18126.1141,56.4556,11.5389,high,med,med,male,Mccann
+Airedale Terrier,20498.5007,56.2471,9.8439,high,high,med,male,Mclaughlin
+Airedale Terrier,19034.1239,57.3139,9.8559,high,high,med,male,Christensen
+French Bulldog,11192.9943,,10.2736,med,high,med,female,Fisher
+Airedale Terrier,19939.6961,,11.708,med,high,med,male,Brown
+Pug,6742.4352,37.7839,14.4021,high,high,short,female,Smith
+Pug,6826.0634,34.1444,13.6878,high,high,short,male,Ramirez
+Rottweiler,51785.0227,62.4865,8.7889,med,high,med,female,Bailey
+Airedale Terrier,21613.7783,58.7057,10.7177,med,high,med,male,Benjamin
+Rottweiler,58006.6256,62.3066,9.2673,med,high,short,female,Lawrence
+Rottweiler,45967.696,62.6434,8.5978,med,high,short,female,Flynn
+French Bulldog,12253.734,29.6906,10.5915,med,high,med,female,Danielle
+French Bulldog,12263.442,29.3959,10.8062,low,med,short,female,Flores
+French Bulldog,11362.0994,28.9705,9.4093,med,high,med,male,Stanley
+Pug,6009.4931,28.6992,11.9805,high,high,short,female,Montgomery
+Rottweiler,57965.5855,63.2769,9.2027,med,high,short,female,Herring
+Rottweiler,41214.5877,,9.3318,med,high,short,male,Horne
+Rottweiler,54685.5556,62.0268,10.6301,med,high,short,male,Brown
+French Bulldog,11773.0337,29.42,9.9668,med,high,short,male,Heath
+Rottweiler,49843.075,61.1277,10.4396,med,high,short,female,Sanders
+Airedale Terrier,20762.13,57.6609,10.7833,high,high,short,male,Vargas
+Rottweiler,53413.9732,62.5886,9.2527,med,med,short,male,Sanchez
+French Bulldog,12582.4938,29.2475,11.0107,med,high,short,female,Young
+Rottweiler,47587.7345,65.9216,10.9265,med,high,med,male,Price
+French Bulldog,12551.5261,,9.2699,med,high,short,female,Hill
+Airedale Terrier,20993.311,57.9065,12.8571,high,high,med,female,Daniels
+Pug,6976.5827,34.5996,13.7679,med,high,short,female,Dillon
+Pug,7121.3594,31.1779,13.4089,med,high,short,male,Elizabeth
+Pug,6621.4449,34.8852,13.7958,low,high,short,male,Richards
+Airedale Terrier,18865.2324,,11.6855,high,high,long,female,Maldonado
+French Bulldog,11400.1921,,10.1653,med,high,short,female,Andersen
+Airedale Terrier,20245.8366,57.0704,12.2506,high,high,med,female,Little
+Airedale Terrier,17695.7158,,10.4423,high,high,med,female,Diaz
+Pug,6525.6559,34.5908,14.186,med,high,short,male,King
+French Bulldog,12613.7598,28.0991,9.4072,med,med,short,female,James
+Rottweiler,52085.8097,60.9179,9.1828,low,high,short,female,Diaz
+Airedale Terrier,19577.0689,57.2887,12.2523,high,high,med,male,Baker
+Airedale Terrier,19529.4808,56.9531,11.6043,high,high,med,male,Pope
+French Bulldog,12521.8699,,10.5103,med,high,med,female,Anderson
+Pug,6251.3183,38.4729,14.5294,low,high,short,female,Sanchez
+Pug,7097.5611,31.6031,12.9858,med,high,med,male,Johnson
+Airedale Terrier,21646.497,56.2378,11.0669,high,high,med,female,Estrada
+Pug,7311.7752,,14.0914,med,high,short,male,Davis
+Rottweiler,54135.5651,,10.7283,high,high,short,male,Walker
+Pug,7560.5136,33.724,14.826,high,high,short,female,Nolan
+Rottweiler,42138.8842,,8.8364,med,high,med,male,Anderson
+Airedale Terrier,20061.0541,57.9259,9.0216,high,high,long,female,Moon
+Pug,6650.1305,38.9687,15.1546,med,high,short,female,Gutierrez
+French Bulldog,11302.2564,28.9523,9.8823,med,high,short,female,Massey
+Airedale Terrier,20843.7798,56.522,9.1728,med,high,med,female,Alexander
+Rottweiler,56610.8947,,10.7243,med,high,short,male,Parks
+Pug,6708.8116,33.6922,12.7205,low,high,short,female,Cantrell
+Airedale Terrier,20067.2995,,10.5165,high,high,med,male,Phillips
+Rottweiler,43496.2101,64.3004,8.7167,med,med,short,male,Barron
+Airedale Terrier,22541.0603,57.3909,11.2742,high,med,med,female,Salinas
+Pug,7228.0603,,13.4907,med,high,short,male,Miller
+French Bulldog,12746.7695,29.0612,8.91,low,high,short,male,Gross
+Airedale Terrier,20953.8404,56.962,10.5035,high,high,med,female,Long
+Airedale Terrier,18566.5881,,11.3706,high,high,med,female,Haas
+Rottweiler,54710.6628,63.4329,10.7677,low,high,short,male,Brown
+Rottweiler,48775.5471,62.5834,10.3013,med,high,short,female,Brown
+Airedale Terrier,20133.2174,,11.794,high,high,long,female,Gonzalez
+French Bulldog,11348.4379,28.5909,10.4785,med,high,short,female,Ross
+Rottweiler,39590.2938,63.1363,9.5956,med,high,med,female,Massey
+French Bulldog,11571.8415,29.6369,10.8162,med,high,short,male,Mata
+French Bulldog,11801.0446,28.2328,10.7509,med,high,short,male,Shannon
+Rottweiler,50009.0368,,9.956,med,high,med,male,Lyons
+Pug,7200.4955,,13.8831,med,high,short,female,Kelley
+Pug,7123.1688,35.7114,12.4983,med,high,short,male,Fox
+Rottweiler,51657.6227,,9.4766,med,high,short,male,Clark
+French Bulldog,11577.0889,28.1786,10.1301,med,high,short,male,Johnson
+Pug,7154.5055,33.343,14.4293,med,med,med,male,Rodriguez
+French Bulldog,11518.9451,,9.822,high,med,short,female,Blake
+Pug,7084.8769,,11.5985,med,high,short,male,Barrett
+Pug,7483.9987,32.3194,13.2665,med,high,short,female,Calderon
+French Bulldog,12638.9948,28.1288,9.6333,med,high,short,male,Rios
+French Bulldog,12003.2978,,11.0135,med,high,short,female,Kent
+French Bulldog,12680.2149,29.5469,9.0474,med,high,short,male,Lester
+Airedale Terrier,21047.7896,56.6798,10.4596,high,med,long,male,Gibson
+Rottweiler,46570.7752,64.5084,8.4316,med,high,short,female,Rodgers
+Airedale Terrier,17935.3518,57.3429,11.7743,high,high,short,male,Ford
+Pug,7408.5686,28.515,13.0808,med,high,short,male,Dominguez
+Pug,7537.9128,39.4466,13.9757,med,high,short,male,Khan
+Rottweiler,50659.0276,65.1185,9.5136,med,high,short,male,Jenkins
+Rottweiler,46868.4833,61.9982,10.7564,med,high,short,female,Grant
+Airedale Terrier,21031.3883,57.581,12.1702,high,high,med,male,Carter
+Pug,7451.7339,32.875,13.5762,med,high,short,male,Coleman
+French Bulldog,12330.6471,29.9684,10.0202,med,high,short,male,Cervantes
+Rottweiler,52332.3957,62.7873,9.5353,med,high,short,female,Richardson
+Rottweiler,53178.3826,63.1555,9.5351,high,med,short,male,Watson
+Airedale Terrier,17829.5827,56.6881,12.2112,high,high,med,female,Smith
+Airedale Terrier,21064.3735,,11.537,high,high,med,male,Williamson
+French Bulldog,11852.9533,29.7734,9.3645,med,high,short,male,Bauer
+Rottweiler,36286.9012,62.7006,9.9498,low,high,short,male,Cole
+French Bulldog,11981.5024,,10.0098,high,high,short,male,Gibbs
+Rottweiler,47422.2166,,9.7594,med,high,short,male,Torres
+Rottweiler,33156.8652,60.9132,9.4859,med,high,short,male,Pena
+Pug,7621.437,33.6942,12.8178,med,high,short,male,Rivera
+Rottweiler,41645.301,61.8943,9.0403,med,med,short,female,Smith
+Airedale Terrier,16778.7571,57.4814,12.8351,high,high,long,male,Page
+Pug,5803.5176,41.0349,14.2644,high,high,short,female,Jones
+French Bulldog,11326.656,28.9935,11.5978,med,high,short,female,Brooks
+Pug,6136.461,29.4686,12.6083,med,high,short,male,Mays
+Pug,7440.6294,37.6059,13.5025,med,high,short,female,Mason
+French Bulldog,12831.1322,29.3893,10.3114,med,high,short,male,Lara
+Pug,7965.2235,29.9333,12.114,med,high,short,male,Bailey
+Pug,7193.5521,33.8518,14.8966,med,high,short,female,Turner
+French Bulldog,13848.269,,9.5598,med,high,short,male,Brady
+Airedale Terrier,21227.95,57.0021,11.2137,high,high,long,female,Little
+French Bulldog,11763.6542,29.7558,10.6951,med,high,short,female,Johnson
+Rottweiler,43857.367,,9.5411,med,high,short,male,Gutierrez
+French Bulldog,11111.1801,,9.5535,med,high,med,female,White
+Rottweiler,54452.4397,,10.2294,med,high,short,female,Duncan
+Airedale Terrier,18986.6697,,12.6079,high,med,med,female,Paul
+Airedale Terrier,18872.8429,56.5253,11.2065,high,high,short,male,Rodriguez
+Rottweiler,26471.6362,63.425,8.4728,med,high,short,male,Palmer
+Pug,6246.3767,35.3881,13.3326,high,high,short,male,Hernandez
+French Bulldog,11485.3909,29.1794,9.3628,med,high,short,male,Reed
+Rottweiler,42703.8108,60.2847,8.991,med,high,short,male,Scott
+Airedale Terrier,21912.2064,57.39,12.417,high,high,short,female,Montgomery
+Airedale Terrier,21455.6007,56.7819,10.7787,high,high,med,female,Alvarez
+Rottweiler,41384.3935,64.8878,10.6009,med,high,short,female,Chung
+Airedale Terrier,21399.6204,57.6514,12.3768,high,high,med,male,Smith
+Rottweiler,50875.3925,62.6729,8.2776,med,high,short,male,Houston
+Airedale Terrier,22099.0519,57.2124,11.3621,high,high,med,male,King
+Rottweiler,57070.1747,63.1142,10.676,med,high,short,female,Castillo
+Airedale Terrier,21070.4546,,12.4364,high,high,med,male,Sanchez
+French Bulldog,11972.1339,28.3342,10.5234,med,high,short,female,Kirby
+Pug,6997.8145,39.0107,14.9439,med,high,short,male,Douglas
+French Bulldog,11260.7764,29.6285,9.407,med,high,short,female,Ford
+French Bulldog,10541.3195,28.6128,10.0892,med,high,short,female,Reyes
+Pug,6965.0239,32.9692,13.5923,med,high,short,male,Gonzalez
+Airedale Terrier,21382.0593,56.6238,11.9345,high,high,med,male,Church
+Pug,6798.2681,34.5527,11.8374,low,med,short,male,Lane
+Rottweiler,53658.7155,60.7556,9.6388,med,med,short,male,Moss
+Pug,7969.3654,31.6459,14.0501,low,high,short,female,Lowe
+Airedale Terrier,22535.3378,,9.9645,high,high,med,male,Bennett
+Pug,7139.3927,29.5826,14.4424,med,high,short,male,Schwartz
+Rottweiler,63548.191,,10.3781,med,high,short,male,King
+Rottweiler,54493.1962,63.188,10.9035,med,high,short,male,Smith
+Rottweiler,59104.6826,63.0947,10.9598,med,high,short,female,Murray
+Pug,7904.2335,32.1077,13.4401,med,high,short,female,Reed
+Pug,7465.0162,36.5374,13.8397,med,high,short,female,Best
+Airedale Terrier,19604.8155,57.5448,11.5153,high,high,med,female,Smith
+Airedale Terrier,20346.4902,56.8565,11.0697,high,high,med,male,Blair
+Rottweiler,34221.6591,,8.3958,med,high,short,female,Wolfe
+Rottweiler,54097.5664,63.6791,9.8571,high,high,short,female,Kelly
+Rottweiler,44360.6207,61.0103,8.6027,high,high,short,male,Wilson
+French Bulldog,12510.5417,28.9323,10.3323,med,high,short,female,Curry
+Pug,6961.5927,,13.4886,med,high,med,female,Roberts
+Airedale Terrier,19829.416,56.6127,10.4606,high,high,med,female,Velazquez
+French Bulldog,12283.1961,,8.4859,low,high,short,female,Nolan
+Pug,5828.4082,,15.1299,med,high,short,male,Cook
+Rottweiler,46508.35,,9.1697,med,med,short,female,Collins
+Rottweiler,52859.5477,62.2197,9.2635,med,high,short,female,Ross
+Airedale Terrier,20593.445,56.9495,11.2446,high,high,med,female,Harris
+French Bulldog,12446.7957,,9.6318,high,high,short,female,Baldwin
+Pug,7150.9384,38.0497,12.6184,med,high,short,female,Nguyen
+French Bulldog,12628.7565,29.3114,10.4662,med,high,short,female,Matthews
+Airedale Terrier,21881.5369,57.1944,11.2734,high,high,med,male,Holt
+Airedale Terrier,20773.6416,57.4609,12.5578,high,high,med,male,Curtis
+French Bulldog,11690.2853,28.7327,9.608,med,high,short,male,Hall
+Rottweiler,57761.8418,61.9741,9.9396,med,high,short,male,West
+Pug,8299.8199,33.7977,14.1994,med,high,short,female,Grant
+Pug,6024.6242,35.1123,13.1195,med,high,med,male,Larson
+French Bulldog,12160.722,29.6991,10.6754,med,high,short,male,Perez
+Rottweiler,51058.9216,64.6804,9.8584,med,high,short,female,Brown
+Pug,7365.5677,29.7031,13.9826,med,high,short,female,Hopkins
+Airedale Terrier,22910.91,,10.9933,high,high,med,female,Gomez
+Airedale Terrier,20236.6999,55.2528,11.8699,high,high,med,male,Hernandez
+Pug,7169.6099,32.6578,13.6826,high,high,short,female,Fowler
+Rottweiler,50988.4868,62.5024,9.4422,med,high,short,male,Miller
+Pug,7858.4812,35.2204,12.8652,med,high,short,male,Horton
+Pug,6898.3348,31.6746,14.041,med,high,short,male,Flores
+Airedale Terrier,22022.7746,55.9665,12.0935,high,high,med,female,Ward
+Rottweiler,55726.1426,63.1875,10.5577,med,high,short,female,Jackson
+Pug,6130.4805,,14.0073,med,high,short,female,Chavez
+Rottweiler,57949.4053,63.0669,11.1986,med,high,short,female,Mcintyre
+Airedale Terrier,20762.7958,57.4179,11.7433,high,high,med,male,Espinoza
+Pug,7398.9423,30.0964,13.658,med,high,med,female,Barajas
+French Bulldog,12312.7118,29.9429,10.2842,med,high,short,female,Herrera
+Airedale Terrier,20175.4223,56.8562,10.887,med,high,med,male,Peters
+Rottweiler,55633.3577,62.2426,8.392,low,high,short,male,Foley
+Rottweiler,49162.1422,,8.6245,med,high,short,male,Fields
+Airedale Terrier,22005.9938,57.4155,10.6244,high,high,med,male,Cain
+Pug,7418.8464,,14.2455,med,high,short,female,Newton
+Rottweiler,49011.0249,61.0482,9.7851,med,high,short,female,Thompson
+Rottweiler,37632.4827,64.5953,10.112,med,high,short,male,Jones
+Airedale Terrier,21097.6261,56.692,11.6728,high,high,med,female,Smith
+French Bulldog,11268.2707,28.4771,9.3001,med,high,short,male,Gardner
+Airedale Terrier,18110.4982,57.3998,11.4801,med,high,med,male,Schroeder
+Rottweiler,55374.5999,63.9876,9.7201,med,med,short,male,Boyd
+Rottweiler,45713.7558,,11.0068,med,high,short,male,Smith
+Rottweiler,44161.6778,63.7774,8.8973,med,high,short,female,Mason
+Rottweiler,42074.2472,64.9432,9.9487,med,high,short,female,Melinda
+French Bulldog,11926.3717,,11.6159,med,high,short,female,Higgins
+French Bulldog,12987.8083,28.3777,10.1304,med,high,short,male,Daniel
+French Bulldog,12558.0687,28.7381,9.569,med,high,short,female,Adams
+Rottweiler,57224.2417,62.5035,9.7935,med,high,short,male,Allen
+Rottweiler,53541.7659,62.5168,10.382,med,high,short,female,Hoffman
+Pug,7190.1636,31.8841,15.3205,med,high,short,female,Howell
+Pug,7137.421,37.5063,13.2523,med,med,short,female,Lawson
+Pug,6691.7328,29.0182,13.5309,med,high,short,female,Bell
+French Bulldog,11609.8838,28.3569,10.3922,med,high,short,female,Newman
+Airedale Terrier,19748.2787,56.96,12.8095,med,high,med,male,Hartman
+Airedale Terrier,17660.6511,57.8023,12.8155,high,high,med,male,Brown
+Pug,7493.7692,35.2358,12.8991,med,high,short,female,Griffin
+Pug,6427.382,35.8233,12.9864,med,high,short,male,Sullivan
+Airedale Terrier,21529.0231,,12.5987,high,med,med,female,Martin
+Pug,7525.1298,31.6774,13.9326,low,high,med,male,Castillo
+Airedale Terrier,20966.8745,57.6679,10.4879,high,high,med,male,Escobar
+Pug,6891.7294,30.9591,11.9242,med,high,short,female,Maxwell
+French Bulldog,11927.1493,30.074,10.0113,low,high,short,male,Hughes
+Airedale Terrier,23267.3665,57.1517,11.5589,high,high,med,male,Hodges
+Rottweiler,47772.9536,64.1481,10.9006,med,high,short,male,Parks
+Pug,6564.7708,37.1383,11.6608,med,high,short,female,William
+Rottweiler,55782.7889,63.6158,8.8836,low,med,short,male,Gibbs
+Pug,7509.9004,,13.2727,med,high,short,female,Sanchez
+Airedale Terrier,20447.9279,57.2213,9.4339,high,high,long,male,Carpenter
+French Bulldog,12144.6292,28.1846,10.5494,med,high,short,male,Munoz
+Airedale Terrier,21324.6393,57.1601,13.0495,high,med,med,male,Wilson
+Rottweiler,40317.7235,63.4808,9.0863,med,high,short,female,Roman
+Rottweiler,44115.6899,61.4018,9.4351,med,high,short,male,Valencia
+Airedale Terrier,20896.5703,,10.6894,high,high,med,male,Pierce
+Pug,7759.3036,35.2261,14.4719,med,high,short,female,Drake
+Rottweiler,46218.2575,64.1567,8.1936,med,high,short,male,Lee
+Pug,5909.1284,31.6151,15.4473,med,high,short,female,Norton
+Pug,7474.8792,28.4196,13.8771,med,high,short,male,Stafford
+French Bulldog,12911.494,28.7249,9.841,high,high,short,female,Williams
+Airedale Terrier,20686.4768,,11.7417,med,high,med,male,Collins
+Rottweiler,50020.6651,64.2094,9.0279,med,high,short,female,Hendrix
+Airedale Terrier,17753.4044,57.014,10.9257,high,high,med,female,Cannon
+Pug,6862.0759,34.2939,11.8863,med,high,short,female,Hatfield
+Pug,7053.2067,29.1553,14.1197,med,high,short,female,Arnold
+Pug,6742.4198,36.2144,13.4716,med,high,short,male,Williams
+Airedale Terrier,17295.0429,57.0635,12.2595,high,med,short,male,Roman
+Airedale Terrier,23268.9473,57.834,11.6647,med,high,med,female,Hamilton
+Airedale Terrier,20070.8029,56.8972,12.235,high,high,short,female,Molina
+Rottweiler,55106.6537,61.8727,7.5379,med,high,short,female,Brown
+French Bulldog,12093.8828,,9.182,med,high,short,male,Johnson
+Rottweiler,48077.314,63.1313,9.936,low,high,short,male,Rowland
+Rottweiler,35883.9457,64.2197,10.1753,med,med,short,female,Banks
+Airedale Terrier,18852.5284,,11.6829,high,high,med,female,Solis
+Pug,7679.9035,,13.4992,med,high,short,female,Santos
+Pug,8219.0994,33.3721,12.8967,med,high,short,female,Jones
+French Bulldog,12433.948,,10.2857,med,high,short,female,Johnson
+Rottweiler,39282.0021,,10.4068,low,high,short,female,Elliott
+Rottweiler,40114.6226,62.7504,11.1921,med,med,short,male,Drake
+Airedale Terrier,24174.796,57.5442,11.234,high,high,med,male,Mason
+Airedale Terrier,21359.9506,56.0654,11.3386,high,high,med,male,James
+Airedale Terrier,18452.1233,56.4519,12.2841,high,high,med,female,Hansen
+French Bulldog,12810.6175,28.9594,10.2634,med,high,med,female,Herrera
+French Bulldog,11907.5719,29.7286,10.7533,med,high,short,male,Leon
+Pug,6781.9789,33.0156,14.0721,high,high,short,male,Collins
+French Bulldog,11805.9725,29.1124,9.7893,med,high,short,female,Brown
+Pug,6640.2296,24.7527,14.3282,med,high,short,male,Davis
+Airedale Terrier,17942.9647,,11.0963,high,high,med,female,Villanueva
+Pug,8210.7535,37.361,12.8931,med,high,short,female,Ellis
+Airedale Terrier,20378.6289,57.0361,12.0121,high,high,med,female,Villa
+Airedale Terrier,22110.8827,56.9135,10.453,med,high,med,male,Rojas
+Rottweiler,59699.3021,63.852,10.0463,med,high,short,male,Wilson
+French Bulldog,11248.2764,27.9275,10.8327,med,high,short,female,Brown
+Pug,6731.4938,,13.3487,med,high,short,female,Anderson
+French Bulldog,12765.8133,29.0917,10.2744,med,high,short,female,Oliver
+Pug,7075.6924,34.9342,13.4293,med,high,short,female,Francis
+Airedale Terrier,18457.8488,57.4309,9.6141,high,med,med,male,Davila
+Rottweiler,53812.6097,,10.6526,med,high,short,male,Cole
+Pug,7043.2278,40.725,12.4778,med,high,short,male,Solomon
+French Bulldog,12326.2021,,9.3197,med,high,short,male,Moore
+Pug,7385.8598,32.432,14.592,high,high,short,male,Meyer
+Airedale Terrier,20614.8406,57.1541,9.8245,high,high,med,female,Meyer
+Rottweiler,33247.1537,61.8379,9.277,med,high,short,female,Klein
+French Bulldog,11658.3085,28.6576,10.4874,med,high,short,female,Bryant
+Rottweiler,52481.3222,,10.5213,high,high,short,female,Russo
+Airedale Terrier,21301.5967,57.0689,10.6109,med,high,med,male,Sanchez
+Pug,7336.8225,28.8608,14.3687,high,high,short,male,Odonnell
+Rottweiler,53340.2342,62.3005,8.2011,med,high,short,female,Wells
+Pug,7111.8297,,14.2159,med,high,short,female,Martin
+Airedale Terrier,21962.4449,56.5183,12.0132,high,med,long,female,Dyer
+French Bulldog,10258.3664,28.6304,10.1242,med,high,short,female,Carroll
+Rottweiler,47163.1389,,11.4452,low,high,short,female,Small
+French Bulldog,11181.7397,29.3889,9.3329,med,high,short,female,Garza
+French Bulldog,12430.8196,28.5175,10.0498,med,high,short,female,Graves
+Airedale Terrier,20047.6614,57.5622,10.465,high,med,med,female,Moreno
+French Bulldog,12345.9392,,9.5831,med,high,short,male,Hopkins
+Pug,6625.9559,34.6988,12.8111,med,med,short,female,Lane
+Pug,7232.4807,31.9634,14.3742,med,high,short,male,Williams
+Rottweiler,54247.1916,62.5038,9.993,high,high,short,female,Dennis
+French Bulldog,12014.2766,28.399,9.4824,med,high,med,female,Rodriguez
+Rottweiler,39642.0639,63.1383,9.8624,med,high,med,male,Harper
+French Bulldog,11641.994,28.5336,10.4939,med,high,short,male,Carter
+French Bulldog,10984.5538,,10.7438,med,high,short,male,Manning
+Rottweiler,45969.4819,62.9808,10.1433,med,high,short,female,Hancock
+French Bulldog,11680.4451,28.741,9.698,low,high,med,male,Walker
+French Bulldog,11900.8373,28.6322,9.9221,med,high,short,male,Hull
+Rottweiler,44106.4866,64.469,9.8417,low,med,short,male,Phillips
+French Bulldog,11872.3103,29.5772,10.4004,med,high,short,male,Wheeler
+French Bulldog,10870.4189,28.8217,9.2749,med,high,short,female,Davis
+Rottweiler,48255.3895,61.9301,10.1085,med,med,short,female,Gallagher
+French Bulldog,12095.678,,9.7866,low,med,short,female,Vance
+French Bulldog,11464.1749,29.8895,10.5626,med,high,short,male,Wilson
+Airedale Terrier,19883.2712,56.9552,10.4383,med,high,med,male,Fowler
+French Bulldog,13558.1001,28.9924,9.936,med,med,short,female,Burns
+Airedale Terrier,21347.2852,57.7692,10.876,high,high,med,male,Chandler
+Rottweiler,36716.5592,,8.5777,med,high,short,male,Stout
+Airedale Terrier,21344.8349,,11.5524,high,high,med,female,Morales
+Pug,7603.2547,,12.9202,low,high,short,male,Richardson
+Pug,7692.9887,38.879,12.8897,med,high,short,female,Diaz
+French Bulldog,11987.5119,28.3823,10.6218,med,high,short,female,Garza
+Airedale Terrier,20352.6101,56.5157,10.5583,high,high,med,female,Pruitt
+Rottweiler,59907.4716,,9.2604,med,high,short,male,Rogers
+Pug,7690.4153,33.2479,12.9355,med,high,short,male,Wells
+French Bulldog,11695.0715,28.5922,9.9162,med,high,short,male,Pacheco
+French Bulldog,12676.3805,28.2479,10.3491,high,high,short,male,Peters
+Airedale Terrier,19140.8537,56.618,10.5244,high,high,med,female,Fleming
+Airedale Terrier,23066.7056,57.5227,10.9816,high,high,med,male,Daniel
+Airedale Terrier,21366.2892,57.8254,10.4323,high,high,med,male,Barnett
+Rottweiler,57647.0242,60.268,9.3847,med,high,short,female,Ramsey
+Airedale Terrier,21088.9826,57.4959,10.9382,med,high,short,female,Guerra
+French Bulldog,12362.4434,,10.2924,med,high,short,male,Fernandez
+Pug,7705.4857,36.1199,13.6914,med,med,short,female,Williams
+Rottweiler,50518.4156,63.1853,9.5496,low,high,short,male,Fernandez
+French Bulldog,11267.4709,,9.7162,med,high,short,male,Martin
+Pug,6213.366,35.328,13.2355,med,high,short,female,Berry
+Airedale Terrier,19756.9131,,11.437,med,high,med,male,Fox
+Airedale Terrier,18510.3186,56.1358,11.6215,high,high,med,male,Chavez
+Pug,7771.4504,,13.6772,high,high,short,male,Walters
+Rottweiler,58515.9385,62.2229,9.1752,med,high,short,female,Hall
+Rottweiler,55811.2293,63.1855,10.395,med,high,short,female,Mcfarland
+Airedale Terrier,20419.6758,57.5243,12.2599,high,high,med,male,Kelly
+Airedale Terrier,19495.4155,56.5588,12.5769,high,high,med,female,Whitaker
+Rottweiler,34244.694,62.2131,8.8588,med,high,short,female,Flowers
+Airedale Terrier,18589.3015,56.623,10.7908,high,high,med,female,Vance
+Pug,7171.9407,29.9322,14.6492,med,high,short,male,Sanchez
+French Bulldog,12660.4067,28.1786,10.1433,med,high,short,female,Hill
+Rottweiler,54834.9684,64.4097,10.8679,med,high,short,female,Garcia
+Rottweiler,54381.0306,61.9056,11.3307,high,high,short,male,Williams
+French Bulldog,10909.865,28.7249,9.1057,med,high,short,male,Kirk
+Rottweiler,53806.8591,,11.0578,med,high,med,male,Robbins
+French Bulldog,12737.8715,28.8703,10.2901,high,high,short,male,Martinez
+Rottweiler,43094.5729,,9.591,high,high,short,male,Kelly
+Airedale Terrier,20725.8248,57.6871,11.8307,high,high,med,male,Hensley
+French Bulldog,12342.6779,28.2934,9.8704,med,high,short,male,Brown
+Airedale Terrier,19284.4752,,12.9221,high,high,med,male,Weiss
+Airedale Terrier,17438.1701,57.1493,10.9944,high,med,med,female,Martinez
+Rottweiler,38027.0706,64.5828,8.9403,med,high,short,female,Blair
+French Bulldog,11947.9721,29.1391,9.2278,med,high,med,male,Mckee
+Rottweiler,48950.0217,,8.6929,high,high,short,female,Kim
+Rottweiler,36630.3589,62.7083,9.5759,med,med,short,male,Russell
+Rottweiler,53891.304,65.3879,8.4338,med,high,short,female,Lewis
+Airedale Terrier,21875.5909,,11.5711,high,med,long,female,Brown
+Rottweiler,46005.2493,67.2647,8.3198,med,high,med,female,Jackson
+French Bulldog,11123.1749,30.3671,9.9648,med,med,short,female,Chandler
+Rottweiler,56894.9481,,11.1234,med,high,short,male,Meyer
+Pug,7294.9295,34.0368,11.5039,med,high,short,female,Anderson
+Airedale Terrier,19791.1216,57.1775,13.5489,high,high,med,male,Bray
+Rottweiler,43660.3194,62.3295,10.5369,med,high,short,male,Rose
+Rottweiler,39813.1546,63.4862,9.5827,med,high,short,male,Thompson
+Pug,6018.2812,33.7784,11.9912,med,high,short,male,Blanchard
+Pug,7290.6254,33.1152,14.1014,med,high,short,male,Nguyen
+Pug,5996.682,32.903,12.6205,high,high,short,male,Velasquez
+Rottweiler,49137.0689,62.041,10.1985,med,high,short,male,Cochran
+Rottweiler,50926.0546,63.9957,9.4336,med,high,short,female,Payne
+Pug,6011.0644,31.4026,12.7649,med,high,short,female,Silva
+Pug,7351.9555,37.2666,12.6543,med,high,med,female,Bolton
+Pug,7265.2071,35.2947,13.2241,high,high,short,male,Mcdonald
+French Bulldog,12260.0998,29.1585,10.4057,med,high,short,female,Smith
+Airedale Terrier,20946.0373,56.68,10.3679,high,high,med,male,Knapp
+Pug,6874.6323,27.2771,13.1699,med,high,med,female,Lara
+Pug,7234.6855,,12.3419,med,high,short,male,Watson
+Pug,6789.6172,35.2649,13.3862,high,high,short,male,Decker
+Pug,6716.7478,32.2592,13.6317,low,med,short,male,Ferguson
+French Bulldog,13382.9737,29.8873,8.8223,med,high,short,female,Wright
+Airedale Terrier,21939.7447,58.2243,12.6629,high,high,med,female,Moore
+Pug,7259.5365,30.8988,14.7514,med,med,short,female,Gamble
+French Bulldog,11413.7138,30.3808,9.4906,high,high,med,female,Wang
+French Bulldog,12299.0309,28.1465,9.9174,med,high,short,male,Navarro
+French Bulldog,12142.2376,27.9287,9.295,med,med,med,female,Jackson
+French Bulldog,11633.9007,28.797,10.6939,med,high,short,female,Adams
+Pug,7722.4721,31.0117,13.3951,med,high,short,female,Mason
+Pug,7091.0365,30.7078,14.035,med,high,short,female,Huffman
+Airedale Terrier,19114.2146,56.8811,11.5591,high,high,med,male,Dale
+French Bulldog,11519.6645,28.2004,9.3265,med,high,short,male,Wright
+Pug,6547.942,31.2144,12.5486,med,high,short,female,Lutz
+Airedale Terrier,20121.5272,57.4341,12.0909,high,high,med,male,Fisher
+Airedale Terrier,18716.4763,56.6185,11.7328,high,high,med,female,Pace
+Rottweiler,51388.4325,,9.3363,med,med,med,female,Chavez
+French Bulldog,11955.5128,28.6883,8.8627,med,high,short,female,Acosta
+Rottweiler,25079.2777,,8.3894,med,high,med,male,Scott
+Pug,7271.8623,36.4045,10.9137,low,med,short,female,Schmidt
+Rottweiler,37243.1853,,7.082,med,med,short,female,Anderson
+Airedale Terrier,19198.8151,58.2094,12.1221,high,high,med,female,Harrison
+Airedale Terrier,20395.3705,56.375,10.933,high,high,long,male,Downs
+Rottweiler,56514.3611,62.5963,10.1177,med,high,short,female,Mills
+French Bulldog,12077.8232,,10.2795,med,high,short,female,Morales
+Airedale Terrier,20460.0422,57.3637,12.3963,high,high,med,male,Figueroa
+French Bulldog,13118.5542,30.1212,10.082,med,high,short,male,Coleman
+French Bulldog,11558.8905,27.5499,9.9596,med,high,short,male,Mills
+Airedale Terrier,19541.6832,56.4744,10.6802,high,high,med,female,Barrett
+Rottweiler,49472.4853,63.4393,8.6264,med,high,short,female,Nash
+Pug,6530.3216,,12.7305,med,high,short,female,Brown
+Pug,7283.6626,28.7014,13.0068,high,high,short,female,Adams
+Rottweiler,35960.8119,60.6204,10.4447,low,high,short,male,George
+Rottweiler,46967.5877,66.1497,9.0261,med,high,short,female,Snyder
+French Bulldog,11789.8941,,9.924,med,high,short,female,Carpenter
+Rottweiler,39025.5439,61.0273,10.4366,med,high,short,female,Lopez
+Airedale Terrier,19467.796,56.9102,12.17,high,high,med,male,Scott
+Pug,6908.4643,36.3412,13.5085,med,high,short,male,Zimmerman
+Rottweiler,48584.0892,63.1706,10.2929,high,high,short,male,Lee
+Rottweiler,50904.1572,65.0194,8.9649,med,high,short,female,Powell
+Airedale Terrier,17350.8003,57.4136,11.1295,high,high,long,female,Hopkins
+Rottweiler,47788.3466,62.7981,7.8239,med,high,med,female,Reid
+French Bulldog,11567.3885,28.57,10.167,med,med,short,male,Harris
+French Bulldog,12797.2707,28.7931,11.0239,med,med,short,male,Ferguson
+Pug,7901.3213,33.2038,12.3373,med,high,short,female,Allen
+Rottweiler,43953.9245,62.4614,9.3559,med,high,short,female,Lewis
+French Bulldog,11204.917,28.8915,8.2399,med,med,short,male,King
+Rottweiler,44027.2611,63.5018,8.9187,low,med,short,male,Stewart
+French Bulldog,13037.8693,29.5154,9.4207,med,high,short,female,Thompson
+Airedale Terrier,18495.5033,57.1126,11.9257,high,med,med,male,Lee
+French Bulldog,11555.0881,28.002,9.2262,med,med,med,male,Mann
+Pug,6624.1313,34.1723,14.582,low,high,short,male,Simpson
+French Bulldog,12918.9519,28.4761,10.9913,med,high,short,male,Ballard
+French Bulldog,10966.2527,,9.9992,med,high,short,female,Poole
+Pug,6828.8024,29.0142,11.1896,med,high,short,male,Whitehead
+French Bulldog,12110.2744,29.6366,10.1526,med,high,short,female,Velazquez
+Pug,6880.3515,35.333,15.0503,med,high,short,male,Torres
+Airedale Terrier,23642.5821,,12.1256,med,high,med,female,Harris
+French Bulldog,11817.7142,29.0931,10.2593,high,high,short,female,Patterson
+Rottweiler,44114.6305,64.1325,9.2412,med,high,short,female,Lamb
+Pug,6310.765,31.0648,12.3452,med,high,short,female,Martinez
+Rottweiler,36474.0272,61.3582,8.6829,med,high,short,male,Padilla
+French Bulldog,12248.5002,29.2307,9.3344,med,high,med,male,Lewis
+Rottweiler,49098.3114,62.9417,8.5585,med,high,short,male,Martinez
+Airedale Terrier,18456.7218,56.951,12.6355,high,high,med,female,Reese
+Pug,7363.626,30.5371,15.322,med,high,short,female,Henderson
+Pug,6076.9077,38.2572,12.4051,med,high,med,male,Cline
+Rottweiler,50883.5304,,10.2907,high,high,short,male,Griffin
+French Bulldog,11604.6044,29.0288,10.1696,med,high,short,male,Coleman
+Rottweiler,47572.3001,64.3479,9.4051,med,med,short,female,Marsh
+French Bulldog,11797.6215,,10.6537,med,high,short,male,Parker
+French Bulldog,12501.5445,27.2883,9.7554,med,high,short,male,Bishop
+Rottweiler,60961.2448,64.0636,8.7079,med,high,short,female,Kerr
+Rottweiler,44142.932,62.7424,8.5551,med,high,short,female,Castro
+Pug,7376.5522,,13.1967,med,high,short,male,Young
+Rottweiler,50845.979,,9.3423,med,high,med,male,Robinson
+Rottweiler,47540.8414,64.0355,8.4042,high,high,short,male,James
+Airedale Terrier,18735.9853,56.2253,10.8857,high,high,med,female,Cox
+Airedale Terrier,20780.4773,,11.9849,high,high,long,female,Griffin
+Pug,7209.2117,34.9696,13.2814,med,high,short,male,Ramirez
+Pug,6312.9405,31.8195,14.5635,high,high,short,female,Spencer
+Pug,8241.4818,35.6572,13.3589,low,high,short,female,Wall
+French Bulldog,10972.7571,29.0757,10.1306,low,high,short,male,Sexton
+Airedale Terrier,21528.0057,56.9317,11.7567,high,high,med,male,Moore
+Rottweiler,54901.1004,64.4024,9.9424,med,high,short,female,Hall
+French Bulldog,12962.5616,29.1984,10.6015,low,high,short,male,Jensen
+Airedale Terrier,19977.6861,,12.1547,high,high,med,female,Hubbard
+French Bulldog,11922.18,29.6953,9.2032,low,high,short,female,Lee
+French Bulldog,12155.8488,29.6279,9.7729,med,med,short,male,Jefferson
+Rottweiler,59228.145,62.3716,9.3217,med,med,short,male,Scott
+Airedale Terrier,19441.3322,56.9353,12.9076,high,high,med,male,Quinn
+Pug,7380.068,31.7361,13.8972,med,med,med,female,Lopez
+French Bulldog,11908.5113,29.2767,10.7243,med,med,short,female,Keller
+Airedale Terrier,21083.607,,11.1818,high,high,long,male,Trevino
+Rottweiler,36148.5638,65.7664,10.2151,med,high,short,female,Mcbride
+French Bulldog,12384.9799,29.5467,10.5615,high,high,short,male,Garcia
+Rottweiler,53863.5221,62.7246,8.8662,med,high,short,male,Johnson
+Rottweiler,52465.4904,66.3417,9.9268,med,med,short,male,Flores
+Rottweiler,56643.6994,,10.6143,low,high,short,female,Jackson
+Pug,6842.0922,34.8466,13.5025,low,high,short,female,Robinson
+Pug,7459.6266,,13.2356,med,high,short,male,Hall
+Rottweiler,50328.4174,63.0634,7.8124,med,high,short,male,Osborne
+French Bulldog,11620.0249,28.7476,9.1625,med,high,short,female,Stewart
+Rottweiler,56597.3276,62.7891,8.9739,high,high,short,male,Murphy
+Rottweiler,52396.5127,62.0204,9.2723,med,high,short,male,Williams
+French Bulldog,10863.2639,,10.8053,med,high,short,female,Parker
+Rottweiler,38007.5088,60.9862,8.897,med,high,short,female,Stevens
+Airedale Terrier,22858.1707,57.3478,11.6153,high,high,med,female,Andrade
+Airedale Terrier,20360.5628,56.4884,11.2026,high,high,med,male,Brown
+Airedale Terrier,20548.2331,57.8835,10.6481,med,high,med,female,Velazquez
+French Bulldog,12288.3025,28.3441,9.3849,med,high,short,male,Smith
+Airedale Terrier,20889.4882,56.4854,10.2595,high,high,short,male,Moore
+Rottweiler,52593.4626,65.8162,10.303,med,high,short,male,Spencer
+French Bulldog,11872.7483,29.1016,10.4209,med,high,short,male,Jackson
+Rottweiler,52690.1307,62.1765,10.6704,med,high,short,male,Mcdaniel
+Airedale Terrier,20147.8417,57.0705,11.4683,high,high,short,female,Brown
+Pug,6321.5971,32.4295,12.5208,med,high,short,male,Church
+Pug,7085.225,32.7539,14.3592,med,high,short,female,Allen
+French Bulldog,11658.1352,29.6322,10.4029,med,med,short,male,Soto
+French Bulldog,11958.7,,9.5576,med,high,short,male,Bennett
+Rottweiler,43864.0457,62.2919,10.2805,med,high,short,male,Freeman
+Airedale Terrier,19218.8622,57.4312,11.9534,high,high,med,female,Herrera
+French Bulldog,12312.0418,,10.5773,med,high,short,female,Johnson
+French Bulldog,11798.6897,28.3855,9.9364,med,high,short,female,Fernandez
+Rottweiler,46114.8604,63.8398,9.6879,low,high,short,male,Miller
+Airedale Terrier,17973.9862,56.4063,10.8562,high,high,short,female,Williams
+French Bulldog,11379.1667,29.2635,9.8189,med,med,short,female,Callahan
+Rottweiler,40093.3463,65.8952,8.9182,med,high,short,female,Wilson
+Rottweiler,49078.5031,,9.4798,med,high,short,male,Harris
+French Bulldog,13482.8408,29.2572,10.2004,med,high,short,female,Munoz
+Pug,7214.2126,30.0169,13.1797,med,high,short,male,King
+Rottweiler,54360.182,63.0147,8.8658,low,high,short,female,Ferguson
+French Bulldog,11785.062,27.9281,8.9865,med,high,short,female,Davis
+Rottweiler,47331.7864,62.3601,10.141,low,high,short,female,Williams
+French Bulldog,11849.5823,28.5017,8.9759,med,high,short,female,Butler
+Airedale Terrier,21612.9037,,11.5395,high,high,med,female,Mason
+French Bulldog,12462.4693,28.9405,10.3015,med,high,short,female,Perez
+Rottweiler,65953.4615,63.6836,8.8243,med,high,short,female,Coleman
+French Bulldog,11924.2441,30.0295,9.9385,high,high,short,female,Rivera
+Airedale Terrier,21623.2662,,12.3752,high,high,med,female,Campos
+French Bulldog,9843.8631,28.6097,9.8889,med,high,short,female,Solis
+Pug,7901.8954,28.4506,13.2995,med,high,short,male,Brooks
+Rottweiler,45418.6344,62.1467,9.5939,med,high,short,male,Bright
+French Bulldog,12487.8838,29.5901,9.9021,med,high,short,female,Gross
+Rottweiler,46094.541,63.546,8.4881,med,med,short,male,Thomas
+Rottweiler,46094.5786,,10.0494,low,high,short,female,Foster
+Pug,7404.7737,30.3225,13.745,high,high,short,female,Montoya
+Airedale Terrier,20456.1172,57.7676,11.9521,high,high,med,male,Robinson
+French Bulldog,11244.9961,28.3262,9.7875,med,high,short,male,Lewis
+French Bulldog,11676.7664,28.6182,10.0285,med,high,med,male,Mckenzie
+French Bulldog,11632.774,28.9829,10.2158,med,high,short,male,Cruz
+Pug,6313.4276,31.5724,12.9589,med,high,short,male,Juarez
+Airedale Terrier,19749.7487,58.0745,10.4082,med,high,med,male,Torres
+Rottweiler,58967.6346,,9.3743,med,high,short,male,Holland
+Airedale Terrier,19726.9346,57.5804,13.0664,med,high,short,male,Robinson
+Pug,7428.7566,33.8195,13.0181,high,med,short,female,Lopez
+French Bulldog,13014.5154,29.3506,9.6151,low,med,short,female,Ramos
+Airedale Terrier,21671.1838,56.4082,11.6153,high,high,med,female,Smith
+Airedale Terrier,20192.3414,57.0161,10.7452,high,high,short,female,Brady
+Pug,7176.3948,37.5691,13.2363,med,high,med,male,Carney
+Rottweiler,49690.6149,62.9129,8.6117,med,high,short,female,Wagner
+French Bulldog,12885.5013,28.0707,10.2995,med,high,short,male,Jones
+Rottweiler,60736.2753,63.6584,11.0181,high,high,short,female,Kennedy
+Airedale Terrier,18818.3609,,11.4805,high,high,long,male,Garcia
+French Bulldog,11831.3755,28.2745,10.7409,med,high,short,female,Schneider
+Pug,7191.1793,,12.4842,med,high,short,female,Gibson
+Airedale Terrier,22290.532,56.9658,9.4853,high,high,med,male,Rodriguez
+Pug,6242.3967,,11.7583,high,med,short,male,Wheeler
+French Bulldog,11553.4832,27.9822,10.6235,med,high,short,female,Vance
+Rottweiler,51715.5454,64.8585,9.8951,med,high,med,female,Perez
+French Bulldog,11047.6115,30.1546,9.2859,med,high,med,male,Roberts
+Airedale Terrier,19519.8416,57.0697,9.9225,high,high,med,female,Sandoval
+French Bulldog,11833.3406,,10.1264,med,high,short,male,Wilcox
+Rottweiler,50454.2075,63.8794,8.7377,med,high,med,female,Williams
+Rottweiler,47997.6434,64.5243,10.35,low,high,short,male,Allison
+Pug,7764.5749,,13.1351,high,high,short,male,Henderson
+Airedale Terrier,19679.1316,57.4663,11.9645,high,high,long,male,Parrish
+Pug,6865.6082,33.5561,13.7907,med,high,short,female,Franklin
+Airedale Terrier,21421.4743,56.5016,11.0064,high,high,med,male,Williams
+French Bulldog,11540.178,,9.5922,med,high,short,female,Moyer
+Pug,7455.9758,28.2111,11.568,high,high,short,female,Jones
+French Bulldog,11004.9386,28.2193,8.9298,med,high,short,female,Taylor
+Rottweiler,49543.1921,64.8226,10.8626,med,high,short,female,Maldonado
+Rottweiler,45647.1781,65.4012,10.5405,med,high,short,female,Mccoy
+Rottweiler,48077.4383,66.9857,9.4386,med,high,short,female,Lewis
+French Bulldog,11960.4583,28.6824,10.3506,high,high,short,female,Spencer
+French Bulldog,12556.4494,29.7858,10.8806,med,high,med,male,Hall
+Rottweiler,57115.8878,62.4784,9.7276,med,high,short,male,Henderson
+Pug,7192.2863,30.5585,12.9574,med,high,short,male,James
+Rottweiler,46203.8056,62.9877,9.1793,med,high,short,female,Wiley
+Pug,7128.1852,33.8489,12.0217,med,high,short,male,Perry
+French Bulldog,10461.9351,,10.3902,med,med,short,female,Hernandez
+Rottweiler,46144.8601,66.6362,10.5277,med,high,short,male,Briggs
+French Bulldog,12227.1202,29.0955,10.1433,med,high,short,male,Myers
+Airedale Terrier,19990.0986,,11.6918,high,high,med,male,Gray
+Pug,8342.8959,33.8338,13.5716,low,high,short,female,Jones
+Rottweiler,51632.2422,62.5356,10.2559,med,med,short,female,Roberts
+Pug,7158.2112,,11.7751,med,high,short,female,Gomez
+French Bulldog,12696.1561,29.8144,9.0483,med,high,short,male,Jones
+French Bulldog,11940.1502,,9.8739,med,high,short,male,Smith
+Pug,6934.5893,30.7583,13.4506,med,high,med,male,Rodriguez
+Pug,6896.0878,35.9833,11.8167,med,high,short,male,Gonzalez
+Rottweiler,53534.2945,,7.6188,med,high,med,male,Powell
+Airedale Terrier,23914.322,57.009,13.6244,high,high,med,female,Christensen
+French Bulldog,12080.1755,28.4636,9.1302,med,high,short,female,Jacobson
+French Bulldog,11527.3957,,10.3504,med,high,short,male,David
+Rottweiler,47133.7502,63.6439,11.1121,med,high,short,male,Hughes
+Rottweiler,44918.4302,63.6592,9.3527,med,med,short,female,Randy
+Airedale Terrier,19826.0122,57.3083,11.6899,high,med,med,female,Tyler
+French Bulldog,12598.7793,28.3249,9.3631,med,med,short,male,Stevenson
+Airedale Terrier,17162.1812,57.1145,11.7226,high,med,med,female,Larsen
+Airedale Terrier,18354.5782,56.1882,11.1166,high,high,med,female,Wood
+Pug,6662.6806,35.3941,15.6029,high,high,short,male,Kimberly
+Rottweiler,59909.9947,64.9003,7.8439,med,high,short,female,Campbell
+Pug,5969.6139,28.164,14.4338,med,high,short,male,Simmons
+Airedale Terrier,19172.8946,57.4547,10.8721,high,high,med,female,Brown
+Rottweiler,57436.0042,64.3299,10.2697,med,high,short,female,King
+Airedale Terrier,20221.2843,56.4557,11.8593,high,high,med,female,Andrade
+Airedale Terrier,18504.281,56.7946,13.9959,high,high,med,male,Estrada
+French Bulldog,11291.8971,28.7895,10.5051,low,med,short,male,Edwards
+Pug,7826.0611,35.1872,12.2431,med,high,short,female,Rice
+Airedale Terrier,18746.7083,57.4959,13.1961,high,high,short,male,Shepherd
+Airedale Terrier,23470.5823,,11.0787,high,med,med,female,Marks
+Airedale Terrier,19670.6368,57.527,9.3273,high,high,med,female,Garza
+Pug,7604.4232,37.3901,13.4557,med,med,short,male,Reyes
+French Bulldog,12180.9844,29.5637,8.3828,med,high,short,male,Riley
+French Bulldog,11961.3356,29.2523,11.0584,med,high,short,male,Livingston
+Rottweiler,47367.9673,62.433,11.1216,med,high,short,male,Dudley
+Airedale Terrier,19566.7485,57.4497,9.224,high,high,med,female,Rogers
+Rottweiler,57083.6091,60.0172,10.7889,med,high,short,male,Bishop
+Airedale Terrier,18732.3574,,11.6841,high,high,med,male,Taylor
+French Bulldog,11799.9717,29.1856,10.0634,med,high,short,female,Miller
+French Bulldog,12095.1235,27.9883,10.0766,med,high,short,female,Robinson
+Airedale Terrier,20653.7895,57.9062,12.0922,high,high,long,male,Elliott
+Rottweiler,48999.548,62.3263,9.6254,med,high,short,male,Graham
+Rottweiler,41258.5176,64.289,10.357,med,high,med,female,Gates
+Pug,6214.2931,31.152,13.7782,high,med,short,male,Wright
+Pug,6497.352,33.6835,14.6397,med,high,short,male,Estes
+Airedale Terrier,18275.3543,56.485,12.2681,high,med,med,male,Robinson
+French Bulldog,11568.5118,29.3128,9.4252,low,high,short,male,Newman
+Airedale Terrier,17841.5969,57.2072,12.2039,high,high,med,male,Hayes
+Airedale Terrier,22209.999,57.1776,11.6295,high,high,med,female,Bryant
+French Bulldog,12498.442,29.7867,9.5296,low,high,short,female,Quinn
+Airedale Terrier,19134.9087,56.8569,12.8175,high,high,med,female,Hernandez
+Airedale Terrier,16973.3158,,10.597,high,high,med,male,Morris
+Pug,7098.6417,32.7251,13.0796,med,high,short,female,Campos
+Airedale Terrier,22489.9912,57.3802,10.8222,high,high,med,female,Lane
+Pug,7292.2874,33.028,12.9762,med,med,short,female,Smith
+Airedale Terrier,20832.2869,,12.697,high,high,med,female,Martinez
+French Bulldog,11188.7403,30.1288,11.512,low,high,med,male,Griffin
+French Bulldog,12128.6324,29.395,10.5714,med,high,short,male,Soto
+French Bulldog,11144.0461,29.1703,9.6322,med,high,short,male,Moore
+French Bulldog,11994.8423,29.8831,9.9988,med,high,short,male,Paul
+Rottweiler,45766.8711,61.3102,8.0772,med,high,short,male,Meadows
+Pug,6421.5567,29.6372,14.6963,med,high,short,male,Bruce
+Pug,6942.2395,,12.0755,med,high,short,female,Jones
+Airedale Terrier,21706.4432,56.0418,9.9836,high,high,med,male,Hawkins
+Pug,6419.4864,28.7788,13.9542,med,high,short,male,Jones
+French Bulldog,12679.3292,28.7545,10.0643,med,high,short,female,Watson
+French Bulldog,11400.8525,29.0926,10.3491,med,high,med,male,Rose
+French Bulldog,12831.6137,29.7464,10.4413,med,high,short,female,Thompson
+Rottweiler,42025.4745,60.8195,10.2963,med,high,short,female,Taylor
+Rottweiler,44247.5652,65.2203,9.6011,low,high,short,male,Molina
+Rottweiler,53991.1996,64.5378,9.9272,med,high,short,female,Tran
+Rottweiler,48918.7049,65.9507,9.6277,med,high,short,female,Robertson
+French Bulldog,11129.315,29.8506,10.3223,high,med,short,male,Reese
+French Bulldog,12653.3699,28.1627,10.5505,med,high,short,female,Roberts
+Pug,7536.8556,35.9409,12.6392,med,med,short,male,Pearson
+French Bulldog,11236.3432,28.5966,9.3286,low,high,short,male,Burch
+Pug,7828.0307,35.1365,12.8414,med,high,med,male,Abbott
+Pug,7307.8199,30.2989,14.4644,med,high,short,male,Mckenzie
+French Bulldog,12352.0518,,10.2422,med,high,short,female,Kline
+Airedale Terrier,20212.2119,55.7443,12.0192,high,high,long,male,Mccall
+French Bulldog,11993.7619,,10.1211,med,med,med,male,Munoz
+Airedale Terrier,20122.6003,,11.1072,high,high,med,female,Kelly
+French Bulldog,12388.5456,28.7797,10.5672,med,high,short,female,Trevino
+Pug,6915.5296,41.3125,15.5629,med,high,short,male,Higgins
+French Bulldog,13553.9067,28.9034,10.4792,med,high,short,female,West
+Airedale Terrier,19799.0241,57.8598,9.8499,high,high,med,male,Leonard
+French Bulldog,11892.8713,,9.3391,med,high,med,female,Ramos
+French Bulldog,12106.0298,28.2683,9.5235,med,high,short,female,Davenport
+Airedale Terrier,20086.4517,56.4926,10.7504,high,high,med,female,Wallace
+French Bulldog,11906.2759,29.5156,10.333,high,high,short,female,Adams
+French Bulldog,11903.2596,28.8542,10.0601,high,high,short,female,Clayton
+Airedale Terrier,20829.2187,57.9119,10.824,high,high,med,female,Carter
+Rottweiler,56872.8831,63.9532,7.7951,med,high,short,male,Mason
+Pug,6042.1165,32.7423,14.1638,med,high,short,male,James
+Airedale Terrier,19681.5134,58.0027,10.9188,high,high,med,male,Padilla
+Rottweiler,31451.4143,,10.6293,low,high,short,male,Kim
+Rottweiler,44151.1898,60.3364,10.6426,med,high,med,male,Bernard
+French Bulldog,11931.2485,29.4926,10.3146,low,high,short,female,Edwards
+Rottweiler,56738.5361,63.1963,8.8976,med,high,short,male,Murillo

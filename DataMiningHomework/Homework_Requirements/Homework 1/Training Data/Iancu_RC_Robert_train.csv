@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Siberian Husky,19849.489,52.3178,12.0567,med,med,med,male,Strickland
+Beagle,11020.5531,36.9657,12.5093,med,high,med,female,White
+Beagle,11582.625,34.1227,12.4583,med,high,short,female,Garza
+Siberian Husky,19192.6007,54.6832,12.3784,low,med,long,male,Katrina
+Samoyed,24681.4864,52.4812,12.1149,med,high,med,female,Hall
+Siberian Husky,21356.4828,52.8202,11.9742,low,med,med,male,Stone
+Siberian Husky,19291.8689,56.1906,11.3213,med,med,med,female,Lopez
+Siberian Husky,19330.9664,,11.2387,high,low,med,male,Thomas
+Golden Retriever,26553.2432,,12.2616,med,med,med,male,Barnett
+Beagle,9103.5417,35.3475,13.9802,med,high,med,male,Stephens
+Beagle,11165.3594,35.465,13.8603,med,high,short,female,Keller
+Samoyed,22267.6475,53.8302,11.1955,med,high,med,male,Garrison
+Siberian Husky,19690.4866,,10.8694,med,med,med,female,Gomez
+Siberian Husky,18563.8091,53.0709,12.5608,med,med,med,female,Walker
+Siberian Husky,18266.1489,55.1603,12.0711,med,med,med,female,Hawkins
+Siberian Husky,22326.0225,55.5889,12.9659,high,med,med,female,Owens
+Samoyed,19479.3268,53.8065,10.82,med,high,med,female,Smith
+Golden Retriever,30062.935,,11.8161,med,high,med,male,Morris
+Golden Retriever,25168.7432,58.4028,11.2631,med,high,med,female,Barrett
+Siberian Husky,20444.6898,51.5498,12.2561,med,med,med,female,Nichols
+Beagle,11334.2374,34.2042,12.7959,med,high,short,male,Robinson
+Beagle,11185.8542,,13.0835,low,high,short,male,Parker
+Siberian Husky,21799.9711,51.9033,12.8702,high,med,med,male,Nelson
+Samoyed,10864.6553,53.4511,10.5288,med,high,med,male,Glenn
+Golden Retriever,30025.3458,60.055,9.4707,med,high,med,female,Herrera
+Samoyed,29578.196,50.5119,11.0283,med,high,med,female,Wu
+Samoyed,23535.7585,,11.3157,med,high,med,female,Underwood
+Beagle,12849.0806,37.3802,13.67,med,high,short,female,Luna
+Golden Retriever,25853.0953,56.2058,11.7693,med,high,med,male,Massey
+Beagle,8954.0211,36.8147,13.1198,med,med,short,male,Cooper
+Siberian Husky,19702.1881,57.37,11.8056,med,med,med,male,Perez
+Beagle,11638.0908,36.6538,11.8839,med,high,short,male,Dennis
+Golden Retriever,30178.3539,55.4864,11.394,med,high,med,male,Sanchez
+Samoyed,28277.9498,54.2543,11.8362,low,high,med,female,Wolfe
+Golden Retriever,30485.5063,56.7115,10.4917,med,high,med,female,George
+Samoyed,20760.8973,52.3901,11.389,med,high,med,male,Tucker
+Golden Retriever,30855.554,56.5892,10.5328,med,high,med,male,Stokes
+Beagle,9758.1512,32.5891,15.3325,med,high,short,male,Moore
+Beagle,9660.5859,34.4306,13.9818,med,high,short,male,Ayers
+Beagle,9376.6871,36.5105,14.2531,med,high,short,female,Beck
+Samoyed,20761.6779,,11.2153,med,high,med,female,George
+Samoyed,18208.8607,52.3383,10.667,med,high,med,female,Matthews
+Samoyed,23620.9513,54.1593,11.3954,med,high,med,male,Goodman
+Golden Retriever,28718.7383,,9.9739,med,med,med,female,Mayer
+Samoyed,22144.9772,,10.2567,med,high,med,male,Washington
+Beagle,10857.2558,36.5939,14.5409,med,high,short,female,Johnson
+Golden Retriever,27446.7039,58.8732,10.1282,low,high,short,female,Castillo
+Siberian Husky,15277.3262,57.4003,12.0375,med,low,long,female,Cox
+Beagle,7735.0041,35.8773,13.3995,high,med,short,female,Benson
+Samoyed,24823.8178,54.0493,11.8056,med,high,short,female,Lynch
+Samoyed,16865.5151,54.2231,10.9615,med,high,long,female,Chang
+Beagle,10587.7126,35.0125,13.5887,med,high,short,male,Richardson
+Golden Retriever,32775.8133,55.9733,11.7151,med,med,med,female,Howell
+Beagle,10740.5689,33.079,14.0489,med,high,med,female,Dixon
+Samoyed,23688.2273,55.8155,11.1766,low,high,med,female,Marquez
+Siberian Husky,20120.442,54.5769,11.991,high,med,med,male,Taylor
+Golden Retriever,32696.2453,60.1762,11.8587,med,high,med,female,Flores
+Samoyed,24909.1145,50.8685,10.4002,med,high,med,female,Green
+Samoyed,22844.8108,54.8822,11.4204,med,high,short,female,Chambers
+Golden Retriever,27395.5583,58.9393,11.8626,med,high,med,male,Taylor
+Golden Retriever,27542.628,58.7063,11.4817,med,high,med,male,Barrett
+Golden Retriever,28519.1157,57.7032,9.2356,high,high,med,male,Ferguson
+Beagle,10552.3928,,13.8506,med,high,short,female,Ellis
+Samoyed,26261.5528,,9.6499,high,high,med,female,Rasmussen
+Golden Retriever,30417.4119,59.0509,11.9576,low,high,short,male,Glover
+Siberian Husky,21636.7,52.668,12.4482,med,low,med,male,King
+Golden Retriever,26912.2637,,12.6358,med,high,long,female,Johnson
+Samoyed,22588.4466,53.341,10.519,med,high,med,female,Grant
+Siberian Husky,19603.4133,52.0484,13.5044,med,high,short,female,Thomas
+Golden Retriever,26375.8678,,9.4733,med,high,long,male,Brooke
+Siberian Husky,20248.1444,52.7246,11.2614,med,med,med,female,Mcgee
+Beagle,11174.0038,36.6097,13.0023,med,med,short,male,Wilson
+Siberian Husky,20786.5984,54.6488,11.439,med,med,med,female,Harrison
+Beagle,7596.4164,,15.1571,med,high,short,male,Harris
+Golden Retriever,27966.4992,61.013,12.0251,med,high,short,male,Higgins
+Siberian Husky,19009.2452,,11.354,med,med,med,female,Johnson
+Siberian Husky,19352.6532,54.4283,12.282,low,med,long,male,Solis
+Beagle,11329.225,34.317,12.8028,med,high,short,male,Coleman
+Beagle,11811.6496,,13.7093,med,high,short,female,Miller
+Golden Retriever,24991.7504,56.6602,11.7503,med,high,short,female,Sanchez
+Samoyed,19909.6575,54.6363,10.4198,low,high,med,female,Thomas
+Golden Retriever,29127.3123,58.9903,9.2089,low,high,med,female,Wright
+Beagle,9466.8748,35.6036,12.8926,med,med,short,male,Howard
+Beagle,9889.4069,38.3062,14.7525,low,high,short,male,Sanchez
+Golden Retriever,26986.8641,60.0011,12.8152,med,med,long,female,Myers
+Golden Retriever,26061.1733,60.6935,11.3176,med,high,med,male,Ibarra
+Beagle,11107.5302,,13.8333,med,high,short,male,Young
+Beagle,13455.0993,34.584,14.5153,med,high,short,male,Miranda
+Golden Retriever,33374.5934,57.4584,13.1962,med,high,med,male,Reid
+Samoyed,20800.2114,52.7349,11.0408,med,high,med,male,King
+Siberian Husky,22549.9128,55.0348,11.7452,med,med,med,male,Quinn
+Beagle,12619.428,35.8486,13.784,high,high,short,female,Williams
+Samoyed,26914.5896,55.307,11.5367,med,high,short,male,Howard
+Samoyed,18230.6495,53.2676,10.5148,med,high,med,female,Bradley
+Siberian Husky,16244.959,53.6597,10.7262,med,med,short,male,Moore
+Siberian Husky,16689.2091,,11.3603,med,high,med,female,Diaz
+Golden Retriever,28273.8934,56.521,10.7379,med,high,med,male,Garcia
+Samoyed,27430.2156,54.6972,10.5169,med,high,med,male,Rivas
+Siberian Husky,19733.126,53.1541,12.026,med,med,med,female,Berry
+Siberian Husky,17592.0254,,11.8327,med,low,med,male,Duncan
+Golden Retriever,26366.1289,,11.6274,med,high,med,female,Morgan
+Golden Retriever,28744.8456,57.2876,11.7251,med,high,short,female,Lee
+Golden Retriever,33745.2981,59.1521,12.1669,med,high,med,male,Burke
+Golden Retriever,29649.7373,56.928,10.7219,med,high,med,female,Thomas
+Golden Retriever,28187.7787,59.2641,11.181,med,high,med,male,Poole
+Beagle,11477.668,37.5144,13.9694,low,high,short,male,Howe
+Siberian Husky,19668.3098,55.2463,11.5885,med,med,med,male,Cook
+Golden Retriever,26686.6731,57.1984,11.223,med,med,med,male,Schmidt
+Beagle,8148.8608,34.7717,13.2429,med,high,short,male,Riley
+Siberian Husky,17537.1094,53.1859,11.4468,med,med,med,female,Sullivan
+Siberian Husky,19170.6471,51.4294,12.1741,high,med,med,female,Barnett
+Golden Retriever,30699.6921,,12.0084,high,high,med,female,Davis
+Golden Retriever,24806.7623,57.7661,12.5363,med,high,med,male,Randall
+Beagle,11246.1668,37.7178,14.1521,low,high,short,female,Ward
+Golden Retriever,32663.452,,12.1019,high,high,med,male,White
+Samoyed,22548.5748,52.0528,10.2005,med,high,short,female,Smith
+Golden Retriever,31010.2259,,11.9336,high,high,med,male,Clark
+Golden Retriever,32256.1375,58.6858,11.6419,med,high,med,male,Barrett
+Samoyed,21643.6499,,10.1916,med,high,med,female,Smith
+Beagle,8226.5872,35.9869,13.5753,med,high,short,female,Morgan
+Samoyed,20356.9193,,11.7844,med,high,med,male,David
+Siberian Husky,18070.0993,52.4219,12.1338,med,high,long,female,Frye
+Golden Retriever,30970.0754,57.9375,11.404,med,high,med,male,Megan
+Beagle,11493.0592,34.7516,14.4863,med,high,short,male,Hayes
+Siberian Husky,15582.7404,50.9654,12.5687,med,med,med,male,Warren
+Golden Retriever,27536.2304,58.0607,12.6426,med,high,long,male,Hawkins
+Samoyed,22238.5579,52.6914,10.9893,med,high,med,female,Castillo
+Beagle,10206.6016,33.2564,13.151,med,high,short,male,Pierce
+Beagle,9005.3585,35.4395,12.5378,med,high,short,male,Potter
+Siberian Husky,19048.941,55.7385,11.9177,med,low,med,male,Zavala
+Golden Retriever,26126.8533,56.6972,10.6103,med,high,med,male,Daugherty
+Samoyed,22895.6073,,11.2911,med,high,long,male,Miller
+Golden Retriever,30391.081,,11.1924,high,high,med,female,Gonzalez
+Golden Retriever,27897.8946,57.5577,12.2539,med,high,med,female,Ayala
+Siberian Husky,18127.5673,51.0311,12.1907,med,med,med,female,Nguyen
+Beagle,11825.4339,35.1172,13.4618,med,high,short,male,Deleon
+Samoyed,17236.2458,53.7341,10.482,low,high,med,male,Johnson
+Beagle,8487.8054,,12.5802,med,high,short,female,James
+Beagle,11166.3107,34.9205,13.4305,med,high,short,male,Cohen
+Beagle,10978.3501,33.7914,14.8999,med,high,short,female,Davis
+Siberian Husky,18834.2421,56.1182,11.135,high,med,med,female,Rice
+Beagle,7404.4211,35.0331,11.7112,med,high,med,male,Ellis
+Samoyed,23730.9707,53.7498,10.8497,med,high,med,male,Valentine
+Siberian Husky,20896.8912,55.1027,11.3993,med,low,short,male,Campos
+Samoyed,26438.6283,55.8449,11.9467,med,high,med,male,Smith
+Golden Retriever,31158.9438,61.7691,11.1357,med,high,med,male,Joyce
+Beagle,12344.1441,34.7224,14.9907,med,med,short,male,Hatfield
+Samoyed,16550.0131,54.5048,11.8799,high,high,med,female,Jones
+Siberian Husky,19852.1769,,12.4495,low,med,med,male,Gregory
+Golden Retriever,27749.4093,,12.4666,med,high,short,female,Moses
+Beagle,10678.4582,37.4672,14.2506,med,high,short,male,Townsend
+Samoyed,18761.4755,53.1366,10.8585,low,high,short,male,Rodriguez
+Beagle,8560.8397,31.8212,13.0038,med,high,med,female,Harvey
+Siberian Husky,18949.4526,54.7134,11.6597,med,med,long,female,Elliott
+Samoyed,19651.4398,53.5785,11.4297,med,high,med,female,April
+Samoyed,23178.0639,55.6819,10.7213,med,high,med,female,Buchanan
+Siberian Husky,18341.9729,51.8157,11.3472,low,med,med,female,Whitney
+Siberian Husky,19106.427,54.906,11.781,med,med,med,male,Harris
+Beagle,9151.2126,36.2561,12.9365,low,high,short,female,Davenport
+Golden Retriever,26290.6531,57.4708,12.9511,med,med,med,female,Parker
+Golden Retriever,32856.9122,55.3613,10.965,med,med,med,female,Knapp
+Golden Retriever,28093.9299,58.555,12.0287,med,med,med,male,Gordon
+Siberian Husky,19110.5784,54.6442,11.596,med,med,med,male,Brooks
+Golden Retriever,32674.6088,56.8132,10.7111,high,high,med,male,Young
+Samoyed,23964.4876,53.4542,10.506,med,high,med,female,Tucker
+Samoyed,24653.9147,53.4424,10.7573,med,high,long,female,Williams
+Siberian Husky,17652.2912,55.1628,11.5569,high,med,med,male,Wright
+Samoyed,25496.236,,11.6329,med,high,long,male,Gomez
+Beagle,8888.7337,37.9411,12.9581,med,high,short,male,Martin
+Golden Retriever,28426.2884,57.8186,13.3388,med,med,short,male,Paul
+Samoyed,21317.0896,53.267,11.2026,med,high,med,male,Hodges
+Beagle,11126.4861,37.5446,13.1161,low,high,short,male,Terry
+Siberian Husky,20208.773,55.6317,12.5516,med,high,med,male,Moore
+Golden Retriever,27473.5928,57.9204,12.1757,med,high,med,male,Freeman
+Siberian Husky,20042.3765,55.8016,13.4405,med,med,short,female,Smith
+Samoyed,23702.2578,52.3025,10.3739,med,high,med,female,Foster
+Siberian Husky,19435.1373,54.8714,12.1653,low,med,long,male,Henderson
+Beagle,11768.5314,35.4293,13.6946,med,high,short,male,Cannon
+Golden Retriever,28977.8867,57.1862,11.6741,med,high,long,male,Warner
+Golden Retriever,31420.3733,57.5016,10.6681,med,high,med,male,Long
+Golden Retriever,31633.0895,,12.7159,med,high,med,female,Mason
+Beagle,11760.854,34.5728,12.5116,low,high,med,female,Martinez
+Siberian Husky,17342.3146,54.2866,12.9875,med,med,med,female,Alvarado
+Beagle,9257.1546,,14.283,med,high,med,female,Smith
+Golden Retriever,30587.8713,,11.5091,low,high,med,female,Ryan
+Samoyed,27026.6894,53.2918,11.7491,med,high,long,female,Gibson
+Beagle,9769.6606,38.0913,13.3333,med,high,short,male,Bailey
+Beagle,9588.5274,35.2979,13.3529,med,med,short,male,Williams
+Beagle,10639.8142,37.7443,12.9726,med,med,short,male,Matthews
+Beagle,10559.3851,37.123,14.6601,high,high,short,female,Hernandez
+Golden Retriever,34778.7461,,10.1935,med,high,med,male,Ashley
+Beagle,11589.2954,38.236,12.7152,high,high,short,female,Henderson
+Golden Retriever,35670.7125,61.6853,9.6652,low,high,long,male,Munoz
+Siberian Husky,19116.4234,52.0301,11.5322,med,med,med,female,Cole
+Siberian Husky,18442.5477,,12.386,med,med,med,female,Luna
+Samoyed,22049.5464,53.2219,11.8667,med,high,short,male,Wilson
+Beagle,10260.8261,35.496,13.4473,med,high,short,male,Simpson
+Golden Retriever,31357.3602,59.6629,11.1387,high,high,long,male,Thomas
+Beagle,9455.031,35.3146,12.5106,low,high,short,male,Adkins
+Siberian Husky,15335.338,54.0231,12.5215,med,med,med,male,Michael
+Golden Retriever,26068.6783,56.1059,12.5406,med,high,med,male,Nichols
+Samoyed,18153.8428,,10.9538,med,high,med,female,Cannon
+Siberian Husky,20444.4878,54.4803,12.9484,high,med,long,female,Wilson
+Golden Retriever,29614.8448,57.5312,10.8732,high,high,med,male,Johnson
+Golden Retriever,31371.9796,57.6557,13.0271,med,high,long,female,Kline
+Beagle,11308.9162,34.0681,12.2854,med,high,short,male,Werner
+Golden Retriever,31695.4821,58.6863,11.0252,med,high,med,female,Peters
+Golden Retriever,23530.1054,57.9611,11.6391,med,high,med,male,Hawkins
+Siberian Husky,23111.6006,57.0358,11.9753,med,med,med,male,Mata
+Golden Retriever,25101.2732,55.1675,11.8534,high,high,med,female,Hebert
+Samoyed,18505.1581,53.5115,10.3686,med,high,med,male,Williams
+Golden Retriever,29888.8805,58.3693,11.6736,low,high,med,female,Rubio
+Beagle,11287.5484,35.2214,11.6181,med,high,short,male,Espinoza
+Golden Retriever,33561.4499,,12.4609,med,high,med,female,Jimenez
+Siberian Husky,20857.6651,54.4798,12.682,med,med,med,male,Rosales
+Golden Retriever,32290.753,59.1052,12.1141,med,high,med,female,Kramer
+Golden Retriever,27281.8446,54.2364,9.9721,med,high,long,female,Brown
+Beagle,8423.673,36.6054,14.8139,low,high,med,male,Moore
+Beagle,11148.4623,37.354,13.6683,med,high,med,male,Simpson
+Samoyed,27068.1202,55.7272,10.5659,med,high,long,male,Bailey
+Samoyed,19488.0137,54.9383,11.4817,low,high,med,female,Dunlap
+Golden Retriever,31501.5881,55.8935,11.6184,med,med,med,male,Stanley
+Beagle,11078.5434,,14.6505,med,high,short,female,Allen
+Siberian Husky,20369.8872,52.1683,12.2121,med,med,med,male,Cantu
+Golden Retriever,26257.0225,57.4008,12.3544,low,med,med,female,Miller
+Samoyed,19433.5141,54.0756,11.0386,med,high,short,male,Bruce
+Golden Retriever,31667.1978,,11.0609,high,high,med,male,Allen
+Beagle,12268.918,35.841,14.2713,med,high,short,male,Chavez
+Golden Retriever,27286.8367,57.3564,11.6248,high,high,med,female,Torres
+Siberian Husky,19791.6586,,12.2834,high,high,med,female,Price
+Samoyed,17524.6304,52.6875,11.924,high,high,med,male,Taylor
+Golden Retriever,30469.8715,,11.641,med,high,med,male,Stephens
+Golden Retriever,30117.0129,56.8316,11.0302,med,high,med,male,Jones
+Siberian Husky,19919.0365,58.3149,12.0763,med,high,med,male,Boyd
+Golden Retriever,23729.8924,56.9292,11.161,med,med,med,male,Jones
+Beagle,10887.249,36.3817,12.5787,med,high,short,female,Howard
+Siberian Husky,18135.211,,10.4793,med,med,med,male,Sharp
+Samoyed,24581.1337,55.0902,10.6435,med,high,med,female,Ross
+Samoyed,28975.8612,,10.707,med,high,med,female,Brewer
+Siberian Husky,22859.6034,,12.4705,med,med,med,female,Castillo
+Siberian Husky,18793.711,52.8925,11.9327,low,high,med,female,Church
+Beagle,8335.8989,33.7535,12.778,low,high,short,male,Cole
+Beagle,8808.2404,36.0075,13.8909,med,high,short,female,Brown
+Golden Retriever,32654.2292,57.6428,10.7632,med,high,med,female,Lane
+Siberian Husky,16117.9236,55.825,11.3983,med,high,med,male,Rogers
+Golden Retriever,30007.716,59.0898,12.2726,med,high,med,male,Galvan
+Golden Retriever,34688.097,59.5268,11.5581,high,med,med,male,Mack
+Golden Retriever,25923.7728,59.2714,10.7326,med,high,med,female,James
+Golden Retriever,24830.0484,,11.387,high,high,med,female,Ingram
+Beagle,11444.4007,36.9387,14.3027,med,med,short,male,Cunningham
+Beagle,10296.5909,36.9002,14.0519,med,high,short,female,Warren
+Samoyed,23339.3173,,10.8479,med,high,med,female,Gillespie
+Samoyed,20944.3882,55.2837,10.4812,high,high,med,male,Shelton
+Samoyed,19522.0903,53.6125,10.1579,low,high,med,female,Mason
+Samoyed,26394.1378,50.7995,12.0344,med,high,long,female,Barrett
+Beagle,11581.4756,34.6744,14.2822,med,high,short,male,Johnson
+Samoyed,14162.7337,52.7463,10.91,med,high,short,female,Wilkins
+Siberian Husky,17060.2765,53.9181,11.6674,med,med,med,male,Brooks
+Siberian Husky,17823.2208,53.8879,11.9786,med,med,med,female,Gordon
+Golden Retriever,32998.8582,57.2798,11.5104,med,high,med,female,Taylor
+Siberian Husky,18200.6368,58.3379,11.9226,med,med,short,female,Newton
+Beagle,9612.5222,37.9684,13.7667,med,high,short,female,Camacho
+Samoyed,18711.9766,53.4508,10.5103,med,high,med,male,Brewer
+Golden Retriever,31764.2722,,10.1107,low,high,long,female,Cordova
+Siberian Husky,18243.7591,53.3026,12.6271,low,med,med,female,Schmidt
+Beagle,10996.3663,37.7538,14.1712,med,high,short,male,Smith
+Beagle,10477.306,37.0392,13.072,high,high,short,female,Wood
+Samoyed,19939.3574,54.233,11.7954,med,high,med,male,Vaughn
+Beagle,11628.3919,,13.8257,med,high,short,female,Howard
+Golden Retriever,30140.9408,56.458,10.8338,med,high,med,male,Weaver
+Siberian Husky,15038.6204,52.6936,12.421,med,med,med,male,Mullins
+Siberian Husky,18102.3279,,12.1988,low,high,med,male,Smith
+Beagle,9450.9304,36.4242,12.9608,low,high,short,male,Poole
+Samoyed,20025.6216,52.0558,10.891,med,high,med,female,Mccullough
+Golden Retriever,26917.4018,54.467,11.782,med,high,med,male,Arnold
+Siberian Husky,15604.6373,57.4211,12.0136,low,low,med,male,Lynn
+Samoyed,21298.2976,55.6727,12.1756,med,high,med,male,Watkins
+Samoyed,18364.3132,52.7091,10.124,med,high,med,female,Roth
+Siberian Husky,17504.3851,53.8147,10.5759,med,med,med,female,Santiago
+Golden Retriever,33181.7048,,12.9302,med,high,med,male,Mullins
+Samoyed,16403.2393,54.1296,11.44,med,high,med,female,Perez
+Golden Retriever,28440.3027,57.6356,11.8526,med,high,med,male,Nelson
+Beagle,12375.8141,34.8888,14.1606,high,high,med,male,Gomez
+Beagle,8162.3479,,13.0125,med,high,short,female,Acosta
+Siberian Husky,19167.854,53.0834,12.0081,low,med,long,female,Blackburn
+Golden Retriever,27512.1119,,11.6129,low,high,long,male,Robinson
+Golden Retriever,29446.8222,,11.5602,med,high,med,male,Simpson
+Beagle,11039.8386,36.1052,14.7608,med,high,short,female,Orozco
+Golden Retriever,25131.8785,56.5602,11.7965,med,med,short,female,Crawford
+Samoyed,21724.103,51.8396,10.6135,high,med,med,male,Long
+Samoyed,23089.7262,51.9737,12.6789,med,high,med,male,Buck
+Samoyed,25289.0069,,10.443,med,high,med,male,Fowler
+Samoyed,23343.4276,52.928,10.6018,med,high,med,female,Miller
+Siberian Husky,16904.2865,50.8573,12.0984,med,med,med,male,Mann
+Siberian Husky,18124.544,53.6504,12.4232,med,med,short,female,Jeffery
+Beagle,10694.4809,34.3515,13.2246,med,high,short,female,Campbell
+Golden Retriever,28748.1338,56.9904,12.0232,low,high,med,male,Mendez
+Beagle,10292.5372,34.2181,12.3546,low,med,short,male,Meadows
+Samoyed,26288.9331,55.3854,10.9196,med,high,med,female,Howell
+Siberian Husky,20781.2647,58.072,11.6092,high,med,short,female,Wilson
+Golden Retriever,25653.5506,58.5187,11.972,low,med,med,female,Kelley
+Siberian Husky,18881.6454,52.232,11.644,med,med,med,male,Torres
+Beagle,9883.0547,36.7713,12.2532,med,high,short,male,Chen
+Beagle,11077.7499,33.3393,15.369,med,high,short,female,Thomas
+Golden Retriever,30810.661,59.1506,12.988,med,high,med,female,Dixon
+Siberian Husky,21254.2833,,12.6892,med,med,med,male,Wright
+Golden Retriever,31408.3534,60.5741,11.1899,low,high,med,female,White
+Samoyed,28069.0602,54.9626,10.3225,high,high,med,male,Zuniga
+Samoyed,22627.8033,,11.1335,med,high,med,male,Bauer
+Samoyed,29262.6968,55.8774,11.8568,low,high,med,male,Berry
+Siberian Husky,20382.539,57.8367,11.567,low,med,med,female,Vargas
+Samoyed,24293.8558,53.1764,11.7057,med,high,med,male,Daniels
+Samoyed,16384.2028,,10.4249,med,high,med,female,Garza
+Beagle,11425.7082,,12.8066,low,high,med,male,George
+Siberian Husky,18919.9895,,11.1664,med,low,long,male,Perez
+Siberian Husky,18679.483,57.7555,11.7531,high,low,med,male,Miller
+Samoyed,23053.2818,53.2983,10.7445,med,high,med,male,Cook
+Samoyed,22234.6056,52.9295,10.2967,med,high,long,female,Mcdonald
+Golden Retriever,28526.7883,59.5376,11.9105,low,high,med,female,Mckinney
+Golden Retriever,29369.9919,59.5341,13.3383,med,high,long,female,Beck
+Beagle,11694.3036,35.4612,13.9361,med,high,short,female,Elliott
+Samoyed,23076.576,53.7758,11.3586,low,high,med,female,Davis
+Beagle,9050.2249,,12.8993,med,high,short,male,Hoffman
+Siberian Husky,18811.9989,,11.0734,med,high,short,female,Louis
+Siberian Husky,15914.0076,,12.1538,med,med,med,female,Holland
+Samoyed,22977.8021,52.8162,11.4052,med,high,med,male,Hall
+Samoyed,23632.8508,53.7388,10.5696,med,high,med,male,Morris
+Siberian Husky,17815.3337,53.9551,11.8709,med,med,med,female,Yoder
+Siberian Husky,16726.5963,52.151,12.0572,med,med,short,male,Rivera
+Siberian Husky,19649.7881,55.9821,12.0513,med,med,med,male,Wade
+Samoyed,27201.6539,53.5054,10.6971,med,high,med,female,Cox
+Samoyed,26397.8224,54.1728,10.9184,med,high,long,female,Wilson
+Samoyed,22366.7161,53.3386,11.7738,med,high,med,female,Patterson
+Golden Retriever,28210.8004,60.4787,10.7713,med,high,long,female,Wright
+Beagle,11395.2907,34.5069,12.947,med,high,short,male,Nguyen
+Samoyed,21033.9861,58.2636,11.1411,med,high,med,male,Marquez
+Golden Retriever,33132.8904,,10.8584,med,high,long,male,Boyd
+Beagle,8271.2067,34.0554,14.3171,med,high,short,male,Moreno
+Samoyed,22884.668,53.9129,10.7427,med,high,med,male,Schmidt
+Siberian Husky,21367.8759,,11.8861,med,med,short,female,Clarke
+Beagle,7693.5413,38.0769,11.6052,med,high,short,male,Chen
+Siberian Husky,18397.351,55.1157,11.4183,low,med,med,male,Snyder
+Siberian Husky,22239.2889,57.9883,11.7407,med,high,med,female,Luna
+Beagle,10411.1507,35.2621,12.8589,med,high,short,female,Le
+Beagle,12067.6334,34.9734,12.4528,med,high,short,male,Bradley
+Samoyed,23878.2661,51.9255,11.049,med,high,med,female,Barrett
+Samoyed,19589.3134,,10.6027,med,med,med,male,Schwartz
+Beagle,8713.0107,35.2149,13.1872,med,high,short,female,Johnson
+Siberian Husky,19419.6249,57.4716,12.8958,low,med,med,female,Torres
+Siberian Husky,21472.8814,54.8758,12.4311,med,low,med,female,Barry
+Beagle,13617.856,,15.0447,med,high,short,male,Jones
+Siberian Husky,18019.5413,52.6538,12.2499,med,med,med,female,Collins
+Beagle,10218.1444,35.4583,13.0275,med,high,med,female,Davis
+Beagle,10973.4647,34.1417,13.3577,med,high,short,male,Lewis
+Siberian Husky,21300.0887,54.7114,11.3717,med,med,med,female,Anderson
+Siberian Husky,15354.3801,52.3082,12.0827,low,med,med,female,Welch
+Beagle,14513.3644,37.8874,14.2518,med,med,short,male,Mcintosh
+Beagle,9639.5829,35.3426,14.0304,med,med,short,female,Sanders
+Golden Retriever,23431.5548,59.1207,11.3347,med,high,med,male,Riddle
+Beagle,10605.1469,34.0592,14.9794,med,high,short,male,Perez
+Golden Retriever,29201.4605,,12.3764,med,high,med,male,English
+Siberian Husky,21218.263,56.0482,12.3797,med,high,med,female,Graves
+Siberian Husky,17570.2496,53.9355,12.9653,med,med,short,male,Wilson
+Samoyed,20343.4767,51.4747,10.9642,med,high,med,female,Vaughn
+Golden Retriever,29907.5805,56.6731,11.0475,med,high,med,female,Kirby
+Siberian Husky,20035.0232,54.5262,11.6309,med,med,med,female,Moody
+Siberian Husky,17584.542,54.2094,12.8611,med,med,med,female,Reed
+Beagle,8597.774,,12.6413,med,high,short,female,Huerta
+Siberian Husky,17794.0336,54.7291,12.4758,high,med,med,male,Smith
+Siberian Husky,18631.2807,53.3353,12.081,med,med,long,female,Horton
+Samoyed,18423.3509,55.3631,11.5463,med,med,short,male,Henry
+Siberian Husky,18901.8473,52.6576,11.4746,med,med,med,female,Le
+Golden Retriever,32306.3357,56.3543,10.0241,low,high,med,male,King
+Golden Retriever,29316.865,,12.7508,med,high,short,male,Taylor
+Siberian Husky,16204.1511,55.3222,11.4747,med,med,med,male,Woods
+Golden Retriever,30865.5195,57.7972,10.2544,med,high,med,male,Bryant
+Siberian Husky,19136.3464,51.1451,12.0084,med,med,med,male,Mosley
+Samoyed,21039.1473,54.5126,10.8171,med,high,med,male,Allen
+Samoyed,17427.3304,52.4009,10.9023,med,high,med,female,Santiago
+Siberian Husky,21812.2461,51.674,12.3602,low,med,short,male,Medina
+Samoyed,29043.1483,,11.3123,med,high,med,female,Boyd
+Golden Retriever,33948.7377,54.8169,10.9558,med,high,short,female,King
+Samoyed,22142.7644,52.775,11.4055,med,high,med,male,French
+Golden Retriever,30616.4918,61.2998,11.8347,med,high,med,male,Cruz
+Samoyed,21444.7559,,10.5182,med,high,med,female,Bell
+Samoyed,23202.8516,55.8491,11.5243,med,high,med,male,Bell
+Golden Retriever,27291.3737,58.1554,11.5953,med,high,med,female,Davis
+Samoyed,22204.5684,50.5825,10.7611,med,high,med,female,Terrell
+Samoyed,17339.1153,56.4588,11.7486,med,high,short,female,Smith
+Beagle,11160.5907,36.198,13.2578,med,med,short,female,Wright
+Golden Retriever,29293.7915,61.5721,10.9559,med,high,long,female,Mcdaniel
+Samoyed,18029.5698,54.9927,10.7293,med,high,long,female,Newman
+Siberian Husky,18192.9117,56.9667,12.4415,med,low,med,male,Clark
+Beagle,8885.3626,33.2943,12.6245,med,high,short,female,Baird
+Golden Retriever,30814.5433,59.783,11.0246,med,high,med,female,Bates
+Samoyed,20300.2466,55.6464,11.5525,med,high,med,male,Contreras
+Samoyed,30709.8169,53.9517,10.1358,med,high,med,female,Love
+Beagle,8425.9637,,13.5957,low,high,short,female,Best
+Samoyed,26235.4193,54.6406,10.4634,med,high,med,female,Howard
+Samoyed,23903.8066,52.4519,12.0492,low,high,med,male,Simpson
+Beagle,10818.1925,,13.2856,med,high,short,male,Shaw
+Samoyed,22946.3106,53.4041,11.3616,med,high,med,male,Brown
+Golden Retriever,34794.3079,56.4677,10.6645,med,high,med,male,Roberts
+Golden Retriever,31355.2619,58.1725,11.3644,med,med,med,male,Wright
+Beagle,11277.5169,32.8007,12.0848,med,high,med,female,King
+Samoyed,21425.7612,52.8166,11.5765,high,high,med,male,Kent
+Samoyed,28982.6128,54.2844,10.5556,med,high,med,female,Hall
+Golden Retriever,27249.8161,56.3482,11.3762,med,high,med,male,Gillespie
+Beagle,11849.1863,37.1741,13.0806,med,high,short,female,Johnson
+Beagle,11518.9209,36.0949,14.6954,high,high,short,male,Scott
+Samoyed,27868.5854,,11.9859,low,high,med,female,Barnes
+Siberian Husky,18333.1721,56.0612,12.1977,low,med,med,female,Huber
+Golden Retriever,30123.8059,56.7464,10.7725,med,high,med,male,Lyons
+Samoyed,16997.1937,54.544,10.5187,med,med,long,male,Mcintosh
+Golden Retriever,28646.6089,57.7036,10.587,med,high,med,male,Munoz
+Golden Retriever,28176.7872,58.6994,12.2458,med,high,med,male,Ortega
+Golden Retriever,32397.525,58.0009,11.4711,med,high,med,female,Patel
+Siberian Husky,18333.3356,55.4095,11.3142,med,med,short,male,Fry
+Beagle,10065.3062,37.9648,12.5272,med,high,short,male,Underwood
+Beagle,11683.811,36.7236,14.0116,high,high,short,female,Evans
+Beagle,11987.0002,,13.8182,med,high,short,male,Sullivan
+Golden Retriever,34975.8535,,11.2353,med,high,long,female,Barry
+Beagle,10546.379,,16.1009,high,high,short,male,Perez
+Beagle,9368.4184,34.5323,14.0348,med,high,med,female,Buck
+Siberian Husky,21047.4504,,12.3355,high,high,med,female,Williams
+Beagle,12802.3672,39.5478,13.7239,med,high,med,female,Jimenez
+Golden Retriever,32746.1347,59.3328,12.1703,med,high,med,male,Hunt
+Beagle,10856.1833,,15.3701,med,med,short,female,Ward
+Beagle,10592.8334,34.2388,13.8644,med,high,short,male,Karen
+Golden Retriever,33590.0925,58.8257,10.8994,med,high,med,female,Rose
+Siberian Husky,19622.3962,53.7805,11.7252,med,med,short,male,Patterson
+Samoyed,26642.6263,54.815,10.7972,med,high,short,male,Tapia
+Beagle,8014.6918,37.2065,13.8383,med,high,short,male,Robinson
+Siberian Husky,19294.416,51.3757,11.4236,med,high,long,male,Fletcher
+Samoyed,17045.2203,53.6292,9.8838,med,high,med,female,Brooks
+Siberian Husky,18981.2563,54.2949,12.1936,med,med,med,female,Williams
+Beagle,12185.6444,,12.914,med,high,short,female,Hartman
+Siberian Husky,21271.3154,53.9723,12.0643,med,med,med,female,Williams
+Golden Retriever,27215.6392,57.1565,12.2506,med,high,med,female,Davis
+Samoyed,22525.6474,54.6929,10.6641,med,high,med,male,Sanchez
+Samoyed,19306.1164,,11.3917,med,high,med,male,Chavez
+Golden Retriever,32191.6267,59.038,12.5845,high,high,long,female,Bradford
+Samoyed,24902.3527,,10.9657,low,high,med,female,Waller
+Siberian Husky,20677.0523,53.621,11.9405,med,high,med,male,Chandler
+Golden Retriever,29980.1049,,12.0837,med,high,med,female,Harris
+Samoyed,30739.5609,54.3076,10.583,med,med,med,male,Keller
+Samoyed,20116.4724,,10.8166,med,high,short,male,Patterson
+Samoyed,24614.2387,55.8249,11.6615,med,high,med,male,Perez
+Siberian Husky,21592.1172,54.897,11.6944,med,med,med,female,White
+Beagle,13067.8789,34.5786,12.6289,med,high,short,female,Williams
+Golden Retriever,33517.0065,55.5371,11.4309,med,high,med,male,Gomez
+Samoyed,18308.5487,55.4516,11.382,med,high,med,female,Brenda
+Samoyed,24067.7135,54.7256,10.1909,med,high,short,female,Matthews
+Samoyed,14251.4095,54.2735,11.1413,low,high,med,female,Cooke
+Siberian Husky,20696.4087,55.6299,11.8645,med,med,med,female,Fernandez
+Siberian Husky,19792.0628,54.9533,11.409,med,med,med,male,Garrett
+Golden Retriever,29285.0513,56.6468,13.176,med,high,med,female,Warren
+Siberian Husky,16686.8649,49.8146,11.9451,med,med,med,female,Anderson
+Samoyed,20589.1612,53.9348,11.74,med,high,med,female,Beck
+Siberian Husky,19869.43,53.0587,11.9188,med,med,med,female,Miller
+Golden Retriever,23883.7745,55.6968,10.9798,med,high,med,male,Hinton
+Beagle,8833.2016,33.1271,14.7286,high,high,short,female,Sharp
+Siberian Husky,19078.5963,,11.5795,low,med,med,female,Snyder
+Beagle,10786.6496,34.627,15.0112,med,high,short,female,Bradley
+Beagle,7781.1193,37.9366,13.5635,med,high,short,female,Chavez
+Golden Retriever,30210.222,59.2279,11.3665,med,high,med,male,Harmon
+Samoyed,23561.6441,52.6305,10.4913,med,high,med,female,Chan
+Siberian Husky,20237.7915,,11.5635,med,low,med,male,Vasquez
+Golden Retriever,30925.2237,59.2929,11.4606,low,high,med,female,Hicks
+Siberian Husky,19677.0838,53.2331,11.9153,med,med,med,male,Lara
+Siberian Husky,18886.4297,56.4287,12.7282,med,med,short,female,Williams
+Beagle,10297.3501,,13.1415,low,high,short,male,Blake
+Golden Retriever,29002.0944,55.4502,10.4509,med,high,med,male,White
+Beagle,10597.9765,36.4315,12.1859,med,high,short,male,Lambert
+Golden Retriever,29031.7003,57.0674,10.736,med,high,med,male,Lopez
+Samoyed,19170.7521,,11.0916,med,high,med,female,Thomas
+Samoyed,15620.2143,54.0692,10.1026,med,high,long,male,Conrad
+Siberian Husky,16673.5333,56.1777,11.8322,high,low,short,female,Prince
+Beagle,6820.1631,,13.0373,med,high,short,female,Medina
+Golden Retriever,28890.4655,57.344,13.074,med,high,med,female,Higgins
+Golden Retriever,29568.7925,57.6254,12.0237,med,high,med,female,Morris
+Golden Retriever,24150.5228,55.3557,11.3721,med,high,med,female,Neal
+Golden Retriever,28232.9239,59.7013,10.2057,med,high,med,male,Murphy
+Samoyed,23192.3804,52.3113,11.2425,high,high,med,male,Knapp
+Beagle,8268.6532,37.0425,11.8939,med,high,short,female,Shelton
+Siberian Husky,16956.457,50.67,11.5646,med,med,med,male,Payne
+Beagle,8259.6696,,13.2207,med,high,short,male,Santos
+Beagle,10613.6039,36.7335,15.3593,med,high,short,male,Richardson
+Samoyed,22084.8578,51.6969,11.96,med,high,med,male,Perkins
+Golden Retriever,26883.9199,58.1032,11.1996,med,high,med,male,Campbell
+Siberian Husky,18733.8658,50.687,11.3406,med,med,med,male,Cooper
+Siberian Husky,16356.4646,52.2128,11.8247,med,med,med,male,Alvarez
+Beagle,12870.3905,,13.7241,med,high,med,male,Flores
+Samoyed,25608.5345,52.511,11.6082,med,high,med,female,Ford
+Beagle,13551.0872,,13.2888,med,high,short,male,Smith
+Siberian Husky,17481.9077,58.4307,11.9338,med,low,med,female,Wilson
+Golden Retriever,31809.0425,59.7822,13.1057,med,high,med,female,Baldwin
+Samoyed,24940.7633,,11.1928,med,high,med,female,Willis
+Golden Retriever,34695.6667,56.6093,11.901,med,med,long,male,Walker
+Siberian Husky,19115.3209,54.2658,11.475,low,med,med,female,Summers
+Golden Retriever,27657.6056,54.8812,10.2217,high,high,med,male,Kramer
+Samoyed,25253.9471,51.4127,9.7942,med,high,med,male,Harrell
+Beagle,9264.0306,,12.0476,med,high,short,male,Howell
+Samoyed,23440.5997,54.4754,11.2171,med,high,long,male,Burke
+Samoyed,24219.3573,53.9165,11.8688,med,high,short,male,Robles
+Siberian Husky,20801.6114,53.1035,10.8638,med,med,med,male,Rogers
+Beagle,12557.89,33.9513,14.3118,med,high,short,male,Collins
+Beagle,10492.4942,36.9141,14.8122,med,high,short,female,Martinez
+Beagle,11028.955,36.2821,12.6728,med,high,med,male,Kemp
+Samoyed,26458.2148,54.7043,12.0816,low,high,med,female,Oneal
+Siberian Husky,21821.0975,,12.0028,med,med,med,male,Downs
+Siberian Husky,20124.0824,51.8403,12.548,med,med,med,female,Paul
+Golden Retriever,29356.3608,57.8171,11.7259,med,high,med,female,Brown
+Golden Retriever,33322.8816,58.8024,11.4971,low,high,med,female,Meyer
+Siberian Husky,19786.7103,56.6213,11.7137,med,high,long,female,Chan
+Samoyed,27779.7855,53.615,10.4805,low,high,long,female,Stein
+Siberian Husky,19192.0443,52.5758,12.3234,med,med,long,female,Brooks
+Siberian Husky,18170.204,54.7657,11.1144,med,med,med,male,Phillips
+Siberian Husky,21062.8598,54.604,12.8388,low,med,med,male,Clark
+Golden Retriever,23965.2295,55.5282,12.7713,med,high,med,female,Burke
+Samoyed,24898.1644,53.2445,11.1494,low,high,med,male,King
+Golden Retriever,30252.0532,57.2156,11.4447,med,med,short,female,Hubbard
+Siberian Husky,19459.118,53.5306,12.678,low,med,med,female,Miller
+Samoyed,25750.4659,52.8274,10.9462,med,high,med,female,Baxter
+Beagle,10816.7733,38.0821,15.3203,med,high,med,female,Richardson
+Samoyed,19702.0228,53.7686,10.685,med,high,med,male,Jones
+Beagle,8672.8581,32.3368,12.918,med,high,short,male,Murphy
+Siberian Husky,17384.1176,51.5324,11.6935,med,high,med,male,Holland
+Samoyed,23489.8365,53.7027,10.2944,med,high,med,female,Woods
+Golden Retriever,29658.6382,61.6187,10.3107,med,high,med,male,Young
+Golden Retriever,34605.1749,62.3301,10.556,med,high,med,male,Wright
+Beagle,9353.5136,35.8248,13.5963,low,high,short,male,Stone
+Samoyed,24610.188,52.2803,10.4938,med,high,med,female,Christensen
+Beagle,12241.0226,33.0413,13.6375,high,high,short,female,Lee
+Samoyed,20161.5972,52.9165,9.9631,med,high,med,male,Arellano
+Golden Retriever,31019.3932,58.3777,11.1122,med,high,med,male,Evans
+Golden Retriever,27560.8783,60.3767,11.6843,med,med,med,male,Smith
+Siberian Husky,19516.1102,52.4163,11.2461,med,med,short,male,Morgan
+Golden Retriever,28904.5933,56.6977,10.9525,med,high,long,female,Wilson
+Beagle,11396.1686,33.3377,12.8428,med,high,short,male,Chandler
+Siberian Husky,18803.7517,52.9063,12.5046,med,med,med,male,James
+Beagle,7405.211,34.2088,12.4732,med,high,short,male,Johnson
+Samoyed,23417.6264,,10.4458,med,high,long,male,Hart
+Siberian Husky,20452.2571,,11.6653,med,med,med,female,Garcia
+Siberian Husky,19758.7708,50.2285,12.0464,med,med,med,male,Brown
+Samoyed,21686.0323,53.0889,10.4297,med,high,med,male,Burgess
+Siberian Husky,19448.2468,54.0988,11.9205,med,med,med,male,Franco
+Golden Retriever,26199.2762,56.9449,10.9967,med,high,med,female,Cervantes
+Golden Retriever,31314.1518,56.3911,10.9936,med,high,med,female,Martin
+Beagle,8958.8055,35.199,14.7067,high,high,short,female,Conrad
+Samoyed,25366.5697,54.3899,10.8929,med,high,med,male,Hawkins
+Beagle,10755.9614,36.6989,14.944,med,high,short,female,Oconnor
+Samoyed,25639.919,51.4837,10.5673,med,high,med,male,Hale
+Golden Retriever,31579.6536,59.5799,11.5606,med,high,med,male,Austin
+Siberian Husky,21771.9953,,11.3313,med,med,med,female,Carter
+Golden Retriever,27328.1613,60.5785,11.2752,high,high,med,male,Smith
+Siberian Husky,20121.3942,53.7261,11.1915,med,med,med,male,Owen
+Golden Retriever,26626.7205,55.1009,12.6472,med,high,long,female,Martin
+Siberian Husky,15542.4825,,12.1539,med,med,med,male,Anderson
+Siberian Husky,18370.4044,,11.3046,med,med,med,female,Matthews
+Golden Retriever,34405.981,59.9097,10.8737,med,high,long,male,Pace
+Golden Retriever,33616.2846,57.6149,11.8239,low,high,med,male,Smith
+Samoyed,28964.0701,52.5872,10.9668,med,high,med,female,Hayes
+Beagle,10318.5112,37.3192,12.3733,med,high,short,female,Evans
+Beagle,12597.2124,35.4551,14.3897,med,high,short,male,Woods
+Golden Retriever,23107.8732,61.2693,11.5538,med,high,med,female,Mora
+Samoyed,16132.1219,57.8114,11.1698,med,high,med,male,Phillips
+Samoyed,23431.3297,,12.595,med,med,med,male,Wilson
+Beagle,8223.9903,36.5646,12.9416,med,high,short,male,Mullins
+Siberian Husky,18445.1769,53.3342,12.577,med,med,med,female,Chandler
+Golden Retriever,25356.4729,59.4047,10.3799,high,high,long,female,Myers
+Beagle,8527.6824,36.542,12.3753,med,high,med,male,Mckinney
+Samoyed,12169.202,51.8977,11.6757,high,high,med,male,Johnson
+Siberian Husky,19337.5371,53.2223,12.0523,high,med,med,male,Gillespie
+Samoyed,22821.9503,53.1503,11.6405,low,high,med,female,Cruz
+Siberian Husky,20564.6841,,12.8136,low,med,med,female,Vega
+Golden Retriever,30195.4721,,14.2319,med,high,med,male,Morgan
+Beagle,11546.5029,35.9896,14.3562,med,high,med,female,Schwartz
+Beagle,10110.6701,,14.5036,med,high,short,male,Palmer
+Samoyed,16590.1015,52.0614,11.7082,med,high,med,male,Pittman
+Siberian Husky,21678.5901,53.4452,11.4854,med,med,short,male,Walls
+Samoyed,19018.2593,54.239,10.6539,med,high,long,female,Thomas
+Siberian Husky,21006.2624,52.4893,11.3983,med,low,med,female,Thompson
+Golden Retriever,28005.4902,56.2161,11.8706,med,high,med,female,Thornton
+Samoyed,23886.7571,54.6601,11.0106,med,high,med,male,Smith
+Beagle,11564.1897,37.4395,13.731,med,high,short,female,Ward
+Siberian Husky,20417.4392,58.738,12.8206,med,med,med,female,Solomon
+Beagle,10756.0853,38.0681,12.5399,med,high,short,female,Mcdonald
+Golden Retriever,25717.7307,58.92,12.128,med,high,med,female,Barnes
+Golden Retriever,31774.7228,58.8752,11.787,low,high,med,male,Sanders
+Samoyed,25472.5564,56.1687,10.1273,med,high,med,female,Hall
+Siberian Husky,17111.4883,52.9752,12.4127,med,med,short,male,Scott
+Siberian Husky,20815.2786,54.0502,12.2679,high,high,med,female,Nelson
+Golden Retriever,27839.9684,57.3774,10.6615,med,high,med,female,Wilcox
+Samoyed,22108.1097,55.3754,10.2255,med,high,med,male,Price
+Siberian Husky,18990.5941,55.8551,12.1708,low,med,med,male,Vasquez
+Samoyed,23440.6605,51.6644,10.1971,med,high,med,female,Ramos
+Siberian Husky,15917.5117,55.4979,11.7676,med,med,med,female,Bell
+Siberian Husky,18730.001,54.3991,11.4287,med,med,med,male,Haynes
+Beagle,12883.5934,36.4017,14.9214,high,high,short,male,Kirk
+Golden Retriever,30028.3238,,10.7515,med,high,med,female,Torres
+Samoyed,21540.8656,51.9412,11.2493,med,high,med,female,Bass
+Beagle,11827.4583,37.0071,14.1097,med,high,short,female,Harris
+Beagle,12092.7703,,13.8064,med,med,short,female,Smith
+Golden Retriever,27452.2847,59.0136,11.3357,med,high,med,male,Young
+Beagle,8799.3606,36.2181,12.0321,med,high,med,male,Sims
+Golden Retriever,29038.0405,,10.9276,med,high,med,male,Howell
+Siberian Husky,20296.7231,,12.1432,med,med,med,male,Kirby
+Samoyed,9263.4438,,11.5823,med,med,med,female,Gonzalez
+Siberian Husky,21672.6323,56.3591,11.5817,med,med,short,female,Coffey
+Beagle,9398.563,34.3569,12.6082,med,high,short,male,Campbell
+Samoyed,19763.9198,55.0755,11.3537,med,high,long,female,Fleming
+Siberian Husky,19275.9897,,12.7475,med,low,med,female,Meadows
+Golden Retriever,22992.2356,53.0846,10.0848,med,high,med,male,Foley
+Samoyed,24111.5555,55.1608,10.592,med,med,med,male,Webster
+Siberian Husky,18975.6662,54.2532,11.744,med,high,med,male,Conway
+Siberian Husky,14500.9004,,12.5083,med,high,long,female,Molina
+Samoyed,16710.1484,54.7645,12.3642,med,high,med,female,Osborn
+Samoyed,24368.3217,,12.2573,med,high,med,male,Thomas
+Samoyed,21467.2115,53.7743,11.4803,med,high,med,female,Farmer
+Beagle,9675.5102,,13.8214,med,high,short,male,Johnson
+Golden Retriever,34271.8527,55.3778,11.8905,low,med,med,female,Morrison
+Beagle,7512.2768,35.3201,14.2583,med,high,short,female,Mueller
+Siberian Husky,14551.7089,,12.7451,med,med,med,male,West
+Siberian Husky,22142.2373,55.3477,10.9799,med,high,med,male,Washington
+Samoyed,18928.59,55.5634,10.2153,high,high,med,female,Thomas
+Golden Retriever,27635.4044,58.389,11.357,med,high,med,male,Schmidt
+Samoyed,27094.3896,52.6028,11.1781,med,high,med,female,Esparza
+Siberian Husky,17627.3805,,11.9365,high,med,long,male,Daniel
+Siberian Husky,21940.4575,55.5164,12.0919,med,med,med,male,Griffin
+Golden Retriever,24785.1864,59.8327,11.2393,med,high,med,male,Yang
+Beagle,9714.4404,33.528,13.5924,med,med,short,female,Fields
+Beagle,10447.9886,35.8034,13.7096,med,high,short,female,Miller
+Samoyed,22428.1561,54.5327,10.8588,med,high,short,male,Graham
+Siberian Husky,20303.5727,,11.6323,med,med,med,male,Huff
+Beagle,9835.299,37.0132,10.5784,med,high,short,male,Quinn
+Golden Retriever,29398.0412,59.8492,11.9473,med,high,short,male,Mccoy
+Beagle,10802.6874,34.9709,13.8207,med,high,short,male,Krause
+Siberian Husky,17593.9248,,11.889,low,med,med,male,Parks
+Samoyed,19657.1545,52.3082,12.3064,med,high,med,male,Austin
+Beagle,8171.7609,33.4284,14.5664,med,high,short,male,West
+Beagle,10148.0944,35.8126,12.3124,med,med,short,female,Castaneda
+Siberian Husky,20054.1489,,11.9531,med,med,med,female,Campos
+Beagle,11728.577,35.1551,12.4201,med,high,short,female,May
+Beagle,8754.678,33.4973,12.9427,med,high,short,male,Rogers
+Samoyed,24129.4712,55.0537,10.2063,low,med,short,female,Vaughan
+Siberian Husky,19182.5305,58.5824,11.7754,med,med,med,male,Gutierrez
+Golden Retriever,26811.4572,56.2274,13.1196,med,high,med,male,Chapman
+Siberian Husky,16966.8621,56.8652,12.6843,med,med,med,female,Jones
+Beagle,9384.6829,,12.7747,med,high,short,male,Peterson
+Siberian Husky,23061.1425,54.0964,11.2766,med,med,short,male,Fry
+Beagle,12581.4157,35.8369,14.8942,med,high,med,female,Wall
+Siberian Husky,19721.173,54.8679,11.6511,med,med,long,female,Armstrong
+Siberian Husky,22118.8478,54.1349,12.5567,med,med,med,female,Solis
+Golden Retriever,30815.3939,57.6996,13.2029,high,med,med,male,Banks
+Samoyed,30527.7706,55.2901,10.7846,low,high,med,male,Olson
+Samoyed,17343.6446,53.774,11.1147,med,med,med,male,Brown
+Golden Retriever,31071.3027,,12.0195,med,high,short,female,Edwards
+Siberian Husky,20808.8958,55.3394,10.6593,med,med,med,male,Kemp
+Golden Retriever,28242.4541,57.2555,11.7156,med,high,med,female,Price
+Samoyed,21995.4461,50.9863,11.5414,low,high,short,female,Harvey
+Samoyed,30201.1426,54.5568,11.6775,med,high,med,female,Hicks
+Beagle,9137.236,34.7996,14.7346,med,high,short,male,Rose
+Siberian Husky,18385.934,54.7919,12.6512,med,med,med,female,Carter
+Beagle,8559.9256,36.171,11.7695,med,high,short,male,Soto
+Siberian Husky,21193.0833,56.2732,11.713,high,med,med,female,Gonzalez
+Beagle,10493.11,35.7898,12.405,med,high,short,male,Rice
+Beagle,9779.5285,35.3058,14.3386,med,high,short,female,Elliott
+Samoyed,22680.7058,,10.5197,med,high,med,female,Woodard
+Golden Retriever,34506.4797,,12.4854,med,high,med,female,Cohen
+Golden Retriever,26805.6337,56.718,10.6706,med,high,med,male,Alvarez
+Samoyed,22946.3672,53.7786,11.4964,med,high,med,female,White
+Golden Retriever,26990.3159,55.8451,10.1726,med,high,med,female,Morales
+Beagle,9640.8404,33.9679,11.6871,med,high,med,female,Lloyd
+Samoyed,16156.5452,53.6449,10.5929,med,high,med,female,Hines
+Samoyed,20992.124,51.1304,11.0482,med,high,short,female,Hubbard
+Golden Retriever,28488.1058,54.8014,11.1861,low,high,med,female,Boone
+Samoyed,19012.7963,,10.6904,med,high,long,male,Davis
+Samoyed,19138.7791,51.4634,10.8709,med,high,long,female,Donovan
+Golden Retriever,31515.9899,59.494,13.0916,med,high,short,male,Moore
+Golden Retriever,30008.928,53.1832,11.6163,med,high,med,male,Preston
+Samoyed,20058.409,,11.7747,med,high,med,female,Daniels
+Golden Retriever,35669.2156,,11.5886,med,high,med,male,Lester
+Golden Retriever,28843.7902,60.7952,10.5646,med,med,short,male,Stark
+Samoyed,15051.9597,53.5665,10.849,med,high,med,female,Deleon
+Siberian Husky,19991.7312,,12.1751,low,med,med,female,Hicks
+Siberian Husky,17721.6047,53.6572,12.0474,med,med,short,male,Clay
+Samoyed,23137.4018,52.2649,10.6185,med,high,med,male,Taylor
+Samoyed,25554.4229,52.5249,9.8397,high,high,med,male,Howard
+Beagle,11659.8041,33.7195,13.5272,med,high,short,female,Moore
+Golden Retriever,34039.6337,,10.9915,med,high,med,female,Hartman
+Beagle,8824.7982,,13.1714,high,med,short,male,Oneill
+Siberian Husky,19709.5175,49.9849,11.7973,med,med,med,male,Miller
+Beagle,11795.2719,34.1665,13.7222,med,high,short,female,Miller
+Beagle,9274.4131,36.1464,12.9458,med,high,med,female,Crawford
+Golden Retriever,24657.1363,58.1329,9.7407,med,high,med,male,Hines
+Siberian Husky,19187.2939,,11.5815,med,med,med,male,Stokes
+Siberian Husky,18791.523,51.9623,11.184,med,med,med,male,Hall
+Samoyed,18879.0458,55.2422,11.1165,med,high,long,female,Brown
+Golden Retriever,30195.2011,55.1989,11.8318,med,med,med,female,Carney
+Golden Retriever,28732.4756,57.1719,12.0082,med,high,med,female,Foster
+Golden Retriever,31561.4651,,12.7812,med,high,med,female,Spears
+Golden Retriever,30288.7342,,11.1773,med,high,med,male,Laura
+Samoyed,24796.2924,54.2811,10.349,med,high,med,male,Christensen
+Golden Retriever,31553.2015,56.7764,10.78,low,high,med,female,Nelson
+Beagle,12294.5329,33.1458,11.5283,med,high,short,male,Melendez
+Golden Retriever,31332.3518,56.2162,12.1559,med,high,med,female,Nelson
+Siberian Husky,19432.1277,57.6321,11.7803,med,med,med,male,Nelson
+Beagle,11816.5798,34.3382,14.5304,med,med,short,female,Bradford
+Golden Retriever,29673.8547,,10.645,med,high,long,male,Roman
+Siberian Husky,19428.4806,,13.0328,high,med,short,female,Richard
+Golden Retriever,29788.5615,59.4117,11.3456,med,high,med,female,Arnold
+Samoyed,25810.2847,51.9849,10.4571,med,high,med,female,Gray
+Beagle,10618.0185,37.5241,12.2514,med,high,short,male,Burns
+Samoyed,25790.36,,10.9583,med,high,med,male,Phillips
+Beagle,9581.9344,36.0729,14.1522,med,med,short,female,Hodges
+Siberian Husky,15749.5113,55.3904,10.7118,med,low,long,male,Mitchell
+Siberian Husky,20990.5009,54.9652,10.6462,med,med,med,female,Herman
+Beagle,7376.1668,36.614,12.1486,med,high,short,female,Jones
+Siberian Husky,21482.2152,54.1085,12.2176,low,med,med,male,Smith
+Golden Retriever,27983.1593,58.8272,12.0043,med,high,med,female,Callahan
+Siberian Husky,22125.2794,56.9728,11.3437,med,med,med,female,Hunt
+Samoyed,30114.4454,51.9596,11.1686,med,high,med,female,Fuller
+Samoyed,16006.4458,54.3508,11.4602,med,high,med,male,Alvarez
+Beagle,11552.9474,36.8678,12.5575,med,high,short,male,Ibarra
+Samoyed,18930.8314,,11.9522,high,high,short,male,Griffith
+Beagle,10427.8248,38.3952,13.5994,med,high,med,female,Aguilar
+Golden Retriever,28869.8991,53.8357,10.5506,med,high,med,male,Cook
+Beagle,9219.1039,33.9602,13.5953,med,high,short,male,Garner
+Beagle,11085.7225,35.8085,13.6716,med,high,short,female,Rice
+Siberian Husky,17043.7625,57.7431,13.3629,med,high,med,male,Cole
+Samoyed,25011.7473,53.1448,10.4054,med,high,med,male,Harris
+Samoyed,14776.0371,52.7176,10.9153,med,high,med,female,Bell
+Golden Retriever,29026.8114,57.2941,12.8352,high,high,long,female,Taylor
+Samoyed,20702.2047,54.4324,10.3219,med,high,med,female,Barker
+Siberian Husky,24086.4018,,12.6405,med,med,med,female,Parks
+Golden Retriever,32723.3507,57.5062,11.4662,med,high,med,male,Rogers
+Samoyed,21393.6111,52.5169,11.816,med,high,long,male,Grant
+Golden Retriever,29006.4982,58.9542,11.5118,low,med,med,male,Hall
+Samoyed,27166.6712,53.8791,10.1989,med,med,med,male,Ross
+Golden Retriever,29437.5985,60.6582,12.1937,med,med,med,female,Roberts
+Beagle,9493.212,33.7294,12.9751,med,high,short,male,Hood
+Samoyed,15861.559,53.2076,10.1319,high,high,med,male,Johnson
+Siberian Husky,18510.2328,52.9559,12.4661,med,med,med,male,Weiss
+Siberian Husky,21386.0963,53.0108,11.7601,med,med,long,male,Butler
+Siberian Husky,17826.4617,56.1603,11.2556,med,low,med,female,Solomon
+Beagle,11945.5954,32.3658,13.6847,med,high,short,male,Padilla
+Samoyed,26419.0545,,11.3547,med,high,med,male,Miles
+Beagle,10002.1133,37.0228,12.8912,low,high,med,female,Hansen
+Siberian Husky,19299.0694,54.1272,11.6579,med,med,med,male,Nelson
+Siberian Husky,18315.3942,52.5272,11.7541,med,high,short,female,Terry
+Samoyed,16586.3973,53.7655,12.2592,med,high,med,male,Moss
+Samoyed,20978.7316,,10.503,med,high,long,male,Gould
+Golden Retriever,33326.8477,56.2695,12.8363,med,high,short,female,Victoria
+Beagle,10067.7103,34.1755,13.3546,med,high,short,female,Bailey
+Siberian Husky,18440.2007,56.2063,12.2475,med,med,med,male,Davenport
+Samoyed,21610.8155,56.373,10.8226,med,high,med,male,Rice
+Samoyed,17870.2288,51.536,11.3468,med,high,med,male,Jennings
+Golden Retriever,33731.0138,54.2683,13.3418,low,med,med,female,Black
+Beagle,11442.0019,37.1849,11.8551,med,med,short,female,Ruiz
+Samoyed,24159.5496,54.4966,11.4789,med,high,med,male,King
+Siberian Husky,15567.8658,58.5451,11.356,high,high,med,male,Rice
+Beagle,12086.2754,,12.5888,high,high,med,male,Allen
+Golden Retriever,29768.1082,59.2914,8.7104,low,med,med,male,Roberts
+Golden Retriever,30899.9803,56.9009,11.4198,med,high,med,male,Simmons
+Samoyed,21781.5897,52.2922,11.4957,low,high,short,female,Christensen
+Siberian Husky,20012.3378,55.2229,12.0158,med,med,med,female,Coleman
+Beagle,8788.1813,36.5327,13.3283,low,high,short,male,Dennis
+Beagle,12481.5996,37.125,13.8542,med,high,short,female,Jackson
+Samoyed,21071.4201,54.5057,11.1473,high,high,med,female,Wright
+Golden Retriever,28219.1239,57.4406,12.0261,low,med,med,female,Hanna
+Samoyed,25531.1159,54.6893,10.7645,med,med,med,female,Campbell
+Golden Retriever,28877.4477,54.4514,12.1194,high,high,short,male,Vega
+Beagle,11290.4209,34.263,13.5206,med,high,med,female,Solis
+Samoyed,18692.6701,53.3443,11.1051,med,high,med,female,Hamilton
+Beagle,9588.8412,35.3059,13.178,low,high,short,male,Parker
+Samoyed,19870.2506,52.3516,9.595,med,high,med,male,George
+Beagle,9689.5866,35.9574,13.1566,med,high,short,female,Wu
+Beagle,8543.071,35.4701,14.3523,low,high,med,female,Smith
+Beagle,9658.5945,36.3257,14.2359,med,high,short,male,English
+Samoyed,20910.6775,52.9926,10.9032,med,high,med,female,Ryan
+Samoyed,31415.8254,52.8464,11.7708,med,high,med,male,Powers
+Beagle,10394.9889,36.2428,13.8979,med,high,short,male,Carter
+Samoyed,25588.7512,,11.1784,med,high,short,female,Jackson
+Siberian Husky,20637.6963,,12.3086,med,low,med,male,Alexander
+Samoyed,20201.1648,52.8574,10.4903,med,high,med,female,White
+Samoyed,21720.385,,9.4753,med,high,med,female,Johnson
+Samoyed,26195.8107,55.1288,10.5171,med,high,med,male,Mendoza
+Golden Retriever,32124.1448,58.3002,11.5161,low,high,med,male,Salinas
+Samoyed,21066.4627,55.1941,9.5396,med,high,long,male,Martin
+Samoyed,20514.3828,51.6979,11.343,med,high,med,male,Jones
+Siberian Husky,17854.5725,53.3808,13.1092,med,med,short,female,Simmons
+Beagle,7441.5142,37.9993,14.3927,med,high,short,female,Cameron
+Samoyed,19775.028,54.7942,11.1837,med,high,med,male,Barron
+Siberian Husky,19817.4252,54.9328,11.9094,high,low,med,female,Graham
+Beagle,12329.5041,,14.2583,med,high,short,male,Ramirez
+Siberian Husky,19983.53,54.3244,11.897,low,med,short,female,Waters
+Golden Retriever,33379.3203,60.3412,10.2135,med,high,long,female,Gonzalez
+Beagle,11252.9988,33.1665,13.9456,med,high,short,male,Bernard
+Samoyed,24713.6156,53.6215,12.9539,low,high,med,male,Phillips
+Samoyed,24219.2188,56.0501,10.758,med,high,long,male,Harris
+Siberian Husky,19932.2996,56.8585,11.3989,med,med,long,male,Bennett
+Samoyed,23791.1631,53.3431,10.6985,med,high,long,female,Baker
+Samoyed,16869.0533,,11.4796,high,med,short,male,Cook
+Golden Retriever,31713.7323,58.6289,10.1271,med,high,long,female,Brady
+Siberian Husky,19441.8932,54.1556,11.7033,med,low,med,male,Gross
+Samoyed,26823.3991,53.2431,11.4871,low,high,med,male,Nguyen
+Beagle,12505.788,36.0818,13.6339,med,high,med,male,Brown
+Samoyed,20913.7866,53.2679,10.9081,med,high,med,male,Campos
+Golden Retriever,28880.4563,59.1669,10.4351,med,high,med,male,Daugherty
+Beagle,10114.5876,35.2433,12.3125,high,high,short,male,Duncan
+Siberian Husky,13914.3225,57.7056,12.0469,med,high,med,female,Waller
+Beagle,11048.482,32.2289,13.0687,high,high,med,male,Cole
+Siberian Husky,20969.54,52.9543,12.0382,med,med,med,male,Murillo
+Siberian Husky,17784.5749,52.365,12.0907,med,med,short,female,Pratt
+Siberian Husky,18196.0615,52.9693,12.7179,med,med,med,male,Richardson
+Beagle,9336.4437,,13.2835,med,high,med,female,Wright
+Siberian Husky,19578.5005,53.5595,12.1243,med,high,med,male,Rodriguez
+Siberian Husky,20573.0922,55.5034,13.0524,med,med,med,male,Harris
+Golden Retriever,36093.2272,56.6483,9.4106,med,high,med,male,Brown
+Siberian Husky,19301.3096,,11.7678,med,med,med,male,Singleton
+Samoyed,23107.9609,,10.5065,med,high,med,male,Jones
+Beagle,12567.595,34.9992,15.0757,med,high,med,male,Martin
+Samoyed,25534.5359,50.9735,11.0463,med,high,med,male,Powell
+Golden Retriever,26327.4677,61.9585,12.5847,med,high,long,female,Sanchez
+Beagle,10133.7866,34.5755,12.7435,med,high,short,female,Munoz
+Golden Retriever,30103.4941,56.3371,10.9658,low,high,med,female,Thomas
+Siberian Husky,18902.184,56.0181,12.4873,med,med,med,female,Davis
+Siberian Husky,17223.5176,57.5303,11.4783,low,med,med,female,Lewis
+Beagle,9738.3826,35.653,12.1001,low,high,short,female,Bailey
+Beagle,12331.6216,,14.428,med,high,short,male,Mueller
+Golden Retriever,30030.7803,,13.011,med,high,med,male,Hernandez
+Samoyed,27180.8571,,11.5492,med,high,med,male,Michelle
+Beagle,10460.9253,,14.6292,med,high,short,male,Collins
+Beagle,10235.4901,,13.2914,med,high,short,female,Whitaker
+Samoyed,16048.1351,53.9988,11.4197,med,high,med,female,Bennett
+Beagle,10410.3064,35.7829,13.9422,med,high,short,male,Pennington
+Beagle,10845.8865,35.7503,13.3328,low,high,med,female,Adams
+Beagle,8844.4253,34.4496,14.4344,high,high,short,male,Smith
+Siberian Husky,18521.9183,55.6176,11.1151,med,med,med,male,Huerta
+Samoyed,24071.5477,,10.2545,med,med,med,female,Page
+Siberian Husky,19220.581,56.6125,12.215,high,high,med,female,Gardner
+Golden Retriever,24238.3231,55.9122,10.8104,high,high,med,male,Brown
+Beagle,11203.5674,,14.7912,med,high,short,female,Harding
+Samoyed,21029.7602,52.6666,10.5771,high,high,med,female,King
+Golden Retriever,32110.4261,58.8286,9.8308,med,high,med,female,Richards
+Samoyed,28872.1654,55.3184,11.4892,low,high,short,female,Boyer
+Beagle,8210.7833,36.7294,14.9996,high,high,short,female,Schmidt
+Beagle,11577.0302,34.403,12.4643,med,med,short,female,King
+Samoyed,25613.6895,53.387,10.3947,med,high,med,female,Perez
+Siberian Husky,21762.4138,55.1458,11.9597,med,med,med,male,Alvarado
+Beagle,11842.6939,36.5241,13.2258,med,high,short,female,Tanner
+Samoyed,27314.4182,53.71,11.3684,med,high,med,male,Grant
+Golden Retriever,30599.7488,56.717,12.3128,high,high,short,female,Wood
+Samoyed,20985.0842,51.4533,9.6211,med,high,med,male,Williams
+Siberian Husky,15041.5396,51.916,11.6339,low,med,med,female,Peterson
+Beagle,10287.8682,37.735,13.2985,med,high,short,female,Davis
+Siberian Husky,19247.9512,54.4528,13.2951,high,low,med,male,Martinez
+Siberian Husky,18579.8899,55.9108,12.1804,med,med,med,female,Carrillo
+Golden Retriever,28189.213,54.0719,11.0765,med,high,med,female,Mcfarland
+Golden Retriever,30637.9323,54.8035,11.7022,med,med,med,female,Rice
+Siberian Husky,15378.7073,53.9127,11.0821,med,med,med,female,Barber
+Samoyed,22468.4508,52.9616,9.9032,med,high,med,male,Ramos
+Siberian Husky,18099.9089,54.7776,12.8121,med,med,med,female,Wright
+Golden Retriever,31813.2707,60.0733,9.6037,med,high,long,female,Ramirez
+Siberian Husky,21176.5491,52.6307,12.1287,med,med,long,male,Richardson
+Samoyed,21174.6869,,9.6511,low,high,med,male,Harrison
+Samoyed,26079.8385,54.7095,10.1402,med,high,med,female,Stephens
+Beagle,11427.4181,32.3847,12.7471,med,high,short,female,Saunders
+Golden Retriever,30786.9495,58.3375,11.3231,high,high,long,female,Morrow
+Samoyed,23146.7797,53.9409,10.0844,med,med,med,female,Bennett
+Siberian Husky,20396.9121,,13.0686,med,med,short,male,Cox
+Samoyed,20594.7744,,11.7522,med,high,med,male,Brooks
+Beagle,10460.6943,,12.8021,med,high,short,male,Adams
+Golden Retriever,29411.4497,58.6989,13.1767,med,high,med,male,Williams
+Beagle,8260.0705,35.8578,12.9199,high,high,short,female,Marsh
+Siberian Husky,20862.3018,52.3304,13.0751,med,med,med,female,Garcia
+Beagle,8976.3773,35.6026,13.4359,low,high,med,male,Gonzalez
+Samoyed,22333.2254,54.1696,12.1908,low,med,med,male,Lewis
+Samoyed,33218.4312,52.7722,11.206,med,high,med,male,Nelson
+Samoyed,20521.1088,53.3864,9.7413,med,high,med,female,Mckinney
+Siberian Husky,21183.7771,56.1483,12.4563,low,med,short,male,Estrada
+Samoyed,19570.9046,53.0153,11.8351,med,high,med,female,Roach
+Golden Retriever,29016.5832,60.3705,11.1312,high,high,med,female,Vazquez
+Golden Retriever,28389.5376,60.2036,10.9053,med,high,med,female,Cox
+Siberian Husky,18007.1358,54.8999,11.2403,med,high,short,male,Thomas
+Golden Retriever,31529.4486,56.0542,11.1042,med,high,med,male,Smith
+Siberian Husky,16672.8777,53.8786,12.3487,med,med,med,male,Nichols
+Golden Retriever,26239.2938,,13.2152,med,high,med,female,Smith
+Siberian Husky,17107.9101,,12.7248,med,med,short,female,Jacobson
+Siberian Husky,17067.1811,54.669,12.2833,med,med,med,male,Wise
+Golden Retriever,34354.7332,57.7569,11.5265,med,high,med,male,Jones
+Samoyed,28835.7127,50.3305,11.0354,med,high,med,male,Stewart
+Samoyed,25083.9735,53.6589,10.8695,low,high,med,male,Frazier
+Beagle,8986.1352,34.3322,13.8167,low,high,short,female,Walsh
+Siberian Husky,20306.5101,56.5822,12.2882,low,high,med,male,White
+Golden Retriever,29338.9983,59.2598,10.2186,med,high,med,male,Green
+Golden Retriever,26716.8617,58.8512,9.3614,med,med,med,female,Hood
+Siberian Husky,19205.575,52.8478,12.0569,med,med,med,male,Hicks
+Golden Retriever,32051.2997,56.9238,13.124,med,high,med,female,Wade
+Siberian Husky,20333.2512,55.1056,11.9329,med,med,med,female,Stevens
+Golden Retriever,33323.8931,55.6954,10.9331,med,high,short,male,Edwards
+Golden Retriever,32754.2874,58.2344,10.7587,med,high,short,male,Harrington
+Siberian Husky,16115.6429,55.3054,12.238,med,med,med,female,Wilkerson
+Golden Retriever,33518.0487,58.7433,13.8452,med,high,med,female,Gregory
+Samoyed,22693.4865,52.7511,12.0464,med,med,med,male,Mcpherson
+Beagle,11391.3914,33.9663,14.3214,med,med,short,female,Rodriguez
+Beagle,11900.1833,36.3388,13.429,high,med,short,male,Payne
+Samoyed,21539.4465,54.0686,11.809,med,high,med,male,Blake
+Golden Retriever,35000.6034,58.2131,11.2564,low,med,med,male,Rogers
+Golden Retriever,28921.5974,58.2253,13.2518,med,high,med,female,Velez
+Samoyed,19100.8573,53.8001,11.3162,med,high,med,female,Mack
+Siberian Husky,16233.195,53.7322,12.166,med,med,med,male,Hamilton
+Siberian Husky,22482.6371,55.7275,12.064,med,med,med,female,Patrick
+Beagle,9951.5753,35.4717,13.0985,med,high,short,female,Ward
+Golden Retriever,26870.4743,59.3985,12.0028,med,high,short,female,Smith
+Golden Retriever,29309.0421,58.9111,11.5214,low,high,med,female,Jones
+Samoyed,27820.8411,49.0068,11.6579,med,high,long,female,Jimenez
+Samoyed,31104.6435,54.7268,11.6483,high,high,med,male,Williams
+Beagle,11658.2171,34.3226,13.7737,med,high,short,female,Stein
+Siberian Husky,19221.3445,55.9568,12.2864,med,high,med,female,Garcia
+Golden Retriever,29789.9225,58.003,11.2443,med,high,med,female,Fox
+Golden Retriever,27165.6789,55.7601,12.5444,low,med,long,female,Benitez
+Samoyed,24465.2716,55.3222,9.4747,high,high,med,female,Jackson
+Golden Retriever,29162.0853,,13.2174,med,high,med,male,Garcia
+Samoyed,25214.3374,53.8296,11.1714,med,high,med,female,Jimenez
+Golden Retriever,24056.3202,55.5735,11.5868,med,high,med,female,Robinson
+Beagle,10283.7138,,13.3127,low,high,short,female,Wood
+Samoyed,23418.5968,53.1274,10.4062,med,high,med,female,Powell
+Golden Retriever,29533.1605,58.5211,9.7635,med,med,med,female,Rice
+Samoyed,22512.1033,52.9868,11.7653,low,high,short,female,Lopez
+Golden Retriever,29736.1354,,13.0534,low,high,med,female,Roberson
+Golden Retriever,27830.7307,56.4122,12.2574,med,high,med,male,Fields
+Samoyed,24461.9578,53.7019,12.2298,high,high,med,male,Joseph
+Golden Retriever,26987.1866,55.8884,10.9174,med,high,med,female,Smith
+Siberian Husky,20585.6366,55.8546,11.2075,med,med,med,female,Smith
+Siberian Husky,19623.2124,,12.4844,med,med,long,female,Perkins
+Golden Retriever,30409.2457,,11.8835,high,med,med,male,Long
+Samoyed,27025.7373,51.1721,9.9888,med,high,short,male,Miller
+Golden Retriever,30541.9529,54.7737,12.569,med,high,med,male,Miller
+Siberian Husky,20157.4625,58.1741,12.6135,med,high,med,male,Sanders
+Beagle,9302.3917,37.5119,14.0292,med,high,short,male,Fitzgerald
+Samoyed,24574.9188,56.0305,11.0582,med,high,med,female,Mueller
+Siberian Husky,17615.4444,51.9185,12.6823,med,med,med,female,Davis
+Beagle,8240.8065,,15.3273,med,high,short,male,Faulkner
+Samoyed,27183.2945,53.7369,12.2054,med,high,med,female,Gonzales
+Samoyed,23283.8394,52.6145,11.1915,low,high,med,female,Wade
+Golden Retriever,28530.4618,59.9432,13.1214,med,high,med,female,Myers
+Samoyed,17927.6703,55.134,10.9676,high,med,long,male,Moore
+Samoyed,22956.5787,54.9296,10.8662,med,high,med,female,Howard
+Golden Retriever,23113.4471,57.3405,10.4711,med,high,med,female,Johnson
+Samoyed,26426.2451,53.0999,11.1334,high,med,med,male,Jones
+Beagle,10393.4508,35.376,14.3307,med,high,short,female,Hardin
+Golden Retriever,33505.3252,57.9942,12.1726,med,high,med,female,Jones
+Siberian Husky,17419.1517,56.9254,12.38,med,high,long,male,Henry
+Beagle,9481.1673,34.7959,14.268,med,med,short,male,Gilbert
+Samoyed,26787.2441,54.0092,10.7187,med,high,med,male,Howard
+Golden Retriever,33988.1132,60.5428,11.5051,med,high,long,male,Harris
+Siberian Husky,21032.5777,53.4701,10.2657,med,med,med,female,Boone
+Golden Retriever,31395.7904,55.9576,10.6522,med,high,med,male,Fletcher
+Beagle,10958.3945,,13.691,low,high,med,female,Daniels
+Siberian Husky,17852.0945,59.1586,12.0474,med,med,short,male,Rodgers
+Samoyed,22504.9319,53.1469,10.9844,med,high,short,male,Hansen
+Golden Retriever,33950.6697,58.198,10.7172,low,high,med,male,Boyd
+Golden Retriever,26990.1905,56.7115,11.3485,med,high,med,female,White
+Beagle,11107.234,38.5027,12.6228,med,high,short,male,Frey
+Siberian Husky,17047.9154,54.4227,11.7644,med,med,med,female,Harrington
+Samoyed,18495.8364,,10.7898,med,high,med,male,Lopez
+Siberian Husky,20701.8883,55.9362,11.8426,med,med,med,female,Bass
+Beagle,11112.2021,,13.9896,med,med,short,male,Thompson
+Siberian Husky,19386.0079,55.6459,12.4843,med,med,med,male,Davis
+Siberian Husky,18433.3268,49.0901,11.5058,med,med,med,male,Alvarez
+Beagle,12043.3746,34.2757,13.8555,med,high,short,female,Cooley
+Samoyed,28046.7412,53.2433,11.7879,low,high,short,male,Arroyo
+Samoyed,18968.6992,54.1757,10.5285,med,med,med,female,Hart
+Beagle,11516.2537,34.7483,13.4048,med,med,short,male,Morse
+Beagle,8008.2129,33.8888,14.4583,med,high,short,male,Herman
+Beagle,14291.3438,,15.4562,med,high,short,male,Harris
+Golden Retriever,31709.2833,59.5161,12.4115,med,high,short,female,Reese
+Samoyed,29041.8216,,11.2419,low,high,med,female,Walter
+Beagle,9410.3769,35.886,14.7893,low,high,short,male,Lewis
+Siberian Husky,23633.1174,57.1038,12.7253,low,med,long,female,Black
+Siberian Husky,16779.5496,52.4883,12.9169,med,med,med,male,Russell
+Beagle,11697.1954,35.4738,14.2167,med,high,med,male,Eaton
+Golden Retriever,29785.3402,60.5285,10.99,med,high,long,male,Snyder
+Samoyed,26816.4098,54.3916,11.4804,high,high,med,female,Smith
+Samoyed,21459.0134,53.4376,10.1988,med,high,med,male,Smith
+Beagle,9964.9706,33.8395,14.2182,med,high,short,male,Thompson
+Siberian Husky,20403.128,52.5564,12.1855,med,med,med,female,Wilson
+Siberian Husky,19032.8992,53.6073,11.2877,med,high,med,male,Rice
+Beagle,10792.4135,36.3092,13.4956,med,high,short,female,Ayala
+Golden Retriever,28821.0522,59.7438,12.0381,high,high,med,female,Steele
+Samoyed,21589.2017,51.9284,10.9607,high,high,med,male,Rodriguez
+Golden Retriever,30625.1282,59.0115,12.0948,med,high,med,female,Baird
+Siberian Husky,19550.3665,55.235,12.7227,med,low,med,male,Shields
+Samoyed,20458.4448,,10.6251,med,med,med,female,Thomas
+Samoyed,22854.3811,54.4099,10.3416,med,med,short,female,Turner
+Samoyed,24864.061,54.6278,11.2131,med,med,long,female,Medina
+Golden Retriever,33658.933,58.909,10.7662,med,high,med,male,Peters
+Samoyed,27820.6912,52.8393,11.2118,med,high,med,female,Solis

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Dalmatian,26000.1636,48.0,13.1674,high,high,short,male,Cervantes
+Dalmatian,25349.6088,48.0,12.7093,high,high,short,male,Ingram
+Dalmatian,21661.385,48.0,12.7355,high,high,short,male,Pruitt
+Pug,7208.9884,31.7781,11.5434,med,high,short,female,Nelson
+Samoyed,16966.5098,53.1132,10.4988,med,high,med,male,Gibson
+Bearded Collie,25357.7161,53.8227,13.5978,high,high,long,female,Lawson
+Bearded Collie,23060.2613,52.9419,12.9344,high,med,long,female,Schultz
+Bearded Collie,20084.8519,,12.4875,med,high,long,male,Sawyer
+Samoyed,24632.3694,51.8431,10.0244,med,high,med,male,Thomas
+Samoyed,22167.9044,,11.8186,med,high,med,female,Young
+Samoyed,19606.1971,53.0338,11.387,med,high,med,female,Compton
+Bearded Collie,20135.4426,53.7083,12.5455,med,high,long,male,Jeremiah
+Pug,5814.3618,,14.2463,med,high,short,female,Keith
+Samoyed,23953.4698,50.1597,10.6207,med,high,med,male,Merritt
+Dalmatian,24706.7898,48.0,13.7757,high,high,med,female,Smith
+Dalmatian,21032.9741,48.0,13.9535,high,high,short,female,Horn
+Pug,6600.0326,,12.9309,med,high,short,male,Chavez
+Bearded Collie,19307.3258,,12.3656,high,high,long,male,Bailey
+Pug,8105.0111,34.6583,14.2405,med,high,med,female,Franklin
+Samoyed,17963.9034,54.257,11.3172,med,high,med,female,Joyce
+Dalmatian,23373.7558,48.0,13.0063,high,high,short,female,Meyer
+Samoyed,24014.4595,,11.3062,med,high,med,male,Kennedy
+Samoyed,22637.2716,52.539,9.836,med,med,med,female,Clark
+Pug,7108.0848,,15.6931,med,high,short,female,Wilson
+Bearded Collie,21213.6243,53.5323,13.2409,high,high,long,male,Scott
+Samoyed,31226.5773,53.3037,11.1378,low,high,med,male,Jones
+Bearded Collie,18825.577,52.9775,13.9151,high,high,long,male,Torres
+Bearded Collie,18676.4326,52.7202,13.2092,high,high,long,male,Walker
+Bearded Collie,22987.045,54.5767,12.8718,high,high,med,female,Mcgrath
+Bearded Collie,20943.2849,50.6523,13.7412,high,high,long,female,Rodriguez
+Bearded Collie,24217.4142,55.3576,12.7734,high,high,med,male,Banks
+Dalmatian,25134.1585,48.0,12.5986,high,med,short,male,Ashley
+Dalmatian,24023.0689,48.0,11.6182,high,high,short,female,Hensley
+Dalmatian,24787.4552,48.0,13.8088,high,high,short,male,Nelson
+Samoyed,26785.3442,55.0241,11.0757,med,high,med,female,Mccormick
+Pug,6580.2908,,11.4786,med,high,short,female,Dean
+Bearded Collie,20079.567,51.6598,12.4722,high,high,long,male,Guzman
+Dalmatian,23008.1491,48.0,12.1042,high,high,short,female,Shaw
+Dalmatian,27741.7396,48.0,12.7501,high,high,short,female,Vasquez
+Pug,6670.494,,14.5724,med,high,short,male,Carpenter
+Dalmatian,21892.3914,48.0,13.2787,high,high,short,male,Blevins
+Bearded Collie,24867.3239,53.8384,12.74,high,high,long,male,Thomas
+Bearded Collie,25528.0949,56.4232,13.1473,high,high,long,female,Thompson
+Bearded Collie,19969.1982,54.0028,13.2812,high,high,long,male,Richards
+Samoyed,21174.0146,52.7595,11.7728,med,high,med,female,Herring
+Dalmatian,21845.89,,12.8366,high,high,short,female,Hodge
+Samoyed,29135.37,,11.491,med,med,med,female,Warner
+Samoyed,25274.9172,53.3468,10.6602,med,high,short,female,Duncan
+Pug,6609.9374,37.5661,13.7084,high,high,short,male,Mitchell
+Dalmatian,24417.7206,48.0,12.9066,high,med,short,male,Wright
+Samoyed,22037.1133,,10.6565,high,med,short,female,Robinson
+Dalmatian,23695.0945,48.0,13.4948,high,high,med,male,Barnes
+Samoyed,28608.6363,52.4431,11.6121,med,high,long,female,Price
+Dalmatian,23069.3065,48.0,11.6798,high,high,short,female,Prince
+Pug,6452.5522,,12.4771,med,high,short,male,Costa
+Bearded Collie,20222.423,51.5829,13.4506,high,high,long,male,Collins
+Dalmatian,21943.7813,48.0,13.1086,high,high,short,female,Bright
+Pug,6574.0462,31.6195,13.9133,med,med,short,male,Smith
+Pug,7058.4572,28.5523,11.7352,low,med,short,male,Nelson
+Samoyed,19091.5434,,11.5016,med,high,med,female,Pace
+Dalmatian,20767.1157,48.0,12.7047,high,med,short,female,Morris
+Bearded Collie,24488.0281,52.8757,12.902,high,high,med,female,Baldwin
+Pug,7385.3444,32.7913,12.1856,med,high,short,male,Thompson
+Pug,6404.0099,37.0445,13.9449,med,high,short,male,Doyle
+Bearded Collie,22712.3377,50.9593,13.5589,high,high,long,male,Smith
+Bearded Collie,26339.1141,53.1991,13.5635,med,high,med,female,Mitchell
+Dalmatian,23030.4069,48.0,12.6421,high,high,short,male,Collins
+Dalmatian,23800.5295,48.0,13.5796,high,high,short,female,Brown
+Samoyed,23846.4069,,10.7029,med,high,med,male,Pierce
+Pug,7567.7807,33.1395,13.1342,med,med,short,female,Sullivan
+Pug,6472.7197,32.6718,12.7123,med,high,short,male,David
+Dalmatian,23733.3061,,12.8732,high,high,short,male,Mcintyre
+Bearded Collie,18554.1406,,12.8537,high,high,long,female,Francis
+Pug,7069.396,37.6439,13.485,med,high,short,female,Zavala
+Pug,7331.1585,32.4749,15.0583,med,high,short,female,Rose
+Dalmatian,24117.0869,,13.0563,high,high,short,female,Munoz
+Samoyed,23274.0206,53.7296,10.9403,med,med,med,female,Swanson
+Pug,7232.2687,30.9278,14.2195,med,high,med,female,Collins
+Pug,6006.8952,,13.8166,med,high,short,female,Carson
+Pug,6246.7774,38.5071,13.2545,low,high,short,male,Graham
+Dalmatian,26102.4321,48.0,12.8974,med,high,short,male,Ryan
+Pug,7308.9492,31.9368,12.3747,med,high,short,male,Hines
+Dalmatian,24072.1384,48.0,13.6688,high,med,short,male,Evans
+Dalmatian,20915.2391,48.0,13.6321,high,high,short,male,Medina
+Pug,6638.6886,34.9804,13.5457,med,high,short,male,Hopkins
+Samoyed,20780.6493,52.4556,11.6285,med,high,med,female,Moore
+Samoyed,21841.3822,54.9054,10.8732,med,high,short,female,Gomez
+Dalmatian,23441.8758,48.0,13.6949,high,high,short,male,Barber
+Dalmatian,18908.262,48.0,12.5395,med,high,short,male,Mata
+Dalmatian,20941.7258,48.0,13.6909,high,high,short,female,Huynh
+Dalmatian,25307.1657,48.0,12.7806,high,high,short,female,Horn
+Pug,8235.0104,,13.1208,med,high,short,male,Smith
+Dalmatian,19511.7586,48.0,12.6561,high,high,short,male,Nguyen
+Bearded Collie,22253.7053,52.455,12.9865,high,high,long,female,Gonzalez
+Pug,6259.5663,31.1298,13.5628,med,high,short,female,Hamilton
+Dalmatian,21635.1279,48.0,13.0315,high,high,short,male,Davis
+Bearded Collie,22620.4598,51.9369,13.377,high,high,long,male,Fischer
+Pug,6800.41,31.3318,14.5733,med,high,short,female,Greer
+Samoyed,23625.2635,54.541,10.9649,med,high,med,male,Alexander
+Dalmatian,25057.3886,48.0,13.3586,high,high,short,female,Chavez
+Dalmatian,23549.3482,48.0,13.5217,high,high,short,female,Davis
+Bearded Collie,24781.7011,52.9683,12.9671,high,high,med,female,Brennan
+Samoyed,28211.7547,53.0996,10.663,high,high,med,male,Dorsey
+Dalmatian,22188.3592,,12.7215,high,high,short,male,Page
+Pug,7391.6768,29.9923,13.9409,med,high,short,male,Hood
+Samoyed,18740.2129,54.3777,10.6357,med,high,med,female,Harmon
+Samoyed,28612.8683,53.9524,10.7518,med,high,med,female,Alexander
+Dalmatian,23596.7577,48.0,14.0436,high,high,short,male,Mcdonald
+Pug,6010.7682,36.7011,13.0048,med,high,short,female,Maldonado
+Pug,5814.5631,38.5191,12.3768,med,high,short,female,Simmons
+Samoyed,18975.032,52.7162,10.8829,med,high,med,female,Schmidt
+Pug,7566.5006,30.2473,13.6269,med,high,short,male,Schwartz
+Samoyed,21514.1444,,11.1044,med,high,long,male,Bishop
+Samoyed,15149.4982,,10.9506,high,high,med,female,Hines
+Bearded Collie,21230.5949,55.0199,14.3726,high,med,long,male,Morgan
+Pug,8140.1288,29.8518,13.9008,med,high,short,female,Mcneil
+Samoyed,25173.4717,,10.1649,med,high,med,female,Ortega
+Bearded Collie,23602.7408,55.4942,12.8975,high,med,long,female,Sutton
+Samoyed,20716.3668,52.812,11.9737,med,high,med,male,Adams
+Dalmatian,23373.954,48.0,12.6941,high,high,short,female,Matthews
+Bearded Collie,26116.1918,52.0205,12.2517,high,high,long,female,Richardson
+Dalmatian,25243.8414,48.0,13.6476,high,high,short,female,Patton
+Pug,6951.5813,35.7572,12.4732,med,high,short,female,Andrade
+Pug,7132.4636,,14.7297,med,high,short,male,Rivera
+Bearded Collie,20878.1489,51.474,14.0763,high,high,med,male,Nelson
+Samoyed,23260.9635,56.0756,10.9848,med,high,long,female,Davis
+Pug,5924.0699,33.6902,14.5152,med,high,short,female,Middleton
+Bearded Collie,23125.2467,51.5501,12.7201,high,high,long,female,Sanchez
+Samoyed,20593.5327,52.8532,10.9361,med,high,med,female,Gray
+Bearded Collie,21673.6309,56.2523,14.1765,high,high,long,female,Li
+Dalmatian,22821.177,48.0,12.9827,high,high,short,male,Mendoza
+Samoyed,22444.0685,54.0714,11.7764,med,high,med,male,Anderson
+Bearded Collie,19640.3099,,12.9027,high,high,long,male,Williams
+Samoyed,24302.6516,55.3262,11.0868,high,high,med,male,Lewis
+Bearded Collie,22637.7087,54.6481,13.7261,high,high,long,female,Franklin
+Bearded Collie,24544.6179,53.7513,12.3802,high,high,long,male,Jordan
+Dalmatian,23480.3405,,13.5928,high,high,short,male,Hill
+Samoyed,22179.7537,,11.4258,high,high,med,female,Mccann
+Pug,6468.9585,32.0472,13.3101,med,high,short,female,Harvey
+Bearded Collie,18319.9418,49.8084,13.6202,high,high,long,male,Nichols
+Dalmatian,27171.72,48.0,11.7562,high,high,short,male,Arias
+Dalmatian,25446.9177,48.0,13.0145,med,high,short,female,Morse
+Pug,6993.7599,,14.0488,med,high,short,female,Wood
+Bearded Collie,25464.3645,,13.3286,high,high,long,female,Moore
+Pug,6753.712,30.3635,13.4032,low,high,short,male,Hughes
+Samoyed,23372.6444,53.5262,12.2999,med,high,short,female,Lopez
+Bearded Collie,24295.5925,51.3832,12.6616,med,high,long,male,Jordan
+Dalmatian,22713.6717,48.0,12.5253,high,high,short,male,Miller
+Samoyed,22377.9187,51.465,11.2225,med,high,med,male,Sullivan
+Pug,6030.6354,27.9297,12.4249,med,high,short,female,Daniel
+Bearded Collie,22762.522,,13.3614,med,high,long,female,Nunez
+Samoyed,15911.1844,54.6803,12.493,med,high,med,female,Olson
+Bearded Collie,20471.144,52.9542,13.1212,high,high,long,female,Rivera
+Bearded Collie,24456.988,54.862,13.3957,high,high,long,female,Horton
+Dalmatian,25546.7779,48.0,13.1638,high,high,short,female,Miller
+Bearded Collie,22743.9754,53.9906,12.6697,high,high,med,female,Garcia
+Dalmatian,23762.6408,,11.7622,high,high,short,male,Johnson
+Dalmatian,23750.5837,48.0,14.5937,high,high,short,male,Brown
+Bearded Collie,23680.9285,,12.8318,high,high,med,male,Horn
+Bearded Collie,22346.7156,54.5847,12.7081,high,high,long,male,Howell
+Pug,7911.0881,,13.2461,low,high,short,female,Kemp
+Bearded Collie,25236.2914,50.8008,13.2655,high,high,long,male,Smith
+Pug,6934.5537,31.5238,14.325,high,high,med,male,Williams
+Samoyed,18116.8882,53.0878,10.5455,med,high,med,female,Hernandez
+Bearded Collie,18083.0826,,13.7942,high,high,long,male,Murphy
+Samoyed,29102.2559,53.9543,11.1688,med,high,med,female,Walker
+Samoyed,22931.2121,51.4122,10.9247,med,high,med,male,Rice
+Pug,6778.1413,,12.5048,med,high,short,female,Reynolds
+Samoyed,20426.9999,,11.7905,high,high,med,male,Webster
+Pug,8145.5787,31.2636,15.7208,med,med,short,male,Terry
+Dalmatian,27329.5119,48.0,12.389,high,high,med,female,Hernandez
+Bearded Collie,25948.505,51.5519,13.5306,high,high,long,female,Bryant
+Dalmatian,23733.7424,48.0,12.8702,high,high,short,male,Torres
+Samoyed,23531.2858,53.0198,11.5578,med,high,med,female,Hall
+Samoyed,22652.2009,,11.4452,med,high,med,female,Martin
+Samoyed,33306.0677,53.053,11.9332,low,high,long,female,Vargas
+Pug,7397.7392,33.8886,13.6148,med,high,short,female,Garcia
+Dalmatian,20556.8785,48.0,13.1147,high,high,short,male,Joseph
+Pug,6948.5228,26.0998,12.5888,med,high,short,male,Davis
+Pug,8011.1471,,14.5028,med,high,short,male,Franco
+Pug,7545.3568,31.028,13.857,med,med,short,female,Carlson
+Samoyed,19453.6516,,10.6759,low,high,med,male,Sean
+Bearded Collie,21146.3908,53.3997,12.8119,high,high,long,female,Simon
+Samoyed,19933.2386,51.8097,10.7023,med,med,med,male,Boyd
+Pug,7212.5798,,15.1349,low,high,short,male,Burton
+Samoyed,22540.7936,55.1229,11.6171,med,high,med,male,Fernando
+Samoyed,28736.6524,50.2855,10.7757,med,high,med,female,Hernandez
+Dalmatian,22798.4247,48.0,12.954,high,high,short,female,Holden
+Samoyed,19638.355,52.9212,11.1224,med,high,med,male,Lauren
+Samoyed,23263.5739,51.6552,11.5731,med,high,med,male,Eaton
+Samoyed,15223.4443,56.2219,11.5879,med,high,med,female,Castro
+Dalmatian,24363.4592,48.0,13.1968,high,high,short,male,Holloway
+Samoyed,21283.7006,53.5841,10.6605,med,high,med,female,Gilbert
+Pug,6266.7322,32.1983,15.2472,med,high,short,male,Alvarado
+Samoyed,26756.8333,51.5629,11.5271,low,high,med,male,Richardson
+Samoyed,19363.4877,,11.0241,med,high,med,male,Martin
+Dalmatian,24584.2834,,13.2701,high,high,short,female,Short
+Samoyed,21860.0452,52.9001,11.2035,med,high,med,male,Pham
+Dalmatian,25995.4085,48.0,12.5467,high,high,short,female,Molina
+Bearded Collie,23759.4644,53.0283,13.1512,high,high,long,female,Graham
+Samoyed,26948.9661,,10.4581,med,high,med,female,Tanner
+Pug,7733.6669,32.7252,14.5521,med,high,med,male,Callahan
+Dalmatian,23330.7243,48.0,13.0867,high,high,short,female,Williams
+Pug,6808.7429,31.331,14.0162,med,high,short,male,Thomas
+Bearded Collie,24828.4149,53.2025,13.9707,high,high,long,male,Cruz
+Bearded Collie,26938.9336,54.2461,12.731,med,high,long,female,Miller
+Bearded Collie,27813.4061,50.7824,12.7522,high,high,long,female,Carlson
+Dalmatian,24240.6184,48.0,12.8727,high,high,short,female,White
+Samoyed,28070.0713,55.7158,11.7347,med,med,long,male,Lee
+Bearded Collie,18860.7426,,13.7384,med,high,long,female,Smith
+Dalmatian,24692.7106,48.0,11.971,high,high,short,female,Hobbs
+Dalmatian,20563.4487,,12.9915,high,high,short,female,Bowman
+Dalmatian,24910.9553,48.0,14.7442,high,high,short,male,Roberts
+Samoyed,21147.2229,51.0344,12.1072,low,high,med,male,Rodgers
+Samoyed,19238.7678,54.6663,10.702,high,high,med,male,Nichols
+Pug,6669.3589,35.3979,12.5412,med,high,short,male,Hall
+Bearded Collie,24134.6626,55.168,13.6027,high,high,long,male,Hoffman
+Dalmatian,24655.9356,48.0,13.2561,high,med,short,male,Leah
+Samoyed,18808.5935,,10.4075,med,high,med,male,Erickson
+Samoyed,21997.8248,51.023,10.0886,low,high,short,female,Owen
+Pug,7213.5421,,14.9409,med,high,short,male,Rojas
+Dalmatian,25151.6847,48.0,13.2825,high,high,short,female,Wallace
+Samoyed,28363.7133,53.422,10.6013,med,high,med,male,Wilson
+Dalmatian,23425.2622,48.0,12.4149,med,high,med,female,Glover
+Dalmatian,27067.8381,48.0,13.8271,high,high,short,male,Crawford
+Pug,7079.7663,36.8537,12.7919,med,high,short,female,Spencer
+Dalmatian,23564.278,48.0,13.5867,high,high,short,female,Rodriguez
+Dalmatian,21525.8197,48.0,13.9157,med,high,short,female,Alvarez
+Pug,7473.5138,30.8916,14.263,med,high,short,female,Garcia
+Dalmatian,22621.3343,,11.545,high,high,short,female,Wiggins
+Samoyed,26026.3239,56.1017,11.3648,med,high,med,female,Brown
+Pug,6079.0863,35.1552,12.0234,med,high,short,female,Mark
+Pug,7768.7572,,14.0385,med,high,short,male,Fisher
+Bearded Collie,26818.5909,,13.8099,high,med,long,male,Watkins
+Dalmatian,24352.4508,48.0,13.3624,med,high,med,female,Hawkins
+Bearded Collie,19972.1394,48.9522,13.6204,high,high,long,female,Reese
+Dalmatian,20238.467,48.0,12.4882,high,high,short,female,Thomas
+Bearded Collie,23160.9121,55.5456,13.0701,high,high,long,female,Johnson
+Dalmatian,23188.9826,48.0,12.6598,high,high,short,female,Rangel
+Pug,7387.5183,32.2782,15.4721,low,high,short,male,Rose
+Dalmatian,23055.504,48.0,12.2638,high,high,short,male,Garcia
+Dalmatian,19042.4729,,12.6234,high,high,short,female,Atkinson
+Dalmatian,24970.2784,48.0,12.3289,high,high,short,male,Harris
+Bearded Collie,23051.7256,50.8967,12.857,med,high,long,female,Petersen
+Samoyed,20155.6485,51.9661,11.1094,med,high,med,male,Graves
+Pug,6134.9447,,14.39,med,high,short,male,Adkins
+Dalmatian,24947.3475,48.0,13.0304,high,high,med,female,Williams
+Bearded Collie,22963.9567,,12.5001,high,high,long,male,Delgado
+Dalmatian,24437.0636,,12.4284,high,high,short,male,Choi
+Pug,7694.5831,35.0253,14.0164,med,high,short,male,Peterson
+Bearded Collie,27765.9883,,12.8807,high,high,med,female,Cox
+Pug,6535.846,27.97,14.769,med,high,short,male,Mary
+Pug,7071.8149,34.0828,15.0948,med,high,short,female,Bender
+Pug,5970.122,35.793,14.3819,med,high,short,male,Martinez
+Pug,7919.567,35.576,13.2931,low,high,short,female,Jones
+Samoyed,24046.7583,,12.3611,med,high,med,female,Davis
+Bearded Collie,24388.279,55.1229,13.3244,high,high,long,male,Lewis
+Pug,7061.1722,37.7184,11.6887,med,high,short,male,Brown
+Pug,7341.6621,34.0104,12.9909,med,high,short,female,Mullen
+Bearded Collie,23637.0693,52.2868,13.0979,high,med,med,female,Holden
+Samoyed,24626.7668,53.0065,11.4016,high,high,med,female,Mendoza
+Dalmatian,24685.7639,48.0,13.1451,high,high,short,male,Flores
+Dalmatian,22082.0474,48.0,12.764,high,high,short,male,Sloan
+Samoyed,18832.3713,53.7224,9.8433,med,high,med,female,Guerra
+Dalmatian,27144.7545,48.0,12.1834,high,high,short,male,Hoffman
+Bearded Collie,26048.6754,,12.8404,high,high,long,female,Morgan
+Dalmatian,24031.952,,12.9091,med,high,short,female,Potter
+Dalmatian,20411.7942,48.0,12.7797,high,high,short,male,Cole
+Pug,7516.4194,30.6722,13.1913,med,high,short,female,Cannon
+Dalmatian,25659.7468,,12.9379,high,high,short,male,Hughes
+Bearded Collie,18017.8486,52.235,13.7169,high,high,long,male,Taylor
+Dalmatian,24945.3241,48.0,12.3446,high,high,short,male,Jordan
+Pug,7264.4781,34.6334,13.6459,med,med,short,male,Nichols
+Bearded Collie,20627.1995,53.2526,12.1905,high,high,long,male,Vazquez
+Samoyed,19073.2576,54.0353,11.1818,med,high,med,female,Perkins
+Pug,6492.9404,,12.6973,med,high,short,female,Jones
+Dalmatian,25455.9233,48.0,12.4481,high,high,short,male,Bryant
+Dalmatian,21737.0257,48.0,13.2771,high,high,short,male,Giles
+Samoyed,17345.8314,52.4584,10.4527,med,high,med,male,Villegas
+Samoyed,17584.9399,52.6654,11.5877,med,high,med,female,Howard
+Pug,7355.7369,32.3598,13.5367,med,high,short,male,Pena
+Dalmatian,22528.1704,,13.1918,high,high,short,female,Buckley
+Pug,7803.1719,34.5991,12.973,med,high,short,female,Whitaker
+Samoyed,22993.6785,53.6069,12.1996,high,high,med,female,Cruz
+Pug,7136.2592,32.5881,13.6359,med,high,short,female,Potts
+Samoyed,22269.7415,52.5138,11.4331,med,high,med,female,Burton
+Pug,6889.3444,29.3572,13.8384,med,high,short,female,Chapman
+Bearded Collie,18818.0598,54.0927,13.3628,high,high,long,male,Mckay
+Samoyed,24213.4375,,11.1194,med,high,med,female,Watson
+Pug,6979.6902,27.8893,12.3883,high,high,med,female,Trujillo
+Samoyed,21788.8162,53.3003,10.9814,low,high,med,female,Edwards
+Dalmatian,24283.0336,48.0,13.308,high,high,short,female,Peterson
+Samoyed,26269.9297,54.8404,11.3259,high,high,med,male,Rivers
+Bearded Collie,22607.5507,56.1459,12.317,high,high,long,male,Hubbard
+Bearded Collie,26912.9292,55.5403,12.8868,high,high,med,female,Cooper
+Dalmatian,22975.4842,48.0,12.2773,high,high,short,male,Donaldson
+Dalmatian,22551.5094,48.0,12.5778,high,high,short,male,Rodriguez
+Dalmatian,25392.554,48.0,13.7987,high,high,short,female,Smith
+Samoyed,17815.1434,50.8903,11.4045,med,high,med,male,Bradley
+Pug,6857.387,34.4485,14.3989,med,high,short,male,Lucas
+Bearded Collie,24898.1967,,13.2312,high,high,long,male,Roach
+Dalmatian,23359.8355,48.0,12.8824,high,high,short,male,Snyder
+Samoyed,25117.6977,53.507,10.7884,med,high,med,male,Price
+Pug,6957.9113,29.9324,12.4737,med,high,short,male,Sweeney
+Bearded Collie,20386.3242,54.903,14.6112,high,high,med,female,Ayers
+Pug,6890.7827,30.6929,12.4095,med,high,short,male,Lynn
+Pug,6934.2086,34.5429,15.0644,med,high,short,male,Schneider
+Bearded Collie,24427.313,52.723,12.0698,high,high,long,male,Paul
+Bearded Collie,21537.4975,55.0177,13.5267,high,high,long,female,Turner
+Bearded Collie,20181.62,55.9975,11.9708,high,high,long,female,Harris
+Bearded Collie,20230.176,54.5819,12.428,high,high,long,female,White
+Pug,7314.6348,34.5778,12.593,med,med,short,female,Patel
+Dalmatian,25311.6548,48.0,13.0464,high,high,short,male,Roy
+Dalmatian,24788.7247,,12.79,high,high,short,male,Cortez
+Samoyed,29537.8586,53.8477,10.9628,med,high,med,male,Pacheco
+Bearded Collie,17418.1854,,13.5891,high,high,long,female,Espinoza
+Pug,6443.2466,40.7109,13.4275,med,med,short,female,Gonzalez
+Bearded Collie,19240.131,52.7404,12.8327,high,high,long,female,Sanders
+Dalmatian,25608.372,48.0,12.5144,high,high,med,male,Key
+Samoyed,18596.0151,,10.8281,med,med,med,female,Mcclain
+Bearded Collie,23274.291,,12.8429,high,med,long,male,Carr
+Dalmatian,25148.7639,48.0,13.3266,high,high,short,male,Dyer
+Dalmatian,24076.2611,48.0,13.4257,high,high,med,male,Morales
+Samoyed,25830.9186,54.0566,11.0087,med,high,med,male,Barker
+Pug,6118.9749,38.7917,11.7113,med,high,short,male,Sherman
+Dalmatian,24524.1424,48.0,12.7991,high,high,short,female,Ramirez
+Pug,5903.7265,30.5164,12.7751,high,high,short,female,Rodriguez
+Bearded Collie,23930.1811,54.2314,12.8456,med,high,long,male,Jensen
+Pug,7933.2977,31.4766,14.224,med,high,short,female,Pierce
+Dalmatian,25678.1316,48.0,12.2402,high,med,short,female,Harper
+Dalmatian,27344.7594,48.0,13.5448,high,high,short,female,Thompson
+Bearded Collie,23665.8155,50.6993,13.4053,high,high,long,male,Jacobson
+Samoyed,22226.9788,,11.5016,low,high,med,female,Gomez
+Bearded Collie,25308.3584,,11.8615,high,high,long,female,Shaffer
+Samoyed,24511.6186,50.6125,10.6722,med,med,med,female,Marquez
+Samoyed,26591.417,53.9135,11.5494,med,high,med,female,Brown
+Pug,6894.238,32.5537,13.208,med,high,short,female,Thomas
+Pug,6107.6179,34.7593,14.5348,med,high,short,male,Ford
+Samoyed,22080.2465,55.2683,11.3491,med,high,med,male,Glover
+Dalmatian,22360.6744,48.0,12.9276,high,high,med,female,Alvarado
+Dalmatian,21454.6824,48.0,12.9972,high,high,short,male,Davis
+Pug,8031.2525,,15.0783,med,high,short,male,Gross
+Bearded Collie,21794.2924,,12.7262,high,high,long,male,Lowe
+Samoyed,20249.4421,55.1821,11.1363,med,med,short,male,Lee
+Dalmatian,22798.2762,48.0,13.7282,high,high,short,male,Castillo
+Dalmatian,25648.6799,48.0,13.8404,high,high,short,female,Burnett
+Pug,7453.5215,34.0796,13.7712,med,high,med,male,Daniel
+Bearded Collie,28277.3946,52.5623,12.9957,high,high,long,female,Turner
+Dalmatian,24775.4534,,12.6088,high,high,short,female,Garcia
+Pug,7039.9761,40.7542,13.0726,med,high,short,male,Guerra
+Samoyed,23275.2412,,11.3642,med,high,med,female,Harris
+Pug,7000.727,33.9328,12.9594,med,high,short,female,Anderson
+Dalmatian,23875.7915,,13.5665,high,high,short,male,Henderson
+Dalmatian,24934.8822,48.0,13.7233,high,high,short,female,Miller
+Pug,6695.9297,,13.8062,med,high,short,female,Hogan
+Dalmatian,25525.7453,48.0,13.5975,high,high,short,male,Cohen
+Samoyed,16211.825,52.331,10.8222,med,high,med,male,Ashley
+Dalmatian,20979.059,48.0,11.917,high,high,short,male,White
+Dalmatian,21056.9804,48.0,14.202,high,high,short,male,Weber
+Bearded Collie,25236.9033,55.3232,13.2841,high,high,long,female,Cochran
+Samoyed,24682.0396,51.9616,10.8954,med,high,med,male,Harvey
+Pug,6654.1179,36.1585,15.9213,low,high,short,male,Kelley
+Samoyed,15308.1959,53.7254,10.4652,med,high,short,female,Walker
+Dalmatian,20396.9874,48.0,12.2214,high,high,short,male,Sandra
+Bearded Collie,19005.9305,50.716,13.1522,high,high,long,male,Martin
+Dalmatian,23453.6954,48.0,13.1162,high,high,short,male,Marks
+Samoyed,25155.136,54.6656,11.9295,high,high,med,male,Young
+Bearded Collie,30979.4176,50.6147,12.7912,high,high,long,male,Young
+Dalmatian,21341.6393,48.0,13.2563,high,high,short,male,Scott
+Bearded Collie,21383.1523,,12.6791,high,high,long,male,Livingston
+Bearded Collie,17409.0983,53.3036,12.5321,high,high,long,male,Pope
+Pug,6690.6512,37.4854,14.3552,med,high,short,male,Elizabeth
+Dalmatian,19271.449,48.0,13.6095,high,high,short,male,Vasquez
+Bearded Collie,22524.9101,54.0426,12.7457,high,high,long,male,Valdez
+Pug,6951.3728,28.8842,14.8035,high,med,short,male,Reese
+Samoyed,26762.0438,55.2163,10.8466,med,high,med,male,Young
+Dalmatian,21224.0129,,12.3735,med,med,short,male,Combs
+Samoyed,20096.9367,52.9345,10.4307,med,high,long,female,Green
+Dalmatian,22003.6773,48.0,12.3041,high,high,short,female,Hart
+Pug,7325.3183,30.8607,14.0407,med,high,short,male,Cole
+Dalmatian,22456.2456,,13.1746,high,high,short,female,Martinez
+Bearded Collie,21414.4474,57.5177,12.8922,high,high,long,male,Jones
+Bearded Collie,22285.2817,50.3729,12.9787,high,high,long,male,Cruz
+Dalmatian,24735.3847,48.0,12.5466,med,high,short,male,Duncan
+Samoyed,23494.3987,53.3059,10.4764,med,high,med,female,Mckay
+Pug,6739.9058,34.4263,14.3474,med,high,short,female,Payne
+Bearded Collie,22339.6217,54.4851,14.0012,high,high,long,male,Doyle
+Bearded Collie,17504.597,54.3036,13.8539,high,high,long,male,Hernandez
+Bearded Collie,22567.1836,50.3076,13.3098,high,high,long,male,Jacobs
+Pug,6895.6881,34.0346,14.8334,med,high,short,male,Gregory
+Dalmatian,22899.1508,48.0,14.0164,high,high,short,male,Rocha
+Samoyed,28240.4958,,10.4767,med,high,short,male,Wright
+Pug,6926.4535,36.4065,12.3976,med,high,short,male,Mcclure
+Samoyed,25186.9414,,10.9815,med,high,med,male,Ortega
+Pug,7784.5553,41.4784,12.4605,med,high,short,female,Garrett
+Dalmatian,20184.2659,48.0,12.8899,high,high,short,male,Smith
+Samoyed,23557.4093,52.7501,11.9275,med,high,med,male,Moore
+Pug,7111.0376,31.8483,13.9908,med,high,short,male,Wright
+Bearded Collie,21106.4193,52.0684,12.3416,high,med,long,female,Carson
+Pug,6641.4894,33.3351,12.3722,med,high,short,male,Smith
+Dalmatian,22158.6086,48.0,12.68,high,med,short,female,Powell
+Dalmatian,24590.3946,48.0,13.7426,med,med,short,male,Bauer
+Samoyed,28825.7814,55.151,10.0176,med,high,med,female,Walker
+Bearded Collie,24860.5671,52.9782,13.5236,high,high,long,male,Walker
+Pug,7530.4665,30.8303,14.5231,med,med,med,female,Hernandez
+Dalmatian,23770.4169,48.0,13.0422,high,high,short,female,Smith
+Dalmatian,24534.0505,48.0,11.7901,high,high,short,female,Fuentes
+Pug,6825.7666,,15.3456,med,high,short,male,West
+Samoyed,24354.8687,54.9622,11.425,med,high,med,female,Robinson
+Pug,6673.5979,32.0001,13.197,med,high,short,female,Colon
+Pug,6532.7764,28.977,11.9558,med,high,med,female,Burke
+Samoyed,27588.5754,51.2171,9.687,med,high,med,male,Mendoza
+Samoyed,23457.3846,,10.4529,med,high,med,female,Lowe
+Bearded Collie,26602.5756,53.7676,14.0282,high,med,long,female,Hoover
+Bearded Collie,24481.1665,53.2736,13.3526,high,high,long,male,Adkins
+Samoyed,18283.3567,52.8536,10.9339,low,high,med,male,Chapman
+Dalmatian,23002.9733,48.0,12.4429,high,high,short,female,Molina
+Dalmatian,19536.4859,48.0,13.2958,high,high,short,male,Torres
+Bearded Collie,24860.018,50.4861,12.8051,high,high,long,male,Jones
+Samoyed,25379.7428,53.302,11.427,med,high,med,male,Williams
+Pug,6053.2583,31.8308,13.3545,med,high,short,male,Johnson
+Pug,6547.2612,31.1184,14.405,med,high,short,female,Patel
+Bearded Collie,25687.3112,54.1022,13.4462,high,med,long,male,Rodriguez
+Dalmatian,24215.9224,48.0,12.8681,high,high,med,male,Daniels
+Samoyed,15870.6469,51.6697,11.6859,med,high,short,male,Curry
+Bearded Collie,26780.0791,52.1831,13.9961,high,high,long,female,Zimmerman
+Bearded Collie,23962.7539,51.2984,12.8772,high,high,med,male,Haley
+Dalmatian,22011.121,,13.4372,high,high,short,female,Howard
+Pug,6550.742,32.9687,13.574,med,high,short,female,Baker
+Samoyed,27598.1405,54.8081,11.309,med,high,med,female,Burton
+Samoyed,20524.3255,56.2675,10.953,high,high,med,male,Shah
+Dalmatian,21999.7598,48.0,12.9524,high,high,short,male,Serrano
+Pug,6761.6626,28.5163,15.346,low,high,short,male,Mathis
+Dalmatian,20641.9957,48.0,12.1821,high,high,med,female,Jones
+Bearded Collie,22218.2059,52.9555,13.2908,high,high,long,male,Williams
+Dalmatian,25125.8264,48.0,12.7717,med,high,short,female,Stout
+Samoyed,28724.6467,55.0687,10.9483,high,high,med,female,Robinson
+Pug,7382.7896,32.2032,12.585,med,med,short,male,Guzman
+Dalmatian,24110.0177,48.0,13.1959,med,high,short,male,Rose
+Dalmatian,23207.7338,48.0,12.2414,high,high,short,male,Graves
+Bearded Collie,20215.6653,50.2218,11.8585,high,high,long,female,Burke
+Dalmatian,24580.3049,,13.5836,high,high,short,female,Kim
+Dalmatian,25471.7313,,12.948,med,high,short,male,Herring
+Bearded Collie,26920.7696,54.351,12.8329,high,high,long,female,Huynh
+Bearded Collie,19167.3581,,13.6212,high,high,long,female,Carroll
+Pug,6945.7625,32.3329,13.8957,med,high,short,female,Scott
+Pug,5890.2962,31.9025,13.2425,med,high,short,male,Austin
+Samoyed,23495.4699,,11.4098,med,high,med,male,Huff
+Samoyed,23799.7963,54.2394,12.0254,med,high,med,female,Scott
+Bearded Collie,22309.2513,,13.2931,high,high,long,male,Smith
+Samoyed,26876.8266,53.8326,11.2573,med,high,med,female,Johnson
+Bearded Collie,22645.9495,,12.6277,high,high,long,female,Mitchell
+Samoyed,20944.948,54.5386,10.8957,med,high,med,male,May
+Pug,6973.7212,31.7199,14.4652,med,high,med,female,Parker
+Pug,7942.1903,36.4104,13.281,med,high,short,female,Barnett
+Bearded Collie,20578.4923,53.0678,12.2216,high,high,long,female,Jones
+Dalmatian,23638.5118,48.0,12.9146,high,med,short,male,Hernandez
+Pug,6700.8841,34.3342,13.2475,med,high,short,female,Beck
+Pug,7067.1729,29.6912,13.1167,high,high,short,female,Miller
+Pug,5617.3098,26.3873,14.8451,med,high,short,female,Kramer
+Bearded Collie,18089.2579,54.6708,12.3673,high,high,long,female,Hicks
+Dalmatian,24050.8917,,13.8658,med,high,short,female,Caldwell
+Samoyed,24026.8769,52.469,11.6884,med,high,med,male,Olson
+Pug,6352.7548,,13.4997,med,high,short,female,Clark
+Pug,7172.5561,,12.8932,med,high,short,male,Hawkins
+Pug,6814.5743,35.2291,13.6398,med,high,short,male,Parker
+Bearded Collie,22454.5359,51.7933,13.4034,high,high,long,female,Palmer
+Dalmatian,25908.3714,,12.783,med,med,short,male,Drake
+Bearded Collie,21709.1719,54.0502,12.7207,high,high,long,female,Nelson
+Samoyed,25370.7263,52.6791,11.0355,low,high,med,female,Stewart
+Samoyed,27548.2994,52.4789,11.599,med,high,med,female,Johnson
+Bearded Collie,24796.0294,51.0443,12.753,high,high,long,male,Kennedy
+Bearded Collie,20430.6753,50.5997,12.0783,high,high,long,female,Ortiz
+Pug,6769.0721,,12.1436,high,med,med,male,Hahn
+Dalmatian,24606.0306,,14.0077,high,med,short,female,Francis
+Samoyed,24593.2191,53.9696,11.3396,med,high,med,male,Tucker
+Bearded Collie,24626.0785,56.3434,13.0461,high,high,long,female,Dean
+Bearded Collie,18885.4221,53.823,13.6414,high,high,long,male,Alvarez
+Bearded Collie,24778.5409,51.0722,12.6816,high,high,long,male,Kim
+Bearded Collie,23879.3643,52.4447,13.2292,high,high,long,male,Rogers
+Pug,6319.2499,,15.0713,med,high,short,male,Moore
+Dalmatian,26346.7657,48.0,13.5915,high,high,short,female,Jesse
+Pug,6856.3357,34.0,13.916,med,high,short,male,Coleman
+Samoyed,28647.9591,53.038,9.5604,med,high,med,male,Sanford
+Pug,6439.8328,35.5412,14.8092,med,med,short,female,Carrillo
+Samoyed,25472.9507,51.3799,11.4459,high,high,long,male,Mccoy
+Pug,7115.7765,34.2977,13.9696,med,high,short,male,Chandler
+Samoyed,19401.321,,9.8621,med,high,med,male,Russell
+Samoyed,21468.1946,56.005,11.8047,high,med,med,female,Tate
+Samoyed,30192.6886,51.6377,11.5721,high,high,med,female,Richards
+Samoyed,17758.8784,53.3384,12.3985,med,high,med,male,Ramirez
+Pug,7301.1749,,14.6487,med,high,short,male,Wood
+Dalmatian,26295.65,48.0,14.0582,high,high,short,female,White
+Samoyed,14139.4074,54.7739,11.3604,med,high,med,male,Butler
+Bearded Collie,19444.8239,54.9671,12.6656,med,high,long,female,Klein
+Pug,7315.7078,32.8123,12.4062,high,med,short,male,Garcia
+Samoyed,32315.0754,54.2002,10.916,med,med,med,female,Bryan
+Pug,6888.5946,32.6143,12.6265,med,high,short,female,Lane
+Pug,6675.7612,33.3149,12.8001,med,high,short,female,Soto
+Samoyed,21434.9362,,10.5332,med,high,med,male,Robertson
+Dalmatian,24362.1348,48.0,13.6665,high,high,med,male,Kemp
+Pug,7836.1394,31.8252,13.9408,med,high,short,male,Barnes
+Dalmatian,23496.5487,48.0,11.7638,high,high,short,male,Williams
+Samoyed,23389.2393,54.6142,10.9505,med,high,med,male,Newton
+Samoyed,21415.6011,52.8741,10.4513,med,high,med,male,Baxter
+Samoyed,21385.0417,55.1412,10.9236,med,high,med,female,Johnson
+Pug,6343.8611,34.8091,13.2767,med,high,short,male,Shelton
+Dalmatian,23238.3688,48.0,12.8268,high,high,short,male,Castillo
+Bearded Collie,21499.4991,52.5728,12.5343,high,high,long,female,King
+Bearded Collie,26408.7009,52.6033,14.1275,med,high,long,male,Bridges
+Dalmatian,18147.4527,48.0,13.8792,high,high,med,male,Moore
+Samoyed,28771.9493,52.7939,10.7728,med,high,short,male,Green
+Pug,6830.4946,30.313,13.0359,med,high,short,male,Mckee
+Dalmatian,24489.0132,48.0,13.4174,high,high,short,male,Fox
+Samoyed,21239.2824,52.3228,10.3632,high,high,med,female,Pearson
+Pug,6970.831,35.7597,12.0668,med,high,short,female,Doyle
+Samoyed,22330.072,51.5156,11.5861,med,high,med,male,Pace
+Pug,6804.1464,27.8289,11.9295,med,high,short,male,Potts
+Dalmatian,22682.6024,48.0,13.6716,high,high,short,male,Fox
+Samoyed,27359.6593,,10.1891,med,high,short,female,Hester
+Samoyed,18528.3451,52.0078,10.3001,med,high,med,male,Richards
+Dalmatian,23267.0839,48.0,13.1354,med,high,short,male,Walker
+Bearded Collie,20990.4757,54.2566,12.701,high,high,long,female,Brown
+Samoyed,19175.8846,,11.4724,med,high,med,female,Jackson
+Samoyed,26030.496,,11.291,med,high,med,female,Mason
+Samoyed,25710.5038,51.2734,10.0654,med,high,med,female,Oliver
+Bearded Collie,19467.6509,52.2915,13.5606,high,high,long,male,Nicholson
+Dalmatian,28530.7304,48.0,12.917,high,high,short,male,Johnson
+Pug,7444.4177,,12.7714,med,high,short,male,Jones
+Dalmatian,20519.8027,48.0,11.9077,high,high,short,female,Stark
+Pug,6647.3578,,13.3855,med,high,med,male,Williams
+Bearded Collie,20720.2007,,12.9863,high,high,long,male,Howell
+Dalmatian,22934.8181,48.0,12.9286,high,high,short,male,Richardson
+Dalmatian,25216.6816,48.0,12.3704,high,high,short,male,Williams
+Samoyed,22044.0453,54.9762,11.8578,med,med,long,male,Oconnor
+Samoyed,23300.4144,,10.2861,low,high,med,female,Jones
+Dalmatian,23903.7147,48.0,12.8494,med,high,short,female,Harris
+Dalmatian,21835.0419,,13.4854,med,high,short,female,Cannon
+Bearded Collie,24172.7811,55.5797,12.1886,high,high,long,female,Cox
+Bearded Collie,23036.1462,53.9002,13.388,high,high,long,male,Sosa
+Dalmatian,19795.5919,,12.6605,high,high,short,male,Williams
+Pug,6471.6451,,14.5575,med,high,med,male,Jason
+Samoyed,19865.9707,55.615,11.4668,med,high,med,male,Mack
+Pug,6774.0691,32.281,14.7932,med,high,short,female,Hernandez
+Pug,6099.2047,30.4733,13.8356,med,high,short,male,Foley
+Dalmatian,23969.8313,48.0,12.4546,high,high,short,female,Maddox
+Pug,7240.1196,31.9704,14.5921,med,high,short,male,Gibson
+Bearded Collie,26246.3999,54.7889,12.8734,high,high,med,female,Smith
+Dalmatian,24554.6994,48.0,12.8158,high,high,short,male,Bridges
+Dalmatian,22296.2364,,12.7514,med,high,short,male,Wallace
+Dalmatian,22326.8082,,13.2062,high,high,short,female,Cunningham
+Pug,7394.4184,,15.0541,med,med,short,male,Jones
+Dalmatian,23696.4611,48.0,12.5945,high,high,short,male,Holt
+Pug,5927.1633,,12.1332,med,high,short,female,Floyd
+Dalmatian,21998.8576,48.0,14.2342,high,high,short,male,Lewis
+Samoyed,21856.5917,57.0268,10.588,med,high,long,male,Chambers
+Pug,6376.4235,,14.5012,low,high,short,male,Brooks
+Bearded Collie,26492.9803,51.9949,12.483,high,high,long,female,Jenkins
+Pug,7317.4492,31.2738,12.7195,med,high,short,female,Baldwin
+Bearded Collie,14396.1024,,12.521,high,high,long,female,Thompson
+Bearded Collie,21394.8227,53.4566,13.3362,high,high,long,male,Knapp
+Bearded Collie,20075.1105,50.3555,13.966,med,med,long,male,Phillips
+Samoyed,21843.1737,55.1356,10.669,high,med,long,female,Brewer
+Dalmatian,26695.1376,48.0,12.8559,high,high,short,male,Lee
+Dalmatian,20610.1279,,12.1457,high,high,short,female,King
+Samoyed,24967.8273,,12.0905,med,med,long,female,Guzman
+Dalmatian,23549.7182,48.0,13.0452,high,high,short,male,Oneill
+Dalmatian,25683.2934,48.0,12.3972,high,high,short,male,Lee
+Samoyed,26926.5169,55.0664,10.3336,med,high,med,male,Cummings
+Dalmatian,22230.708,48.0,12.1107,high,med,short,female,William
+Pug,7630.2555,36.8293,13.9102,med,high,short,male,Carlson
+Bearded Collie,24354.8931,51.9255,13.5215,high,high,long,male,White
+Bearded Collie,18640.4306,53.5954,11.7141,high,high,long,male,Torres
+Pug,7767.6875,,13.541,med,high,med,female,Jenkins
+Dalmatian,25700.2865,,12.1342,high,high,med,male,Roberson
+Samoyed,25671.8244,52.818,11.5521,high,high,med,female,Henry
+Pug,7405.2339,38.4748,12.9375,med,high,short,female,Allen
+Dalmatian,23359.3285,48.0,14.1498,high,high,short,male,Clark
+Samoyed,24666.0716,53.3874,11.9971,med,high,med,male,Cruz
+Pug,7319.2824,37.0933,14.8015,med,high,short,male,Lindsey
+Dalmatian,23166.8994,48.0,13.1756,high,high,short,female,Perez
+Pug,7211.4898,30.6225,13.5813,med,high,short,male,Reed
+Samoyed,23357.8794,52.8324,11.4351,med,high,med,male,Morse
+Samoyed,18396.4154,54.9592,10.5716,med,high,med,female,Coffey
+Samoyed,24799.3075,54.3185,10.3748,med,high,med,female,Allen
+Samoyed,25370.9848,52.3036,11.8361,med,high,med,female,Li
+Pug,6138.9261,31.8058,14.157,med,high,short,female,Carlos
+Bearded Collie,21813.1376,52.6824,13.3392,high,high,long,male,Bradley
+Samoyed,19479.8679,,11.3282,med,high,long,female,Morris
+Pug,7133.5818,32.2979,13.8779,high,high,short,female,Dixon
+Dalmatian,25606.5824,48.0,14.0189,high,high,short,male,Martinez
+Bearded Collie,22022.8402,,12.5143,high,high,long,female,Rodriguez
+Samoyed,24503.4676,51.2858,11.2957,med,high,med,male,Cohen
+Dalmatian,24379.3913,48.0,13.0617,high,high,short,female,Duke
+Samoyed,23490.2553,52.972,10.3311,med,high,med,male,Henderson
+Pug,6760.6474,35.4437,11.4728,low,high,med,female,Gates
+Bearded Collie,16908.3561,50.8992,13.2063,med,high,long,female,Barron
+Dalmatian,25548.6781,48.0,12.6144,high,med,short,male,Navarro
+Dalmatian,19586.8404,48.0,12.8633,high,high,short,male,Rhodes
+Bearded Collie,23639.4365,54.2182,13.8993,high,high,long,male,Jason
+Dalmatian,26307.9197,48.0,14.2207,high,high,short,male,White
+Samoyed,25203.8171,52.3295,10.7225,med,high,med,male,Joseph
+Bearded Collie,25066.0261,56.559,12.6878,high,high,long,male,Thompson
+Pug,7199.7175,,12.829,med,high,short,male,Scott
+Dalmatian,22639.4948,48.0,12.0699,high,high,short,male,Gordon
+Dalmatian,23935.597,48.0,13.235,high,high,short,male,Holmes
+Pug,7214.4713,,13.1767,med,high,short,female,Lee
+Bearded Collie,21141.5275,55.1151,12.7312,high,med,long,female,Crawford
+Pug,6354.9313,,12.9434,med,med,med,female,Graham
+Dalmatian,26281.6352,48.0,13.7249,high,high,short,male,Delacruz
+Samoyed,21519.5703,51.1671,11.254,high,high,long,male,Brooks
+Bearded Collie,24145.7878,53.0666,13.8414,high,high,long,male,Garcia
+Bearded Collie,22466.1558,53.4063,12.9541,high,high,med,female,Middleton
+Dalmatian,22197.6078,48.0,13.0172,high,high,short,male,Jordan
+Samoyed,23324.8481,,11.4488,med,high,med,male,Brewer
+Dalmatian,22333.4543,48.0,13.0287,high,med,short,male,Weber
+Pug,6893.3058,35.7358,13.8478,low,high,short,female,Williamson
+Samoyed,25327.3608,,10.8443,med,high,med,female,Hardy
+Samoyed,31534.8998,,10.0471,med,high,short,male,Cabrera
+Dalmatian,23243.8295,,12.3039,high,high,med,female,Cooper
+Pug,7083.3945,31.1397,13.0502,med,high,short,male,Wise
+Dalmatian,24275.111,48.0,12.6138,high,med,short,male,Silva
+Dalmatian,18920.3408,48.0,13.5239,high,high,med,female,Watson
+Pug,7537.6174,36.5003,13.0232,low,high,short,male,Edwards
+Pug,6962.601,29.3967,12.6037,high,high,short,male,Gardner
+Pug,7328.2216,31.5341,12.5016,med,high,short,female,Burns
+Dalmatian,24771.5608,48.0,12.3712,high,high,short,male,Garcia
+Pug,7443.487,35.1322,13.3071,med,high,short,male,Pace
+Pug,7307.9783,38.2511,12.8659,med,high,short,female,Jones
+Dalmatian,20713.4361,48.0,12.6534,high,high,short,male,Everett
+Samoyed,25088.499,56.5448,10.3704,low,med,long,male,Mccoy
+Samoyed,21294.3798,54.2921,10.8911,high,high,short,male,Hall
+Pug,6889.2537,35.7041,11.8488,med,high,short,male,Perez
+Samoyed,23643.2145,53.8588,10.5063,med,high,med,female,Gallagher
+Bearded Collie,19615.3626,53.9935,11.3053,med,high,long,female,Jones
+Bearded Collie,20716.8518,52.572,13.1184,high,high,long,male,Brown
+Dalmatian,22982.8287,48.0,13.3135,high,high,short,male,Schwartz
+Pug,7379.5437,37.2016,13.1825,med,high,short,female,Ryan
+Samoyed,21589.2409,,11.6684,med,high,med,female,Sanchez
+Pug,8199.0091,,13.2547,high,high,short,female,Ray
+Bearded Collie,17371.8083,,13.6256,high,high,long,female,Wells
+Bearded Collie,21274.014,,12.4868,high,high,long,female,Swanson
+Dalmatian,22701.7011,48.0,12.1391,high,high,short,female,Booth
+Pug,6515.7991,31.3364,15.4658,med,high,med,female,Jimenez
+Bearded Collie,20259.0344,53.6177,13.3344,high,high,med,female,Bailey
+Samoyed,18857.9701,52.7831,10.8756,high,high,med,male,Adams
+Dalmatian,23398.7764,48.0,13.764,high,high,short,female,Meza
+Bearded Collie,22196.0494,51.8406,13.4557,med,high,long,male,Barber
+Dalmatian,22191.4442,48.0,13.2445,high,med,short,male,Osborne
+Samoyed,24270.7816,52.5977,12.0335,med,high,med,male,Mckenzie
+Pug,6844.6362,31.9005,12.7506,med,high,med,female,Lamb
+Pug,6996.3605,34.2667,14.0186,med,med,short,male,Lara
+Pug,6606.2938,26.8249,14.2524,low,high,short,male,James
+Samoyed,19895.6783,54.4913,10.1468,med,high,med,female,Cooper
+Samoyed,32557.8804,53.9913,12.1815,med,high,med,female,Berger
+Pug,7164.7236,34.5675,12.6485,med,high,short,male,Davis
+Dalmatian,24762.3416,48.0,13.3125,high,high,short,male,Lam
+Samoyed,19070.8479,,12.0392,med,high,med,female,Jordan
+Bearded Collie,25177.3688,53.5349,13.5861,high,high,long,female,Robinson
+Bearded Collie,19480.5567,,12.9337,high,high,med,male,Cochran
+Bearded Collie,25507.805,,13.1671,high,high,med,female,Martinez
+Samoyed,24548.3894,53.2193,11.2628,med,high,med,female,Rios
+Pug,6867.6897,34.3294,13.9547,med,high,short,female,Jacobs
+Samoyed,26582.5514,52.1935,11.1755,high,high,med,female,Lamb
+Bearded Collie,22336.1478,49.9507,12.6697,high,high,long,female,Johnson
+Dalmatian,25658.2902,48.0,12.5628,high,high,short,female,Marsh
+Dalmatian,21196.2097,,12.66,high,high,short,male,Moore
+Pug,6813.4498,,12.5859,med,high,short,male,Fox
+Samoyed,16162.1608,52.7463,11.484,med,high,med,female,Reed
+Pug,7633.0348,,13.3603,low,high,med,female,Perry
+Pug,6599.3152,32.6788,11.5355,med,high,short,female,Payne
+Bearded Collie,23168.3977,53.0725,13.1179,high,high,long,male,Duncan
+Bearded Collie,23751.7333,52.7472,13.277,med,high,long,male,Jones
+Dalmatian,22621.1264,,13.7894,high,high,short,female,Roberts
+Dalmatian,24229.6427,48.0,12.6541,high,high,short,male,Mendoza
+Dalmatian,27145.419,48.0,12.9854,high,high,short,male,Lucas
+Samoyed,20131.3269,,11.7332,med,med,med,male,Peterson
+Samoyed,28752.1308,53.8992,9.9449,med,high,med,male,Tyler
+Pug,7474.119,32.6,13.1351,med,high,short,female,Garcia
+Dalmatian,21018.5176,48.0,13.0692,high,high,short,female,Nguyen
+Bearded Collie,24785.0128,52.2017,13.415,high,high,long,female,Hernandez
+Dalmatian,23536.537,48.0,12.2735,high,high,short,male,Rodriguez
+Bearded Collie,26967.8836,52.8078,13.4714,high,high,long,male,Pena
+Pug,5616.0574,33.8615,14.6106,low,high,short,female,Porter
+Bearded Collie,23004.0389,49.6522,12.0152,high,high,long,male,Marquez
+Dalmatian,21517.9733,48.0,12.6343,high,high,short,female,Drake
+Bearded Collie,27963.7596,,12.0266,high,high,long,male,Lee
+Samoyed,20993.0048,,11.1806,low,high,med,male,Martin
+Dalmatian,22653.0614,48.0,13.0594,high,high,short,male,Cervantes
+Samoyed,22563.7519,53.5743,10.192,low,high,med,male,Vaughn
+Dalmatian,22472.0972,48.0,13.3952,high,high,short,male,Osborne
+Dalmatian,22069.4153,48.0,12.9624,high,high,short,male,Ingram
+Pug,6390.859,34.6725,13.4049,med,high,short,male,Meyer
+Dalmatian,23386.3401,,12.4343,med,high,short,female,Sanchez
+Samoyed,17697.1973,53.4555,10.7675,med,high,med,male,Adams
+Samoyed,20838.5455,,10.6233,high,high,med,male,Weber
+Pug,7751.6419,,13.9897,med,high,short,male,Holder
+Dalmatian,21822.2621,48.0,13.2492,high,high,short,female,Danielle
+Pug,6637.3687,,12.0131,med,high,short,male,Johnson
+Pug,6348.9948,25.0644,12.5783,med,high,short,female,Berry
+Dalmatian,25096.8271,48.0,13.45,high,high,short,female,Rogers
+Dalmatian,23738.1707,48.0,13.7953,high,high,short,male,Medina
+Samoyed,24036.6403,52.8421,9.9929,med,high,med,male,Potts
+Pug,7083.9022,33.0194,14.0911,med,high,short,male,Ramirez
+Samoyed,23714.2482,54.4989,10.7469,med,high,short,female,Brown
+Dalmatian,23435.6202,48.0,13.0221,high,high,short,female,Shea
+Samoyed,26768.1954,55.1463,10.6471,med,high,med,male,Gregory
+Samoyed,18590.8975,,10.6984,med,high,med,female,Burton
+Dalmatian,20373.6367,48.0,12.6623,med,high,short,female,Baker
+Bearded Collie,25581.0727,53.21,13.3629,high,high,med,male,Gonzalez
+Samoyed,18655.0668,53.2949,11.6327,med,high,long,male,Robinson
+Bearded Collie,21233.6822,51.656,12.7491,high,med,long,male,Martin
+Samoyed,23959.7589,,11.0447,med,high,med,male,Wright
+Dalmatian,23798.8429,,12.498,high,high,short,male,Edwards
+Bearded Collie,21808.9597,,13.6039,high,high,long,male,Tate
+Samoyed,15640.9526,52.5727,10.5522,med,high,med,female,Manning
+Bearded Collie,17950.0061,,13.0702,high,high,med,male,Harris
+Dalmatian,22066.9803,48.0,13.3306,high,high,short,male,Brown
+Pug,6451.408,34.3543,14.8441,med,high,short,female,Chang
+Samoyed,21129.3496,52.3078,10.823,med,high,med,female,Yates
+Samoyed,22896.2216,51.9722,11.8176,low,high,med,male,Ford
+Pug,7301.8144,33.6201,12.2278,high,high,med,female,Lee
+Pug,6944.462,33.6966,12.8187,low,high,short,female,Holloway
+Pug,6397.737,,12.8578,med,high,short,male,Walker
+Samoyed,26366.9592,53.0375,11.0547,med,high,med,female,Coleman
+Samoyed,19986.1698,54.7145,10.3058,med,high,med,female,Alexander
+Dalmatian,25109.4628,,12.1841,high,high,short,female,Neal
+Dalmatian,27441.4248,48.0,12.008,high,high,short,male,Thompson
+Pug,7883.3884,38.0381,12.9802,med,high,short,male,Fields
+Samoyed,26022.0688,53.0424,11.9611,med,high,med,male,Hammond
+Dalmatian,22111.2226,48.0,13.1155,high,high,short,male,Escobar
+Bearded Collie,21268.1899,51.7517,13.1215,high,med,long,female,Parsons
+Bearded Collie,21082.9033,,12.8002,high,high,long,male,Hendrix
+Dalmatian,20871.6126,48.0,13.5772,high,med,short,female,Gill
+Samoyed,22054.6507,54.6388,10.2802,med,high,med,female,Walters
+Pug,8062.9511,39.8926,13.656,med,high,short,male,Morris
+Bearded Collie,21909.3069,52.9161,13.6479,high,high,long,male,Tucker
+Samoyed,19956.8539,54.5131,9.8689,med,high,med,female,Jones
+Pug,7866.1766,34.1992,13.2194,med,med,short,female,Henson
+Pug,6717.3265,32.6455,13.3812,med,high,med,male,Murphy
+Pug,7277.6166,28.1911,12.9191,med,high,short,female,Farrell
+Samoyed,22676.1797,,11.3042,med,high,med,male,Webster
+Pug,6870.7228,31.3007,13.3596,med,high,short,male,Salas
+Bearded Collie,23418.0853,51.5476,14.9886,high,high,long,female,Mcdowell
+Bearded Collie,29063.8867,51.3047,13.4803,med,high,med,male,Mckinney
+Bearded Collie,27587.1197,,13.4384,high,high,med,female,Smith
+Dalmatian,22157.5917,48.0,12.7547,high,high,med,female,Baldwin
+Bearded Collie,27990.6193,,13.4194,high,high,med,male,Saunders
+Bearded Collie,15012.3382,51.0671,13.0939,high,high,long,male,Butler
+Bearded Collie,23186.4935,49.8271,13.3672,high,high,long,male,Simpson
+Bearded Collie,26673.6045,54.517,12.4519,high,high,long,female,Austin
+Bearded Collie,23201.5302,54.6163,13.348,high,high,med,male,Cortez
+Bearded Collie,26200.1644,52.7881,13.7376,high,high,med,male,Thompson
+Samoyed,28327.9123,51.8852,10.4374,med,high,long,female,Richard
+Pug,7018.5325,28.7393,13.6647,med,high,med,female,Shea
+Bearded Collie,19824.5524,55.3656,13.0498,high,high,long,male,Bryant
+Bearded Collie,28538.3707,55.8442,13.1185,high,high,long,female,Holland
+Bearded Collie,19877.4416,53.4318,12.9755,high,high,long,female,Nelson
+Bearded Collie,19477.1288,,12.9134,high,high,long,male,Smith
+Dalmatian,26879.5803,48.0,13.011,high,high,short,female,Simpson
+Pug,7587.3244,36.3418,14.3291,med,high,med,female,Taylor
+Samoyed,23367.1699,,12.1997,med,high,med,male,Phillips
+Bearded Collie,26213.918,51.7737,12.5121,med,high,long,female,Carroll
+Dalmatian,21935.7439,48.0,13.2215,high,med,short,female,Bradley
+Pug,6477.5287,32.8028,13.3595,med,high,short,female,Hernandez
+Dalmatian,19658.3386,48.0,12.656,med,high,short,female,Williams
+Samoyed,23141.0963,53.4687,11.5309,med,high,med,female,Smith
+Dalmatian,19352.6869,,13.0711,high,high,med,male,Williams
+Bearded Collie,23765.9373,54.5627,12.0513,high,high,long,female,Davis
+Samoyed,13548.5574,51.8495,11.5074,med,high,long,male,Fletcher
+Dalmatian,22955.4884,48.0,13.7892,high,high,short,male,Jones
+Dalmatian,21575.5993,48.0,13.3491,high,high,short,female,Meyer
+Samoyed,23905.8712,54.4705,11.3489,med,high,med,male,Black
+Samoyed,21142.5741,54.6931,10.2451,med,high,med,female,Wilson
+Pug,7288.0413,38.8572,12.35,med,high,short,male,Gomez
+Dalmatian,21947.8247,,13.183,high,high,short,female,Mason
+Dalmatian,19538.1474,48.0,11.9914,high,high,med,male,Bell
+Bearded Collie,22775.7974,50.6971,11.7058,high,high,long,female,Wilson
+Samoyed,19886.0713,55.1338,9.7658,med,med,med,female,Beck
+Bearded Collie,24227.8943,52.6517,13.4491,high,high,long,male,Vargas
+Pug,7676.8234,31.2076,12.9478,med,high,short,male,Ross
+Dalmatian,21578.9094,48.0,13.322,high,high,short,male,Wong
+Pug,7819.1676,30.8258,12.4541,med,high,short,male,Hutchinson
+Dalmatian,26141.5413,48.0,12.4259,high,high,short,female,Simmons
+Bearded Collie,25621.7864,55.3528,12.7875,high,high,long,male,Shannon
+Samoyed,26815.9984,,11.0131,med,high,med,female,Carlson
+Samoyed,25568.0855,54.0477,10.971,med,high,med,male,Weaver
+Pug,8174.8367,39.0434,14.3114,med,high,short,female,Jennings
+Pug,6913.5113,31.7374,14.01,med,high,short,male,Clark
+Dalmatian,19602.6951,48.0,12.6515,high,high,short,male,Cummings
+Samoyed,24606.5785,54.3651,11.2748,high,high,med,female,Stephens
+Pug,7147.1452,,13.642,med,high,short,male,Perkins
+Samoyed,21957.3664,52.1189,11.2518,med,med,med,female,Wood
+Samoyed,28568.0732,,11.5117,med,high,med,male,Brandt
+Bearded Collie,31334.1961,53.4053,12.6676,high,high,long,male,Rosales
+Bearded Collie,23888.8522,,14.2629,high,high,long,female,Garcia
+Bearded Collie,24081.065,50.8475,12.8416,high,high,long,female,Fitzgerald
+Pug,7272.7781,38.9485,13.1864,high,high,med,female,Parker
+Pug,7426.5028,33.5528,12.8375,med,high,med,female,Hubbard
+Dalmatian,18577.8033,48.0,13.3113,high,high,short,female,Vasquez
+Pug,6517.8618,39.641,14.1788,med,high,short,male,Green
+Samoyed,22579.5209,53.0146,11.3556,low,med,med,female,Campbell
+Dalmatian,19818.3974,48.0,13.1686,high,high,short,male,Watson
+Dalmatian,24441.4422,48.0,12.8771,high,high,short,female,Gonzales
+Samoyed,20534.523,53.1382,12.3118,med,high,med,female,Beck
+Pug,8065.4886,31.0338,13.2845,med,high,short,female,Martin
+Pug,8106.2029,32.92,13.4027,med,high,short,male,Spencer
+Samoyed,20852.028,52.3485,10.3975,med,high,med,female,Brown
+Pug,6837.5486,32.9562,12.2461,med,high,short,female,Mitchell
+Pug,5669.0543,34.9528,15.1794,med,high,short,male,Copeland
+Pug,6611.7997,,13.19,med,high,short,female,Black
+Pug,6429.2293,29.5092,15.7341,low,high,short,female,Douglas
+Samoyed,25637.9648,51.9862,10.2105,med,high,med,female,Warner
+Samoyed,18995.0173,52.3829,10.8073,med,high,med,female,Green
+Pug,6774.5541,31.0227,12.2424,med,high,med,male,Jones
+Bearded Collie,23734.6175,53.5831,12.4534,med,high,long,male,Rodriguez
+Samoyed,26456.4987,55.424,11.5865,low,high,med,female,Fisher
+Dalmatian,17761.7789,,13.7766,med,high,short,female,Gray
+Dalmatian,21698.6929,48.0,12.7701,high,med,short,male,Brown
+Pug,6818.1609,,12.0269,low,high,short,female,Ramirez
+Bearded Collie,22768.4789,52.8654,12.2609,high,high,long,male,Rodriguez
+Dalmatian,22044.3889,,14.0124,high,high,short,male,Shah
+Pug,7858.2121,,13.7231,med,high,short,female,Crawford
+Pug,6810.3181,,15.2928,med,high,short,male,Moore
+Pug,7225.3015,,13.9897,med,high,short,male,Wilson
+Dalmatian,25033.3206,,11.6671,high,high,short,female,Glass
+Pug,6298.6873,,14.2704,high,high,med,male,Jackson
+Samoyed,19487.3824,54.5143,10.2488,med,med,med,male,Jones
+Samoyed,20044.7045,52.1122,10.239,low,high,med,female,Rodriguez
+Bearded Collie,18918.8764,53.0135,13.282,high,high,long,male,Carpenter
+Pug,7413.9827,30.6963,12.8323,med,high,short,female,Yu
+Pug,6005.8256,31.4085,13.8969,low,high,med,female,Mcpherson
+Pug,7045.6339,36.8506,13.0616,med,high,short,male,Campbell
+Dalmatian,25175.6905,,12.2783,high,high,short,male,Ortiz
+Samoyed,20803.0405,52.3356,11.3054,med,high,med,female,Manning
+Pug,8128.3953,26.3898,14.6133,high,high,short,female,Patel
+Dalmatian,25608.2175,48.0,13.3486,high,med,short,female,Bennett
+Samoyed,23418.026,53.1228,11.0916,med,high,med,female,Smith
+Bearded Collie,24381.1767,51.9454,12.65,high,high,long,female,Estrada
+Pug,7157.9408,33.0265,12.4274,med,high,short,male,Booth
+Samoyed,23910.1728,54.0333,11.3383,med,high,med,female,Murray
+Pug,6978.6537,,14.5543,med,high,short,male,Harris
+Dalmatian,25422.8825,,12.278,high,high,short,female,Williams
+Pug,6751.8182,23.5525,13.3772,med,high,med,male,Jackson
+Bearded Collie,24549.2872,53.9857,13.107,high,high,long,male,Madden
+Samoyed,22524.5594,53.5247,11.2765,med,high,med,male,Long
+Dalmatian,24340.3444,48.0,12.5983,high,high,short,male,Jackson
+Dalmatian,20353.6894,48.0,13.1235,med,high,short,male,Jones
+Samoyed,24435.5073,55.9704,10.8318,med,high,med,male,Welch
+Pug,6775.0597,33.8169,12.2134,med,high,short,female,Newton
+Pug,7337.1975,38.3169,14.1188,high,high,short,female,Smith
+Samoyed,19644.1818,51.7298,10.5176,med,high,med,female,Miller
+Samoyed,26300.1442,51.9958,12.2269,low,high,med,male,Jimenez
+Samoyed,22220.4198,56.2089,11.2917,med,high,med,male,Gonzalez
+Bearded Collie,25172.6372,52.4237,13.1328,high,high,med,male,Trujillo
+Samoyed,16913.4035,,10.6948,high,high,short,male,Johnson
+Dalmatian,23978.1026,48.0,14.2112,high,high,short,male,Marquez
+Bearded Collie,20096.6724,53.9137,12.6736,high,high,long,female,Johnson
+Dalmatian,25640.6814,48.0,12.9549,med,high,med,female,Miller
+Bearded Collie,19449.566,52.4048,12.4712,high,high,long,male,Bell
+Pug,7251.8876,36.5017,12.1642,med,high,short,male,Cox
+Samoyed,23908.5431,54.4082,11.3936,med,high,med,female,Edwards
+Dalmatian,22312.0839,,13.3058,high,high,short,female,Mayo
+Samoyed,19944.4483,54.043,10.1473,med,high,med,female,Harris
+Bearded Collie,23047.0879,,12.6771,high,high,long,female,James
+Pug,6912.7268,30.1244,13.4122,high,high,short,male,Robinson
+Bearded Collie,21924.156,55.8298,12.5255,high,high,med,male,Lee
+Bearded Collie,23123.7633,48.366,12.7478,high,high,long,female,Reeves
+Samoyed,16232.4384,51.6538,11.3841,med,high,med,female,Rodriguez
+Pug,6708.9652,30.4527,12.4199,med,high,short,female,Bartlett
+Bearded Collie,20622.4666,,12.9212,high,high,long,male,Wood
+Samoyed,22270.4322,54.9561,11.7468,med,high,med,female,Lawrence
+Samoyed,25742.7287,53.3147,9.8143,med,high,med,female,Garcia
+Bearded Collie,21891.5441,53.4988,12.2265,high,high,long,female,Allen
+Bearded Collie,21815.2594,54.1801,13.0943,high,high,long,male,King
+Samoyed,21478.5686,56.4823,10.8568,med,high,med,male,Adams
+Dalmatian,20811.4063,48.0,13.7699,high,high,short,female,Hunt
+Pug,6091.8519,41.7591,14.1069,med,high,short,male,Miller
+Samoyed,16350.7666,54.9755,11.2597,med,high,med,female,Jackson
+Dalmatian,23679.5411,48.0,12.1994,high,high,med,male,Mendoza
+Pug,5679.0014,36.3467,13.6038,low,high,short,female,Watts
+Samoyed,19290.9196,52.3133,10.9412,med,high,med,female,Small
+Pug,5907.7631,,12.7299,med,med,short,male,Scott
+Dalmatian,25647.0378,48.0,12.5849,high,high,short,male,Wallace
+Bearded Collie,27103.096,,13.0812,high,high,med,male,Gray
+Pug,6733.9096,32.0102,12.8038,med,high,short,female,Quinn
+Bearded Collie,19499.3554,50.6595,12.1219,high,high,long,male,Jackson
+Dalmatian,19976.2328,,13.6482,high,high,short,female,Bush
+Samoyed,21417.1605,52.8427,10.2554,med,high,long,female,Gutierrez
+Dalmatian,24154.9112,48.0,13.4762,med,med,med,male,Cuevas
+Bearded Collie,24669.0304,55.2264,13.2806,high,high,long,female,Jones
+Samoyed,19548.1578,52.3152,10.9513,med,high,med,female,Diaz
+Bearded Collie,22742.9371,51.3812,12.6798,high,high,long,male,Gill
+Dalmatian,21886.3092,48.0,12.1553,high,med,short,male,Stokes
+Samoyed,18006.8256,53.6352,10.8361,med,high,med,male,Jones
+Pug,7465.6733,,13.3261,low,high,short,female,Hoover
+Pug,7276.756,29.4375,14.5905,med,high,med,female,Hernandez
+Bearded Collie,18898.0923,50.3622,13.5189,high,high,med,female,Pope
+Dalmatian,22732.108,48.0,13.0349,high,med,short,male,Willis
+Bearded Collie,26119.9774,53.6956,12.63,high,high,long,male,Sullivan
+Pug,7684.7475,29.971,14.344,med,med,med,female,Rogers
+Samoyed,23635.533,,10.6466,med,high,med,male,Reynolds
+Pug,7140.0807,32.3797,13.9495,med,high,short,female,Adams
+Samoyed,21576.9791,54.3741,10.6336,med,high,med,female,Sherman
+Pug,7394.8151,35.9754,13.5288,med,high,short,male,Jones
+Pug,6659.2145,26.9536,13.2554,med,high,short,male,Nguyen
+Samoyed,26277.8266,54.0693,10.0215,med,high,med,female,Gardner
+Dalmatian,22384.8916,48.0,13.8107,high,high,short,female,Lucas
+Dalmatian,19601.9121,48.0,13.1204,high,med,short,female,Hernandez
+Bearded Collie,25618.5104,50.4905,11.7978,high,high,long,male,Maddox
+Bearded Collie,25289.1705,,13.0692,high,high,med,female,Hernandez
+Pug,7905.819,35.8069,12.6729,med,high,med,female,Chen
+Bearded Collie,25674.5561,51.9095,12.9131,high,high,long,male,Johnson
+Dalmatian,24000.4533,48.0,12.7737,med,high,short,female,Warren
+Bearded Collie,16867.1193,50.1088,13.494,high,high,long,male,Wilson
+Bearded Collie,20875.7398,50.1648,12.0553,high,high,long,female,Vang
+Dalmatian,22003.4347,48.0,14.157,high,high,short,male,Barry
+Pug,7418.1872,31.4126,13.5772,med,high,med,female,Todd
+Samoyed,26928.5659,52.1333,10.7532,high,high,long,male,Kaufman
+Bearded Collie,21639.3349,51.6912,13.2617,med,high,long,female,Reed
+Pug,8121.2282,31.0386,13.0996,med,high,short,female,Allison
+Pug,6959.7158,29.7573,13.7683,med,high,short,male,Case
+Bearded Collie,21523.1469,52.2137,13.6081,high,high,long,female,Anderson
+Bearded Collie,20129.3376,,12.599,high,high,long,female,Jackson
+Dalmatian,24508.7436,48.0,13.7385,high,med,short,male,Russell
+Samoyed,21990.5877,52.022,10.4738,med,high,med,female,Cabrera
+Pug,6743.1584,,12.3845,med,high,short,male,Johnson
+Dalmatian,25074.2145,48.0,12.6756,high,high,short,male,Rodriguez
+Samoyed,12164.2741,,10.7863,med,med,med,female,Thompson
+Dalmatian,23437.7868,48.0,12.8723,high,high,short,female,Spears
+Bearded Collie,25112.7603,54.2855,12.9506,high,high,long,female,Lin
+Dalmatian,21705.1176,,13.5537,high,high,short,female,Lee
+Bearded Collie,20944.1386,,13.7318,high,high,long,male,Gonzales
+Samoyed,21908.8746,,11.7734,med,high,med,male,Jasmine
+Samoyed,21566.4994,54.3602,11.2062,low,med,med,female,Jones
+Bearded Collie,24283.3864,,12.5131,high,high,long,male,Munoz
+Pug,6388.1688,26.8878,12.9767,med,high,short,female,Mills
+Dalmatian,25026.9252,48.0,12.453,med,high,short,female,Richardson
+Dalmatian,24052.8042,48.0,12.3301,high,high,short,female,Peterson
+Samoyed,26994.3387,55.4596,10.9237,low,high,med,female,Zavala
+Bearded Collie,21038.3246,,13.4382,high,med,long,female,Hickman
+Dalmatian,24318.6022,,12.2888,med,high,short,female,Curtis
+Pug,8295.5654,32.1967,11.4217,med,high,short,male,Richard
+Samoyed,19011.9698,,10.2567,med,high,med,female,Hancock
+Pug,7040.306,36.3043,15.5011,med,high,short,male,Thomas
+Dalmatian,22493.446,48.0,11.8132,high,high,med,male,Davis
+Dalmatian,22468.5091,48.0,12.8116,high,high,short,female,Roy
+Dalmatian,20349.7156,48.0,13.2089,high,high,short,female,Anderson
+Bearded Collie,20009.7654,50.4115,13.2957,high,high,long,female,Braun
+Pug,7283.4382,36.2534,13.2076,med,high,med,male,Hoover
+Bearded Collie,17414.7877,53.8747,13.5711,high,high,med,female,Proctor
+Samoyed,29364.0673,52.7659,11.4357,low,high,med,male,Terry
+Samoyed,23323.3214,,10.6757,med,med,long,female,Hines
+Pug,6568.724,31.3306,13.8161,med,high,short,female,Everett
+Samoyed,22801.1188,54.7322,11.3553,low,high,med,female,Stein
+Bearded Collie,25416.1422,,13.0646,high,high,long,male,Hernandez
+Samoyed,15174.5053,51.738,10.1277,med,high,med,female,Barton
+Bearded Collie,19503.0231,53.5402,13.0386,high,high,med,male,Ford
+Dalmatian,23148.3025,48.0,13.112,high,high,short,female,Wallace
+Dalmatian,20093.2944,48.0,13.4979,high,high,med,male,Hall
+Bearded Collie,22914.6387,54.15,14.1725,high,high,long,male,Barrera
+Samoyed,25068.3335,53.5257,11.7054,med,high,med,male,Mcfarland
+Pug,6972.495,30.0527,14.2522,low,high,short,female,Gutierrez
+Dalmatian,19584.2294,48.0,12.9699,high,high,short,female,Henderson
+Dalmatian,24525.2475,,13.8257,high,high,short,male,Bond
+Dalmatian,28617.0125,48.0,12.5897,high,high,short,male,Shannon
+Dalmatian,20282.7927,,12.1554,high,high,short,male,Romero
+Dalmatian,25254.3848,,13.3304,high,high,short,male,Blair
+Bearded Collie,25257.56,55.8608,13.3178,high,high,long,female,Estrada
+Pug,6942.4308,29.4301,14.5852,med,high,short,male,Li
+Bearded Collie,25040.5784,53.8684,12.734,high,high,long,female,Carter
+Dalmatian,21936.4895,48.0,13.8656,high,high,med,female,Mcdonald
+Dalmatian,24419.3484,48.0,12.9924,high,high,short,male,Duncan
+Samoyed,19449.5615,54.8048,11.5471,med,high,long,male,Patterson
+Samoyed,22336.6882,55.0505,10.602,med,high,med,female,Curry
+Pug,6725.7679,,11.5582,med,high,short,male,Young
+Dalmatian,24387.2829,,12.3199,high,med,short,male,Acosta
+Pug,6517.5236,29.0685,13.2026,med,high,short,female,Strickland
+Pug,5943.5062,34.0903,13.2976,med,high,short,male,Robertson
+Bearded Collie,22908.819,54.6681,13.6524,high,high,long,female,Lee
+Dalmatian,21421.1999,48.0,13.0831,high,high,short,male,Hudson
+Bearded Collie,19482.4346,53.6993,13.8668,high,high,long,male,Morrison
+Dalmatian,24913.451,48.0,12.6547,high,high,short,male,Richards
+Bearded Collie,23289.5528,52.0761,12.4926,high,high,long,male,Olson
+Dalmatian,24672.9509,,12.3938,high,high,short,male,Ford
+Samoyed,16268.4747,53.6054,11.4847,low,high,med,female,Beasley
+Bearded Collie,22916.9708,54.3002,12.835,high,high,med,male,Park
+Pug,6034.0034,31.4235,13.985,med,high,short,male,Wood
+Pug,7192.8219,33.5821,13.6351,low,high,short,male,Smith
+Bearded Collie,23652.6164,,13.0378,med,high,long,male,Kelly
+Dalmatian,24058.4805,48.0,14.0822,high,high,med,female,Pollard
+Bearded Collie,16508.743,51.2142,13.148,high,high,long,male,Olson
+Dalmatian,21338.6026,48.0,13.7283,high,high,med,female,Bradley
+Samoyed,27831.9639,54.3675,11.4959,med,high,med,female,King
+Bearded Collie,25998.3406,54.217,12.6471,med,med,long,female,Ramirez
+Dalmatian,22545.8943,48.0,13.6413,high,high,short,female,Henderson
+Bearded Collie,19854.7072,,12.6744,high,high,long,female,Nguyen
+Pug,6300.4525,31.3447,11.9667,med,high,short,female,Perkins
+Pug,5888.2484,33.9857,12.8895,med,high,short,male,Carpenter
+Dalmatian,23141.5573,48.0,13.2052,high,high,short,female,Thomas

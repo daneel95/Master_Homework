@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Welsh Corgi,15553.065,27.5732,11.1234,med,high,med,female,Williamson
+Airedale Terrier,18116.4543,55.9956,10.9954,high,high,med,female,Jackson
+Boxer,29407.6213,58.5398,9.0808,high,high,med,male,Johnson
+Airedale Terrier,17922.7704,57.3623,11.0738,high,high,med,male,Vaughn
+Boxer,28187.1238,60.807,8.9752,high,high,med,male,John
+Airedale Terrier,22031.7612,57.5781,11.363,high,high,med,male,Nelson
+Airedale Terrier,19554.0325,57.7285,11.5673,med,high,med,male,Martin
+Boxer,27047.2541,60.0489,7.5672,high,med,med,female,Dennis
+Airedale Terrier,20817.3463,56.7394,12.0126,high,high,med,male,Paul
+German Shepherd,36085.2876,59.1752,11.0371,med,low,med,female,Logan
+Welsh Corgi,13496.2003,31.0318,10.7432,low,med,med,female,Green
+Welsh Corgi,10387.9316,,10.197,med,high,med,female,Thomas
+German Shepherd,34127.8396,60.2918,11.5912,med,high,short,female,Parsons
+Airedale Terrier,21364.3402,57.08,10.7457,med,high,med,female,Chavez
+Airedale Terrier,19735.2412,57.5842,11.4382,high,high,med,male,Brown
+German Shepherd,34506.1918,59.1267,10.8635,med,med,med,female,Lyons
+Welsh Corgi,14362.1603,26.7228,10.5454,med,high,med,female,Turner
+German Shepherd,36497.2805,60.9666,10.6039,med,med,med,male,Robinson
+German Shepherd,37389.6664,61.5739,9.9076,med,med,med,female,Goodwin
+Airedale Terrier,22723.6056,56.5959,11.1613,med,high,med,female,Smith
+Welsh Corgi,11084.0434,27.838,10.6832,med,high,med,female,Jackson
+Airedale Terrier,21581.5992,55.7117,12.439,high,high,med,female,Sanchez
+German Shepherd,34820.3082,60.435,11.0715,low,med,med,female,Vaughn
+Airedale Terrier,20357.1102,57.0972,11.5879,high,high,long,female,Owens
+Airedale Terrier,22591.1533,,11.7859,high,high,med,male,Berger
+Welsh Corgi,16058.801,27.3148,11.2455,med,high,med,female,Evans
+Boxer,20344.4047,56.2768,8.4444,high,high,short,female,Stewart
+Welsh Corgi,13415.8655,33.5593,9.9522,med,high,short,female,Robert
+Welsh Corgi,11040.2747,27.9417,10.2389,med,high,long,male,Walker
+Welsh Corgi,10040.8023,25.6392,11.6786,med,high,med,female,Brown
+Boxer,28508.9252,,9.8314,high,med,short,female,Contreras
+Airedale Terrier,20746.6396,56.4723,11.2179,high,high,med,male,Jacobs
+Welsh Corgi,13765.419,28.0217,10.4833,med,high,med,female,Morrow
+Boxer,30794.2715,58.0283,9.4393,high,high,short,male,Holt
+German Shepherd,35414.7138,60.8738,11.4696,med,med,med,male,Hernandez
+Boxer,34786.6939,56.5817,9.1228,high,high,short,female,Bullock
+Welsh Corgi,11992.4738,,9.7785,med,high,med,male,Coleman
+German Shepherd,34762.1059,61.7549,10.8468,med,med,med,female,Perez
+Airedale Terrier,19463.0964,57.003,10.1232,high,high,med,male,Hunter
+German Shepherd,38059.1185,62.1201,10.9578,low,med,med,male,Roberts
+Boxer,35644.6952,59.6526,9.8844,high,high,short,female,Fleming
+Airedale Terrier,21280.3117,56.582,11.9715,high,high,med,female,Watson
+Airedale Terrier,19583.5876,56.2148,11.1625,high,med,long,male,Smith
+Welsh Corgi,14599.7153,27.725,11.7882,med,high,med,male,Mckee
+Boxer,28841.2966,59.5482,8.551,high,high,short,male,Watkins
+Airedale Terrier,22122.4471,,10.6492,med,high,med,female,Lee
+Airedale Terrier,20834.007,,13.5239,high,high,short,female,Martin
+German Shepherd,33499.8307,,10.6967,high,med,med,female,Willis
+Airedale Terrier,19869.3999,57.555,11.6904,high,high,med,male,Burke
+Welsh Corgi,14081.7547,26.6566,11.0935,med,med,med,male,Gilmore
+German Shepherd,36995.1215,61.9519,11.3953,med,med,med,male,Fields
+Welsh Corgi,11976.3111,,10.8718,med,high,med,female,Baker
+Boxer,27211.0024,60.4876,9.5222,high,med,short,male,Maynard
+German Shepherd,37135.8499,57.6859,10.549,med,low,med,female,Cruz
+German Shepherd,33983.0138,59.6914,10.1991,med,med,med,female,Castaneda
+German Shepherd,35754.6227,61.0312,10.5523,med,med,med,female,Haas
+Airedale Terrier,20258.5266,57.4587,10.762,high,high,short,male,Holloway
+Welsh Corgi,12825.4463,24.5729,11.6215,med,high,med,female,Burns
+Welsh Corgi,14702.8725,28.0916,11.7697,high,high,med,male,Walters
+Boxer,26543.9532,,9.0873,high,high,short,male,Erickson
+Airedale Terrier,20293.8828,57.164,10.5655,high,high,med,male,Reed
+German Shepherd,38396.4873,60.6581,11.896,med,med,med,male,Ruiz
+Airedale Terrier,18704.7742,57.5742,11.4586,med,high,short,male,Reed
+Welsh Corgi,12921.645,24.1013,11.1804,med,med,med,female,Becker
+German Shepherd,34765.443,,10.743,low,med,med,male,Rodriguez
+Boxer,32412.0741,,9.3493,high,high,short,male,Adams
+Welsh Corgi,11599.2457,,12.1002,med,high,med,male,Frey
+German Shepherd,37896.6328,63.4783,10.7887,med,high,med,male,Marsh
+Airedale Terrier,21334.0915,,10.8196,high,high,med,female,Spencer
+Airedale Terrier,20529.7181,,9.8706,high,high,long,female,Harris
+Boxer,32565.7291,57.8282,9.815,high,high,short,female,Fowler
+Welsh Corgi,13468.6506,26.5403,10.7618,med,high,long,female,Villegas
+Welsh Corgi,11279.5453,30.4436,10.9844,high,high,med,male,Kendra
+Welsh Corgi,14241.6063,28.2494,11.3253,med,med,med,female,Williams
+Boxer,36151.7208,58.2382,9.9299,high,high,short,male,Harrell
+Boxer,27485.8785,57.6898,9.0142,high,high,short,female,Lopez
+German Shepherd,36245.6404,60.4827,10.8607,med,high,short,male,Valdez
+German Shepherd,37147.0248,64.8809,10.4633,med,med,med,female,Sanchez
+Welsh Corgi,15019.9278,31.8256,11.2207,med,high,long,male,Bryan
+Airedale Terrier,19858.9703,57.2694,11.6713,high,high,med,female,Williams
+Boxer,28941.332,57.6075,8.8658,high,high,med,female,Stevens
+German Shepherd,38840.4132,60.9697,10.2496,med,high,med,female,Garrett
+Boxer,24664.8046,57.9139,7.5842,high,high,short,male,Nelson
+Welsh Corgi,11459.3044,31.0645,11.0988,med,med,med,male,Butler
+Welsh Corgi,11521.622,27.8274,11.8641,med,high,med,male,Decker
+Airedale Terrier,16299.5616,,11.3013,high,high,med,male,Johnson
+Welsh Corgi,12076.0583,27.7781,10.906,high,med,med,female,Perez
+Welsh Corgi,14427.9758,29.6967,10.1583,med,med,med,female,Young
+Welsh Corgi,13688.0711,26.8563,10.8271,med,high,med,male,Padilla
+German Shepherd,36751.8294,62.0894,10.0074,med,med,med,female,Williams
+Airedale Terrier,20123.5823,56.4362,10.8017,high,high,med,male,Gonzalez
+German Shepherd,36869.6782,63.1502,12.3283,med,med,med,female,Stephenson
+Boxer,22819.9476,59.1452,8.9296,high,high,short,male,Morgan
+Boxer,27719.7466,60.6418,9.9188,high,med,short,male,Hopkins
+Boxer,29447.4094,58.1618,9.1563,high,high,short,male,Mullins
+Airedale Terrier,20626.2067,,12.153,high,high,med,female,Myers
+Welsh Corgi,13379.8492,26.6552,10.4913,high,high,med,male,Gordon
+Welsh Corgi,12393.4814,28.4018,11.2294,med,high,med,male,Leonard
+Airedale Terrier,21454.5462,57.1899,11.9487,high,high,long,female,Smith
+Welsh Corgi,14331.8897,28.6115,10.7963,med,high,med,female,Douglas
+Boxer,31174.3417,57.6183,8.8611,high,high,short,male,Obrien
+Welsh Corgi,14557.3618,27.7342,11.278,med,med,med,male,Harris
+Airedale Terrier,18523.4579,57.0484,11.9433,high,high,long,male,Carter
+Boxer,30770.3939,61.6784,8.708,high,high,short,female,Figueroa
+Welsh Corgi,13819.8514,28.4432,11.4007,med,high,med,female,Palmer
+Boxer,32031.8868,59.1498,8.2829,high,high,short,female,Johnson
+Boxer,36518.8624,58.9775,7.8635,high,high,short,female,Chavez
+Boxer,24483.1617,57.0635,9.7476,high,high,short,male,Miller
+Welsh Corgi,14234.8138,,10.7126,med,high,long,male,Green
+Welsh Corgi,15521.3082,32.102,11.7289,med,high,long,female,Gallagher
+Airedale Terrier,21131.3101,,11.1149,high,high,med,male,Frey
+Welsh Corgi,14362.0192,29.8198,11.0154,med,high,med,female,Tyler
+German Shepherd,32734.4966,,10.3304,med,high,med,male,Hernandez
+German Shepherd,35836.2416,63.7087,11.3908,low,med,med,male,Hull
+Welsh Corgi,14330.1662,27.615,11.4007,med,high,med,female,Hernandez
+Airedale Terrier,20462.3813,57.0564,11.4783,high,high,med,female,Johnson
+German Shepherd,36824.206,64.2766,10.1545,low,high,med,female,Vasquez
+Airedale Terrier,18742.238,57.1166,11.515,high,high,med,male,Cook
+German Shepherd,35857.1451,63.0101,12.0145,med,med,med,female,Green
+Welsh Corgi,13424.3385,31.4315,12.0264,high,high,med,female,Morgan
+Welsh Corgi,14977.8016,27.3036,11.0988,high,high,med,male,Huff
+Boxer,28297.6912,60.3685,8.7929,high,high,short,male,Ortega
+Boxer,27914.6474,58.9333,8.5961,high,high,short,male,Sullivan
+Boxer,28187.3048,58.0519,8.8501,high,med,short,male,Solomon
+Airedale Terrier,18691.7178,57.3186,9.9407,high,high,med,male,Mcdonald
+Airedale Terrier,20158.3185,57.7761,10.5195,med,high,med,female,Sandoval
+Boxer,26741.1874,58.927,8.3687,high,med,short,female,Chang
+Boxer,30380.9242,,8.244,high,high,short,female,Gonzales
+Boxer,29239.405,,8.9441,high,high,short,male,Small
+Airedale Terrier,20057.9216,57.3633,12.295,high,high,med,male,Nelson
+Boxer,28629.1855,58.8601,9.1516,high,high,short,male,Cooper
+Boxer,27926.8142,57.4206,8.5956,high,med,short,male,Gillespie
+Welsh Corgi,13097.1208,29.791,11.49,med,high,med,female,Malone
+Airedale Terrier,17301.0495,,10.5641,high,high,med,female,Jones
+German Shepherd,38268.459,59.5352,10.6759,med,med,med,male,Frye
+Airedale Terrier,20245.3043,,11.1493,high,high,med,male,Allen
+Welsh Corgi,14391.3848,,11.6559,med,high,med,female,Brock
+German Shepherd,35429.0741,59.3264,11.2768,med,low,med,male,Davis
+German Shepherd,36663.353,61.6479,10.265,med,med,med,male,Rose
+Airedale Terrier,22278.5468,56.0533,11.437,med,high,med,female,Miller
+Welsh Corgi,15854.4076,26.1644,11.4312,low,high,med,female,Espinoza
+Boxer,29210.3562,57.9348,8.8936,high,high,short,female,Nichols
+Boxer,34131.9463,58.9909,8.78,high,high,short,female,Smith
+Boxer,25176.4654,62.2442,8.6462,high,high,short,female,Williams
+Boxer,30131.8821,59.1054,9.6384,high,high,short,female,Smith
+German Shepherd,35459.4952,,9.7374,med,med,med,male,Burton
+Welsh Corgi,14390.1838,27.5303,10.0579,med,high,med,female,Kramer
+Airedale Terrier,20947.8467,,10.8223,high,high,short,female,Welch
+Airedale Terrier,21127.1697,55.8673,11.1764,high,high,med,female,Anthony
+Welsh Corgi,15825.3333,30.2187,9.7977,high,high,short,female,Holland
+German Shepherd,35592.8383,63.212,9.3818,low,med,med,female,Estes
+German Shepherd,34923.7878,60.5924,9.9083,med,med,med,female,Harris
+German Shepherd,35460.0419,58.1382,9.7733,med,med,short,male,Hall
+Boxer,31578.5833,,9.3844,high,high,short,male,Martin
+Boxer,26828.1974,,9.4583,high,high,med,male,Cabrera
+Welsh Corgi,12880.5995,27.3847,11.3073,med,med,short,male,Fitzgerald
+Airedale Terrier,20992.328,56.1137,12.0543,high,high,med,female,Williams
+German Shepherd,37381.8079,60.4956,11.0833,high,med,med,male,Jones
+Airedale Terrier,21128.2154,59.1041,10.789,high,high,med,female,Williams
+Airedale Terrier,18890.5331,56.696,11.0663,high,high,short,male,Smith
+Boxer,20923.6049,59.4316,8.8859,high,high,short,male,Howe
+German Shepherd,36463.8764,57.3504,11.3047,med,med,med,male,Williams
+Airedale Terrier,22530.9615,56.7257,11.7955,high,med,med,female,Hill
+Boxer,22183.5525,60.1005,9.9319,high,high,short,female,Williams
+Airedale Terrier,20635.7668,56.1729,11.1175,med,high,med,female,Johns
+German Shepherd,34721.6488,,11.7793,med,med,long,female,Santana
+Airedale Terrier,20317.9017,56.5504,11.0682,high,high,med,male,Collins
+Boxer,26918.8168,57.4505,8.7743,high,high,short,male,Keller
+German Shepherd,38683.8256,61.9594,12.1168,med,med,med,male,Thompson
+Welsh Corgi,14049.9914,27.1514,10.3219,med,high,med,male,Nelson
+Airedale Terrier,20840.2422,56.2284,11.5846,high,high,med,male,Lee
+Boxer,32200.5356,59.5753,9.2829,high,high,short,female,Cook
+German Shepherd,35405.0835,62.1257,10.957,low,high,med,male,Lewis
+Boxer,26117.6741,,9.3258,high,high,short,male,Alexander
+Boxer,19471.7305,58.9586,8.8648,high,high,short,male,Evans
+Boxer,31621.5551,57.7661,8.4492,high,high,short,female,Campbell
+Airedale Terrier,19571.8126,56.3443,11.9511,high,high,med,male,Melendez
+Welsh Corgi,13408.0341,,11.2627,med,high,short,male,Wise
+Boxer,25681.1636,59.2391,9.7361,high,high,short,male,Cohen
+German Shepherd,38758.2285,58.9233,11.0054,med,low,med,male,Spence
+Airedale Terrier,21389.5587,,12.7468,high,high,med,female,Thomas
+Welsh Corgi,9365.8579,32.3733,11.5063,med,high,med,female,Lopez
+Boxer,23962.9483,,9.2915,high,high,short,male,Adams
+Airedale Terrier,23282.2475,,12.226,high,high,short,male,Howe
+German Shepherd,37689.3446,63.7004,11.4948,med,med,med,male,Stuart
+Welsh Corgi,15132.135,33.1896,10.7912,high,high,med,male,Williams
+Welsh Corgi,13503.3002,31.1762,10.9957,high,med,short,female,Jenkins
+Welsh Corgi,12895.8662,,11.4207,med,high,med,male,Kelley
+Welsh Corgi,16261.9521,28.1608,10.9784,med,high,short,female,Richardson
+Airedale Terrier,20261.4088,56.9173,11.6214,high,high,med,male,Mckenzie
+Airedale Terrier,21063.9192,56.7907,10.082,high,high,med,female,Holmes
+German Shepherd,35879.9446,59.866,11.3493,med,low,med,male,Roberts
+German Shepherd,38079.2756,,10.7028,med,med,med,male,Hoffman
+German Shepherd,35149.8499,62.6972,12.0366,med,med,med,male,Jordan
+Boxer,28825.536,57.2153,9.3162,med,high,short,female,Dixon
+Welsh Corgi,14672.1069,,11.1809,high,high,med,male,Bonilla
+Welsh Corgi,12847.9491,28.0972,11.662,med,high,med,female,Munoz
+Boxer,27573.7089,59.265,9.0197,med,high,med,male,Valdez
+German Shepherd,37382.5551,62.0745,10.4639,med,med,med,female,Hill
+Welsh Corgi,13298.8034,24.8304,11.3793,med,high,med,male,Avery
+Boxer,37045.3541,59.5216,9.46,high,high,short,male,Hicks
+Airedale Terrier,20750.6064,57.7326,12.0401,high,high,long,female,Ballard
+Welsh Corgi,13640.8458,,10.2019,med,high,med,female,Perez
+Airedale Terrier,20457.9795,57.8356,13.2386,high,high,long,female,Jones
+Boxer,30487.6295,59.8591,10.0062,high,high,short,male,Herman
+German Shepherd,34514.5978,,10.5951,med,med,med,female,Sullivan
+German Shepherd,36298.8224,60.9364,11.1853,med,med,med,male,Moreno
+Boxer,30096.1445,61.2487,8.3893,high,high,short,female,Baker
+Boxer,22454.9304,58.4572,9.1261,high,high,short,male,Poole
+Welsh Corgi,11661.5655,,9.6659,med,med,med,male,Walter
+German Shepherd,35353.9345,,9.9586,med,med,med,female,Owens
+Airedale Terrier,20654.304,57.2554,11.6987,med,high,med,female,Brandt
+Boxer,25345.2627,54.9548,8.9389,med,high,short,male,Martin
+German Shepherd,38893.3714,61.0502,10.8146,low,low,med,female,Roberts
+Boxer,31054.4153,59.2533,8.7271,high,high,short,female,Lester
+Airedale Terrier,18773.3354,56.6134,11.9261,high,high,med,male,Miller
+Welsh Corgi,12606.4894,33.5751,11.0755,med,high,med,female,Mendoza
+German Shepherd,38428.7828,,10.4119,med,med,med,female,Thomas
+Boxer,28206.7749,58.6884,8.2842,high,high,short,male,Holland
+German Shepherd,37223.0736,57.7294,10.9278,med,med,med,male,Ingram
+Welsh Corgi,16101.7855,,10.2393,high,med,long,male,Cortez
+Airedale Terrier,22303.4926,56.0484,11.3567,high,high,med,male,Rowe
+Welsh Corgi,15213.1711,28.4855,11.5045,med,high,med,male,Barker
+German Shepherd,36966.9681,,11.445,med,med,med,female,Angel
+Airedale Terrier,19926.4436,57.197,12.5196,high,high,short,male,Bartlett
+Welsh Corgi,15012.5973,31.1894,10.6718,med,high,med,male,Silva
+Airedale Terrier,20974.6012,56.5229,11.7511,high,med,med,male,Williamson
+Boxer,32921.0365,,9.7629,high,med,med,female,Turner
+Airedale Terrier,20033.7849,56.2412,10.1376,high,high,med,male,Reed
+Welsh Corgi,15731.1842,26.7261,11.9466,med,high,med,female,Wilson
+Welsh Corgi,11968.8217,28.9458,11.0278,med,med,long,male,George
+German Shepherd,35689.3039,64.3107,11.6248,med,med,med,male,Gay
+Airedale Terrier,21543.471,56.2129,11.3267,high,med,med,male,Noble
+Welsh Corgi,10613.9929,27.6138,10.8981,high,high,med,female,Russell
+Welsh Corgi,11671.4534,30.5944,11.0426,med,high,med,female,Richard
+Welsh Corgi,13754.6598,28.3081,10.3633,med,high,med,female,Sosa
+German Shepherd,36147.0974,62.955,11.1332,med,med,med,male,Banks
+Welsh Corgi,13081.0641,30.7208,11.5361,med,high,med,female,Johnson
+Boxer,23357.1297,57.4477,9.3213,high,high,short,female,Herman
+Boxer,25961.7509,55.476,9.3228,med,high,short,female,Marsh
+Welsh Corgi,16405.1051,27.7117,11.4898,low,high,med,male,Mccall
+Boxer,26567.0555,60.9661,9.0433,high,high,short,male,Bray
+Welsh Corgi,14283.9078,28.1754,11.2306,med,high,short,male,Foley
+Welsh Corgi,14793.5217,32.2835,9.4854,med,high,long,male,Adams
+German Shepherd,34706.581,65.136,10.9564,med,med,med,male,Henry
+Welsh Corgi,14272.2272,29.0971,10.9523,med,high,med,male,Johnson
+Boxer,28329.4915,56.4492,8.8932,high,high,med,female,Brooks
+Airedale Terrier,21742.7369,57.4405,11.9875,high,high,med,female,Ross
+Boxer,26785.5483,56.717,10.7315,high,high,short,female,Pollard
+Airedale Terrier,18225.5462,55.9617,10.7533,med,high,med,male,Lang
+German Shepherd,39698.3052,60.9157,11.3859,med,med,med,female,Hicks
+Boxer,27982.8119,56.9439,8.9806,high,high,short,male,Kim
+Airedale Terrier,19978.2227,,12.2127,high,high,med,male,Johnson
+Welsh Corgi,14347.6986,29.4466,11.2705,med,high,med,male,Sullivan
+Welsh Corgi,13048.5961,25.3889,10.9721,low,med,med,female,Martin
+Welsh Corgi,13498.4115,29.6922,11.1901,med,high,med,male,Gallegos
+Airedale Terrier,16141.2724,57.0439,12.5143,high,high,med,female,Henderson
+German Shepherd,34169.1455,63.0536,11.0155,high,med,med,male,Anderson
+German Shepherd,39217.2807,62.3564,10.377,med,med,med,male,Cole
+Boxer,29430.4656,,9.8451,high,med,med,female,Holt
+Welsh Corgi,12814.7344,31.6379,10.0291,med,high,med,female,Lowery
+German Shepherd,37812.9455,62.4264,10.0057,med,med,med,male,Wood
+Boxer,31596.8102,55.2627,9.383,high,high,short,male,Hanna
+Airedale Terrier,20801.5505,56.7694,10.7274,high,high,med,male,Matthews
+Welsh Corgi,13098.5309,25.2886,10.975,med,high,long,male,Thomas
+Welsh Corgi,12396.0721,,10.6256,med,high,med,female,Velasquez
+Boxer,28155.0955,57.7393,9.5113,high,high,short,male,Ford
+Airedale Terrier,19742.9573,56.0883,12.1521,high,high,med,female,Miller
+Boxer,31240.7567,59.5117,8.418,high,high,med,female,Warner
+Boxer,25889.3347,,8.6433,high,high,short,female,Walter
+Welsh Corgi,18490.1973,29.7127,11.1149,med,high,med,male,Stone
+Boxer,21850.7276,54.8466,9.979,high,high,short,male,Parrish
+Welsh Corgi,15651.8401,32.4083,11.3395,med,high,med,female,Adams
+Airedale Terrier,20536.3768,57.5499,12.4426,high,high,med,male,Owen
+German Shepherd,36488.0915,57.5749,11.5476,med,med,med,female,Lindsey
+Welsh Corgi,13812.5276,31.7028,11.1295,med,high,med,male,Martinez
+Airedale Terrier,20703.2886,56.2033,9.7343,high,high,med,male,Strickland
+Welsh Corgi,14576.1121,,9.631,med,high,med,female,Ward
+German Shepherd,37794.5889,,12.1332,med,med,long,male,Wong
+Airedale Terrier,21359.8162,,12.039,high,high,med,male,Shepherd
+Welsh Corgi,11744.2394,30.3438,9.6025,med,high,med,male,Cooper
+Boxer,33556.7293,59.9266,8.8186,high,high,short,female,Buchanan
+German Shepherd,34573.7036,,11.9556,med,med,med,female,Weber
+Welsh Corgi,14567.0635,29.5461,10.8855,med,med,med,female,Romero
+German Shepherd,37455.7867,58.3429,11.0876,med,med,med,male,Holmes
+Airedale Terrier,21042.4943,57.7063,11.4926,high,high,med,female,Hernandez
+Boxer,26854.0842,,9.3287,high,high,short,female,Harris
+Boxer,27346.0337,60.6692,9.2599,high,high,short,female,Evans
+German Shepherd,35883.3293,65.018,10.9467,med,med,med,female,Myers
+Boxer,22828.0142,56.9834,9.2001,high,high,short,male,Simmons
+Welsh Corgi,9945.8693,,11.8206,med,high,med,female,Brewer
+Boxer,26451.1255,57.3771,8.4657,high,high,short,male,Ryan
+Airedale Terrier,19582.0516,55.7946,11.8556,high,high,med,female,Baker
+Welsh Corgi,12281.801,29.006,11.0883,low,high,med,male,Hawkins
+Airedale Terrier,17234.1729,57.0565,11.0403,high,high,med,male,Miller
+Welsh Corgi,14918.32,33.8963,11.4489,low,high,med,male,Oliver
+German Shepherd,37320.8578,59.6092,10.2115,med,med,med,female,Stone
+Boxer,41626.9399,56.1841,9.2877,high,high,short,male,Simon
+Boxer,30648.8817,58.1565,9.5036,high,high,short,female,Marshall
+German Shepherd,37116.9432,59.0317,10.2904,med,med,med,male,Nelson
+Airedale Terrier,21693.5682,,10.1801,high,high,med,female,Christian
+Airedale Terrier,23949.4728,56.258,11.5485,high,high,long,male,Hamilton
+Welsh Corgi,7754.3958,,11.0752,high,high,med,female,Jones
+Welsh Corgi,13384.1033,25.9701,10.3586,med,high,med,male,Vincent
+Boxer,31936.6412,57.6839,9.1609,med,high,short,female,Beck
+Boxer,33277.348,,9.1947,high,med,short,female,Ross
+Boxer,28600.1895,,8.6374,high,high,short,female,Jackson
+German Shepherd,36973.1854,,9.8787,med,med,med,male,Newman
+German Shepherd,36630.2354,60.5687,11.4026,med,low,med,male,Simpson
+German Shepherd,35474.5703,,11.1879,med,med,long,male,Brown
+Boxer,30254.7691,60.3605,9.6585,med,med,short,female,Peterson
+German Shepherd,34800.003,,12.2419,med,low,med,male,Mullins
+German Shepherd,36878.7669,66.1325,11.6546,med,low,med,male,Day
+Airedale Terrier,16730.667,56.4838,11.0255,high,high,med,male,Burke
+Boxer,29441.3213,57.6139,9.3697,high,high,short,female,White
+German Shepherd,35531.0898,,11.844,med,med,med,male,Giles
+Airedale Terrier,18942.2648,,10.7921,high,high,short,male,Hughes
+Welsh Corgi,17626.23,27.3315,11.6225,med,high,short,female,Miller
+Welsh Corgi,16041.1572,29.0254,10.1579,med,high,short,female,Young
+German Shepherd,36694.9097,61.4862,10.4883,med,med,long,female,Fernandez
+Boxer,28150.8365,58.9578,8.7311,high,high,short,female,Griffin
+Welsh Corgi,13047.8706,,11.5178,high,high,med,male,Goodman
+Boxer,34778.1871,57.8947,7.8634,high,high,short,female,Smith
+Boxer,28744.8513,58.5514,9.6555,high,med,short,female,Bishop
+Boxer,34386.0593,60.5323,9.3658,high,high,short,male,Sharp
+German Shepherd,34897.1711,60.2955,11.3322,high,med,long,male,May
+Airedale Terrier,18767.2335,,9.8897,high,high,med,female,Fowler
+Welsh Corgi,15425.733,28.7572,11.1495,med,high,med,male,Smith
+Welsh Corgi,13010.3024,,10.8135,med,high,long,male,Jones
+Welsh Corgi,14691.4612,32.0461,9.9387,med,high,med,female,Stephens
+Boxer,23487.8674,60.9234,8.6798,high,med,short,female,Roberts
+German Shepherd,37051.932,61.0815,10.9333,low,med,med,male,Jenkins
+German Shepherd,36612.1568,61.0772,10.77,med,med,med,male,Burns
+Airedale Terrier,21904.6661,,11.786,med,med,med,female,Vargas
+Welsh Corgi,12760.8816,33.5127,10.8027,med,high,med,male,Villa
+Airedale Terrier,21406.1361,56.4666,11.4013,high,high,med,male,Williams
+Airedale Terrier,19918.3305,56.8506,10.4352,high,high,long,male,Tran
+Boxer,24070.9325,58.3924,9.1489,high,high,short,female,Vega
+Welsh Corgi,16568.2629,31.7,11.8033,med,high,med,male,Blackburn
+Airedale Terrier,18303.7055,55.8085,11.2003,high,high,med,female,Smith
+German Shepherd,37666.1771,62.1689,11.5945,med,med,long,female,Jones
+Boxer,30375.7761,57.6668,8.9314,high,high,short,female,Miller
+German Shepherd,37888.8976,61.2989,12.0369,high,med,long,female,Harris
+Boxer,33024.4725,57.1116,9.2534,high,high,short,female,Alvarez
+Welsh Corgi,11913.1483,26.2178,9.9542,med,high,med,female,Green
+Airedale Terrier,21998.6793,56.3973,12.4434,high,high,med,male,Hanson
+Airedale Terrier,21610.224,57.6819,11.9548,med,med,med,female,Keller
+Welsh Corgi,15870.2074,28.1942,11.3355,med,high,long,male,Green
+Boxer,30368.5974,,8.9687,high,high,short,male,James
+Boxer,37386.0007,58.496,8.5577,high,high,short,male,Singh
+Boxer,33579.8587,,8.5816,high,high,short,female,Wilson
+German Shepherd,36442.4494,57.6997,9.6417,med,med,med,female,Wood
+Airedale Terrier,19664.3861,56.2346,10.5192,high,high,med,male,Duke
+Boxer,30646.652,,9.2636,high,high,short,male,Tony
+German Shepherd,38948.7392,62.36,11.4843,med,med,long,male,Johnson
+Airedale Terrier,21460.1714,56.4544,10.9591,high,high,med,female,Jones
+Boxer,31179.3862,57.6452,10.8034,high,med,short,male,Morris
+Boxer,27093.131,61.8016,8.4566,high,high,short,male,Walls
+Welsh Corgi,13412.0178,28.6236,11.3121,high,med,short,female,Williams
+Welsh Corgi,15284.1605,25.2283,11.0391,med,high,med,female,Mario
+Welsh Corgi,16366.8099,25.2716,12.2663,med,high,med,female,Moreno
+Boxer,22161.9085,60.1405,8.3219,high,high,short,male,Steele
+German Shepherd,37454.7001,60.9031,11.2141,med,high,med,male,Parrish
+Welsh Corgi,15418.7361,28.474,11.5687,med,high,med,female,Hoffman
+Welsh Corgi,14173.672,,11.2461,med,med,med,male,Lawson
+Welsh Corgi,13767.2267,,12.4358,med,high,med,male,Cline
+Airedale Terrier,23411.4936,56.2598,11.2507,high,high,med,female,Smith
+Welsh Corgi,10953.6974,32.2291,11.1855,med,high,med,female,Mitchell
+Airedale Terrier,21099.7823,56.6454,10.4969,high,high,med,female,Brown
+German Shepherd,39147.884,,11.7343,med,low,med,female,Ramirez
+German Shepherd,36301.071,61.8254,9.9327,med,high,med,female,Brown
+Welsh Corgi,16408.3488,33.5848,11.1548,med,high,med,female,Ray
+Airedale Terrier,22190.1911,57.1113,12.5251,high,high,med,female,Petersen
+Welsh Corgi,11776.4351,33.5476,10.3175,high,high,med,female,Baker
+German Shepherd,36477.5522,61.6364,10.6602,med,med,med,female,French
+Boxer,23915.0103,,9.538,high,high,short,male,Thompson
+Airedale Terrier,20088.7127,,10.5915,high,high,long,female,Mills
+Welsh Corgi,15313.8168,,11.4793,med,high,med,male,Johnson
+Airedale Terrier,19923.2323,56.2305,13.4907,high,high,med,male,Smith
+German Shepherd,36304.5502,62.8309,10.9949,high,high,med,male,Smith
+Welsh Corgi,14619.6642,23.0258,11.7604,med,high,med,female,Hendrix
+Welsh Corgi,11856.3555,30.3561,11.1713,med,high,med,male,Wong
+German Shepherd,37888.3109,60.6815,10.318,med,med,long,female,Robinson
+Welsh Corgi,16733.9343,29.3334,11.2466,med,high,med,female,Robinson
+German Shepherd,38021.2883,61.2166,11.6565,med,low,med,female,Bryant
+Airedale Terrier,19526.7479,56.7201,9.8127,high,high,med,male,Stout
+Welsh Corgi,13186.1457,29.8703,11.1577,med,high,med,female,Heath
+Airedale Terrier,21092.2635,57.4691,12.222,high,high,long,female,Shaffer
+Welsh Corgi,12399.3975,25.2719,11.3804,low,high,short,female,Edward
+Boxer,25209.9674,58.3958,9.2171,high,high,short,female,Powell
+Welsh Corgi,11934.4566,27.1422,10.5031,med,high,short,female,King
+Welsh Corgi,14385.6743,29.4333,11.2617,high,high,med,female,Nichols
+German Shepherd,35777.126,61.8159,11.1039,high,med,med,male,Edwards
+Airedale Terrier,18595.7709,,12.1135,high,high,med,female,Adams
+Airedale Terrier,21393.8777,57.3166,10.8619,high,med,med,female,Miller
+German Shepherd,35208.2303,65.3168,10.6282,med,med,short,male,Garcia
+Welsh Corgi,11862.6187,31.7178,10.1989,med,high,med,female,Martinez
+Welsh Corgi,11321.9391,29.0539,10.8072,med,high,med,male,Robinson
+Welsh Corgi,12568.3505,31.3577,11.1169,med,high,med,male,Farmer
+Airedale Terrier,23742.6001,58.0124,10.711,med,high,med,male,Carey
+Welsh Corgi,13342.6645,35.0201,11.9999,med,high,long,male,Herring
+Welsh Corgi,14530.717,,10.6265,high,high,med,male,Hancock
+Boxer,27170.9455,59.0289,8.7604,high,high,short,female,Adams
+Boxer,20863.8411,61.5196,8.6486,med,high,short,female,Reid
+Airedale Terrier,21925.9708,56.8421,9.9141,high,high,med,male,Rivera
+German Shepherd,38888.1891,,10.7708,med,med,med,female,Gibson
+Boxer,33740.7848,58.9576,8.5206,high,high,short,female,Romero
+German Shepherd,37101.5045,62.3605,11.4772,med,med,med,male,Dodson
+Airedale Terrier,21452.488,56.3502,10.6705,high,high,med,male,Mccarthy
+Boxer,21843.1099,59.044,8.5302,high,high,short,male,Flynn
+Airedale Terrier,20794.9004,56.0088,10.7119,high,high,short,male,Lee
+Boxer,25676.8621,58.6148,9.2874,high,high,short,male,Barron
+Airedale Terrier,20522.6065,57.7006,10.7598,high,high,med,male,Lopez
+German Shepherd,35606.5706,,10.1626,med,med,long,female,Fletcher
+German Shepherd,35490.3109,60.9514,11.1909,med,med,med,female,Dixon
+Welsh Corgi,13397.4408,,10.4991,med,high,med,female,Vasquez
+Welsh Corgi,13581.7106,29.0813,10.905,med,high,med,male,Wilson
+Welsh Corgi,16614.5194,28.5022,11.4947,high,high,med,female,Thornton
+German Shepherd,36100.3578,,11.2158,low,med,med,female,Taylor
+German Shepherd,37331.654,60.7635,10.5622,low,med,med,male,Edwards
+Boxer,29341.2009,60.247,8.5073,high,high,short,female,Miller
+Boxer,34195.1796,,9.7008,high,high,med,female,Beard
+Welsh Corgi,14149.7426,33.9204,11.2748,med,high,short,female,Ingram
+Airedale Terrier,21224.1136,56.5677,9.4012,med,high,med,female,Gonzalez
+Airedale Terrier,22033.4636,,10.3144,high,high,med,male,Sanders
+German Shepherd,36341.7389,,9.9737,med,low,med,male,Allen
+Boxer,30678.4654,,8.9451,high,high,short,female,Buckley
+Airedale Terrier,16796.418,,11.5122,high,high,short,female,Morton
+German Shepherd,35733.541,62.0208,10.7396,med,high,long,female,Stein
+Welsh Corgi,15321.535,,10.5728,high,high,med,male,Jarvis
+Boxer,30153.6645,58.6537,9.9211,high,high,short,female,Lopez
+Boxer,29278.8705,57.0565,9.4203,high,high,short,male,Roy
+German Shepherd,36463.8196,57.674,10.6617,med,med,med,male,Mora
+Welsh Corgi,14096.5552,30.9194,10.5132,med,high,med,male,Edwards
+Airedale Terrier,20758.3594,57.3475,9.7407,high,high,med,male,Wood
+Airedale Terrier,20023.2204,57.808,11.511,high,med,med,female,Hughes
+Airedale Terrier,23938.8056,57.5565,12.5686,high,high,med,female,Williams
+Welsh Corgi,13270.31,28.9168,10.1835,high,high,med,male,Cooper
+Boxer,25519.4454,59.2068,9.0551,high,high,short,male,Marquez
+German Shepherd,38156.8053,62.0318,10.2182,med,med,short,male,Martinez
+Boxer,20263.1333,57.7686,7.8981,high,high,short,male,Zuniga
+Airedale Terrier,18436.4195,57.1125,10.564,high,high,med,female,Blake
+Boxer,16191.1752,60.141,9.9357,high,med,short,female,Wells
+German Shepherd,36128.0395,60.2518,10.8122,med,med,med,female,Miller
+Boxer,32228.9183,,8.6064,high,high,short,male,Allen
+Boxer,27438.5321,59.6858,8.7355,high,high,short,male,Brown
+Airedale Terrier,18236.1947,57.4059,11.3283,high,high,short,male,Mitchell
+Welsh Corgi,10139.6467,28.2714,10.8038,low,high,med,male,Phillips
+Welsh Corgi,14622.0021,29.7304,10.7869,med,high,med,female,Carney
+Welsh Corgi,15940.1679,,11.5771,high,high,short,female,Mccullough
+German Shepherd,35911.0365,59.0976,10.8136,low,med,med,male,Bradshaw
+Airedale Terrier,19702.1279,,11.7078,high,high,med,female,Fuller
+German Shepherd,34737.2367,59.1699,11.4346,med,med,short,female,Wheeler
+German Shepherd,37344.2276,58.5997,11.5175,med,med,med,male,Hernandez
+Airedale Terrier,16554.6198,57.2935,10.7642,high,high,long,male,Evans
+Boxer,28923.1247,56.7613,8.7781,high,high,short,female,Key
+Welsh Corgi,15528.3181,32.4098,11.6275,med,high,med,female,Boyd
+Welsh Corgi,13271.2912,28.5686,10.878,med,high,med,male,Bishop
+German Shepherd,38442.9011,61.6977,10.9007,med,high,med,male,Griffin
+German Shepherd,35969.8184,,11.526,med,med,med,male,Wood
+Welsh Corgi,15979.4079,,11.1274,med,high,med,female,Mclaughlin
+German Shepherd,36887.6272,,11.2967,med,med,med,female,Rogers
+Airedale Terrier,19253.1312,57.8122,11.1851,high,high,med,male,Ford
+Airedale Terrier,21519.2208,56.541,11.7317,med,high,long,male,Cook
+German Shepherd,38228.9643,61.3022,12.5167,med,med,med,female,Williams
+Boxer,30243.9148,60.5331,8.5935,high,high,short,female,Stuart
+Welsh Corgi,12855.649,,10.9846,med,med,med,male,Morris
+German Shepherd,34525.5605,59.5386,10.5218,med,med,med,female,Mathis
+German Shepherd,33784.0817,62.6509,11.9247,med,med,short,female,Perez
+Boxer,24374.8303,,8.7261,high,high,short,female,Gillespie
+Airedale Terrier,19256.9146,57.0161,12.3234,high,high,med,male,Kelly
+Welsh Corgi,16951.995,22.5968,10.5344,med,high,long,male,Wood
+Boxer,31096.4743,,10.0096,high,high,short,male,Cole
+Airedale Terrier,19920.3457,56.843,11.3959,high,high,med,female,Byrd
+German Shepherd,35808.882,61.7909,10.4811,med,high,long,female,Craig
+Welsh Corgi,16012.8196,,9.8248,med,high,med,female,Garcia
+German Shepherd,35524.2167,62.1226,10.6268,med,high,med,male,Brown
+Airedale Terrier,20473.5595,56.1912,10.8112,high,high,long,male,Hudson
+Airedale Terrier,22714.4546,57.3119,11.7103,high,high,med,female,Mendoza
+Boxer,29699.316,60.4627,9.3702,high,high,med,male,Mahoney
+German Shepherd,35840.2343,60.5894,9.586,med,low,med,male,Castro
+Welsh Corgi,13725.1431,29.0961,9.3661,high,med,med,male,Potter
+Welsh Corgi,16430.9736,,10.9661,low,high,med,male,Farmer
+Welsh Corgi,11434.7904,,11.7353,med,high,med,female,Contreras
+Welsh Corgi,12052.3134,28.2444,11.1323,med,high,long,female,Romero
+Boxer,33564.088,58.6775,7.6589,high,high,short,female,Clarke
+Welsh Corgi,15813.2098,26.0545,11.5549,low,high,med,female,Sexton
+Airedale Terrier,20254.5544,55.9673,11.9739,high,high,med,male,Allen
+German Shepherd,35644.7303,63.1694,11.7022,med,med,med,female,Ortiz
+Welsh Corgi,15223.7333,33.0126,12.1568,med,med,med,female,Moore
+Welsh Corgi,10556.8176,30.5528,12.3055,med,high,med,male,West
+Boxer,28159.027,58.7882,9.7186,high,high,short,male,Smith
+German Shepherd,36591.2742,63.4022,11.4692,med,med,med,male,Rogers
+Airedale Terrier,20131.8901,,12.1139,high,high,med,male,Orozco
+Boxer,24770.8816,58.9401,9.1022,med,high,short,male,White
+Boxer,27639.8896,61.934,8.1441,high,med,short,male,Ross
+Boxer,32644.9962,58.2736,9.3904,high,high,short,male,Carey
+Airedale Terrier,19331.8776,57.5757,11.4407,high,high,med,male,Jackson
+Boxer,28038.4416,57.1033,8.8004,high,high,short,male,Rojas
+Boxer,26110.5736,60.5438,8.714,high,high,short,male,Villa
+Airedale Terrier,19290.5352,57.4149,12.9492,high,high,med,female,Brown
+Airedale Terrier,22093.3859,57.4571,12.2588,high,high,med,male,Smith
+German Shepherd,38549.7053,58.7011,11.2416,med,med,med,female,Gomez
+German Shepherd,36620.7027,60.7434,10.1244,med,med,med,female,Harris
+Welsh Corgi,11849.8199,29.649,10.4202,med,high,med,female,Olson
+Welsh Corgi,17287.5338,29.0877,10.9156,med,high,med,male,Myers
+Welsh Corgi,14711.3898,28.0363,11.3034,med,med,med,male,Stanley
+German Shepherd,38114.2342,58.22,9.7406,med,high,med,male,Nelson
+Welsh Corgi,14567.0342,27.9339,10.2457,med,high,long,male,Evans
+Welsh Corgi,14660.9853,,11.4188,med,high,long,female,Kelly
+Airedale Terrier,19711.9058,58.4085,11.7033,high,high,med,female,Bush
+Boxer,22383.4544,58.5474,9.4803,high,high,short,male,Chaney
+Airedale Terrier,19372.3449,57.2885,14.0904,high,high,med,female,Graham
+Airedale Terrier,21862.3917,58.2392,12.5775,high,high,long,female,Brown
+Boxer,36526.2561,59.4858,8.2907,high,high,short,female,Miller
+Welsh Corgi,13124.9547,28.6787,11.2202,med,high,med,male,Kelly
+Welsh Corgi,12850.8872,,10.7773,med,high,med,male,Mclaughlin
+German Shepherd,33832.4985,59.2811,11.2315,high,med,med,male,Parks
+German Shepherd,38758.9752,58.7134,11.4075,med,med,med,female,Hamilton
+Airedale Terrier,19886.854,56.9993,12.5881,high,high,med,male,Skinner
+German Shepherd,40576.3357,60.4221,10.2974,med,med,med,male,Curtis
+Boxer,29071.9137,57.0852,9.1837,high,high,short,male,Le
+German Shepherd,37540.2221,,10.2901,med,med,med,male,Miller
+Airedale Terrier,21265.2225,57.1061,13.8709,high,high,med,male,Taylor
+Airedale Terrier,19695.3307,56.7648,11.9475,med,high,med,female,Davis
+Airedale Terrier,24724.3306,58.4205,10.5778,med,high,med,male,Dillon
+Boxer,36279.0874,58.7692,9.146,high,high,med,male,Santana
+Airedale Terrier,22160.7193,57.0661,10.3512,high,high,med,female,Miller
+Welsh Corgi,13057.2069,,10.7596,med,high,med,male,Mitchell
+Boxer,29350.6641,61.0035,9.5184,high,high,short,male,Wilkins
+Airedale Terrier,19134.0541,56.3566,12.3591,high,high,med,female,Adams
+Airedale Terrier,21297.0589,,9.8684,high,med,med,female,Gray
+Airedale Terrier,20287.1557,,12.2269,high,high,long,male,Brown
+Airedale Terrier,20409.6595,56.5486,11.4901,high,med,med,male,Richardson
+Welsh Corgi,12285.4507,25.2698,10.5737,med,high,long,male,Ryan
+Boxer,26536.5976,61.9403,8.5887,med,high,short,female,Strickland
+German Shepherd,37734.261,58.8751,10.6557,med,med,med,male,Hart
+Welsh Corgi,13661.0912,29.5774,9.7886,high,high,short,male,Davis
+German Shepherd,37245.6504,61.5043,12.0078,med,med,long,female,Gray
+Airedale Terrier,21545.7864,56.4824,10.4335,high,high,med,male,George
+German Shepherd,35243.9685,,10.609,med,med,med,female,Ramsey
+Airedale Terrier,22147.2477,56.6005,9.6701,high,high,med,male,Anderson
+Airedale Terrier,19084.4192,,11.5185,high,high,short,female,Howard
+Boxer,34808.6446,58.8922,9.0974,med,high,short,male,Osborne
+Boxer,26355.5626,56.8515,8.5353,high,high,short,male,Carlson
+Airedale Terrier,20935.2003,57.552,11.3812,high,high,med,male,Atkins
+Welsh Corgi,16931.5096,27.579,11.8629,med,high,med,female,Jackson
+Airedale Terrier,20721.6129,57.9171,11.5858,high,high,med,female,Lee
+German Shepherd,34076.2262,63.0526,10.2735,med,med,med,female,Wilkinson
+Boxer,29428.1649,,9.7532,med,high,short,male,Rivera
+Welsh Corgi,14611.4627,30.2208,10.8972,med,high,med,female,Wang
+Airedale Terrier,20885.9528,57.2221,11.738,high,high,med,male,Munoz
+Welsh Corgi,16183.4306,31.7406,11.6516,med,high,med,female,Browning
+German Shepherd,34063.8713,61.303,10.1185,med,med,med,male,Bell
+German Shepherd,34979.2176,61.1848,10.9837,med,med,short,male,Mitchell
+Boxer,28357.0391,58.4811,9.2729,high,high,short,male,Carrillo
+Welsh Corgi,15628.9101,30.2113,11.4358,high,high,med,female,Wilson
+Boxer,28183.0684,58.8371,9.0113,high,high,short,female,Pierce
+Boxer,29635.3067,,8.8618,high,high,short,male,Miller
+Airedale Terrier,24700.4406,56.3277,11.3601,high,high,med,female,Lindsey
+Boxer,33688.2393,58.6913,9.4938,high,med,short,female,Warner
+Boxer,24464.4426,58.0062,9.7129,high,med,short,female,Harmon
+Welsh Corgi,13363.2635,29.5589,10.263,med,high,med,male,Jones
+Airedale Terrier,21309.3019,,10.8657,high,high,short,male,Schultz
+Welsh Corgi,10853.9685,28.8133,10.7734,low,high,med,male,Calderon
+Airedale Terrier,19795.8171,57.5478,12.1776,high,high,med,female,Gordon
+German Shepherd,36718.4553,62.883,11.3708,med,med,med,male,Hayes
+Welsh Corgi,13514.9043,28.4864,11.3906,med,high,med,male,Jones
+Welsh Corgi,13409.2228,27.3565,11.4441,med,high,med,female,Flores
+German Shepherd,37036.778,58.907,11.7095,high,low,short,male,Hall
+Airedale Terrier,22161.6361,56.6476,10.3653,high,med,long,male,Gonzalez
+German Shepherd,36276.9509,60.4533,11.2027,high,med,long,male,Roberts
+Airedale Terrier,19584.9001,57.0377,10.4073,high,high,med,female,Clark
+Airedale Terrier,19403.8034,57.4107,11.5611,med,high,med,female,Robert
+Boxer,31226.015,57.9827,10.2061,med,high,short,female,Lewis
+Airedale Terrier,20478.9302,,12.0633,high,high,med,female,Rhodes
+German Shepherd,34874.9138,,11.2718,med,med,short,female,Schwartz
+Boxer,33811.6359,58.2232,8.6771,high,high,short,female,Rogers
+German Shepherd,35707.6086,61.8867,10.7662,high,med,med,male,Thomas
+Airedale Terrier,20976.8432,56.3566,10.356,high,high,med,male,Mack
+Welsh Corgi,13865.9896,26.1513,11.6393,med,high,med,male,Hurley
+German Shepherd,34689.0509,,10.9429,med,low,med,male,Bray
+Boxer,27800.3014,58.3097,9.141,high,high,short,male,Evans
+Airedale Terrier,21807.1121,55.773,10.5851,high,high,med,female,Cohen
+Boxer,23708.5449,59.405,9.2275,high,high,short,male,Mendoza
+German Shepherd,36496.5675,60.9382,11.141,high,med,med,female,Morgan
+Airedale Terrier,21149.394,,10.5703,high,high,long,female,Saunders
+German Shepherd,37183.9159,61.7004,11.4285,med,med,med,male,Young
+Welsh Corgi,14727.012,27.5767,9.659,med,high,med,female,Martin
+German Shepherd,34497.0618,59.3778,11.5823,med,med,med,female,Daugherty
+Welsh Corgi,15571.8533,,11.1665,low,high,med,male,Mcgrath
+Boxer,38228.2561,58.7837,9.574,high,high,short,female,Cobb
+German Shepherd,35526.5132,61.017,9.8502,med,med,med,female,Gardner
+Boxer,26581.8815,56.111,9.3389,high,high,short,male,Harris
+Airedale Terrier,22202.1038,56.1572,11.7185,high,high,med,female,Austin
+Boxer,31818.2013,56.5659,9.9025,med,high,short,female,Hurley
+Boxer,31271.7033,,9.2727,high,med,short,male,Fields
+Airedale Terrier,22530.8958,56.2318,12.4959,high,high,med,male,Whitehead
+German Shepherd,38404.2009,61.8029,10.8022,med,med,med,female,Sherman
+Boxer,33679.8396,57.1086,9.2043,med,high,short,male,Taylor
+German Shepherd,39158.0686,60.5394,11.3824,med,med,med,male,Vega
+Welsh Corgi,12383.4235,,10.6684,med,high,long,female,Richards
+Welsh Corgi,11459.673,27.9809,11.4317,low,high,med,female,Carpenter
+Boxer,39273.5466,58.0733,7.6768,high,high,short,female,Brown
+German Shepherd,35522.3936,,12.6248,med,med,med,female,James
+Boxer,34490.7406,62.4262,9.4112,med,high,short,female,Poole
+Airedale Terrier,19902.1767,,10.6252,high,high,med,female,Henderson
+Boxer,29374.6009,58.1323,8.2325,high,high,short,male,Nelson
+Airedale Terrier,20536.5428,57.6607,9.5654,high,high,med,female,Arnold
+Boxer,25917.6947,59.5227,8.5284,high,high,short,female,Maddox
+German Shepherd,35030.5121,58.581,10.8659,med,med,short,female,Hampton
+Boxer,31431.9571,59.8032,9.7136,high,high,short,female,Spencer
+Airedale Terrier,22779.3041,,10.7024,high,high,med,male,Gillespie
+German Shepherd,37227.0857,60.2754,10.9859,med,med,med,male,Mathis
+Welsh Corgi,14442.2558,,10.8373,med,high,med,male,Reynolds
+Welsh Corgi,15346.0271,,11.0017,med,high,med,female,Smith
+Boxer,26796.6533,58.6089,9.9752,high,high,short,male,Mullen
+Welsh Corgi,16863.9635,27.5188,11.1718,med,high,med,male,Cook
+German Shepherd,36348.5533,59.6047,10.4554,med,med,med,female,Nicholson
+German Shepherd,36322.4855,60.8582,11.4232,med,med,med,female,King
+Airedale Terrier,21223.5575,56.7469,10.6419,high,high,med,male,Vargas
+Welsh Corgi,14253.2492,27.6448,11.2118,low,high,short,female,Sanders
+Welsh Corgi,12626.2509,26.5022,11.475,low,high,med,male,Herrera
+Welsh Corgi,12721.4524,24.6385,10.5215,med,high,short,male,Miller
+Boxer,30452.8042,58.6605,9.1496,high,high,med,female,Williams
+Boxer,32842.2238,61.6056,9.0743,high,high,short,female,Fowler
+German Shepherd,35088.2591,56.9169,10.7166,med,med,med,male,Newman
+Welsh Corgi,11731.3381,28.6225,13.3669,med,high,med,female,Conley
+Airedale Terrier,21404.7255,56.0416,11.4557,high,high,med,male,Lang
+Airedale Terrier,23552.2178,55.7292,12.4552,high,high,long,female,Walters
+Boxer,28636.8914,,8.0209,high,high,short,male,White
+German Shepherd,35370.8688,60.579,11.2957,med,med,long,male,Hill
+Airedale Terrier,23035.9141,57.5027,11.8669,med,high,med,male,Smith
+Welsh Corgi,13695.5904,29.5878,10.5388,med,high,med,female,Brown
+Boxer,20355.7915,58.5107,8.6227,high,high,short,male,Acosta
+Boxer,31452.0876,57.9577,10.05,high,high,short,male,Peterson
+Boxer,39483.6951,60.1987,8.2756,high,high,short,male,Wise
+Boxer,35528.3313,58.7626,10.5367,high,high,med,female,Miller
+Boxer,25576.3552,59.2279,7.7061,high,high,short,female,Boyd
+Welsh Corgi,14147.7199,28.87,10.0095,med,high,med,female,Jackson
+German Shepherd,36168.5494,,12.1726,med,high,short,female,Smith
+Boxer,37523.6475,55.0582,8.8773,high,high,short,female,Wilson
+Welsh Corgi,13949.5541,32.3087,11.6616,med,high,med,male,Walls
+German Shepherd,38843.6575,,11.8449,med,med,med,male,Brown
+Welsh Corgi,14015.0167,31.1492,10.8622,med,high,med,female,Walker
+Boxer,36556.3769,58.9829,8.1256,high,high,med,male,Gregory
+Welsh Corgi,12750.5619,,11.9148,med,high,med,female,Smith
+Welsh Corgi,13436.7203,,10.2034,low,high,med,male,Pollard
+German Shepherd,36682.0438,60.9449,10.4792,low,med,med,male,Noble
+Boxer,38944.2127,57.4701,9.9042,high,high,short,male,Jones
+Airedale Terrier,21961.6105,58.0804,11.9281,high,high,med,male,Pena
+Boxer,25594.7235,56.3929,8.6886,high,high,short,male,Daniel
+Welsh Corgi,16492.5252,26.5791,11.0013,med,high,med,male,Smith
+German Shepherd,38199.4069,63.0778,12.0271,med,med,med,female,Jimenez
+Boxer,31600.9502,60.4542,9.3001,high,high,short,male,Morales
+Airedale Terrier,20849.8939,57.0242,10.7819,high,high,long,female,Li
+Boxer,31110.9597,,8.6984,med,high,short,female,Stewart
+Welsh Corgi,16446.6907,30.3055,11.3995,med,high,med,male,Jordan
+German Shepherd,37423.0575,59.8053,10.1687,low,med,med,female,Christensen
+German Shepherd,35543.6683,60.7239,10.8779,med,med,med,female,Wilkerson
+Welsh Corgi,11277.9021,31.0363,11.2174,med,high,med,female,Rodriguez
+Welsh Corgi,14523.3087,25.9454,10.8525,low,high,med,male,West
+German Shepherd,36855.1897,61.1143,11.6175,med,med,med,female,Williamson
+Airedale Terrier,19489.4346,57.4429,10.2349,high,high,med,female,Alvarado
+Welsh Corgi,14737.2999,27.1848,10.6308,med,high,med,male,Roach
+Airedale Terrier,22568.641,57.3109,10.9162,high,high,med,female,Lowery
+German Shepherd,36056.0491,,10.8063,med,med,long,male,Crawford
+German Shepherd,38580.4825,60.8261,10.7628,high,med,med,female,Fisher
+Welsh Corgi,12508.1328,29.0194,10.8112,med,high,short,female,Prince
+Boxer,24484.3489,60.1058,8.2585,high,high,short,male,Singleton
+German Shepherd,34768.9405,61.9444,11.4029,med,med,med,female,Odonnell
+German Shepherd,33369.1749,57.4781,11.2789,med,med,med,male,Martinez
+Airedale Terrier,21471.0929,56.1475,10.1345,high,high,med,male,Martin
+German Shepherd,35846.9104,63.4802,10.5428,high,med,long,male,Turner
+Boxer,24649.569,57.5926,8.0753,high,high,short,male,Moore
+Welsh Corgi,13460.8529,27.1044,11.6592,med,high,med,male,Morales
+Welsh Corgi,13898.2054,28.4409,10.401,med,high,med,male,Oliver
+Boxer,37648.3455,56.3218,8.472,high,med,short,female,Williams
+Airedale Terrier,22354.4688,,11.3912,high,high,med,female,Jones
+Boxer,27110.6707,59.3151,8.5173,high,high,short,female,Gonzalez
+Welsh Corgi,13738.5964,30.0228,10.6455,med,high,med,female,Clarke
+Airedale Terrier,21882.538,57.4773,11.401,high,high,med,female,Mccullough
+Welsh Corgi,12004.3801,28.5307,10.7012,med,high,med,male,Stevens
+German Shepherd,32960.4223,61.2637,10.4124,low,med,med,male,Fisher
+Welsh Corgi,15069.8533,,11.145,med,high,med,female,Joseph
+Airedale Terrier,20177.163,57.5952,10.7306,high,high,med,female,Lopez
+Boxer,28457.9855,58.4441,9.3579,high,med,med,male,Grant
+Boxer,29884.0839,58.2698,9.3089,high,high,short,female,Willis
+Airedale Terrier,19010.0591,56.1636,12.7592,high,high,short,female,Boyd
+Welsh Corgi,11275.633,25.605,11.6093,med,high,long,female,Taylor
+Airedale Terrier,20563.1997,57.4952,10.8308,high,high,med,male,Valdez
+Welsh Corgi,18206.5158,26.9832,11.5998,med,high,med,female,Roy
+Welsh Corgi,13525.4148,26.3345,11.748,med,high,med,female,Nielsen
+Airedale Terrier,21191.0029,56.6928,11.3111,high,med,med,male,Ramirez
+Airedale Terrier,20978.4981,56.7337,11.4329,high,high,med,female,Orr
+Airedale Terrier,21750.0659,,11.5118,med,high,long,female,Young
+Boxer,35073.2649,56.8163,8.2381,high,high,short,male,Kim
+Airedale Terrier,23318.3673,56.3645,10.3271,high,high,med,female,Hunter
+Welsh Corgi,15726.8654,,11.8217,med,high,long,male,Jones
+Welsh Corgi,14540.6165,25.9427,11.2218,low,high,med,female,Beck
+Welsh Corgi,14589.1601,26.5854,10.5887,med,high,long,male,Valencia
+Boxer,35801.682,61.0228,8.819,med,high,med,female,Contreras
+German Shepherd,37012.1586,64.8086,11.3756,med,low,med,female,Snow
+Boxer,26746.6243,57.4962,8.9208,high,high,short,male,Patel
+Welsh Corgi,13671.9733,,10.997,med,high,med,male,Robinson
+Boxer,26763.7285,,8.8554,high,high,short,female,Becker
+Boxer,30177.7713,59.766,8.5354,high,high,short,female,Christensen
+Welsh Corgi,14209.332,27.0672,10.7156,high,high,med,male,Oneill
+German Shepherd,36804.5215,,10.9336,med,med,short,male,Wilson
+Boxer,24488.6492,59.9714,9.1897,high,high,short,female,Chang
+German Shepherd,35635.2364,63.2578,11.1098,med,med,med,male,Palmer
+Airedale Terrier,18752.7946,58.0209,12.3329,high,high,med,female,Clarke
+Boxer,33972.8866,,9.254,high,high,short,male,Morris
+Boxer,30780.7424,60.6,9.822,high,high,short,male,Vasquez
+Airedale Terrier,17456.2861,57.4953,10.3298,high,high,long,male,Walker
+Welsh Corgi,11884.7375,30.8279,10.5278,med,high,med,female,Davis
+German Shepherd,35523.074,65.3138,10.6037,med,high,short,female,Garcia
+Boxer,38892.1319,,9.1893,high,high,short,female,Church
+Welsh Corgi,13422.3224,33.0264,10.5663,med,high,med,male,Davis
+Boxer,26862.6268,58.1034,9.7051,high,high,med,female,Salazar
+Boxer,24101.4419,58.8367,9.8918,high,high,short,female,Bailey
+Welsh Corgi,16885.6786,29.8011,11.5406,med,high,med,male,Tate
+Welsh Corgi,16630.8828,30.0073,10.5003,med,high,med,male,Martinez
+Boxer,32424.3136,56.9287,8.2048,high,high,short,female,Allen
+Boxer,34016.4857,55.8529,9.7236,high,high,short,female,Hall
+German Shepherd,35097.517,59.2767,10.7537,med,med,med,male,Ortega
+Airedale Terrier,19182.2066,57.1157,12.7051,high,high,med,male,Snow
+German Shepherd,35908.9362,,10.7632,med,med,short,male,Fleming
+German Shepherd,37877.9029,62.8025,11.7863,med,med,med,female,Howard
+Boxer,29297.6575,57.9399,8.2124,high,high,med,male,Rosales
+Welsh Corgi,11827.8606,28.3064,11.7442,med,high,med,male,Sanchez
+Welsh Corgi,14348.7905,27.1406,10.9411,med,high,long,female,Lynch
+German Shepherd,35732.2802,63.2429,11.2833,med,med,med,male,Curry
+German Shepherd,36225.2742,,11.482,med,med,long,female,Berry
+Airedale Terrier,18079.428,57.0372,13.8323,med,high,med,female,Chavez
+German Shepherd,35630.0134,61.2573,11.1025,med,med,med,female,Brock
+Airedale Terrier,21768.8762,,10.1168,high,high,short,female,Webb
+Welsh Corgi,15153.9482,,10.8443,med,high,long,female,Stewart
+German Shepherd,37306.9204,59.758,11.642,low,med,med,female,Rivera
+Airedale Terrier,22218.1707,57.2042,11.3827,high,high,med,female,Ortiz
+Welsh Corgi,17243.8535,,10.5869,med,high,med,male,Baldwin
+German Shepherd,36894.5674,,11.4822,med,med,med,female,Schmidt
+Boxer,25532.7396,59.7027,9.0007,high,high,short,female,Moore
+German Shepherd,35978.4177,61.1025,10.44,med,med,med,male,Martin
+Boxer,31903.8079,61.4716,9.5536,high,high,short,male,Brown
+Welsh Corgi,13735.943,25.481,10.9786,med,high,med,female,Mitchell
+Welsh Corgi,11564.0527,26.5514,11.5565,med,high,med,male,Novak
+Welsh Corgi,13509.9124,31.2437,10.7464,med,high,med,female,Lopez
+Welsh Corgi,16024.8503,,12.0672,med,high,med,male,Taylor
+German Shepherd,38517.6696,61.8661,10.3993,med,med,med,male,Tate
+Airedale Terrier,20078.2878,55.9243,10.2413,high,high,short,female,Owens
+Airedale Terrier,18472.4376,57.4851,11.2429,high,high,med,male,Francis
+Boxer,24886.2556,,8.471,med,med,short,female,Soto
+German Shepherd,37549.5241,,11.0551,med,med,med,female,Ramirez
+Airedale Terrier,18409.5819,,11.1062,high,high,med,male,Sanchez
+German Shepherd,36667.6478,,11.2887,med,med,med,female,Graham
+German Shepherd,35967.2313,,11.1907,med,med,med,male,Rhodes
+Airedale Terrier,20998.783,56.6391,12.3779,high,high,med,male,Myers
+German Shepherd,37889.4353,62.6074,10.9131,med,low,med,female,Moore
+German Shepherd,36552.3874,63.6686,11.1608,med,med,med,male,Evans
+Airedale Terrier,20433.5216,56.6505,10.0322,high,high,med,male,Johnson
+Boxer,23742.2177,60.361,9.297,high,high,med,male,Harrington
+Boxer,25262.5298,57.6925,9.293,high,high,short,female,Wells
+Airedale Terrier,20930.9178,,11.3446,high,high,short,female,Baldwin
+Boxer,35843.4188,60.1522,8.4637,high,high,short,female,Morales
+Boxer,26946.9177,57.5299,9.0832,high,high,short,male,Nelson
+Airedale Terrier,18098.877,56.9041,12.2278,high,high,med,male,Ortega
+Airedale Terrier,21688.0066,57.2381,10.5624,high,high,med,female,Mcmillan
+Welsh Corgi,11687.4301,26.7347,10.678,med,high,med,female,Carpenter
+Airedale Terrier,21320.0794,56.3787,10.4367,high,high,med,female,Petty
+German Shepherd,37959.9632,60.9485,10.4914,med,med,med,male,Romero
+Airedale Terrier,18300.9104,,10.9336,high,high,med,male,Key
+Airedale Terrier,21168.1766,56.9963,11.7583,high,high,short,female,Shelton
+Airedale Terrier,21521.0836,,11.3951,high,high,med,male,Austin
+Airedale Terrier,18580.7935,57.3817,12.4385,med,high,med,male,Lin
+Boxer,28646.8095,57.861,9.7523,high,high,short,female,Williams
+Welsh Corgi,15918.3429,,10.7665,high,high,long,male,Barry
+German Shepherd,37049.6317,60.1988,10.3014,med,med,med,female,Reyes
+Welsh Corgi,12742.7823,28.7931,11.8263,high,high,med,female,Smith
+Boxer,26285.1037,57.9749,8.5887,high,high,short,male,Parker
+Boxer,27364.5919,57.5344,8.2511,high,high,short,male,Stokes
+Boxer,29992.7403,58.9185,8.3692,high,high,short,female,Carter
+Airedale Terrier,20807.1112,56.7477,12.1312,high,high,short,female,Christian
+German Shepherd,36061.4143,62.2705,11.0355,med,med,med,female,Carter
+German Shepherd,38236.3722,60.7696,9.7352,med,med,med,male,Anderson
+German Shepherd,37387.1828,61.724,12.1042,med,med,long,female,Scott
+Boxer,23070.1291,57.3523,8.333,high,high,short,male,Cross
+German Shepherd,37094.7869,,11.2081,med,med,med,female,Guzman
+Airedale Terrier,20454.656,56.7757,11.8209,high,high,med,female,Wiley
+Boxer,29326.9778,57.424,10.1079,high,high,short,male,Knapp
+Welsh Corgi,12309.2328,30.3467,11.5576,med,high,med,female,Benson
+German Shepherd,38265.7096,60.6796,10.4377,med,med,med,female,Mason
+Airedale Terrier,18504.649,57.8359,11.6368,high,high,med,male,Evans
+Boxer,22136.9571,59.0752,9.504,high,high,med,male,Collier
+Airedale Terrier,20992.278,57.5725,13.018,high,high,med,female,Allen
+German Shepherd,37872.8617,62.5141,10.8202,med,med,med,female,Cowan
+German Shepherd,37021.5854,59.7142,10.2982,med,med,med,male,Garcia
+German Shepherd,37208.6363,61.24,10.6075,high,med,long,female,Mcdonald
+Boxer,20952.2613,,9.1146,high,high,short,female,Leblanc
+Boxer,25661.1245,58.3243,8.8649,high,high,med,female,Collins
+Airedale Terrier,23564.6372,58.2867,12.4383,high,high,med,female,Mills
+Welsh Corgi,13188.378,,10.4156,low,high,short,male,Jackson
+Welsh Corgi,13882.9254,28.5101,10.6607,med,med,med,male,Good
+Boxer,36270.5426,57.937,9.0934,high,high,short,male,Hall
+Airedale Terrier,18380.2762,57.5558,11.67,high,high,med,female,Miller
+Boxer,26953.9731,57.537,8.5156,high,high,med,male,Carson
+Airedale Terrier,19324.9366,55.9609,9.8886,med,high,med,male,Spence
+Airedale Terrier,19466.6948,,10.2507,high,high,med,male,Chavez
+Airedale Terrier,21755.6096,56.5844,12.5385,high,med,long,female,Baker
+Airedale Terrier,22482.7463,57.8746,12.7112,high,high,med,female,Hernandez
+Airedale Terrier,20055.9618,57.0253,10.3382,high,high,short,male,Johnson
+Welsh Corgi,16984.4346,31.6947,11.6892,low,med,med,male,Carter
+Boxer,31204.4306,60.3185,9.0672,high,high,short,male,Hicks
+Boxer,38371.816,58.8222,8.5217,high,high,short,female,Peck
+German Shepherd,35251.5667,64.8087,11.3336,med,low,med,male,Rogers
+Boxer,21294.6521,59.4005,9.705,med,high,short,male,Waters
+German Shepherd,40673.5378,62.7415,10.6228,med,med,med,male,Kaiser
+German Shepherd,36784.6091,59.2787,10.3902,med,med,med,male,Goodman
+Boxer,38028.8526,,8.4684,high,high,short,male,Franklin
+Airedale Terrier,21072.7564,56.5914,10.7926,high,med,med,male,Hicks
+Boxer,24172.4729,59.6533,8.8162,high,high,med,female,Simpson
+German Shepherd,36360.7336,66.0859,10.4351,low,low,short,male,Martinez
+German Shepherd,37101.0514,63.0655,11.2784,med,med,med,male,Sherman
+German Shepherd,35663.0485,61.8659,10.3422,med,med,med,male,Kelly
+German Shepherd,36182.1691,60.5864,9.8542,med,med,med,male,Lopez
+Boxer,24781.6235,55.8684,8.3017,high,high,short,male,Dean
+Boxer,30602.7211,58.8702,9.2753,high,med,med,female,Roth
+Boxer,24705.0687,,8.9553,med,high,short,female,Johnson
+Airedale Terrier,18366.7358,56.3466,10.6134,high,high,med,male,Lowery
+Airedale Terrier,20383.3707,,13.2767,high,high,med,female,Burns
+Boxer,31359.8047,58.2511,8.2002,med,high,short,female,Mitchell
+German Shepherd,32756.182,59.4874,10.9032,high,low,med,male,Orozco
+Airedale Terrier,18680.5526,,11.4806,high,high,med,female,Alvarado
+Boxer,33769.6647,,9.7773,med,high,med,female,Taylor
+Airedale Terrier,19619.7681,57.872,11.1633,high,high,med,male,Gibbs
+Airedale Terrier,19045.3537,56.6845,11.9353,high,high,med,female,Doyle
+Welsh Corgi,14577.2709,30.375,10.3112,med,high,med,female,King
+Airedale Terrier,18426.7081,,10.878,high,high,med,male,Nichols
+Welsh Corgi,11137.548,30.6099,11.3278,med,high,med,female,Edwards
+German Shepherd,37059.6598,60.963,11.1832,med,med,med,male,Smith
+Welsh Corgi,16457.8788,29.595,12.1485,med,high,med,male,Smith
+German Shepherd,36953.7739,61.7612,12.9278,med,med,med,male,Carey
+Welsh Corgi,13334.0007,30.5545,11.3588,low,high,short,male,Lopez
+Airedale Terrier,18434.8049,57.0133,11.6619,high,high,med,female,Davidson
+German Shepherd,34399.3078,,11.2749,med,med,med,male,Velasquez
+Airedale Terrier,21013.7289,57.1137,10.806,high,high,long,male,Harmon
+Airedale Terrier,19017.8988,56.7839,10.8068,high,high,med,male,Allen
+Boxer,25191.7707,58.4471,8.9579,high,high,short,male,Cooper
+Airedale Terrier,18738.4765,56.3949,10.9546,high,high,med,female,Herrera
+German Shepherd,38401.9382,60.0465,10.8991,med,med,med,male,Davis
+German Shepherd,35806.6841,58.5698,11.2599,high,med,med,male,Turner
+Boxer,30253.8185,56.9951,9.6189,high,high,short,male,Chapman
+Welsh Corgi,14355.1464,29.1089,11.0405,med,high,med,female,Davis
+Airedale Terrier,19295.1012,57.8155,11.3635,high,high,med,male,Thomas
+German Shepherd,36359.9804,,11.7569,med,med,med,female,Parker
+German Shepherd,34204.7104,63.6725,9.5828,med,med,long,female,Thomas
+German Shepherd,37032.9261,61.9152,10.7475,med,med,med,male,Sherman
+Welsh Corgi,13192.982,27.9772,11.3453,high,high,med,male,Martinez
+Airedale Terrier,19421.2964,57.4722,9.6061,high,high,med,female,Barrera
+Boxer,31263.9734,57.9994,9.3464,high,high,med,female,Washington
+Airedale Terrier,20398.1213,57.0658,12.0105,med,high,med,male,Goodwin
+German Shepherd,39220.1021,64.4979,9.624,low,med,short,female,Ramirez
+Airedale Terrier,20414.5415,57.1273,11.3614,high,high,med,male,Dean
+Airedale Terrier,18166.755,57.515,12.0493,high,high,med,male,Valenzuela
+Welsh Corgi,16125.186,32.5281,10.829,med,high,med,male,Ali
+Welsh Corgi,13993.7945,29.4248,11.1064,med,high,med,female,Rhodes
+Boxer,31927.543,59.2966,9.2,high,high,short,male,Clark
+Boxer,33198.3331,57.5947,8.8845,high,high,short,female,Myers
+German Shepherd,35569.0854,64.2497,10.7537,med,med,long,female,Walker
+German Shepherd,34797.9479,63.0471,9.9794,med,med,med,male,Patterson
+Welsh Corgi,12953.3047,,10.4631,med,high,med,female,Hernandez
+German Shepherd,36235.9228,,11.2156,med,med,med,male,Peters
+German Shepherd,36528.5681,,9.9728,high,med,med,male,Hamilton
+Welsh Corgi,15507.1652,30.7815,11.3088,med,high,med,female,Powell
+Boxer,27918.1119,60.4563,8.7487,high,high,med,female,Buck
+Airedale Terrier,20408.5587,56.7297,12.5985,high,high,med,female,Brooks
+Welsh Corgi,14491.26,31.5394,10.3648,low,high,long,female,Brown
+German Shepherd,37735.5796,63.1758,11.0429,med,med,long,female,Ellison
+Welsh Corgi,13129.5227,31.4809,11.1186,med,high,long,male,Boyer
+Welsh Corgi,13768.871,29.5698,10.9098,med,high,med,male,Campbell
+Boxer,28629.4588,58.735,8.9969,high,high,short,female,Day
+Boxer,29886.086,55.2694,9.2366,med,high,short,male,Roach
+Airedale Terrier,20865.2273,56.1856,9.6119,high,high,med,female,Evans
+Boxer,27917.9858,,9.4863,high,high,short,male,Chandler
+Boxer,31373.9057,,9.4275,high,high,med,female,Mitchell
+German Shepherd,35694.0646,,11.4639,med,med,med,male,Swanson
+Airedale Terrier,21555.1575,56.6429,10.9134,high,high,med,male,Adams
+Boxer,28918.6527,55.2633,8.3458,high,high,short,female,Hickman
+Boxer,29397.2715,57.731,8.5734,high,high,short,male,Floyd
+Boxer,27147.6322,57.1467,9.0976,high,med,short,female,Pugh
+Boxer,25206.0575,58.8991,8.2676,high,high,short,female,Wilson
+German Shepherd,37767.0215,62.7138,11.5569,high,med,med,male,Pena
+Boxer,31465.7968,57.4681,9.2674,high,high,med,female,Murphy
+Airedale Terrier,20199.1241,,11.8772,high,high,med,male,Calderon
+Boxer,25678.1436,59.7011,8.4804,high,high,short,male,Richardson
+Welsh Corgi,12645.4508,25.3182,10.7494,med,med,med,female,Clark
+Welsh Corgi,13212.198,28.6983,10.3174,med,high,med,male,Pena
+Airedale Terrier,19272.7877,57.2974,12.3302,high,med,med,male,Miller
+Airedale Terrier,18207.4847,56.9062,11.0966,high,high,med,female,Anderson
+Boxer,30868.0356,58.8696,9.2876,high,high,med,male,Erickson
+Boxer,21542.5544,59.222,8.8703,high,high,short,female,King
+Boxer,33260.2444,,8.5634,high,high,short,female,Gonzalez
+Boxer,31600.1287,60.7316,9.3991,high,high,short,female,Hawkins
+Airedale Terrier,24498.459,57.3063,10.388,med,med,med,female,Hays
+Welsh Corgi,16338.971,29.6924,11.3618,med,high,med,male,Scott
+Airedale Terrier,19356.3953,57.8525,10.9784,high,med,med,male,Harris
+Welsh Corgi,13129.9892,28.958,11.944,med,high,med,female,Bradford
+Welsh Corgi,12237.068,26.3535,10.9743,med,high,med,male,Hayden
+Welsh Corgi,16781.9846,,11.6162,med,high,med,female,Skinner
+Boxer,33671.7443,57.2125,8.0832,high,high,short,female,Dunn
+Boxer,24308.5328,60.6501,8.0644,med,med,med,male,Richardson
+German Shepherd,35999.9813,61.3003,11.4634,med,low,med,female,Anderson
+Boxer,35466.6379,57.7736,7.6992,high,med,med,male,Aguirre
+Boxer,32386.6044,59.8405,8.9366,high,high,med,female,Crawford
+Welsh Corgi,10186.0074,29.6311,11.9426,med,high,med,female,Esparza
+Airedale Terrier,20853.317,56.984,11.2887,high,med,med,male,Wilson
+Boxer,26450.1989,58.1048,9.7071,high,high,short,male,Jones
+Airedale Terrier,20363.617,57.7025,12.984,high,high,med,male,Brown
+Boxer,33873.8369,59.3275,9.2723,high,med,short,female,Tyler
+Airedale Terrier,16028.6493,57.3485,10.6634,high,high,short,female,Santos
+German Shepherd,36341.4743,62.1206,10.9833,med,med,short,female,Fischer
+German Shepherd,35049.2782,61.2765,11.0369,med,med,med,female,Adams
+Boxer,30492.1758,58.285,8.7215,high,high,short,female,Sanchez
+Boxer,33219.1268,58.3904,8.3423,high,med,short,female,Gordon
+Welsh Corgi,11286.1784,,11.8197,med,high,med,male,Freeman
+German Shepherd,38016.1891,61.631,10.5656,med,med,med,male,Davis
+Welsh Corgi,12798.7614,26.9626,11.4092,med,high,long,female,Kim
+Airedale Terrier,18630.6385,56.5341,11.9769,high,high,med,male,Jones
+Boxer,30205.3774,58.107,9.0869,high,high,short,female,Brooks
+Welsh Corgi,13825.2443,28.1262,12.0606,med,high,med,male,Diaz
+Airedale Terrier,19201.502,55.9793,11.6356,high,high,med,male,Gonzalez
+Airedale Terrier,18814.8934,,11.0149,high,high,med,male,Tara
+Airedale Terrier,23735.4176,56.6397,12.2301,high,high,short,female,Woodward
+German Shepherd,35772.5741,62.9782,11.1512,low,med,med,male,Lopez
+Airedale Terrier,21718.5172,55.9419,11.5545,high,high,med,male,Shaw
+Boxer,31190.6197,57.6534,9.1949,high,high,short,female,Scott
+Boxer,27919.0647,60.1188,8.7754,high,high,short,female,Blake
+Welsh Corgi,12915.1889,26.8731,10.6329,med,high,med,female,Johnson
+Welsh Corgi,13813.7079,28.8808,11.6137,med,high,med,male,Malone
+German Shepherd,39175.2859,,10.6834,med,med,long,male,Diaz
+German Shepherd,36441.4425,59.5272,12.2193,med,med,med,female,Drake
+German Shepherd,36848.5053,60.6122,11.2648,med,high,med,female,Drake
+German Shepherd,39266.2299,59.0875,12.6619,low,high,med,male,Rush
+Boxer,27828.083,58.2206,7.8804,high,high,short,male,Hill
+Welsh Corgi,13647.5797,27.7111,11.4681,high,high,med,male,Lara
+Boxer,29621.508,59.7364,9.005,high,high,short,female,Colon
+Boxer,29373.5723,,9.7283,high,high,short,male,Garcia
+Boxer,33024.7344,55.7399,10.1376,high,high,short,male,Delgado
+Welsh Corgi,11516.3205,26.3669,10.4973,med,high,med,male,Gonzalez
+Welsh Corgi,14045.3623,29.3517,10.2153,med,high,med,female,Collins
+Welsh Corgi,14876.9438,25.0446,11.3431,med,high,med,male,Lopez
+Boxer,27609.9963,58.8761,7.397,high,high,short,female,Vang
+Airedale Terrier,21394.456,57.297,11.6051,high,high,med,male,Spencer
+Welsh Corgi,9840.9886,,10.563,med,high,long,female,Gray
+German Shepherd,37301.6316,62.2762,11.2945,med,med,long,female,Sims
+German Shepherd,37524.2231,60.487,10.6654,med,med,med,female,Beasley
+Welsh Corgi,14489.1763,25.7343,10.4015,med,high,med,female,Suarez
+German Shepherd,36792.683,62.687,10.9316,low,med,med,male,Hayes
+Welsh Corgi,13063.8829,29.2653,10.5028,high,high,med,female,Drake
+German Shepherd,34546.806,61.2321,12.7144,med,med,med,female,Peters
+Airedale Terrier,20356.8912,57.5053,13.1182,high,high,med,male,Parker
+Airedale Terrier,20798.5409,57.5974,12.5027,high,high,med,male,Walters
+German Shepherd,36118.9757,59.3734,11.507,low,med,med,female,Robertson
+German Shepherd,37493.7956,,9.8597,med,med,short,male,Foley
+Welsh Corgi,12809.6072,30.4946,11.7171,med,high,med,female,Ortega
+Boxer,26871.0734,58.5189,9.8825,high,med,short,male,Turner
+Airedale Terrier,21735.669,56.8109,11.1996,high,high,med,female,Russell
+German Shepherd,37334.2723,61.3523,11.1623,low,med,med,female,Weaver
+German Shepherd,35748.1718,62.3026,11.2579,med,med,med,male,Jones
+Welsh Corgi,16217.6175,,11.1822,med,high,short,female,Williams
+Boxer,35387.8551,58.6968,8.6136,high,high,short,male,Kennedy
+Boxer,23971.8164,60.6056,8.994,high,high,med,female,Pace
+Welsh Corgi,15154.8302,29.3609,11.698,med,high,med,female,Green
+Airedale Terrier,19392.7365,56.9279,10.4342,high,high,short,male,Cox
+German Shepherd,36545.917,63.5173,11.0561,med,high,short,female,Brown
+Airedale Terrier,20367.4244,,11.339,high,high,med,male,Roberts
+Airedale Terrier,23036.0975,57.4418,10.962,high,high,short,male,Jackson
+Boxer,30720.6372,58.3103,8.7787,high,high,short,male,Davis
+Boxer,23320.524,,8.8128,high,high,short,female,Murphy
+Boxer,20532.79,59.5577,8.8974,high,high,short,male,Mitchell
+German Shepherd,34717.3791,60.0459,10.5086,med,high,med,female,Moody
+German Shepherd,37240.6397,61.2328,10.7759,med,high,med,female,Adams
+Airedale Terrier,21487.1506,56.4207,10.565,high,high,med,male,Peters
+German Shepherd,38118.6927,60.8868,10.939,med,med,med,male,Sharp
+Welsh Corgi,13935.0409,27.4326,11.2472,med,high,med,male,Robinson
+German Shepherd,39580.5796,63.321,10.9807,med,med,med,female,Rogers
+Airedale Terrier,17915.4673,56.5957,13.9732,high,high,med,male,Henderson
+Boxer,33511.6089,57.3267,8.709,high,high,short,male,Bell
+Welsh Corgi,13039.1027,,10.5675,low,high,med,male,Bass
+German Shepherd,34899.6079,,11.3045,med,high,med,female,Day
+German Shepherd,35232.2729,59.1712,10.5426,high,med,med,female,Gomez
+Welsh Corgi,15627.1221,29.6233,10.1661,med,high,med,female,Gomez
+Airedale Terrier,18252.9651,57.9426,11.5376,high,high,med,female,Burton
+Boxer,29667.4303,58.6234,8.803,high,high,short,female,Wilson
+Welsh Corgi,15784.1316,31.1238,10.9087,med,high,long,male,Parks
+Boxer,28067.2892,59.0751,8.0943,high,high,short,female,Hawkins
+German Shepherd,36513.6447,61.8132,10.588,med,med,med,female,Walters
+German Shepherd,36591.1742,56.8201,11.2966,med,high,short,female,Jackson
+Boxer,23725.495,58.4973,8.101,med,high,med,female,Lowe
+Airedale Terrier,19731.7859,,10.4423,high,high,med,female,Odom

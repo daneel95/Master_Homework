@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Great Dane,50029.5027,75.101,7.1206,med,med,short,female,Joyce
+Great Dane,51412.681,77.2724,7.1015,med,high,med,male,Ferguson
+Akita,47333.5043,66.6234,11.8851,low,med,med,male,Baker
+Akita,48465.4966,68.556,10.9863,med,med,med,female,Guerrero
+Akita,44637.3659,67.211,11.0315,med,med,short,female,Morrow
+Akita,50822.1021,65.0755,12.0286,med,high,med,male,Navarro
+English Setter,25676.6813,,10.7589,high,high,med,male,Ramos
+Great Dane,54955.1424,,7.3735,low,high,short,male,Edwards
+German Shepherd,36635.116,60.2801,11.6454,low,med,med,female,Mullen
+Great Dane,50850.7781,82.1958,6.3959,med,med,short,female,Lee
+Akita,47353.1662,64.4862,11.7612,med,high,med,female,Fischer
+Akita,50345.725,,11.3955,med,med,med,male,Joseph
+German Shepherd,36617.2455,60.9719,12.0903,med,med,med,female,Morgan
+Great Dane,49288.4836,,7.0875,med,med,short,male,Ramirez
+Akita,41419.6805,67.5828,10.8352,med,med,med,female,Rodriguez
+Great Dane,49344.6466,82.0219,6.9113,med,high,short,female,Weeks
+English Setter,31607.5876,63.3405,9.6821,high,high,med,male,Sweeney
+Great Dane,53110.0007,78.078,6.2023,med,high,short,male,Jordan
+English Setter,28256.8741,,11.6726,high,high,med,male,Liu
+Akita,52349.1881,,11.341,med,med,short,female,Young
+English Setter,32209.4986,62.6932,12.4063,high,high,long,female,Palmer
+English Setter,32492.9937,65.5573,11.4523,high,high,short,male,Case
+Akita,54222.1088,68.8857,10.6399,med,low,short,female,Cox
+Akita,37637.8147,65.4845,11.8665,med,med,med,female,Kelly
+Great Dane,48303.5751,77.0214,6.4655,med,high,short,female,Montoya
+Akita,41852.984,,10.7877,med,med,short,female,Russell
+Great Dane,51011.778,75.2158,6.5044,med,high,short,female,Harding
+Great Dane,52903.2187,79.6958,7.4524,med,high,short,female,Lopez
+German Shepherd,36439.4093,56.4719,10.4509,med,med,med,male,Crane
+English Setter,31034.3846,60.6977,12.1006,high,high,med,female,Davidson
+English Setter,33543.5637,59.9685,12.0747,high,high,med,male,Kim
+German Shepherd,39551.6492,,12.3745,med,med,med,female,Sanders
+Akita,42977.2136,67.753,10.8665,med,med,med,male,Walker
+English Setter,34265.2702,60.6515,11.2884,high,high,med,male,Gray
+German Shepherd,37425.9213,60.4106,10.8373,low,med,long,male,Campbell
+English Setter,20933.5967,61.099,11.5042,high,high,med,male,Moore
+Great Dane,51735.9133,78.6651,6.6768,med,high,short,male,Hall
+Akita,37036.0875,64.2208,11.2262,low,med,med,female,Collier
+German Shepherd,36916.3263,58.9399,11.197,high,med,med,female,Donovan
+German Shepherd,35266.3537,60.1842,11.1359,med,med,short,female,Brown
+German Shepherd,34648.8715,,11.5722,med,med,long,male,Garcia
+Great Dane,48671.2569,,6.9981,med,high,med,female,Davis
+German Shepherd,37575.7032,,11.3505,med,high,med,male,Stewart
+German Shepherd,36338.9119,58.1351,11.6588,low,high,short,male,Wilson
+Akita,44845.9691,,9.6877,med,high,med,female,Whitney
+German Shepherd,35111.2109,64.0613,10.5692,low,med,med,female,Cruz
+English Setter,24155.0854,65.1544,14.6491,high,high,med,female,Smith
+German Shepherd,36217.3358,62.5023,11.8097,low,med,med,female,Morris
+German Shepherd,36192.208,60.6021,10.2221,med,med,med,female,Mitchell
+Akita,35151.2145,66.9822,10.7109,med,med,med,female,Turner
+German Shepherd,37380.5865,,10.8384,med,med,med,female,Underwood
+German Shepherd,37064.1131,59.391,11.2033,med,med,med,male,Wright
+Great Dane,55850.6779,78.0228,6.9317,med,high,short,male,Hughes
+German Shepherd,37281.733,61.8858,11.2966,med,high,long,male,Smith
+Akita,24704.6225,,10.964,med,med,med,male,Valencia
+Great Dane,48622.8896,80.3439,6.8561,low,high,short,male,Chapman
+German Shepherd,36097.5062,,11.7985,med,med,med,female,Jackson
+English Setter,26522.7185,61.5968,11.0036,high,high,short,female,Mcgee
+Akita,49093.5515,,10.9398,med,low,med,male,Ward
+Akita,47348.3982,69.5284,10.1716,med,med,med,female,Roberson
+Great Dane,50645.749,78.5474,7.5523,med,high,short,male,Davies
+English Setter,24531.3774,,12.1415,high,high,med,female,Rogers
+Akita,57782.866,68.4121,10.8753,med,med,med,male,Thompson
+Akita,51704.8033,,11.8918,med,low,short,male,Williamson
+German Shepherd,35588.5422,,10.9667,med,med,med,male,Blake
+Akita,17640.94,67.5989,11.7987,med,med,med,male,Sullivan
+English Setter,24778.2655,,11.0501,high,high,med,male,Glover
+Great Dane,48171.4472,80.228,6.2282,low,high,short,male,Wood
+Akita,48894.6143,65.6871,10.7749,med,med,med,male,Fields
+German Shepherd,38655.6556,61.1331,10.9986,med,med,med,female,Chan
+Akita,50906.6603,,11.5921,med,med,med,male,Kennedy
+Great Dane,48145.5535,76.9847,7.0327,med,high,short,female,Williams
+English Setter,22413.433,,11.6788,high,high,med,female,Alexander
+English Setter,24567.8593,55.8339,12.1115,high,high,med,male,Houston
+English Setter,26844.656,,13.5423,high,med,med,female,Ray
+German Shepherd,38915.219,58.0544,10.9931,med,med,short,male,Nguyen
+Akita,48088.9765,65.7941,10.23,med,med,med,female,White
+English Setter,30999.7252,65.6085,10.5344,med,high,med,male,Lawrence
+Great Dane,46217.6919,76.8691,6.7816,med,high,short,female,Clayton
+German Shepherd,34152.4396,,11.1563,high,med,med,female,Peters
+English Setter,33643.8085,57.9441,13.0959,med,med,short,male,Hicks
+English Setter,31149.4007,66.2714,11.1977,med,high,med,female,Shannon
+English Setter,29323.3941,59.7442,11.9907,high,high,long,male,Morales
+Great Dane,53652.0238,77.699,6.5677,med,high,short,male,Lopez
+German Shepherd,34623.8554,61.3124,10.9025,high,med,med,female,Taylor
+Akita,43413.8444,,11.1915,high,med,med,female,Robinson
+German Shepherd,38284.8949,58.5771,11.7233,med,med,med,male,Hoover
+German Shepherd,33730.1152,62.8985,10.2468,med,high,med,male,Williams
+Akita,72850.1436,69.3648,10.7561,med,med,med,male,Robles
+German Shepherd,36492.0133,60.9835,11.5462,med,med,med,male,Copeland
+Akita,35084.2178,65.5731,10.3781,med,med,med,female,Lewis
+English Setter,33331.0313,60.6372,11.2686,high,high,med,female,Ward
+Great Dane,57182.663,80.3585,7.2939,med,high,short,female,Jackson
+English Setter,25702.7568,60.6651,11.6678,high,high,long,female,Delgado
+Great Dane,52874.1612,,7.6909,med,med,med,female,Landry
+Great Dane,53971.9318,78.6523,7.458,med,high,short,female,Arellano
+Great Dane,46225.6265,82.2155,6.8741,low,high,short,female,Flores
+Great Dane,52856.6867,77.3526,6.3504,med,med,short,female,Weaver
+English Setter,22751.0451,63.0201,11.1956,high,high,med,female,Foster
+Great Dane,50799.7204,79.239,7.1241,med,high,short,female,Camacho
+English Setter,27579.509,,12.1658,high,high,med,male,Coleman
+Great Dane,44674.146,79.6256,6.4526,med,high,short,female,Hall
+Akita,49828.2162,67.9246,12.0054,med,med,long,male,Nunez
+English Setter,31605.5982,63.4365,13.0336,high,high,med,male,Weaver
+German Shepherd,37055.3766,63.9445,10.7507,low,med,med,male,Cunningham
+Great Dane,48679.6809,79.0905,7.4517,med,high,short,male,Keith
+Akita,52145.8648,,10.4745,med,med,long,female,Glover
+Great Dane,53321.3601,79.7198,6.3555,med,high,short,male,Harris
+Great Dane,47800.7233,,7.6534,med,med,short,female,Contreras
+German Shepherd,38014.7314,62.7505,11.565,med,med,short,male,Ward
+Akita,36668.4166,65.8685,11.4081,med,high,med,male,Thomas
+German Shepherd,37243.28,62.3181,12.2809,med,med,med,female,Andrew
+Akita,45315.0444,67.1705,11.0227,high,med,long,male,Castillo
+Great Dane,47570.7589,75.3301,7.6976,med,high,short,male,Lawrence
+Akita,46514.648,69.3667,12.4952,low,med,long,female,Parsons
+German Shepherd,35914.6595,,11.3065,high,low,med,female,Sims
+English Setter,31226.5529,62.4723,10.6722,high,high,med,female,Jackson
+English Setter,28299.167,61.0279,9.9483,high,high,med,male,Martinez
+German Shepherd,35949.4643,61.0223,10.2838,med,med,med,female,Lee
+German Shepherd,37010.5863,59.7339,11.9199,med,med,med,male,Taylor
+German Shepherd,36325.763,63.2462,10.6198,med,high,med,female,Daniels
+Akita,48019.7052,65.5119,9.9422,low,med,med,female,Fowler
+German Shepherd,35899.3871,63.047,10.8384,low,med,med,male,Mcdonald
+English Setter,24665.1569,62.8955,12.628,high,high,med,female,Cortez
+Akita,52135.0038,69.2698,11.7171,low,med,med,male,Nelson
+English Setter,27842.0444,,13.3996,high,high,med,male,Rodriguez
+Akita,39913.4002,65.6382,10.3636,med,med,med,male,Sara
+Akita,44045.5898,,11.1749,med,low,med,male,Murray
+Akita,47586.068,61.8514,10.2418,med,med,long,male,Jordan
+Great Dane,52626.748,76.813,5.5583,med,high,short,female,Young
+Great Dane,48095.9262,,7.8443,med,high,short,female,Bailey
+German Shepherd,36224.3303,,11.6004,med,med,med,female,Ruiz
+German Shepherd,37926.5367,57.7195,11.7897,med,med,med,male,Robinson
+Great Dane,49689.111,78.3609,5.9948,low,high,short,male,Mack
+English Setter,34060.7791,61.635,13.6992,high,high,med,male,Olson
+German Shepherd,35287.4171,61.298,11.0895,med,high,long,male,Oconnor
+Akita,50540.2307,65.5029,10.9745,med,med,med,female,Palmer
+German Shepherd,36139.6309,62.4058,9.9054,med,med,med,female,Moore
+Great Dane,53449.6359,,6.8504,med,high,short,female,Bell
+Akita,40769.0106,65.2896,11.1489,med,med,med,male,Green
+German Shepherd,34747.1726,61.2892,10.052,med,med,med,female,Newman
+English Setter,27498.5688,65.9588,11.4095,med,high,long,female,Anderson
+Akita,48491.0845,66.4368,12.2348,high,high,med,female,Jordan
+Akita,56288.4571,,9.7744,med,med,long,female,Scott
+English Setter,31593.6268,60.9987,11.6738,high,high,long,male,Terry
+Great Dane,48150.3177,76.4242,6.2225,med,high,short,female,Stevens
+Akita,39575.1496,68.5019,11.3715,med,med,med,female,Mendoza
+Akita,39609.555,66.541,10.6331,low,low,med,female,Gallegos
+German Shepherd,35637.6267,58.3833,11.0786,med,med,med,male,Rivera
+Great Dane,48906.5512,80.6461,6.549,low,high,short,female,Dennis
+Great Dane,45729.0192,79.3962,7.0435,med,high,short,male,Ross
+English Setter,29499.1901,63.243,13.0723,high,high,med,female,Mcintyre
+Great Dane,52425.4161,79.1552,7.0351,med,high,short,female,Price
+English Setter,35825.2408,,12.4589,high,high,long,male,Wolf
+Akita,28213.7055,68.2305,11.9473,low,med,med,male,Brown
+German Shepherd,33510.0978,61.8914,10.2019,med,high,med,female,Garrison
+Akita,37544.209,68.0927,11.5127,med,med,med,female,Espinoza
+English Setter,24449.4377,59.9225,12.2308,high,high,med,female,Howell
+Akita,45005.3284,,12.0702,med,med,med,male,Dunn
+Akita,42924.2206,67.2309,10.7229,med,med,med,male,Simon
+Great Dane,51549.8436,78.8291,7.7276,med,high,short,female,Newman
+English Setter,24896.2772,,9.6726,high,med,med,female,Smith
+Akita,44491.267,66.7233,11.6018,med,med,med,female,Sandoval
+German Shepherd,38923.5082,60.6116,11.4471,med,med,short,male,Lambert
+German Shepherd,37665.5873,64.0647,11.7253,med,med,med,female,Vasquez
+Akita,50653.0887,66.1937,11.4914,med,med,med,female,Thomas
+English Setter,29825.9055,62.5595,9.3343,high,high,med,male,Williams
+German Shepherd,37540.4425,60.8908,10.365,med,med,med,male,Rogers
+Great Dane,48778.7046,79.9351,7.2258,med,high,short,male,Turner
+German Shepherd,36339.6904,,10.7876,med,med,short,male,French
+English Setter,25195.2247,64.8256,11.5981,high,high,med,female,Cook
+Akita,34159.8318,,11.1512,med,med,med,female,Garcia
+Great Dane,47962.4181,77.9763,7.8273,med,high,med,female,Rebecca
+English Setter,25050.4291,58.913,11.0271,high,high,med,female,Luke
+English Setter,24257.7383,62.5834,11.4186,high,high,med,female,Shepherd
+German Shepherd,34861.2562,64.0958,10.836,med,med,med,female,Leblanc
+English Setter,33114.3304,62.7409,15.0857,high,high,long,female,Copeland
+English Setter,35087.7738,58.3665,11.538,high,high,short,male,Davis
+English Setter,28492.8956,60.6531,11.3935,high,high,med,female,Nelson
+Akita,63504.6573,65.0923,10.6831,med,med,med,male,Johnson
+Great Dane,45436.5908,79.2524,6.5107,med,high,short,male,Adams
+English Setter,20724.8489,60.0772,10.9114,high,high,med,female,Rosario
+Akita,45061.1356,65.6257,10.0212,low,med,short,male,Holland
+Great Dane,51773.3062,83.4056,6.8886,med,high,short,male,Crane
+German Shepherd,35272.442,58.4825,9.981,med,med,med,male,English
+German Shepherd,37370.452,58.0985,9.8815,med,low,med,male,Webster
+Akita,50090.397,66.9304,10.8295,med,med,med,male,Miller
+Great Dane,50069.4646,78.0522,7.1656,med,high,short,male,Moss
+Akita,42405.2485,,10.9853,med,med,med,male,Spence
+Great Dane,53443.2731,78.8545,7.1711,med,high,short,female,Lewis
+German Shepherd,35860.6706,62.7651,10.831,med,med,med,male,Fields
+German Shepherd,34842.0182,62.8438,11.3232,high,med,med,male,Briggs
+English Setter,32225.9109,66.3793,12.4244,high,high,med,female,Chavez
+Akita,35981.34,67.841,11.1382,med,med,med,male,Villarreal
+English Setter,26404.4251,63.1206,11.1397,high,high,long,female,Campbell
+Akita,49898.2913,67.9346,10.9263,med,med,med,male,Rodriguez
+German Shepherd,33788.9559,61.5793,10.4918,med,med,med,female,Keller
+Great Dane,51767.2778,80.3568,7.6488,med,high,med,female,Malone
+Great Dane,49814.4238,77.1111,6.9507,med,high,short,male,Martinez
+German Shepherd,35897.9914,58.8698,11.5575,med,med,med,male,Perez
+Akita,55576.5701,,10.8397,med,med,med,male,Robinson
+Great Dane,48598.7358,76.7318,6.8986,high,high,short,female,Hill
+Akita,49453.888,67.3663,11.5117,med,med,med,male,Clarke
+Akita,52840.6548,66.8806,11.4506,med,med,med,male,Johnson
+Akita,48892.3308,65.2044,11.4316,high,low,short,female,Williams
+English Setter,32668.7749,62.9362,11.0241,high,high,med,male,Moore
+German Shepherd,35150.0801,60.4801,11.6747,high,low,med,female,Moon
+English Setter,30049.4862,63.7104,12.3195,med,high,med,female,Wilson
+German Shepherd,36178.2127,60.1116,11.6118,high,med,short,male,Stewart
+Akita,42521.3146,67.7602,10.1567,med,med,med,female,Fisher
+Akita,50545.7146,,9.7744,med,high,med,male,Ross
+English Setter,30038.2177,62.2901,12.4477,high,high,long,male,Griffith
+English Setter,22631.5066,56.6075,13.3271,high,high,short,female,Moreno
+English Setter,30179.3759,62.7144,11.5829,high,high,med,male,Wilson
+German Shepherd,40353.4407,62.7933,10.6441,med,med,med,female,Foster
+English Setter,19807.0676,,13.0507,high,high,med,male,Schwartz
+Great Dane,46521.714,82.2028,7.439,med,high,short,male,Parker
+English Setter,26746.0163,67.9079,14.8734,high,high,med,female,Vasquez
+Akita,47410.6559,66.6196,11.8795,low,med,med,female,Foster
+English Setter,25671.3897,,13.4635,high,high,med,female,King
+Akita,40431.6384,65.1375,11.8814,high,med,med,male,Sanford
+English Setter,33161.5395,63.5708,13.4444,med,high,short,male,Miles
+German Shepherd,36321.0908,60.5198,11.4896,high,med,med,male,Wood
+English Setter,28566.0698,63.4424,13.3341,high,high,med,female,Rosario
+Great Dane,48382.1728,,6.3642,med,high,short,female,Thompson
+English Setter,25924.6248,59.6223,13.2502,high,high,med,male,Reid
+English Setter,37746.9969,62.4552,12.6665,high,high,med,female,Reid
+Great Dane,48517.5656,74.4527,6.6593,med,high,short,female,Burnett
+German Shepherd,36817.2333,62.4946,12.0289,med,med,long,male,Simpson
+Great Dane,47819.2437,78.303,6.8741,med,high,short,female,Espinoza
+Great Dane,49453.5652,77.9618,7.3128,low,high,med,male,Peters
+Great Dane,49570.2731,79.2057,6.6826,med,high,short,male,Patterson
+Akita,31354.7424,,10.628,med,med,med,female,King
+English Setter,26134.7565,64.2347,12.2923,high,high,short,male,Hall
+Akita,51604.6871,66.4637,11.0272,med,med,med,female,Wilkins
+English Setter,29479.6501,66.2407,11.3687,high,high,med,male,Travis
+English Setter,26031.0479,59.0244,11.4386,high,high,short,female,Foley
+English Setter,27328.9633,62.2314,11.837,high,high,med,male,Obrien
+German Shepherd,37753.2677,61.3565,10.5243,med,med,short,female,Bruce
+Great Dane,49789.5879,79.6546,7.0415,med,high,short,male,Campos
+Great Dane,47386.0352,78.0851,6.9078,med,med,short,male,Anderson
+German Shepherd,37197.4814,62.1357,10.6666,low,med,med,female,Hardy
+English Setter,24135.8837,63.0539,10.0078,high,high,short,female,Hernandez
+English Setter,23730.1608,,11.6743,high,high,med,female,Jackson
+English Setter,32069.0364,61.946,10.485,med,high,med,male,Chavez
+Akita,46772.0863,66.1972,10.9063,high,high,med,female,Marquez
+English Setter,29014.2846,,13.0655,high,high,short,male,Karen
+German Shepherd,38435.2828,63.8093,10.7387,med,med,med,male,Lee
+Great Dane,48465.2324,,7.3415,med,high,short,female,Keller
+English Setter,24641.9454,56.5519,12.154,high,high,med,female,Jackson
+Akita,44763.5195,69.1202,10.6694,high,med,med,female,Yu
+English Setter,28152.6409,63.9216,13.4979,high,high,med,female,Griffin
+English Setter,20905.2361,62.8046,10.3044,med,high,short,female,Conley
+German Shepherd,35279.372,61.1444,10.7589,low,high,med,male,Doyle
+Akita,49631.3341,67.8256,10.278,low,med,long,female,Perkins
+Great Dane,48251.3523,78.5877,5.9234,high,high,short,male,Glover
+English Setter,32802.104,67.0341,14.8725,high,med,short,female,Day
+Great Dane,48392.0716,80.6727,6.6799,med,med,short,male,Mathis
+German Shepherd,36822.3849,61.3761,10.6908,med,med,med,male,Sims
+English Setter,43162.9158,62.3819,10.7472,high,high,med,female,Sellers
+Great Dane,50189.0675,77.3652,7.4476,med,high,short,female,Gonzalez
+English Setter,24345.9264,61.7108,12.0671,high,med,med,female,Cunningham
+German Shepherd,34901.3179,61.2843,11.7671,low,med,short,male,Robertson
+German Shepherd,35705.801,61.9052,11.2552,med,med,med,female,Turner
+Great Dane,55675.5768,,6.8964,med,high,short,female,Fry
+Akita,54996.4256,67.2592,12.9557,med,med,med,female,Kennedy
+German Shepherd,37445.9122,,11.3141,med,med,med,female,Morgan
+English Setter,26225.8939,62.6705,13.8503,high,high,med,female,Davis
+Great Dane,52592.3635,76.121,7.176,med,high,short,male,Daniels
+English Setter,24490.9642,64.5439,13.6856,high,high,med,male,Smith
+German Shepherd,36752.9637,58.4832,10.4366,med,med,med,male,Martinez
+German Shepherd,36377.4461,62.8577,10.0921,med,med,long,female,Villanueva
+German Shepherd,33288.4667,60.3552,10.7658,low,med,med,male,Mitchell
+Great Dane,45409.2832,,7.223,low,high,short,male,Jones
+English Setter,28349.3014,59.0376,11.1582,med,high,med,female,Robertson
+Great Dane,49277.3311,76.2683,6.9773,low,high,short,male,Ross
+German Shepherd,35812.6101,60.6279,11.2678,med,med,short,female,Riley
+Great Dane,52052.0814,81.7484,7.0349,med,high,short,female,Knox
+German Shepherd,34146.3195,61.6468,10.7115,high,med,med,male,Thomas
+Great Dane,52229.9989,78.7968,6.3762,med,high,short,female,Davis
+Akita,48872.0132,66.8034,10.8786,med,med,med,male,Wagner
+Great Dane,52835.7876,75.0551,6.845,med,high,short,male,Thomas
+German Shepherd,36240.5284,60.8217,10.9974,med,low,med,female,Erickson
+Great Dane,54102.2094,,7.0069,med,high,short,male,Logan
+Akita,55362.2916,67.0855,9.7431,med,med,med,male,Ortiz
+Akita,53155.8927,66.6839,10.768,med,med,med,female,Benson
+German Shepherd,35530.5393,61.3769,10.19,med,med,med,male,King
+Great Dane,50940.5282,77.8807,6.5472,high,high,short,female,Willie
+Akita,41941.1496,68.0278,10.564,med,med,med,female,Moreno
+Great Dane,49885.0671,79.9203,7.6901,med,med,short,female,Huynh
+German Shepherd,36114.8589,60.3998,11.6149,med,med,med,female,Morrison
+Great Dane,46623.0678,78.4919,7.1815,med,high,short,male,Anderson
+Akita,60363.2218,65.8273,11.4559,med,med,med,female,Robinson
+German Shepherd,37995.6508,64.0655,11.1575,high,med,med,female,Lam
+Akita,56111.2789,,11.1716,high,med,long,male,Davis
+Akita,52755.4848,,11.7491,med,med,short,male,Allen
+Great Dane,48050.5634,76.7788,6.9886,med,high,short,male,Howard
+English Setter,33628.0767,63.5059,10.8826,high,high,med,male,Brown
+German Shepherd,33846.6942,59.6805,10.5995,high,high,short,male,Courtney
+Great Dane,49893.6621,,7.0359,med,high,short,female,Steele
+German Shepherd,35804.1629,62.6167,11.1647,med,med,med,female,Dickerson
+Akita,38423.1077,,12.6858,med,low,short,male,Michael
+German Shepherd,37321.3726,62.1126,10.0048,med,med,med,male,Bell
+German Shepherd,36602.03,,10.9635,low,med,med,female,King
+Akita,54471.6434,66.2541,11.2637,med,high,med,female,Carey
+Akita,57765.9061,68.657,11.7274,med,med,med,male,Weaver
+Akita,29095.7297,,10.4707,med,med,med,male,Gordon
+German Shepherd,36409.1201,61.8448,11.2056,med,low,long,female,Reeves
+German Shepherd,36754.5365,59.7143,11.0606,low,med,med,male,Higgins
+Great Dane,53044.6114,80.1528,6.4218,med,high,short,female,Salazar
+German Shepherd,35701.6613,63.1686,11.3446,med,med,med,male,Sandra
+German Shepherd,36804.2965,62.3909,10.6537,med,high,med,male,Evans
+Akita,50011.5411,66.9909,10.6698,med,med,med,female,Ayers
+English Setter,27031.4368,65.2298,12.1642,high,high,short,female,Banks
+Great Dane,49399.6637,77.3901,6.0148,med,high,short,male,Buchanan
+Akita,49134.2243,64.7736,11.0268,high,med,med,female,Oconnor
+Akita,47349.3637,68.5145,11.46,med,med,med,female,Anderson
+Great Dane,48006.36,79.6534,7.2935,med,high,short,female,Lee
+Akita,48299.4717,67.2062,11.2316,high,med,med,female,James
+English Setter,21837.7648,63.5652,10.9429,high,med,med,female,Hernandez
+German Shepherd,36976.6924,61.0054,11.5715,high,med,med,male,Huff
+Great Dane,50910.3747,,7.5265,med,med,short,female,Hamilton
+Great Dane,51730.6406,76.8369,7.3397,med,high,short,male,Torres
+Akita,55556.7944,64.9653,10.5461,med,med,short,female,Herrera
+German Shepherd,34439.2259,62.3533,10.1025,med,low,short,female,Burton
+German Shepherd,36890.0304,61.7421,10.5761,med,med,short,male,Scott
+Akita,46988.6957,66.3048,10.731,med,med,med,male,Kyle
+English Setter,24346.6731,61.7159,11.3013,high,high,med,female,Velazquez
+Akita,47473.001,69.3306,11.8752,med,med,med,male,Nguyen
+English Setter,24323.5108,61.4961,12.5078,high,high,med,male,Lopez
+Great Dane,51974.2275,,6.669,med,high,short,female,Stephenson
+German Shepherd,36146.7062,,11.5128,med,med,med,male,Pineda
+Akita,50743.7358,65.8283,9.804,med,med,med,female,Camacho
+Akita,44939.0267,,9.9952,low,med,med,female,Jones
+Great Dane,51166.4302,78.9429,7.0673,med,high,short,male,Campbell
+German Shepherd,35763.9641,61.4709,11.5647,med,med,med,male,Owens
+English Setter,25760.8285,66.2015,12.0396,high,high,med,male,Evans
+Great Dane,45736.8099,,7.6152,high,high,med,female,Wagner
+English Setter,20973.9917,64.5408,11.2242,high,high,med,male,Sanders
+German Shepherd,35266.5646,61.183,11.3413,med,med,med,male,Gutierrez
+Great Dane,52997.9974,,6.1613,med,med,short,female,Smith
+Great Dane,54331.683,77.8289,6.5079,med,med,short,male,Christensen
+Akita,39720.9783,65.5771,11.7945,med,med,med,female,Torres
+Akita,33673.2016,69.8583,11.1428,high,med,med,male,Cowan
+German Shepherd,37515.7528,60.5117,9.99,low,med,med,female,Smith
+German Shepherd,36835.348,60.2455,10.9378,med,med,med,female,Williams
+English Setter,26408.7979,58.5937,14.1777,high,high,med,male,Fischer
+Great Dane,50743.6414,77.3061,6.7552,med,high,short,female,Williamson
+Great Dane,49575.1378,82.4433,6.1559,med,high,short,male,Young
+Akita,56300.0036,,11.1158,med,med,med,male,Farmer
+English Setter,24186.562,61.4969,13.0425,med,high,med,female,Fields
+German Shepherd,34980.0768,62.1808,11.0084,med,med,short,female,Ross
+Great Dane,48814.4237,79.1252,6.6599,med,high,short,female,Ward
+English Setter,28211.0108,,12.2478,high,high,med,female,Thomas
+English Setter,29090.9057,,9.4026,high,high,short,male,Miranda
+English Setter,24931.2615,60.3975,9.6314,high,high,med,male,Green
+Great Dane,51850.3279,80.6649,7.1298,med,high,med,female,Wilson
+German Shepherd,34856.3817,63.1094,10.1123,med,med,med,male,Morris
+Akita,54123.3909,,10.0641,med,low,med,female,Tate
+Akita,41225.9139,64.165,10.9899,med,med,med,male,Webster
+German Shepherd,34845.794,,11.0786,low,med,med,male,Williams
+English Setter,26169.9537,59.2309,11.5807,high,high,short,male,David
+Great Dane,51020.6457,80.582,6.6664,med,high,short,female,Smith
+German Shepherd,37651.6495,,11.6752,med,med,med,female,Brown
+German Shepherd,38333.9108,61.2669,10.1776,high,med,short,female,Johnston
+German Shepherd,37423.644,58.7883,10.6236,med,med,long,female,Baldwin
+Akita,48451.9779,67.6492,10.6322,high,low,med,male,Olson
+Akita,52041.596,66.5193,10.6368,med,med,med,female,Wood
+English Setter,36766.2526,,12.0929,high,high,short,male,Garza
+Great Dane,44311.5726,80.0187,6.6289,med,high,med,male,Morris
+English Setter,29538.7825,57.9042,11.0929,high,high,med,male,Gates
+German Shepherd,38178.9919,58.2673,11.7599,med,low,med,female,Hanson
+English Setter,25967.8802,65.4294,12.2518,high,high,med,female,Johnson
+Great Dane,49820.069,80.4246,7.7631,med,high,short,male,Nunez
+Great Dane,48724.2211,,7.297,med,high,med,female,Bullock
+Great Dane,53866.0417,80.039,6.698,med,high,short,male,Roberts
+German Shepherd,34182.0,65.9229,11.3597,med,med,med,male,Mullins
+German Shepherd,35696.4858,62.0326,10.3528,med,low,med,male,Jones
+English Setter,21957.8372,60.1645,13.8231,high,high,short,female,Schaefer
+Akita,44312.2382,65.0686,10.7025,med,med,med,female,Potter
+English Setter,27025.6801,65.5115,13.4503,med,high,med,male,Dennis
+English Setter,26630.4377,61.6004,13.4508,med,high,med,female,Brown
+German Shepherd,35685.5391,61.0163,11.1663,med,med,long,female,Thomas
+Great Dane,49642.4205,78.6421,7.0741,med,high,short,female,Thompson
+English Setter,29148.7718,,9.9464,high,high,long,male,Blanchard
+English Setter,29429.1736,59.7249,12.273,high,high,med,male,Rivera
+English Setter,31062.3669,59.1255,11.6559,high,high,med,male,Miller
+German Shepherd,37098.1177,59.0283,11.4631,med,med,med,female,Le
+German Shepherd,34827.2198,61.1929,10.5033,med,low,short,male,Hess
+English Setter,31816.9771,,10.6825,high,high,med,male,Turner
+German Shepherd,35469.8361,,11.1631,med,med,med,female,Cooper
+Great Dane,48577.1575,81.6885,7.3965,med,high,short,female,Meyer
+Akita,45608.5916,,11.5506,med,med,long,female,Martin
+German Shepherd,38682.0357,60.8511,11.6377,med,med,short,female,Carr
+Akita,31854.4037,66.4876,11.2721,med,low,long,female,Griffin
+English Setter,23327.5906,65.1509,13.4714,high,high,med,female,Diaz
+German Shepherd,35142.139,59.7067,10.9764,med,med,med,female,Lee
+German Shepherd,36586.7078,62.4362,10.6385,med,med,med,male,Nguyen
+Akita,52412.7746,69.223,9.6806,med,med,med,male,Stanley
+German Shepherd,35992.8528,58.0536,10.6468,med,med,med,male,Taylor
+German Shepherd,39433.2158,58.0657,10.5381,med,med,long,female,Wise
+German Shepherd,36166.5685,,11.8729,low,med,long,male,Gonzalez
+English Setter,32675.853,62.8682,13.5891,high,high,med,male,Baker
+English Setter,34020.947,,14.2082,high,high,med,female,Parker
+German Shepherd,39079.711,61.4423,10.9318,med,med,med,male,Williams
+Great Dane,47058.1932,79.7324,7.7784,med,high,short,male,Ruiz
+English Setter,23486.7269,58.4341,14.1286,high,high,med,female,Parker
+German Shepherd,36271.6825,59.636,11.2623,med,med,med,male,Sierra
+German Shepherd,33610.4977,61.9779,10.687,med,low,med,male,Hicks
+Akita,51314.3679,65.4584,10.1781,med,low,med,female,Fleming
+English Setter,34739.0202,65.6628,10.6299,high,high,med,female,Fleming
+Great Dane,46090.8114,,6.0038,med,high,short,female,Singh
+Great Dane,56628.5873,79.4086,5.9769,med,high,short,male,Gray
+Akita,61058.1574,69.4111,11.1917,med,med,long,female,Casey
+German Shepherd,38769.5932,60.7818,11.4102,med,med,long,female,Fuller
+Akita,48907.6371,68.2752,11.0309,high,med,long,male,Nelson
+Akita,47461.6244,65.4624,10.8301,med,med,med,male,Mckinney
+German Shepherd,34858.2957,60.7273,10.8754,med,med,med,male,Baker
+German Shepherd,37740.7771,63.5602,11.5828,med,med,med,female,Espinoza
+Akita,18840.7859,,11.1899,low,med,med,female,Hill
+German Shepherd,36938.776,62.8457,10.1765,med,med,med,male,Hall
+English Setter,29140.4486,61.5469,11.6062,high,high,med,female,Bauer
+Great Dane,47205.8643,80.5858,7.3252,med,high,short,female,King
+English Setter,29770.2336,60.398,15.74,high,high,med,female,Olsen
+Great Dane,44301.7268,80.1866,6.543,low,high,short,male,Wilkerson
+Akita,46120.9726,,11.136,med,high,med,male,Norris
+German Shepherd,37632.2836,58.2142,11.0251,med,med,short,male,Jimenez
+English Setter,26214.8246,,10.7638,high,high,long,female,Hood
+German Shepherd,35633.2194,64.2925,12.008,med,med,med,male,Hayes
+German Shepherd,35871.6704,62.5859,12.0202,med,med,med,male,Dunlap
+English Setter,35560.0897,64.0898,13.7164,high,high,med,female,Gonzalez
+Akita,51746.9653,66.1143,10.8428,med,med,med,female,Washington
+English Setter,25545.848,,12.5397,high,high,med,male,Myers
+English Setter,20401.0952,68.223,11.4217,high,high,med,female,Barrera
+Great Dane,52014.1368,74.4219,7.769,med,high,med,female,Dominguez
+English Setter,27317.887,63.4,15.8448,high,high,med,male,Jones
+English Setter,32448.6939,61.807,9.6923,high,high,med,male,Rivera
+English Setter,23787.4754,,10.6256,high,med,med,female,Wright
+Akita,36401.428,66.682,10.6321,med,med,med,male,Perez
+German Shepherd,35826.5858,,11.1024,med,low,med,male,Sweeney
+Akita,55910.0297,68.6098,11.069,med,med,long,female,Roberts
+Akita,58135.6266,68.2838,11.2356,med,med,med,male,Mendez
+Great Dane,52157.1335,75.9387,7.1251,med,high,short,male,Grant
+German Shepherd,33450.7714,61.0907,11.3861,med,med,med,female,Oneal
+English Setter,27755.0488,59.5353,10.3879,high,high,short,female,Hunter
+Akita,46961.9139,66.8382,10.8377,high,med,med,male,Jose
+German Shepherd,36016.3468,61.8337,12.0815,low,med,long,female,Trujillo
+Great Dane,47206.5751,,6.954,med,high,med,male,Watkins
+Akita,44248.286,,11.0768,med,med,long,male,Adams
+Akita,55647.5452,66.5903,10.4367,med,med,med,male,Kimberly
+Great Dane,53738.3111,77.5841,6.8115,med,high,med,female,Miller
+English Setter,30910.2372,,12.3113,high,high,med,male,Andrade
+Great Dane,47147.9146,79.9061,8.1486,med,high,short,male,Mendoza
+Great Dane,52259.7444,79.5609,8.3623,med,high,short,male,Martinez
+Akita,51925.3362,67.0898,10.49,low,low,med,male,Manning
+English Setter,31177.6184,61.2259,10.611,high,high,med,female,Morales
+Akita,56905.1684,68.0818,10.9929,med,med,med,female,Williams
+Akita,39742.1871,65.5368,10.4667,med,med,med,female,Gonzalez
+Great Dane,42908.4894,79.2506,7.4673,med,high,short,female,Turner
+Akita,38717.5473,66.958,10.9229,med,med,med,female,Allen
+Great Dane,44940.6758,77.966,7.7853,med,high,short,female,Andersen
+German Shepherd,36632.7585,,11.3891,med,med,med,male,Morgan
+Akita,57353.5055,65.4257,11.8405,med,med,med,male,West
+Akita,57319.2091,66.8517,12.0974,med,med,short,female,Nichols
+Great Dane,53493.9267,78.3636,7.4062,med,med,short,female,Carrillo
+Great Dane,48601.6265,78.6141,7.3512,med,high,short,female,Raymond
+Great Dane,49001.2951,,6.8146,med,high,short,male,Lawson
+German Shepherd,38019.1364,59.7323,9.8136,high,low,med,female,Smith
+German Shepherd,34977.0889,,11.5503,med,med,med,male,Armstrong
+German Shepherd,34064.8926,58.9446,11.0377,med,med,med,male,English
+English Setter,25172.2723,61.1878,13.9957,med,high,med,male,Cobb
+English Setter,32725.959,60.3442,11.4753,high,high,short,female,Woods
+English Setter,29360.1952,60.1266,11.2829,high,med,med,male,Edwards
+English Setter,30720.2117,55.1696,12.7056,high,high,short,female,Weber
+Great Dane,50928.7582,77.7407,7.3417,med,high,short,female,Graves
+Akita,66114.6531,67.3249,10.2152,med,med,med,male,Hall
+German Shepherd,36960.7809,60.8074,10.67,med,med,short,female,Carrillo
+German Shepherd,35850.6985,61.8236,11.6181,med,med,med,female,Medina
+English Setter,20654.9106,62.8678,11.8282,high,med,med,female,White
+English Setter,32554.8494,63.3686,9.7909,high,high,med,female,Stein
+German Shepherd,36462.6279,59.5346,11.1798,med,med,med,female,Perkins
+Akita,34259.5582,67.7059,10.512,low,med,med,male,Adams
+German Shepherd,38017.285,,10.0494,high,med,short,male,Norton
+English Setter,26803.942,61.2359,12.043,high,high,med,female,Ramos
+Akita,48111.0792,65.6228,10.8168,low,med,med,female,Hopkins
+Great Dane,48497.9332,77.537,6.9785,med,high,short,female,Fernandez
+Great Dane,50917.9875,,7.4955,med,high,short,female,Robert
+Akita,51496.9359,68.3508,10.851,med,med,med,male,Flowers
+English Setter,29205.6568,61.9438,11.2508,high,high,med,male,Guerra
+Great Dane,48849.1742,80.8586,7.8027,med,high,short,male,Flores
+Akita,45481.4252,64.8087,12.1201,med,med,short,female,Lawrence
+English Setter,23975.0086,62.8127,9.4219,high,high,med,female,King
+Great Dane,52037.8938,82.1829,6.5655,med,high,short,male,Dodson
+English Setter,22941.183,62.2318,12.3078,high,high,med,male,Turner
+Great Dane,52340.6562,,7.3854,med,high,short,female,Murphy
+German Shepherd,34688.2433,59.9798,11.2317,med,med,med,female,Moore
+English Setter,27729.4083,62.5851,12.1521,high,high,med,male,Austin
+Akita,42577.4031,66.1286,11.2429,med,med,short,female,Cox
+English Setter,32826.1243,64.6151,9.3869,high,high,med,male,Johnson
+German Shepherd,36184.8673,61.4396,10.8051,med,low,long,male,Ramirez
+Great Dane,57798.0419,,7.0342,low,high,short,female,Crane
+Akita,44758.9377,67.8436,10.7849,med,med,med,male,Smith
+German Shepherd,35276.2865,61.7068,10.5307,med,med,med,male,Smith
+Great Dane,52067.1775,77.2635,6.1066,med,high,short,male,Gordon
+German Shepherd,36777.5827,61.9896,10.9176,med,med,med,female,Vaughan
+German Shepherd,37002.209,61.9864,10.781,high,med,med,male,Salazar
+English Setter,33872.8332,62.9507,13.9194,high,high,med,female,Sullivan
+Great Dane,59177.9635,77.0859,6.4203,med,high,short,male,Pollard
+German Shepherd,39292.4217,60.5053,11.3071,med,med,med,male,Clark
+English Setter,20297.5225,59.3523,11.4731,high,med,med,male,Hansen
+English Setter,25304.0837,61.2578,12.44,high,high,long,female,Valencia
+Great Dane,46254.697,78.8119,7.2173,med,high,med,male,Hooper
+Akita,37168.3397,67.0442,11.2804,med,high,med,female,Jimenez
+English Setter,23755.626,63.193,10.9849,high,high,med,female,Smith
+Akita,26136.1221,67.6303,10.9462,med,med,med,female,Day
+Akita,42362.1676,64.4982,11.3197,med,high,short,male,Hernandez
+German Shepherd,36228.4692,62.3762,10.9009,med,med,med,male,Dixon
+German Shepherd,35617.6018,,10.5741,med,med,med,male,Knox
+German Shepherd,36020.2053,,10.6827,med,high,long,male,Peterson
+German Shepherd,34926.5091,61.6141,10.8737,med,med,med,female,Sanders
+Akita,46921.4681,,11.9592,med,med,short,male,Mitchell
+Akita,42154.2858,65.8197,10.2384,med,med,long,female,Brooke
+Great Dane,46344.0808,,7.0285,med,high,short,male,Davis
+English Setter,34216.4075,,13.4096,high,high,med,female,Tyler
+English Setter,23298.3037,57.4002,12.5864,high,high,med,male,Davis
+German Shepherd,36310.8281,59.8119,10.9102,med,med,med,male,Bates
+Akita,49410.581,68.0304,11.2519,low,high,long,female,Mitchell
+English Setter,29536.7691,62.9409,12.0409,med,high,short,female,Mckenzie
+Great Dane,48033.5679,78.176,8.7222,med,high,short,male,Clark
+German Shepherd,38610.8617,61.1596,11.3714,med,med,med,female,Schmidt
+Great Dane,50700.3199,75.7062,6.6695,med,high,med,female,Middleton
+English Setter,28210.857,60.5246,11.1222,high,high,med,female,Hall
+German Shepherd,34853.9234,61.1205,11.6169,med,med,med,male,Swanson
+Akita,40715.1076,64.6825,12.3372,med,high,med,female,Smith
+English Setter,28222.6643,62.5869,11.9911,high,high,short,female,Gomez
+English Setter,29051.6554,,10.1365,high,high,med,female,Crawford
+German Shepherd,36708.2598,60.8994,11.6085,med,med,med,female,Kennedy
+German Shepherd,34881.2698,60.8386,10.17,med,med,med,female,Pennington
+English Setter,35506.8962,,10.7987,high,high,short,female,Byrd
+German Shepherd,35690.8206,61.6013,11.3655,med,med,med,female,Mills
+Akita,40283.1425,67.1612,10.4636,med,med,med,female,Cook
+German Shepherd,34205.3008,58.9553,10.0824,med,med,short,female,Gibson
+English Setter,21774.1625,62.9954,11.5847,high,med,med,female,Miller
+Akita,34937.7126,68.6212,11.227,med,med,med,male,Mejia
+Akita,35975.0952,63.7657,11.3711,high,med,med,female,Myers
+English Setter,25124.7411,59.8541,10.7025,high,high,med,female,Alexander
+Akita,37152.8027,64.661,11.2549,med,med,med,male,Clark
+Great Dane,50712.0422,79.7505,6.7347,low,high,med,female,Allen
+Great Dane,50442.4531,,7.9018,med,high,short,female,Smith
+German Shepherd,38221.8534,59.4352,10.3982,med,med,med,male,Dunn
+German Shepherd,36036.0766,60.0967,11.5,med,med,med,male,Thornton
+Great Dane,49232.8156,77.1832,6.5708,med,high,short,female,Porter
+German Shepherd,37506.2796,,11.1771,high,high,med,female,Parker
+English Setter,25605.2742,62.2995,11.2876,high,high,short,female,Cochran
+German Shepherd,37017.3924,60.9499,10.47,high,med,med,male,Rodriguez
+German Shepherd,36628.673,63.4566,10.1734,med,med,med,female,Clarke
+English Setter,23524.5967,63.1051,12.1123,high,high,med,male,Stephanie
+Great Dane,45915.8944,,6.5778,med,high,short,male,Bell
+German Shepherd,37803.3387,,11.2306,med,med,short,male,Jones
+Akita,47827.8069,67.0946,11.0504,low,low,long,female,Johnson
+German Shepherd,34816.7563,63.0296,10.6678,med,med,med,female,Williams
+English Setter,26206.3095,65.0604,10.9651,high,high,med,male,Shelton
+Great Dane,56847.6386,78.2361,7.1963,med,high,short,male,Martin
+Great Dane,47003.2164,77.0054,6.4309,med,high,short,female,Mckee
+Great Dane,51437.1747,78.0891,6.5183,med,high,short,female,Luna
+Akita,57047.859,66.8356,11.3991,med,med,med,female,Sanchez
+Great Dane,51861.6029,78.3084,7.1686,low,high,short,female,Dillon
+Akita,26069.0453,66.1826,11.1237,med,med,med,male,Miller
+German Shepherd,37217.2,,10.304,med,med,med,male,Schroeder
+English Setter,21734.042,,13.89,high,high,med,male,Guerrero
+English Setter,27351.3691,59.2668,14.0167,high,high,med,female,Clark
+German Shepherd,34664.1101,60.0584,11.3137,med,med,med,male,Kelly
+Great Dane,51731.3313,80.4133,7.6031,med,high,med,female,Jones
+German Shepherd,38267.8853,62.2105,10.2583,med,med,med,male,Johnson
+Great Dane,53866.0,78.9752,6.5394,med,high,short,female,Smith
+Great Dane,50180.8731,82.0362,7.5918,med,high,short,male,Henry
+German Shepherd,35137.3357,60.7262,11.595,med,med,med,male,Jackson
+Great Dane,47810.018,80.2216,6.8247,high,high,short,female,Yu
+English Setter,35788.3627,,11.4834,high,high,med,male,Quinn
+English Setter,30751.0667,,13.5983,high,high,med,male,Spencer
+English Setter,25722.3505,,11.5866,high,high,long,male,Glass
+German Shepherd,36278.3792,61.1755,11.1066,high,med,med,female,Smith
+Great Dane,50696.8072,80.7269,7.165,med,high,short,male,Swanson
+English Setter,26639.0802,58.2918,15.0494,high,high,med,female,Reyes
+English Setter,19682.2896,62.626,12.6381,high,high,med,female,Edwards
+English Setter,19563.7094,63.271,12.0194,high,high,short,female,Gallagher
+Great Dane,54334.6295,79.0254,6.2706,med,high,short,male,Martin
+German Shepherd,36413.4181,61.929,10.1826,med,med,med,male,Boyd
+English Setter,28067.1773,61.5295,11.2305,high,med,med,male,Alexander
+Great Dane,44800.1553,,7.6587,med,high,short,male,Cook
+English Setter,25501.7049,62.7516,11.1518,high,med,long,male,Baker
+German Shepherd,36955.792,60.2555,10.7098,med,med,med,female,Jackson
+Great Dane,56787.4886,79.841,6.9728,med,high,short,male,Graham
+German Shepherd,36645.7876,62.4351,11.325,med,med,med,male,Mitchell
+Great Dane,50228.8813,,7.754,med,high,short,male,Salazar
+German Shepherd,34746.9749,,9.8438,low,low,med,male,Odom
+English Setter,33455.5284,64.5546,10.27,high,high,short,male,Sullivan
+English Setter,31151.2795,62.0976,12.8647,high,high,med,female,Green
+Great Dane,49440.2124,76.7356,6.7648,med,high,med,male,Braun
+English Setter,22624.8638,63.5852,12.6888,high,high,long,female,Taylor
+Akita,37219.2943,66.8987,10.3215,med,med,long,female,Wong
+German Shepherd,36268.7169,60.8835,10.7096,high,high,long,female,Berry
+Akita,39382.6722,,10.9176,med,med,med,male,Adkins
+Great Dane,48698.4731,76.1468,6.5955,low,high,short,male,Porter
+Akita,42449.0643,64.8192,11.4059,high,med,long,male,Olson
+Great Dane,50303.3697,81.5924,7.2471,med,high,short,female,Munoz
+German Shepherd,35701.5194,63.1966,11.4588,med,high,med,female,Thomas
+Great Dane,53030.5833,77.68,6.6383,med,high,short,female,Lyons
+Great Dane,54298.953,78.7616,7.4971,med,high,short,female,Turner
+Great Dane,48932.389,79.126,6.6372,med,high,short,male,Lewis
+German Shepherd,35418.6344,61.6549,11.415,med,med,med,male,Davis
+English Setter,33086.0844,62.8166,11.5844,high,high,med,female,Jimenez
+Great Dane,55936.96,80.7175,7.2273,med,high,short,female,Harvey
+English Setter,34429.013,,11.3365,high,high,med,female,Hansen
+English Setter,26648.839,60.0589,11.6429,high,high,med,male,Williams
+Great Dane,47406.8991,82.2052,7.3455,med,high,short,male,Carter
+Great Dane,47724.4701,,7.1411,high,high,short,male,Smith
+Great Dane,51975.544,,6.7009,high,high,short,male,Mcbride
+German Shepherd,37295.4255,59.6134,10.6761,high,med,med,male,Gonzalez
+English Setter,29286.7038,60.7616,11.6633,high,high,med,female,Reed
+Great Dane,45893.4108,,6.7895,med,high,short,female,Caldwell
+English Setter,29069.3678,62.8915,12.8061,high,high,med,female,Peters
+German Shepherd,35468.5226,,11.485,low,high,med,male,Wright
+Akita,45374.8202,64.6525,9.894,high,med,med,female,Austin
+Great Dane,48796.9218,77.196,7.201,med,high,short,female,Alexander
+Akita,35978.5077,64.6533,11.3711,low,low,short,female,Perry
+German Shepherd,34491.1089,62.3086,11.7946,med,med,med,female,Lucas
+English Setter,33082.7105,64.7482,12.3166,high,high,med,male,Hall
+Akita,39384.4675,66.626,10.6775,med,med,long,male,Sanchez
+Akita,33020.3664,,10.4799,med,low,med,female,Small
+English Setter,41136.9738,,9.6496,high,high,short,female,Koch
+English Setter,22375.3448,63.1389,12.401,high,high,short,male,Smith
+Great Dane,52213.5841,,7.0355,high,high,short,male,Phillips
+Great Dane,55078.759,80.0548,8.6905,low,high,short,male,Davis
+English Setter,23465.7718,63.1897,12.0009,high,high,med,female,Green
+German Shepherd,36223.2132,62.0138,11.0732,med,med,med,female,Wiggins
+English Setter,25491.1208,60.1781,10.4019,high,high,med,male,Long
+German Shepherd,36294.6747,60.7703,10.4801,med,med,med,male,Baker
+Akita,39708.2502,69.6024,10.8782,low,med,med,male,Owens
+Great Dane,45916.8526,78.299,7.3363,med,high,short,male,Blankenship
+Great Dane,46636.7723,80.0505,8.1041,med,high,short,male,Palmer
+German Shepherd,30638.6271,64.2361,11.0929,low,med,short,female,Schmidt
+Great Dane,48875.1168,80.5498,6.8776,med,high,short,female,Manning
+English Setter,31055.9264,59.5774,12.6237,high,high,long,female,Martin
+English Setter,33162.1468,,12.9941,high,high,med,female,Davis
+Akita,47345.2497,67.047,11.5805,med,med,short,male,Hernandez
+Great Dane,54299.4404,78.6523,6.7431,med,high,short,male,Pope
+Akita,57021.2718,65.7159,10.3644,med,med,med,female,Garrison
+Great Dane,50563.4631,78.7741,8.0399,med,high,med,male,Krause
+English Setter,29146.0107,59.57,12.5629,high,high,med,female,Banks
+Akita,50405.5982,,10.7353,med,med,med,female,White
+Great Dane,49143.2969,81.3126,7.7121,med,high,short,female,Evans
+German Shepherd,35434.5255,59.5615,10.8773,high,med,med,male,Mason
+English Setter,37765.8747,63.0935,11.6469,high,high,med,male,Dean
+German Shepherd,38967.8399,61.212,10.8879,med,med,med,female,Hudson
+German Shepherd,36517.537,,11.5945,med,med,med,male,Jones
+English Setter,32058.0184,58.9043,10.3382,high,high,short,female,Bryan
+Great Dane,44434.3926,78.9398,6.6292,low,high,short,female,Williams
+German Shepherd,36747.4627,59.769,10.8938,med,med,long,male,Hoffman
+Great Dane,50360.2899,81.0217,7.4093,high,high,short,male,Byrd
+German Shepherd,35296.3028,60.8264,11.2404,med,med,long,female,Nelson
+Akita,46419.5553,,11.5326,med,med,med,male,Reid
+Great Dane,46989.8398,81.5269,6.5657,med,high,short,female,Sparks
+Akita,34488.7985,67.3305,11.1155,med,med,med,male,Burton
+German Shepherd,35783.7266,61.8155,10.9882,med,med,med,male,Miller
+German Shepherd,36769.8374,61.9967,11.0357,med,med,short,male,Price
+Great Dane,52454.5672,77.2999,7.0568,low,high,short,male,Butler
+German Shepherd,37414.8359,60.357,11.6207,med,med,med,male,Herrera
+German Shepherd,38160.8234,62.5738,10.5864,med,high,med,female,Rodriguez
+Akita,46091.3306,66.0939,10.2188,med,med,med,male,Kelly
+Great Dane,55790.9159,78.4089,6.2866,low,high,short,male,Cline
+Akita,56511.2507,66.9009,11.4187,med,med,med,female,Harvey
+Great Dane,52046.1481,83.0677,6.9766,high,high,short,female,Murphy
+Akita,35162.4467,67.1019,11.4102,med,low,med,female,Smith
+German Shepherd,35942.3789,61.5728,10.8849,high,med,med,female,Fernandez
+English Setter,23660.3856,56.3178,11.0169,high,high,med,female,Durham
+English Setter,30153.9763,59.8232,10.4376,high,high,med,male,Douglas
+Akita,48498.0637,65.606,11.0552,med,low,med,male,Shannon
+Akita,42926.683,70.1571,10.1498,med,med,med,male,Gallagher
+German Shepherd,35893.4867,59.1727,9.9028,med,med,med,male,Hunter
+Akita,21140.3483,69.5357,10.9705,high,med,med,female,Casey
+English Setter,32280.6604,,11.8647,med,high,med,female,Ward
+English Setter,26824.8516,63.2595,12.6585,high,high,med,male,Hansen
+Great Dane,52998.1458,,6.4883,med,high,short,female,Knight
+German Shepherd,35344.9104,,10.9546,med,med,long,female,Hardy
+English Setter,28477.9442,66.2078,12.5391,med,high,med,female,Brewer
+English Setter,34693.2122,60.5663,11.0908,high,high,med,female,Harrell
+Great Dane,51618.4086,76.9179,6.016,high,high,short,male,Soto
+Akita,49688.0465,65.7116,11.2882,med,med,med,female,Williams
+English Setter,22744.8521,59.4922,11.211,high,high,med,female,Wells
+English Setter,33740.8411,64.624,11.8709,high,med,med,male,Wilcox
+English Setter,32053.7045,64.4679,12.6142,high,high,med,male,Patterson
+German Shepherd,35742.6013,62.5497,10.2952,med,med,med,male,Gilbert
+German Shepherd,38512.8653,,10.6204,high,med,med,male,Diaz
+Akita,46881.2307,,11.5451,med,med,med,male,Brown
+German Shepherd,35481.0938,,11.1799,med,med,med,male,Perry
+Great Dane,52264.0207,74.6916,8.3669,high,high,short,male,Thompson
+Akita,50727.8435,,10.7902,med,med,med,female,James
+English Setter,31819.2392,62.2985,11.2683,high,high,med,male,Boyle
+German Shepherd,34301.4141,62.902,11.1911,low,med,med,male,Nelson
+Great Dane,48925.1064,,5.9143,med,high,short,female,Howard
+Akita,34727.7791,,10.3192,low,med,med,female,Bruce
+Great Dane,49238.6304,78.3076,7.5836,med,high,short,male,Kennedy
+German Shepherd,35828.8172,59.9627,11.5602,low,med,med,male,Barrett
+Akita,39697.1595,,10.7787,low,med,med,female,Banks
+Great Dane,48774.3934,78.0469,8.1008,med,high,short,male,Shaw
+Great Dane,52413.757,77.8359,7.0681,med,high,short,female,Goodman
+German Shepherd,38039.8802,63.0467,11.9857,med,med,med,female,Ayers
+English Setter,24600.4936,,13.4315,high,med,med,female,Robert
+English Setter,29100.187,,12.3852,high,med,med,female,Mitchell
+Akita,33289.8461,,10.6445,med,med,med,female,Brewer
+English Setter,32705.0913,61.5588,10.8883,high,high,long,female,Jones
+English Setter,28596.7602,,13.2141,high,high,med,female,Terry
+German Shepherd,34389.6885,59.773,10.4873,med,med,med,male,Pierce
+Great Dane,46426.1773,77.1618,7.4426,med,high,short,female,Howard
+English Setter,30931.0927,61.4028,9.1145,high,high,med,male,Graham
+Akita,54307.0689,,10.1642,med,low,long,female,Medina
+Akita,41282.8012,63.5585,11.2703,med,med,med,female,Calderon
+Akita,33677.7353,68.8256,10.6498,med,low,med,female,Martin
+Great Dane,42383.8563,77.147,6.8282,med,high,med,male,Ward
+Great Dane,53201.7014,,7.4151,low,high,short,male,Williams
+English Setter,22900.5835,,10.3821,high,high,med,male,Merritt
+English Setter,34100.5937,60.9313,12.4352,high,high,med,female,Beck
+English Setter,22552.2332,63.4055,12.4783,high,high,med,male,Hardy
+Great Dane,50164.4903,77.173,7.2557,med,med,short,female,Cobb
+Akita,40651.3831,66.6751,11.4567,med,low,med,male,Zamora
+Akita,42595.4505,67.8079,11.1787,med,med,med,female,Perry
+English Setter,26375.3556,60.1002,12.2396,med,high,long,female,Hendricks
+German Shepherd,34325.0972,61.5237,10.3219,med,med,med,female,Green
+German Shepherd,36839.5254,,11.6463,low,med,med,female,Dixon
+English Setter,28018.6537,,12.0186,med,med,med,female,Mitchell
+English Setter,27517.8812,,12.4255,high,high,long,male,Johnson
+Akita,55927.0486,66.3835,11.7456,med,med,med,female,Mccoy
+Akita,53311.462,66.0311,12.6225,med,med,med,female,White
+German Shepherd,39289.4893,,10.6294,low,med,med,male,Robinson
+English Setter,33279.345,63.936,11.2269,high,high,med,female,Ware
+German Shepherd,34342.9142,,9.7548,med,med,med,male,Petersen
+English Setter,19451.0885,,12.7817,high,high,med,female,David
+Great Dane,44239.6884,78.6399,6.7145,med,med,med,male,Castillo
+Great Dane,52511.2381,80.2585,7.5412,med,high,short,male,Fox
+Akita,53361.7255,63.6692,10.1628,low,med,med,female,Murillo
+Great Dane,51215.5318,78.4873,7.166,med,high,short,female,Taylor
+English Setter,26662.1947,62.1906,9.9668,high,med,med,female,Ortiz
+English Setter,32231.7995,61.0332,12.9401,high,high,med,female,Baker
+German Shepherd,34835.919,60.2024,11.7814,med,high,med,female,Small
+English Setter,21492.4507,64.9863,10.4452,high,high,med,female,Stevens
+Akita,45052.476,66.7732,10.3779,low,med,med,male,Brown
+English Setter,28360.2558,56.7022,12.9713,high,high,med,male,Rodriguez
+German Shepherd,38685.4573,59.454,11.8117,med,med,med,female,Watson
+English Setter,27777.6745,61.4821,10.1284,high,high,med,male,Leonard
+Akita,48076.0917,,10.6185,med,med,med,female,Small
+Great Dane,46247.5804,80.6841,7.3567,med,high,short,male,Berger
+Great Dane,52956.3429,78.9259,7.3028,high,high,short,male,Lawrence
+English Setter,28927.9988,,12.5661,high,med,med,male,Little
+English Setter,22381.6294,,13.4716,high,high,med,male,Carter
+Great Dane,55052.4859,77.0728,6.2353,med,high,short,female,Wright
+Akita,47084.5226,68.3872,10.7627,med,med,med,male,Stanley
+English Setter,30046.6938,58.3349,12.9385,med,high,med,female,Roman
+Great Dane,48844.9646,79.9269,7.2096,high,high,short,female,Hensley
+Akita,44753.3897,65.5155,10.755,med,med,short,female,Davis
+German Shepherd,36128.7091,58.3853,11.8829,med,high,med,male,Michael
+English Setter,31254.3321,61.9728,13.0789,high,high,med,male,Hunter
+German Shepherd,36679.3082,59.8672,12.4199,high,low,med,male,Price
+Great Dane,54165.3737,79.3983,6.788,med,high,short,female,Smith
+English Setter,29085.895,,12.1013,med,high,med,male,Mooney
+Great Dane,40290.74,,6.6713,med,med,med,female,Williams
+English Setter,30725.8445,57.8346,12.3948,high,high,med,female,Hardin
+German Shepherd,33731.6158,60.7454,11.0563,high,med,long,male,Sanders
+German Shepherd,35857.9714,62.6707,10.8847,med,med,med,male,Skinner
+English Setter,21835.0926,60.9736,13.0298,med,high,med,female,Duncan
+Akita,44516.4747,69.1415,10.1134,med,med,short,male,Chan
+Great Dane,40921.3909,,7.9775,med,high,short,female,Chapman
+German Shepherd,34874.3938,60.759,11.0868,med,med,med,female,Miller
+German Shepherd,36167.0243,58.9577,10.8358,med,med,med,male,Roman
+German Shepherd,36696.4164,61.6076,10.8095,high,med,med,male,Dillon
+English Setter,31063.3767,60.1569,11.0409,high,med,med,female,Nelson
+English Setter,23291.4671,57.9052,11.8769,med,high,med,female,Wise
+Akita,43668.3874,69.5054,9.9197,med,med,med,female,Michael
+English Setter,21817.2246,61.1127,14.5032,high,high,med,female,Walker
+Akita,30312.6868,67.4314,10.6341,high,med,med,female,Haynes
+Great Dane,53361.5182,78.1042,6.6864,med,high,short,male,Bray
+English Setter,28545.7027,,13.0255,high,high,med,female,Monroe
+Great Dane,54690.4429,79.609,7.0448,med,high,short,male,Taylor
+Akita,48347.4378,67.3645,11.3955,med,high,med,female,Lopez
+German Shepherd,37510.4091,,10.3762,low,med,med,male,Griffin
+Akita,47078.7335,,10.4007,med,med,med,female,Marcus
+Great Dane,43766.5593,76.9544,6.2899,high,high,med,male,Lee
+Great Dane,52149.7652,,6.1041,low,high,short,female,Avery
+Akita,33536.6495,,10.673,med,med,med,female,Johnson
+German Shepherd,36482.3155,59.446,10.6214,low,med,med,male,Janice
+English Setter,24593.8747,64.6835,12.7527,high,high,med,male,Robinson
+Akita,40895.7203,67.7496,10.5709,med,med,med,male,Villegas
+Akita,36055.7841,67.4961,11.9012,med,med,med,female,Miller
+Akita,28126.9528,,10.499,high,med,med,female,Torres
+Great Dane,50226.2607,83.8038,6.6945,low,high,short,female,Maldonado
+English Setter,22250.0384,,11.5312,high,high,med,male,Ruiz
+Great Dane,54058.4548,,6.7951,med,high,med,male,Rogers
+Great Dane,55872.3252,78.3181,6.88,med,med,short,female,Elliott
+English Setter,25379.3187,60.5508,11.8021,high,high,long,male,Vasquez
+German Shepherd,38280.8138,60.2052,10.1637,med,med,med,male,James
+Great Dane,48521.6768,79.2285,7.3135,high,high,short,female,Gonzalez
+Great Dane,48704.3142,80.6073,7.3962,med,high,short,female,Chandler
+German Shepherd,36218.7177,64.5697,10.3357,med,high,med,male,Brown
+German Shepherd,36991.0609,57.1884,9.9772,med,high,med,female,Hayes
+Great Dane,50732.6426,80.4646,7.305,low,high,med,male,Morrow
+German Shepherd,39025.7521,,10.8798,high,med,med,female,Mccarthy
+Akita,37135.6253,64.4182,10.9102,med,med,long,female,Smith
+Great Dane,51055.3764,80.8648,7.1758,med,high,short,male,Cooke
+Great Dane,50454.7691,,6.4284,med,high,short,female,Hanson
+German Shepherd,35409.4084,,11.363,low,med,med,female,Franco
+Great Dane,44975.02,79.4699,7.1451,med,high,short,male,Huffman
+Akita,39217.9721,66.3982,11.7008,med,med,med,female,Marquez
+Great Dane,52070.8459,80.6102,7.0949,med,high,short,male,Sweeney
+Great Dane,44412.9464,80.0715,7.2755,med,high,short,female,Perez
+German Shepherd,36696.8489,61.72,11.0716,high,med,med,female,Carey
+English Setter,31539.2696,63.9173,12.826,med,high,med,male,Campbell
+Great Dane,47680.5356,78.5546,6.142,med,high,short,female,Morgan
+Great Dane,48100.702,76.5996,6.5987,med,high,short,female,Soto
+German Shepherd,39414.0261,59.5912,10.6942,med,high,med,male,Smith
+Great Dane,54288.2393,81.82,6.2457,med,high,med,female,Villarreal
+Akita,45167.5661,67.5692,11.1847,med,high,short,male,Johnson
+English Setter,31667.3295,60.4919,11.5549,high,high,med,male,Alvarez
+Akita,29402.6054,68.1962,11.3154,med,med,long,male,Kim
+English Setter,25973.8839,62.2373,10.6287,high,high,med,male,Shelton
+English Setter,30184.2101,56.242,13.3761,high,high,med,female,Davis
+English Setter,26793.0685,62.351,10.3492,high,med,med,female,Williams
+German Shepherd,36641.6481,61.0519,11.6345,med,med,med,male,Williams
+Great Dane,48550.2915,81.5833,7.0866,med,high,short,male,Hensley
+Great Dane,51899.312,79.122,6.9501,med,high,short,female,Brown
+English Setter,31192.053,64.2825,8.1189,high,high,med,female,Christina
+Great Dane,49394.562,78.3737,6.7319,med,med,med,female,Wolfe
+English Setter,26364.1485,60.2711,11.1018,high,high,long,female,Jones
+German Shepherd,35193.9575,59.3162,10.6192,med,med,med,male,Wade
+English Setter,25964.7332,62.5148,11.0887,high,high,med,female,Wells
+Akita,39950.496,,11.1809,low,med,med,male,Mendez
+German Shepherd,39136.5723,,10.8222,med,med,long,male,Delgado
+Great Dane,54307.3885,77.942,7.6766,med,high,short,female,Leach
+Great Dane,48849.6923,78.6314,6.4591,low,high,short,male,Long
+English Setter,35146.5106,58.885,13.0654,high,high,med,male,Walsh
+Great Dane,49267.3977,78.024,6.3568,med,high,short,female,Howard
+Akita,26307.847,65.8696,10.1047,med,high,med,male,Ramirez
+Great Dane,53470.4652,80.2239,7.2749,med,med,short,female,Taylor
+German Shepherd,37173.5771,62.4916,11.5529,med,med,med,male,Hall
+English Setter,30960.5199,64.7555,10.8257,high,high,med,male,Roberts
+English Setter,24536.2143,60.937,12.7873,med,high,long,male,Dixon
+Akita,50525.3546,66.0165,11.0918,med,high,long,male,Miller
+Great Dane,51102.7392,80.8941,6.8239,high,high,short,male,Gilbert
+German Shepherd,38690.1333,63.8638,10.9973,high,low,long,male,Carter
+English Setter,24483.1849,65.0815,12.4132,high,med,med,female,Romero
+English Setter,37157.6434,63.3553,12.7515,high,high,med,female,Shelton
+English Setter,25612.0244,60.7121,11.1458,high,high,med,female,Christie
+German Shepherd,36188.8588,60.2606,10.9974,med,med,med,male,Jones
+Great Dane,48976.4802,77.318,7.4578,med,high,short,female,Good
+Great Dane,50655.0766,77.2341,6.9936,low,high,short,male,Walker
+Akita,41323.8821,69.4458,11.5575,low,high,med,female,Flynn
+English Setter,25408.1795,65.802,8.4096,high,high,med,male,Brooks
+Akita,33370.6806,65.942,10.3318,med,med,short,male,Short
+Great Dane,53042.8383,,6.0226,med,high,short,male,Smith
+Great Dane,47972.0471,77.9982,6.1262,low,high,short,female,Woods
+Great Dane,49565.5148,81.9851,7.361,high,high,med,male,Gonzales
+German Shepherd,36512.9574,,10.2885,med,med,med,male,Garcia
+German Shepherd,36148.8969,,10.7925,med,med,med,male,Malone
+Great Dane,47255.2529,76.7205,7.195,med,high,short,female,Hunt
+German Shepherd,36885.7131,62.1061,10.3223,low,med,med,male,Lozano
+English Setter,23983.0354,63.4147,11.2401,high,high,med,female,Hunt
+English Setter,32632.4379,64.7088,14.6695,high,high,med,male,Russell
+German Shepherd,37881.9265,,11.0561,med,high,med,male,Taylor
+English Setter,24903.0197,58.6441,11.8924,high,high,med,male,Hardy
+English Setter,23640.5037,62.022,12.4883,med,high,med,male,Ortiz
+Akita,35247.5855,67.7795,10.4687,med,med,med,female,Rodriguez
+German Shepherd,38211.9194,64.7222,10.7005,med,high,med,female,Sanchez
+English Setter,31129.715,,12.7056,high,med,short,male,Golden
+German Shepherd,37377.8496,61.9412,11.3889,med,med,med,female,Wilson
+German Shepherd,34169.5999,59.4299,10.451,high,med,med,male,Hodges
+German Shepherd,38985.9706,60.7339,10.552,med,med,long,male,Carlson
+English Setter,22397.7527,62.962,10.2864,high,high,short,female,Santiago
+German Shepherd,39146.8876,63.5877,11.0398,high,low,med,male,Grant
+Akita,46961.1257,65.0718,10.8309,med,med,long,female,Burns
+Akita,53274.9252,66.6405,10.7623,low,med,short,male,Ho
+German Shepherd,35844.5716,59.8198,11.7197,med,high,med,female,Cook
+German Shepherd,39015.1542,59.8832,9.2973,med,high,med,male,Johnson
+English Setter,33571.4953,58.8057,11.9164,high,high,long,female,Weiss
+Akita,35607.1979,67.3381,10.3484,med,med,med,male,Rojas
+Great Dane,52064.2123,80.6837,6.9777,med,high,short,male,Harper
+German Shepherd,38079.2237,59.5461,10.082,med,high,med,male,Fields
+Great Dane,49026.6033,80.4977,7.6252,low,high,short,male,Stewart
+German Shepherd,36035.85,58.1863,10.3096,med,med,long,female,Davis
+German Shepherd,38834.4074,61.5661,11.4003,med,med,med,female,Shaffer
+German Shepherd,36809.0634,,11.5485,high,high,med,male,Holt
+Akita,41768.8147,,11.2243,med,med,med,male,Baxter
+English Setter,29564.5715,66.2814,12.6109,high,high,med,male,Miller
+Great Dane,50635.3141,80.0333,7.2846,med,high,short,female,Graham
+Akita,48794.4234,,11.2819,med,med,med,male,Garner
+English Setter,22419.4244,63.3655,8.573,high,high,med,male,Brown
+English Setter,32957.0101,,12.5299,high,high,long,male,Hogan
+Akita,56323.2812,,11.3525,med,low,med,female,Gonzalez
+English Setter,36037.6186,,11.3798,high,high,short,male,Hill
+Akita,57066.7895,64.3069,10.3966,med,med,med,female,Davies
+English Setter,23036.9553,63.7334,12.245,high,high,med,male,Hunt
+German Shepherd,36514.1928,60.6986,12.7711,high,high,med,male,Doyle
+Great Dane,55299.3558,78.0145,7.0002,med,high,short,male,Perez
+German Shepherd,38821.55,60.4841,11.6699,high,high,med,male,Clark
+English Setter,36204.4751,,11.5632,high,high,short,male,Tucker
+Akita,48058.2947,67.4552,11.0075,low,med,short,female,Smith
+Great Dane,48033.0176,79.7195,7.5743,med,med,short,female,Lucero
+Great Dane,48911.5593,81.8621,7.4355,med,high,short,female,Sims
+Akita,36879.7103,,12.0856,med,med,med,male,Wright
+German Shepherd,39491.6241,60.2698,11.5819,med,med,med,female,King
+English Setter,25838.8753,62.0861,12.0107,high,med,med,male,Long
+English Setter,29220.0866,60.929,12.0836,high,high,med,male,Brown
+German Shepherd,35620.7793,61.1552,11.5788,med,low,med,female,Mason
+Akita,31781.2662,66.3009,10.6859,med,med,long,female,Kemp
+Akita,42738.7257,67.9636,11.1822,low,med,med,male,Riley
+English Setter,31809.6804,59.4382,11.8497,high,high,short,female,King
+Great Dane,51381.3853,,7.3685,med,high,short,female,Cortez
+Akita,47290.8078,66.2829,10.7807,med,low,short,female,Cox
+Akita,47265.2935,65.746,11.3233,med,med,med,male,Silva
+German Shepherd,36599.074,59.1664,9.6974,med,high,short,male,Ramirez
+German Shepherd,34507.4414,,11.7659,med,med,med,female,Whitaker
+Great Dane,46682.2323,78.9327,6.7955,high,high,short,female,Graves
+Great Dane,47316.4195,78.4466,7.3635,med,high,short,male,Andrade
+English Setter,32565.1859,61.1458,13.5557,high,high,short,male,Robles
+German Shepherd,38506.8812,,10.5357,med,med,short,male,Simon
+German Shepherd,35523.7812,57.9477,12.1496,low,med,med,male,Smith
+English Setter,31722.7509,59.0095,10.278,med,high,long,female,Mendoza
+Great Dane,49006.808,,7.3583,med,high,short,female,Williams
+Great Dane,52623.6579,76.814,7.2524,med,med,short,male,Hill
+German Shepherd,35295.3233,61.6264,12.2348,low,low,med,male,Lewis
+Great Dane,57479.6237,76.9029,7.1868,high,high,short,female,King
+English Setter,27406.6854,,11.6416,high,high,med,male,Smith
+Akita,39390.7583,66.6897,10.9184,med,med,med,female,Jones
+German Shepherd,36259.2855,61.529,10.4138,high,med,med,male,Hale
+English Setter,31172.2425,,10.2581,high,high,med,female,Hart
+Akita,48234.3466,68.2885,10.9182,med,med,med,female,Bush
+Great Dane,46745.0949,79.4727,6.6352,low,high,short,female,Scott
+German Shepherd,37822.0603,,12.3764,med,med,short,female,Smith
+German Shepherd,37316.9655,,10.7271,med,med,med,female,Smith
+Great Dane,49498.4926,77.5466,6.8316,high,high,short,male,Zamora
+English Setter,28504.2635,58.2486,12.4715,high,high,med,male,Cook
+Great Dane,53758.4779,76.5487,7.0636,med,high,short,male,Andrea
+Akita,65360.9161,64.9925,11.7709,med,med,med,male,Hale
+Great Dane,53340.2086,77.6078,6.5738,med,high,med,female,Mckinney
+Great Dane,45927.1887,77.2535,7.3049,med,high,short,male,James
+German Shepherd,35445.2475,,10.908,med,med,med,female,Harris
+Akita,46890.5266,65.8505,11.6497,med,med,med,male,Johnson
+Akita,40434.1312,68.8606,10.4013,med,high,long,male,Becker
+Akita,55916.4587,66.8936,10.8773,med,med,med,female,Garza
+Akita,43665.851,67.329,11.3227,med,med,long,male,Molina
+German Shepherd,37897.7973,61.7627,10.9728,low,med,med,male,Cantrell
+Akita,41583.2161,66.5378,11.0915,med,med,med,female,Harrison
+Great Dane,51747.1709,,6.4181,med,high,short,male,Garcia
+Great Dane,52099.9949,81.8387,7.0509,med,high,short,male,Gilbert
+Great Dane,48981.8158,78.3386,7.5107,med,high,short,male,Burns
+English Setter,26087.3282,58.7857,13.6167,high,high,med,male,Delgado
+Great Dane,49474.5091,77.7991,6.648,med,high,short,female,Ingram
+Akita,48358.327,,11.8916,med,med,med,female,Gray
+Akita,35524.6151,66.128,11.1311,med,low,med,female,Eric
+English Setter,33361.196,62.2366,12.8728,med,high,med,female,Dean
+English Setter,29998.4102,64.0497,10.8686,high,high,med,male,Hunt
+German Shepherd,35410.903,60.8929,11.0202,med,med,med,female,Caldwell
+Akita,59931.7768,66.2343,11.1337,med,med,med,female,Rogers
+English Setter,36665.8284,,11.9201,high,high,med,female,Chapman
+Great Dane,50247.3511,80.4712,7.0101,med,high,short,male,Peterson
+English Setter,21435.4085,,10.4213,high,high,med,male,Clarke
+Great Dane,52816.706,78.4078,6.911,high,high,short,female,Smith
+Akita,46177.7446,66.9824,10.8478,med,med,med,female,Thompson
+Great Dane,50202.2445,77.6025,6.7664,med,high,short,male,Martinez
+English Setter,26222.8419,,10.8403,high,high,med,female,Taylor
+German Shepherd,35587.5985,60.3204,10.1777,med,med,med,female,Lynn
+Akita,42513.3179,,11.7272,med,low,short,female,Shaffer
+German Shepherd,35504.4226,63.7786,11.7811,med,med,short,female,Campbell
+English Setter,25406.9171,,12.6031,med,high,med,female,Aguirre
+Akita,56788.2344,67.4973,10.4933,med,med,long,male,Gill
+German Shepherd,37932.0709,,10.6973,med,med,med,female,Diaz
+Great Dane,49315.3871,79.1919,7.6899,med,high,short,female,Salas
+Akita,42039.1142,,11.4635,med,high,med,male,Walters
+German Shepherd,35799.9851,,10.9452,med,med,med,female,Brennan
+German Shepherd,36877.0002,60.3458,10.2224,med,high,long,female,Smith
+German Shepherd,36050.8879,60.8884,10.2086,med,low,med,male,Roberts
+German Shepherd,36392.5079,,10.834,low,med,med,female,Leah
+English Setter,27317.8956,60.4295,11.3634,high,high,short,male,Curry
+Akita,22075.6505,67.527,11.0711,med,med,short,female,Lyons
+English Setter,30248.9977,63.6473,12.3275,high,high,med,male,Thomas
+Great Dane,51584.8899,79.4052,7.6133,med,high,short,female,Jackson
+English Setter,25268.0224,64.6164,11.4877,high,high,med,female,Meyer
+Akita,39856.1764,66.4155,10.5512,med,med,short,male,Daniels
+Great Dane,52211.5383,78.41,6.5979,med,high,short,female,Salinas
+Great Dane,46357.0759,77.5372,6.5718,med,high,short,female,Stevens
+German Shepherd,37210.6426,61.3546,10.3997,med,med,med,female,Clayton
+Great Dane,51368.0384,78.0291,6.8016,med,high,short,male,Gonzalez
+German Shepherd,37491.387,58.8828,9.9165,med,med,med,female,Carter
+German Shepherd,41684.2342,61.4104,10.4067,low,med,med,male,Dunlap
+English Setter,23632.0561,61.6369,11.009,high,high,med,male,Smith
+Akita,29885.2295,65.4123,10.6657,med,low,med,female,Hart
+English Setter,34104.4782,67.0429,13.5259,high,high,med,female,Williams
+German Shepherd,36282.8848,61.3641,11.3014,med,med,med,male,Lopez
+Great Dane,48013.3032,82.5084,6.8002,high,high,short,female,Powell
+German Shepherd,35860.7794,,11.6493,low,med,med,female,Powers
+German Shepherd,34306.1729,62.6204,10.7659,high,med,med,male,Julie
+Great Dane,49656.1371,80.051,6.2057,high,high,short,female,Walters

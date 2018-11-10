@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Jack Russel Terrier,5078.5216,,13.0365,high,med,short,female,Hernandez
+Bichon Frise,6514.2899,29.9725,15.4064,med,high,med,female,Fuller
+Bichon Frise,5340.142,30.0039,13.6421,med,high,med,male,Bowen
+Akita,32090.3353,66.1419,11.4628,low,med,short,female,Roach
+German Shepherd,37030.1834,,11.2622,high,high,med,male,Huang
+Bichon Frise,4790.8623,30.216,14.2019,high,high,med,female,Johnson
+Jack Russel Terrier,6882.3461,,12.7537,high,med,short,female,Brown
+German Shepherd,38012.3508,,10.4021,high,high,med,female,Mueller
+Akita,49952.1949,66.948,9.9847,med,low,med,female,Mosley
+Bichon Frise,5247.7986,30.4834,13.5262,high,high,med,female,Smith
+Jack Russel Terrier,8554.8056,33.3507,13.8207,high,med,short,male,Watson
+Akita,41762.9547,65.4456,11.2213,high,med,med,female,Byrd
+Akita,47207.5539,,10.1448,low,med,long,female,Morgan
+Bichon Frise,5323.4874,30.4164,12.3262,med,high,med,male,Hardy
+Akita,26577.9864,69.3427,10.4471,med,med,med,male,Cruz
+German Shepherd,36584.8004,62.1763,10.6365,med,med,med,male,Powers
+Bichon Frise,4532.5721,30.1833,14.0152,med,high,med,male,Mendez
+Jack Russel Terrier,6298.0029,34.1127,14.9444,high,high,short,female,Gonzalez
+Akita,47887.6578,65.0695,10.9026,med,med,med,female,Clarke
+Akita,24703.6063,64.6523,10.8662,med,med,short,male,Huynh
+German Shepherd,36985.1626,64.4063,11.3397,med,med,long,female,Humphrey
+Akita,21145.2615,66.6012,10.201,high,med,med,female,Sparks
+Bichon Frise,4783.7137,30.6518,11.5621,med,high,med,female,Lamb
+Bichon Frise,4139.2321,30.6424,12.6129,med,high,med,female,Parker
+German Shepherd,36760.7594,61.1739,11.9,med,med,med,female,Allen
+Akita,43151.1111,65.3223,10.7212,med,med,short,male,Yoder
+German Shepherd,35990.3104,60.0437,10.3428,med,med,med,male,Ingram
+Jack Russel Terrier,8297.7005,33.658,13.8901,high,med,med,female,Morris
+German Shepherd,36554.3283,60.5148,11.2755,med,med,long,male,Lawrence
+Bichon Frise,6215.4517,30.3473,12.4596,med,high,long,female,Berry
+Bichon Frise,5196.61,30.2507,14.1527,med,high,short,male,Clark
+Jack Russel Terrier,5097.8429,,14.0021,high,med,med,female,Freeman
+Jack Russel Terrier,6063.3372,33.7481,14.0358,high,med,short,female,Martin
+Akita,39098.506,65.8344,10.2512,med,med,med,male,Lang
+Bichon Frise,4089.6493,,14.4027,med,med,med,male,Taylor
+Jack Russel Terrier,6780.3645,33.5848,13.9232,high,med,short,male,Davis
+German Shepherd,33861.8872,60.0757,10.8912,low,med,med,female,Hernandez
+German Shepherd,34358.955,62.4361,9.6123,med,low,med,male,Mendoza
+Akita,45863.0906,,11.135,med,med,med,female,West
+German Shepherd,35623.1676,64.4425,10.727,high,med,med,female,Campbell
+Akita,49309.3682,66.9845,10.7119,low,med,med,male,Wilson
+Bichon Frise,3727.9619,,12.7729,med,high,med,male,Bryant
+Jack Russel Terrier,6907.6604,33.6261,14.7646,high,med,short,female,Dodson
+Jack Russel Terrier,6528.538,33.9443,14.6194,high,med,short,female,Johnson
+Akita,49730.2974,,11.3937,med,med,long,male,Michelle
+Akita,38620.3084,64.6506,10.2552,med,med,med,female,Cummings
+Akita,59961.8302,68.8834,10.0006,high,med,med,female,Massey
+German Shepherd,37501.0789,61.7469,12.0092,med,med,med,female,Zavala
+Jack Russel Terrier,6957.4714,33.851,13.4233,high,med,short,female,Garcia
+Jack Russel Terrier,6374.9726,33.4504,14.3966,high,med,short,female,Houston
+German Shepherd,34778.5372,,11.0737,med,med,med,male,Kelly
+German Shepherd,34101.2075,63.7412,11.7923,med,med,med,male,Deleon
+German Shepherd,36479.7882,59.2098,9.7073,high,med,med,male,Gibson
+Jack Russel Terrier,7058.5871,33.2659,14.3965,high,med,short,female,Kenneth
+Akita,49902.8779,63.3249,10.681,med,med,med,male,Diaz
+Bichon Frise,3194.2006,30.4144,13.831,med,high,med,female,Gomez
+Bichon Frise,5343.9714,30.6741,15.2586,med,high,med,male,Kelly
+Jack Russel Terrier,6618.1521,34.108,14.6066,high,med,short,female,Martinez
+Jack Russel Terrier,6626.7942,34.6465,13.4629,high,med,short,female,Schultz
+German Shepherd,37381.6211,61.4803,10.9747,med,med,med,male,Sloan
+Bichon Frise,4967.4076,30.6294,14.226,med,high,med,female,Garcia
+Akita,32393.062,,11.3328,low,med,long,female,Mitchell
+Jack Russel Terrier,6697.6796,33.7242,14.1394,high,med,short,male,Daniels
+German Shepherd,34566.7352,61.2182,10.7226,med,med,med,male,Owen
+Akita,47975.7785,,11.554,high,med,med,female,Preston
+German Shepherd,37558.157,,9.7917,med,med,short,female,Ortega
+Akita,43366.8789,67.0993,12.7633,med,med,med,female,Jones
+Akita,47161.018,,10.443,med,med,med,female,Campos
+Akita,44151.5096,,11.1062,med,med,med,female,Carpenter
+Bichon Frise,4454.7673,29.9197,14.3454,med,high,med,male,White
+German Shepherd,37120.6839,58.2251,9.286,med,med,long,female,Christian
+Jack Russel Terrier,8463.8212,33.6033,14.1613,high,low,short,male,Heath
+Akita,48418.2235,66.601,11.4556,med,med,med,male,Burton
+Bichon Frise,6256.7524,30.3812,13.2279,low,high,long,male,Cherry
+German Shepherd,36452.0523,60.793,10.6616,med,med,med,male,Gordon
+German Shepherd,35561.0616,61.3498,10.9264,low,med,med,male,Strickland
+Akita,66293.0003,67.7645,10.6353,med,med,med,male,Williams
+Akita,47568.348,,10.7197,high,high,med,male,Walter
+Jack Russel Terrier,6976.9199,34.7019,13.1505,high,med,short,female,Fernandez
+Bichon Frise,5269.4247,30.4312,12.8197,med,high,med,male,Katie
+Jack Russel Terrier,7083.379,34.7956,12.9301,high,med,short,female,Young
+German Shepherd,36394.1224,58.7236,11.1771,med,med,med,male,Valdez
+Bichon Frise,5208.3302,30.7632,14.1957,low,high,med,female,Flores
+Jack Russel Terrier,6302.4546,34.0203,14.377,high,low,short,male,Henderson
+Akita,45728.4224,66.5214,11.739,high,high,med,male,Howard
+Bichon Frise,5105.9365,30.9022,12.8548,low,med,med,male,Galvan
+Jack Russel Terrier,5121.7265,33.0562,13.574,high,med,short,male,Anderson
+German Shepherd,38754.0864,57.9084,10.911,med,med,med,female,Gentry
+German Shepherd,36036.1282,60.305,12.1302,high,med,med,male,Morris
+Akita,47927.594,,10.7147,high,med,med,male,Richardson
+Bichon Frise,4291.6396,30.4468,13.5541,med,high,med,female,Ward
+German Shepherd,35882.6748,60.9729,10.1699,low,low,med,female,Thompson
+Jack Russel Terrier,5324.8352,34.4259,13.8718,high,med,short,male,Sanchez
+Bichon Frise,5656.201,30.7029,13.5755,low,high,med,female,Potter
+Akita,43253.5645,66.0456,9.4657,med,med,med,male,Taylor
+Jack Russel Terrier,8929.1613,33.8525,13.8964,high,med,med,male,Campbell
+Akita,54686.6719,67.3944,10.7014,med,low,med,female,Brown
+German Shepherd,36231.1263,,10.2965,low,high,med,female,Crawford
+Bichon Frise,3268.6193,,11.2985,med,high,med,female,Carson
+Bichon Frise,4672.4029,,13.8511,med,high,med,female,Griffin
+German Shepherd,38305.7863,62.8648,11.3555,med,high,med,female,Morgan
+Akita,23263.4008,,10.3734,med,med,med,male,Williams
+German Shepherd,32032.6543,60.0293,10.6982,med,high,short,female,Sheila
+Jack Russel Terrier,4245.9727,,13.0363,high,med,short,female,Miles
+German Shepherd,36564.8875,58.5247,11.1397,med,med,short,male,Saunders
+German Shepherd,33940.9952,60.1404,11.0788,low,med,med,male,Bright
+Akita,53021.6169,64.444,10.7345,med,med,med,male,Collins
+Jack Russel Terrier,6037.5757,34.4227,14.5873,high,med,short,female,Ross
+Jack Russel Terrier,6256.5303,33.2618,14.3117,high,med,short,male,Moran
+Bichon Frise,5528.0395,30.4606,14.2848,med,high,med,female,Ellis
+German Shepherd,36998.4947,,10.8394,med,low,long,male,Wise
+Bichon Frise,5653.9149,30.8069,14.5252,med,high,med,male,Russo
+Bichon Frise,4940.8703,30.4718,13.5647,med,med,med,male,Collier
+Bichon Frise,3655.6038,30.8219,15.1697,med,high,med,female,Wilson
+German Shepherd,40567.5027,62.6555,11.7353,low,med,short,male,Smith
+Akita,38123.1381,65.8219,11.185,med,med,med,female,Robinson
+German Shepherd,36835.7495,,11.1629,med,med,med,female,Porter
+Bichon Frise,3764.339,,12.9422,med,high,med,male,Brown
+German Shepherd,37523.9572,58.2161,11.1003,high,med,med,female,Holloway
+Jack Russel Terrier,6938.7541,34.0821,14.4351,high,med,short,male,Larson
+Jack Russel Terrier,5437.4012,33.5248,13.6258,high,med,short,male,Petersen
+Bichon Frise,4323.8913,29.9962,13.5197,low,high,long,male,Mueller
+Jack Russel Terrier,6527.1062,34.2144,14.0211,med,med,short,male,Randall
+Akita,35695.1612,66.8923,11.4818,med,med,med,female,Lambert
+Bichon Frise,5256.9932,31.0617,13.1637,med,high,med,male,Howell
+Akita,51250.1836,65.2454,11.0054,med,high,med,female,Rivera
+German Shepherd,34490.6474,61.1235,12.3767,med,med,med,female,Morales
+Akita,50922.496,63.7143,10.8819,high,med,med,female,Campos
+Bichon Frise,6696.9359,30.8812,12.96,med,med,med,female,Carter
+Jack Russel Terrier,7793.5051,33.0744,14.058,med,med,short,male,West
+Akita,41936.6751,67.5418,11.9573,high,med,med,female,Ritter
+German Shepherd,37554.2828,60.6323,12.2106,med,med,med,female,Cook
+Jack Russel Terrier,5097.36,,13.5826,high,med,short,male,Conley
+German Shepherd,37809.7983,60.0649,10.4338,med,med,short,male,Levy
+German Shepherd,34543.2366,64.4196,10.8921,med,med,med,female,Johnson
+Bichon Frise,3210.8432,30.631,13.0765,med,high,med,male,Bryan
+Jack Russel Terrier,8366.7343,,13.8227,high,med,short,male,Hunter
+Akita,49976.0206,66.7451,11.7565,high,med,med,male,Price
+Jack Russel Terrier,6629.6015,35.0624,14.1057,high,med,short,male,Carr
+Akita,46430.3607,67.8187,10.5899,med,high,med,female,Hernandez
+Bichon Frise,5081.5641,30.4724,14.3025,high,high,short,female,Adams
+German Shepherd,33583.2526,63.3783,11.5243,med,low,med,female,Watson
+Jack Russel Terrier,5555.4681,32.1842,13.6992,high,med,med,male,Terry
+German Shepherd,35475.446,59.9697,11.2146,high,low,med,female,Horn
+Bichon Frise,4844.7118,30.4653,13.8344,high,high,short,male,Ruiz
+Jack Russel Terrier,5510.7175,33.467,13.1589,high,med,short,female,Gallegos
+Jack Russel Terrier,5813.0697,33.2648,13.8295,high,high,med,female,Mcdonald
+Akita,41052.0835,66.4862,9.8937,med,high,med,male,Hayes
+Jack Russel Terrier,6650.9666,33.1809,13.8793,high,med,short,female,Roberts
+Bichon Frise,4390.2709,30.4466,12.4585,high,high,long,male,Flores
+Jack Russel Terrier,7102.4429,34.9713,14.7848,high,med,short,female,Hernandez
+Akita,26029.3884,65.9216,11.4296,med,med,med,female,Freeman
+Akita,36842.5356,65.3311,11.7496,med,med,med,female,Pitts
+German Shepherd,35980.2656,60.3753,11.8671,med,med,short,male,Richardson
+Bichon Frise,4811.4185,29.9654,12.8672,med,high,med,male,Walsh
+Akita,51911.0908,,11.9242,med,high,med,female,Hill
+Akita,42266.8149,65.9449,10.1057,med,med,med,female,Alexander
+Bichon Frise,4874.0878,30.497,13.1107,med,high,long,male,Smith
+Jack Russel Terrier,7432.2853,,13.6449,high,med,short,male,Howell
+Bichon Frise,4404.8129,,13.1732,med,high,med,female,Sparks
+German Shepherd,37824.8887,,12.1113,med,med,med,male,James
+Akita,42820.4863,,10.7864,med,med,med,male,Miller
+Akita,44858.5524,68.1939,11.5588,med,med,long,female,Miller
+Bichon Frise,4668.2351,30.5596,13.8032,med,med,med,female,Patterson
+Jack Russel Terrier,5720.2253,34.2728,14.4562,high,low,short,male,Owens
+German Shepherd,33000.2957,,11.5256,med,med,med,male,Morgan
+Jack Russel Terrier,5989.6834,33.5041,14.7302,high,med,short,female,Brown
+Jack Russel Terrier,5845.0316,33.3523,14.883,high,med,short,female,Wood
+Bichon Frise,5843.3487,30.6759,13.0535,med,high,long,male,Chapman
+Jack Russel Terrier,6406.1552,34.0423,13.787,high,med,short,male,Phillips
+German Shepherd,36190.9179,62.4415,10.842,med,med,long,female,Christian
+Akita,42416.0229,69.1843,11.262,high,low,long,male,Cobb
+Bichon Frise,5106.7943,29.9856,13.0393,med,high,med,male,Hill
+Bichon Frise,3679.5881,30.5959,11.9069,med,high,med,female,Tucker
+Jack Russel Terrier,5890.3119,,14.684,high,high,short,female,Garza
+Bichon Frise,3667.1368,30.1879,13.1647,med,high,med,male,Brooks
+German Shepherd,36511.7528,59.5581,11.618,high,med,med,female,Ray
+Akita,35226.0375,67.2907,11.0361,med,med,med,male,Hicks
+German Shepherd,35775.1698,60.978,11.3365,med,med,med,male,Anthony
+Jack Russel Terrier,6407.1406,,15.8104,high,med,short,female,Murphy
+Bichon Frise,4674.0288,30.5934,13.6316,med,high,med,male,Murray
+Bichon Frise,5617.9576,30.4205,13.8742,med,high,med,female,Garcia
+Akita,39227.2998,67.3985,11.8544,low,med,med,female,Hill
+Bichon Frise,4203.9251,31.2072,14.5874,med,high,long,female,Campbell
+Jack Russel Terrier,6941.0387,33.4346,14.3195,med,med,short,female,Herman
+Bichon Frise,5126.1497,,13.0277,med,high,med,male,Soto
+Bichon Frise,2818.3373,30.519,13.2435,med,high,med,female,Gay
+Bichon Frise,4475.2761,,13.9055,high,high,med,female,Hall
+German Shepherd,34316.1682,61.487,11.3603,med,med,med,male,Lewis
+German Shepherd,37327.1235,63.557,12.0143,med,med,med,female,George
+Bichon Frise,4461.2177,,12.3874,med,high,long,male,Jones
+Jack Russel Terrier,6339.0106,33.5561,13.1975,high,high,short,female,Santos
+Jack Russel Terrier,6162.1541,35.4309,14.0417,high,med,short,male,Cruz
+Akita,47595.3082,66.2993,10.8366,med,low,med,female,Johnson
+Bichon Frise,4509.8638,30.8074,14.0962,med,med,med,female,Bates
+Bichon Frise,4227.2749,,12.3891,med,high,med,male,Ford
+Bichon Frise,4864.5769,30.4481,13.7328,med,high,med,female,Stafford
+Bichon Frise,3685.5982,,13.1907,low,high,med,female,Gill
+Jack Russel Terrier,6463.9689,33.0347,12.7527,high,med,short,male,Vargas
+Jack Russel Terrier,7485.4345,35.1534,14.2188,high,med,short,male,Banks
+German Shepherd,37953.8848,,11.3297,med,med,short,male,Bryant
+German Shepherd,36982.941,61.4233,10.6985,med,med,med,male,Armstrong
+German Shepherd,36058.0765,60.1645,10.366,high,med,med,female,Richardson
+German Shepherd,34904.7456,61.2126,10.3705,med,med,med,male,Fields
+Akita,36252.7702,,10.7797,med,med,med,male,Webster
+Akita,44299.6038,,11.1081,med,med,med,female,Mccarty
+Bichon Frise,5735.44,30.5251,12.4031,med,high,short,male,Collins
+Jack Russel Terrier,6221.9668,33.4727,14.1,high,med,short,female,Thompson
+Jack Russel Terrier,6036.7098,33.521,14.6816,high,med,med,female,Chambers
+Jack Russel Terrier,6977.5985,33.8178,13.7025,med,med,short,male,Taylor
+German Shepherd,34504.3428,58.0716,10.854,high,med,med,male,Underwood
+German Shepherd,37126.0652,,11.5204,low,med,med,female,Jackson
+Jack Russel Terrier,8341.8754,35.6036,14.136,high,high,short,female,Terry
+German Shepherd,35333.7277,60.9202,11.4855,high,med,med,male,Nguyen
+Akita,38205.5657,68.0625,11.1747,high,med,med,male,Torres
+German Shepherd,34872.1386,60.3107,10.8603,high,high,med,female,Wells
+Jack Russel Terrier,7343.9136,34.896,14.215,high,low,short,male,Aguirre
+Bichon Frise,4987.8219,30.0563,15.3728,med,high,med,male,Brown
+German Shepherd,32874.6789,60.4873,9.9744,med,high,short,male,Torres
+Jack Russel Terrier,6295.4673,35.1032,14.0422,high,high,short,male,Fernandez
+German Shepherd,37728.6595,59.3653,10.2428,med,med,med,male,Smith
+Jack Russel Terrier,6758.4293,34.3696,13.9812,high,low,short,female,Campbell
+German Shepherd,36597.4061,61.3885,10.1376,high,med,med,male,Davis
+Akita,51802.764,67.6704,11.0459,med,med,med,male,Wagner
+German Shepherd,37588.7465,58.3375,11.5324,med,med,short,female,Jones
+Bichon Frise,4577.091,30.4002,13.7036,med,high,short,female,Harris
+Akita,50201.4891,67.2841,11.468,med,med,med,female,Hill
+Akita,38344.2287,66.7613,9.5761,med,med,med,female,Davidson
+Akita,45534.2668,65.8357,10.2493,med,med,med,male,Morgan
+Bichon Frise,4867.0325,30.1538,12.1585,med,high,med,female,Fisher
+German Shepherd,34311.9063,64.1136,11.469,med,med,med,male,Carroll
+Akita,47273.0241,69.7779,11.272,med,med,med,female,Gray
+Bichon Frise,5942.22,30.6637,16.1269,med,high,med,female,Irwin
+Akita,50025.4319,,10.7982,med,med,med,female,Johnson
+Bichon Frise,4055.2046,31.1031,13.3135,high,high,long,male,Garcia
+Jack Russel Terrier,6638.6728,34.3801,13.5004,high,med,short,female,Norris
+Bichon Frise,3775.7152,30.9654,13.9376,med,high,med,female,Rodriguez
+Jack Russel Terrier,6447.043,35.2304,13.6138,high,med,short,female,Wilson
+Akita,35364.8349,65.4082,11.4624,med,med,med,male,Clark
+Akita,34945.4578,66.5065,9.7915,med,med,med,female,Jones
+Akita,43185.4656,63.8587,10.8909,low,high,med,male,Jackson
+Akita,39831.4372,66.3149,12.1332,high,med,med,female,White
+Jack Russel Terrier,6335.2513,33.4316,13.8728,med,low,short,female,Tran
+Akita,45375.9209,69.0992,10.5329,low,med,med,female,Olson
+Akita,37856.4496,68.5771,10.384,high,high,short,male,Smith
+German Shepherd,35679.8059,61.2387,11.4603,high,med,med,male,Barrett
+German Shepherd,37093.7682,,10.1496,med,med,med,male,Hartman
+Akita,38796.0389,,10.3242,med,low,med,female,Mitchell
+Jack Russel Terrier,7626.0519,35.307,13.97,high,med,short,male,Lewis
+Akita,25046.3477,66.4853,11.5213,med,med,med,male,Huerta
+German Shepherd,35054.5253,61.5951,10.4705,high,med,med,female,Moran
+German Shepherd,36402.3031,61.5932,10.8081,med,high,med,female,Sheppard
+Jack Russel Terrier,6087.1769,34.4834,14.6752,high,med,short,male,Lee
+German Shepherd,36274.4815,63.1472,11.2165,med,low,med,male,Porter
+German Shepherd,35423.807,63.946,11.2439,med,med,med,female,Herman
+Jack Russel Terrier,5493.5155,33.5174,14.6345,high,med,short,male,Schultz
+Akita,42534.0419,,10.5961,med,med,med,male,Perry
+Akita,41807.004,,11.7624,med,med,med,female,Lynch
+Bichon Frise,3994.9646,,13.0286,med,high,med,female,Holland
+German Shepherd,38732.7612,58.6627,11.8234,high,high,med,male,Reid
+German Shepherd,36857.7488,59.8734,11.0787,med,med,long,female,Brooks
+Jack Russel Terrier,6147.9696,,13.6936,high,med,med,male,Miller
+Jack Russel Terrier,7338.0195,33.9382,14.9857,high,med,short,female,Davenport
+Bichon Frise,4044.5712,30.4898,12.4879,med,high,med,male,Collins
+Akita,64741.3581,68.7101,10.4408,med,med,long,male,Coleman
+Jack Russel Terrier,6155.1753,33.3364,13.8247,high,med,short,male,Krueger
+Jack Russel Terrier,8012.2304,34.111,13.3186,high,med,short,female,Foster
+Jack Russel Terrier,5420.1118,33.9366,14.5659,high,med,short,male,Martinez
+German Shepherd,31871.358,62.4389,10.6074,low,med,med,male,Rhodes
+Akita,47863.0196,68.8785,11.5472,low,med,long,female,Christensen
+Bichon Frise,3959.9608,29.9874,13.9067,med,high,long,male,Berry
+Jack Russel Terrier,6720.4822,33.2162,13.4691,med,high,short,female,Davidson
+German Shepherd,34452.9255,61.9295,11.3415,med,low,med,female,Martinez
+German Shepherd,36216.4365,58.4955,11.9639,med,high,long,female,Shaw
+Akita,47590.2275,,9.9726,high,med,med,male,Tucker
+Bichon Frise,4534.9187,31.2655,13.1211,med,med,med,male,Freeman
+Bichon Frise,3430.9447,30.3836,13.0375,med,high,med,male,Bennett
+Bichon Frise,4252.0724,30.9243,13.1776,med,med,med,male,Schultz
+Akita,48381.7016,66.9584,10.8161,med,med,med,female,Miller
+Akita,42712.2062,66.5046,10.6894,med,med,med,male,Marsh
+German Shepherd,36272.2289,58.093,12.809,med,med,med,female,Courtney
+German Shepherd,36355.5794,61.8472,11.2374,med,med,med,female,Gibson
+Akita,36919.3368,66.3496,11.7027,med,med,med,male,Lloyd
+German Shepherd,38187.8453,,10.1391,med,med,med,male,Tyler
+Jack Russel Terrier,5802.5518,34.3896,14.0946,high,med,short,male,Anderson
+Bichon Frise,5022.8351,30.0708,11.8017,med,high,med,male,Holt
+German Shepherd,33470.9851,63.3202,11.5585,med,med,med,male,Wilkerson
+German Shepherd,35984.202,,10.8179,med,med,med,female,Aguilar
+Akita,46422.8616,,11.3045,med,med,med,male,Diaz
+Jack Russel Terrier,6483.4713,33.6608,14.1693,high,med,med,male,Lara
+Akita,60630.5469,65.1464,11.1587,med,high,med,female,Thompson
+Bichon Frise,2749.8493,30.9298,13.3048,med,high,med,female,Patrick
+Jack Russel Terrier,7037.7212,34.4488,14.0553,high,med,short,female,Smith
+Jack Russel Terrier,7177.3656,34.9341,14.284,high,high,short,female,Wagner
+Jack Russel Terrier,7375.1846,,13.5345,high,med,short,female,Jenkins
+Jack Russel Terrier,6199.4763,34.4193,13.2925,med,high,short,female,Garrett
+Akita,36573.6536,67.1769,11.2015,med,med,med,male,Garcia
+German Shepherd,36521.5028,62.6637,10.8313,med,med,med,male,Burns
+Bichon Frise,3258.2732,30.3667,14.7603,med,high,med,female,Edwards
+German Shepherd,36387.3985,59.089,10.5674,med,med,med,male,Nixon
+Bichon Frise,5726.4609,30.0967,13.9361,high,high,med,male,Lee
+German Shepherd,35157.9215,63.0125,12.4189,med,med,med,female,Espinoza
+Akita,52102.1899,65.0807,10.4004,high,low,med,female,Lee
+Jack Russel Terrier,5904.6571,33.8474,15.1867,high,med,short,female,Davis
+Bichon Frise,5340.4607,30.6941,14.2437,med,high,med,male,Blackburn
+Bichon Frise,5074.3648,,14.1677,med,high,short,male,Lowe
+German Shepherd,36402.7723,,11.7407,med,low,med,male,Robertson
+Jack Russel Terrier,5824.9363,34.5571,14.0444,high,med,short,female,Gallegos
+Akita,55586.8219,65.4555,11.5564,med,med,med,male,Brooks
+German Shepherd,35971.3904,,9.2814,med,med,med,female,Cook
+Akita,22306.7996,66.6439,9.3615,med,med,med,male,Esparza
+Akita,30910.4698,66.2955,12.032,high,med,med,male,White
+Bichon Frise,3294.9999,29.9452,13.468,med,high,med,female,Coleman
+Bichon Frise,5302.6904,,13.6717,med,high,long,male,Martin
+Bichon Frise,4291.9709,,14.6719,low,high,med,male,Esparza
+German Shepherd,37159.4963,65.1235,11.2659,med,med,med,female,Miranda
+Bichon Frise,5460.7828,30.4614,14.8719,med,high,med,female,Bush
+Akita,40476.2057,67.3968,12.4919,med,med,short,male,Anderson
+Bichon Frise,4109.765,29.8296,14.155,med,high,med,male,Walters
+German Shepherd,37242.3719,59.0419,10.9252,low,med,med,female,Acosta
+German Shepherd,34347.1372,60.1644,11.4198,med,low,long,female,Bolton
+Jack Russel Terrier,5809.0806,32.7198,13.415,high,med,short,male,Hernandez
+Jack Russel Terrier,8542.752,35.0162,13.505,high,low,short,male,Steele
+Akita,40354.1142,65.4579,10.8576,med,med,med,female,Freeman
+Jack Russel Terrier,7011.7284,33.8373,14.4992,high,med,short,male,Combs
+Jack Russel Terrier,5720.1606,,13.5249,high,med,short,female,Harris
+Bichon Frise,3316.772,30.5885,13.0034,med,high,med,female,Quinn
+Jack Russel Terrier,5801.9677,33.4635,14.4678,high,med,short,female,Hancock
+Akita,41658.939,67.8236,11.0186,med,med,med,male,Simmons
+German Shepherd,35901.2339,60.925,10.065,low,med,short,female,Jensen
+Bichon Frise,3328.0814,30.5992,14.3313,med,high,med,male,Harmon
+Jack Russel Terrier,7168.1722,32.5576,14.0946,high,med,med,male,Hamilton
+Bichon Frise,3499.925,30.6734,12.7805,med,high,med,female,Gordon
+German Shepherd,36663.9668,60.4261,11.1259,med,med,med,female,Park
+Jack Russel Terrier,6942.0553,33.9113,12.8236,high,high,short,female,Rodriguez
+Jack Russel Terrier,7072.0797,34.3196,14.3067,med,med,short,male,Mullins
+Bichon Frise,4050.4318,30.3176,12.8303,med,med,short,male,Walker
+Bichon Frise,3350.0529,30.126,14.5495,med,high,med,male,Garcia
+German Shepherd,34550.9542,63.4995,11.1549,med,med,short,female,Lynch
+Akita,27071.234,,11.8507,med,med,med,female,Peterson
+Akita,40584.3178,,11.8853,low,med,short,female,Williamson
+Akita,34887.5371,68.3032,10.8001,med,med,med,female,Martinez
+Jack Russel Terrier,7588.4107,34.3207,14.3425,high,med,short,female,Rodriguez
+Bichon Frise,3803.4988,30.1404,13.6299,med,high,med,male,Beck
+Akita,76371.8118,66.3752,11.158,med,med,med,male,Hartman
+Akita,58965.2968,65.8334,10.7097,med,med,med,female,Weaver
+Akita,46870.9409,67.1841,10.8885,med,low,med,male,Hunt
+Akita,50835.8327,65.4758,11.037,med,med,short,male,Stewart
+Jack Russel Terrier,6912.9901,34.7263,14.033,high,low,short,male,Adkins
+Bichon Frise,3947.4779,30.8012,14.1142,med,med,med,male,Jones
+Jack Russel Terrier,6251.2181,33.8658,14.3949,high,med,short,female,Garcia
+German Shepherd,35529.525,61.0944,10.9968,med,med,med,female,Mccarthy
+Jack Russel Terrier,6287.1032,33.6263,15.445,high,med,short,male,Jensen
+Bichon Frise,5772.5008,,13.5894,med,high,med,female,Warren
+German Shepherd,37867.5033,,11.0357,med,high,med,male,Young
+Jack Russel Terrier,6217.1803,34.3699,13.7915,high,med,short,female,Bonilla
+Bichon Frise,4793.4444,,13.2327,med,high,long,male,Hester
+Akita,49724.5076,69.7095,11.4858,med,med,med,female,Gray
+Akita,73833.5284,68.3457,9.3069,med,med,med,male,Mitchell
+Bichon Frise,5385.2636,30.6307,12.7014,med,high,med,female,Lee
+Akita,57226.7866,,10.7687,med,med,med,female,Gallagher
+German Shepherd,36812.7977,61.0594,11.3174,med,med,med,male,Johnston
+Bichon Frise,3450.7449,30.7847,13.6736,high,high,short,male,Franklin
+Akita,45793.136,65.0613,11.7099,med,med,med,male,Allen
+Jack Russel Terrier,5737.7196,34.5108,13.1982,high,med,short,male,Mcdonald
+Akita,42990.8785,68.7522,12.0748,med,med,long,male,Lamb
+Jack Russel Terrier,6952.6271,34.2006,14.6376,high,high,short,female,Rodriguez
+German Shepherd,39602.6591,,11.5587,med,med,med,male,Lopez
+German Shepherd,37864.5223,61.315,9.9807,low,med,med,male,Parker
+Bichon Frise,4055.8933,30.8038,14.0968,low,high,med,male,Fowler
+German Shepherd,36822.1246,,11.5159,med,low,med,male,George
+Jack Russel Terrier,8297.4627,32.1848,13.8194,high,med,short,female,Brown
+Jack Russel Terrier,5513.994,,14.5261,high,med,med,male,Morrow
+Jack Russel Terrier,8013.7788,34.0838,14.972,high,med,short,male,Cantu
+Jack Russel Terrier,5435.3571,33.8107,13.7867,high,med,short,male,Pennington
+German Shepherd,36863.9312,62.139,11.1047,med,med,med,female,Zavala
+Akita,56898.1076,69.0571,10.4804,med,med,med,female,Rowland
+German Shepherd,38487.0792,61.959,11.2953,med,med,med,female,Hopkins
+Jack Russel Terrier,7150.4804,,13.4466,high,med,short,male,Levy
+Bichon Frise,3820.6169,30.3979,15.1887,med,high,med,male,David
+German Shepherd,35092.6096,,10.7887,med,med,med,female,Anderson
+Bichon Frise,4478.8893,,14.1007,med,high,med,male,Shaw
+German Shepherd,34938.5996,60.7424,11.4919,med,med,long,female,Jackson
+Bichon Frise,3899.3662,,13.3799,med,high,med,male,Hunt
+Akita,45236.1213,66.3427,11.1652,med,med,short,female,Whitehead
+German Shepherd,36850.0283,61.993,10.3095,med,med,med,female,Smith
+Akita,47622.2884,66.3262,10.9132,med,low,med,female,Allen
+Akita,57225.9948,,10.0507,low,med,med,male,Barrett
+Jack Russel Terrier,7106.9707,33.9652,13.85,high,med,short,female,Walker
+German Shepherd,35437.4188,60.0619,10.9714,low,med,med,male,Brown
+Bichon Frise,4980.2005,,13.3553,med,high,med,female,Hall
+Akita,23093.3663,,10.9353,med,med,med,male,Hines
+Jack Russel Terrier,5970.328,34.4965,14.2132,high,med,short,male,Henderson
+German Shepherd,38020.5008,60.3363,11.3658,low,med,med,male,Long
+German Shepherd,33505.1891,,11.6007,high,med,short,female,Hill
+Jack Russel Terrier,6368.7546,34.0874,14.3409,high,low,short,male,Carpenter
+Bichon Frise,3029.3511,30.331,13.9711,low,high,med,female,Lane
+German Shepherd,36420.2245,,11.344,low,low,med,female,Wilson
+Jack Russel Terrier,7227.8848,33.2111,13.1114,high,med,short,female,Mora
+German Shepherd,36404.5217,65.4862,10.6646,high,med,med,male,Tucker
+Akita,45797.8479,67.5698,11.1005,med,med,med,female,Pacheco
+Akita,48205.7346,67.7191,9.6183,med,med,short,male,Burch
+German Shepherd,36558.5153,59.8786,11.366,med,med,med,male,Watkins
+Jack Russel Terrier,6621.6012,,13.7704,high,med,short,female,Hall
+Bichon Frise,2478.0307,30.2252,13.7778,high,high,short,male,Simmons
+German Shepherd,38615.1861,,10.6085,low,med,med,male,Krause
+German Shepherd,35361.1122,,10.9645,med,med,med,female,Johnston
+Jack Russel Terrier,5528.1567,33.8789,14.562,high,med,short,male,Smith
+Akita,58630.2448,66.1597,10.2439,low,med,med,female,Smith
+Bichon Frise,4576.6114,30.6522,13.874,med,med,med,male,Marshall
+Bichon Frise,4986.1572,,15.5442,med,high,long,female,Benson
+Jack Russel Terrier,6316.7994,33.9637,14.1377,high,med,short,female,Harvey
+Akita,44504.3655,,10.436,med,low,med,male,Jimenez
+Akita,47863.7672,,10.311,med,med,med,male,Johnson
+Jack Russel Terrier,5405.7487,,13.5574,high,med,short,female,Hunt
+German Shepherd,33614.1825,60.0875,11.4533,med,med,med,male,Garrett
+German Shepherd,36961.6923,62.2429,9.5312,high,med,med,male,Stein
+German Shepherd,34220.03,,11.3812,med,med,long,female,Hernandez
+German Shepherd,32988.5318,57.8953,11.0145,low,med,med,male,Mullins
+German Shepherd,35499.1907,56.8845,11.1076,med,med,med,male,Johnson
+Akita,43474.2175,65.3893,10.4185,med,med,short,male,Glover
+Akita,47790.4297,66.382,9.9482,low,med,med,male,Morrison
+Jack Russel Terrier,5904.5119,33.7314,14.9309,high,low,short,male,Lin
+Bichon Frise,3848.5515,30.0973,13.2365,med,high,med,female,Powell
+Jack Russel Terrier,5739.0953,33.0224,14.4753,high,med,med,female,Austin
+Jack Russel Terrier,6483.2487,33.5278,14.7535,high,high,short,male,Juarez
+Jack Russel Terrier,7001.2867,33.3051,14.7094,med,med,short,female,Rice
+Jack Russel Terrier,6443.496,33.4207,13.5584,high,med,short,female,Perez
+German Shepherd,38239.8992,60.4905,10.1418,med,med,short,male,Patel
+Jack Russel Terrier,5865.4352,33.5944,13.9261,med,med,short,male,Hawkins
+German Shepherd,37867.1807,59.1804,11.833,med,med,med,male,Allen
+Akita,37800.8738,67.5097,10.8324,high,med,med,male,Moyer
+German Shepherd,37125.1759,63.2034,11.4054,high,med,med,female,Lyons
+Jack Russel Terrier,5382.5661,34.6973,13.6306,high,med,short,male,Martinez
+Bichon Frise,3858.6981,30.108,14.6791,med,med,med,male,Hunter
+Bichon Frise,4623.5127,,15.1438,med,high,med,female,Vazquez
+Akita,49232.5893,66.633,12.0539,high,med,med,male,Stevens
+Jack Russel Terrier,6779.0998,,14.1178,high,med,short,female,Wilson
+Akita,53524.2575,66.2195,11.2698,med,med,short,male,Sarah
+German Shepherd,35531.6505,60.2692,10.8263,low,med,med,male,Luna
+Jack Russel Terrier,6398.5186,34.3502,14.1433,high,med,short,female,Reilly
+German Shepherd,35918.711,,11.5273,med,med,med,female,Hawkins
+Akita,56773.7349,,11.8506,low,high,short,male,Roth
+Akita,40375.5418,63.2486,10.931,med,low,med,male,Santos
+Jack Russel Terrier,6653.4842,,14.1013,high,med,short,male,Clark
+Jack Russel Terrier,6942.2079,33.9207,13.7702,high,low,short,male,Miller
+German Shepherd,36114.0979,,11.3348,med,med,med,female,Thomas
+Jack Russel Terrier,5956.5472,,13.9227,high,med,short,male,Wilson
+German Shepherd,37015.4106,59.9256,11.5494,med,med,med,male,Fernandez
+Akita,41002.6029,66.9259,9.8853,high,med,med,female,Jefferson
+Bichon Frise,5242.9392,30.4349,13.059,med,high,med,female,White
+Bichon Frise,4485.4234,30.7383,13.2386,med,high,med,male,Bass
+German Shepherd,35410.2823,61.4718,11.1567,med,med,med,male,Carr
+German Shepherd,36862.9018,59.2505,11.715,low,med,med,female,Perez
+Akita,52350.9124,,11.7456,med,med,med,female,Barr
+German Shepherd,36413.45,58.1904,10.9486,med,low,med,male,Fernandez
+Jack Russel Terrier,5851.1792,34.3132,13.7244,high,med,med,male,Weber
+Bichon Frise,2897.2162,30.4348,12.5582,med,high,med,male,Sampson
+German Shepherd,37578.6888,58.5239,10.4363,med,med,med,female,Allen
+German Shepherd,35070.102,61.6732,11.614,low,med,med,female,Noble
+Bichon Frise,3548.6925,,15.3289,med,med,med,male,Martinez
+Jack Russel Terrier,4322.104,34.0612,13.7839,high,med,short,male,Chen
+Bichon Frise,3818.5633,29.9901,14.7203,med,high,med,female,Brown
+Akita,44814.5306,64.8295,11.3311,low,med,med,male,Allen
+Bichon Frise,2942.9027,,14.8755,high,high,med,male,Mckay
+Akita,36397.5712,64.7816,12.2436,med,med,med,male,Morgan
+Jack Russel Terrier,4964.884,,14.0195,high,med,short,male,Walker
+Bichon Frise,3813.7822,30.7097,12.7306,med,high,med,female,Reed
+German Shepherd,36373.7207,59.4612,10.2407,med,med,med,male,Vincent
+Akita,37555.9044,66.8699,11.9193,med,high,med,female,Murphy
+Jack Russel Terrier,5878.8881,34.6146,13.9061,med,high,short,male,Higgins
+Bichon Frise,5188.2542,30.9371,13.6782,med,high,med,male,Flores
+Bichon Frise,4764.3346,29.854,14.1134,med,high,long,female,Parker
+Akita,53933.8,,11.2892,med,med,short,female,Bradley
+Jack Russel Terrier,6781.956,,14.8375,high,med,short,female,Shaw
+Akita,49832.6374,66.7421,12.8164,med,med,long,male,Jordan
+Jack Russel Terrier,7361.2913,33.8455,13.5739,high,med,short,female,Warner
+Akita,43801.5667,66.2069,11.6444,med,high,med,male,Blair
+German Shepherd,36204.0931,59.7337,12.8363,med,low,med,male,Thomas
+Bichon Frise,5011.3364,30.0794,14.1949,med,high,long,male,Valencia
+German Shepherd,35985.7579,62.2491,11.4999,med,med,short,male,Robinson
+Bichon Frise,3620.1915,,14.1963,med,high,med,female,Walker
+Jack Russel Terrier,7455.0769,34.0986,14.6841,high,med,short,male,Gonzales
+Jack Russel Terrier,5393.3934,33.7784,13.7295,high,med,short,male,Mccarthy
+Jack Russel Terrier,6482.0942,33.3272,13.0271,high,low,short,male,Porter
+Akita,53244.3413,69.1578,10.0913,med,med,med,male,Benton
+German Shepherd,34250.8411,62.2969,10.5862,high,med,long,male,Jenkins
+Jack Russel Terrier,7716.8478,32.7036,14.0724,high,low,short,male,Best
+German Shepherd,37937.8078,60.2917,9.9484,high,med,med,female,Cooke
+German Shepherd,36440.7567,59.8633,10.9952,med,med,med,female,Mullins
+Bichon Frise,3700.0319,,12.3435,med,med,short,male,Schmitt
+Bichon Frise,6133.9707,30.1757,14.3186,med,high,med,female,Stewart
+Bichon Frise,4182.3523,30.0962,13.3978,med,high,med,female,King
+Akita,40526.7714,67.3509,10.6721,low,high,med,male,Ball
+Bichon Frise,3453.2697,30.8713,13.0797,med,high,med,female,Herman
+Bichon Frise,5225.1805,30.6157,12.9461,med,high,med,female,Green
+German Shepherd,38620.3217,60.3025,10.2775,low,med,med,female,Spence
+Bichon Frise,5980.5694,30.8802,14.3502,med,high,med,male,Paul
+Bichon Frise,5626.4898,30.4352,13.8521,med,high,med,female,Salazar
+Bichon Frise,5251.6014,,12.4698,med,high,med,male,Juarez
+Bichon Frise,6412.6178,30.5719,12.8054,high,high,short,female,Martin
+Akita,44992.1566,66.9801,11.808,med,med,med,male,Logan
+Jack Russel Terrier,5756.5922,,14.4581,high,med,short,female,Mccullough
+Jack Russel Terrier,6142.7664,34.9253,15.6022,high,med,short,male,Jackson
+Jack Russel Terrier,6224.3718,32.4266,13.5436,med,high,short,male,Perez
+Jack Russel Terrier,7881.4564,33.8296,14.2043,high,med,short,female,Rachel
+Jack Russel Terrier,7005.9668,32.8596,14.719,high,med,short,male,Peck
+Bichon Frise,3907.3447,30.2574,13.2553,med,high,med,female,Castro
+Bichon Frise,3665.388,30.9243,12.3188,med,high,short,male,Lee
+Jack Russel Terrier,6401.2274,34.0426,14.2546,high,med,short,male,Johnson
+Jack Russel Terrier,5388.7393,33.376,14.1991,high,low,med,male,Gilbert
+Jack Russel Terrier,6378.1887,,13.88,high,med,short,male,Garcia
+German Shepherd,35196.5669,59.9577,11.7582,med,med,short,female,Romero
+Bichon Frise,4400.0217,30.288,13.9334,med,high,med,male,Hall
+Akita,42318.1859,65.006,10.6142,med,med,med,male,Reese
+Akita,40936.8203,65.09,9.7189,med,med,short,female,Nguyen
+Akita,40417.6128,68.402,11.3713,med,med,med,female,Miller
+Jack Russel Terrier,6498.8684,,13.3512,high,med,short,male,Baker
+Akita,43162.919,66.2239,10.8771,low,med,med,male,King
+Bichon Frise,4487.7017,30.2807,13.8036,med,high,med,female,Banks
+German Shepherd,36778.9995,59.7949,10.8785,low,high,med,male,Taylor
+Jack Russel Terrier,8100.9939,,13.7685,high,med,short,female,Soto
+Bichon Frise,5285.3546,30.8241,12.9636,med,high,med,male,Reid
+Jack Russel Terrier,6683.2697,33.6987,13.7078,high,med,short,female,Lynn
+Bichon Frise,6730.4237,30.5319,14.3879,med,high,med,male,Huffman
+Bichon Frise,5512.1695,30.4958,15.8571,med,high,med,male,Green
+German Shepherd,35582.3438,61.3702,10.5473,med,med,med,female,Thomas
+German Shepherd,40010.7283,59.6227,11.7472,med,med,long,male,White
+Jack Russel Terrier,5691.4009,33.6798,14.3868,high,med,short,male,Reilly
+Jack Russel Terrier,6054.3942,34.3115,14.1734,high,med,short,male,Ward
+Akita,33784.9457,,12.5289,med,med,med,male,Bauer
+German Shepherd,34201.4768,58.9585,11.0322,med,med,med,female,Riley
+German Shepherd,37648.8633,62.0135,10.6997,med,med,long,female,Hurley
+Jack Russel Terrier,6055.916,33.2904,14.3318,high,med,short,male,Nielsen
+German Shepherd,36714.8501,60.8964,12.3747,med,med,med,male,Walker
+Bichon Frise,4309.1763,30.2637,14.5369,med,high,long,female,Maynard
+German Shepherd,36830.4243,60.3725,10.3761,med,med,med,female,Frost
+German Shepherd,36257.8981,64.7559,11.6433,med,low,med,female,Wright
+Jack Russel Terrier,6589.904,33.6129,14.1451,high,med,short,female,Rios
+Jack Russel Terrier,7406.2949,35.2477,13.8527,high,low,short,male,Ramirez
+Akita,46590.8172,66.6843,11.2481,med,med,med,male,Walker
+German Shepherd,34107.8076,59.3875,12.2524,high,med,med,male,Morgan
+German Shepherd,36615.3363,59.786,10.9375,med,low,short,female,Rivers
+Akita,60633.5635,,11.9584,med,med,short,male,Anderson
+German Shepherd,37628.7429,59.9151,11.1455,med,med,med,female,Perez
+German Shepherd,36296.7358,59.8048,11.3493,med,med,long,female,Garcia
+Bichon Frise,5068.2529,30.7304,14.1854,med,high,long,female,Schmidt
+German Shepherd,35427.484,61.9186,10.6459,med,med,med,female,Gonzalez
+German Shepherd,36336.7135,62.5454,10.1061,high,med,med,male,Miranda
+Bichon Frise,3687.4793,30.8296,12.4941,med,med,short,female,Rodriguez
+Bichon Frise,4164.1224,30.622,12.4804,med,high,med,male,Hansen
+German Shepherd,36014.5235,60.1963,11.3655,high,med,med,male,Seth
+Akita,55822.6863,65.7233,9.8353,med,med,med,male,Silva
+Akita,35576.9641,,11.5808,med,med,med,male,Morris
+Akita,49832.3722,67.0115,9.7585,med,low,med,male,Watkins
+Bichon Frise,5363.218,30.9638,13.9586,med,med,med,female,Curtis
+Jack Russel Terrier,8175.3066,34.7348,14.0035,high,med,short,male,Davis
+German Shepherd,36322.6667,63.3144,10.9171,med,med,short,female,Nunez
+German Shepherd,37815.9636,62.2715,11.6582,low,med,med,female,Briggs
+Jack Russel Terrier,6099.6573,34.6134,13.8483,high,med,short,female,Rubio
+German Shepherd,34903.7528,,11.1039,med,med,med,female,Peters
+German Shepherd,37060.6319,62.7518,10.8203,med,low,med,female,Reed
+Akita,36538.0692,,11.3245,med,med,short,female,Lewis
+German Shepherd,34171.1537,60.2321,12.1951,med,high,med,male,Romero
+Jack Russel Terrier,7031.9801,33.7568,12.9227,high,med,med,male,Foster
+Bichon Frise,3247.9043,30.4814,14.8326,high,high,med,female,Watkins
+Jack Russel Terrier,6141.2777,34.0718,14.5411,high,med,short,female,Hayes
+Jack Russel Terrier,5806.1086,34.1311,13.5692,high,med,short,female,Gross
+Akita,48606.7212,66.09,10.613,med,high,med,female,Brown
+Jack Russel Terrier,7761.8763,34.2145,15.0027,high,med,short,male,Reed
+Akita,41943.6088,65.6372,11.3272,med,med,med,male,Miles
+German Shepherd,36029.0694,62.033,10.1652,med,med,med,female,Williams
+Jack Russel Terrier,6636.313,34.1336,13.8927,high,med,short,male,Morris
+Jack Russel Terrier,6458.3921,33.3273,14.4287,high,med,med,male,Rocha
+Bichon Frise,5249.605,30.2455,13.294,med,high,med,female,Henry
+Bichon Frise,5033.3871,30.0166,13.1278,med,high,med,male,Santiago
+Akita,49888.5134,67.5432,11.9606,med,med,med,female,George
+Bichon Frise,3273.9662,,14.305,med,high,med,male,Rios
+Akita,30640.6752,66.8567,9.73,med,low,med,male,Williams
+Akita,48521.8863,66.2237,11.2573,med,med,med,male,Johnson
+Bichon Frise,4503.9928,30.4395,11.5909,med,high,med,female,Murillo
+Bichon Frise,3933.6362,30.479,12.8803,med,med,med,female,Shannon
+Bichon Frise,4053.8134,30.3633,11.7425,med,high,short,female,Ruiz
+Akita,62715.5563,67.4749,10.7875,med,med,med,female,Lozano
+German Shepherd,36451.0956,57.2888,11.4907,med,med,short,female,Brown
+German Shepherd,35902.8081,58.5851,9.8606,med,med,med,male,Hahn
+German Shepherd,37030.3169,62.3603,11.1693,med,med,med,female,Jones
+Bichon Frise,4139.5974,30.0671,13.6258,med,high,med,female,Perez
+Jack Russel Terrier,8521.5894,34.0067,14.1703,high,low,short,female,Pierce
+Akita,44659.0818,66.2164,10.1138,low,med,short,female,Bell
+German Shepherd,36487.1669,,10.9982,low,low,med,male,Lucas
+Akita,46101.3005,68.9061,10.7611,med,med,short,female,Trujillo
+German Shepherd,38220.1241,59.6336,10.4477,med,med,med,female,Martin
+Akita,50260.1381,66.9538,11.04,med,low,med,male,Acevedo
+Bichon Frise,3826.2734,30.161,13.3678,med,high,long,male,Andersen
+Bichon Frise,4018.1518,,11.9731,med,high,med,male,Hall
+German Shepherd,37099.8362,58.9928,11.5292,med,med,med,male,Vargas
+Bichon Frise,3471.4683,,14.0214,med,med,med,male,Randolph
+Jack Russel Terrier,6467.5374,33.7543,14.8244,high,med,short,female,Decker
+Bichon Frise,2672.7159,30.1865,13.0823,med,high,short,female,Powell
+Jack Russel Terrier,6101.6471,34.7791,14.0013,high,med,short,female,Valenzuela
+Akita,58586.4331,,11.1694,med,high,med,female,Watkins
+Akita,34675.2615,65.272,10.6999,low,med,med,male,Carter
+Akita,49561.4637,65.284,11.6172,med,med,med,female,Odonnell
+German Shepherd,37412.3402,63.8539,9.8769,med,med,med,female,Pennington
+Bichon Frise,4605.8994,30.0423,13.5863,med,med,med,female,Huff
+German Shepherd,35677.2916,59.829,11.3183,med,med,med,female,Dodson
+Jack Russel Terrier,5952.8443,33.8418,14.3805,high,med,short,male,Thomas
+German Shepherd,35569.4059,61.0589,9.8741,med,med,med,male,Tucker
+German Shepherd,33861.6535,63.6533,10.122,med,high,med,female,Dickerson
+Bichon Frise,4851.8968,30.4251,12.8635,med,high,short,female,Sosa
+Bichon Frise,3988.9677,30.2291,15.0116,med,high,med,female,Rodriguez
+Akita,44043.9972,69.376,10.6132,med,med,long,male,Lee
+Bichon Frise,3819.4231,30.9994,13.4379,med,high,med,female,Bates
+Jack Russel Terrier,6268.3016,33.5009,12.6815,high,med,short,male,Neal
+German Shepherd,34250.5199,61.2946,11.2577,med,med,long,female,White
+Jack Russel Terrier,7233.704,,13.8588,high,med,short,male,Woods
+Bichon Frise,3918.8162,,12.2203,med,high,med,female,Davenport
+Bichon Frise,4255.3538,30.7242,14.2887,med,high,short,female,Rogers
+Jack Russel Terrier,7217.9821,35.1063,14.0698,high,med,short,male,Beverly
+German Shepherd,37273.1595,59.2942,11.1263,med,low,med,female,Moreno
+German Shepherd,38414.4607,63.202,10.6826,med,med,long,female,Hopkins
+Jack Russel Terrier,7482.4794,33.5971,13.0186,med,high,short,female,Cannon
+Akita,30691.7852,66.5477,10.7889,med,med,med,female,Rodriguez
+Jack Russel Terrier,6921.3478,34.4858,13.6478,high,high,med,female,Hall
+Bichon Frise,3689.5513,30.4649,12.9276,med,high,long,male,Clark
+German Shepherd,36013.8243,61.4994,11.9058,med,med,long,male,Castillo
+German Shepherd,35327.9868,62.9581,11.8117,med,med,med,male,Hale
+Akita,39811.1308,68.129,11.2819,med,med,short,female,Ford
+German Shepherd,36365.9641,59.3022,12.38,med,med,med,female,Vincent
+Akita,38546.703,66.4266,11.5793,med,med,short,female,Navarro
+Akita,38825.6299,65.3724,11.5173,med,med,long,male,Dickerson
+Bichon Frise,4458.2877,30.4007,15.3963,med,high,med,male,Johnson
+Jack Russel Terrier,6647.2094,33.5762,13.7013,high,med,short,female,Andersen
+Jack Russel Terrier,7581.7016,33.2845,13.7981,high,low,short,female,Peterson
+Jack Russel Terrier,6610.3058,34.2981,13.9568,high,med,short,female,Wilson
+Akita,34250.142,66.4156,11.2009,med,med,med,male,Hammond
+German Shepherd,33118.6048,,11.5143,med,med,med,male,Reilly
+Akita,43100.2216,,10.7298,med,med,med,male,Nicholson
+Akita,51761.2193,65.5647,11.4357,med,high,med,female,Leblanc
+German Shepherd,38254.6474,61.5507,10.1342,low,low,med,female,Reyes
+German Shepherd,36642.5595,58.3938,10.7303,med,med,med,female,Peterson
+German Shepherd,37477.5832,60.5521,10.772,med,high,med,male,Lewis
+Jack Russel Terrier,5670.9067,33.4446,13.9376,high,med,short,female,Wright
+Jack Russel Terrier,5023.7861,34.3846,14.0178,high,med,short,male,Johnson
+Bichon Frise,5621.4292,30.8463,13.4012,med,med,med,female,Wilson
+Bichon Frise,5329.3845,30.4198,14.0905,med,high,long,female,Thompson
+Jack Russel Terrier,6167.1328,34.4611,14.8862,high,high,short,female,Orr
+Bichon Frise,4311.1727,30.4352,11.8907,med,high,med,male,Scott
+Bichon Frise,5156.8598,30.1455,13.7164,low,high,med,male,Mcguire
+Akita,38803.5061,67.3525,10.7413,med,med,med,female,Howell
+German Shepherd,35272.6754,62.4057,10.9839,med,med,med,female,Lawrence
+Bichon Frise,5198.1559,30.4974,12.1191,med,high,med,female,Anderson
+German Shepherd,36574.9489,,10.6139,med,med,long,male,Clay
+German Shepherd,35101.2034,60.7367,10.5801,high,med,med,male,Norman
+German Shepherd,34776.6155,61.2425,12.2686,med,med,med,female,Rivers
+Bichon Frise,3173.603,,13.4312,high,high,med,male,Alvarado
+Jack Russel Terrier,6272.4964,,14.4827,high,med,short,male,Nelson
+Jack Russel Terrier,5328.2964,33.8906,14.0567,high,med,short,male,Gould
+Jack Russel Terrier,8323.0446,33.1603,14.9359,high,med,short,male,Hale
+German Shepherd,37312.4486,62.3189,10.5627,med,low,med,male,Cervantes
+Akita,56100.055,66.2421,11.2299,med,med,med,female,Erickson
+German Shepherd,36076.1566,,11.338,med,med,long,male,Bowman
+Jack Russel Terrier,6050.3635,33.4468,13.772,high,med,short,male,Tran
+Bichon Frise,4690.2763,30.9006,12.5198,med,high,med,male,Harrison
+Bichon Frise,4497.161,30.5035,12.5676,med,high,long,male,Johnson
+German Shepherd,39629.8212,61.2363,10.4629,low,high,med,female,Johnson
+Akita,42198.4076,66.0273,11.8675,high,high,med,female,Conley
+Jack Russel Terrier,6843.1126,33.1091,14.2991,high,high,short,male,Rowe
+Bichon Frise,3544.8785,31.1504,13.1138,high,high,long,female,Ramirez
+Jack Russel Terrier,6924.2251,34.5288,14.5541,high,med,short,female,Yang
+German Shepherd,37515.0545,60.1765,10.6972,med,med,med,male,Smith
+Akita,42047.9448,,9.9759,med,low,med,female,Horton
+Jack Russel Terrier,5074.8574,33.6327,13.7828,med,med,short,male,Davis
+Jack Russel Terrier,5779.0429,34.6768,14.6477,high,med,short,female,Gray
+Jack Russel Terrier,5027.068,34.0025,14.3427,high,med,short,female,Miller
+German Shepherd,38747.1514,60.5091,11.0187,med,med,med,female,Vargas
+German Shepherd,35735.3174,61.7982,12.2832,med,med,short,male,Walker
+German Shepherd,36335.5527,60.4168,11.5495,low,med,med,male,Romero
+Jack Russel Terrier,6311.5132,33.9115,13.7786,high,low,short,male,Ruiz
+German Shepherd,35996.2548,61.9884,10.3693,low,med,med,female,Howell
+Jack Russel Terrier,5252.404,,13.2072,high,med,short,female,Hicks
+Akita,49775.8526,65.9581,11.2771,med,med,med,female,Simpson
+Jack Russel Terrier,8564.4468,34.3778,14.3016,high,med,short,female,Cummings
+Akita,38553.3515,65.2306,11.124,med,med,med,male,Snow
+Bichon Frise,5475.4107,30.1575,13.6004,med,high,med,male,Conrad
+Bichon Frise,5200.6566,30.5007,12.0726,med,high,med,male,Wong
+Akita,38034.7415,64.0989,10.8739,med,med,med,female,Fox
+Bichon Frise,5377.1812,30.6933,11.9453,high,high,med,male,Ryan
+Akita,35586.6034,65.3271,11.1828,med,med,med,female,Harris
+Jack Russel Terrier,7418.3486,35.0983,15.22,high,med,short,male,Garza
+Akita,58602.1495,67.3982,11.2574,med,med,med,female,Thomas
+German Shepherd,34769.3373,59.8896,10.8719,high,high,med,female,Ortiz
+Akita,57986.8392,65.7502,11.6167,med,med,med,male,Fuller
+Akita,55544.6651,64.6467,10.4999,med,med,med,female,Baker
+Jack Russel Terrier,6428.6441,33.3015,13.2905,med,med,short,male,Gomez
+German Shepherd,37745.1496,59.6585,12.0237,high,med,med,female,Johnson
+Bichon Frise,5121.2091,,13.5902,low,med,med,female,Stevenson
+Akita,54617.954,,11.3615,med,med,med,male,Castro
+Akita,46956.4074,66.0503,10.152,med,med,med,male,Marshall
+German Shepherd,36958.0702,60.6276,10.8343,med,med,med,female,Walsh
+German Shepherd,37192.409,59.3607,10.7452,med,med,med,female,Gilbert
+German Shepherd,36720.3184,60.9487,10.7806,med,med,med,male,Woodard
+Bichon Frise,4282.1733,30.6745,12.7931,med,high,short,male,Powell
+German Shepherd,35481.7247,62.1006,11.5104,med,med,med,male,Andrews
+Jack Russel Terrier,7428.6604,34.8464,13.1756,high,med,short,male,Cruz
+Bichon Frise,2771.5102,30.864,12.4458,med,med,med,male,Oconnor
+Akita,43217.8355,66.1158,11.629,high,med,med,female,Grant
+Jack Russel Terrier,6254.7932,34.2879,14.244,high,med,short,female,Roberts
+Bichon Frise,5209.4023,30.2028,12.8499,med,high,med,female,Spencer
+Akita,45662.6257,63.9776,11.326,med,low,med,male,Erickson
+German Shepherd,36410.8232,64.5928,11.6652,low,med,med,male,Moore
+Akita,36614.9449,68.5136,11.5169,med,low,med,male,Gonzalez
+Akita,57889.5996,66.4792,10.691,med,med,short,female,Kramer
+German Shepherd,35928.5181,61.4739,13.1321,low,low,med,female,Conner
+Akita,45240.8472,66.3453,11.5393,med,med,med,female,Bender
+Akita,40294.0634,66.5267,11.7563,med,med,med,female,Morgan
+Akita,41850.9716,67.116,10.7083,med,low,short,female,Cynthia
+Jack Russel Terrier,6687.5639,,14.8317,high,med,short,female,Ponce
+Bichon Frise,2634.4146,30.7459,13.9735,med,high,med,male,Esparza
+Jack Russel Terrier,5946.8731,32.8686,14.5118,high,med,short,male,Hunt
+Jack Russel Terrier,5454.5198,,14.1989,high,med,short,female,Sullivan
+Jack Russel Terrier,5527.8877,34.4088,13.6588,high,med,med,male,Schultz
+Akita,51095.5251,64.0113,10.3092,med,high,med,female,Jackson
+Jack Russel Terrier,8351.7739,33.7248,12.9724,high,med,short,female,Anderson
+Bichon Frise,4532.7243,,12.9274,med,high,med,male,Jackson
+Jack Russel Terrier,7142.4942,34.638,13.4511,high,med,short,male,Frederick
+Akita,32278.3935,65.2406,12.0689,med,med,med,female,Murphy
+Bichon Frise,3627.4458,30.2366,14.9265,med,high,med,male,Dalton
+German Shepherd,35616.5734,60.8309,11.001,med,med,med,female,Savage
+Jack Russel Terrier,7988.0414,,13.2506,med,med,short,female,Sanchez
+Bichon Frise,5183.7757,30.4949,14.1299,med,high,long,female,Stewart
+German Shepherd,33612.6074,61.0116,11.3713,med,high,short,female,Reid
+Bichon Frise,4080.8092,,12.6474,med,med,med,female,Smith
+Jack Russel Terrier,5980.5539,,14.2896,high,med,short,male,Crawford
+German Shepherd,37214.3216,59.8547,10.2832,med,med,med,female,Soto
+Jack Russel Terrier,6893.7043,33.9095,14.0361,high,med,short,male,Nichols
+German Shepherd,36695.5613,63.3348,10.8413,high,med,med,male,Booth
+Akita,52338.4388,65.9199,11.4687,med,med,med,male,Cochran
+Bichon Frise,3664.3466,30.6609,13.2352,med,med,med,male,Boyer
+Jack Russel Terrier,6904.2546,34.8142,14.8231,high,med,short,male,Parker
+Bichon Frise,5089.6745,,13.7895,med,high,med,male,Weber
+Akita,45263.9348,,9.5868,med,med,short,male,Butler
+Bichon Frise,2654.8892,30.2591,13.0072,med,high,med,male,Wells
+Bichon Frise,2989.3352,30.3557,14.1085,med,high,med,female,Levy
+Bichon Frise,4310.8603,30.8174,14.5142,med,high,med,male,Hale
+Akita,60100.7513,67.015,10.1879,med,med,med,male,Garcia
+Jack Russel Terrier,6161.5526,32.6511,14.7743,high,low,short,female,Smith
+Jack Russel Terrier,5489.325,,14.1507,high,low,short,male,Gray
+Jack Russel Terrier,5563.757,34.4211,13.1441,high,low,short,female,Sanchez
+Akita,45943.9543,,10.8,med,high,med,female,Poole
+Jack Russel Terrier,7614.8458,34.113,13.884,high,med,short,female,Martinez
+Bichon Frise,5190.6493,30.2549,11.2209,med,high,med,male,Dillon
+German Shepherd,34451.5116,,12.7151,high,med,med,male,Silva
+Akita,49214.0246,64.656,10.6729,med,med,med,female,Carlson
+Jack Russel Terrier,6826.5114,34.5284,13.2322,high,med,short,female,Fields
+Jack Russel Terrier,6750.4395,33.8179,13.6153,high,low,short,female,Dyer
+Akita,46424.3243,65.3907,9.8872,med,med,med,male,Pruitt
+Jack Russel Terrier,7339.5392,33.8395,14.327,high,low,short,female,Smith
+Bichon Frise,4677.2427,30.4496,13.7506,low,high,med,female,Lee
+Akita,36547.1769,,11.0378,med,med,long,male,Griffin
+German Shepherd,36470.2171,61.25,10.1384,med,med,med,male,Edwards
+Akita,46289.508,,10.728,med,med,med,female,Williams
+Jack Russel Terrier,6729.1632,,14.3842,high,med,short,male,James
+German Shepherd,36698.372,60.1007,11.4198,med,med,short,male,Sanchez
+German Shepherd,37690.4932,61.1363,10.2584,med,med,med,male,Norris
+German Shepherd,37682.9028,,11.8722,med,med,med,female,Ruiz
+German Shepherd,35327.8822,64.6619,11.3693,med,med,med,female,Cortez
+Jack Russel Terrier,6862.6798,34.0875,14.2651,high,high,short,female,Smith
+Akita,44078.4799,63.8009,10.3433,med,med,med,male,Harris
+Bichon Frise,3996.8647,30.2768,14.0621,low,high,med,female,Rodriguez
+German Shepherd,36592.1899,,11.2862,med,med,med,male,Norris
+Bichon Frise,3914.1984,30.5111,14.0967,med,med,med,female,Mcconnell
+German Shepherd,35442.7423,62.596,11.6421,med,med,med,female,Lopez
+German Shepherd,36908.1883,61.9779,11.1458,med,high,med,female,Miller
+German Shepherd,37135.7752,61.5554,11.0399,med,med,med,female,Robinson
+Akita,39588.405,68.4529,12.1793,med,med,med,male,Peck
+Akita,51076.4333,70.1386,10.816,med,low,med,male,Young
+German Shepherd,36845.8023,64.1668,10.5339,med,med,med,male,King
+German Shepherd,36927.7314,61.8036,11.7114,high,med,short,female,Peters
+Bichon Frise,3789.9435,,12.7407,med,high,med,female,Smith
+Jack Russel Terrier,5976.7224,,13.3343,high,med,med,female,Flores
+Jack Russel Terrier,7597.2973,33.9934,13.3073,high,low,short,female,Robinson
+Bichon Frise,5056.6019,30.2956,11.604,low,high,short,female,Lucas
+Jack Russel Terrier,5745.0862,33.6035,13.135,high,med,short,female,Manning
+Bichon Frise,4089.0213,30.6257,15.0441,med,high,long,male,Brown
+Bichon Frise,4235.1463,30.423,12.4926,med,high,med,male,Lawrence
+Akita,47863.7583,64.3525,11.4369,low,med,short,female,Roberts
+Akita,33412.0831,66.976,11.5791,med,med,med,female,Edwards
+German Shepherd,37276.539,61.3174,10.9721,med,high,short,female,Hampton
+Akita,40767.0111,66.2695,10.1026,med,med,med,female,Ross
+Akita,62437.8543,,11.1652,med,med,med,female,Kaiser
+Akita,35983.2417,,10.4277,med,med,med,male,Tucker
+Bichon Frise,4781.2774,,11.4627,med,high,med,male,Long
+Bichon Frise,4432.6073,30.9633,14.2286,med,high,med,male,Lopez
+Akita,25844.1417,66.5826,11.4809,med,med,long,female,Russell
+Akita,48422.4388,67.3546,11.578,med,high,short,female,Krueger
+German Shepherd,37730.1753,60.3263,10.7976,med,high,short,female,Green
+German Shepherd,36558.8059,60.5792,10.099,med,high,med,male,Brady
+German Shepherd,37643.5186,58.5064,11.1801,high,med,med,male,Palmer
+German Shepherd,37770.7839,63.3016,10.9878,med,med,long,male,Hill
+Akita,39908.1806,64.5358,9.7886,med,med,med,female,Rodriguez
+Akita,35023.3644,63.6905,10.5459,med,med,med,male,Johnson
+German Shepherd,36054.1301,,10.5643,med,med,med,female,Mitchell
+German Shepherd,35861.8941,63.9801,11.1478,med,med,med,female,Owens
+German Shepherd,35067.2496,60.632,11.0669,low,low,med,female,Morris
+German Shepherd,37044.3569,,11.4707,med,low,med,male,Gonzalez
+German Shepherd,36783.9679,61.9704,10.5148,med,med,med,female,Martinez
+Bichon Frise,3852.8004,30.6765,14.7042,med,high,med,male,Watson
+German Shepherd,34208.7879,58.7497,11.0573,med,med,med,male,Myers
+German Shepherd,37848.1394,59.402,10.0777,med,med,med,female,Stewart
+German Shepherd,35731.5876,64.356,9.6199,med,high,med,female,Castillo
+Jack Russel Terrier,7097.4235,34.2849,13.8664,high,med,short,male,Freeman
+Jack Russel Terrier,4464.117,33.655,13.9206,high,med,short,male,Barnett
+Akita,26778.6666,,10.8286,med,med,med,male,Curtis
+Bichon Frise,3940.1642,30.7634,13.6632,low,high,med,female,Gonzalez
+Bichon Frise,3446.1489,30.5101,14.2267,high,high,med,male,Holmes
+Bichon Frise,2377.7106,30.5384,12.8165,high,high,med,female,Mckinney
+Bichon Frise,5965.8314,30.607,12.0951,med,high,med,male,Ibarra
+Jack Russel Terrier,5576.7829,34.1133,12.6967,med,med,short,male,Wilson
+German Shepherd,34757.305,59.8815,11.3036,med,med,med,male,Ward
+Akita,41159.6656,64.3587,11.7,med,med,med,female,Perry
+Jack Russel Terrier,10291.8374,34.0061,13.9658,med,med,short,male,Chan
+German Shepherd,35370.714,61.9808,11.122,med,med,med,male,Lee
+Bichon Frise,5196.2314,30.5844,14.065,med,high,long,male,Macias
+Jack Russel Terrier,5975.289,34.7973,13.9207,high,high,short,male,Wolfe
+Akita,41494.9435,65.818,10.1879,med,med,med,female,Lawrence
+Bichon Frise,5282.213,31.2264,14.9067,med,high,med,male,Price
+Akita,49442.3659,66.4994,10.1878,med,high,med,female,Burke
+Jack Russel Terrier,7524.7726,33.8736,14.4358,high,med,short,male,Nelson
+Akita,43339.5781,64.984,11.1495,med,low,med,female,Castillo
+Bichon Frise,5294.6043,31.0477,13.4354,high,high,med,male,Harvey
+Jack Russel Terrier,7439.0721,,14.5051,med,med,short,male,Wright
+Jack Russel Terrier,4866.2444,33.7795,14.0668,high,med,short,male,Fletcher
+Akita,28694.4886,70.2312,10.5906,high,med,med,male,Shaw
+Akita,55069.3325,67.2337,11.185,med,med,med,female,Macias
+Akita,51075.8185,67.5981,9.7257,med,high,long,male,Rogers
+Jack Russel Terrier,5028.55,33.2285,15.8822,med,med,short,female,Hill
+Akita,45050.1821,65.8946,11.7571,med,med,med,male,Becker
+Akita,54210.9525,65.8312,10.4343,med,high,med,male,Kane
+German Shepherd,35428.496,62.0877,9.6982,med,med,med,female,Thornton
+German Shepherd,36185.8965,60.9997,11.0771,high,high,med,female,Mendoza
+Jack Russel Terrier,6545.5634,32.6022,13.7773,high,low,short,male,Rodriguez
+German Shepherd,36563.6932,,10.731,med,med,long,male,Franklin
+Jack Russel Terrier,5065.4275,,14.7229,high,low,short,male,Smith
+Jack Russel Terrier,7234.9448,32.8213,13.3833,high,med,short,female,Reid
+Jack Russel Terrier,4814.5822,,14.7442,high,med,short,female,Gill
+Akita,60129.3589,64.3031,11.0059,med,med,med,female,Price
+Bichon Frise,3434.224,30.3722,14.3764,med,high,med,female,Evans
+German Shepherd,34647.1628,60.6307,11.9666,med,low,med,female,Phillips
+Akita,44766.9818,65.4128,10.6615,high,med,med,female,Watkins
+Bichon Frise,4656.1123,30.2951,13.8727,med,high,med,male,Whitaker
+German Shepherd,37297.2078,61.349,9.8334,high,med,med,male,Mitchell
+Akita,55556.8416,,10.1283,med,med,med,male,Arellano
+Akita,43868.8312,,9.9663,med,low,med,female,Hess
+German Shepherd,36779.4315,60.1329,10.054,med,med,med,female,Francis
+Akita,41994.0876,64.5039,11.4865,high,low,med,male,Williams
+German Shepherd,38572.3685,66.0816,11.395,med,med,med,female,Brooks
+Bichon Frise,4516.6148,30.6578,11.772,med,med,med,male,Brown
+Akita,48981.3889,67.1825,11.2437,med,med,med,female,Perry
+Jack Russel Terrier,7565.2284,,13.6096,med,med,short,female,Woods
+Akita,62192.1097,68.2022,11.5515,med,med,med,male,Herrera
+Bichon Frise,3746.0044,,13.4565,low,high,med,female,Steele
+Akita,44921.0392,66.7931,11.6589,med,med,med,female,Dominguez
+German Shepherd,39574.6822,62.5208,10.6664,high,high,med,male,Wells
+German Shepherd,36567.8838,59.1775,11.1758,med,med,med,female,Peterson
+Akita,36484.504,65.8829,10.833,med,med,med,female,Stone
+German Shepherd,33847.5376,61.9033,11.5766,med,med,short,male,Levine
+Bichon Frise,5455.9541,30.6648,12.5822,med,high,med,female,Taylor
+Akita,53812.6486,67.4701,11.051,low,high,med,female,Price
+Bichon Frise,6220.6319,30.2138,11.8432,med,high,med,male,Roberts
+German Shepherd,35316.5308,62.2332,10.502,med,low,short,female,Thompson
+Bichon Frise,5260.7868,30.5387,14.0765,med,high,short,male,Paul
+Bichon Frise,4493.7873,30.6065,15.1751,med,high,med,female,Vance
+Bichon Frise,3881.2842,30.8112,14.3675,med,high,med,female,Jordan
+German Shepherd,35714.3028,,10.0623,med,med,med,male,Jackson
+Jack Russel Terrier,4723.0253,34.6554,14.1088,high,med,short,male,Austin
+Jack Russel Terrier,6287.6893,,14.2917,high,med,short,female,Conway
+Bichon Frise,4579.0222,30.7961,13.3581,med,high,med,female,Watkins
+Bichon Frise,5024.6455,30.471,13.6356,med,med,long,male,Davidson
+Bichon Frise,5663.6419,30.5789,14.179,med,high,long,female,Dixon
+Bichon Frise,3824.2139,30.3908,13.3668,med,high,long,male,Caldwell
+German Shepherd,37465.6676,,10.6554,med,med,med,female,Day
+Bichon Frise,3534.0684,30.4687,13.9423,low,med,med,male,Hodges
+Akita,46391.1041,68.2376,10.5103,med,low,med,female,Lawson
+Jack Russel Terrier,6446.4183,,14.0202,high,med,short,male,Walker
+Bichon Frise,5744.8905,30.3054,15.6155,low,high,long,male,Williams
+German Shepherd,36004.5945,62.3597,10.6163,med,low,med,female,Mcdaniel
+Jack Russel Terrier,5294.7579,33.2114,14.54,high,med,short,male,Glover
+Akita,50380.7124,65.9509,12.1122,med,low,med,male,Merritt
+Bichon Frise,6024.7083,30.5216,12.7579,med,high,med,male,Booth
+Bichon Frise,2733.0823,30.2163,13.585,med,high,short,male,Fox
+Bichon Frise,5207.2047,,14.1519,low,high,med,female,Ruiz
+Jack Russel Terrier,6675.6855,33.8702,12.6915,high,low,short,female,Scott
+Bichon Frise,5540.7242,30.8031,13.6704,med,high,med,female,Scott
+Akita,58747.7279,,10.9791,low,med,med,female,Lawrence
+Akita,32444.7692,66.2235,11.4416,med,med,med,male,Tate
+Bichon Frise,4362.2608,30.2434,12.859,med,high,med,female,Jones
+German Shepherd,38416.2116,58.0181,10.5578,med,med,med,male,Cole
+Akita,41315.2718,68.5045,10.5489,med,med,med,female,Pope
+Jack Russel Terrier,6072.9382,,14.4443,high,med,short,female,Stone
+German Shepherd,36211.8432,58.1045,11.6071,med,high,med,male,Hodge
+German Shepherd,34731.2618,62.2004,10.7394,med,med,med,female,Miller
+Jack Russel Terrier,6264.4836,34.3596,14.0433,high,high,med,male,Carter
+Jack Russel Terrier,5786.865,35.3086,13.6593,high,low,short,male,Moore
+German Shepherd,35024.5899,59.3764,10.7661,med,med,med,female,Baker
+Bichon Frise,5351.0503,30.5591,15.5293,med,high,med,female,Perry
+Akita,53541.8728,66.6678,10.6029,low,med,med,male,White
+Akita,47459.7205,65.5188,11.7013,med,med,med,male,Escobar
+German Shepherd,40572.7016,59.8847,10.5517,med,med,short,female,Dunn
+Bichon Frise,4782.5884,30.5555,13.3935,med,high,med,female,Wagner
+Jack Russel Terrier,7388.7253,34.8188,13.7571,high,med,short,female,Ramirez
+German Shepherd,34615.4928,62.2242,11.1011,med,med,med,male,Patrick
+German Shepherd,36024.5346,64.1545,10.6192,med,med,short,male,Willis
+Bichon Frise,3864.3749,30.459,13.5602,med,high,med,male,Sullivan
+Bichon Frise,3039.9678,30.3241,11.3439,med,high,long,female,Welch
+German Shepherd,37272.436,60.7604,11.2632,med,med,med,male,Adams
+Bichon Frise,3767.9237,30.1094,12.9748,high,high,med,female,Holland
+Akita,56217.6348,65.8651,10.9716,low,med,med,female,Cruz
+German Shepherd,34566.1519,,10.9331,med,med,med,female,Simpson
+German Shepherd,38353.457,,11.4144,med,low,med,female,Bartlett
+Jack Russel Terrier,7740.2611,33.6812,13.713,high,med,short,male,Ramos
+German Shepherd,35285.3576,61.1528,11.4215,med,med,short,male,Butler
+German Shepherd,39416.9796,,10.9135,high,med,med,female,Wagner
+Bichon Frise,5205.2125,30.6134,14.7219,med,high,med,female,Lee
+Akita,50774.7467,66.4164,10.4417,med,med,long,female,Smith
+Bichon Frise,4113.9554,30.2518,12.7851,med,high,med,female,Smith
+Bichon Frise,3927.2123,29.8318,13.8919,med,high,med,female,Smith
+Jack Russel Terrier,6824.9928,33.124,14.102,high,med,short,female,Washington
+Jack Russel Terrier,7675.4937,33.3822,14.3777,high,med,short,female,Bryant
+Bichon Frise,3940.1269,30.4703,12.3611,med,high,med,male,Patterson
+Jack Russel Terrier,8342.9157,33.0423,14.3169,high,med,short,female,Bates
+Akita,38342.5491,65.9627,10.0806,low,med,med,male,Patel
+Jack Russel Terrier,7441.8017,,14.2678,high,med,short,male,Watson
+Akita,42773.204,66.8191,10.9601,high,med,med,female,William
+Jack Russel Terrier,6188.0937,33.7525,14.8629,high,med,short,female,Todd
+Jack Russel Terrier,6097.2163,34.5191,13.7392,high,high,short,male,Hall
+German Shepherd,35317.5516,60.6467,11.6325,med,med,short,female,Martinez
+Akita,61786.0604,65.0452,11.4772,med,med,long,female,Holder
+Bichon Frise,4635.629,30.805,13.3381,high,high,short,female,Reed
+Bichon Frise,4268.4505,30.0257,13.6698,med,high,med,male,Thompson
+German Shepherd,36441.1203,61.3466,11.0917,med,med,med,female,Hernandez
+German Shepherd,40184.1913,60.2642,11.5153,med,med,med,female,Foster
+German Shepherd,37282.5661,59.1265,11.5051,med,med,med,male,Rodriguez
+German Shepherd,36204.6035,62.0523,10.6202,med,low,long,female,Oliver
+German Shepherd,36278.3902,59.8539,10.3587,high,med,med,male,Johns
+Jack Russel Terrier,7360.4614,,14.6246,high,med,short,male,Lisa
+Bichon Frise,4650.5118,30.391,12.2487,high,high,med,male,Lee
+Akita,34462.6475,64.9962,10.5104,med,high,med,male,Deborah
+German Shepherd,36593.3734,60.7365,10.9958,med,med,med,male,Mccarthy
+Akita,42782.3402,68.7597,10.8786,med,high,med,female,Carter
+German Shepherd,38690.1781,65.8078,10.9341,med,med,med,female,Fitzgerald
+Bichon Frise,4424.7234,29.9888,13.3865,low,high,med,female,Oneill
+Jack Russel Terrier,6756.4644,34.0981,13.5756,high,med,short,male,Ellis
+German Shepherd,36199.9025,,10.745,med,med,med,female,Contreras
+Bichon Frise,6657.5426,,12.3434,med,high,short,female,Lopez
+Bichon Frise,5667.6992,30.9137,13.1634,med,high,med,male,Armstrong
+Bichon Frise,4773.7448,30.6403,13.6906,med,high,short,male,Campbell
+German Shepherd,36625.805,58.3507,10.8197,high,high,med,female,Clark
+German Shepherd,37412.7583,62.7742,9.2848,med,med,med,male,Stephenson
+Akita,29823.8043,64.3968,10.8021,med,high,med,female,Ochoa
+German Shepherd,35694.1511,60.6235,10.5057,low,med,med,male,Willis
+Akita,37324.7546,,11.2907,high,med,long,female,Alexander
+Jack Russel Terrier,6370.8951,33.6913,13.4815,high,low,short,male,Henry
+Akita,49270.3854,65.9091,11.4541,med,med,med,female,Ortiz
+German Shepherd,38240.7825,,11.0162,high,med,med,male,Ramos
+Jack Russel Terrier,7248.8158,34.0594,14.2313,high,high,short,male,Wilson
+Akita,42461.8106,66.0503,9.4628,med,low,med,female,Frey
+German Shepherd,35157.5282,57.6065,12.4464,med,med,short,male,Campos
+Bichon Frise,5215.1526,30.1253,13.0873,high,high,med,female,Ramirez
+Bichon Frise,3916.1142,30.0153,12.3614,med,high,med,male,York
+Jack Russel Terrier,6486.0471,34.8287,13.354,high,high,short,female,Hall
+Bichon Frise,4280.5368,30.9246,13.5126,med,high,med,female,Johnson
+German Shepherd,38893.7352,61.425,11.2019,med,med,med,male,Green
+Jack Russel Terrier,5409.8936,33.4778,14.0561,med,med,short,male,Sherman
+Akita,59694.2906,66.0903,11.5907,med,med,med,female,Johnson
+Jack Russel Terrier,6891.0819,33.7111,14.0122,high,med,short,male,Solis
+German Shepherd,37526.5367,61.6627,11.2911,med,high,long,male,Logan
+German Shepherd,36394.7313,59.505,11.7016,med,med,med,female,Reed
+German Shepherd,37661.84,62.7441,10.387,low,high,med,female,Jennings
+Jack Russel Terrier,7310.1075,34.2475,13.5792,high,med,short,female,Ross
+Akita,58246.6631,62.1158,10.5558,med,med,long,male,Jones
+Bichon Frise,4935.8977,30.1296,12.8475,med,high,med,male,Cunningham
+Bichon Frise,5443.8658,30.5826,13.534,med,high,med,female,Smith
+Bichon Frise,5097.5154,30.3375,12.0887,low,high,short,female,Lee
+Akita,53095.3406,67.6155,10.5441,med,high,med,female,Campbell
+Akita,42177.2913,,10.7511,med,med,med,male,Stark
+Jack Russel Terrier,6954.1496,34.8713,14.5982,high,med,short,male,Park
+Jack Russel Terrier,6763.2466,,14.3504,med,med,short,male,Newman
+German Shepherd,36666.0748,,11.1428,high,med,med,male,Horne
+Jack Russel Terrier,7284.4919,34.7959,14.0197,high,low,short,female,Farrell
+German Shepherd,31345.3606,62.2121,11.2164,high,med,med,male,Brown
+Bichon Frise,4696.8402,29.8838,14.1896,med,high,med,male,Valenzuela
+Bichon Frise,5353.8947,30.4008,14.6084,med,med,med,male,Perry
+Akita,49119.3786,65.5214,11.159,med,med,med,female,Foster
+Jack Russel Terrier,6459.7736,33.94,15.5558,high,med,short,male,Chavez
+Jack Russel Terrier,7482.886,34.447,14.19,high,high,short,female,Clark
+German Shepherd,36433.6175,,11.2201,low,med,long,male,Martinez
+German Shepherd,36172.0408,61.3036,11.003,med,med,med,female,Arroyo
+Jack Russel Terrier,5709.419,33.3866,14.8902,high,med,short,male,Kramer

@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Dalmatian,23726.8829,48.0,13.9527,high,high,med,female,Coleman
+German Shepherd,34776.5832,62.9251,11.2046,med,med,med,female,Graham
+German Shepherd,37535.0388,59.9834,11.3355,high,low,short,female,Elliott
+Bloodhound,41054.7999,63.0717,8.8328,med,high,short,male,Beck
+German Shepherd,35523.5715,61.6555,10.8445,med,med,med,male,Calhoun
+Dalmatian,20164.0583,48.0,12.5005,high,high,short,female,King
+Dalmatian,25180.4155,48.0,12.9516,high,high,short,male,Levy
+Bloodhound,35559.7348,62.2213,8.5831,med,high,short,female,Thompson
+German Shepherd,38794.5954,60.1095,10.6615,med,med,short,male,Nguyen
+Amstaff,25911.3663,46.4813,12.8365,low,high,short,male,Wilson
+Amstaff,31379.657,47.3982,13.085,med,high,short,female,Brown
+Amstaff,29337.8416,,12.8004,med,high,short,female,Flores
+Bloodhound,41991.5499,64.3734,8.8641,low,high,short,male,Warren
+Bloodhound,42229.0037,,8.3285,med,high,short,male,Moore
+German Shepherd,36124.4563,,10.5508,med,med,med,male,Hannah
+Bloodhound,31072.5586,63.7727,8.0601,med,high,short,male,Harrington
+German Shepherd,38072.2806,58.0531,11.2584,low,med,med,female,Garcia
+Amstaff,20918.7329,45.1083,12.998,med,high,short,female,Ross
+Dalmatian,22198.7184,,12.1798,med,high,short,female,Caldwell
+Amstaff,22896.0899,,13.3535,low,high,short,female,Williams
+Dalmatian,23369.9529,48.0,12.3556,high,high,short,male,Schroeder
+Dalmatian,20974.585,,13.3678,high,high,short,male,Parrish
+Dalmatian,21083.4163,48.0,13.1707,high,high,med,female,Carlson
+German Shepherd,32959.7264,59.2281,11.1326,med,med,short,female,Hamilton
+German Shepherd,38237.9949,,10.7687,med,med,med,female,Smith
+Bloodhound,37965.5873,64.1138,8.5785,low,high,short,male,Wilkinson
+German Shepherd,33276.4324,57.1922,11.5184,med,low,med,female,Mitchell
+Bloodhound,38128.0364,61.8694,8.6527,med,high,short,female,Esparza
+German Shepherd,37923.3716,61.2975,10.671,med,med,med,male,Bernard
+Amstaff,23882.8385,45.5924,13.3603,med,high,med,male,Rodriguez
+German Shepherd,35738.4945,61.1463,10.4327,med,med,med,male,Spencer
+Dalmatian,21969.4345,48.0,13.1687,high,high,short,female,Crosby
+Amstaff,20519.3183,,12.6416,med,high,short,female,Ramirez
+Amstaff,28253.226,46.496,13.9146,med,med,short,male,Bennett
+Bloodhound,41042.4605,66.515,9.0146,med,high,short,female,Johnson
+Bloodhound,38188.0051,64.4929,8.2223,low,high,short,male,Lamb
+Dalmatian,17963.6473,48.0,13.3309,high,high,med,female,Daniels
+German Shepherd,35174.6016,61.1,10.7411,med,med,med,female,Lopez
+Dalmatian,18481.5885,48.0,13.2052,high,high,short,female,Castillo
+Bloodhound,45972.3792,64.5233,8.6934,med,high,short,male,Hoffman
+German Shepherd,35618.0806,,11.9781,med,med,med,female,Jones
+Dalmatian,27067.2671,48.0,13.2879,med,high,short,male,Rice
+German Shepherd,33414.3672,61.9008,11.2335,high,med,med,female,Berry
+Bloodhound,44252.2406,62.724,8.8532,med,high,short,male,Taylor
+Amstaff,22497.9563,46.381,13.2082,low,med,short,female,Martinez
+German Shepherd,35823.3887,62.2954,11.0295,low,med,med,male,Green
+Bloodhound,39389.2729,,10.303,med,high,short,male,Lopez
+Bloodhound,46018.4296,62.5464,8.1835,med,high,short,female,Holder
+Amstaff,21041.2888,45.5436,12.3518,med,high,short,female,Ellis
+German Shepherd,38038.3742,57.834,11.1143,med,med,med,male,Douglas
+German Shepherd,34722.9401,62.3508,10.6051,med,high,med,female,Hill
+Amstaff,31651.5561,,12.4243,med,high,short,male,Park
+Dalmatian,24225.7041,48.0,11.8227,high,high,short,male,Schneider
+Bloodhound,45137.297,63.0051,8.3568,high,high,short,female,King
+Dalmatian,24172.9727,48.0,13.5306,high,high,short,male,Benson
+Amstaff,27312.0963,,11.8249,med,high,short,female,Ramirez
+Bloodhound,46444.7491,62.7359,7.8049,med,high,short,male,Phillips
+Bloodhound,44376.1478,64.1455,9.4032,med,high,short,female,Scott
+German Shepherd,38280.6717,61.4431,10.7691,low,med,long,male,Ian
+German Shepherd,36182.357,58.2219,10.9951,med,med,long,male,Stevens
+German Shepherd,37318.2764,,10.467,med,med,med,male,Little
+Amstaff,26176.1931,46.3687,13.0693,med,high,short,female,Michael
+Bloodhound,41457.1555,64.7898,6.813,med,high,short,male,Jones
+Dalmatian,21333.4709,48.0,12.5163,med,high,short,female,Wilson
+Bloodhound,41877.3755,62.2324,9.2192,high,high,short,male,Rodriguez
+Dalmatian,24124.172,48.0,13.7561,high,high,short,female,Zamora
+Amstaff,28422.2864,46.0531,12.4753,med,high,short,female,Kelly
+Bloodhound,41440.7287,,7.538,med,high,short,female,Tucker
+Dalmatian,20427.6768,,13.2412,high,high,short,female,Keller
+Amstaff,23108.1108,47.0186,13.2393,med,high,short,male,Grant
+Dalmatian,20780.8018,,12.7091,high,high,short,female,Nunez
+Dalmatian,23503.2077,48.0,12.2763,high,high,short,female,Baker
+Amstaff,31925.6493,,13.4525,med,high,short,male,Sanchez
+German Shepherd,38540.0244,60.7673,9.9167,low,med,med,male,Moss
+German Shepherd,38492.6729,58.6793,10.2641,high,med,med,male,Stafford
+Amstaff,25764.0634,46.694,13.6511,med,high,short,female,James
+Bloodhound,40791.6763,61.9145,11.3566,med,high,short,female,Sherman
+German Shepherd,34408.8255,59.0251,11.2046,high,med,med,male,Deleon
+Amstaff,26004.1402,45.741,13.8605,high,high,short,male,Guerra
+Bloodhound,38970.9801,61.6789,8.0754,med,high,med,female,Higgins
+German Shepherd,35160.6913,61.8759,12.153,med,med,short,male,Jordan
+Bloodhound,45619.7727,62.2614,10.0695,med,high,short,female,Hall
+Bloodhound,41573.3671,60.1027,9.0616,low,high,short,male,Williams
+German Shepherd,36812.3951,62.0242,11.3965,med,med,med,male,Berg
+Dalmatian,21094.9088,48.0,12.8505,high,high,short,female,Raymond
+Dalmatian,28421.3446,48.0,13.9983,high,high,short,female,Phillips
+German Shepherd,35428.2358,60.9523,10.8766,med,med,med,male,Joseph
+German Shepherd,35758.6844,63.3611,10.1507,med,med,med,female,Torres
+Bloodhound,41128.7756,,8.7811,med,med,short,male,Fields
+German Shepherd,35208.1384,63.3097,10.6932,med,med,short,male,Campbell
+Amstaff,25160.2632,46.2987,13.2321,med,high,short,male,Contreras
+German Shepherd,36370.4414,64.1346,10.5506,low,med,med,female,Burns
+Amstaff,27947.1563,46.7509,13.3958,med,high,med,female,Vang
+German Shepherd,36270.9992,63.4373,10.929,med,low,med,female,Turner
+German Shepherd,36556.1759,59.7857,10.4864,med,low,med,male,Rodriguez
+Bloodhound,39302.3348,63.9911,7.693,med,high,short,male,Valencia
+German Shepherd,35964.5685,,10.7148,med,med,short,female,Valencia
+Amstaff,24155.8523,46.6061,12.9206,med,high,short,male,Sutton
+Amstaff,28243.3377,46.3376,13.9595,med,high,short,female,Morgan
+Bloodhound,42868.4245,63.505,7.2633,med,high,short,female,Jackson
+Dalmatian,21243.1188,48.0,12.8519,high,high,short,female,Armstrong
+Amstaff,29997.1122,45.7598,12.9745,med,high,short,male,Taylor
+Dalmatian,24901.8424,,12.4876,high,high,short,male,Brooks
+Amstaff,30223.2083,,13.3377,high,high,short,female,Ramos
+Bloodhound,43328.345,61.9769,8.8498,med,high,short,male,Duncan
+German Shepherd,37474.0777,63.6696,10.6519,med,med,med,male,Bauer
+Amstaff,26757.6217,,12.3896,med,high,med,male,Ramos
+German Shepherd,36600.5327,60.6217,11.3175,med,high,med,female,Taylor
+Bloodhound,41892.9297,,9.3685,med,high,short,male,Smith
+German Shepherd,39223.758,,10.6491,high,med,med,female,Mitchell
+German Shepherd,35436.8165,,11.1439,med,med,long,male,Garcia
+Dalmatian,24726.0264,48.0,13.0429,med,high,short,male,Mccoy
+Dalmatian,20769.3184,48.0,12.5415,high,high,short,female,Graham
+German Shepherd,34790.7076,59.4562,10.3991,med,med,med,male,Foster
+Amstaff,29496.2332,,13.2736,med,high,med,male,Rojas
+Dalmatian,25059.6513,48.0,12.3881,high,high,short,male,Whitaker
+German Shepherd,35858.8314,61.4796,10.6812,med,med,med,male,Dawson
+Bloodhound,43654.3605,61.7079,11.1538,low,high,short,male,Ingram
+German Shepherd,35092.6348,60.468,9.7789,med,med,med,male,Baker
+Amstaff,33464.3468,46.6264,12.9486,med,high,short,female,Mcclure
+Amstaff,23938.0222,45.4127,13.5388,med,high,short,female,Schmidt
+Dalmatian,20315.137,48.0,13.4235,high,high,short,male,Barnett
+Amstaff,25039.8863,45.4126,12.2965,med,high,short,female,Baxter
+Amstaff,30135.323,45.339,13.3825,med,high,short,female,Sexton
+Amstaff,25623.3542,,13.3097,med,high,short,male,Perkins
+Dalmatian,23675.9674,48.0,13.6252,high,high,short,male,Lozano
+Dalmatian,21530.0908,48.0,14.2993,high,med,short,female,Osborne
+Amstaff,27802.0914,46.3958,14.4069,low,high,short,female,Johnson
+Amstaff,26639.638,47.1139,12.8619,low,high,short,female,Stewart
+Dalmatian,24524.6883,48.0,13.5361,high,high,short,male,Lara
+German Shepherd,38771.9148,62.6862,10.6992,med,med,med,male,White
+Amstaff,25312.1981,44.7787,13.499,med,high,short,female,Torres
+Amstaff,23056.603,45.7219,13.3328,med,high,short,female,Acosta
+Dalmatian,24864.0018,48.0,13.3051,high,high,short,female,Hernandez
+German Shepherd,38092.9108,,11.3037,med,med,med,female,Pearson
+German Shepherd,37127.5513,60.3859,11.0094,med,med,long,female,Williams
+Dalmatian,26341.8632,48.0,13.2863,high,high,short,male,Cox
+Bloodhound,42838.5317,63.2401,8.7454,med,high,short,female,Nguyen
+Bloodhound,48893.9642,,8.1988,med,high,short,female,Watkins
+German Shepherd,36583.259,59.4602,10.4993,med,med,med,female,Lopez
+Dalmatian,22615.2237,48.0,13.5266,high,high,short,male,James
+Bloodhound,35917.6477,67.8533,8.1162,med,high,short,male,Powell
+Bloodhound,42318.5702,65.5333,8.9959,med,high,med,male,Wright
+Dalmatian,25916.5142,,13.9034,high,high,short,male,Cole
+German Shepherd,35267.8715,60.4819,11.3507,high,low,med,female,Robert
+German Shepherd,34303.8612,58.2011,11.1419,med,high,med,male,Peterson
+Dalmatian,22713.6711,,11.8562,high,high,short,male,Smith
+German Shepherd,36929.1548,62.2233,10.6119,low,high,med,male,Mack
+German Shepherd,36188.343,,11.2388,med,med,med,female,Ramos
+Bloodhound,44687.3487,64.6423,8.2518,med,high,med,female,Johnson
+Bloodhound,45976.914,,8.1849,med,high,short,male,Hernandez
+Dalmatian,20934.537,48.0,12.8239,high,high,short,male,Wade
+Bloodhound,51022.3007,,6.8344,med,high,short,female,Wilson
+Dalmatian,26630.0232,48.0,13.2907,med,high,short,female,Hall
+Dalmatian,21761.3847,,12.4918,high,high,short,female,Mccall
+Dalmatian,23679.5193,48.0,11.9491,high,high,short,female,Cole
+German Shepherd,38161.4286,61.7174,11.2377,med,med,med,male,Aguirre
+Amstaff,17883.9846,,12.5374,med,high,short,male,Edwards
+Amstaff,29640.3396,46.0867,12.5142,med,high,short,male,Gilbert
+Dalmatian,22783.1274,48.0,12.2047,high,high,short,female,Norton
+Amstaff,24037.1778,,12.7469,high,high,short,female,Holden
+German Shepherd,39633.4747,,11.3544,med,low,med,male,Johnson
+German Shepherd,35626.5805,56.4322,11.2453,med,med,med,female,Schroeder
+Dalmatian,20600.543,48.0,12.3278,high,high,short,male,Torres
+Amstaff,24917.4969,46.963,13.2611,low,high,short,female,Carey
+German Shepherd,35246.8266,61.9015,11.2161,med,med,short,male,Eaton
+Bloodhound,37390.1238,61.9914,8.5949,med,high,short,female,Williams
+Amstaff,25076.3453,44.8958,12.2922,med,high,short,male,Garcia
+Amstaff,22824.2521,,12.9648,med,med,short,female,Cunningham
+Amstaff,23011.261,45.3904,13.0039,med,high,short,male,Mason
+Dalmatian,23915.1259,48.0,11.9964,high,med,short,female,Smith
+Bloodhound,44278.9006,63.738,10.0006,med,high,short,female,Orozco
+Bloodhound,40365.348,,7.9884,med,med,short,male,Serrano
+Dalmatian,20132.2369,48.0,13.5189,high,high,short,male,Gutierrez
+Amstaff,25714.8564,45.9354,12.1554,med,high,med,female,Kennedy
+German Shepherd,36742.657,,10.8795,low,med,short,male,Floyd
+Bloodhound,46065.8714,64.6155,8.3623,med,high,short,male,Wilkins
+Dalmatian,26727.5118,,12.6241,high,high,short,male,Shah
+German Shepherd,37401.9939,,12.4141,med,med,med,male,Anderson
+Dalmatian,21034.8515,,11.9785,high,high,med,female,Thompson
+Bloodhound,46870.8341,63.7004,10.2191,med,high,short,male,Martinez
+Dalmatian,24451.7511,48.0,13.6946,high,high,short,female,Clark
+Bloodhound,45081.5738,63.2349,9.1896,med,high,short,female,Martinez
+Dalmatian,22553.2482,48.0,13.6377,high,high,short,male,Blake
+Bloodhound,49297.7947,60.1883,7.1086,med,high,short,male,Mcdowell
+German Shepherd,36724.3359,61.4936,10.4477,med,med,med,male,Horn
+German Shepherd,37209.51,60.0627,10.0173,med,med,med,male,Medina
+German Shepherd,38447.9872,59.0216,11.4238,med,med,med,male,Doyle
+Dalmatian,22767.7753,48.0,12.9266,high,med,med,male,Miller
+Bloodhound,41893.7451,65.3478,8.9732,med,high,short,female,Johnson
+Amstaff,24560.4247,45.2952,13.6432,high,high,short,male,Johnson
+Bloodhound,45843.5588,62.8394,9.0466,med,high,short,male,Ortiz
+Bloodhound,40951.2598,,8.3906,med,high,short,female,Nichols
+Amstaff,29098.0896,45.3693,12.6289,med,high,short,male,Garcia
+Dalmatian,22268.3666,48.0,12.808,high,high,med,male,Jackson
+Dalmatian,24384.2564,,12.5003,high,high,short,male,James
+German Shepherd,37865.8233,60.109,10.8465,high,med,med,female,Contreras
+Amstaff,23441.9854,46.3373,12.8599,low,high,short,male,Garcia
+Bloodhound,47386.3607,63.7766,8.8423,med,high,short,female,Fitzgerald
+Amstaff,26792.7583,45.7674,13.7482,med,high,short,male,Pena
+Amstaff,25660.2898,,12.5171,med,high,short,female,Burton
+German Shepherd,36745.6935,,11.3521,med,med,short,female,Reed
+Bloodhound,44628.9163,65.5413,7.9311,med,high,short,male,Conrad
+Dalmatian,26652.5709,,13.4116,high,med,med,female,Soto
+Dalmatian,20314.1054,,14.0523,high,high,short,male,Mckee
+Amstaff,21502.6401,46.5417,12.2936,med,high,short,male,Henderson
+Amstaff,23237.5677,,12.5815,med,high,short,female,Woods
+Bloodhound,38315.3161,62.0782,7.8035,med,med,short,female,Duncan
+Amstaff,19863.1594,,12.7851,high,med,short,male,Lutz
+Dalmatian,22714.6601,48.0,12.2727,high,high,med,female,Gibson
+Bloodhound,41136.5716,61.9028,8.6117,high,high,short,female,Smith
+Dalmatian,24972.4942,48.0,13.2154,high,med,short,female,Sanchez
+German Shepherd,36263.4735,,11.1292,med,med,med,female,Morgan
+Bloodhound,41182.7842,65.6804,7.2573,med,high,short,female,Turner
+Bloodhound,42509.8804,63.5603,8.0588,med,high,short,female,Flores
+Bloodhound,39526.5432,62.9206,8.169,med,high,short,female,Hansen
+Dalmatian,24575.9256,48.0,13.0196,high,high,short,male,King
+Amstaff,22783.417,,12.246,med,high,short,male,Lara
+Amstaff,18374.714,47.265,13.3088,high,high,short,female,Walker
+Dalmatian,25601.9608,48.0,12.5244,high,high,short,female,Dodson
+Amstaff,28699.8879,45.0501,12.6247,low,high,short,female,Price
+Bloodhound,35292.7475,,9.2076,med,med,short,female,Taylor
+Dalmatian,24519.3597,,13.6876,high,high,short,male,Wallace
+German Shepherd,34755.0803,58.0401,11.111,med,med,med,male,Padilla
+Dalmatian,24270.0306,48.0,13.2892,high,high,short,male,Smith
+Amstaff,29271.5082,45.4693,13.9107,med,high,short,male,Bell
+Amstaff,29267.521,46.2143,12.2115,high,high,short,female,Nichols
+German Shepherd,35115.2294,61.9258,10.209,low,med,med,male,Parker
+Amstaff,25425.9401,,13.3672,med,high,short,female,Medina
+Bloodhound,42476.3396,64.9074,8.7245,med,high,short,male,Le
+Amstaff,25028.0667,46.2313,14.1119,med,high,short,male,Odom
+Dalmatian,17504.1283,,12.243,high,high,med,male,Deleon
+Dalmatian,22284.4277,48.0,13.0839,high,high,short,male,Jones
+Dalmatian,23569.9477,48.0,11.9852,high,high,short,female,Mitchell
+Bloodhound,42440.9577,,8.2378,high,high,short,female,Stewart
+Amstaff,30501.6174,45.9225,12.6865,med,high,short,female,Johnson
+Dalmatian,23939.0085,48.0,13.6348,high,med,short,male,Ramos
+Amstaff,21836.8501,,13.6,med,high,short,female,Morse
+Amstaff,26615.6526,46.0484,12.6972,med,high,short,female,Compton
+Dalmatian,26410.6959,48.0,12.6871,med,high,short,male,Graham
+Amstaff,29220.9,,12.7572,med,high,short,female,Adkins
+Amstaff,26985.0774,,13.627,med,high,short,male,Miller
+Dalmatian,22244.8641,48.0,12.4787,high,high,short,female,Combs
+Dalmatian,22021.6453,48.0,14.0441,high,high,short,female,Darin
+German Shepherd,36758.1945,61.6073,10.3798,med,med,med,male,Prince
+Amstaff,21510.0575,45.1251,13.1769,med,high,short,male,Pierce
+Dalmatian,24580.767,,13.7819,high,high,short,female,Bradford
+German Shepherd,37382.4989,59.2745,10.9533,med,med,med,female,Moran
+German Shepherd,36226.6788,60.0153,11.1541,med,med,med,female,Hall
+Dalmatian,23232.2733,,12.9159,med,high,med,male,Smith
+Bloodhound,40624.8934,64.9097,8.2685,low,high,short,male,Lewis
+German Shepherd,36921.4471,61.0756,10.7712,med,med,med,female,James
+Dalmatian,19878.2338,48.0,12.7412,med,high,short,female,Cooper
+Dalmatian,25069.9215,48.0,13.3997,high,high,short,female,Newton
+German Shepherd,39403.7998,60.6214,10.7121,med,med,short,male,Phillips
+Bloodhound,44973.8753,63.5799,7.6691,med,high,med,female,Jones
+German Shepherd,37858.9617,,11.6164,med,med,short,female,Patterson
+Dalmatian,22774.6683,48.0,14.1209,high,high,short,female,Dean
+German Shepherd,36791.6128,63.0016,10.9394,med,med,med,female,Butler
+Bloodhound,47163.6743,63.393,8.0335,med,high,short,female,Robinson
+German Shepherd,35056.3223,62.4784,10.3707,med,high,med,female,Pena
+German Shepherd,38576.9353,58.8475,11.6258,med,med,med,male,Snow
+Dalmatian,24311.8839,48.0,13.2194,high,med,short,male,Johnson
+Dalmatian,22909.1871,,14.3703,high,high,med,female,Eaton
+German Shepherd,35068.7135,66.052,10.4402,med,med,med,female,Hoover
+German Shepherd,34413.8867,60.1736,10.7214,med,low,med,female,Thornton
+Bloodhound,48298.0148,63.4218,8.5022,med,high,short,female,Wilson
+Dalmatian,20898.5425,48.0,12.6326,high,high,short,male,Edwards
+Dalmatian,22721.4477,48.0,11.724,high,high,med,female,Stephens
+Dalmatian,21072.5386,,14.0149,high,high,short,male,Taylor
+Dalmatian,25547.4541,48.0,11.8753,high,high,short,male,Stewart
+German Shepherd,35174.1235,,10.8531,med,med,short,female,Huffman
+Dalmatian,23066.0871,48.0,12.6827,high,high,short,female,Hunter
+Bloodhound,43919.8563,,8.3669,med,high,short,male,Collins
+Amstaff,26093.0435,46.1403,12.7318,med,high,short,male,Mcdowell
+Bloodhound,47984.1867,63.3428,9.2919,high,high,short,male,Wright
+Amstaff,24791.3117,45.2853,13.2839,med,high,short,female,Gutierrez
+Amstaff,25495.7856,45.9077,13.735,low,high,short,male,Rodriguez
+Bloodhound,33831.1245,62.3121,8.015,med,high,short,male,Sharp
+Amstaff,31955.3749,46.901,12.6501,med,high,short,male,Burch
+Dalmatian,22482.4098,48.0,12.537,high,high,short,male,Adams
+German Shepherd,36154.7575,60.6856,10.0177,med,med,med,female,Jones
+German Shepherd,39257.5785,,10.8853,med,med,med,female,Gibson
+German Shepherd,36914.8076,,10.9074,med,high,med,female,Saunders
+German Shepherd,36906.5767,59.5589,11.2016,med,med,short,female,Barry
+Dalmatian,21200.4074,48.0,12.3316,high,high,short,male,Hill
+Bloodhound,45347.764,,8.0199,med,high,short,female,Frank
+Dalmatian,26142.3618,48.0,12.2745,high,high,short,female,Campbell
+Dalmatian,21498.8195,48.0,12.586,high,med,short,female,Cummings
+Dalmatian,22731.7391,48.0,13.7722,high,high,short,male,Brown
+Dalmatian,26945.1887,,12.6522,high,high,med,male,Ponce
+German Shepherd,36867.3552,61.2366,10.5648,med,med,med,male,Bauer
+German Shepherd,34882.1541,61.4736,10.3762,med,med,med,male,Brown
+Dalmatian,24841.556,,12.1478,high,high,short,male,Hendrix
+Bloodhound,54842.121,62.3988,8.3973,med,high,short,male,Shaw
+German Shepherd,36067.1016,62.5066,11.8663,med,med,med,male,Hoffman
+Dalmatian,22867.1512,48.0,14.0482,high,high,short,male,Robbins
+Dalmatian,25303.4224,48.0,12.9318,high,high,short,male,Adkins
+Dalmatian,19500.331,48.0,12.2339,med,high,short,male,Orozco
+German Shepherd,35682.4183,64.1871,11.2694,med,high,med,female,Rodriguez
+Dalmatian,19605.3545,48.0,12.8293,high,high,short,male,Salinas
+Bloodhound,43417.6165,,6.721,med,med,short,female,Nelson
+Amstaff,27264.3899,45.9656,12.9977,med,high,short,male,Mason
+Bloodhound,44631.8602,63.1587,9.5268,low,high,short,male,Conner
+Amstaff,23694.1127,45.5824,13.1553,high,high,short,male,Campbell
+Dalmatian,24939.4617,48.0,12.1335,med,high,short,male,Wells
+Amstaff,26660.3028,46.0603,13.5327,med,high,short,female,Harrell
+German Shepherd,35991.2533,,9.9233,med,med,short,female,Pacheco
+Bloodhound,42855.6683,60.6189,8.0708,med,med,short,male,Estrada
+Dalmatian,27249.9155,48.0,13.4704,high,high,med,female,Bush
+Bloodhound,45849.9954,63.8769,6.684,med,high,short,male,Johnston
+Bloodhound,43232.0875,62.5337,8.2505,high,high,short,female,Burke
+Amstaff,28680.1723,,13.5867,med,high,short,female,Miller
+Amstaff,27236.1768,,12.4449,med,high,short,female,Smith
+Dalmatian,23730.7023,48.0,14.4087,high,high,short,male,Thomas
+Dalmatian,27798.0872,48.0,13.2772,high,high,short,male,Boyd
+Amstaff,27066.3435,45.8082,13.9367,med,high,short,male,Drake
+German Shepherd,36428.7286,59.4773,10.6436,med,med,med,male,Davenport
+Dalmatian,25416.6261,48.0,11.7608,high,high,short,male,Ramos
+German Shepherd,36624.9795,,10.7335,med,low,med,male,Rosales
+Amstaff,26221.9199,46.1659,13.3459,med,high,short,male,Walton
+German Shepherd,35794.1394,61.1066,10.691,med,med,med,male,Knox
+German Shepherd,35692.4239,62.0538,11.0891,med,med,long,male,Ruiz
+Bloodhound,42339.2552,63.8419,10.1859,med,high,short,female,Padilla
+Amstaff,20352.2354,46.3196,12.1648,med,high,short,female,Dudley
+Amstaff,25880.023,46.765,12.9451,med,high,short,male,Gallagher
+Bloodhound,42898.0431,62.0146,8.4343,med,high,short,female,Davis
+German Shepherd,35291.7239,60.2879,12.8442,med,med,med,female,Bush
+Dalmatian,21379.4984,48.0,13.0076,med,med,short,female,Richmond
+Amstaff,26802.9582,45.6937,13.4506,med,high,short,male,Owens
+German Shepherd,38290.1997,60.6705,10.8836,med,med,med,male,Porter
+German Shepherd,38715.7207,,10.3367,med,low,med,female,Villegas
+Dalmatian,27787.261,48.0,13.2745,high,high,short,male,Weiss
+Amstaff,18751.2316,47.0024,12.116,med,high,short,male,Lopez
+Amstaff,26043.3825,46.4347,13.1908,high,high,short,male,Schmidt
+Bloodhound,44123.9193,,8.3355,med,high,short,male,Rosales
+Bloodhound,39784.1986,62.9195,8.9699,med,high,short,male,Gonzalez
+Amstaff,25566.0126,45.4468,12.6229,med,high,short,female,Romero
+Amstaff,29659.7722,44.9011,12.5694,med,high,short,male,Mckinney
+Dalmatian,22738.6567,48.0,13.4119,high,high,short,female,Williams
+German Shepherd,38833.3749,60.465,10.4933,med,high,med,female,Lee
+Amstaff,22895.6214,45.6458,11.8165,med,high,short,male,Banks
+Amstaff,20227.7856,45.2118,13.8607,med,high,short,female,Atkinson
+German Shepherd,38284.7064,59.4842,10.3798,med,med,med,male,Campbell
+Dalmatian,23156.8236,48.0,13.7299,high,high,short,male,Nielsen
+Dalmatian,22295.7918,48.0,12.3493,med,high,med,male,Fisher
+Dalmatian,24224.5428,48.0,13.0138,high,high,short,male,Rick
+Bloodhound,44165.8871,62.393,8.5304,med,high,short,male,Stephenson
+Bloodhound,43336.3871,,8.2026,med,high,short,male,Horn
+Dalmatian,22955.5014,48.0,14.0189,high,high,short,female,Ramirez
+German Shepherd,35017.3055,,11.7061,low,med,med,male,Ashley
+German Shepherd,36796.8282,63.2389,9.7278,med,med,long,female,Ruiz
+Bloodhound,46196.552,,7.8159,med,high,short,male,Torres
+German Shepherd,37528.9709,,9.6725,med,low,med,male,Solomon
+Dalmatian,25877.7302,,13.5566,high,high,short,female,Carlson
+Amstaff,28106.0444,46.5005,13.1523,med,high,short,male,Chavez
+Bloodhound,42162.8256,,7.7449,med,high,short,female,Allen
+Dalmatian,20584.1732,48.0,13.1439,high,high,short,female,Hoffman
+German Shepherd,35327.6145,60.137,9.962,high,low,med,female,Moore
+German Shepherd,36261.8406,,11.0501,med,med,med,female,Jones
+German Shepherd,36364.2804,59.9904,10.9244,med,med,med,female,Galvan
+German Shepherd,37144.5131,64.4533,11.7723,med,med,short,female,Nguyen
+German Shepherd,34925.7564,59.1083,11.4375,med,med,short,female,Hunter
+Dalmatian,25197.2338,48.0,13.0128,high,high,short,male,Jackson
+Bloodhound,41939.9223,65.6708,6.7355,med,high,short,female,Camacho
+Amstaff,24765.2193,,13.1215,med,high,short,female,Douglas
+German Shepherd,36591.3294,,11.9359,med,med,med,male,Friedman
+Dalmatian,22475.0988,,12.6511,med,high,short,female,Smith
+Bloodhound,39901.3455,66.119,8.2803,med,high,short,male,Velasquez
+German Shepherd,38252.6696,61.7882,10.024,med,med,med,female,Lucero
+Bloodhound,35229.5305,,8.5327,high,high,short,female,Cook
+German Shepherd,33341.3417,63.7039,11.8239,med,med,med,male,Campbell
+Bloodhound,36531.8882,63.6513,8.5374,med,med,short,female,Graham
+Amstaff,24716.128,,12.3335,med,med,short,female,Russell
+German Shepherd,36464.3506,62.496,10.6391,med,med,med,female,Powell
+German Shepherd,38083.6163,62.2755,11.7988,med,low,med,male,Roy
+German Shepherd,35839.5998,60.1036,11.2614,low,med,med,female,Wagner
+Amstaff,25081.3634,44.9624,12.5604,med,high,short,male,Campos
+Bloodhound,40754.004,,7.9474,med,high,med,female,Lopez
+German Shepherd,38280.9102,60.8599,12.0789,med,med,med,female,Weber
+Amstaff,26538.0362,,12.8984,med,med,short,female,Foster
+Dalmatian,24965.8558,48.0,13.033,high,high,med,male,Chavez
+German Shepherd,37087.2689,61.6716,10.5533,med,med,med,male,Gonzalez
+Bloodhound,44689.2336,60.8412,7.824,med,high,short,male,Taylor
+Bloodhound,41766.4439,65.194,10.1639,med,high,short,male,Brown
+Amstaff,27210.308,46.2414,13.4635,med,high,short,female,Thompson
+Bloodhound,47189.7218,63.4803,8.4857,med,high,short,female,Hurley
+Amstaff,25335.4016,,13.2783,med,high,short,female,Spears
+German Shepherd,38435.3977,,10.8505,med,low,med,female,Everett
+Dalmatian,25454.5438,48.0,13.4434,high,high,short,male,Graham
+Amstaff,23934.4932,,12.4712,med,high,short,female,Walker
+Dalmatian,25461.5148,48.0,13.2121,high,high,short,male,Scott
+Amstaff,22037.741,46.195,12.7119,med,high,short,male,Cook
+Bloodhound,47529.454,64.7125,9.1713,med,high,med,female,Avila
+German Shepherd,38547.7189,,10.6674,med,med,med,male,Martin
+Amstaff,26976.6168,45.769,12.7698,high,med,short,male,Harris
+Bloodhound,44065.1716,61.5262,7.6907,med,med,short,male,Miller
+Dalmatian,23056.0735,48.0,12.6942,high,high,short,male,Richardson
+Dalmatian,22027.0197,48.0,13.5338,high,med,short,female,Marvin
+Bloodhound,43527.0393,63.6384,9.2002,med,high,short,female,Johnson
+Bloodhound,34007.5275,62.8184,9.3528,med,high,short,male,Nelson
+German Shepherd,39107.0801,60.9292,11.3473,low,med,short,female,Barnett
+Amstaff,25682.111,45.679,13.1867,low,high,short,female,Hernandez
+Bloodhound,46494.5381,66.5343,8.8018,high,high,short,female,Williams
+Amstaff,28965.2753,46.5044,14.1799,med,high,short,male,Miranda
+German Shepherd,33731.417,60.6493,11.3001,low,med,med,female,Barr
+Dalmatian,21595.4625,,12.8889,high,high,short,female,Brown
+German Shepherd,37566.0526,59.0546,11.6564,med,low,med,female,Williams
+Bloodhound,45725.3767,64.2177,8.2838,med,high,short,male,Anderson
+Bloodhound,43512.5619,62.1237,9.1022,low,high,short,male,Hayes
+Dalmatian,20289.2617,48.0,12.5843,med,high,short,female,Murphy
+German Shepherd,36706.9835,63.8224,12.6241,med,low,med,female,Mcdonald
+Bloodhound,44199.1199,,8.3553,low,high,short,male,Marquez
+Amstaff,25596.1882,46.1381,12.6703,med,high,short,female,Pruitt
+Bloodhound,39883.5715,,9.3082,med,high,short,male,Davis
+Bloodhound,40011.8494,65.8129,9.5044,med,high,short,male,Short
+Bloodhound,40808.0054,60.4733,8.1919,med,high,short,female,Schroeder
+Amstaff,31842.4276,,13.1122,low,high,short,female,Gibson
+German Shepherd,37485.0933,57.7192,10.692,med,med,med,male,Sawyer
+Amstaff,26299.9277,45.8571,13.3146,low,high,short,male,Fisher
+German Shepherd,38250.3802,63.0372,11.1803,high,med,short,male,Cooper
+German Shepherd,36015.3724,64.4169,9.0322,med,med,long,female,Lyons
+German Shepherd,34764.554,62.4853,12.0122,high,med,short,male,Klein
+Bloodhound,52480.8408,63.0054,8.7658,med,high,short,male,Morris
+German Shepherd,36951.173,61.9505,11.3068,med,med,med,male,Baker
+Amstaff,25380.2127,45.6946,12.9925,high,high,short,female,Anderson
+German Shepherd,36416.1004,61.74,10.701,med,med,med,female,Farrell
+Bloodhound,46624.5762,62.4173,8.6182,med,high,short,male,Santana
+Bloodhound,43179.8498,65.2822,9.0198,med,high,short,male,Cruz
+Bloodhound,41785.8023,,10.2443,med,high,short,male,Holland
+German Shepherd,37964.6718,61.1271,10.8426,med,med,med,male,Johnson
+Bloodhound,55590.5065,66.1914,7.1487,med,high,med,female,Davies
+Amstaff,24745.862,45.6266,13.0976,med,high,short,female,Stewart
+German Shepherd,35429.9198,60.9509,11.1943,med,med,long,female,Hernandez
+Bloodhound,41991.8658,62.7859,8.7988,med,high,short,male,Hill
+Amstaff,35764.9952,,13.8486,med,high,short,male,Johnson
+German Shepherd,34309.3337,59.4323,11.455,med,med,med,female,Barnett
+German Shepherd,35887.5624,60.1745,11.3401,med,med,med,male,Garcia
+Amstaff,29170.6965,,13.1069,med,high,short,female,Fowler
+Dalmatian,24644.898,48.0,12.6329,high,high,short,female,Ortiz
+Amstaff,27354.0467,45.8379,13.1075,high,high,short,male,Davis
+German Shepherd,35421.0901,59.3214,10.6689,med,low,med,female,Foster
+German Shepherd,34717.5054,63.4169,11.953,med,med,short,male,Williams
+Amstaff,25088.3711,45.2354,12.5213,med,high,short,male,Taylor
+Amstaff,25119.0832,46.0204,12.5134,med,high,med,male,Hall
+German Shepherd,35113.6045,59.0724,12.4839,med,med,med,male,Cooper
+German Shepherd,35218.3456,,11.1909,low,med,long,female,Foley
+Bloodhound,42583.7875,,8.0653,high,high,med,female,Johnson
+Dalmatian,24301.0828,,13.0566,high,high,short,male,Johnson
+Dalmatian,23659.209,48.0,13.5734,high,high,short,female,Martinez
+Bloodhound,40714.5127,62.6815,9.5085,low,high,short,male,Palmer
+Amstaff,26364.1866,,12.6944,med,high,short,male,Warner
+Amstaff,25882.9194,,13.2813,high,high,short,female,Mccall
+Amstaff,27528.0456,46.7508,12.9484,med,high,short,male,Lawrence
+German Shepherd,34436.1849,60.6156,10.7265,med,med,med,female,Leach
+Amstaff,30523.5404,45.049,12.8803,high,high,short,female,Shaw
+Bloodhound,37971.8494,64.3788,7.0521,med,high,short,female,Gray
+German Shepherd,33206.8773,61.6501,10.894,med,med,med,female,Rowe
+Bloodhound,44549.2509,,9.2773,med,high,short,female,Pitts
+Bloodhound,40459.1908,63.0041,9.5515,med,high,short,male,Mcbride
+Amstaff,33448.479,46.4091,13.7763,med,med,med,female,Davis
+Bloodhound,40934.33,64.7039,8.1365,low,high,short,male,Fields
+Bloodhound,40179.1878,62.4721,8.3165,med,high,short,female,Webb
+Dalmatian,21830.2954,,13.1966,med,high,short,female,Contreras
+Bloodhound,26007.2516,63.2189,8.0843,med,high,short,female,Sullivan
+German Shepherd,38195.8562,62.0245,11.7111,med,med,med,female,Garcia
+Amstaff,27522.765,46.2111,14.0865,med,high,short,female,Nash
+Dalmatian,22427.0903,48.0,13.8294,high,high,short,male,Caldwell
+Dalmatian,23289.8456,48.0,12.9877,high,high,short,male,Myers
+Amstaff,30699.3345,46.8446,13.6061,med,high,short,male,Montes
+German Shepherd,37763.7429,60.7307,11.2175,med,med,long,female,Chandler
+Amstaff,31938.5728,46.795,13.0205,med,high,short,male,Gonzales
+Amstaff,33779.1081,,13.016,med,high,short,female,Guzman
+German Shepherd,37967.9922,,10.9097,med,med,med,female,Johnston
+German Shepherd,37256.4808,,11.0602,med,med,long,female,Richards
+Amstaff,23299.0548,46.1119,14.0932,med,high,short,female,Fischer
+Amstaff,23933.0473,46.654,12.7668,low,high,short,male,Evans
+Dalmatian,21600.539,,13.9083,high,high,short,male,Hale
+German Shepherd,39203.4489,63.892,11.623,med,med,med,female,Brown
+Dalmatian,24444.2882,48.0,13.068,high,high,short,female,Lang
+Amstaff,27536.2084,46.453,12.906,med,high,short,female,Dunn
+Dalmatian,25132.8238,48.0,12.9941,high,high,med,male,Chavez
+German Shepherd,38164.5997,59.0881,10.4567,med,high,med,female,Rodriguez
+Bloodhound,50623.173,62.6448,9.4332,med,high,short,male,Jones
+Amstaff,24531.3387,46.0773,12.7279,med,high,short,male,Wheeler
+German Shepherd,34041.8613,60.7846,10.5088,high,med,med,male,Juarez
+Bloodhound,44916.2885,,9.1143,med,high,short,male,Smith
+Amstaff,20305.6017,,13.017,med,high,short,female,Miller
+Bloodhound,52137.5882,61.7461,8.706,low,high,short,female,Harris
+German Shepherd,36589.6687,60.425,11.4531,med,med,med,male,Serrano
+Amstaff,30175.2929,46.4927,12.7408,med,high,short,male,Smith
+German Shepherd,37036.9073,60.238,10.7026,med,med,med,male,Gonzalez
+Amstaff,28424.9937,45.873,13.5063,med,high,short,female,Camacho
+German Shepherd,35384.7194,60.6284,11.0948,med,med,med,male,Taylor
+Amstaff,25057.0961,46.4431,12.8873,med,high,short,female,Roberts
+Dalmatian,24209.6591,48.0,13.3937,high,med,short,female,Sexton
+German Shepherd,35834.2533,61.2664,12.0512,med,med,med,female,Alex
+German Shepherd,33771.3249,,10.8934,low,med,med,male,Khan
+Dalmatian,26184.7876,48.0,11.899,high,med,short,male,Morgan
+Dalmatian,24567.8682,48.0,12.9327,high,high,short,male,Moore
+Dalmatian,24254.2837,48.0,13.1293,high,high,short,male,Robinson
+Bloodhound,42171.1099,63.4673,6.6143,high,high,short,female,Hernandez
+Bloodhound,39761.2522,66.2115,10.2758,med,high,med,female,Graham
+Amstaff,26162.8729,46.0363,12.231,low,high,short,male,Rodgers
+Bloodhound,52691.2858,62.0798,9.9817,low,med,short,male,Thomas
+Amstaff,26018.5828,46.1686,13.4943,low,high,short,female,Gibbs
+Dalmatian,25432.9154,,12.2738,high,high,short,male,Bates
+German Shepherd,36359.1711,,10.6268,med,med,med,female,Montoya
+Amstaff,28657.2544,45.4398,13.9762,med,high,short,female,Collins
+Dalmatian,20222.846,48.0,13.2408,high,high,short,female,Campbell
+Bloodhound,47385.1263,,7.9099,med,high,short,male,Myers
+German Shepherd,38716.7123,58.1679,11.3473,med,med,med,female,Smith
+German Shepherd,34464.8255,60.5568,10.7162,med,med,med,male,Collins
+Dalmatian,24477.5672,48.0,12.706,high,high,med,female,Tanner
+Bloodhound,47053.2621,61.7612,8.2753,high,high,short,female,Thomas
+Dalmatian,20595.6593,,13.1202,high,high,short,female,Richardson
+Bloodhound,38176.4667,63.7061,8.4276,med,high,short,male,Martin
+Dalmatian,22963.0122,48.0,13.0922,high,high,short,male,Austin
+Bloodhound,42967.2652,63.6215,7.2542,low,high,med,female,Moyer
+Amstaff,18689.1629,47.1002,12.4711,med,high,short,female,Jackson
+Dalmatian,28480.5249,,13.4678,high,high,short,female,Grant
+Bloodhound,40442.4854,65.7712,7.435,med,high,short,male,Carter
+Bloodhound,35372.6115,62.8895,9.1734,med,high,med,male,Harris
+Bloodhound,43967.2885,64.2529,8.9561,low,high,short,female,Foster
+Bloodhound,40959.4242,64.6946,8.6793,med,high,short,female,Miller
+German Shepherd,35122.2668,65.1683,11.0142,med,high,med,female,Perkins
+Dalmatian,20891.5577,,13.27,high,med,short,female,Richards
+Amstaff,29114.3556,46.1762,13.7314,med,high,short,male,Chase
+Bloodhound,31940.3102,,9.2728,med,high,short,male,Pratt
+German Shepherd,37703.3762,62.6033,10.5504,med,med,med,male,Martinez
+Bloodhound,40415.8955,63.4688,8.5128,high,high,short,female,Oconnor
+Bloodhound,38772.898,62.6072,7.6721,med,high,short,male,Ritter
+Amstaff,21509.2485,45.6354,13.2477,med,high,med,female,Phillips
+Bloodhound,46286.2742,,8.0815,med,high,short,male,Graves
+Bloodhound,42795.6939,67.3614,9.2819,low,high,short,female,Campos
+Bloodhound,41965.1427,63.0757,8.1642,low,high,med,female,Hart
+Dalmatian,27043.3881,48.0,13.5691,high,med,short,male,Mcbride
+Amstaff,25271.393,46.4702,12.7784,high,high,short,female,Lopez
+Amstaff,24113.5147,46.3645,12.3399,med,high,short,female,Mcguire
+Bloodhound,40526.8191,63.1124,6.4738,med,high,short,male,Hudson
+Bloodhound,49586.9708,,8.8446,med,high,short,male,Jarvis
+Dalmatian,23818.2252,,12.5746,high,med,short,female,Anderson
+German Shepherd,36901.3033,58.3968,10.4788,med,med,med,male,Dunn
+Dalmatian,26742.8272,48.0,12.9908,high,high,short,male,Williams
+Bloodhound,48100.2409,60.7656,7.2757,med,med,short,male,Stone
+German Shepherd,34911.5158,62.1228,10.7711,med,med,med,male,Zamora
+Dalmatian,25998.4438,48.0,13.8949,high,high,short,male,Jones
+Bloodhound,38152.1928,,7.8131,low,high,short,male,Walters
+Dalmatian,21486.7937,48.0,13.5344,high,med,short,female,Lopez
+German Shepherd,34211.193,61.6997,10.464,med,med,med,female,Rios
+Amstaff,24207.654,47.4789,14.326,med,high,short,female,Jones
+Bloodhound,42648.8164,65.0245,7.6073,med,high,short,male,Skinner
+German Shepherd,37191.718,61.2602,11.7695,med,med,med,female,Austin
+German Shepherd,36922.842,60.6274,11.6647,med,high,med,male,Jordan
+German Shepherd,35047.0244,60.8748,10.5768,med,med,med,female,Jordan
+Amstaff,26896.233,47.0085,12.5573,med,med,short,female,Flores
+German Shepherd,38781.6713,61.2831,10.7794,med,high,med,male,Landry
+Amstaff,26338.2368,46.0772,13.4407,med,high,med,female,White
+Bloodhound,40461.4149,61.806,7.9583,med,med,short,male,Brown
+Bloodhound,42058.0439,,8.5117,med,high,short,male,Young
+Amstaff,22555.3977,45.2037,13.1982,med,high,short,male,Hancock
+Amstaff,32744.9051,46.2047,12.5727,low,high,short,male,Barr
+Amstaff,25140.6856,45.0997,12.7643,med,high,short,male,Coleman
+Dalmatian,24269.3285,48.0,13.7536,high,high,short,male,Thompson
+Bloodhound,37481.0219,62.9097,7.3794,med,high,short,female,Benitez
+Amstaff,20314.9737,46.2367,14.0321,med,high,short,female,Davis
+Dalmatian,21749.6368,48.0,13.957,high,high,short,female,Mccoy
+Bloodhound,36900.8745,61.9952,7.0377,med,high,short,female,Collins
+German Shepherd,34984.9239,62.0393,10.5753,med,med,med,male,Douglas
+Dalmatian,22034.1297,48.0,13.3359,high,high,short,female,Miller
+Bloodhound,44775.9472,,9.3299,high,high,short,male,Oliver
+Amstaff,20060.6513,45.9423,13.0236,med,high,short,female,Paul
+Bloodhound,48088.8293,61.5371,9.5975,med,high,short,female,Adams
+Amstaff,26207.8245,47.0567,13.3989,med,high,short,female,Reyes
+German Shepherd,36926.4614,57.4004,10.783,med,med,med,male,Foley
+Dalmatian,23037.3841,,13.1845,high,high,short,female,Bethany
+Amstaff,21758.3614,46.5747,11.801,med,high,short,female,Oliver
+Bloodhound,40311.8637,63.9543,8.2504,med,high,short,male,Perkins
+German Shepherd,38064.9904,59.6401,10.8769,med,high,long,female,Rivera
+German Shepherd,36040.2559,63.8667,10.4817,high,med,med,male,Everett
+Amstaff,21671.6148,,13.6539,low,high,short,male,Chung
+German Shepherd,36104.8872,59.9313,11.2217,med,med,short,female,Yang
+Bloodhound,41467.746,64.7075,8.4596,high,high,med,male,Thomas
+Bloodhound,35384.2768,62.8029,8.7235,med,high,short,female,Kline
+German Shepherd,36607.4017,63.5093,10.5091,med,high,med,male,Green
+German Shepherd,36750.2231,59.1859,10.5247,high,high,long,male,Patterson
+Bloodhound,45190.2707,,7.8064,high,high,short,male,Duffy
+Amstaff,26121.3475,47.9261,13.4414,high,med,short,female,Walsh
+Bloodhound,41874.0975,62.8184,9.8475,med,high,short,male,King
+German Shepherd,35844.1881,61.6626,9.7342,high,med,med,male,Smith
+Amstaff,27863.2034,46.3189,13.7367,high,high,short,male,Lee
+Amstaff,23921.7947,,12.2863,high,med,short,male,Chavez
+German Shepherd,37253.8083,61.7163,11.4319,med,med,long,female,Jackson
+Amstaff,25237.7643,,13.8146,med,high,short,female,Aguirre
+Dalmatian,24384.8658,48.0,13.6977,med,high,med,male,White
+German Shepherd,35361.8061,59.519,10.3692,med,high,med,male,Velasquez
+Dalmatian,21321.816,48.0,12.4967,high,high,short,female,Martinez
+Dalmatian,26808.8782,48.0,12.5085,high,med,short,male,Lowe
+German Shepherd,36115.0401,62.0754,11.7167,med,high,med,female,Gordon
+Bloodhound,43959.8833,64.1769,8.2435,low,high,short,male,Bailey
+Dalmatian,24912.9776,48.0,13.2862,med,high,short,male,Armstrong
+Dalmatian,20100.9659,48.0,11.7887,high,high,short,female,Ellis
+Amstaff,31587.3305,46.0935,14.1767,med,high,short,male,Castillo
+Bloodhound,40134.821,62.9196,9.0708,med,high,med,female,Gonzalez
+Bloodhound,45575.3706,64.582,8.4728,med,high,short,male,Singh
+Bloodhound,47353.5085,64.5904,7.8682,med,high,med,male,Perez
+Amstaff,25649.5576,45.9525,12.5011,med,high,short,female,Reyes
+German Shepherd,37690.9531,60.7206,11.1066,med,med,short,female,Armstrong
+German Shepherd,35703.8348,,10.9697,low,high,med,female,Carpenter
+Bloodhound,46323.2074,62.3902,9.1906,med,high,med,male,Evans
+Dalmatian,22806.5093,,13.1281,high,high,short,male,Torres
+Dalmatian,22025.3221,,13.6108,high,high,short,female,Lucero
+Amstaff,23569.6809,,12.1874,med,high,short,male,Brown
+German Shepherd,37577.8248,61.9347,9.3534,med,med,long,female,Glass
+Amstaff,24416.3056,46.3553,13.0728,med,high,short,male,Peterson
+German Shepherd,36686.6752,,11.1269,med,med,med,male,Smith
+Dalmatian,20987.5023,48.0,12.7892,med,high,short,male,Bradley
+German Shepherd,39416.8292,63.1825,10.3514,med,med,med,female,Cummings
+Dalmatian,23234.2667,48.0,12.5536,high,high,short,male,Rodgers
+Bloodhound,41051.777,63.2261,7.5059,med,high,short,male,Cannon
+Bloodhound,46871.9095,,8.1195,med,med,short,male,Guerrero
+Bloodhound,42247.7075,62.7197,7.9129,med,high,short,male,Hurst
+Bloodhound,41265.2528,65.4403,10.2084,med,high,short,female,Warner
+German Shepherd,37863.2371,,11.3648,med,med,short,female,Smith
+Amstaff,26707.0249,45.4902,12.6452,med,high,short,female,Jones
+German Shepherd,36727.4426,63.0743,9.8917,med,med,med,male,Murray
+Dalmatian,23885.788,,13.3422,high,high,short,male,Blanchard
+Dalmatian,27981.1749,48.0,13.4595,high,high,short,female,Vaughan
+Dalmatian,27468.4572,48.0,13.4972,high,high,short,male,Avila
+Amstaff,33446.4514,,12.5543,med,high,short,female,Thompson
+Amstaff,25559.6448,46.6794,13.1127,low,med,short,male,Cuevas
+Dalmatian,23070.344,,13.5179,high,high,short,male,Martinez
+German Shepherd,36408.6175,,11.5014,med,high,med,female,Sanchez
+Dalmatian,21606.1237,48.0,12.5845,high,high,med,male,Howe
+German Shepherd,36603.6709,,11.0092,med,med,med,male,Johns
+Dalmatian,23308.1783,48.0,12.8812,high,high,short,female,Benitez
+Bloodhound,50011.9794,64.5558,9.1685,med,med,short,female,Bryant
+Dalmatian,24462.5221,48.0,12.3035,high,high,short,male,Nichols
+Dalmatian,24481.4591,48.0,12.6885,high,high,short,male,Jones
+Amstaff,22874.0476,46.6789,13.7147,med,high,short,male,Romero
+Bloodhound,41422.9619,63.2164,10.2427,med,med,short,female,Lee
+Bloodhound,48560.3272,62.3614,8.5273,med,high,short,female,Williams
+German Shepherd,34642.7539,60.282,10.5197,med,med,short,female,Hardin
+German Shepherd,33522.1534,57.3826,11.6549,med,med,med,female,Conner
+Dalmatian,25361.5942,48.0,12.2644,high,high,short,male,Palmer
+Bloodhound,37825.7688,,6.4369,med,high,short,male,Harrison
+German Shepherd,35619.0501,61.7367,9.9361,med,med,med,male,Pham
+German Shepherd,35138.1233,59.2816,10.9151,med,med,med,male,Simpson
+Amstaff,29700.1144,47.043,13.3298,med,high,short,female,Lowe
+Bloodhound,45271.2497,63.1073,8.3981,med,high,short,male,Wilcox
+Amstaff,34257.0464,45.606,12.4891,med,high,short,female,Meadows
+German Shepherd,37189.1432,61.3592,11.7133,high,med,med,male,Cervantes
+Amstaff,18416.5641,,13.2704,med,high,short,male,Nicholson
+Bloodhound,44129.1417,61.4908,8.6761,med,high,short,male,Vaughn
+Amstaff,20793.1331,46.5893,12.3227,med,high,short,male,Rice
+Bloodhound,40551.7615,62.5599,7.194,med,high,short,female,Romero
+Bloodhound,48159.1781,63.2248,8.5784,med,high,short,male,Clark
+Amstaff,28211.0474,46.4257,13.6226,high,high,short,male,Harris
+Amstaff,24621.9869,,11.6863,high,high,short,female,Carrillo
+Bloodhound,45946.8733,63.3631,7.5767,low,high,short,female,Smith
+German Shepherd,38853.5752,62.7668,10.1456,med,med,med,female,Horne
+Dalmatian,21374.2712,,12.6661,high,high,short,female,Jimenez
+Dalmatian,23793.4873,48.0,13.4323,high,high,med,male,Ward
+Bloodhound,42502.8189,65.7031,7.8433,med,high,short,female,Gregory
+Dalmatian,24406.0669,48.0,13.4051,high,high,short,male,Parker
+Amstaff,24576.7726,,13.161,med,high,short,female,Romero
+Bloodhound,44941.1263,61.399,8.8426,med,high,short,male,Stephanie
+Dalmatian,24698.7855,,11.805,high,high,short,male,Davis
+German Shepherd,34510.1255,60.5835,10.4837,med,med,med,male,Green
+German Shepherd,36121.9166,,11.4712,high,med,med,male,Berry
+Amstaff,28016.6338,,13.2595,med,high,short,male,Robertson
+German Shepherd,39132.4924,62.4707,10.4565,med,med,med,male,King
+German Shepherd,36368.7772,,9.4244,med,med,med,female,Nielsen
+Amstaff,32833.4221,46.235,12.5729,med,high,short,female,Chambers
+Amstaff,23150.3893,,12.7278,med,med,short,male,Nguyen
+Bloodhound,31007.1361,61.8721,8.7639,med,high,short,female,Wilson
+Bloodhound,46048.6509,61.9288,7.8468,med,high,short,male,Davis
+Dalmatian,25065.5859,,12.9624,med,high,short,male,Richardson
+German Shepherd,38029.2985,59.8691,10.4604,med,med,med,male,Mooney
+Amstaff,25190.1011,45.1353,13.8111,med,high,short,male,Kennedy
+German Shepherd,34251.8306,64.5239,11.3659,med,med,short,female,Wallace
+Dalmatian,23053.0634,48.0,12.8846,med,high,short,female,Fuller
+Dalmatian,26080.3042,48.0,12.2802,high,high,med,female,Macdonald
+German Shepherd,34726.607,60.0426,10.5952,med,med,med,female,Perry
+Amstaff,23743.5951,46.7321,14.0832,med,high,short,female,Lucas
+Bloodhound,35940.1129,,8.0682,med,high,short,female,Brown
+Amstaff,24161.4362,46.6035,13.6382,med,high,med,male,Jackson
+German Shepherd,36095.973,60.7798,10.8733,med,med,med,male,Parker
+Bloodhound,41162.6716,64.8741,7.4939,med,high,short,female,Roth
+Amstaff,24336.4987,45.5228,12.3211,med,high,short,female,Boyle
+Bloodhound,42883.6534,60.9963,6.1117,med,high,short,male,Hanson
+Dalmatian,25943.291,48.0,12.4875,high,med,short,male,Meyers
+Dalmatian,20957.8567,48.0,13.1181,high,high,short,female,Ramos
+Dalmatian,22575.8985,48.0,12.6081,high,high,short,female,Powers
+Dalmatian,19575.1563,48.0,13.7014,high,high,short,female,Barnes
+German Shepherd,38279.0294,62.0893,9.9898,low,med,med,male,Moore
+Bloodhound,43165.1969,,7.5727,med,high,short,male,Wiley
+Amstaff,22248.5507,46.6234,13.3284,med,high,med,female,Wood
+Dalmatian,26114.9369,48.0,12.7751,high,med,short,male,Payne
+Amstaff,26950.5179,45.9491,11.9736,med,high,short,male,Garcia
+Amstaff,28660.5054,,13.6757,med,high,short,male,Jones
+Dalmatian,22481.239,48.0,14.3383,high,high,short,male,Lucas
+Dalmatian,25106.2986,48.0,12.8714,high,high,short,male,Barrett
+German Shepherd,35667.4532,64.4861,11.1463,med,high,med,female,Douglas
+Bloodhound,40198.3559,63.2529,8.5918,med,high,med,male,Delgado
+Dalmatian,27868.4748,48.0,13.1618,high,high,short,male,Jones
+German Shepherd,35583.6938,60.1507,9.9648,med,high,med,female,Wagner
+Amstaff,26894.8113,47.2883,12.4498,med,high,short,female,Schroeder
+Bloodhound,44795.5926,64.2448,7.4542,low,high,short,female,Lee
+German Shepherd,36028.4625,62.9193,10.4903,med,med,long,male,Perez
+Bloodhound,45858.3652,,9.9512,high,high,short,female,Dean
+Amstaff,28769.2988,46.0262,12.532,med,high,med,male,Carter
+Dalmatian,21824.661,48.0,13.2473,high,high,med,female,Keller
+Dalmatian,24082.9056,48.0,13.5315,high,high,short,female,Martinez
+German Shepherd,38540.9056,60.227,11.2812,med,med,med,male,Schmitt
+German Shepherd,35898.3295,64.9988,10.4592,med,low,med,female,Richardson
+Amstaff,25591.6688,45.8819,13.6493,med,high,short,male,Lucas
+Bloodhound,37809.5751,63.5475,9.8626,med,high,short,male,Cowan
+Dalmatian,22969.6992,,12.3794,med,high,short,male,Zimmerman
+Dalmatian,26149.9099,48.0,13.1847,high,high,short,male,Wise
+Amstaff,32841.8654,45.5758,12.8671,med,med,short,male,Guzman
+German Shepherd,36865.7764,61.2405,11.6665,low,med,med,male,Daugherty
+Amstaff,25055.7098,45.4085,13.5702,med,high,short,female,Jackson
+Dalmatian,24054.1193,48.0,13.0568,high,high,short,female,Martinez
+Amstaff,20112.6416,46.7267,13.0225,med,high,short,male,Smith
+Bloodhound,35493.1664,62.0683,8.9713,med,high,short,male,Booth
+German Shepherd,38914.0807,61.24,11.3465,med,med,med,male,Miller
+Dalmatian,23829.3765,48.0,13.4874,high,high,short,male,Erickson
+Amstaff,24507.4727,45.3652,13.2064,high,high,med,male,Jensen
+Bloodhound,47963.2699,65.1039,8.7596,med,high,short,male,Hinton
+German Shepherd,34664.2465,63.3507,11.0104,med,low,med,female,Clarke
+Amstaff,24403.6254,45.4254,12.2855,med,high,short,female,Snyder
+Bloodhound,36139.0314,60.9571,7.8693,med,high,short,female,Martin
+German Shepherd,37033.8002,60.3461,11.1182,med,med,med,female,Bailey
+Bloodhound,42022.5834,63.8667,8.4127,med,med,short,male,Robinson
+Bloodhound,35308.1116,63.2083,9.1419,high,high,short,male,Alvarado
+Amstaff,20951.7604,45.7215,12.206,low,high,short,female,Abbott
+Dalmatian,23612.509,48.0,13.1856,high,high,short,female,Burns
+Bloodhound,40340.4564,66.932,8.7612,med,high,short,male,Smith
+Amstaff,25453.7064,44.9968,11.8986,med,high,short,male,Jennifer
+Dalmatian,23681.9061,48.0,13.4132,high,high,short,female,Carroll
+Dalmatian,25393.8486,48.0,13.6046,high,med,med,female,David
+Bloodhound,45444.9904,,8.837,med,high,short,male,Jones
+Dalmatian,22661.5979,48.0,13.2795,high,med,short,male,Aguirre
+Bloodhound,43517.1592,63.5552,6.6308,med,high,short,female,Pratt
+Dalmatian,24316.9622,48.0,12.0367,high,high,short,female,Green
+Bloodhound,37449.474,62.1965,8.7096,med,high,short,male,Joseph
+German Shepherd,38643.7233,59.6314,10.2564,low,med,med,male,Parsons
+Dalmatian,22922.432,48.0,12.9583,high,high,short,male,Johnson
+Bloodhound,52466.4614,61.2376,9.0152,low,high,short,male,Galvan
+German Shepherd,35144.1023,59.4725,10.2739,med,high,med,male,Rocha
+Amstaff,26887.8721,45.3341,13.663,low,high,med,male,Hayden
+Amstaff,24039.1512,45.7855,12.2838,med,high,short,male,Bender
+Bloodhound,40736.1493,58.429,8.358,med,med,short,male,Castro
+German Shepherd,36438.9875,62.6073,11.3127,med,med,med,female,Rodriguez
+Dalmatian,22765.913,48.0,12.8889,med,med,med,female,Evans
+Amstaff,22989.4614,47.0663,12.0928,med,high,short,male,Lyons
+German Shepherd,40870.9384,61.6088,11.2634,med,med,med,female,Johnson
+German Shepherd,35926.0371,62.3296,10.9601,med,med,med,male,Gonzales
+German Shepherd,36910.3857,,11.0829,high,med,short,female,Turner
+Amstaff,30816.1657,45.5001,13.5332,med,high,med,male,Patel
+German Shepherd,38343.9845,,11.5857,med,med,med,male,Clark
+Dalmatian,26182.1373,,13.153,high,high,short,female,Jackson
+German Shepherd,40063.3199,64.4477,10.9575,med,high,long,male,Lee
+German Shepherd,36686.4665,60.8279,12.1539,med,high,long,male,George
+Dalmatian,24127.6504,48.0,13.4043,high,high,med,male,Smith
+Dalmatian,27114.5602,,13.246,high,high,short,male,Thomas
+Bloodhound,44658.7368,63.1382,8.8831,med,high,short,male,Jacqueline
+German Shepherd,36169.7281,65.301,10.7196,med,med,med,male,Doyle
+German Shepherd,36626.0447,,10.7348,med,med,med,male,Gardner
+Dalmatian,21992.9112,48.0,12.362,high,high,short,female,Brown
+Dalmatian,24509.8113,,12.4822,high,med,short,female,Collier
+Dalmatian,27242.1292,,12.8475,high,high,med,male,French
+Bloodhound,42935.2623,63.6012,9.9171,med,high,short,male,Payne
+Amstaff,30961.3542,,13.2685,med,high,short,male,Williams
+German Shepherd,37839.3214,60.1761,11.0993,med,med,med,male,Monroe
+Bloodhound,49689.0152,61.6873,8.5063,med,high,short,female,Griffith
+Bloodhound,42485.5985,63.2503,7.7413,med,high,short,female,Santos
+Dalmatian,25547.1434,48.0,11.4544,med,high,short,female,Cooper
+German Shepherd,36736.6403,61.0532,10.7033,med,low,med,male,Clark
+Bloodhound,38514.6521,63.0666,8.9905,low,high,short,female,Whitney
+Amstaff,24984.9629,45.9198,13.2003,med,high,short,female,Thomas
+German Shepherd,37001.2479,,10.7408,low,med,med,male,Robertson
+Dalmatian,25024.0623,,13.0162,high,med,med,female,Mccann
+Bloodhound,46785.016,64.8666,9.1705,med,high,short,male,Smith
+Bloodhound,42848.7956,64.954,7.3931,med,high,short,male,Williams
+Bloodhound,40701.4624,64.0859,8.1341,med,high,short,male,Mitchell
+Bloodhound,42079.3524,65.3701,7.6708,med,high,short,female,Bowman
+Amstaff,25370.4101,45.6157,13.7501,med,high,short,male,Stephens
+Amstaff,26034.0221,46.282,13.9104,med,high,short,female,Perkins
+Bloodhound,37872.4511,63.0168,8.2078,med,high,short,female,Mitchell
+Bloodhound,35284.7082,62.0876,9.008,med,high,short,female,Villarreal
+Dalmatian,26930.5141,48.0,12.2852,high,high,short,female,Fernandez
+German Shepherd,39323.7894,62.924,11.4921,med,med,med,male,Howe
+Bloodhound,45563.1257,,8.0972,med,high,short,male,Taylor
+German Shepherd,37164.7453,61.0297,11.034,med,med,med,male,Cruz
+German Shepherd,37310.7225,,10.1905,high,med,med,male,Sanchez
+Amstaff,31628.9054,47.0038,13.7268,med,high,short,male,Cunningham
+Dalmatian,22883.064,48.0,12.0337,high,high,short,female,Lopez
+Dalmatian,24027.6263,48.0,12.3866,high,high,short,female,Woodard
+Bloodhound,42974.9099,61.2794,8.6517,med,high,short,female,Sanchez
+German Shepherd,37582.5421,59.0423,10.7988,high,med,med,male,Mooney
+Amstaff,21697.7245,46.2501,12.4043,med,high,short,female,Wilson
+Bloodhound,41136.4896,,6.9873,med,high,short,female,Skinner
+Dalmatian,22891.0778,48.0,12.21,high,high,short,female,Johnson
+Amstaff,22319.1894,45.7353,13.6474,low,med,short,male,White
+Bloodhound,45138.32,64.0042,9.9476,med,high,med,male,Torres
+Bloodhound,44575.0423,,7.0296,med,high,short,male,Jones
+Bloodhound,35879.0857,63.5122,8.6001,med,high,short,female,Garcia
+Dalmatian,25824.4001,48.0,12.3148,med,high,short,male,Hoffman
+German Shepherd,38547.7377,62.7377,11.1317,high,med,short,male,Bates
+German Shepherd,33234.6169,,11.0144,med,med,med,male,Cooper
+German Shepherd,36775.1895,57.3543,11.5242,med,low,long,male,Mccarthy
+Dalmatian,18990.8998,48.0,11.8203,high,high,med,female,Johnson
+Dalmatian,21623.2617,,13.3355,high,high,short,female,Nguyen
+Bloodhound,38786.6993,,8.0555,med,med,short,male,Reeves
+German Shepherd,35169.9377,63.4912,12.2657,med,low,med,female,Lopez
+German Shepherd,38445.2025,64.4646,11.1351,med,med,med,female,Barnes
+Dalmatian,21435.8325,,13.5979,high,high,short,female,Collins
+Bloodhound,37261.406,61.7895,8.7144,low,high,short,male,Watson
+Amstaff,24878.2417,,12.2573,high,high,short,male,Rice
+Amstaff,20621.5127,46.5887,13.5291,med,high,short,male,Reeves
+Amstaff,27394.4312,,11.7454,high,high,short,male,Smith
+German Shepherd,40240.0442,60.906,11.5682,med,med,med,male,Pham
+Amstaff,24588.3744,,13.3225,med,high,short,female,Wallace
+Dalmatian,21990.916,,13.1669,high,high,short,female,Walker
+German Shepherd,36049.3329,61.3699,11.7612,med,med,med,female,Lee
+German Shepherd,34830.7877,60.5701,11.0354,med,med,long,female,Hughes
+German Shepherd,37760.4782,63.0218,12.019,med,med,med,male,Edwards
+Bloodhound,43312.6286,62.0712,8.3437,med,high,short,male,Sanchez
+Amstaff,25297.1544,45.8042,13.4806,med,high,short,female,Mccoy
+Bloodhound,38084.26,61.5104,8.9475,high,high,short,female,Bennett
+German Shepherd,35810.1798,59.4451,11.2774,high,high,med,male,Harrison
+Amstaff,19081.4265,46.0986,13.2167,med,high,short,female,Douglas
+Bloodhound,41691.0578,62.8113,7.5953,med,high,med,female,Shelton
+German Shepherd,35599.9657,61.8175,11.3204,med,med,med,female,Curtis
+German Shepherd,39710.4862,60.6202,12.1473,med,med,med,female,Wells
+Bloodhound,45769.9733,,7.8776,med,high,short,female,Palmer
+Amstaff,30982.2845,47.119,14.2578,med,high,short,male,Torres
+Bloodhound,41007.3439,63.3937,9.911,low,high,short,female,Mendoza
+Bloodhound,42182.8992,62.5406,9.7028,med,high,med,male,Williams
+German Shepherd,36059.846,62.8366,11.191,high,med,med,male,Kristin
+Amstaff,20731.8322,,11.8944,low,high,short,male,Ware
+Amstaff,24531.5572,46.7947,13.4613,med,high,short,female,Sosa
+Dalmatian,22348.1437,48.0,12.9628,high,high,short,male,Rosales
+Bloodhound,39415.438,60.6605,7.9019,med,med,short,male,Owens
+Bloodhound,44204.2833,63.4254,8.5224,med,high,short,male,Wilson
+Dalmatian,24516.3648,,12.3763,high,med,med,male,Walsh
+German Shepherd,34928.0314,62.5363,11.42,med,med,long,female,Rodriguez
+Dalmatian,21694.7736,48.0,12.7686,high,high,short,female,Margaret
+Dalmatian,23176.6845,48.0,12.8239,high,high,short,female,Gordon
+Dalmatian,21863.0701,,13.2336,high,high,short,female,Lawrence
+Amstaff,26439.3339,46.1302,12.7439,med,high,short,female,Chung
+Bloodhound,45849.2167,66.0989,9.4827,med,high,short,female,Pineda
+Amstaff,23704.5189,45.3464,14.0779,med,high,short,male,Jordan
+Bloodhound,32801.6657,,8.7177,high,high,short,male,Hawkins
+Dalmatian,24447.1933,48.0,12.0795,high,high,short,female,Watson
+Amstaff,25592.2486,45.9582,12.2403,med,high,short,female,Atkinson
+German Shepherd,36041.9761,,11.7368,med,high,med,male,Ortiz
+German Shepherd,36030.9655,,11.6894,med,low,med,female,Lee
+Dalmatian,26071.7157,48.0,12.812,high,high,short,female,Stanley
+Dalmatian,24397.1445,,12.1341,med,high,short,male,Dyer
+Amstaff,20630.089,,12.159,med,high,med,male,Martinez
+Dalmatian,24359.5226,48.0,13.2903,high,high,med,female,Ward
+Amstaff,22770.568,45.3159,13.7863,high,high,short,male,Gordon
+German Shepherd,34897.778,61.6771,11.3949,med,med,long,female,Taylor
+Bloodhound,43791.9032,64.3021,8.0727,med,med,short,female,Mueller
+Dalmatian,20015.5389,48.0,13.3868,high,high,short,male,Lynn
+Amstaff,26995.182,45.2001,13.7403,med,high,short,male,Wallace
+Amstaff,27266.6008,,13.0105,low,high,short,female,William
+German Shepherd,37318.8288,,11.1391,med,med,med,female,Tran
+Amstaff,26015.8078,,12.7576,med,high,short,male,Thomas
+German Shepherd,38677.4295,,10.5714,low,med,short,male,Mcgee
+Dalmatian,27323.1892,48.0,12.3135,high,high,short,male,Reese
+Dalmatian,19598.402,48.0,12.9617,med,high,med,male,Davis
+Dalmatian,21424.8872,,13.6909,high,high,short,female,Arnold
+Dalmatian,22070.803,48.0,12.8347,high,high,short,male,Anderson
+German Shepherd,35101.2104,62.9566,10.8116,med,med,med,male,Walker
+German Shepherd,34978.9435,59.7345,10.6577,med,high,med,male,Murphy
+Dalmatian,20898.7471,48.0,13.6809,high,high,short,female,Simmons
+Dalmatian,21451.8176,48.0,13.3623,high,high,short,female,Brock
+Amstaff,33031.1839,45.6577,13.5729,med,high,short,female,Maxwell
+Bloodhound,42107.2471,61.3861,8.2353,med,high,short,female,Esparza
+Amstaff,27048.3508,46.2154,13.2915,med,med,short,female,Carlson
+Bloodhound,41639.4622,62.5986,7.7536,low,high,short,male,Moore
+Dalmatian,23613.4075,48.0,12.9236,high,med,short,male,Smith
+Bloodhound,44440.1659,63.1774,9.7404,low,high,med,male,Cruz
+Bloodhound,45941.0628,63.9184,7.16,med,high,short,male,Mccarthy
+German Shepherd,38488.0323,,11.2504,high,med,med,male,Whitney
+Bloodhound,35761.2205,,8.1679,med,high,short,male,Ruiz
+Bloodhound,41788.4969,64.2884,7.4209,med,high,short,male,Jones
+Bloodhound,44913.4743,63.0376,7.8447,med,high,short,female,Valenzuela
+Dalmatian,23842.4036,,13.7907,high,high,short,male,Rice
+Amstaff,23405.8631,45.7747,12.1064,med,high,med,female,Richard
+Amstaff,23810.3349,,12.3014,med,med,short,female,Martinez
+Bloodhound,41052.7635,63.3496,9.5372,med,high,short,female,Kimberly
+German Shepherd,38170.4768,58.0,10.7948,med,med,med,male,Jackson
+German Shepherd,33817.7254,61.01,11.7981,low,med,short,male,Little
+German Shepherd,40841.9017,58.3338,11.0923,med,low,med,male,Tran
+Amstaff,24899.4955,46.393,13.3224,med,high,short,female,Parks
+Bloodhound,43440.8088,63.3523,7.6118,med,med,med,male,Allen
+Bloodhound,44771.3929,62.9215,8.3814,high,high,short,male,Coffey
+Dalmatian,24542.7668,48.0,12.5287,high,high,short,female,Mclaughlin
+Bloodhound,45555.7743,62.838,7.7425,med,high,med,male,Mccarthy
+Amstaff,25018.4315,45.9072,13.242,med,high,short,female,Ryan
+German Shepherd,36891.9348,61.9378,10.6963,med,high,med,female,Rice
+German Shepherd,35419.5866,60.2553,10.792,med,med,long,female,Ryan
+Bloodhound,45252.5013,62.1253,8.9768,med,high,short,female,Downs
+German Shepherd,33853.811,59.9308,11.2672,med,high,long,female,Smith
+Dalmatian,23334.3071,48.0,13.1574,high,med,short,female,Le
+Bloodhound,52483.6522,,9.7373,med,med,short,male,Reed
+German Shepherd,36509.7553,,10.7577,med,med,long,male,Palmer
+Amstaff,19936.8785,46.7202,12.7316,med,high,med,female,Webb
+Bloodhound,43215.4443,,8.33,med,high,short,male,Graves
+German Shepherd,35384.3991,59.1741,11.1415,high,med,med,male,Cook
+Amstaff,29222.8238,46.5127,12.5297,med,high,short,male,Bernard
+Bloodhound,39004.4697,64.1321,7.9469,med,high,short,female,Owens
+Bloodhound,41124.9358,63.4706,7.4436,med,high,short,male,Mora
+German Shepherd,39493.0286,60.955,10.2121,med,med,med,male,Mcclure
+Amstaff,26792.9062,46.7032,12.6397,high,high,short,male,Garrett
+Bloodhound,45524.0899,60.538,7.6471,med,high,short,female,Pope
+Amstaff,33226.0764,45.8455,13.7399,high,high,short,female,Small
+Amstaff,28974.7584,,12.5682,high,high,short,male,Campbell
+Dalmatian,24026.0288,48.0,12.4366,high,med,short,female,Joseph
+Amstaff,27713.4212,45.7458,13.9277,med,high,short,male,Cummings
+Dalmatian,27445.2725,,12.4014,high,high,short,male,Madden
+Dalmatian,25711.4641,48.0,11.5324,high,high,short,male,Alexander
+Bloodhound,42624.3941,62.345,9.1901,med,high,med,female,Wong
+Amstaff,22285.8386,,13.2161,med,high,med,male,Brock
+Bloodhound,47804.9482,62.2369,7.7183,med,high,short,male,Evans
+Bloodhound,38225.1047,64.7357,8.3985,med,high,short,female,Vargas
+Dalmatian,21584.7816,48.0,13.9014,high,high,short,female,Bailey
+Amstaff,24615.1804,,12.5491,med,high,short,female,Alvarez
+Dalmatian,21602.7241,48.0,12.3529,high,high,short,female,Stafford
+German Shepherd,36036.6935,61.5188,10.8346,low,low,long,female,Green
+Amstaff,21847.3191,44.816,12.3432,high,high,short,male,Hooper
+Dalmatian,24643.3291,48.0,12.1105,high,high,short,male,Walsh
+Dalmatian,22864.9901,48.0,13.0128,high,high,short,female,Shaw
+Dalmatian,25418.1099,48.0,12.6844,high,med,short,female,Wilson
+German Shepherd,36302.8339,,11.3212,med,med,med,male,Carpenter
+German Shepherd,35213.017,62.1031,10.4868,low,med,short,male,Thompson
+German Shepherd,35878.3037,60.216,11.3077,med,high,med,female,Yates
+German Shepherd,38530.8768,,11.0352,med,low,med,male,Byrd
+Dalmatian,27939.9243,48.0,13.6903,med,high,short,male,Gamble
+Dalmatian,18980.3301,48.0,13.5189,high,high,short,female,White
+Bloodhound,43724.9812,60.9205,8.4076,high,high,med,male,Moore
+Bloodhound,44167.0407,64.8485,9.5054,high,high,short,female,Gonzales
+Amstaff,31478.6587,45.5656,11.5002,med,high,short,male,Boyer
+Bloodhound,39963.6502,60.8342,7.8471,med,high,short,male,Sullivan
+Dalmatian,23440.4016,48.0,12.5547,high,high,short,male,Valenzuela
+Bloodhound,42222.3482,62.6552,9.8034,med,high,short,female,Anderson
+German Shepherd,36346.2642,59.5889,10.3658,med,med,med,male,Rodriguez
+Amstaff,28959.9308,46.5285,12.8204,med,high,short,male,Lam
+German Shepherd,38649.3993,62.4817,10.2229,low,med,long,male,Morton
+German Shepherd,39501.1976,59.8579,10.7069,low,med,med,male,Petersen
+Bloodhound,46207.5316,62.7579,9.3814,med,high,short,male,Harper
+Amstaff,29823.5189,44.974,14.1592,med,high,short,male,Fox
+Dalmatian,20205.303,48.0,13.3638,high,high,short,male,Potter
+Bloodhound,41443.0574,64.896,7.783,med,high,short,female,Rosales
+Dalmatian,25090.0625,48.0,13.4778,high,high,short,male,Moore
+Bloodhound,44724.3965,,8.5912,med,high,short,female,Carter
+Amstaff,27582.2616,46.524,12.8862,med,high,short,male,Soto
+Bloodhound,46577.8906,64.3274,9.6679,med,high,short,female,Lynch
+German Shepherd,36104.0166,,10.5448,high,med,med,male,Gibson
+German Shepherd,38735.5574,61.6975,10.3101,med,med,long,male,Robinson
+German Shepherd,37741.1056,,11.1936,med,med,med,male,Haas
+German Shepherd,38270.2181,62.5904,12.8346,med,med,med,female,Allen
+Dalmatian,24886.7217,48.0,13.6483,high,high,short,male,Blair
+German Shepherd,37542.4225,62.3637,11.076,med,low,med,female,Melendez
+Dalmatian,26192.8272,48.0,12.9408,high,high,med,female,Joseph
+Bloodhound,42506.9742,61.6219,7.5253,med,high,short,male,Lee
+Dalmatian,22123.6573,48.0,12.6866,high,high,short,female,Thomas
+Dalmatian,27659.6137,48.0,13.3629,high,high,short,female,Karen
+German Shepherd,36732.6527,62.4665,10.4364,med,med,med,male,Hicks
+German Shepherd,38316.8134,,13.0045,low,low,med,male,Sawyer
+Bloodhound,31664.7967,64.5128,8.097,med,high,short,female,Hughes
+Dalmatian,22279.5384,48.0,13.1477,high,high,short,female,James
+Amstaff,26687.663,45.0987,12.6863,med,high,short,female,Durham
+German Shepherd,36623.8202,58.976,11.9106,med,med,med,male,Adams
+Amstaff,30244.6168,45.8829,13.2464,med,high,med,female,Yang
+Amstaff,31040.4768,,13.0858,med,high,short,female,James
+German Shepherd,40204.1806,63.6832,11.5674,med,med,med,female,Patterson
+Amstaff,29709.9483,47.1995,12.4555,med,high,short,female,Griffin
+Bloodhound,39448.3322,65.8735,8.4761,med,high,short,female,Woods
+Amstaff,26197.1492,,12.8248,med,high,short,female,Moreno
+German Shepherd,35994.8539,,11.2593,med,med,med,female,Rhodes
+German Shepherd,38241.5501,64.1892,11.8591,med,med,med,female,Cooper
+Bloodhound,43123.0594,63.3675,8.951,med,high,med,female,Simmons
+Bloodhound,43618.7198,68.6973,7.7357,med,high,short,female,Miller
+Dalmatian,26051.7378,48.0,12.9192,high,high,short,female,Smith
+German Shepherd,35367.8517,,10.398,med,med,med,male,Smith
+German Shepherd,37371.3917,62.2473,10.4883,med,high,med,female,Mann
+Amstaff,22513.6608,45.9648,14.0446,med,high,short,male,Stokes
+Bloodhound,54995.7401,60.0851,7.2082,med,high,short,female,Anderson
+Amstaff,27824.6757,,12.2855,low,high,short,female,Gates
+German Shepherd,38193.606,63.1496,11.195,high,med,short,female,Bailey
+Bloodhound,37776.3472,61.7069,9.3807,med,high,short,male,Wilson
+Bloodhound,42492.0089,,8.0366,high,high,short,female,Jones
+Bloodhound,47619.4005,61.744,8.2498,med,high,short,female,Phillips
+Bloodhound,49846.3917,62.762,9.2272,low,high,short,female,Sanders

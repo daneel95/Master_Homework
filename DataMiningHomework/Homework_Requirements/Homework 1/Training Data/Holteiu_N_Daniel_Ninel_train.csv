@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Amstaff,27412.4472,46.4779,12.7271,med,high,short,male,Mosley
+Amstaff,33302.6172,,12.9844,low,med,short,female,Crane
+Airedale Terrier,19184.9322,57.7801,10.1529,high,high,med,female,Thomas
+Amstaff,26228.6536,45.6682,13.5366,low,med,med,female,Oliver
+Daschhund,7720.7755,20.1153,13.8247,high,med,short,male,Williams
+Airedale Terrier,20379.5337,57.514,10.2833,high,high,short,male,Hoffman
+Airedale Terrier,21246.1613,,11.4508,high,high,med,male,Herrera
+Airedale Terrier,21491.146,56.7838,12.8966,high,high,med,male,Cardenas
+Airedale Terrier,21740.751,,11.441,high,high,short,female,Johnson
+Jack Russel Terrier,6820.8519,33.5175,13.6113,high,med,short,female,Campbell
+Amstaff,23545.6745,,13.1212,med,high,short,male,Hart
+Daschhund,14489.3409,20.837,13.5397,high,med,short,male,Gillespie
+Amstaff,27870.3226,46.1721,13.0982,med,med,short,female,Roberts
+Jack Russel Terrier,5781.6924,,14.5575,high,med,short,female,Harris
+Airedale Terrier,18222.0316,56.9236,10.2664,high,high,med,female,Faulkner
+Daschhund,14639.3281,20.5574,13.2471,high,med,med,female,Clark
+Jack Russel Terrier,5891.8975,33.7275,13.4918,high,med,short,male,Griffin
+Airedale Terrier,22944.6667,56.8545,11.2131,high,high,long,female,Cox
+Airedale Terrier,20387.9993,57.0346,10.8801,med,high,med,female,Vasquez
+Jack Russel Terrier,6195.4468,33.348,15.1374,high,med,short,female,Garcia
+Airedale Terrier,19197.6377,56.799,9.9128,high,med,med,female,Keller
+Airedale Terrier,22062.71,,11.6038,high,high,med,female,Johnson
+Jack Russel Terrier,6772.6109,34.4892,14.9422,high,med,med,male,King
+Amstaff,27069.5952,46.0445,13.5513,high,high,short,male,Kelly
+Jack Russel Terrier,7085.7969,34.0145,14.2225,high,low,short,female,Rogers
+Amstaff,30371.2457,46.0058,12.0043,med,med,med,female,Allen
+Jack Russel Terrier,8070.98,,13.9047,high,low,short,male,Thompson
+Jack Russel Terrier,5683.7821,34.3349,13.9714,high,med,med,female,Flores
+Daschhund,8173.7912,21.5752,12.9213,high,high,short,female,Hall
+Airedale Terrier,21375.9899,57.0617,12.4133,high,high,med,male,Cox
+Jack Russel Terrier,6392.9782,34.5536,13.7513,high,med,short,male,Logan
+Daschhund,4196.3387,20.3557,12.7318,high,med,short,female,Morris
+Jack Russel Terrier,7766.1919,34.0598,14.5031,high,med,short,female,Tapia
+Daschhund,10039.6658,21.1872,12.0646,high,med,short,male,Johnston
+Amstaff,28663.2186,45.9571,13.3095,med,high,short,female,Solis
+Jack Russel Terrier,5512.4305,,14.3597,high,med,short,female,Velez
+Jack Russel Terrier,6395.5765,34.2565,14.262,med,med,short,female,Fisher
+Airedale Terrier,20249.2822,57.236,11.1763,high,high,med,male,Lopez
+Airedale Terrier,19025.4827,57.2359,12.2194,high,high,long,female,Howard
+Amstaff,23736.9483,45.9613,13.0539,med,high,short,female,Moore
+Airedale Terrier,20443.0093,,10.8819,med,med,med,female,Brandt
+Jack Russel Terrier,7336.8278,34.7985,13.9871,high,med,short,female,Thomas
+Amstaff,25250.2941,,13.8665,med,high,short,male,Craig
+Daschhund,10165.2408,21.4855,12.7274,high,med,short,male,James
+Daschhund,8851.1687,20.9069,12.6081,high,med,short,female,Walker
+Amstaff,27766.2864,,12.9591,med,med,short,male,Cooper
+Jack Russel Terrier,6754.0485,34.3769,13.9299,high,med,short,female,Scott
+Amstaff,27620.0792,,12.6548,med,high,short,female,Brian
+Daschhund,18900.857,21.1752,13.0041,high,high,short,male,Jones
+Amstaff,24208.0681,46.015,13.5301,med,high,short,female,Singleton
+Airedale Terrier,23996.602,57.4479,10.3691,high,high,med,male,Gaines
+Daschhund,10415.5005,22.0354,12.0128,med,med,short,female,Martin
+Amstaff,25451.8265,46.0003,12.5203,med,high,short,female,Smith
+Airedale Terrier,19406.0361,55.9527,12.0387,high,high,short,female,Patrick
+Jack Russel Terrier,6534.77,34.1401,13.5216,high,high,short,female,Young
+Airedale Terrier,19481.8057,57.4785,12.0486,high,high,med,female,Anderson
+Daschhund,9057.0395,,13.7827,high,med,short,male,Collins
+Daschhund,4396.1431,21.3971,12.699,high,med,short,male,Brown
+Airedale Terrier,20112.7185,56.9297,9.4071,med,high,med,female,Orr
+Jack Russel Terrier,7391.6998,33.7676,14.6025,high,med,short,male,Evans
+Airedale Terrier,22077.9711,57.0866,11.941,high,high,med,male,Phillips
+Amstaff,29391.1164,45.5897,12.6752,med,high,short,male,Reed
+Daschhund,6394.8733,20.752,13.6606,high,med,short,male,Robbins
+Amstaff,24293.8508,45.46,12.7567,med,high,short,male,Flores
+Jack Russel Terrier,6438.8331,34.0497,14.3349,high,med,short,male,Gibson
+Jack Russel Terrier,6991.3325,33.9551,13.9986,high,med,short,male,Peters
+Jack Russel Terrier,5415.6307,35.0786,14.343,high,med,short,male,Mitchell
+Daschhund,12993.1444,20.4331,12.2058,high,med,short,male,Ortega
+Jack Russel Terrier,6961.1352,34.595,14.4906,med,high,short,female,Nolan
+Airedale Terrier,16598.4424,56.7988,12.1029,high,high,short,female,Myers
+Jack Russel Terrier,6463.8862,33.8961,14.2268,high,high,short,female,Vasquez
+Airedale Terrier,21508.2737,56.2887,11.5083,high,high,med,male,Frye
+Airedale Terrier,21452.7277,56.8077,12.3408,high,high,med,female,Archer
+Jack Russel Terrier,6154.6935,33.8299,13.9935,high,med,short,male,Church
+Amstaff,25274.3133,47.1653,12.7889,med,high,short,female,Rogers
+Daschhund,11851.9712,20.8726,13.041,high,med,short,female,Rivera
+Amstaff,26554.0431,46.9493,13.0794,med,med,short,female,Woodard
+Jack Russel Terrier,6756.7996,,12.842,high,med,short,male,Woodard
+Airedale Terrier,21125.8616,,10.7914,high,med,med,male,Rosales
+Amstaff,17592.2049,45.5532,13.2029,low,high,short,male,Farrell
+Jack Russel Terrier,6687.0524,35.3377,14.5185,high,med,short,male,Farmer
+Amstaff,26653.6782,46.6086,12.4437,med,high,short,female,Parker
+Airedale Terrier,22331.8914,57.4188,12.2813,high,high,med,female,Jones
+Daschhund,13438.7353,20.8094,12.6416,high,med,short,female,Wolfe
+Airedale Terrier,19064.4754,56.3533,11.8702,high,high,med,male,Johnson
+Amstaff,27136.8702,,13.4932,med,high,short,male,Hughes
+Airedale Terrier,19604.5826,56.3388,11.1637,high,high,med,female,Jordan
+Airedale Terrier,19703.9982,57.3947,12.01,high,high,short,female,Cervantes
+Daschhund,10199.0319,21.6749,13.1146,high,high,short,male,Davidson
+Amstaff,30006.2022,46.8547,12.8492,med,high,short,female,Turner
+Daschhund,10354.8177,20.6143,12.8243,high,med,short,female,Gordon
+Airedale Terrier,20937.1083,,11.8883,high,high,med,male,Carpenter
+Airedale Terrier,18302.8712,56.7373,11.3047,med,high,med,female,Smith
+Amstaff,28171.6451,45.3276,12.6914,med,high,med,female,Jones
+Amstaff,25917.3666,46.3818,12.73,med,high,short,female,Martinez
+Daschhund,1902.5426,,13.2405,high,med,short,male,Griffin
+Amstaff,30324.1914,,13.7484,med,high,short,male,Combs
+Daschhund,6415.2796,21.1174,12.5947,high,high,short,female,Martinez
+Jack Russel Terrier,6928.0811,33.2558,13.6104,high,med,med,female,Grant
+Daschhund,8681.4793,,12.7087,high,med,short,female,Parker
+Jack Russel Terrier,6191.3439,33.8287,14.6127,high,med,short,male,Jones
+Daschhund,14618.779,21.3485,13.2753,high,med,short,male,Martinez
+Amstaff,22825.2742,,12.2857,high,high,short,female,Smith
+Amstaff,25085.82,46.5284,12.9175,med,med,short,female,Navarro
+Amstaff,24277.0578,,13.9852,med,high,short,female,Anderson
+Airedale Terrier,18894.8651,55.8832,11.6104,high,high,med,male,Carter
+Airedale Terrier,20185.6463,56.8769,11.514,high,high,med,male,Brown
+Jack Russel Terrier,6034.0094,33.3062,15.0699,high,med,med,male,Wilson
+Jack Russel Terrier,5832.2915,33.8094,14.0613,med,high,med,male,Stewart
+Jack Russel Terrier,5816.8582,33.7238,14.1466,high,low,med,female,Phillips
+Amstaff,21476.0919,46.7792,13.8947,med,high,short,male,Baker
+Amstaff,20728.4759,45.0539,14.0102,med,high,short,male,Campbell
+Daschhund,5782.496,21.2132,13.2932,high,high,short,female,Young
+Jack Russel Terrier,5673.0118,32.5941,14.5848,high,med,short,female,Rodriguez
+Daschhund,8767.527,21.0416,13.0449,high,med,short,female,Hudson
+Jack Russel Terrier,7230.9961,33.9958,14.228,high,med,short,male,Lindsey
+Jack Russel Terrier,6269.0648,32.8545,12.6472,high,med,short,male,Potts
+Amstaff,28154.613,,12.5574,low,high,short,female,Adams
+Daschhund,12629.1776,20.9725,13.0823,high,med,short,female,Romero
+Airedale Terrier,21026.8126,56.3084,11.9827,high,med,med,male,Rios
+Amstaff,21914.1383,45.4951,12.6996,high,high,short,male,Caldwell
+Airedale Terrier,19964.9089,,11.0215,high,med,med,male,Thornton
+Amstaff,25669.0603,46.1988,13.1441,high,high,short,female,Alvarez
+Daschhund,9782.4352,21.1533,12.7262,high,med,short,male,Park
+Daschhund,10726.5234,21.6566,13.2259,high,med,short,female,Morris
+Amstaff,22374.2784,45.6979,12.6659,med,high,short,female,Moran
+Daschhund,11148.7883,20.8243,12.2203,high,high,short,female,Sherman
+Amstaff,28155.7391,46.6375,12.5642,med,high,short,male,Johnston
+Amstaff,24522.9939,46.3316,12.3906,med,high,short,male,Ellis
+Jack Russel Terrier,7037.0082,34.3379,13.8477,high,low,short,female,Stephens
+Amstaff,28911.2394,47.2369,13.1095,high,high,short,female,Porter
+Amstaff,19694.9952,45.5615,13.1826,low,med,short,male,Taylor
+Jack Russel Terrier,4844.9191,,13.3964,high,med,short,male,Cherry
+Airedale Terrier,21432.7452,57.326,9.7625,high,high,long,female,Pennington
+Jack Russel Terrier,7221.0456,33.7377,13.145,high,med,short,male,Anderson
+Amstaff,27342.598,46.1893,12.7536,med,high,short,female,Miller
+Jack Russel Terrier,7165.9267,,14.0168,high,med,short,male,Pena
+Airedale Terrier,21307.0828,57.2148,11.9966,high,high,med,female,Hayes
+Jack Russel Terrier,7600.4677,,14.1829,high,med,short,female,Martinez
+Daschhund,8505.6723,20.6803,12.8461,med,low,short,male,Watson
+Daschhund,12297.1461,20.6936,12.7491,high,med,short,male,Baker
+Airedale Terrier,18511.8402,56.2542,11.685,high,high,long,female,Campos
+Airedale Terrier,19629.5827,55.9223,11.5517,high,high,med,female,Harris
+Airedale Terrier,20021.5314,55.2226,10.9803,high,high,med,male,Sandoval
+Jack Russel Terrier,6885.0092,32.8682,13.5806,high,med,short,female,Travis
+Daschhund,7499.9235,21.4625,13.7248,high,med,short,male,Bailey
+Amstaff,27107.1584,45.7641,13.36,med,high,med,female,Larson
+Daschhund,7808.3502,,13.224,high,med,short,male,Hernandez
+Daschhund,14791.6411,,13.9175,high,med,short,female,Doyle
+Jack Russel Terrier,5057.9559,,13.6009,high,low,short,male,Hall
+Daschhund,6917.1066,21.5933,12.3558,high,low,short,female,Rhodes
+Amstaff,24802.3408,44.9517,13.2017,med,high,short,male,Molina
+Airedale Terrier,22644.3423,57.2215,11.5204,high,high,med,male,Moore
+Daschhund,6735.4989,,14.0634,high,med,short,female,Ramirez
+Daschhund,8498.7124,,12.9438,high,med,short,male,Wallace
+Jack Russel Terrier,6779.0783,34.1643,14.3203,med,med,short,male,Costa
+Airedale Terrier,18914.6408,56.4722,12.2178,high,high,long,female,Gonzalez
+Airedale Terrier,22252.4064,,11.5772,high,high,short,male,Ruiz
+Amstaff,22893.5901,,12.4611,med,high,short,male,Woods
+Daschhund,8532.7866,21.8671,12.532,high,med,short,female,Moore
+Jack Russel Terrier,7082.6778,,14.7124,high,med,short,female,Young
+Jack Russel Terrier,5943.207,34.5832,13.8772,high,med,short,female,Roberts
+Daschhund,6488.8275,,12.8018,high,med,short,male,Little
+Jack Russel Terrier,6806.2543,34.0403,14.1116,med,med,short,male,Duncan
+Jack Russel Terrier,6699.7225,,14.6438,high,med,short,male,Thompson
+Airedale Terrier,21019.2766,57.2841,12.219,high,high,med,male,Hernandez
+Daschhund,12468.5277,,13.7855,high,med,short,male,Wallace
+Amstaff,23013.8287,46.4171,12.9795,med,high,short,female,Harris
+Daschhund,10992.3522,,13.5149,high,med,short,male,Mills
+Amstaff,32028.549,44.3442,12.8758,low,high,short,male,Jones
+Daschhund,12364.5953,20.8387,12.0106,high,med,short,female,Thompson
+Amstaff,22480.9238,46.2303,13.7707,low,high,short,female,Davis
+Daschhund,11027.5756,20.0652,13.3973,high,med,short,female,Frost
+Amstaff,26953.0439,46.1348,13.6141,med,high,short,female,Butler
+Amstaff,26580.4727,46.554,12.5096,med,high,med,female,Scott
+Airedale Terrier,17349.6003,57.2358,11.1665,high,high,med,male,Williams
+Airedale Terrier,21051.93,55.933,11.7329,high,high,med,male,Faulkner
+Airedale Terrier,18875.3722,56.563,11.6489,high,high,med,female,Lowery
+Amstaff,21613.7522,46.52,13.4168,med,high,short,female,Allen
+Amstaff,23657.6878,46.9128,13.3917,low,med,short,female,Coleman
+Jack Russel Terrier,6360.2413,,15.1281,high,med,short,male,Weiss
+Daschhund,9081.8336,21.6205,12.5615,high,high,short,female,Glover
+Jack Russel Terrier,5951.1489,34.0451,13.6411,high,med,med,female,Olsen
+Amstaff,20649.2066,46.4923,13.6412,med,high,short,male,Walker
+Daschhund,11768.8737,20.2959,12.7011,high,med,short,male,Hall
+Daschhund,9293.4863,21.3578,13.1173,high,med,short,female,Earl
+Airedale Terrier,21686.1979,57.5542,10.4491,high,high,med,male,Gill
+Airedale Terrier,22020.323,56.433,11.8192,high,high,med,male,Morales
+Amstaff,20173.1641,45.2501,13.8275,med,high,short,male,Adams
+Amstaff,28922.1819,46.9712,12.0682,med,high,short,male,Murray
+Airedale Terrier,20706.2272,58.0145,11.4832,high,high,short,female,Vargas
+Airedale Terrier,21014.3587,56.255,11.7058,high,high,med,male,Casey
+Daschhund,8815.1257,21.8238,13.0906,high,low,short,female,Tate
+Amstaff,28146.0613,,12.7928,med,high,short,male,Robinson
+Amstaff,23028.5648,46.9014,14.0173,med,high,short,female,Johnson
+Jack Russel Terrier,8034.4309,33.8357,14.3349,high,med,short,female,Smith
+Amstaff,20272.4553,45.3702,13.3502,med,high,short,male,Moore
+Amstaff,30258.4758,,12.7466,med,high,med,male,Rodriguez
+Amstaff,28776.7674,45.957,12.7144,med,med,short,male,Houston
+Jack Russel Terrier,7140.7673,35.0208,13.2775,high,med,short,male,Lopez
+Amstaff,26377.4328,46.999,12.7288,med,med,short,female,Williams
+Amstaff,30809.0297,,12.7553,high,high,short,male,Thomas
+Amstaff,29563.8761,46.1688,12.688,low,high,short,male,Morgan
+Airedale Terrier,21134.4821,57.7028,10.154,high,high,med,male,Peters
+Airedale Terrier,22320.4078,56.8651,10.8515,high,med,med,female,Winters
+Daschhund,8240.7329,21.8292,12.7126,high,low,short,female,Garcia
+Daschhund,11960.9854,,13.2262,high,med,short,female,Nixon
+Jack Russel Terrier,7591.1601,33.7996,13.7358,high,med,short,female,Evans
+Daschhund,10192.4478,21.1076,12.679,high,med,short,male,Turner
+Amstaff,22960.9801,,13.5932,med,high,short,female,Jenkins
+Jack Russel Terrier,6473.039,33.6881,14.4141,high,med,short,female,Brown
+Daschhund,15295.9725,,12.9767,high,med,short,female,Henderson
+Daschhund,7698.0928,20.6306,12.931,high,low,short,female,Crosby
+Daschhund,7124.7239,20.1602,11.9029,med,med,short,female,Craig
+Jack Russel Terrier,6854.8672,33.5592,13.6304,high,med,short,female,Hicks
+Airedale Terrier,20779.8913,58.0595,10.9415,high,high,med,female,Nelson
+Jack Russel Terrier,5562.8309,33.3387,14.2668,high,med,short,male,Wheeler
+Amstaff,19520.6118,,13.4961,high,high,short,female,Johnson
+Daschhund,9363.4537,21.1447,14.2167,high,low,short,male,Gonzales
+Airedale Terrier,19051.8469,,11.5918,high,high,short,male,Campos
+Jack Russel Terrier,5852.0798,34.8367,13.7892,high,low,short,female,Mendez
+Jack Russel Terrier,6858.4492,33.3409,14.9366,high,med,short,female,Brown
+Amstaff,23774.7283,45.6133,13.565,med,high,short,female,Nicholson
+Daschhund,8570.2828,21.0079,11.9897,high,med,short,female,Walters
+Jack Russel Terrier,6481.1965,34.0166,14.3442,high,med,short,male,Baker
+Daschhund,7700.0012,,12.5,high,med,short,female,Evans
+Daschhund,10152.0104,,12.6468,high,high,short,female,Moody
+Airedale Terrier,20579.2067,,11.0521,high,med,med,female,Hall
+Daschhund,9958.9,,13.3723,high,med,short,male,Brown
+Amstaff,27906.6325,44.9353,13.0763,med,high,short,female,Griffin
+Daschhund,8024.761,20.4012,13.8108,high,med,short,male,Love
+Jack Russel Terrier,5654.0447,32.378,13.1688,high,high,short,female,Edwards
+Airedale Terrier,18398.0216,57.2625,11.7972,high,med,med,male,Hogan
+Jack Russel Terrier,5993.2682,34.514,13.9745,high,med,short,male,Gilbert
+Amstaff,23859.6062,45.8063,12.9995,med,high,short,female,Evans
+Jack Russel Terrier,7337.0851,,15.2239,high,med,short,female,Gutierrez
+Jack Russel Terrier,4965.7794,,14.3143,high,med,short,male,Hopkins
+Amstaff,25175.4344,45.5104,13.1158,med,med,short,male,Sweeney
+Airedale Terrier,20653.744,57.3377,11.5125,high,high,med,female,Cobb
+Amstaff,23913.7376,46.4355,12.6626,med,high,short,female,Chen
+Airedale Terrier,19168.3561,,12.1476,high,high,med,female,Cooper
+Jack Russel Terrier,6187.8079,34.5381,13.3437,high,med,short,male,Martinez
+Jack Russel Terrier,3967.5837,32.5082,14.7809,high,med,short,male,Miller
+Daschhund,5902.668,20.0368,12.1263,high,med,short,male,Smith
+Amstaff,24312.3705,47.0989,13.3972,med,high,short,female,French
+Airedale Terrier,20958.5147,56.7171,13.3791,med,high,long,female,Cobb
+Amstaff,25181.9546,46.5154,12.7611,high,high,short,female,White
+Amstaff,27152.9202,46.0447,13.2959,med,high,short,male,Rivera
+Airedale Terrier,23196.06,57.104,11.3767,high,high,med,female,Munoz
+Jack Russel Terrier,4635.9475,33.874,13.8584,high,med,short,female,Mejia
+Amstaff,27683.2934,46.1537,13.2147,med,high,short,male,Wong
+Airedale Terrier,23965.3202,57.2415,10.9615,high,high,med,female,Richardson
+Amstaff,22290.5944,45.7808,13.9261,med,high,short,female,Johnson
+Daschhund,13523.6979,20.5036,12.7118,high,med,short,female,Mitchell
+Airedale Terrier,21867.9772,56.3157,11.3079,high,high,med,female,Rivera
+Jack Russel Terrier,7260.0736,,13.7336,high,med,short,female,Small
+Amstaff,27108.1219,,13.4324,med,med,short,female,Kari
+Airedale Terrier,22427.646,56.4998,10.8708,high,high,med,male,Tucker
+Daschhund,6211.0218,20.766,12.5577,high,low,short,male,Ford
+Daschhund,7232.8298,,13.4444,high,med,short,female,Long
+Daschhund,6607.0278,20.7473,12.6006,high,med,short,female,Smith
+Airedale Terrier,19362.0448,57.5685,12.5675,high,high,med,male,Duran
+Amstaff,26378.2306,45.9868,13.0645,med,high,short,female,Vaughan
+Jack Russel Terrier,7758.5849,33.8663,13.529,high,med,short,male,Fields
+Airedale Terrier,20929.3158,,11.7744,high,high,short,female,Franco
+Airedale Terrier,21333.3132,,11.4657,high,high,med,female,Wells
+Airedale Terrier,18778.42,56.1741,11.2402,high,high,med,female,Mann
+Amstaff,22466.8675,,13.8289,med,high,short,female,Williams
+Daschhund,12021.2983,20.6446,12.2045,high,high,short,female,Jay
+Amstaff,23400.582,,13.3523,med,med,short,male,Morris
+Jack Russel Terrier,5936.2523,34.4616,13.9187,high,med,short,female,Horton
+Daschhund,15797.7227,22.2656,12.0509,high,med,short,male,Holt
+Jack Russel Terrier,5985.4706,33.3009,14.1563,high,med,med,female,Hall
+Airedale Terrier,19984.2179,58.0095,11.292,high,high,med,male,Hale
+Jack Russel Terrier,6825.5459,33.8213,14.205,high,med,short,male,Williams
+Daschhund,15121.0599,,12.9328,high,med,short,female,Williams
+Jack Russel Terrier,5952.6495,34.8116,13.3257,high,med,short,male,Jones
+Amstaff,25724.5646,45.2881,12.5457,med,high,short,male,Burton
+Jack Russel Terrier,5837.0568,,13.3842,high,low,short,female,Fisher
+Airedale Terrier,20602.0271,,11.8523,high,high,med,female,Miller
+Airedale Terrier,21249.4386,57.0432,11.4015,high,high,short,male,Downs
+Jack Russel Terrier,7860.87,35.0525,13.1596,high,med,short,male,White
+Airedale Terrier,21037.519,56.8256,11.9038,high,high,med,male,Tran
+Amstaff,22386.5465,47.0041,12.76,low,high,short,female,Lopez
+Airedale Terrier,22435.244,56.0763,13.2835,high,high,med,female,Galvan
+Amstaff,24041.9115,46.1931,13.0776,high,high,med,female,Holloway
+Amstaff,29722.7337,,13.0829,med,high,short,female,Miller
+Amstaff,25407.4416,45.4686,13.3314,high,high,short,male,Turner
+Daschhund,8439.0951,20.3768,13.3267,high,med,short,female,Martin
+Daschhund,14745.4466,21.4644,13.5444,high,med,short,male,Burke
+Daschhund,9003.1092,19.8892,13.1109,high,med,short,female,Williams
+Daschhund,10825.7161,,12.6787,high,med,short,male,Bass
+Daschhund,10879.5816,19.6872,12.2204,high,high,short,female,White
+Airedale Terrier,22979.4622,56.4416,10.2453,med,high,med,male,Williams
+Jack Russel Terrier,6277.994,,13.8349,high,med,short,female,Aaron
+Jack Russel Terrier,6472.9575,32.9916,13.8458,high,med,short,male,Little
+Airedale Terrier,21817.1571,56.5774,10.6197,high,high,short,male,White
+Amstaff,27504.7133,46.5643,12.7392,high,high,short,female,Li
+Amstaff,26563.4004,46.0641,14.8463,med,med,short,female,Ibarra
+Jack Russel Terrier,8116.3509,34.2729,14.3004,high,med,med,female,Romero
+Daschhund,5233.563,21.3802,13.3198,high,med,short,female,Morton
+Amstaff,23633.7658,46.1071,12.9577,med,high,short,female,Turner
+Amstaff,24109.6397,46.0854,13.0665,med,med,short,female,Russell
+Amstaff,29491.9089,45.4161,12.979,med,high,short,male,Hall
+Jack Russel Terrier,8039.2259,35.1501,13.5944,high,med,short,female,Harmon
+Airedale Terrier,19450.133,56.4506,10.7306,high,high,med,female,Cruz
+Amstaff,21031.4617,46.0831,12.8764,med,high,short,female,Silva
+Jack Russel Terrier,6639.374,,13.945,high,med,short,male,Dunn
+Amstaff,23637.3603,46.6138,12.7576,med,high,short,male,Jones
+Daschhund,8842.4824,22.1954,13.4672,high,med,short,female,Monroe
+Amstaff,28155.8939,46.7692,13.9577,low,high,short,female,Townsend
+Daschhund,16640.4274,20.3934,13.0605,high,med,short,male,Kim
+Amstaff,26723.1846,46.6754,13.269,med,high,short,female,Stuart
+Daschhund,9253.2783,,13.5026,high,low,short,female,Hunt
+Amstaff,21686.4164,,12.356,med,high,short,male,Phillips
+Airedale Terrier,22027.5425,56.6317,13.3448,high,high,short,male,Hogan
+Jack Russel Terrier,8544.2749,34.0554,12.9242,high,high,med,female,Ramirez
+Airedale Terrier,19645.1247,56.7832,10.2975,high,high,med,male,Maurice
+Jack Russel Terrier,8133.9282,34.897,13.8038,high,med,short,female,Davies
+Daschhund,9828.9168,21.3027,13.7877,med,med,short,female,Perez
+Daschhund,11863.1122,20.6194,13.3134,med,high,short,male,Baldwin
+Jack Russel Terrier,4976.7793,33.7227,14.0121,high,med,short,female,Riley
+Jack Russel Terrier,6251.096,34.5478,13.7239,high,med,short,female,Cooper
+Daschhund,11443.247,21.5443,13.2409,high,med,short,female,Sims
+Daschhund,14916.1104,21.323,12.2904,high,med,short,female,Cole
+Daschhund,12757.4614,21.6989,13.8037,high,med,short,male,Owens
+Daschhund,12581.28,20.5736,12.9119,high,med,short,male,Aguirre
+Jack Russel Terrier,6685.2891,33.7539,13.7084,med,med,short,female,Reeves
+Jack Russel Terrier,7411.9945,33.5447,13.3924,high,med,short,male,Hubbard
+Daschhund,10204.2769,21.029,12.9328,high,med,short,female,Soto
+Amstaff,22386.847,,13.7685,low,high,short,female,Turner
+Jack Russel Terrier,8242.2705,34.6951,13.8872,high,med,short,female,Gray
+Airedale Terrier,18698.7876,57.2624,12.2835,med,high,med,male,Greene
+Amstaff,21501.9276,45.6951,13.286,med,high,short,male,Jenkins
+Daschhund,12230.7447,20.6823,13.6624,high,med,short,female,Carrillo
+Airedale Terrier,23589.2263,57.5108,12.9993,high,high,med,female,Myers
+Jack Russel Terrier,6807.7089,34.1719,13.5717,high,med,short,female,Martinez
+Amstaff,26719.7577,45.3528,12.3624,low,high,short,male,York
+Daschhund,13422.7401,21.1404,12.0688,high,med,short,male,Hendricks
+Jack Russel Terrier,6859.4873,,14.7831,high,high,short,female,Ali
+Airedale Terrier,19327.9619,57.2515,10.8371,high,high,med,female,Taylor
+Amstaff,30759.5184,46.5502,13.6788,med,high,short,male,Clark
+Airedale Terrier,20110.7361,55.9303,11.0437,high,high,med,female,Murphy
+Amstaff,31430.0762,45.4946,13.5992,med,high,short,female,Walker
+Jack Russel Terrier,7376.5645,32.9375,13.1866,high,med,short,female,Brown
+Amstaff,26259.2267,,12.2971,med,high,short,female,Saunders
+Jack Russel Terrier,6497.5673,35.2099,13.9662,high,low,short,female,King
+Daschhund,7586.2274,,13.5873,high,med,short,female,Hickman
+Airedale Terrier,19532.0078,56.954,11.2477,high,high,med,female,Campos
+Amstaff,30223.4937,,12.5253,med,med,short,female,Salinas
+Jack Russel Terrier,7275.8888,34.4672,14.508,high,med,short,male,Duncan
+Airedale Terrier,22607.5393,56.5706,11.3183,high,high,med,female,Stewart
+Airedale Terrier,18850.4295,58.9234,11.5428,high,high,med,male,Hubbard
+Jack Russel Terrier,5679.7658,33.9963,14.049,high,med,short,male,Wilson
+Airedale Terrier,19315.0253,56.9644,13.2878,high,high,med,male,Mccoy
+Daschhund,7211.3329,19.5125,13.2294,high,med,short,male,Hall
+Airedale Terrier,20559.6683,57.3069,10.9064,high,high,med,male,Brown
+Airedale Terrier,21470.1146,57.0442,10.6292,high,high,med,male,Wallace
+Airedale Terrier,20387.0682,,11.2081,high,high,long,male,Bentley
+Airedale Terrier,20830.8792,56.9819,11.6935,high,high,med,male,Nguyen
+Amstaff,19435.0601,,13.1352,med,high,short,female,Saunders
+Jack Russel Terrier,8084.4529,33.8337,13.669,med,med,med,female,Murphy
+Amstaff,25896.8489,,11.981,med,high,short,male,Jackson
+Jack Russel Terrier,7657.7468,33.9852,14.037,high,med,short,female,Haney
+Amstaff,26605.8531,46.5553,13.8561,med,high,short,male,Garcia
+Jack Russel Terrier,8522.7024,34.311,14.2362,high,med,short,male,Blake
+Daschhund,11163.6455,20.3152,12.3368,high,med,short,female,Schwartz
+Daschhund,12559.1416,20.8139,12.7565,high,med,short,male,Jackson
+Daschhund,9644.4139,20.8461,12.7753,high,med,short,female,Young
+Daschhund,14599.4889,20.9668,13.6515,high,med,short,male,Vaughn
+Jack Russel Terrier,6261.3757,,13.7333,high,med,short,female,Evans
+Airedale Terrier,18252.8467,56.7607,10.5691,high,med,short,female,Evans
+Airedale Terrier,20853.678,57.9522,11.0403,high,high,med,female,Zimmerman
+Airedale Terrier,23200.3331,,12.2834,high,med,med,male,Leonard
+Airedale Terrier,23159.9838,56.5984,11.1966,high,high,med,female,Saunders
+Airedale Terrier,21307.2819,56.7687,12.1042,high,high,med,male,Alvarado
+Jack Russel Terrier,5866.76,,13.6966,high,med,short,female,Robinson
+Jack Russel Terrier,6436.7253,34.1657,14.2728,high,med,short,female,Mullins
+Airedale Terrier,17576.3125,57.0086,11.0381,high,high,med,female,Rodriguez
+Amstaff,22130.2998,46.7141,11.7113,med,high,short,male,Stuart
+Daschhund,15263.2082,19.5978,13.2582,high,med,short,female,Peterson
+Jack Russel Terrier,4544.2836,35.0231,13.797,high,med,short,female,Lee
+Amstaff,24323.6485,45.0327,13.1863,med,high,short,male,Hernandez
+Daschhund,11973.2416,20.8949,12.9791,high,med,short,male,Larson
+Jack Russel Terrier,6436.8518,,14.2887,med,med,short,female,Kennedy
+Daschhund,10406.2276,,13.0637,high,med,short,male,Ross
+Airedale Terrier,22246.4591,56.7875,10.4437,high,high,med,male,Davis
+Daschhund,9920.3415,20.3174,12.9184,high,med,short,male,Waller
+Daschhund,11200.1482,,12.9103,high,med,short,male,Kennedy
+Airedale Terrier,20834.4139,56.2794,11.3194,high,high,long,female,Bright
+Airedale Terrier,21817.2963,57.4902,10.3524,high,high,long,female,Smith
+Daschhund,7655.2623,20.6154,12.6262,high,med,short,male,Rosales
+Amstaff,26294.7484,47.1257,13.0847,med,high,short,female,Lam
+Jack Russel Terrier,5514.7598,34.9352,14.1279,high,med,short,male,Adams
+Amstaff,27357.3697,47.0889,11.9378,med,high,med,female,Harmon
+Airedale Terrier,19547.4883,57.6065,12.2453,high,high,med,male,Johnson
+Amstaff,15894.4417,45.2158,12.8022,med,high,short,female,Nelson
+Amstaff,23246.7387,,12.9106,med,med,short,male,Wong
+Amstaff,23569.7325,45.7314,12.024,med,high,short,female,Kelly
+Daschhund,7042.9922,,12.8383,high,high,short,male,Pennington
+Daschhund,6215.7747,20.5593,14.3649,high,med,short,male,Trujillo
+Jack Russel Terrier,7541.0989,34.3916,14.2104,high,high,short,female,Ochoa
+Amstaff,29218.9244,46.1784,13.2861,med,med,short,female,Johnston
+Jack Russel Terrier,8366.8787,34.078,14.8653,high,med,short,female,York
+Daschhund,13309.796,20.5798,12.2162,high,med,short,female,Brady
+Daschhund,12538.4675,,12.6179,high,low,short,female,Williams
+Daschhund,5032.4522,21.65,13.6979,high,med,short,female,Miller
+Jack Russel Terrier,7296.5235,32.9933,14.5242,high,med,short,male,Hammond
+Amstaff,26501.7711,45.9277,12.7693,med,high,short,male,Smith
+Airedale Terrier,19949.2014,57.1361,11.4476,high,high,med,female,Shepherd
+Jack Russel Terrier,4971.2394,33.5433,12.6665,high,med,short,female,Kelly
+Amstaff,27782.0484,44.6366,13.3642,med,high,short,female,Black
+Airedale Terrier,20674.7072,56.5588,10.4249,high,high,short,male,Jones
+Airedale Terrier,24115.875,56.679,10.6395,high,high,med,female,Williams
+Airedale Terrier,21953.8487,57.9883,12.2496,med,high,med,female,Santiago
+Amstaff,23854.0263,45.2966,13.1782,med,high,short,male,Williams
+Airedale Terrier,20613.9429,57.7109,12.3328,high,med,med,female,Cody
+Daschhund,8880.5034,20.817,13.1976,high,med,short,male,Smith
+Airedale Terrier,19293.6572,55.9356,11.4599,high,high,med,male,Hayes
+Jack Russel Terrier,7687.984,33.4604,13.6301,high,med,med,female,Butler
+Jack Russel Terrier,6337.9474,34.5555,13.3996,high,med,short,female,Amy
+Jack Russel Terrier,6807.8938,34.5056,13.9552,high,med,short,male,Whitehead
+Amstaff,31292.7155,45.7233,12.9095,med,high,med,male,Melendez
+Airedale Terrier,20986.8618,57.8656,10.4743,high,high,med,male,Smith
+Amstaff,27372.6634,46.0866,13.4908,low,med,short,female,Thompson
+Amstaff,30517.2103,46.6197,13.3031,high,high,short,male,Larson
+Amstaff,24372.3625,45.5162,13.0284,med,high,med,male,Morris
+Daschhund,7691.6544,,14.0811,high,med,short,female,Nielsen
+Airedale Terrier,18752.0535,57.154,11.2158,high,high,med,female,Walker
+Amstaff,29722.1969,45.6623,13.4906,low,high,short,male,Mosley
+Jack Russel Terrier,6888.7857,34.3271,13.8945,high,med,short,female,Vaughn
+Daschhund,7027.4407,20.2297,11.6165,high,med,short,male,Allen
+Jack Russel Terrier,5794.6233,,13.3486,high,med,short,female,Chaney
+Daschhund,199.1081,20.0924,12.6315,high,med,short,female,Gates
+Daschhund,10524.2493,20.5038,12.9198,high,med,med,female,Elliott
+Daschhund,9877.2865,20.9453,11.9193,high,med,short,female,Campbell
+Airedale Terrier,20969.4547,57.0876,11.2723,high,high,med,male,Fowler
+Daschhund,7923.515,20.3221,12.0936,high,med,short,female,Lopez
+Daschhund,11095.7363,20.9155,12.9403,high,med,short,male,Decker
+Airedale Terrier,20683.0401,57.3213,10.5306,high,high,med,male,Payne
+Amstaff,25007.3991,45.6343,13.1956,med,high,short,female,Weaver
+Amstaff,24275.763,45.7772,12.5418,med,med,short,female,Keller
+Airedale Terrier,21024.9558,57.0817,10.3731,high,high,med,male,May
+Jack Russel Terrier,6349.0766,,13.3774,high,med,short,male,Hampton
+Airedale Terrier,18079.9989,56.3508,9.1226,high,med,med,female,Osborne
+Jack Russel Terrier,3911.3719,34.1212,13.6226,high,low,med,female,Parsons
+Amstaff,27781.2351,46.3153,12.7835,med,high,short,female,Weaver
+Airedale Terrier,19846.6891,,11.9269,high,high,med,male,Lopez
+Amstaff,24129.0342,46.2082,12.8172,low,high,short,female,Allen
+Airedale Terrier,20242.9358,,12.893,high,high,long,female,Hahn
+Airedale Terrier,22260.831,56.3563,9.9382,high,high,med,male,Bryant
+Airedale Terrier,23165.3892,57.0876,11.2762,high,med,med,male,Medina
+Amstaff,24492.4061,46.1776,12.2521,med,high,short,female,Bridges
+Amstaff,31296.3276,45.2341,12.2228,low,med,short,male,Herrera
+Jack Russel Terrier,5731.8029,34.3503,12.687,med,low,short,male,Sutton
+Amstaff,28076.8512,,12.2085,low,high,short,female,Evans
+Jack Russel Terrier,5874.2947,34.2953,14.2844,high,high,short,female,Price
+Jack Russel Terrier,5596.2377,33.4641,14.3297,high,med,short,female,Wright
+Jack Russel Terrier,5555.5238,34.4907,14.5682,high,med,short,female,Ross
+Airedale Terrier,21397.5699,57.6476,11.4916,high,high,med,male,Lambert
+Jack Russel Terrier,6989.5719,33.7547,15.2457,high,med,short,male,Gibson
+Jack Russel Terrier,6720.8251,33.9272,13.9951,high,med,short,male,Alexander
+Airedale Terrier,21026.3049,57.1041,11.354,high,high,med,male,Moses
+Daschhund,12331.3803,,13.5422,high,med,med,female,Moore
+Airedale Terrier,21269.3035,57.31,11.299,high,high,med,female,Walton
+Airedale Terrier,21102.3629,,10.2456,high,med,med,male,Collins
+Amstaff,14978.1284,45.9565,13.0003,med,high,short,male,Dorsey
+Airedale Terrier,22883.7908,56.7012,10.3782,high,high,med,female,Choi
+Jack Russel Terrier,6903.909,34.0749,14.4105,high,high,short,female,Johnson
+Amstaff,19423.1466,45.658,13.9627,med,high,short,female,Harding
+Jack Russel Terrier,5381.8445,,13.8044,high,med,short,female,Ellis
+Amstaff,25890.4338,45.986,12.4882,med,high,short,male,Hartman
+Amstaff,29232.2552,45.9114,12.0036,med,high,short,male,Bird
+Daschhund,8737.805,20.9068,12.7307,high,med,short,male,Cunningham
+Airedale Terrier,21106.2812,57.1386,11.274,high,high,med,female,Mendez
+Daschhund,11980.0369,20.1679,13.4052,high,med,short,female,Evans
+Jack Russel Terrier,7795.2171,35.1344,14.7735,high,high,short,male,Lopez
+Airedale Terrier,20077.5224,56.6387,12.363,med,high,med,male,Hurst
+Daschhund,12854.8251,,12.4654,high,med,short,male,French
+Jack Russel Terrier,5470.999,33.613,14.1652,high,med,short,female,Jones
+Daschhund,10702.4531,20.8223,13.0387,high,med,short,female,Smith
+Amstaff,27869.1219,45.7299,12.9682,high,med,short,female,Wolf
+Jack Russel Terrier,5828.4342,,13.9858,high,med,short,male,Taylor
+Amstaff,28750.061,45.6863,14.5059,med,high,short,male,Saunders
+Amstaff,27381.1577,46.7997,12.622,high,med,short,female,Atkinson
+Jack Russel Terrier,5365.6489,33.6117,12.9801,high,med,short,male,Howell
+Jack Russel Terrier,6695.0919,34.1665,13.9719,high,med,short,male,Harper
+Jack Russel Terrier,5666.1897,33.7092,14.2576,high,high,med,male,Brennan
+Jack Russel Terrier,6208.7878,33.993,15.0414,high,med,short,female,Wilson
+Amstaff,24023.7153,47.1434,13.4943,med,high,short,female,Hinton
+Airedale Terrier,20183.1337,57.212,10.7413,high,high,med,female,Johnson
+Amstaff,26071.4304,,12.872,med,high,short,female,Cisneros
+Airedale Terrier,17661.0277,56.6338,9.9589,high,high,med,female,Huffman
+Jack Russel Terrier,7214.4467,33.4231,14.307,high,low,med,male,Morris
+Jack Russel Terrier,6242.9032,,14.3211,high,med,short,male,Scott
+Amstaff,22508.374,45.7128,13.4846,low,high,short,female,Hunt
+Daschhund,11775.5062,20.8293,14.289,high,med,short,male,Bullock
+Daschhund,7196.7132,20.6741,13.0707,high,med,short,male,Turner
+Daschhund,10294.13,21.4686,12.4117,high,med,short,female,Krause
+Daschhund,10849.6404,20.3646,13.8211,high,high,short,female,Taylor
+Airedale Terrier,20303.7634,,10.445,med,high,med,female,Butler
+Daschhund,8147.7797,21.4611,12.3371,high,med,short,male,Williams
+Daschhund,8367.7065,20.4744,13.0574,high,low,short,female,Adkins
+Daschhund,13776.8425,21.2406,12.1403,high,high,short,male,Jacobson
+Jack Russel Terrier,7534.1072,33.3446,14.4103,high,med,short,male,Marshall
+Daschhund,10308.7139,22.1637,13.3737,high,med,short,male,Cannon
+Daschhund,8055.8084,20.9095,12.6183,high,low,short,female,Burton
+Daschhund,13554.8766,20.066,12.8871,high,med,short,male,Parker
+Airedale Terrier,18994.3435,57.8326,11.2268,high,med,med,male,Lawrence
+Airedale Terrier,16972.3897,57.5842,12.4963,high,med,med,female,Maldonado
+Amstaff,28501.2977,46.1814,13.3317,med,med,short,male,Cruz
+Airedale Terrier,17378.5334,56.2335,12.526,high,high,long,male,Burns
+Airedale Terrier,20607.5046,57.7494,11.1211,high,high,med,male,Andrea
+Jack Russel Terrier,7008.4096,33.6859,13.5778,high,med,short,female,Jacobs
+Amstaff,24490.1503,45.5013,13.9476,med,high,short,male,Day
+Airedale Terrier,23967.7605,55.3943,13.4183,high,high,long,male,Perez
+Daschhund,10937.2711,20.7761,13.0874,high,med,short,male,Oneal
+Amstaff,26136.8399,,13.6523,low,high,short,male,Robinson
+Jack Russel Terrier,6510.9284,34.5196,12.8258,high,low,short,male,Coleman
+Airedale Terrier,17459.7612,56.3449,10.2273,high,high,med,male,Hernandez
+Airedale Terrier,19874.3847,56.5654,10.2563,high,high,med,male,Humphrey
+Daschhund,5414.1738,,13.139,high,low,short,female,Wyatt
+Jack Russel Terrier,5468.0082,34.0855,13.8045,high,med,short,female,Nichols
+Daschhund,9535.0248,20.5245,13.6086,high,med,short,female,Smith
+Jack Russel Terrier,5535.5881,32.8181,14.2606,high,med,short,male,Huynh
+Daschhund,10326.7035,20.807,12.8906,high,med,short,male,Rodriguez
+Jack Russel Terrier,5492.0617,,13.77,high,med,short,male,Miller
+Jack Russel Terrier,6033.684,33.8711,14.2966,med,med,short,male,Burns
+Jack Russel Terrier,5578.0181,33.7011,14.5551,high,med,short,female,Gilbert
+Amstaff,27788.9374,46.2475,12.6426,med,med,short,male,Terrell
+Daschhund,11811.1852,20.1032,13.8451,high,med,med,female,Murray
+Daschhund,6822.2538,20.4533,13.6674,high,med,short,female,Powers
+Airedale Terrier,21942.4943,57.9841,11.7367,high,high,med,female,Mcdowell
+Airedale Terrier,20136.4239,,11.3734,high,high,med,female,Nguyen
+Jack Russel Terrier,6428.5659,34.2704,13.1229,high,med,short,female,Smith
+Airedale Terrier,23288.656,56.4625,13.2897,high,high,long,male,Barton
+Amstaff,22718.7141,45.0759,12.3405,med,high,short,male,Ryan
+Amstaff,29248.4931,46.2804,13.0034,high,high,short,female,Valdez
+Amstaff,19664.0799,,12.9775,low,high,med,male,Gray
+Amstaff,25625.1264,,13.9924,med,high,short,male,Herrera
+Daschhund,6964.9113,19.7621,12.6084,high,med,short,male,Butler
+Amstaff,19464.3024,45.6809,12.8518,med,high,short,female,King
+Jack Russel Terrier,6578.9381,,14.8268,high,med,short,male,Smith
+Daschhund,12821.1518,21.7109,13.0211,high,med,short,female,Carter
+Daschhund,11254.7095,21.2817,11.7719,high,med,short,female,Fowler
+Daschhund,8424.2953,21.5034,13.1446,high,low,med,female,Holloway
+Amstaff,26453.0871,45.8291,12.9387,med,high,short,male,Johnson
+Airedale Terrier,20497.9335,,9.8083,high,high,long,male,Holloway
+Amstaff,34095.2634,,12.6338,med,high,short,female,Morgan
+Amstaff,21360.9855,46.5938,12.4054,high,high,med,male,Moore
+Amstaff,27574.9473,45.0248,13.2472,med,high,med,female,Lozano
+Amstaff,24114.5596,46.5131,12.1595,med,high,short,female,Douglas
+Daschhund,7909.2334,,12.2994,high,med,short,female,Weber
+Amstaff,29123.1046,46.1296,14.0031,med,high,short,female,Andrade
+Jack Russel Terrier,7248.9492,33.2199,13.5325,med,med,short,male,Bryant
+Jack Russel Terrier,5941.0015,33.3039,13.7982,high,med,short,female,Mejia
+Airedale Terrier,21307.3407,56.9705,11.444,high,high,long,male,Christensen
+Amstaff,20813.4306,45.7965,12.5828,med,high,med,male,Burch
+Jack Russel Terrier,6231.9859,,13.182,high,med,short,female,Walters
+Daschhund,5475.7027,20.9251,13.53,high,med,short,female,Elliott
+Airedale Terrier,22120.8479,56.8581,10.7266,high,high,med,male,Ellison
+Amstaff,27114.1573,45.8643,13.9611,med,high,short,female,Fisher
+Amstaff,24857.6447,46.08,12.7963,med,high,short,female,Morrison
+Airedale Terrier,19455.9572,56.8997,10.8355,med,high,med,male,Stone
+Airedale Terrier,21061.1585,56.7111,12.3995,high,high,med,female,Williamson
+Airedale Terrier,22625.7415,,9.2352,high,high,med,female,Moore
+Amstaff,30002.5927,,13.8099,high,high,short,female,Flores
+Airedale Terrier,19819.7014,56.9639,13.16,high,high,med,male,Yates
+Airedale Terrier,19960.3901,56.5331,12.2017,high,high,med,female,Palmer
+Daschhund,11924.6969,21.6675,12.733,high,med,short,male,Hernandez
+Airedale Terrier,18500.6535,57.0304,13.2729,med,high,med,male,Davis
+Airedale Terrier,19852.5766,58.0484,11.7066,high,high,med,male,Lester
+Daschhund,13515.3153,20.8957,13.4878,med,med,short,male,Smith
+Daschhund,7339.2203,20.6403,14.1349,high,med,short,female,Wagner
+Amstaff,25223.5159,45.676,12.1932,med,high,short,male,Reid
+Daschhund,6454.1671,20.4244,13.1034,high,med,short,male,Kim
+Airedale Terrier,21398.3047,56.7238,10.985,high,high,med,male,Mckee
+Daschhund,11823.9516,21.8612,12.9245,high,med,med,male,Thomas
+Jack Russel Terrier,7898.1969,34.3807,15.5293,med,med,short,male,Pope
+Jack Russel Terrier,5857.162,34.5208,13.5622,high,med,short,female,Gardner
+Jack Russel Terrier,5481.8646,34.0925,13.8947,high,med,short,male,Robles
+Daschhund,4404.7732,,14.0058,high,low,short,female,Frances
+Airedale Terrier,19330.1097,,12.5201,high,high,med,female,Peterson
+Amstaff,25389.3549,45.4664,13.4038,med,med,short,male,Bell
+Amstaff,28230.6638,,12.8318,med,high,short,female,Acosta
+Jack Russel Terrier,6452.7871,34.2906,13.9802,high,med,short,male,Osborne
+Amstaff,30815.3946,45.7768,13.5198,high,high,short,male,Lee
+Amstaff,28639.9327,47.1429,13.2797,med,high,short,male,Keith
+Jack Russel Terrier,8118.9369,34.4825,13.9545,high,med,short,female,Green
+Amstaff,29175.9962,45.6015,11.8392,high,med,short,female,Bailey
+Airedale Terrier,22201.8552,,12.3959,high,high,med,female,Foster
+Daschhund,9691.2238,20.8423,12.6712,high,med,short,male,Davidson
+Amstaff,30240.2384,45.5767,11.7886,high,high,short,female,Jones
+Daschhund,8468.2187,,13.2296,high,med,short,female,Salinas
+Airedale Terrier,18035.3247,56.5824,11.6629,high,high,med,female,Jensen
+Airedale Terrier,20628.7707,57.1023,11.5845,high,med,med,female,Wilson
+Jack Russel Terrier,7162.5426,33.0202,13.9079,high,med,short,female,Zimmerman
+Jack Russel Terrier,7137.0439,,13.2852,high,med,short,male,Fox
+Daschhund,9295.6295,21.3508,13.3062,high,med,short,female,Carroll
+Daschhund,11554.6142,21.3594,12.4485,high,low,short,female,Griffin
+Amstaff,19554.0714,46.0765,13.299,high,high,short,male,Stevens
+Airedale Terrier,20449.2025,57.9109,13.4299,high,high,med,female,Howard
+Jack Russel Terrier,7112.0341,,14.2039,high,med,med,female,Murphy
+Airedale Terrier,20419.4207,56.6252,12.0399,high,high,med,female,Harris
+Airedale Terrier,21661.1556,,11.1007,high,med,med,male,Hernandez
+Jack Russel Terrier,7192.6296,,14.1959,high,med,short,female,Smith
+Daschhund,13978.2178,21.9336,13.4119,high,high,short,male,Davis
+Amstaff,31365.7274,45.6183,12.4805,med,high,short,female,Hendricks
+Jack Russel Terrier,7414.52,,14.2963,high,med,short,male,Patel
+Jack Russel Terrier,7103.2051,,15.1747,high,med,short,female,Lowery
+Airedale Terrier,21637.3647,56.1054,11.5134,med,high,med,male,Miller
+Daschhund,11924.1401,20.5049,12.7013,high,med,med,female,Robinson
+Jack Russel Terrier,7437.3344,33.1615,13.608,high,med,med,female,Neal
+Airedale Terrier,17497.9567,57.5004,10.4665,high,high,med,male,Jefferson
+Daschhund,16622.5881,20.9778,12.8722,high,med,short,male,Lawson
+Amstaff,26542.7314,,12.3632,med,high,short,female,Chen
+Airedale Terrier,20158.312,,11.1017,high,high,short,female,Hunter
+Jack Russel Terrier,7608.3,35.0323,13.8455,high,med,short,female,Carter
+Daschhund,6584.6315,,13.4281,high,med,short,female,Aguilar
+Airedale Terrier,19886.3661,,10.4078,high,high,long,male,Juarez
+Jack Russel Terrier,7605.7456,33.6165,13.842,high,med,short,female,Allison
+Daschhund,8611.1848,21.8288,13.5153,med,high,med,female,Ortiz
+Airedale Terrier,18816.7724,57.2753,11.9871,high,high,med,male,Clark
+Amstaff,27602.7016,45.9657,12.3638,high,high,short,female,Baker
+Jack Russel Terrier,7080.0898,,13.3265,high,med,short,female,Perez
+Amstaff,24300.8802,45.6819,12.1167,med,high,short,female,Adam
+Amstaff,29095.233,46.313,12.9961,med,high,short,male,Beck
+Amstaff,21197.4198,47.1884,12.9917,med,high,short,male,Jones
+Jack Russel Terrier,4331.6918,34.9936,13.9525,high,low,short,female,Henderson
+Jack Russel Terrier,7688.4639,33.8366,14.3631,med,med,short,male,King
+Amstaff,20873.2249,46.3937,13.0429,low,high,short,female,Krause
+Amstaff,32963.5457,46.7754,14.16,med,high,med,female,Williams
+Jack Russel Terrier,7138.3174,34.5669,13.2791,high,med,short,male,Williams
+Jack Russel Terrier,5978.7998,,13.8112,high,med,short,male,Davis
+Airedale Terrier,20158.0028,58.0307,12.39,high,high,med,male,Johnston
+Jack Russel Terrier,5788.6364,34.2114,14.3312,high,med,short,female,Moore
+Jack Russel Terrier,6494.7188,34.5186,14.0943,high,high,short,male,Clark
+Airedale Terrier,20993.7573,56.5976,11.5077,high,high,med,male,May
+Jack Russel Terrier,7708.1735,34.0068,15.0047,high,med,short,female,Moody
+Jack Russel Terrier,5316.0223,34.0136,14.2607,high,med,short,female,Williams
+Jack Russel Terrier,7551.2829,33.407,13.7847,high,high,short,male,Maldonado
+Jack Russel Terrier,6199.3346,33.5932,14.708,high,med,short,male,Parsons
+Amstaff,25008.2412,,13.6182,high,high,short,female,Jodi
+Airedale Terrier,20732.5903,57.543,10.745,high,high,med,female,Hines
+Jack Russel Terrier,5357.58,33.8298,14.7894,high,med,short,female,Smith
+Airedale Terrier,20098.7905,56.4321,12.3344,high,high,med,male,Howard
+Amstaff,22937.107,45.9135,13.322,med,high,short,female,Garcia
+Jack Russel Terrier,7633.1566,34.3451,14.4264,high,med,short,male,Roberts
+Daschhund,4263.7725,20.5715,13.722,high,med,short,male,Smith
+Jack Russel Terrier,7670.0351,35.1129,14.1834,high,med,short,male,Robertson
+Jack Russel Terrier,5831.8307,33.4103,13.4179,med,med,med,male,Matthew
+Daschhund,14493.2781,20.5718,12.7185,high,med,short,female,Curtis
+Jack Russel Terrier,7316.8373,34.1953,13.7215,high,med,short,male,Garner
+Amstaff,25134.8066,46.2092,12.9282,med,high,short,female,Kirby
+Amstaff,19913.1097,45.4074,12.7675,med,high,short,male,Hernandez
+Jack Russel Terrier,5782.7574,34.2593,13.5381,high,med,short,female,Hardy
+Amstaff,34564.4924,46.3607,13.1372,med,med,short,female,Robbins
+Amstaff,26301.8197,46.5904,12.9,med,high,short,male,Walton
+Daschhund,6385.639,,13.1717,high,low,med,female,Kent
+Daschhund,7998.7368,20.8887,12.4995,high,med,short,female,Lane
+Daschhund,12068.1902,22.0282,13.4293,high,med,short,male,West
+Airedale Terrier,19829.8698,57.4819,11.7567,high,high,med,male,Johnson
+Daschhund,11067.6343,20.4506,13.1007,high,med,med,female,Arroyo
+Amstaff,28940.6212,45.3194,12.8853,med,high,short,female,Morris
+Daschhund,14315.9477,20.5286,13.0186,high,high,short,male,Odom
+Amstaff,26595.2439,46.6315,13.0004,med,high,short,male,Hoffman
+Amstaff,25381.7482,47.0552,13.4904,high,high,short,male,Kennedy
+Amstaff,27054.5805,45.996,13.2283,med,med,short,male,Jackson
+Airedale Terrier,21898.2456,57.1269,11.9662,high,med,med,female,Young
+Jack Russel Terrier,8986.1864,34.9944,13.8838,high,med,short,female,Costa
+Daschhund,12950.5486,,12.6484,high,low,short,male,Mercer
+Airedale Terrier,20711.722,,12.8919,high,high,med,female,Cuevas
+Airedale Terrier,23324.9031,57.5458,11.4673,high,high,med,male,Jones
+Daschhund,18232.848,20.1919,13.1253,high,med,short,male,Brown
+Airedale Terrier,19356.17,56.848,12.2231,high,high,med,male,Wright
+Amstaff,23106.0687,,13.574,med,med,short,female,Esparza
+Daschhund,14152.2417,22.6174,13.3969,high,med,short,female,Smith
+Daschhund,14030.9926,,13.6347,high,high,short,female,Perez
+Amstaff,24214.2695,45.6569,13.1904,high,med,short,female,Rios
+Jack Russel Terrier,6563.9443,32.6814,14.6356,high,med,short,male,Fitzgerald
+Amstaff,21196.0478,44.7323,12.7928,med,high,short,male,Dixon
+Amstaff,30663.4174,46.3284,12.9619,med,high,short,male,Williams
+Amstaff,25254.6129,,13.4704,med,high,short,female,Diaz
+Airedale Terrier,19401.9538,58.3259,11.7041,high,high,med,male,Johnson
+Airedale Terrier,19468.1833,57.3973,11.3584,high,high,med,male,Spencer
+Daschhund,7985.2873,20.1174,13.8333,high,high,short,female,Miller
+Amstaff,28430.6379,46.5512,13.6558,med,high,med,male,Clark
+Jack Russel Terrier,5126.4904,34.4362,13.3649,high,med,short,female,Webb
+Airedale Terrier,20424.6356,55.7605,11.5999,high,high,med,male,Henderson
+Airedale Terrier,19183.9792,58.0401,10.8812,high,high,med,male,Cunningham
+Jack Russel Terrier,5991.8324,,14.6929,high,med,short,female,Bryan
+Daschhund,3456.6341,20.8438,13.0264,high,med,short,female,Hebert
+Jack Russel Terrier,6926.8657,33.691,14.6391,high,low,short,female,Wright
+Daschhund,11395.9096,20.9516,13.6917,high,low,short,female,Moreno
+Daschhund,15357.6331,19.4149,13.2335,high,high,med,male,Sweeney
+Amstaff,21856.8302,45.8055,11.8263,med,med,short,male,Ali
+Jack Russel Terrier,5824.918,33.7875,13.4988,high,med,med,female,Webb
+Airedale Terrier,22077.3988,57.2159,12.2464,high,high,med,male,White
+Airedale Terrier,18045.5244,56.6018,11.5846,high,high,med,male,Andrews
+Airedale Terrier,19567.25,56.1109,11.2281,high,high,med,female,Grimes
+Jack Russel Terrier,7756.0416,,14.8838,high,med,short,female,Snyder
+Amstaff,18868.0292,45.7958,13.0636,high,high,short,female,Murray
+Airedale Terrier,20897.5133,57.5842,12.5652,high,high,short,female,Turner
+Amstaff,25821.1416,45.7632,12.4599,low,high,short,male,Joshua
+Jack Russel Terrier,7177.1641,33.6811,14.7115,high,med,med,male,Cohen
+Jack Russel Terrier,6454.6422,,14.3818,med,med,short,male,Johnson
+Amstaff,22912.6507,45.1378,12.9503,med,high,short,male,Larsen
+Airedale Terrier,21926.1036,57.2039,12.2322,high,med,med,female,Lane
+Amstaff,24514.1056,46.0697,13.1861,med,high,short,female,Thompson
+Jack Russel Terrier,6050.6838,33.9338,14.3454,high,med,short,female,Smith
+Jack Russel Terrier,5491.1296,35.4209,14.1104,high,med,short,female,Stein
+Jack Russel Terrier,6766.7071,,13.4325,high,med,short,male,Ray
+Amstaff,24002.8885,45.9435,12.3756,med,high,short,female,Miller
+Airedale Terrier,18859.3279,56.6306,13.5167,high,high,med,female,Kim
+Daschhund,14280.6284,21.2652,14.4202,high,med,short,male,Lloyd
+Airedale Terrier,18997.9229,56.9728,11.699,high,high,short,male,Lee
+Jack Russel Terrier,5932.1034,34.2613,14.3755,high,med,short,female,Gamble
+Amstaff,22449.3788,45.9633,13.1999,low,high,short,male,Walters
+Amstaff,25093.5177,46.3082,13.4606,high,high,med,female,Casey
+Airedale Terrier,20479.9434,56.7475,11.0872,high,high,long,female,Reyes
+Jack Russel Terrier,7025.3937,33.6777,12.8426,high,med,short,female,White
+Daschhund,16052.2128,21.9646,12.7121,high,med,med,female,Gibson
+Daschhund,17042.2816,,13.0071,high,med,short,male,Stanley
+Airedale Terrier,19280.3435,57.4477,11.9936,high,high,med,female,Jones
+Jack Russel Terrier,5969.5316,,13.7204,high,med,short,male,Sexton
+Airedale Terrier,19897.276,56.4987,10.2088,high,high,short,female,Carroll
+Amstaff,19653.1905,45.1454,12.9223,low,high,short,male,Gonzalez
+Jack Russel Terrier,7174.5026,34.0096,14.4346,high,med,short,female,Quinn
+Amstaff,26074.9421,45.6062,12.881,med,high,short,male,Carney
+Jack Russel Terrier,6720.1965,33.4288,13.4958,med,med,med,female,Bowman
+Jack Russel Terrier,6423.7835,34.6054,15.0997,med,med,short,male,Friedman
+Amstaff,21729.2704,45.6811,12.8071,med,high,short,female,Johnson
+Amstaff,29067.2682,,12.9634,med,high,short,female,Allen
+Amstaff,18238.2967,45.8196,12.8162,med,high,short,female,Murphy
+Amstaff,24998.2536,46.7377,12.8989,med,high,short,female,Bender
+Daschhund,9859.1202,21.2787,13.859,high,low,med,female,Cooper
+Jack Russel Terrier,6398.8916,,13.9978,high,med,short,female,Brown
+Airedale Terrier,22114.8308,57.699,10.8938,med,high,med,male,Vega
+Airedale Terrier,20286.1085,58.063,10.5581,high,high,med,female,Clark
+Jack Russel Terrier,6343.0204,33.4165,13.6047,high,med,short,male,Johnston
+Amstaff,17378.1756,46.6772,12.4246,med,high,short,female,Reynolds
+Airedale Terrier,20108.9604,56.352,10.2598,high,high,long,female,White
+Daschhund,8478.4985,21.7885,12.9618,high,med,short,male,Bowers
+Airedale Terrier,21342.2937,57.4166,11.1192,high,high,med,female,Blankenship
+Airedale Terrier,19745.1261,57.5195,9.9156,high,high,short,female,Rodriguez
+Daschhund,9731.0316,20.7315,13.9226,high,med,med,male,Lane
+Amstaff,26432.0179,46.2885,13.7744,med,high,short,male,Palmer
+Daschhund,10933.5089,21.7784,14.1426,high,med,short,female,Baker
+Airedale Terrier,20112.3929,57.3661,12.1158,high,high,med,female,Hurley
+Jack Russel Terrier,7050.6223,35.1343,14.7103,high,med,short,male,Garza
+Amstaff,24203.7091,46.0553,13.1808,high,high,short,male,Montoya
+Amstaff,27652.1227,46.1382,12.539,high,high,short,female,Sanders
+Amstaff,36025.081,46.0413,13.1149,med,high,short,female,Williams
+Amstaff,20294.7304,45.9627,13.8208,med,high,short,male,Casey
+Airedale Terrier,19074.9933,57.2087,10.7229,high,med,med,female,Rubio
+Daschhund,12251.757,20.7161,13.4986,high,med,short,female,Anderson
+Jack Russel Terrier,7179.8023,34.9553,13.1473,high,med,short,male,Gonzalez
+Airedale Terrier,20673.3831,56.4372,11.1932,high,high,med,female,Hernandez
+Jack Russel Terrier,6249.7193,33.1204,13.819,high,med,short,female,Hernandez
+Amstaff,31243.5789,46.358,13.1036,med,med,short,male,West
+Jack Russel Terrier,6111.8342,34.2395,14.9466,high,high,short,male,Flores
+Amstaff,25868.6795,45.6643,13.6753,med,med,short,female,Gutierrez
+Jack Russel Terrier,5792.0821,34.262,14.4274,high,low,med,male,Carson
+Daschhund,7932.1817,19.944,12.6209,med,med,short,female,Mckenzie
+Airedale Terrier,16332.5847,56.8251,11.7366,high,high,long,male,Robinson
+Jack Russel Terrier,7583.6073,33.7836,14.8193,high,med,short,male,Simpson
+Jack Russel Terrier,5570.6065,33.0881,14.7996,high,med,short,male,Leach
+Amstaff,23967.8238,46.4436,13.2378,med,high,short,female,Garcia
+Amstaff,28891.6186,45.8494,13.3351,med,high,short,female,Keith
+Jack Russel Terrier,5750.85,34.6764,14.2485,high,med,short,male,Weaver
+Daschhund,9818.8132,21.7885,14.3562,high,med,short,female,Ramsey
+Airedale Terrier,21476.7117,56.5391,10.3066,high,high,med,male,Turner
+Daschhund,8001.8825,21.0612,12.6079,high,med,short,male,Cox
+Jack Russel Terrier,6911.435,,12.6744,high,med,short,female,Koch
+Amstaff,24142.2986,44.7039,12.0346,med,high,short,female,Phillips
+Amstaff,29586.7716,47.1305,12.667,med,high,short,female,Wesley
+Airedale Terrier,19494.8808,57.299,12.1136,high,high,med,female,Morrison
+Jack Russel Terrier,6198.5194,33.3928,13.1404,high,med,short,male,Scott
+Jack Russel Terrier,7389.0995,34.7654,14.3865,high,med,short,female,Scott
+Daschhund,15651.5301,,13.4585,med,high,med,female,Robinson
+Amstaff,25108.4783,45.6836,12.8287,med,med,short,female,Lopez
+Daschhund,9727.6878,20.759,12.7871,high,med,short,male,Hill
+Amstaff,27560.5285,45.7336,13.7529,high,high,short,male,Bell
+Daschhund,14218.4253,20.0986,12.3242,med,med,short,female,Hernandez
+Daschhund,10894.5657,20.7377,12.3007,med,med,short,male,Reilly
+Jack Russel Terrier,6774.0947,32.7818,14.6099,high,low,med,female,Barnes
+Jack Russel Terrier,6609.4273,34.0764,14.3433,high,med,short,male,Veronica
+Daschhund,5452.5916,,13.2992,high,med,med,male,Moses
+Amstaff,23060.4782,45.1699,12.9614,med,high,short,female,Rivas
+Jack Russel Terrier,6407.9623,34.8986,13.2871,med,high,short,male,Lewis
+Amstaff,30984.283,,12.9803,med,high,short,female,Singh
+Airedale Terrier,20368.6512,57.5021,11.3522,high,high,med,female,Nguyen
+Daschhund,11930.5292,21.2677,12.8376,high,med,short,female,Hayes
+Jack Russel Terrier,7727.884,34.1492,13.7629,high,med,short,female,Allen
+Jack Russel Terrier,6875.6036,33.9031,14.2793,med,med,short,male,Davis
+Airedale Terrier,23280.7685,55.5067,10.6551,high,high,short,female,Brown
+Jack Russel Terrier,6336.8745,34.7189,13.4982,high,med,short,female,Rocha
+Amstaff,26345.8497,46.9197,13.2026,med,high,med,female,Villanueva
+Airedale Terrier,20781.7582,57.2715,10.9531,med,high,med,female,Murray
+Airedale Terrier,20968.1553,,11.7008,high,high,med,male,Estrada
+Amstaff,25148.9657,44.8129,13.2872,high,high,short,female,Mcfarland
+Jack Russel Terrier,7078.9161,33.6847,14.1395,high,med,short,female,Henry
+Jack Russel Terrier,5478.7738,34.6052,12.8224,high,med,short,female,Obrien
+Jack Russel Terrier,6330.7998,34.6609,13.9704,med,med,short,male,Todd
+Airedale Terrier,22729.9016,56.845,11.0381,high,high,med,female,White
+Jack Russel Terrier,7056.6359,33.3617,14.9392,high,med,short,female,Smith
+Jack Russel Terrier,7217.3217,33.7978,14.303,high,med,med,female,Wells
+Amstaff,20200.2297,45.3511,13.5278,med,high,short,male,Burke
+Daschhund,7012.2311,20.5436,12.728,high,med,short,male,Wright
+Amstaff,29141.4584,45.2834,12.3725,low,high,med,female,Jennings
+Daschhund,12053.3341,20.7612,13.7915,high,low,short,female,Kathryn
+Airedale Terrier,18527.4241,57.4325,10.3145,high,high,short,male,Nguyen
+Amstaff,31493.6658,46.5152,13.052,med,high,med,male,Carr
+Jack Russel Terrier,6704.2609,34.1991,13.9795,high,med,short,male,Fischer
+Daschhund,12555.6966,20.4938,13.2699,high,med,short,female,Barrera
+Daschhund,12960.1348,21.182,12.5705,high,med,short,male,Christian
+Amstaff,24262.9448,46.3536,12.9525,med,high,short,male,Avila
+Amstaff,23642.8838,,13.1699,low,high,short,female,Ford
+Daschhund,11304.9924,21.445,13.7651,high,med,short,female,Johnson
+Jack Russel Terrier,5806.1452,,13.9733,high,high,short,female,Ross
+Daschhund,10848.4168,20.2489,13.0825,high,high,short,female,Conley
+Daschhund,13487.8982,21.8151,12.1608,high,med,short,female,Gilbert
+Amstaff,29355.9939,46.2429,13.066,high,high,short,female,Schultz
+Airedale Terrier,21858.2531,56.6537,9.0056,high,high,med,female,Woods
+Jack Russel Terrier,5545.4042,34.0727,14.9256,med,low,short,male,Sutton
+Jack Russel Terrier,7175.7438,34.1019,14.0554,med,med,short,male,Hall
+Daschhund,11305.9335,,13.21,high,med,short,male,Garza
+Jack Russel Terrier,7225.5253,35.0996,13.7173,med,med,short,female,Sweeney
+Jack Russel Terrier,6682.0684,34.684,13.0168,high,med,short,male,Murphy
+Daschhund,9104.3364,20.8351,13.2705,high,med,short,female,Miller
+Amstaff,19786.8059,45.6219,12.6761,med,high,short,male,Hernandez
+Daschhund,3254.4568,21.2539,13.6574,high,med,short,male,Allen
+Daschhund,12638.803,20.8065,13.2715,high,med,short,male,Huffman
+Daschhund,10856.2538,21.3378,12.9913,high,med,short,male,Hancock
+Airedale Terrier,18869.2615,57.0236,11.0365,high,high,med,male,Ward
+Jack Russel Terrier,4839.1368,33.9143,14.3685,high,low,short,female,King
+Airedale Terrier,22477.5976,57.8767,11.7013,high,med,med,male,Mitchell
+Amstaff,29611.7762,45.9177,13.5157,med,high,short,female,Hill
+Amstaff,26981.9973,,13.1421,low,high,short,female,Lopez
+Airedale Terrier,22997.7978,57.1744,11.3111,high,high,med,male,Samantha
+Airedale Terrier,21067.9655,56.7527,11.6918,high,high,med,male,Rogers
+Daschhund,9659.5127,,12.9027,high,med,short,male,Walker
+Daschhund,8615.4841,,14.2167,high,med,short,female,Gonzalez
+Jack Russel Terrier,6909.88,34.1531,14.315,high,high,med,male,Garrett
+Airedale Terrier,19935.402,57.0541,12.5113,high,high,med,male,Chavez
+Amstaff,28478.773,45.6952,12.6095,med,high,short,male,Taylor
+Jack Russel Terrier,6793.751,33.5561,14.1522,high,med,short,male,Dickerson
+Airedale Terrier,19790.3695,57.433,11.1685,high,high,short,male,Johnson
+Airedale Terrier,21848.0553,57.7844,12.1313,high,high,short,male,Nelson
+Airedale Terrier,23181.6065,56.4458,11.4944,high,med,med,female,Taylor
+Amstaff,27390.3004,,11.9025,med,high,short,male,Vasquez
+Airedale Terrier,16459.6231,,11.7488,med,high,med,female,Miller
+Airedale Terrier,18965.9922,56.0402,10.2605,high,high,med,female,Karen
+Daschhund,8155.0093,,12.4249,med,high,short,male,Rivera
+Amstaff,27463.8538,,11.4116,med,high,short,male,Harding
+Jack Russel Terrier,6634.9625,34.2065,14.3335,med,med,short,female,Petty
+Jack Russel Terrier,5894.2636,32.8915,14.2327,high,low,short,male,Villarreal
+Daschhund,15076.4085,19.7589,12.4082,high,med,short,male,Watson
+Amstaff,17773.9537,46.112,13.0846,high,high,short,female,Glass
+Amstaff,25125.3972,,13.6209,med,high,short,female,Clarke
+Airedale Terrier,20007.2158,57.5184,12.2856,high,high,long,male,Clark
+Jack Russel Terrier,6898.0901,,14.7644,high,low,short,female,Lewis
+Airedale Terrier,22780.5323,56.0499,12.6761,high,high,med,male,Harrington
+Amstaff,29259.7167,45.3386,13.8221,med,high,short,male,Hill
+Amstaff,22830.4069,46.2179,14.2354,med,high,short,male,Sutton
+Amstaff,25270.1309,,13.5475,med,high,short,female,Murphy
+Jack Russel Terrier,6412.9584,34.4861,14.0604,high,high,short,male,Gardner
+Jack Russel Terrier,6677.8936,,14.0846,med,high,short,male,Taylor
+Amstaff,25237.1996,,12.3047,high,high,short,female,Conway
+Airedale Terrier,21769.4782,,10.981,med,high,short,male,Kimberly
+Amstaff,21618.2732,46.5218,13.5594,high,high,short,male,White
+Amstaff,27180.2495,45.6599,13.1786,med,high,short,female,Williams
+Daschhund,13240.4506,21.5214,12.4774,med,high,short,female,Burnett
+Daschhund,5822.3569,20.4381,12.9408,high,med,short,male,Mcclain
+Daschhund,8175.2716,,13.6293,high,med,med,female,Hurley
+Daschhund,11168.0994,,12.7947,med,med,short,female,Hawkins
+Airedale Terrier,19570.2035,57.1708,12.9809,high,high,med,male,Valencia
+Amstaff,22217.1258,,12.9479,med,high,short,male,Soto
+Jack Russel Terrier,7123.8644,33.4202,13.9554,med,med,short,male,Drake
+Airedale Terrier,19183.7865,56.5428,11.7551,high,high,med,female,Freeman
+Jack Russel Terrier,6793.5796,33.3265,14.1359,high,med,short,male,Glover
+Daschhund,10823.0255,21.3156,12.7393,high,high,short,female,Barber
+Daschhund,11022.5012,20.1767,12.0359,high,med,short,male,Atkins
+Jack Russel Terrier,5732.7156,33.8338,15.0884,high,med,short,male,Dennis
+Daschhund,3982.569,,13.2377,high,med,short,male,Garza
+Amstaff,30920.2528,,12.3514,med,high,short,male,Johnson
+Amstaff,21765.7068,45.7942,12.0775,med,high,short,female,Hudson
+Airedale Terrier,21219.831,56.4986,11.5991,high,high,med,female,Best
+Amstaff,24535.0232,46.58,12.8487,high,med,short,male,Kennedy
+Amstaff,29306.2311,45.9944,12.0993,med,high,short,male,Cameron
+Daschhund,11168.2832,21.9972,12.914,high,med,short,male,Evans
+Amstaff,22150.4698,45.0839,12.9244,med,high,short,male,Dalton
+Jack Russel Terrier,6996.7278,,14.1373,high,med,short,female,Mendoza
+Jack Russel Terrier,6673.8855,34.7408,14.0327,high,high,med,male,Wallace
+Amstaff,23189.5509,46.2733,12.971,high,high,short,male,Stuart
+Jack Russel Terrier,6430.0025,34.5501,13.2444,med,med,short,female,Perez
+Amstaff,28522.1681,47.1336,13.6858,med,high,short,male,Miller
+Jack Russel Terrier,5270.9912,33.2106,14.0349,high,low,short,female,Odonnell
+Daschhund,13954.1517,21.3833,13.1266,high,med,short,female,Galvan
+Airedale Terrier,19541.064,,12.7914,high,high,med,female,Franklin
+Amstaff,24932.1535,,13.663,med,high,short,female,Juarez
+Daschhund,11716.7629,20.2394,12.8651,high,med,short,male,Dixon
+Daschhund,9274.3723,21.1405,12.8784,med,med,short,male,Gonzalez
+Airedale Terrier,20665.8324,57.0359,11.471,high,high,med,male,Adams
+Airedale Terrier,21223.0742,56.5534,10.8719,high,high,med,male,Bates
+Airedale Terrier,18775.6041,57.0763,11.7368,high,high,med,female,Jones
+Jack Russel Terrier,6216.3775,34.676,14.1,high,med,short,male,Williams
+Airedale Terrier,19095.641,,10.2289,high,high,med,female,Walters
+Jack Russel Terrier,7586.6091,,13.5554,high,med,short,female,Smith
+Airedale Terrier,23957.7183,,11.1726,high,high,long,female,Stewart
+Amstaff,23903.3619,,13.0465,low,high,short,female,Jacobs
+Daschhund,12640.2559,21.2848,12.0829,med,high,short,female,Delgado
+Daschhund,8924.0823,19.9135,12.3613,high,med,short,female,Harris
+Airedale Terrier,18324.9571,56.3775,12.4992,high,high,med,female,Reese
+Amstaff,28890.0138,46.5327,12.7898,med,high,short,female,Snow
+Daschhund,6480.9101,20.7164,13.8,high,high,short,male,Rogers
+Daschhund,11488.4966,20.0218,12.2266,high,low,short,male,Jensen
+Amstaff,29361.3559,,13.6335,low,high,short,male,Smith
+Daschhund,9715.106,21.5107,12.6285,high,med,short,female,Chambers
+Jack Russel Terrier,5020.6961,34.137,14.4967,high,med,med,male,Sanchez
+Daschhund,12825.7089,21.4258,12.2291,high,med,short,female,Haas
+Jack Russel Terrier,7297.8214,32.9238,13.912,high,low,short,male,Nguyen
+Daschhund,7582.2988,20.5718,13.3712,high,med,short,female,Harrington
+Daschhund,12528.7567,20.4855,13.5787,high,med,short,male,Williams
+Amstaff,26412.2111,,13.6443,med,high,short,male,Vasquez
+Amstaff,21981.7185,44.9457,12.8483,med,high,short,female,Harmon
+Amstaff,29522.1805,46.1644,13.528,med,high,short,female,Robertson
+Airedale Terrier,21583.6749,57.5275,11.2284,high,high,med,female,Foley
+Amstaff,24961.626,,13.4102,med,med,short,male,Marshall
+Daschhund,7033.804,21.132,12.5796,high,med,short,male,Joseph
+Daschhund,12541.0667,20.8414,13.26,high,med,short,male,Harrington
+Jack Russel Terrier,6680.6745,,13.7454,high,med,short,female,Gross
+Airedale Terrier,16679.1205,56.8539,9.7128,high,high,med,male,Harding
+Airedale Terrier,21484.596,57.1786,12.3102,high,high,med,male,Keller
+Jack Russel Terrier,7911.6449,34.0089,13.7426,high,med,short,male,Nunez
+Daschhund,7836.948,21.8771,13.2089,high,med,short,female,Crawford
+Amstaff,27953.0066,45.5553,13.5809,low,high,short,male,Rios
+Airedale Terrier,19709.1062,55.9717,12.7199,high,high,short,female,Anderson
+Airedale Terrier,21446.8936,,11.1905,high,med,med,female,Davis
+Amstaff,27281.8869,45.8055,12.9382,med,high,short,male,Moore
+Airedale Terrier,20333.3816,57.0585,12.1618,high,high,med,female,Lee
+Jack Russel Terrier,6711.2652,33.739,13.9147,high,med,short,male,Bradley
+Amstaff,23536.2188,45.4272,13.1599,med,high,med,female,Jimenez
+Airedale Terrier,21069.9454,56.5196,11.6686,high,high,med,female,Newton
+Jack Russel Terrier,7051.4822,33.4309,14.7345,high,high,med,female,Holmes
+Jack Russel Terrier,6967.2578,33.6388,13.542,high,low,short,female,Mcbride
+Jack Russel Terrier,5875.1729,,14.9821,high,med,short,female,Smith
+Airedale Terrier,18853.8739,57.0467,11.1737,high,high,med,female,Good
+Amstaff,21606.8088,47.0405,13.8885,med,high,short,male,Mercado
+Amstaff,26779.1207,45.6773,12.5739,med,high,med,male,Smith
+Amstaff,24639.4445,45.8397,12.8915,med,med,short,male,Henry
+Jack Russel Terrier,6441.1585,,13.707,high,med,short,male,Cole
+Amstaff,28914.912,,13.2831,high,high,short,female,Bailey
+Airedale Terrier,16172.5006,56.7286,11.4509,high,high,long,male,Matthews
+Airedale Terrier,22313.5194,,12.0602,high,high,med,male,Cunningham
+Jack Russel Terrier,6513.3173,35.2209,13.935,high,med,short,male,Griffin
+Daschhund,14652.985,20.7836,13.5799,high,med,med,female,Hunt
+Jack Russel Terrier,6676.1177,,13.2696,high,med,short,female,Clark
+Amstaff,25194.8814,46.9841,12.6855,high,high,short,female,Reyes
+Amstaff,30223.3596,,13.0337,med,high,short,female,Nelson
+Daschhund,13692.6906,,12.2429,high,med,short,female,Taylor
+Airedale Terrier,23209.7971,56.3239,10.4038,high,high,med,male,Allen
+Airedale Terrier,20580.2793,56.9245,12.058,high,high,short,male,Delacruz
+Amstaff,22561.7672,45.4326,12.7193,med,high,short,male,Bradshaw
+Amstaff,28656.1399,45.8542,14.101,low,high,short,male,Mullen
+Amstaff,27158.526,45.6353,13.5243,med,high,short,female,Velez
+Daschhund,9384.0192,,13.0943,high,high,short,male,Blackwell
+Airedale Terrier,19845.7335,57.6124,10.3522,high,high,med,female,Jones
+Amstaff,24042.6323,45.997,12.1207,low,high,short,male,Calderon
+Amstaff,29628.7029,45.9008,11.6131,med,high,short,female,Brooks
+Amstaff,29717.5202,46.1089,12.965,med,high,short,female,Stewart
+Jack Russel Terrier,6471.2563,35.4692,13.888,high,med,short,female,Brown
+Jack Russel Terrier,7428.321,34.8833,14.3188,high,med,short,female,Thompson
+Amstaff,29947.5342,46.8357,11.9766,med,high,short,male,Love
+Amstaff,19832.2147,45.895,13.2507,med,high,short,male,Howard
+Amstaff,23605.4947,46.7785,13.1943,low,high,short,male,Lawson
+Jack Russel Terrier,5386.3058,34.4775,14.8145,high,med,short,female,Washington
+Jack Russel Terrier,6592.6675,34.487,13.3046,high,med,short,male,Keller
+Daschhund,13574.4412,20.1083,13.7816,high,med,short,male,Blake
+Jack Russel Terrier,7164.9452,34.5533,14.2401,high,med,short,male,Garcia
+Airedale Terrier,22012.6106,57.7233,11.6081,high,high,med,male,Bennett
+Daschhund,8847.6432,20.895,13.522,high,med,short,male,Berry
+Jack Russel Terrier,5841.9292,,13.379,med,med,short,male,Coleman
+Airedale Terrier,20652.8986,56.8116,12.5771,med,high,short,female,Martinez
+Amstaff,23348.2792,46.5524,12.4119,med,high,short,male,Moore
+Daschhund,7187.5568,21.4954,13.362,high,high,short,male,Davis
+Daschhund,10361.1677,20.2664,11.9504,high,med,short,female,Bradshaw
+Jack Russel Terrier,5008.3757,33.1474,13.322,high,high,short,male,Knight
+Daschhund,6613.5174,20.2383,12.857,high,med,short,female,Edwards
+Airedale Terrier,21328.1791,57.3835,11.5995,high,high,med,male,Meyer
+Daschhund,8992.4889,21.2831,12.1729,high,med,short,female,Mcmahon
+Airedale Terrier,20368.0889,56.8945,11.504,high,high,long,female,Marsh
+Airedale Terrier,18205.4872,56.5899,10.9126,high,med,long,male,Young
+Daschhund,4771.1665,20.7992,12.4886,high,high,short,female,Farrell
+Jack Russel Terrier,6850.8759,33.5483,13.6792,high,high,short,male,Sanchez
+Amstaff,27774.3222,,13.6471,med,high,short,male,Coleman
+Jack Russel Terrier,7918.2192,34.0478,13.8639,high,low,short,male,Moreno
+Daschhund,13340.7933,21.5531,11.9293,high,med,short,male,Reynolds
+Airedale Terrier,20505.2008,,11.7436,high,high,med,female,Smith
+Jack Russel Terrier,6642.2769,33.3306,13.7579,high,med,short,female,Miller

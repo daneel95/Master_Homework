@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Pug,6891.7817,33.6434,13.4965,low,high,short,female,Nelson
+Beagle,9451.3155,,13.0032,high,high,short,female,Nolan
+Beagle,9908.6436,33.7651,12.9111,med,high,short,male,Vasquez
+Airedale Terrier,18568.6778,56.6977,10.3255,high,high,short,female,Stevenson
+Daschhund,14480.9093,20.9458,12.7326,high,low,short,female,Jones
+Daschhund,6889.7748,20.8011,13.3453,high,med,med,female,Thomas
+Pug,7488.7534,30.3182,11.8042,med,high,short,female,Peters
+Pug,6086.5257,28.8735,13.5798,med,high,short,female,Walsh
+Daschhund,8962.2804,20.6343,13.0011,high,med,short,female,Simmons
+Beagle,9753.0052,38.0483,14.1416,med,high,short,female,Jones
+Pug,7805.8174,36.31,13.9499,med,high,short,male,Cantu
+Daschhund,8619.3604,20.2847,13.3354,med,med,short,male,Colon
+Pug,7140.5659,36.416,13.306,low,high,short,male,Barrera
+Daschhund,11132.4788,22.0993,13.331,high,med,short,male,Stanley
+Beagle,11074.8419,34.3359,13.2747,med,high,short,female,Carroll
+Pug,7715.6955,,13.488,med,high,short,female,Green
+Beagle,9209.055,35.9968,13.5524,med,high,short,male,Bates
+Pug,7044.6498,27.9897,13.277,med,high,short,female,Payne
+Airedale Terrier,21577.5296,,12.1732,high,high,med,female,Johnson
+Daschhund,10532.8016,21.9614,11.8396,high,med,short,female,Ochoa
+Beagle,10560.9009,32.7325,11.7289,high,med,short,male,Townsend
+Beagle,9041.8608,36.0462,12.7271,med,high,med,female,Pena
+Airedale Terrier,17859.6877,57.6371,10.9283,high,high,med,female,Davis
+Beagle,9353.9491,35.8832,13.7015,med,high,short,female,Bell
+Airedale Terrier,22335.8341,56.3494,9.5621,high,med,med,female,Conner
+Pug,6959.8604,36.1677,13.4012,med,high,short,female,Rodriguez
+Airedale Terrier,18534.5104,57.6265,11.7439,high,high,med,female,Rodriguez
+Beagle,11706.8407,37.3504,13.9824,med,high,short,female,Sandoval
+Daschhund,7282.5325,,12.0143,high,low,short,male,Russell
+Airedale Terrier,22927.1809,56.9825,10.6289,high,high,med,female,Graham
+Daschhund,8374.2351,20.8982,13.2051,high,med,med,female,Griffith
+Beagle,12901.3539,34.8417,14.72,med,med,short,female,Webb
+Pug,6669.1443,36.0999,14.0055,med,high,short,male,Baker
+Pug,7161.2478,36.336,13.4388,high,high,short,male,Mcconnell
+Pug,6252.6839,33.4596,15.4623,med,high,short,female,Lewis
+Beagle,10169.0564,33.7315,13.6849,med,high,short,male,Holland
+Daschhund,10970.8323,20.3889,13.3823,high,med,short,male,Smith
+Beagle,12062.712,38.3111,11.4943,med,high,short,male,Pierce
+Beagle,11373.7132,35.5169,13.839,med,high,short,male,Robinson
+Daschhund,1986.1033,20.0743,13.3988,high,med,short,male,Yates
+Pug,7515.255,34.148,12.0484,low,med,short,female,Castillo
+Pug,6462.3979,31.1398,14.1827,med,high,short,female,Davidson
+Airedale Terrier,21593.884,56.4624,9.7901,high,high,med,female,Francis
+Airedale Terrier,20835.8101,,14.0072,high,high,med,male,Jones
+Airedale Terrier,19808.6171,56.4001,10.8764,high,high,short,male,Mccann
+Pug,5920.1189,30.4566,12.9617,med,high,short,male,Walker
+Daschhund,11150.6043,22.3962,12.3223,med,med,short,female,Wolf
+Daschhund,5609.7752,20.7439,12.8046,high,med,short,female,Wilson
+Beagle,10264.2335,38.1651,12.7291,low,high,short,male,Crawford
+Daschhund,12617.4931,20.4009,13.6672,high,med,short,male,Powers
+Pug,6422.8714,30.0957,15.2098,med,high,short,female,Wood
+Daschhund,8392.0252,20.931,14.1022,med,med,short,female,Woods
+Pug,7212.2914,30.1561,13.835,med,high,short,male,Pierce
+Beagle,13911.5023,34.9847,13.1653,med,high,short,female,Reid
+Airedale Terrier,21148.6593,,10.1953,high,high,med,male,Spencer
+Pug,6542.3194,35.3516,14.1316,med,high,short,male,Cole
+Pug,6829.0552,30.8853,13.122,med,high,short,male,Roberts
+Beagle,11731.4161,33.5829,13.2932,med,high,short,male,Wall
+Airedale Terrier,19981.4468,56.2716,10.3635,high,high,med,female,Rodriguez
+Airedale Terrier,22689.8744,57.4896,12.3484,high,high,med,female,Pratt
+Pug,7447.9894,41.7057,14.5549,med,high,short,male,Kelly
+Daschhund,7281.5043,21.1148,12.9133,high,med,med,female,Hatfield
+Daschhund,7726.6347,20.7056,11.5283,high,med,short,female,Vasquez
+Airedale Terrier,19002.0164,57.0708,11.8447,high,high,med,male,Smith
+Airedale Terrier,19884.8046,55.4041,13.6591,high,high,med,male,Williams
+Airedale Terrier,22746.4741,56.5295,12.1083,high,med,med,female,Williams
+Airedale Terrier,22639.5058,57.3285,10.8647,high,high,med,male,Hawkins
+Beagle,10380.4065,34.9373,13.8417,high,high,short,female,Boyle
+Beagle,10300.4975,34.3155,13.1081,med,high,short,female,Mata
+Pug,6768.6359,36.0471,12.9455,low,high,short,female,Osborn
+Daschhund,12895.3746,,13.3229,high,med,short,male,Rice
+Airedale Terrier,22776.4416,57.4012,12.2087,med,high,med,male,Lopez
+Airedale Terrier,19911.2638,56.9595,12.4507,high,high,med,male,Chaney
+Beagle,9517.4844,34.2747,14.0504,low,high,short,female,Gamble
+Pug,7872.5897,33.0344,14.2764,med,high,short,male,Miller
+Pug,6137.5231,,13.0772,med,high,med,male,Jones
+Pug,7096.0778,,14.3451,med,high,short,female,Price
+Pug,7877.6777,33.3559,13.8303,med,med,short,male,Schroeder
+Beagle,10904.3061,36.9687,15.2841,med,high,short,male,Johnson
+Airedale Terrier,21744.1703,56.6595,10.9784,high,high,med,female,Lowery
+Pug,7360.1862,30.8877,14.2049,low,high,short,male,Barker
+Daschhund,12994.3294,19.9936,13.5913,high,med,short,male,Evans
+Beagle,14109.1485,,13.5937,low,high,short,male,Sanchez
+Pug,7832.9684,,13.5604,med,high,short,female,Thomas
+Airedale Terrier,20001.4987,57.4143,10.5386,high,med,long,male,Butler
+Airedale Terrier,20998.8487,57.0547,11.9304,high,high,med,female,Thomas
+Daschhund,4559.1682,21.4018,13.6548,high,high,short,female,White
+Beagle,9509.8476,34.9439,13.5788,med,high,short,male,Williams
+Daschhund,13398.6439,,13.0635,high,med,short,male,Ray
+Beagle,9887.0837,36.0475,14.057,high,high,med,female,Goodman
+Daschhund,9448.441,21.0965,13.6993,high,med,short,male,Laura
+Beagle,11222.6938,,13.1867,low,high,short,male,Smith
+Daschhund,9453.8636,20.6269,13.0232,high,med,short,female,Henderson
+Pug,6178.034,34.4462,12.9868,med,high,med,female,Acosta
+Daschhund,12534.6223,21.9753,13.1225,med,low,short,male,Atkinson
+Daschhund,7134.4294,20.3969,13.0261,med,med,short,female,Olson
+Daschhund,8398.8189,19.9432,12.4999,high,med,short,female,Meyer
+Pug,6870.0965,33.5043,13.8632,low,high,short,female,Parrish
+Daschhund,10521.8787,21.41,12.1255,high,med,short,female,Murphy
+Airedale Terrier,20450.4845,56.4611,10.2044,med,high,long,female,Long
+Daschhund,10808.0172,21.1301,13.0075,high,med,short,female,Davis
+Beagle,8506.5129,37.774,13.6675,med,high,short,female,Warner
+Beagle,9723.5375,36.7219,13.8654,med,high,short,male,Abbott
+Beagle,10272.6797,35.8457,11.9201,med,high,short,female,James
+Airedale Terrier,21190.523,57.0015,11.28,high,high,med,female,Cox
+Beagle,11608.2838,34.2602,13.3705,med,high,short,male,Logan
+Daschhund,10997.1216,20.7027,13.5351,high,med,short,male,Davis
+Airedale Terrier,20514.8764,57.1499,10.5957,high,high,short,male,Phillips
+Pug,7271.1506,32.5928,13.3404,high,high,med,male,Hayes
+Daschhund,7849.3871,21.2958,12.9166,high,med,short,female,Mcfarland
+Beagle,8159.467,33.452,13.2493,med,high,med,female,Little
+Daschhund,11972.3813,20.2604,13.4325,high,med,short,male,Haynes
+Airedale Terrier,19122.8007,56.9463,10.7856,med,high,med,male,Jeffrey
+Pug,7593.892,35.7741,12.9281,med,high,short,female,Preston
+Airedale Terrier,22557.7751,57.8077,10.5886,high,high,med,female,Johnson
+Airedale Terrier,20029.455,56.6489,12.1732,high,high,med,male,Leonard
+Daschhund,12796.223,,12.6448,med,med,short,male,Hammond
+Beagle,11762.8449,34.5039,12.9647,med,high,short,female,Flynn
+Pug,6576.5131,34.5639,13.5158,med,high,short,male,Lowery
+Pug,7372.8103,,13.3123,med,high,short,male,Garrett
+Beagle,8203.548,35.4646,13.4579,med,high,short,male,Sanchez
+Daschhund,6288.9476,21.4817,13.9569,high,med,short,male,Fitzgerald
+Airedale Terrier,19816.0353,57.4832,12.9129,high,high,med,male,Murphy
+Pug,6996.6507,32.5782,13.9766,med,high,short,male,Kelly
+Beagle,7093.798,,13.6266,med,high,med,male,Griffith
+Daschhund,4851.6621,20.7202,13.0296,high,med,short,female,Mathews
+Pug,7579.3724,33.3724,13.7687,med,high,short,female,Lane
+Pug,6634.3881,34.3147,14.5865,low,high,short,female,Fisher
+Daschhund,9135.2353,20.6513,12.5964,high,med,short,male,Cooper
+Beagle,9747.0067,37.2297,13.1087,med,high,short,female,Baker
+Daschhund,6007.7778,21.3799,13.8389,high,med,short,female,Torres
+Pug,7386.3362,34.9,13.5223,med,high,short,male,Garza
+Airedale Terrier,19793.9769,57.1215,12.4166,high,high,med,male,Miranda
+Beagle,10210.7657,34.4155,13.6039,med,high,short,male,Carr
+Airedale Terrier,18975.5456,57.0657,11.1524,high,high,short,male,Frazier
+Pug,6270.8031,33.5373,13.8789,med,high,short,female,Washington
+Daschhund,7064.4748,20.7355,13.5677,high,med,short,male,Williams
+Pug,6544.5489,32.8452,13.1518,high,high,short,male,Armstrong
+Daschhund,8378.8908,19.9238,11.5365,high,med,short,male,Castro
+Airedale Terrier,21288.4664,57.3194,10.7374,high,high,med,female,Brown
+Daschhund,12422.0029,21.2268,14.2018,high,med,short,male,Blevins
+Pug,7067.2821,39.1204,13.7684,med,high,short,female,Hicks
+Beagle,8832.214,36.3002,12.7947,high,high,short,female,Maria
+Pug,7979.7047,28.103,12.9406,med,high,short,female,Parks
+Daschhund,12502.7217,21.3181,13.657,high,low,short,male,Kelley
+Airedale Terrier,17382.0633,56.7637,10.1483,high,high,med,female,Mcintyre
+Pug,6064.6464,33.9515,14.9343,med,high,short,male,Cohen
+Pug,7146.5585,36.7653,14.8319,high,high,med,female,Farley
+Airedale Terrier,20194.8298,57.5475,12.8516,high,high,med,female,Valdez
+Airedale Terrier,18940.1958,56.8843,11.643,high,high,short,male,Jackson
+Beagle,9174.6995,,14.6107,med,high,short,male,Buchanan
+Airedale Terrier,19855.3504,56.5746,12.4664,med,high,med,female,Garrett
+Airedale Terrier,19539.2369,57.0305,12.998,high,high,long,male,Mitchell
+Daschhund,14503.7432,,12.9034,high,med,short,female,Bautista
+Pug,5920.2761,,12.8041,med,high,short,male,Ellis
+Daschhund,11717.0829,20.3445,12.5715,high,low,short,male,Lee
+Pug,6465.8718,35.8229,14.7502,med,high,short,male,Mayer
+Airedale Terrier,20044.9644,56.8989,13.039,high,high,med,female,David
+Airedale Terrier,18846.8653,57.1833,11.2775,high,med,med,male,Wolf
+Pug,7062.6385,33.5491,12.253,high,high,med,female,Skinner
+Beagle,11213.8541,33.9184,13.0212,med,high,short,male,Whitney
+Pug,7023.5448,29.2424,12.9491,high,high,short,female,Sanders
+Daschhund,13590.7149,20.2232,13.0204,high,med,short,female,Morris
+Airedale Terrier,20366.0757,,10.0695,high,high,med,male,King
+Beagle,11446.1795,34.6624,13.1828,med,high,short,male,Jimenez
+Airedale Terrier,20473.7834,56.7271,10.5836,high,high,med,male,Smith
+Airedale Terrier,20784.5826,57.7249,10.6406,high,high,med,female,Patterson
+Daschhund,13949.2065,21.1661,13.3148,high,high,short,male,Riddle
+Airedale Terrier,20736.0465,56.9418,11.5781,high,high,long,male,Davis
+Beagle,13059.6774,34.793,14.5511,med,high,short,female,Little
+Airedale Terrier,21210.5912,57.5401,10.2761,high,high,med,female,Berger
+Airedale Terrier,19126.8677,57.5186,10.0446,high,high,med,male,Lopez
+Airedale Terrier,19900.4658,56.5999,12.8128,high,high,short,female,Walker
+Airedale Terrier,20729.4396,56.4686,12.3289,high,high,med,female,Wang
+Airedale Terrier,18373.6992,,13.0789,high,high,med,female,Ward
+Pug,5918.8687,36.4067,13.5635,med,high,short,male,Williams
+Beagle,10972.0375,37.3037,13.9993,med,high,short,male,Fitzgerald
+Pug,6882.6973,38.4887,12.2939,med,high,short,female,Hernandez
+Pug,7032.6225,43.4947,13.5871,med,high,short,male,Mays
+Airedale Terrier,23039.2812,56.1682,10.8651,high,high,short,male,Gutierrez
+Airedale Terrier,20902.7621,57.9832,13.8334,high,high,long,male,Buchanan
+Beagle,9006.5362,37.3937,15.3585,med,high,short,female,Lee
+Beagle,10637.7553,35.7515,13.199,low,high,short,female,Townsend
+Airedale Terrier,20518.8406,,11.8878,high,high,long,female,Davila
+Pug,7815.3128,32.9446,12.6486,med,high,short,male,Jones
+Airedale Terrier,20984.5967,57.5491,10.6485,high,high,med,male,Huffman
+Airedale Terrier,19805.2869,,11.5002,high,high,med,male,Mullins
+Beagle,10154.5386,,14.5444,med,high,short,male,Black
+Beagle,12004.4707,35.1238,12.4514,med,high,short,female,Ruiz
+Beagle,11123.7789,36.7566,15.4779,med,high,short,female,Stevens
+Pug,6967.7129,29.5934,14.7563,med,high,short,male,Castillo
+Pug,6619.3521,,12.8785,med,high,short,male,Ryan
+Beagle,8766.6404,35.0026,13.1053,med,high,short,female,Tate
+Pug,7929.989,31.5193,13.7194,low,high,short,female,Ramirez
+Beagle,12057.0149,33.0494,14.0037,med,high,short,male,Aguilar
+Pug,7378.5226,,13.9338,med,high,short,female,Duncan
+Pug,6116.9844,,12.3673,med,high,short,male,Stevenson
+Airedale Terrier,22436.431,56.8704,10.9679,high,high,med,female,Perez
+Pug,6044.1596,,14.3244,med,high,short,male,Jordan
+Daschhund,9286.0988,21.0808,12.9166,high,med,short,female,Boyle
+Airedale Terrier,19521.8941,57.9957,11.4626,high,high,med,female,Johnson
+Beagle,11156.2878,,13.3858,low,high,short,female,Maynard
+Daschhund,11811.9239,21.4095,12.6782,high,med,short,male,Moran
+Beagle,10112.7334,36.9097,14.6736,high,high,short,male,Glass
+Beagle,9873.6328,35.3978,15.1325,med,high,med,female,Bernard
+Daschhund,8970.1761,20.3566,13.6348,high,med,short,female,Harrison
+Pug,6159.5001,34.905,13.8631,med,high,short,male,Roberts
+Beagle,14455.027,38.558,13.1879,med,high,short,female,Jenkins
+Beagle,11041.7243,,13.8498,low,high,short,female,Walker
+Daschhund,8985.3824,21.2315,13.5459,high,low,short,male,Clarke
+Daschhund,7219.2369,21.0279,13.289,med,med,short,male,Meadows
+Airedale Terrier,20882.9326,58.303,12.9529,high,high,long,male,Herrera
+Airedale Terrier,20466.3978,57.2005,10.7423,high,high,med,male,Navarro
+Pug,7170.3883,37.1926,11.8691,med,high,short,male,Lambert
+Daschhund,10975.678,22.4823,12.4066,med,med,short,female,Gonzalez
+Beagle,10278.5156,38.5332,15.864,med,high,short,male,Cole
+Pug,7182.2059,34.7335,13.603,med,high,short,male,Mathews
+Airedale Terrier,19494.2795,56.9642,11.7959,high,high,med,female,Hansen
+Pug,6353.4201,,13.1426,med,med,short,female,Gould
+Daschhund,6175.488,20.9693,12.8433,high,med,short,female,Ward
+Pug,6404.5127,34.7622,13.4017,med,high,short,female,Cannon
+Pug,6392.3653,37.0546,13.5776,med,high,short,male,Harvey
+Airedale Terrier,20501.6516,56.296,11.5329,med,high,med,female,Brady
+Beagle,9551.087,34.5403,13.3119,med,high,short,female,Tapia
+Beagle,10737.4039,35.9085,14.4695,med,high,short,male,Mclaughlin
+Pug,6905.1013,,11.5957,med,high,short,male,Collins
+Airedale Terrier,23065.8648,56.3768,12.5089,high,high,med,female,Garza
+Daschhund,9265.7674,20.0647,12.8871,high,med,short,male,Payne
+Beagle,9210.2006,37.4947,15.1257,med,high,med,female,Evans
+Daschhund,8371.3255,20.1307,12.8152,high,med,short,male,Burton
+Pug,6470.9078,37.0057,13.6567,med,high,short,female,Lopez
+Beagle,10352.0831,,14.4995,med,high,short,male,Norris
+Daschhund,11123.2229,21.6405,11.8087,med,high,med,male,King
+Airedale Terrier,20882.5771,57.2284,11.166,high,high,med,male,Smith
+Airedale Terrier,18726.2773,56.2447,10.7568,high,high,med,male,Todd
+Airedale Terrier,17062.801,56.2299,13.5639,high,high,med,male,Santos
+Daschhund,12266.5536,21.2655,13.2306,high,med,short,female,Thornton
+Daschhund,7913.3539,21.2368,13.1049,high,med,short,male,Hall
+Airedale Terrier,21782.6581,,10.3929,high,high,med,female,Cook
+Beagle,11122.8948,35.7052,13.465,med,high,short,female,Horne
+Daschhund,10809.6833,21.3117,14.1304,med,med,short,male,Schwartz
+Airedale Terrier,19233.8018,,12.3919,high,med,med,male,Mckay
+Daschhund,14092.0649,20.2818,13.2814,high,med,med,female,Dorsey
+Airedale Terrier,22496.2226,,11.335,high,high,med,male,James
+Daschhund,8476.2396,20.048,13.2709,high,med,short,male,Lewis
+Pug,6852.4559,35.1621,13.0152,med,med,short,female,Dixon
+Daschhund,13943.0265,20.7716,13.6066,high,med,short,male,Cook
+Pug,6548.8701,,13.1692,med,high,short,female,Leonard
+Beagle,11344.7347,,13.2005,med,high,short,male,Taylor
+Daschhund,5967.0897,21.3594,13.1247,high,med,short,female,King
+Pug,7179.6294,29.8728,12.3611,med,high,short,female,Phillips
+Airedale Terrier,20941.3315,57.3205,10.1617,high,high,short,female,Richmond
+Airedale Terrier,17987.4792,56.6711,14.0363,high,med,med,female,Davidson
+Daschhund,3436.7699,20.4032,13.0425,high,med,short,female,Murphy
+Airedale Terrier,19590.0681,57.0313,12.362,high,high,med,female,Franklin
+Daschhund,9301.1104,20.5237,12.1229,high,med,short,male,Fuller
+Pug,6735.8505,38.4103,12.9413,med,high,short,male,Roberts
+Airedale Terrier,22758.2718,56.1822,11.0759,high,high,med,male,Jones
+Pug,6635.7943,34.6053,13.606,med,high,short,male,Ray
+Airedale Terrier,17662.0954,56.7892,11.3028,high,high,med,male,Black
+Daschhund,8707.3962,21.9605,13.2622,med,med,short,male,Luna
+Beagle,10311.6251,36.8138,12.8052,med,high,short,female,Simmons
+Beagle,9262.2983,33.5512,13.3883,med,high,short,male,Bryant
+Beagle,10597.2267,38.282,13.29,low,high,short,male,Coleman
+Beagle,12110.0523,,14.2659,med,high,short,male,Wong
+Beagle,11321.8603,34.5709,14.472,med,high,short,female,Dixon
+Airedale Terrier,20413.5487,56.9869,11.851,high,high,med,male,Lawson
+Airedale Terrier,20913.0598,57.4388,12.2234,high,high,med,female,Wilson
+Daschhund,8948.4044,,13.0776,med,med,short,female,Andrews
+Pug,8219.9599,,13.4551,med,high,short,male,Harding
+Daschhund,7933.7262,21.0759,13.392,high,med,short,male,Landry
+Daschhund,14101.123,20.6294,12.4946,high,low,short,female,Smith
+Airedale Terrier,18879.0627,,11.681,high,med,med,male,Bradford
+Daschhund,7886.4125,21.0013,13.36,high,low,short,male,Brown
+Pug,7121.8434,27.5576,13.2081,med,high,short,male,Estrada
+Airedale Terrier,20041.3459,56.9694,11.1864,high,high,med,female,Roth
+Pug,7250.9558,29.9984,13.4026,med,high,med,male,Merritt
+Beagle,11469.6335,35.8662,14.83,med,high,short,female,Torres
+Beagle,8659.7628,34.8786,16.696,med,high,short,male,Schwartz
+Daschhund,9319.1854,20.6422,13.8315,high,med,short,female,Osborne
+Beagle,9343.4005,,14.549,med,high,short,male,Fields
+Daschhund,12463.707,21.1228,12.4719,high,med,short,female,Rodriguez
+Beagle,11474.592,,14.7852,med,high,short,female,Wong
+Pug,6590.9015,36.6908,13.3855,med,high,short,female,Morales
+Airedale Terrier,19840.0252,,12.2397,high,high,med,female,West
+Beagle,9201.5084,34.8394,14.4123,med,high,short,female,Mason
+Pug,7290.2649,34.5807,13.3503,med,med,short,male,Dixon
+Pug,5818.0749,38.1915,14.0024,med,high,short,female,Foster
+Beagle,9582.3107,36.3002,13.0698,high,high,short,male,Roman
+Airedale Terrier,19841.9604,,10.8277,high,med,short,male,Davis
+Daschhund,6598.9216,,13.0176,high,med,short,female,Dunn
+Pug,6198.4489,34.5219,14.699,high,high,short,female,Ross
+Airedale Terrier,20737.4792,,11.932,high,med,med,female,Evans
+Pug,6788.2927,38.9777,12.5131,med,high,med,female,Mcguire
+Pug,6450.5666,35.1929,12.6026,med,high,short,female,Gutierrez
+Daschhund,9356.0291,,12.6332,med,med,med,male,Fuentes
+Daschhund,6382.3952,20.6887,13.5058,high,med,short,male,Schwartz
+Beagle,10884.3076,36.4828,13.6469,med,high,short,female,White
+Beagle,13272.5519,35.5605,12.0903,med,high,short,female,Collins
+Beagle,11141.8411,34.7588,13.4377,med,med,short,female,Cruz
+Beagle,10448.1699,35.2297,13.7784,low,high,short,male,Wilson
+Beagle,11949.148,37.7228,13.5672,med,high,med,male,Kramer
+Pug,6578.8433,35.4323,14.5391,med,high,short,female,Woods
+Beagle,12204.8649,34.8081,13.9739,med,high,short,male,Sandoval
+Daschhund,10075.7802,20.3891,12.7306,high,med,short,female,Downs
+Beagle,7675.5156,,13.887,low,high,short,male,Werner
+Airedale Terrier,20013.9439,56.8079,10.2033,high,high,med,female,Williams
+Daschhund,12530.0991,20.268,12.4013,high,high,short,male,Lynch
+Airedale Terrier,17370.2096,57.9958,11.2331,high,high,med,male,Perry
+Pug,8017.4349,33.8843,13.2924,med,med,short,male,Fisher
+Pug,6928.0273,33.7834,14.7864,med,high,short,male,Roberts
+Pug,6960.7562,36.1399,12.9829,med,high,short,male,Jarvis
+Airedale Terrier,18898.7301,,10.2393,high,high,med,male,King
+Airedale Terrier,19969.4977,,12.3698,high,high,med,female,Jones
+Pug,6786.6318,35.6989,13.2352,med,high,short,male,Finley
+Pug,6681.5612,34.9601,14.3787,med,high,short,female,Edwards
+Daschhund,12132.3487,20.0612,12.3172,high,med,short,male,Montoya
+Daschhund,17325.971,,13.7328,high,med,short,male,Walker
+Daschhund,15615.8079,21.6296,11.8858,high,med,short,male,Howard
+Airedale Terrier,20284.9561,57.0574,12.4741,high,high,med,male,Smith
+Daschhund,10914.3514,,12.6387,high,med,short,male,Tanner
+Airedale Terrier,17790.609,57.227,11.5704,high,high,med,female,Gonzalez
+Daschhund,8382.5179,21.3108,12.6221,high,med,short,female,Hendrix
+Daschhund,14511.2119,,13.0817,high,high,med,female,White
+Beagle,13269.9033,36.8114,13.8707,med,high,short,male,Sanford
+Pug,7843.5137,33.7878,13.7884,med,high,short,female,Carter
+Beagle,10838.7592,34.5076,13.4476,med,high,short,male,Perez
+Beagle,9775.1315,,13.4976,med,high,short,male,Hunt
+Daschhund,8331.2532,21.5467,12.6529,high,med,short,male,Cooper
+Airedale Terrier,18354.4739,56.7934,10.6175,high,high,med,male,Mills
+Beagle,10059.9082,36.7564,15.5045,med,high,short,female,Oconnor
+Beagle,9520.9906,37.9358,13.0812,med,high,short,female,Moon
+Pug,6116.8987,32.0083,12.6601,high,high,short,male,Murphy
+Daschhund,11127.8441,21.4376,14.1718,high,med,med,male,Fisher
+Beagle,9688.1697,34.5527,13.6024,med,high,short,female,Stokes
+Pug,7308.524,39.077,13.68,low,high,short,female,Crosby
+Beagle,8986.4001,34.575,15.4914,med,high,med,male,Sullivan
+Airedale Terrier,21392.7043,56.9523,12.744,high,high,med,female,Davis
+Airedale Terrier,18856.8294,,13.0381,high,high,med,female,Shaw
+Daschhund,10424.4073,,11.721,high,med,short,male,Dennis
+Daschhund,15832.8864,21.467,12.4426,high,med,short,male,White
+Daschhund,6334.5355,20.5661,12.8954,high,med,short,female,Contreras
+Airedale Terrier,18155.1588,56.1647,11.3599,high,high,med,male,Pham
+Daschhund,10538.5136,20.7705,12.7878,high,med,short,female,Lawson
+Daschhund,4897.2798,22.2872,12.966,high,low,short,female,Brooks
+Beagle,10543.7534,,13.0091,med,high,short,female,Norris
+Daschhund,7773.1587,20.1897,13.3525,high,med,short,female,Calhoun
+Pug,7383.1619,31.2059,14.1478,med,high,short,male,Davis
+Airedale Terrier,20095.5058,57.1402,11.0476,high,high,short,male,Porter
+Beagle,10799.9973,,12.8231,med,high,short,female,Walker
+Airedale Terrier,20909.0498,56.7987,11.5911,high,high,long,male,Amy
+Beagle,8156.2563,37.7047,12.8478,med,high,short,male,Palmer
+Pug,5918.7467,32.2518,14.1457,med,high,short,female,White
+Daschhund,9388.5803,21.7124,12.6008,high,med,short,male,Kennedy
+Beagle,12253.4723,35.4975,15.227,med,high,med,male,Norris
+Daschhund,10895.6957,21.5754,12.6287,high,med,short,female,Smith
+Beagle,9339.6565,35.3669,13.0408,low,high,med,female,Gonzalez
+Beagle,11658.8928,,13.2162,med,high,short,male,Campbell
+Airedale Terrier,19000.3237,,12.5026,high,high,med,female,Walsh
+Beagle,9316.5762,33.9599,14.7834,low,high,short,female,Wyatt
+Beagle,10379.9916,36.3151,12.545,med,high,med,female,Stewart
+Airedale Terrier,21114.2425,56.1187,11.2055,med,high,short,male,Clark
+Airedale Terrier,21243.787,57.4216,10.3505,high,high,med,female,Jones
+Daschhund,14328.9792,20.4208,13.1599,high,med,short,female,Martinez
+Beagle,11024.0266,34.093,13.2971,med,high,short,male,Daniels
+Pug,6238.0568,31.4253,13.327,med,high,short,male,Scott
+Daschhund,12350.2393,20.5456,12.6154,high,med,short,male,Suarez
+Airedale Terrier,19342.0853,57.7527,12.0812,high,high,med,female,Patton
+Airedale Terrier,18599.206,56.2685,11.3146,high,high,med,female,Silva
+Daschhund,11861.367,20.5297,13.8141,high,med,short,female,Potts
+Airedale Terrier,19040.818,56.9604,10.8647,high,high,short,female,Day
+Daschhund,15735.0404,,12.8099,high,med,short,female,Johnson
+Beagle,10360.4006,36.11,14.7107,med,high,short,male,Baker
+Airedale Terrier,20592.7124,56.699,11.4474,high,high,med,female,William
+Daschhund,8072.1156,,13.6658,high,med,short,male,Gutierrez
+Pug,7271.9679,28.9998,13.7309,med,high,med,female,Webster
+Daschhund,6269.1501,21.1476,13.8196,med,med,short,male,Sosa
+Beagle,8981.7608,35.4229,13.5196,med,med,short,male,Smith
+Beagle,10531.7765,33.4337,14.2833,med,high,med,male,Nichols
+Airedale Terrier,22354.0786,57.5891,10.2896,med,high,med,female,Curry
+Beagle,11581.5647,36.0692,11.9684,med,high,short,female,Long
+Beagle,8791.3262,35.4771,13.1685,med,high,short,female,Harris
+Pug,6784.9517,33.7281,12.823,med,high,short,female,Shawn
+Airedale Terrier,21925.2226,,11.2311,high,high,med,female,Obrien
+Daschhund,6538.3242,21.5769,11.8062,high,med,short,male,Nelson
+Daschhund,11332.2485,,12.7678,med,med,short,male,Price
+Daschhund,10087.6562,20.2692,14.0223,med,med,short,male,Ryan
+Daschhund,9026.8971,20.4119,13.5604,high,med,short,female,Wilkins
+Airedale Terrier,19715.1549,57.3382,12.3003,high,high,med,male,Schneider
+Daschhund,7042.7747,,12.9409,high,med,med,female,Long
+Pug,6889.3054,32.8424,13.1227,med,high,short,male,Diaz
+Daschhund,9139.9172,20.7858,14.2522,high,med,med,male,Morgan
+Daschhund,11292.9831,,12.9642,high,med,short,female,Jones
+Beagle,8119.7819,35.7864,12.2275,med,med,short,male,Smith
+Airedale Terrier,20274.2225,56.1472,11.4407,high,high,short,male,Orozco
+Airedale Terrier,22270.9388,57.0726,10.9869,high,high,med,male,Martin
+Beagle,7399.6413,35.3824,14.1716,med,high,short,male,Aguilar
+Beagle,8557.9608,34.7277,13.3303,med,med,short,male,Gonzalez
+Airedale Terrier,20956.8963,,11.7867,med,high,med,female,Patton
+Airedale Terrier,22775.6248,57.0192,11.2873,high,high,med,female,Warren
+Beagle,14426.5802,34.7026,13.743,med,high,short,female,Franklin
+Airedale Terrier,20508.5671,58.0826,11.3371,high,high,med,male,Wilson
+Daschhund,13460.08,19.2667,14.0941,high,high,short,male,Anderson
+Daschhund,12951.5628,21.6179,12.1671,high,med,short,male,Mcdonald
+Daschhund,10628.8097,21.3453,12.881,high,med,short,female,Roberts
+Airedale Terrier,19342.4025,56.804,12.5572,high,high,med,female,Copeland
+Airedale Terrier,22194.2071,57.2532,9.6488,high,high,med,male,Guerrero
+Daschhund,10854.8414,20.854,14.0987,high,med,short,female,Lee
+Airedale Terrier,23992.7126,56.6732,11.5745,high,high,med,male,Smith
+Pug,6021.98,,15.3793,med,high,short,female,Clay
+Beagle,8255.8149,34.3689,12.2785,med,high,med,male,Johnson
+Beagle,11365.0115,37.0874,13.4362,med,high,short,male,Butler
+Beagle,10754.6968,37.1336,13.2792,high,high,med,female,Cohen
+Pug,8281.3157,,13.1006,med,med,short,female,Jones
+Pug,7477.8545,37.1555,14.0113,med,high,med,male,Warren
+Pug,7195.0037,35.8023,14.1504,med,high,short,male,Small
+Beagle,7698.9216,34.8866,14.9112,high,high,short,male,Garrett
+Airedale Terrier,22290.0641,57.1843,10.8977,high,high,med,male,Moon
+Airedale Terrier,21191.5809,57.2192,11.6235,med,high,med,male,Brown
+Daschhund,7844.7634,,12.4153,high,med,short,male,Smith
+Daschhund,10079.3269,20.4098,12.8632,med,med,short,female,George
+Airedale Terrier,20304.2219,56.754,11.7812,high,high,med,male,Flowers
+Airedale Terrier,17824.9784,57.53,11.5691,high,high,med,female,Flores
+Airedale Terrier,21208.2468,57.3223,11.5167,high,high,med,female,Lee
+Daschhund,9607.5779,21.1802,12.7126,high,med,short,male,Lisa
+Beagle,9450.4822,33.1582,12.2481,med,med,short,male,Pollard
+Pug,7635.2752,30.1343,14.197,med,high,short,female,Levy
+Beagle,9976.8724,,13.8317,med,high,med,male,Black
+Airedale Terrier,22586.1942,57.5433,10.6937,high,high,med,male,Zimmerman
+Pug,7134.43,36.9774,14.906,high,high,short,male,Grant
+Daschhund,7676.5842,20.9658,13.3971,high,med,short,male,Smith
+Daschhund,6606.2449,20.8377,11.9372,high,med,short,male,Kim
+Beagle,8487.0517,33.4274,14.6562,high,high,short,male,Fletcher
+Pug,7631.0364,38.9066,14.2237,high,high,short,female,Pittman
+Beagle,12022.7565,37.9235,12.5387,med,high,short,female,Hoffman
+Pug,7035.9095,37.0856,13.9411,high,high,short,female,Swanson
+Beagle,9471.7692,33.6486,14.7649,med,high,short,male,Nguyen
+Pug,7069.446,30.7944,13.9758,low,high,short,female,Santos
+Daschhund,10041.0823,20.9686,13.5149,high,high,short,male,King
+Beagle,12020.4426,32.3788,13.7883,high,high,short,female,Smith
+Beagle,8516.2022,31.1747,13.2695,low,high,short,male,Stewart
+Beagle,14233.5326,36.0193,13.0356,high,high,short,female,Spencer
+Daschhund,11884.7881,21.0746,13.5524,high,low,short,female,Khan
+Airedale Terrier,19692.9294,57.1036,11.8342,high,high,med,female,Vaughn
+Beagle,8144.796,35.2833,13.9917,med,high,short,male,Wong
+Airedale Terrier,20945.3072,56.6991,11.1228,high,high,short,male,Howard
+Pug,8030.347,,13.4185,med,high,med,male,Harrington
+Beagle,8943.9879,33.6036,12.8642,low,high,short,male,Webb
+Daschhund,8250.8644,21.0938,12.9981,high,low,short,male,Hendrix
+Daschhund,8209.1267,20.999,12.7037,high,med,short,male,Gardner
+Pug,7021.9621,,12.3179,low,high,short,female,Howell
+Daschhund,7538.3123,,12.8913,high,med,short,female,Swanson
+Beagle,12415.0502,36.8215,14.3451,med,high,short,male,Henry
+Airedale Terrier,22409.1252,55.7129,11.6472,high,high,short,female,Myers
+Daschhund,9655.1593,20.3995,13.2711,high,med,short,male,Reyes
+Pug,6757.7281,31.8698,14.0417,med,high,short,male,Robinson
+Airedale Terrier,19357.2212,56.3293,11.0054,high,high,med,male,Elliott
+Beagle,9313.241,32.0568,13.919,med,high,short,female,Rice
+Pug,6980.7364,28.9734,14.5357,low,high,short,female,Tucker
+Airedale Terrier,21052.6836,56.1968,11.97,high,high,med,female,Davis
+Beagle,10452.6462,36.4211,12.0381,med,high,short,male,Burke
+Beagle,12208.1174,37.4759,14.3086,med,high,short,female,Long
+Pug,6572.1116,,13.1555,med,high,short,male,Smith
+Daschhund,10826.9514,,12.1102,high,med,short,female,Buchanan
+Daschhund,9825.1679,21.5595,14.3641,high,med,short,male,Winters
+Airedale Terrier,18963.1652,56.7129,10.5539,high,high,med,male,Green
+Airedale Terrier,18364.3097,57.5459,10.2999,high,high,med,female,Watkins
+Airedale Terrier,21736.1546,57.8097,11.677,high,high,med,female,Case
+Pug,7209.6177,32.2263,13.0737,med,high,short,male,Blanchard
+Beagle,12452.1259,35.7534,13.9287,high,high,short,male,Johnson
+Pug,6735.5904,,14.4901,med,high,short,male,Mueller
+Beagle,9923.6808,37.0709,13.1127,med,high,short,female,Short
+Airedale Terrier,23477.6518,57.2716,11.3021,high,med,med,female,Ferguson
+Pug,6464.1103,32.2775,13.093,med,med,short,male,Hooper
+Beagle,12703.8913,32.2962,11.4783,med,high,short,male,Coleman
+Beagle,11304.0777,34.3027,14.2983,med,high,short,male,Mccoy
+Beagle,12197.6594,38.1729,12.5733,med,high,short,female,Medina
+Daschhund,10182.6775,21.3035,12.1862,high,med,short,male,Zamora
+Daschhund,11918.0961,21.5528,13.2383,high,med,short,female,White
+Airedale Terrier,18788.4579,55.7289,11.1381,high,high,long,female,Macdonald
+Daschhund,13699.5963,20.5072,11.9112,high,med,short,female,Jones
+Airedale Terrier,20764.1182,58.4913,11.9937,high,high,med,male,Sullivan
+Pug,8093.2178,39.7883,13.0582,med,high,short,female,Gray
+Beagle,12087.1577,34.5325,13.3129,low,high,short,female,Kelly
+Airedale Terrier,20172.4876,57.2571,10.6414,high,high,med,female,Mejia
+Airedale Terrier,20275.7403,57.5597,11.6885,high,high,med,male,Smith
+Airedale Terrier,20909.8554,56.9127,11.2956,high,high,med,male,Pruitt
+Beagle,9108.931,,14.996,med,high,short,female,Vasquez
+Pug,6884.2458,31.3542,13.0942,med,high,short,female,Torres
+Beagle,12275.4465,34.7633,13.5499,med,high,short,male,Arellano
+Daschhund,9219.5914,21.9982,12.9975,high,med,short,female,Galloway
+Pug,6696.204,40.5857,13.1725,med,high,short,male,Sanders
+Pug,7054.5478,,14.3557,med,high,short,male,Caldwell
+Airedale Terrier,22456.092,56.2945,12.5914,high,high,med,female,Stevens
+Pug,7200.365,32.6757,12.2128,med,high,med,female,Hughes
+Beagle,12047.7957,35.1828,13.1055,med,high,short,female,Jimenez
+Airedale Terrier,19214.1173,57.0154,11.8825,high,high,med,male,Lane
+Daschhund,7498.8266,21.4548,13.2351,med,med,short,male,Hernandez
+Daschhund,9649.0683,20.9366,13.0191,high,med,short,male,Cook
+Beagle,11298.006,34.5232,13.4541,med,high,short,female,Hawkins
+Beagle,9930.9604,36.8984,13.1384,med,high,short,male,Mosley
+Airedale Terrier,18489.7106,56.3072,11.6347,high,high,long,female,Holt
+Beagle,11303.8138,34.7348,13.9929,med,high,short,male,Huynh
+Pug,8847.1725,32.1689,12.6222,med,high,short,female,Roberts
+Airedale Terrier,21379.3014,56.9696,10.7086,high,high,med,male,Jenkins
+Daschhund,5488.4558,20.493,13.7988,high,med,short,female,Brown
+Daschhund,5549.625,21.6241,12.8302,high,low,short,male,Calhoun
+Daschhund,12385.2766,21.646,13.0116,high,med,short,male,Morris
+Beagle,9865.7045,34.7171,12.4256,high,med,med,male,Burgess
+Pug,6855.3467,35.1276,12.0108,med,med,short,male,Camacho
+Airedale Terrier,22047.792,,11.3139,med,high,med,female,Bridges
+Beagle,8303.9119,,13.6219,med,high,short,female,Alvarado
+Daschhund,8642.0618,,13.221,high,med,med,male,Cook
+Daschhund,11738.3556,20.4792,13.9106,high,med,short,female,Ross
+Beagle,11167.2985,35.1928,13.3447,med,med,short,female,Adams
+Pug,7239.9259,,13.3078,med,high,short,male,Martin
+Daschhund,8971.3923,,13.2654,high,med,short,male,Melendez
+Beagle,11695.5949,34.8279,13.0978,med,high,short,female,Walker
+Pug,6058.0281,32.5557,13.8712,med,high,short,male,Johnson
+Beagle,12068.118,34.2023,14.3997,med,high,short,female,Hill
+Airedale Terrier,19596.5373,57.9652,11.4524,med,high,med,female,Smith
+Daschhund,7259.0238,22.1352,12.5331,high,med,short,female,Reeves
+Airedale Terrier,18939.2543,57.6121,11.6685,high,high,med,female,Morris
+Daschhund,13238.6603,21.2225,12.9767,high,med,short,male,Rowland
+Beagle,12391.4591,36.3537,11.307,med,high,short,male,Gillespie
+Airedale Terrier,20866.6375,56.0751,11.3106,high,med,med,female,Meyer
+Daschhund,9504.2152,20.8352,13.5074,med,med,short,female,Perkins
+Daschhund,12744.8689,20.92,12.4727,high,med,short,female,Burns
+Daschhund,8125.4602,,13.0511,high,med,med,male,Green
+Beagle,12350.1685,,13.0444,med,high,short,male,Jensen
+Daschhund,14382.2658,20.9447,13.6594,med,med,short,female,Burns
+Beagle,9853.6381,36.1542,13.5778,med,med,short,female,Rodriguez
+Pug,7444.0936,32.6911,14.7411,low,high,med,male,Palmer
+Daschhund,9701.3465,21.4914,12.4828,high,low,short,male,Austin
+Daschhund,10890.8948,21.9051,11.9296,high,low,short,male,Smith
+Daschhund,5368.4914,21.5757,13.0979,high,med,short,male,Payne
+Airedale Terrier,16688.2031,56.3773,12.0724,high,high,med,female,Greene
+Beagle,11569.9791,37.7339,13.9581,med,high,short,male,Olson
+Daschhund,6228.1622,20.2675,12.4194,high,high,short,male,Sullivan
+Beagle,10019.8067,36.1205,13.3432,med,med,short,male,Ward
+Daschhund,7721.7479,20.6146,13.376,high,high,short,male,Drake
+Beagle,8816.1617,,15.2342,med,high,med,male,Edwards
+Daschhund,5628.0787,,11.9945,high,low,short,female,Johnson
+Airedale Terrier,18864.706,56.9608,12.6386,high,high,med,male,Jones
+Beagle,12900.5722,36.7853,12.2741,high,high,med,female,Tucker
+Beagle,11833.6138,35.7437,13.6535,med,high,short,female,Clark
+Daschhund,5090.8914,21.9557,13.3872,high,med,short,male,Chavez
+Beagle,9579.4542,,12.7781,med,high,med,male,Williams
+Daschhund,6332.0034,20.561,13.4926,med,med,med,female,Castro
+Daschhund,9259.0681,20.1553,12.8479,high,med,short,male,Barnes
+Beagle,14028.1257,,13.4901,med,high,short,female,Mcdowell
+Airedale Terrier,19394.1682,57.7013,11.329,high,high,med,female,Ball
+Pug,7448.2518,31.6674,13.0454,high,high,short,male,Lopez
+Airedale Terrier,23272.1418,56.2573,11.5807,high,med,med,male,Chen
+Daschhund,14698.7071,20.1824,11.7438,high,med,short,female,Waters
+Pug,6482.8963,33.2212,13.9699,med,high,short,female,Velasquez
+Pug,6566.1107,39.1208,12.2533,med,high,short,female,Barton
+Airedale Terrier,20382.5349,,11.6992,high,high,short,male,Gonzalez
+Airedale Terrier,21768.848,57.0167,11.4106,high,high,med,female,Hardy
+Pug,6927.3493,36.4835,13.6357,med,high,short,male,Jones
+Daschhund,5887.232,20.6688,13.1723,high,med,short,female,Sanchez
+Pug,7197.1109,39.1967,12.672,high,high,short,male,Fields
+Pug,6056.6231,29.353,13.3165,med,high,short,male,Contreras
+Pug,6463.1427,33.461,13.3838,med,high,short,female,Martin
+Daschhund,6252.477,20.4109,12.5019,high,med,short,female,Vasquez
+Daschhund,9316.3661,20.8514,12.3895,high,med,short,female,Allen
+Daschhund,13847.7839,20.8353,12.9364,high,med,short,male,Sue
+Daschhund,10489.5792,20.497,12.7078,high,med,short,female,White
+Daschhund,13549.1476,20.4614,12.5453,high,high,short,male,Edwards
+Daschhund,8652.778,20.8062,12.7999,high,med,short,female,Taylor
+Daschhund,12331.6807,21.2135,12.4767,high,med,short,female,Clark
+Pug,6492.2854,,12.6244,med,high,short,female,Elliott
+Airedale Terrier,25223.6012,57.5037,11.8566,high,high,med,male,Willis
+Airedale Terrier,20446.1966,57.3027,11.3768,high,med,long,female,Allen
+Daschhund,9056.8632,,12.8508,high,med,short,male,Gallegos
+Pug,8224.8246,31.2515,13.259,med,high,short,male,Gay
+Daschhund,8394.5353,20.7722,12.7017,med,med,short,male,Adkins
+Pug,6754.3209,37.4293,12.0429,low,high,short,female,Payne
+Daschhund,7381.4578,,12.148,high,med,short,male,Turner
+Daschhund,13617.3051,20.9045,13.2668,high,med,short,female,Lopez
+Daschhund,6616.3323,20.5529,12.9929,high,high,med,female,Smith
+Daschhund,9759.655,20.5174,12.4176,high,high,short,female,Paul
+Pug,7231.6761,32.2241,11.996,med,high,med,male,Adams
+Beagle,12861.2681,33.2207,13.3488,med,high,short,female,Burns
+Pug,6445.315,34.2756,14.0065,med,high,short,female,Clark
+Airedale Terrier,21385.2587,56.5191,11.698,med,med,med,female,Hayes
+Airedale Terrier,18014.0179,57.2807,11.3846,high,high,med,male,Rodriguez
+Beagle,12570.4073,37.0607,14.7699,med,high,short,female,Walker
+Beagle,8769.7479,,12.8999,med,high,short,male,Coffey
+Pug,6730.9787,34.8406,13.1639,med,high,short,male,Campbell
+Pug,6308.1504,,14.2758,med,high,med,female,Welch
+Beagle,10100.9641,35.1527,12.1472,med,high,short,male,Beard
+Pug,6457.2911,,12.7229,med,high,short,female,Frazier
+Beagle,12307.7491,35.0494,13.1337,low,high,med,male,Nicholson
+Beagle,10489.6542,32.0746,12.9675,low,high,med,male,Reed
+Beagle,10836.5986,37.6082,15.1069,med,high,short,male,Roy
+Pug,8406.1047,32.3327,15.2448,med,high,short,female,Taylor
+Beagle,7955.4252,35.0492,12.7524,med,high,short,female,Chase
+Airedale Terrier,21411.8193,57.9223,12.1931,high,high,med,male,Knox
+Daschhund,3849.3652,21.028,13.2237,high,med,short,male,Rose
+Beagle,12638.1248,,13.3682,med,high,short,male,Gutierrez
+Pug,6539.2247,27.6606,13.7868,med,high,short,male,Graham
+Beagle,11240.3885,,14.5902,med,high,short,male,Page
+Beagle,9177.4586,35.136,13.43,med,high,short,female,Cook
+Beagle,11643.7158,35.847,13.1325,med,high,short,male,Taylor
+Airedale Terrier,19859.6871,58.1335,10.9894,med,high,med,female,Smith
+Daschhund,6745.6874,,13.3674,high,high,short,female,Ellis
+Pug,8093.3048,29.4452,13.4826,high,high,short,male,Estes
+Daschhund,9008.988,21.0786,12.7627,high,med,short,male,Allen
+Daschhund,7339.1701,,13.4078,high,med,short,female,Moreno
+Daschhund,13828.1266,22.1845,13.0062,high,med,short,female,Rodriguez
+Beagle,8747.853,35.1985,12.0104,med,high,short,male,Peterson
+Beagle,10475.9054,33.6361,13.7528,med,high,short,male,Fuller
+Airedale Terrier,18677.0224,56.9574,11.4255,high,high,short,female,Baxter
+Pug,7589.3291,27.7574,12.515,med,high,short,female,Hodge
+Pug,7130.9661,31.356,13.4926,med,high,short,female,Pope
+Pug,7079.3068,,13.2842,high,high,short,female,Ramirez
+Pug,6591.5618,28.5207,12.6752,high,med,short,female,Anthony
+Airedale Terrier,19420.0016,57.9204,12.7357,high,high,med,male,Neal
+Pug,6512.6048,,12.8742,med,high,short,male,Andrews
+Beagle,11248.5692,,12.4336,med,high,short,male,Long
+Pug,7226.6444,41.7819,13.5392,med,high,short,female,Howard
+Beagle,9781.0272,35.6175,14.431,high,high,short,female,Charles
+Daschhund,11356.5762,,12.9431,high,med,short,male,Carter
+Daschhund,13482.5289,22.0688,12.3108,high,med,med,female,Wolfe
+Pug,6692.1088,29.1189,14.3803,high,high,short,male,Rodriguez
+Daschhund,10519.6263,21.0375,11.7868,high,med,short,female,Oneal
+Beagle,11271.0742,36.5053,13.7256,high,high,short,female,Dudley
+Daschhund,15170.6798,20.6247,13.2758,high,med,short,male,Lopez
+Airedale Terrier,21099.1374,56.4992,10.6222,med,high,med,male,Elliott
+Airedale Terrier,18363.3249,57.5449,11.8076,high,high,short,female,Rush
+Pug,6315.367,,14.6114,high,high,short,male,Boone
+Daschhund,10373.1302,21.8402,13.5783,high,high,short,male,Simmons
+Beagle,9108.3886,33.7638,12.9675,med,high,short,female,Dixon
+Daschhund,5607.9189,20.8539,13.3175,high,med,short,male,Sullivan
+Pug,6918.3628,36.0087,13.3772,high,high,short,female,Morrison
+Pug,7967.9569,36.2314,12.7114,med,high,short,female,Smith
+Airedale Terrier,18597.4836,57.0783,11.6641,high,high,med,male,Edward
+Daschhund,12994.1611,20.7537,12.2161,high,high,short,female,King
+Daschhund,9705.1706,21.6446,13.0265,high,med,short,male,Williams
+Daschhund,11007.5958,22.1538,11.5872,high,med,med,female,James
+Airedale Terrier,19528.1863,57.0289,11.4176,high,high,med,female,Garner
+Pug,6705.5355,35.7373,12.7481,med,high,short,female,Heath
+Pug,7243.0953,33.3208,14.5131,med,high,short,male,Scott
+Airedale Terrier,20598.358,56.3027,10.1784,high,high,med,male,Arellano
+Beagle,12916.1883,36.0962,12.46,low,med,short,male,Cruz
+Airedale Terrier,21428.7439,57.1069,11.5557,high,high,med,female,Ortiz
+Airedale Terrier,21845.5644,57.1988,11.3139,high,high,long,male,Becker
+Daschhund,10238.9611,21.0904,13.4529,high,med,short,female,Taylor
+Airedale Terrier,20758.1585,56.6121,11.8968,high,high,med,female,Smith
+Pug,6234.2344,36.3945,11.2193,med,high,short,female,Hess
+Pug,5929.6152,35.1999,12.6663,med,high,short,male,Boone
+Daschhund,7175.6107,20.6926,12.2979,high,med,short,male,Gould
+Pug,7165.014,33.8382,13.7745,med,high,short,female,Cooper
+Daschhund,9432.7587,20.237,12.3692,high,high,short,female,Weber
+Airedale Terrier,20753.992,,11.9774,high,high,med,female,Torres
+Daschhund,12176.4772,,12.8478,high,med,short,male,Vasquez
+Daschhund,12154.9191,22.4192,13.2,high,med,short,female,Payne
+Daschhund,11850.2248,20.6917,12.6348,high,med,short,female,Pruitt
+Airedale Terrier,19883.941,56.5823,10.9329,high,high,long,male,Church
+Beagle,10250.2147,34.7921,14.1278,med,high,short,male,Warren
+Pug,6378.9049,32.4458,13.2775,low,high,med,male,Brown
+Airedale Terrier,21217.5062,57.2176,9.5215,high,high,med,female,Brown
+Beagle,9384.1531,34.8303,14.3788,high,high,short,male,Adams
+Daschhund,12892.9644,,13.5969,high,med,short,female,Rasmussen
+Beagle,10127.2122,,11.7984,med,high,short,female,Snyder
+Pug,6371.0252,38.6504,13.454,med,high,short,female,Holt
+Airedale Terrier,19803.7281,57.3558,10.3714,high,high,med,male,Hubbard
+Pug,6271.7103,38.3889,14.6422,med,high,short,male,Barnett
+Beagle,8484.2756,34.2486,13.8104,med,high,short,female,Chavez
+Airedale Terrier,20227.042,55.9176,11.4171,high,high,med,female,Ewing
+Daschhund,8688.3257,,13.2011,high,med,short,female,Moss
+Beagle,9540.2312,,14.6722,low,high,short,female,Bradford
+Beagle,10453.3742,34.7335,12.0988,med,high,short,female,Mendoza
+Airedale Terrier,17414.0258,56.3301,12.145,high,med,med,female,Munoz
+Airedale Terrier,22726.9224,56.0535,12.9295,high,high,short,female,Washington
+Pug,6110.0565,37.2794,14.6808,med,high,short,male,Daugherty
+Daschhund,11849.3733,21.0023,13.4963,med,med,short,male,Black
+Beagle,10198.7533,35.7021,14.1171,med,high,short,male,Wilson
+Pug,6187.3284,32.3727,13.2243,high,high,short,male,Villegas
+Pug,6914.2226,37.1919,13.5154,low,high,short,male,Freeman
+Airedale Terrier,18121.9693,58.2719,11.5551,high,high,med,male,Garrison
+Daschhund,9573.3352,19.6974,13.9392,med,med,short,male,Gill
+Pug,6760.0955,,13.3589,med,high,short,male,Wright
+Airedale Terrier,19069.4327,57.4063,11.1914,high,med,med,male,Washington
+Airedale Terrier,18954.2306,56.2377,12.3684,high,high,med,female,Washington
+Pug,6840.286,37.0906,12.2338,med,high,short,male,Wright
+Airedale Terrier,17907.2828,58.3556,9.914,high,high,med,female,Mcdonald
+Pug,6132.5873,,14.3537,med,high,short,male,Martin
+Pug,6737.5707,32.7298,11.4907,low,high,short,female,Harris
+Beagle,10317.6231,36.9281,13.1886,med,high,short,female,Cox
+Airedale Terrier,21171.1152,57.4128,11.5562,high,high,med,female,Brewer
+Daschhund,9883.515,21.9837,13.491,high,med,short,female,Morgan
+Pug,6698.8834,,14.6953,med,high,short,male,Knight
+Beagle,12037.2638,36.4801,12.3115,med,high,short,female,Young
+Airedale Terrier,17877.9885,57.0831,10.4079,high,high,med,female,Smith
+Pug,7468.1287,35.0205,13.3852,med,high,short,male,King
+Pug,6743.9645,,12.9842,med,high,short,female,Sanders
+Airedale Terrier,21323.4174,57.3213,11.6215,high,high,med,female,Hall
+Daschhund,11187.1386,,13.3334,high,high,short,female,Stewart
+Beagle,9413.8069,,14.4022,med,high,short,male,Barry
+Beagle,8197.1414,35.9259,12.6924,high,med,short,male,Turner
+Pug,5357.9873,32.0731,13.063,med,high,short,male,Jenkins
+Daschhund,10410.7136,20.5505,13.3913,high,med,short,male,Bates
+Beagle,13009.3076,35.1424,11.4978,med,high,short,female,Atkins
+Pug,6640.0379,30.244,12.8154,med,high,short,female,Adams
+Airedale Terrier,20350.8247,,13.3294,high,high,short,female,Joseph
+Pug,7628.5837,35.3333,12.658,med,high,med,female,Michael
+Daschhund,7584.4768,21.3827,14.4329,high,med,short,female,Russell
+Pug,7263.2097,37.9853,13.7521,med,high,short,female,Clark
+Daschhund,10298.4885,,13.4627,high,med,short,female,Ferguson
+Daschhund,7956.5941,,13.7537,high,med,short,female,Christina
+Pug,7255.008,,12.3981,med,high,short,female,Rodriguez
+Airedale Terrier,20770.6933,56.8621,12.3859,high,high,med,female,Carson
+Beagle,10104.1192,34.0744,12.2596,med,med,short,male,Kirby
+Daschhund,9451.5051,21.3882,13.3546,high,med,short,male,Acosta
+Beagle,10808.674,34.6026,12.8742,med,high,med,female,Golden
+Beagle,13949.3529,35.7527,12.215,med,high,short,female,Gonzalez
+Pug,6353.0145,34.4946,12.5754,med,high,short,female,Rowe
+Airedale Terrier,21704.4676,57.0591,10.7857,high,high,med,male,Bell
+Pug,6375.8616,,12.6215,med,high,short,male,Fowler
+Airedale Terrier,24552.6126,56.6877,11.7248,high,high,med,male,Casey
+Airedale Terrier,18165.0059,,11.7204,high,high,short,female,Cox
+Airedale Terrier,19838.4987,56.9892,11.6225,high,high,med,male,Clark
+Beagle,9483.3223,32.8638,14.491,med,high,short,male,Hart
+Airedale Terrier,20285.3181,57.3031,11.6482,high,high,long,female,Wood
+Beagle,12688.8735,33.8221,12.5763,med,high,short,male,Levy
+Beagle,10067.4192,34.782,13.0441,med,high,short,female,Davis
+Pug,6519.2322,,12.5955,high,high,short,female,Keith
+Beagle,8647.2354,,12.612,med,high,short,male,Ortiz
+Daschhund,8848.375,20.8108,12.1478,high,med,short,male,Wright
+Beagle,6634.4072,37.6957,13.5449,med,high,short,male,Beltran
+Pug,6497.6071,33.312,13.7749,med,high,short,male,Grant
+Daschhund,12446.8154,21.171,12.9091,high,med,med,male,Guerra
+Daschhund,6439.8028,20.7305,13.983,high,med,short,female,Garcia
+Airedale Terrier,21494.8454,,12.2874,high,high,med,male,Marshall
+Airedale Terrier,21539.1727,57.5339,10.326,high,high,med,male,Taylor
+Beagle,11403.5486,33.3692,12.5277,med,high,short,female,Hill
+Beagle,11396.064,34.1929,14.2856,med,high,short,female,Oneal
+Beagle,11358.2983,32.7871,13.8367,med,high,short,male,Duncan
+Daschhund,8284.0121,20.7972,13.0463,high,med,short,male,Kelly
+Pug,7870.6438,32.8246,13.943,med,high,short,female,Riddle
+Airedale Terrier,21682.3636,57.5851,12.3746,high,high,med,female,Whitaker
+Airedale Terrier,20379.2606,57.1779,11.5926,med,high,med,male,Marshall
+Daschhund,13214.5285,,13.6072,high,med,short,male,Ford
+Daschhund,5624.8069,21.3702,13.8751,high,low,short,female,Pierce
+Airedale Terrier,17632.7668,,11.3697,high,high,med,female,Barrera
+Pug,5884.6733,31.4736,13.1123,low,med,short,male,Mora
+Beagle,11642.5092,37.6169,14.8266,med,high,med,male,Mccullough
+Airedale Terrier,19043.7546,57.3603,9.9964,high,high,med,male,Simon
+Airedale Terrier,19133.7008,,11.7711,high,med,long,male,Ross
+Daschhund,16451.5229,21.3226,14.3678,high,med,short,female,Carroll
+Daschhund,11477.773,,13.7489,high,low,short,male,Rivera
+Daschhund,11716.4791,20.9932,13.0002,high,med,short,male,Graham
+Airedale Terrier,20651.2179,56.1087,11.8698,high,high,med,female,Williams
+Daschhund,6710.8004,20.6186,13.1964,high,high,short,female,Finley
+Beagle,12046.0316,36.0058,13.5861,med,high,short,male,Clark
+Beagle,11363.2012,35.1586,13.8176,med,high,short,female,Pineda
+Pug,6139.7257,34.4868,13.2288,med,high,short,male,Anderson
+Daschhund,9383.1839,22.0357,12.2069,high,high,short,male,Ellis
+Pug,7321.0431,26.5065,13.6558,med,high,short,male,Jenkins
+Pug,6706.2011,34.06,13.7289,low,high,short,male,Davis
+Pug,6392.8673,30.535,14.2084,high,high,short,male,Allen
+Pug,6493.297,39.3746,13.4501,med,high,short,male,Howard
+Pug,6951.4968,40.0119,14.3343,low,high,short,female,Ingram
+Airedale Terrier,19820.3019,,11.2823,high,high,short,female,Coleman
+Airedale Terrier,21319.0161,57.3135,11.5902,high,high,med,male,Elliott
+Daschhund,8746.5439,21.8742,13.2648,high,med,short,male,Conley
+Pug,5535.8043,34.7888,12.6627,med,high,med,female,Bass
+Pug,8283.9822,32.4014,13.2633,med,high,short,male,Clark
+Airedale Terrier,19204.2275,57.0974,11.9031,high,high,med,male,Johnson
+Airedale Terrier,21205.1599,57.4006,9.4835,high,high,med,male,Oliver
+Daschhund,15053.0006,20.9568,11.2777,high,med,short,male,Wu
+Daschhund,9440.1079,20.8908,12.7413,high,med,short,female,Newton
+Pug,6744.9961,30.355,13.076,med,high,short,male,Carson
+Pug,7034.1623,32.9542,13.0045,med,high,short,male,Reese
+Beagle,9382.3047,33.7637,15.0117,med,high,short,female,Jones
+Pug,7250.4093,,14.2358,med,high,short,female,Anderson
+Pug,7615.1653,36.5573,14.1981,high,high,short,male,Carlson
+Daschhund,8746.2294,20.7621,12.98,high,med,med,male,Gray
+Airedale Terrier,18401.3075,57.8299,11.7355,high,high,med,female,Banks
+Airedale Terrier,21877.502,55.966,11.0149,high,high,short,male,Christensen
+Pug,7061.2233,32.3312,12.6965,med,high,short,female,Schmidt
+Beagle,10127.8476,35.0691,12.6511,high,high,short,male,Salinas
+Pug,7074.8402,,14.0102,low,high,short,male,Williams
+Airedale Terrier,20348.9123,,12.236,high,high,long,female,Anderson
+Airedale Terrier,19464.0841,55.9758,11.1528,high,high,med,female,Caldwell
+Daschhund,4807.8201,22.3425,11.8601,high,low,short,male,Moore
+Beagle,9902.6748,36.6877,13.7178,high,high,short,female,Henderson
+Airedale Terrier,21512.013,56.8604,11.3202,high,high,med,female,Sanchez
+Pug,7416.7098,29.8003,13.8481,med,high,short,female,Joyce
+Airedale Terrier,18709.2973,,11.196,high,high,med,female,Cochran
+Beagle,10130.955,34.9106,12.0237,med,high,short,female,Gutierrez
+Pug,7469.0032,,15.2989,med,high,short,male,Michael
+Airedale Terrier,18764.7873,55.9336,11.204,high,high,med,female,Lawrence
+Daschhund,2314.1445,,12.8749,high,med,short,female,Clark
+Airedale Terrier,19925.6588,56.8899,11.6993,high,high,short,male,Powell
+Daschhund,10701.8317,21.0827,12.6877,high,med,short,male,Edwards
+Daschhund,10267.6762,20.842,14.0465,high,med,short,female,Rios
+Daschhund,10621.9217,21.3744,14.3446,high,med,short,female,Garcia
+Pug,8000.8205,,13.239,med,high,short,male,Higgins
+Daschhund,12860.589,19.821,13.7823,high,med,short,female,Wilson
+Airedale Terrier,20314.5361,57.5703,10.653,high,high,med,female,Hays
+Beagle,12489.3915,32.413,13.8925,med,high,short,female,Porter
+Beagle,11189.2711,,13.7612,med,high,med,male,Bryant
+Airedale Terrier,16064.1032,57.0241,10.5097,high,high,med,female,Smith
+Beagle,10557.4635,38.2027,14.2434,med,high,med,male,Davis
+Airedale Terrier,22344.9594,58.0211,11.0704,high,high,med,female,Brady
+Daschhund,11108.9253,20.2553,13.4411,med,med,short,male,Parrish
+Airedale Terrier,18547.7747,56.8411,10.3803,high,high,med,male,Schwartz
+Beagle,10186.2002,,15.1014,med,high,med,male,Moore
+Airedale Terrier,24033.6993,57.2121,12.0011,med,high,med,female,Gonzalez
+Airedale Terrier,21839.8384,56.8516,11.4712,high,high,long,male,Jones
+Daschhund,12582.9327,20.7122,12.8103,high,med,short,female,Shaw
+Beagle,9814.5694,36.272,15.8828,med,high,short,male,Carr
+Pug,8403.424,32.2233,13.6231,med,high,short,male,Garner
+Airedale Terrier,19130.8963,57.6326,11.0434,high,med,med,male,Turner
+Daschhund,9322.4297,21.655,13.4889,high,med,short,female,Miller
+Beagle,11194.3178,,13.216,med,high,short,male,Valenzuela
+Pug,7705.017,34.6315,13.2271,med,high,short,male,Landry
+Daschhund,10404.5826,21.352,13.4402,high,med,short,male,Davidson
+Pug,7470.5925,,15.1443,med,high,short,male,Hill
+Beagle,9847.1491,,13.8551,med,high,short,male,Patel
+Beagle,10455.6518,37.2555,12.53,med,high,med,female,Curtis
+Daschhund,9907.6918,21.9773,12.5919,high,med,short,female,Stevens
+Pug,6868.0565,34.2844,13.8351,med,med,short,female,Anderson
+Beagle,8394.4386,33.5544,13.6701,med,high,short,male,Cortez
+Pug,8067.8165,35.1361,12.7972,med,high,short,male,Austin
+Daschhund,2906.1788,20.9534,12.9718,high,med,short,female,Anderson
+Beagle,10242.3501,34.5662,13.8678,med,high,short,male,Spears
+Beagle,10210.6885,34.3577,13.1067,high,high,short,male,Murphy
+Daschhund,6387.6897,,12.5095,high,med,short,male,Gamble
+Beagle,7287.6316,37.2306,14.6711,low,high,short,male,Thompson
+Pug,5842.5375,38.2555,14.6893,med,high,short,female,Hays
+Airedale Terrier,19683.7872,56.9666,11.9428,high,high,med,male,Logan
+Airedale Terrier,19184.2063,57.0965,10.9187,high,high,med,male,Dominique
+Pug,7380.6606,32.5521,12.7092,med,high,short,male,Holland
+Daschhund,11977.9959,20.2242,12.0378,high,med,short,male,Jones
+Pug,7136.1466,35.9372,11.9408,med,high,short,male,Peters
+Pug,6425.6973,33.6238,13.8862,med,high,med,female,Howard
+Daschhund,13261.0737,21.094,13.7019,high,med,short,female,Miranda
+Airedale Terrier,18701.4751,56.4742,10.8739,high,high,med,female,Edwards
+Airedale Terrier,21468.8854,56.6092,11.8615,med,high,med,male,Jones
+Pug,6477.1377,,13.9249,med,high,short,male,Perez
+Beagle,12401.4273,,15.0907,med,high,short,female,Ruiz
+Beagle,11771.9237,35.4725,15.4531,med,high,short,female,Hardy
+Beagle,11749.6865,36.5261,13.6955,high,high,short,female,Ramirez
+Beagle,9782.5106,36.8287,12.1352,low,high,short,male,Price
+Daschhund,5235.9274,21.5047,13.0706,high,med,short,female,Clark
+Daschhund,17409.8938,21.6769,13.1272,high,med,short,female,Delacruz
+Daschhund,9689.5263,,13.5852,high,med,short,female,Lara
+Airedale Terrier,19940.5113,57.4009,10.7889,high,med,med,male,Kennedy
+Pug,7219.8582,26.381,13.8853,med,high,short,male,Young
+Beagle,11651.5107,34.0091,14.9506,med,high,short,male,Davis
+Beagle,9530.4988,38.3111,13.8274,med,high,short,female,Scott
+Beagle,9631.3173,34.868,12.7383,med,high,short,female,Williams
+Airedale Terrier,20085.7182,56.65,10.126,high,high,med,female,Cooper
+Beagle,9733.8296,34.689,13.4907,med,high,short,female,Williams
+Beagle,10610.5584,34.7981,13.0357,med,high,short,male,Delgado
+Pug,6643.2155,33.0846,13.7546,med,high,short,female,Kramer
+Daschhund,9177.2997,20.1839,12.9849,high,med,short,male,Mitchell
+Pug,7584.963,,13.1113,med,high,short,male,Wood
+Pug,6922.7185,36.175,12.6598,med,high,med,male,Munoz
+Beagle,9756.9313,34.7561,14.5115,med,high,short,male,Holmes
+Daschhund,6707.9013,20.8091,13.6403,high,med,short,male,Taylor
+Daschhund,6402.807,,12.5618,high,med,short,male,Stewart
+Pug,7609.1869,31.6909,14.364,med,high,med,female,Carpenter
+Airedale Terrier,19862.2982,,11.1478,high,high,med,male,Campos
+Beagle,8422.0069,,11.9398,med,high,short,male,Williams
+Pug,7958.729,32.4134,13.4634,med,high,short,male,Ballard
+Pug,7868.125,31.2415,13.4839,med,high,med,male,Cole
+Airedale Terrier,21286.0684,57.8462,11.789,high,high,long,male,Collier
+Pug,7545.793,29.4955,13.5003,med,high,short,female,Moyer
+Airedale Terrier,21142.7264,56.3475,10.3742,high,high,med,male,Reynolds
+Beagle,10686.3103,36.5618,12.2939,med,high,short,female,Thomas
+Pug,7508.8183,30.4333,13.3288,med,med,short,male,Bentley
+Airedale Terrier,21036.7466,56.599,11.9421,high,high,med,male,Buckley
+Pug,5897.5119,,11.9541,high,high,short,female,Casey
+Daschhund,9300.4149,21.0005,13.3888,high,med,short,female,Marks
+Daschhund,6971.9302,20.5741,12.5631,high,med,short,female,Duran
+Pug,6017.1358,29.3496,13.2275,med,high,med,female,Watson
+Pug,7745.9863,38.2915,15.0007,med,high,short,female,Stewart
+Pug,6517.1818,42.0305,13.592,med,high,short,female,Galvan
+Daschhund,8991.7114,,13.7135,high,med,short,female,Rollins
+Pug,6175.8139,30.9781,14.0187,med,med,short,male,Norton
+Airedale Terrier,22988.0883,56.8724,10.7332,high,high,med,male,Delgado
+Beagle,10791.7961,33.6864,14.848,med,high,med,male,Schmidt
+Beagle,9292.3612,,13.6976,med,high,short,female,Wallace
+Daschhund,10092.0389,,12.8523,high,med,short,male,Dawson
+Airedale Terrier,20263.4816,56.7973,10.8117,high,high,med,male,George
+Pug,6948.7518,30.9876,13.7779,med,high,short,male,Melton
+Beagle,11773.1751,,14.5914,med,high,short,male,Frye
+Beagle,11975.88,,14.4543,med,high,med,male,Villarreal
+Pug,7045.6995,24.351,16.4108,med,high,short,female,Bowen
+Pug,7558.0646,29.4625,11.8238,med,high,short,female,Dickerson
+Beagle,7952.3713,,12.5256,med,high,med,female,Reynolds
+Daschhund,11143.2179,20.4052,12.4804,high,low,short,female,Graham
+Pug,7322.0904,36.3349,12.1103,med,high,short,female,Richardson
+Airedale Terrier,22148.3593,58.4496,11.4325,high,high,med,male,Walker
+Beagle,11706.282,35.2122,12.6766,med,high,short,female,Davis
+Pug,7392.381,,14.0424,med,high,short,male,Allen
+Airedale Terrier,21463.9128,57.4638,12.2689,high,high,med,female,Valdez
+Pug,6950.5559,,13.9793,med,high,med,male,Brown
+Pug,7553.5183,28.9812,14.5389,med,high,med,female,Soto
+Beagle,9826.9666,,14.2664,med,high,short,female,Miller
+Pug,7230.9067,33.8512,13.8601,med,high,short,male,Ingram
+Beagle,11255.3079,35.9887,12.0958,med,high,short,female,Cobb
+Beagle,11679.7254,,12.9774,med,high,short,female,Harris
+Airedale Terrier,21380.9437,57.1947,11.7655,high,med,med,female,Keith
+Pug,7443.0268,25.8185,15.1101,high,high,short,male,Hopkins
+Beagle,10736.6387,33.1872,11.6468,med,high,short,female,Price
+Daschhund,9114.2902,20.1055,12.716,high,high,short,female,Tate
+Daschhund,9432.6605,21.4945,12.7488,high,med,short,male,Horne
+Beagle,13649.6189,,12.1039,med,high,short,female,Robert
+Beagle,7777.5703,35.7377,12.2799,med,high,short,female,Jenkins
+Pug,6610.4566,33.3088,13.0138,med,med,short,male,Shields
+Beagle,11790.9309,36.0333,12.9065,low,high,short,male,Ramirez
+Beagle,7043.0219,,13.0397,med,high,short,male,Coleman
+Airedale Terrier,20735.933,57.8363,11.0984,high,high,med,male,Greer
+Daschhund,5831.7565,,12.1177,med,high,short,female,Gordon
+Pug,7569.208,32.0489,13.7581,med,high,med,male,Nguyen
+Beagle,12038.1412,,14.6338,med,high,short,female,Dorsey
+Pug,7140.9812,32.6114,13.9442,med,high,short,female,Pennington
+Airedale Terrier,21364.8374,55.9236,11.9038,high,high,med,female,Torres
+Beagle,10671.4978,,14.218,med,med,short,male,Stevenson
+Airedale Terrier,19588.5332,,11.8064,med,high,med,female,Anderson
+Pug,7059.0565,38.3448,13.3246,med,high,med,female,Mcdonald
+Pug,6608.2549,35.3963,12.4588,med,high,short,male,Chen
+Daschhund,9214.6874,21.2935,13.9547,high,high,short,female,Castillo
+Beagle,11712.5858,33.196,14.4246,med,high,short,female,Ray
+Beagle,11796.4286,36.1274,13.1514,med,high,short,female,Arnold
+Daschhund,2198.4292,20.3819,12.0857,high,med,med,female,Lopez
+Beagle,10183.2948,35.7175,14.0219,med,high,short,male,Walker
+Airedale Terrier,20027.284,57.8228,11.8777,high,high,med,male,Rubio
+Airedale Terrier,20616.3886,58.2347,10.6223,high,high,med,male,Smith
+Airedale Terrier,19027.7755,56.5123,10.9522,high,high,med,female,Davis
+Daschhund,14022.8102,20.6185,13.3129,high,med,short,female,Wiley
+Pug,7461.5049,32.0688,13.935,med,high,short,female,Watson
+Daschhund,9410.7024,21.7591,11.9673,high,med,short,female,Serrano
+Pug,7548.4152,27.1424,14.1149,med,high,short,female,Patrick
+Beagle,10185.8367,,13.3713,med,high,short,male,Campbell
+Pug,6988.277,34.7833,13.8439,med,high,short,female,Hester
+Airedale Terrier,20691.4983,56.0656,10.188,high,high,short,male,Gonzalez
+Airedale Terrier,21896.9411,57.1208,11.9152,high,high,med,female,Ramsey
+Pug,7373.891,33.6247,14.4573,low,high,short,female,Wallace
+Pug,6243.9014,40.0618,12.7872,med,high,short,male,Robinson
+Pug,6380.156,35.1984,15.5416,low,high,short,male,Clark
+Beagle,7333.0423,,13.4693,low,high,short,male,Powell
+Pug,6543.4046,,14.5658,med,high,short,female,Brown
+Airedale Terrier,21493.7493,,10.8664,high,high,med,female,Thomas
+Airedale Terrier,22604.4988,56.8276,10.1616,high,high,med,male,Lambert
+Daschhund,10597.9628,21.3629,13.4679,high,med,short,male,Adams
+Beagle,10821.3853,35.2354,12.7977,med,high,short,female,Davis
+Daschhund,9205.182,20.1951,12.6427,high,med,short,female,Bean
+Airedale Terrier,20929.3355,56.5844,12.1742,high,high,med,female,Callahan
+Beagle,10578.0044,,13.3345,med,high,short,male,Howell
+Airedale Terrier,21616.769,56.8918,12.9405,high,high,med,female,Harris
+Pug,6191.5823,26.798,13.6682,med,high,med,male,Rush
+Beagle,11471.3793,34.0161,13.0794,high,high,short,male,Martinez
+Pug,7172.6433,34.9022,13.0187,med,high,short,female,Brown
+Daschhund,7878.8471,20.7737,13.6747,high,med,med,male,Ballard
+Pug,6770.9999,32.8136,11.7419,med,high,med,female,Morgan
+Beagle,9897.2653,36.5471,13.8385,med,high,short,female,Todd
+Beagle,7070.2094,36.1467,13.6411,med,high,short,female,Jones
+Beagle,11547.9753,34.8166,14.821,med,high,med,male,Cruz
+Beagle,10371.6713,34.6483,16.6659,med,high,short,female,Silva
+Pug,7202.9252,,12.5795,med,high,short,male,Gordon
+Daschhund,9147.5713,,13.2213,high,med,med,female,Robinson
+Pug,6319.8072,33.2112,14.4004,med,high,short,female,Adkins
+Pug,7593.6656,36.7568,13.8249,med,high,short,male,Simmons
+Pug,7762.6119,,13.4186,low,high,short,male,Liu
+Beagle,9177.2504,38.1212,13.841,med,high,short,male,Butler
+Beagle,13047.4239,36.0321,12.0428,med,high,med,female,Freeman
+Daschhund,13574.9823,21.4739,13.3414,high,med,short,female,Hopkins
+Beagle,13619.5577,36.0199,13.9627,high,high,short,female,Sanders
+Daschhund,12041.6974,19.9198,14.4185,high,low,short,male,King
+Daschhund,3742.16,,14.4149,high,low,short,male,Dominguez
+Beagle,9270.3814,35.1032,14.1723,high,high,short,female,Tran
+Beagle,10108.7813,36.0718,13.7811,med,high,short,male,Martinez
+Pug,7471.91,30.6892,13.7794,med,high,med,male,Blackburn
+Beagle,9330.3454,34.6761,15.6874,med,high,short,female,Smith
+Beagle,10545.8821,37.464,13.5242,med,high,short,male,Jones
+Airedale Terrier,21734.7787,57.4835,11.0922,high,med,med,male,Davis
+Pug,6580.3333,38.4639,13.3763,high,med,short,female,Cole
+Pug,7024.1476,25.0959,12.5185,med,high,short,female,James
+Pug,6572.7226,36.5996,14.135,med,high,med,female,Martinez
+Daschhund,8326.1182,22.1322,13.2306,high,med,short,male,Baker
+Pug,5135.8666,,14.6281,med,high,short,female,Flores
+Airedale Terrier,20140.2476,56.5597,12.405,high,high,med,male,Compton
+Pug,7044.3219,30.6621,13.8476,med,high,short,male,Boyd
+Airedale Terrier,20469.3186,56.5038,12.4829,high,high,med,female,Castro
+Daschhund,8468.3779,21.2238,12.85,high,med,short,male,Cook
+Beagle,10576.7621,34.976,13.6498,low,high,short,female,Holmes
+Airedale Terrier,21285.7732,,12.0606,med,high,med,male,Munoz
+Daschhund,12265.2897,,13.2886,high,med,short,male,Armstrong
+Daschhund,12145.4525,21.4778,11.7673,high,low,short,male,Flores
+Beagle,10696.4941,,13.7629,high,high,short,male,Grant
+Beagle,10218.9326,32.5721,14.2876,low,high,short,female,Russell
+Beagle,12781.7212,35.6477,12.9722,med,high,short,female,Morris
+Airedale Terrier,19989.8677,56.8067,11.7809,high,high,med,male,Gallagher

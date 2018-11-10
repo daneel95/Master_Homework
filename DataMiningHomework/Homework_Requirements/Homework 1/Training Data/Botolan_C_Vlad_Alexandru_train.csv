@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+Siberian Husky,20967.2691,,11.1466,med,high,med,female,Sheppard
+Rottweiler,59173.1238,65.0219,8.0432,med,high,short,female,Dennis
+Siberian Husky,19369.6893,54.1413,11.4176,med,med,med,female,Rogers
+Welsh Corgi,13149.198,30.8949,11.012,high,high,med,male,Young
+Siberian Husky,16791.4872,53.5377,13.1109,med,med,long,male,Miller
+Welsh Corgi,14971.209,27.3134,10.8765,med,high,med,male,Johnson
+Siberian Husky,14741.1577,53.0827,11.9917,low,high,short,female,Valdez
+Rottweiler,33997.0695,,7.6505,med,high,short,male,Peterson
+Siberian Husky,20200.8326,51.7691,12.5501,low,low,med,female,Combs
+German Shepherd,36679.3317,58.612,11.4983,med,med,med,male,Knox
+Welsh Corgi,13419.6272,27.9711,11.3004,med,high,long,female,Warner
+German Shepherd,36428.5921,61.6734,11.7298,med,med,med,female,Baxter
+Rottweiler,62563.8143,63.0002,10.2487,med,high,short,female,Jones
+Welsh Corgi,14835.9538,,12.6496,med,high,short,female,Castro
+Welsh Corgi,13284.0621,30.883,10.7493,med,med,med,male,Johnson
+Siberian Husky,20683.0782,50.0513,11.7544,med,med,med,male,Calhoun
+German Shepherd,37121.4065,58.4377,11.6416,med,med,med,female,Mullins
+Rottweiler,60108.8543,62.0233,10.224,low,high,short,female,Cunningham
+Rottweiler,59050.9405,62.7119,9.9746,med,high,short,male,Phillips
+Welsh Corgi,12839.398,28.4095,11.4318,med,high,med,female,Green
+Rottweiler,49053.3505,65.8756,9.6858,low,high,short,male,Saunders
+Siberian Husky,22547.0133,53.9589,11.1565,med,med,med,female,Todd
+Siberian Husky,18722.4048,52.6614,13.3529,med,med,med,female,Jennings
+German Shepherd,36486.9842,,11.5036,med,med,med,male,Lindsey
+Welsh Corgi,13984.6638,27.7131,11.1919,med,high,med,male,Nguyen
+German Shepherd,38283.7626,58.1356,9.7232,med,med,med,male,Cooper
+German Shepherd,37092.6398,62.2132,10.2157,med,med,med,male,Rodgers
+Rottweiler,49967.1062,62.735,9.1924,med,high,short,female,Smith
+Siberian Husky,18605.9323,49.4533,12.5408,med,high,med,female,Trujillo
+Siberian Husky,17871.6636,51.9003,12.0547,med,med,short,female,Marquez
+Siberian Husky,17143.0797,52.3982,11.7571,med,med,med,male,King
+German Shepherd,34523.461,61.7304,10.2675,med,high,med,female,Reynolds
+Rottweiler,49770.5662,,9.9401,med,high,short,female,Sherman
+Siberian Husky,21422.1194,55.9838,11.8935,med,med,med,female,Patton
+Welsh Corgi,14294.2537,30.6851,11.4573,med,high,med,female,Simmons
+German Shepherd,36140.0668,63.4313,10.9732,high,med,med,female,Sanchez
+Welsh Corgi,13255.1394,,10.3,high,high,med,female,Smith
+Welsh Corgi,15719.8202,27.203,11.2684,med,high,med,male,Fields
+German Shepherd,36957.0715,,11.1801,med,med,med,male,Miller
+Rottweiler,47615.1795,64.6759,9.4572,med,high,short,male,Joyce
+Welsh Corgi,17392.2801,24.7874,10.9569,low,high,med,male,Jones
+Siberian Husky,16864.5565,,11.1016,med,med,med,male,Watson
+Rottweiler,57014.977,,10.4294,med,high,short,male,Sanchez
+Siberian Husky,16661.8408,,12.4632,med,low,med,female,Williams
+Rottweiler,51938.6197,,11.4207,med,high,short,male,Barnes
+Rottweiler,65331.0161,63.6964,10.1613,med,high,short,male,Escobar
+Rottweiler,49483.5798,,11.3011,med,high,short,male,Mcgee
+Welsh Corgi,14410.9315,28.6909,11.0393,med,high,med,male,Baker
+Welsh Corgi,15701.6449,27.469,12.072,med,high,med,male,Arellano
+Siberian Husky,17336.9663,51.8696,12.5965,med,med,med,male,Ruiz
+Rottweiler,63154.4124,66.4189,9.4621,med,med,short,male,Owens
+Welsh Corgi,11814.0347,31.1327,10.3593,high,high,med,male,Cook
+Rottweiler,55620.9999,,10.8491,med,high,short,female,Pittman
+German Shepherd,35857.0771,62.9081,9.8726,med,med,med,female,Shaffer
+Welsh Corgi,13767.7518,26.2569,10.8996,med,high,short,male,Vasquez
+Rottweiler,52271.2653,,9.7252,med,high,short,female,Holland
+Welsh Corgi,13074.3357,25.3985,11.3076,med,high,med,female,Taylor
+Siberian Husky,18185.1717,58.9672,12.5321,high,high,med,female,Brady
+German Shepherd,39293.6955,64.2088,11.0535,med,med,med,female,Davis
+Welsh Corgi,14262.1681,29.2786,10.9995,med,high,med,female,Hicks
+Rottweiler,41912.7441,,8.7051,med,high,short,male,Weaver
+Siberian Husky,17504.8733,54.0813,11.8248,med,high,med,male,West
+German Shepherd,36185.7198,,11.2346,med,med,med,female,Miller
+Siberian Husky,16861.8617,52.1197,11.7455,med,high,med,male,Novak
+Siberian Husky,21865.1969,52.9048,12.0217,med,med,med,female,Lewis
+Welsh Corgi,12576.5157,27.7688,11.0578,med,high,med,male,Schneider
+Rottweiler,59291.261,61.1552,9.7185,med,high,short,male,Bobby
+Siberian Husky,17328.1034,50.2848,13.2554,med,high,med,male,Moore
+Rottweiler,41157.683,63.3195,9.0665,med,high,short,male,Brown
+Rottweiler,59722.7418,68.1522,7.4851,med,med,short,male,Love
+Siberian Husky,25749.0486,51.5528,12.3441,med,low,med,male,Price
+Siberian Husky,24663.2137,55.5625,11.3178,med,med,med,male,Montgomery
+Welsh Corgi,13519.682,,11.2647,med,high,med,female,Horton
+Siberian Husky,18976.2648,55.9788,12.4469,med,med,long,male,Nguyen
+Welsh Corgi,11658.5624,27.9638,11.0627,high,high,med,female,Johnson
+Siberian Husky,21469.7798,,12.5121,med,med,med,male,Olson
+Welsh Corgi,11379.5013,29.331,11.012,high,high,med,male,Wallace
+German Shepherd,35193.4189,,10.7374,med,med,long,male,Joseph
+German Shepherd,39721.7211,,11.3548,med,med,med,female,Terry
+Rottweiler,54219.1271,65.9491,10.1921,med,high,short,female,Harrington
+Siberian Husky,22080.1657,59.0016,13.7952,low,med,long,female,Carney
+Welsh Corgi,15291.1146,28.5236,11.4371,med,high,med,female,Woods
+Welsh Corgi,13922.0756,26.9889,11.2638,med,high,med,female,Cook
+Welsh Corgi,11566.2718,29.3483,10.6528,low,high,long,male,Yang
+Siberian Husky,21532.3475,54.6732,12.2696,med,med,long,male,Chavez
+Welsh Corgi,13904.5773,31.2954,10.2729,med,high,med,male,Jordan
+Siberian Husky,17993.1774,54.5821,12.2476,med,med,med,male,Cook
+German Shepherd,37432.929,,9.4136,med,med,med,male,Williams
+Rottweiler,47526.0015,63.3969,9.6687,med,high,med,female,Young
+Rottweiler,44311.8082,63.3301,10.4745,high,high,short,male,Molina
+German Shepherd,36292.8352,58.023,12.1794,med,med,short,male,Wood
+Siberian Husky,19161.3812,51.6857,12.4958,med,med,med,male,Hopkins
+Rottweiler,42514.0189,,7.9155,med,high,short,male,Fuentes
+Rottweiler,52767.7181,63.7467,9.6252,med,high,short,female,Mullins
+Siberian Husky,16233.827,56.1299,11.5952,med,med,short,male,Woods
+German Shepherd,36307.7218,,10.8665,med,med,med,female,Ross
+Rottweiler,64269.5098,62.8796,9.2239,med,high,med,female,Leblanc
+Rottweiler,43954.7393,62.2036,9.4476,med,high,short,female,Campbell
+Welsh Corgi,13663.9678,31.0069,10.6986,med,high,med,female,Mora
+German Shepherd,35739.3785,58.3769,11.3369,low,low,med,male,Jennings
+Welsh Corgi,13546.4039,,12.3797,med,med,long,female,Peterson
+German Shepherd,37626.514,64.7888,11.0869,med,med,med,male,Sanchez
+Welsh Corgi,14191.7836,32.8477,9.3393,med,high,med,male,Lopez
+German Shepherd,36176.0523,60.232,11.4551,low,med,med,female,Young
+German Shepherd,36914.0941,58.4991,11.0402,med,low,long,female,Jenkins
+Siberian Husky,18326.9977,55.4071,12.4688,med,med,med,female,Francis
+Welsh Corgi,15757.6719,29.9313,10.4676,med,high,med,female,Acosta
+Siberian Husky,16308.4497,52.8607,12.6234,med,high,short,male,Hall
+Siberian Husky,16247.8325,54.3838,11.8211,med,med,med,male,Abbott
+Siberian Husky,19920.0418,56.4403,12.2572,med,low,med,female,Parker
+Welsh Corgi,14434.4318,25.021,12.4783,med,high,med,female,Warren
+Rottweiler,57179.3912,64.4226,9.8372,med,high,short,female,Johnson
+Rottweiler,44371.5931,,10.3364,med,high,short,male,Jackson
+German Shepherd,34375.1135,61.3033,11.6678,med,high,med,female,Taylor
+Welsh Corgi,14806.2916,31.5912,11.0878,med,high,short,male,Hendrix
+Rottweiler,51423.7966,,9.6929,med,high,short,male,Sanders
+Welsh Corgi,11415.5512,,9.607,med,med,med,male,Jones
+German Shepherd,37410.1791,,10.8941,med,med,med,female,Cross
+Welsh Corgi,10689.5695,29.002,9.6563,med,high,short,male,Rocha
+Siberian Husky,22243.2429,55.5647,11.7379,high,low,med,male,Matthews
+Siberian Husky,23836.2054,,12.0874,med,med,med,female,Velez
+Welsh Corgi,12224.6327,30.9506,11.6838,med,high,med,female,Scott
+Rottweiler,42637.2051,62.7399,9.956,med,high,short,female,James
+German Shepherd,34424.2384,,10.3127,high,med,long,male,Wilson
+Welsh Corgi,13142.6487,32.6086,11.2211,med,high,long,female,Gomez
+Welsh Corgi,11166.5719,26.0248,10.1609,high,high,med,male,Phillips
+Siberian Husky,16711.9444,54.2423,12.8673,med,med,med,male,Allen
+Siberian Husky,20779.7642,56.4185,11.8741,med,med,med,female,Olson
+Welsh Corgi,14033.908,28.2581,10.8174,med,high,med,male,Hill
+Rottweiler,44873.2724,64.9361,9.885,med,high,med,male,Frederick
+Rottweiler,55740.7392,,10.6382,med,high,short,male,Sullivan
+Rottweiler,55950.0196,64.2504,9.807,med,high,short,female,Scott
+Rottweiler,48970.483,62.3757,10.2616,med,high,med,female,Davila
+Siberian Husky,18919.4594,46.3157,12.0893,med,med,med,female,Moss
+German Shepherd,35864.8321,60.8507,8.9412,med,med,med,female,Phillips
+Welsh Corgi,15754.7037,29.6826,11.3069,med,high,med,female,Mahoney
+Welsh Corgi,12224.764,29.0384,11.1925,med,high,med,female,Mack
+German Shepherd,35827.6426,61.7542,10.5702,med,med,med,male,Christian
+Rottweiler,38950.6153,63.7975,10.01,med,high,short,female,Clark
+Welsh Corgi,14435.6337,26.4724,11.2362,med,high,med,male,Ponce
+Welsh Corgi,14818.47,29.9131,11.3668,med,high,med,male,White
+Rottweiler,43545.6405,64.0591,7.824,med,high,short,male,Gibson
+Welsh Corgi,13359.0124,27.6383,10.6269,med,high,med,female,Alexander
+German Shepherd,36216.7223,59.8622,11.4921,med,med,long,female,Ryan
+Siberian Husky,14978.006,53.8443,12.0464,high,med,long,male,Roberts
+Rottweiler,46700.1937,63.7163,8.732,med,high,short,female,Campos
+German Shepherd,39445.7949,61.4691,10.7439,med,med,med,female,Silva
+Siberian Husky,15955.9971,55.3906,11.8938,med,med,med,female,Williams
+Siberian Husky,15346.0457,55.3347,12.3957,med,high,med,female,Stevens
+German Shepherd,37664.8551,60.0069,11.3121,med,med,med,female,Richard
+Siberian Husky,16743.8289,53.1706,12.9831,med,high,med,female,Todd
+Rottweiler,25337.6051,,9.1925,med,high,short,male,Hansen
+Welsh Corgi,14350.0906,32.3212,10.2992,med,high,long,female,Fleming
+German Shepherd,37177.5706,58.9319,10.1723,med,med,med,male,Fowler
+Rottweiler,62881.5436,64.742,10.0055,med,high,short,female,Stephens
+German Shepherd,38000.2962,61.7216,11.009,high,med,med,female,Hampton
+German Shepherd,37242.3352,61.7763,10.5672,med,med,med,female,Dawn
+Welsh Corgi,14229.2941,29.0196,11.0571,med,med,short,female,Carter
+German Shepherd,37424.4347,60.2971,10.4694,med,low,med,male,Miller
+Siberian Husky,16674.3099,53.6138,12.1992,high,med,med,male,Merritt
+Siberian Husky,16464.1791,,11.0039,med,med,med,female,Levine
+Welsh Corgi,14037.3089,,11.4802,low,high,short,female,Phillips
+German Shepherd,35889.2036,60.3274,11.0929,med,med,med,female,Mcdonald
+Rottweiler,56953.1222,63.0362,8.7604,med,high,short,male,Higgins
+Siberian Husky,14754.733,,11.3326,high,med,med,male,Phillips
+Welsh Corgi,17391.6984,26.8946,11.9602,med,high,med,male,Wilkinson
+German Shepherd,38395.1537,59.3642,11.2884,low,med,med,male,Meyers
+Siberian Husky,17517.489,52.586,12.4459,med,med,med,female,Pennington
+German Shepherd,35971.8327,63.5121,11.9123,low,med,long,male,Austin
+Rottweiler,38759.0615,60.5946,8.6276,med,high,short,male,Sullivan
+German Shepherd,38309.5603,58.5078,10.5188,med,low,med,female,Tyler
+German Shepherd,37208.9686,63.3068,10.7875,med,high,med,male,Jones
+Rottweiler,50657.1022,63.3133,10.3236,med,high,short,male,Donald
+Siberian Husky,19599.5842,56.854,11.3563,high,med,med,female,Benjamin
+Rottweiler,41972.5454,64.9394,9.474,med,high,short,female,Watson
+Rottweiler,51660.3551,64.5059,10.4891,med,med,short,female,Martinez
+Siberian Husky,20165.9323,57.9873,12.6693,med,low,med,female,Peterson
+German Shepherd,39450.2621,60.4905,10.9628,med,high,med,male,Poole
+Rottweiler,37156.7006,66.9809,10.0893,med,high,short,male,Coleman
+Welsh Corgi,15537.4105,25.1944,10.5462,med,high,long,female,Henderson
+German Shepherd,35952.1386,59.6804,10.0103,med,med,long,female,Christensen
+German Shepherd,36815.6873,,11.1706,med,med,long,male,Lopez
+Siberian Husky,16858.6354,55.5126,11.5855,med,med,med,male,Kelly
+Rottweiler,53105.259,64.4959,9.7992,med,high,med,male,Henderson
+Welsh Corgi,15346.1119,28.3963,10.4757,low,high,long,male,Bennett
+Siberian Husky,18404.4935,57.2879,12.7032,med,med,med,male,Mejia
+Rottweiler,32007.4541,63.5854,9.5702,med,high,short,male,Ross
+Siberian Husky,18905.865,54.4665,11.6594,med,med,med,female,Parks
+Rottweiler,35501.1435,62.6925,7.529,high,high,short,male,Odom
+Siberian Husky,15010.9233,51.1018,12.2619,high,med,short,female,Sanders
+German Shepherd,39473.2666,63.3039,11.696,low,med,med,male,Reyes
+Siberian Husky,18197.4268,53.5986,11.3482,med,med,med,female,Cooper
+German Shepherd,36644.548,58.0871,11.8358,high,high,long,female,Payne
+Welsh Corgi,13845.6619,28.4711,10.6386,med,high,med,female,Perez
+German Shepherd,38048.3422,62.4269,11.5862,med,med,short,female,Michael
+German Shepherd,33972.653,60.5529,11.4752,med,med,med,male,Pierce
+Siberian Husky,18297.0207,56.5576,11.9795,med,med,short,female,Pham
+Siberian Husky,17374.9561,53.9189,13.8669,low,med,med,female,Nelson
+Siberian Husky,19270.1734,49.0196,12.5105,high,med,med,male,Baker
+Welsh Corgi,12707.1603,28.6122,9.4852,med,high,long,male,Pham
+Welsh Corgi,14051.2457,29.6371,11.3079,med,high,med,female,Horn
+Rottweiler,51056.6063,67.9445,8.9406,low,high,short,male,Shaw
+Rottweiler,46072.3305,61.4009,9.3787,med,med,short,male,Chandler
+Rottweiler,48380.3802,,9.5485,med,high,short,female,Gomez
+Welsh Corgi,15342.3216,30.2975,11.1495,med,high,med,male,Nguyen
+Rottweiler,39553.7184,64.9427,9.6079,med,high,short,female,Henderson
+Rottweiler,56863.7665,64.5474,9.307,med,med,short,male,Hunter
+German Shepherd,36983.4104,,11.3273,med,med,med,male,Reid
+Rottweiler,38636.1593,,10.2353,med,high,short,male,Boyd
+Rottweiler,49843.3247,62.3695,9.4463,med,high,short,male,Brown
+Welsh Corgi,15354.2479,,10.3415,med,high,med,male,Fowler
+Rottweiler,56400.9762,,9.7917,med,high,short,female,Blankenship
+German Shepherd,33755.8679,60.5899,11.2875,med,high,med,female,Roberts
+Siberian Husky,21079.3215,56.4716,11.9248,med,low,med,male,Lewis
+Siberian Husky,18144.9319,57.2515,11.2479,med,med,med,male,Martin
+German Shepherd,37214.3144,63.7123,10.6855,high,med,med,male,White
+Rottweiler,43560.3223,,9.0307,med,high,short,female,King
+Siberian Husky,21847.4556,54.6438,11.4565,med,med,med,male,Porter
+Welsh Corgi,14342.0763,28.8076,11.1792,med,high,short,male,James
+Siberian Husky,19472.8214,51.5404,11.7215,med,med,med,female,Edwards
+German Shepherd,36638.5347,60.8102,9.8258,med,med,short,male,Barnett
+Welsh Corgi,14021.5395,30.0198,10.7552,med,high,long,female,Morrow
+Welsh Corgi,15844.3795,29.1302,11.6467,med,high,med,female,Cox
+Rottweiler,59986.502,62.7391,9.8566,med,high,short,male,Brown
+Siberian Husky,21343.7796,,11.6359,med,med,med,female,Rose
+German Shepherd,39220.7225,,11.1712,med,med,med,female,Dougherty
+Siberian Husky,19329.9411,53.7477,12.8582,low,med,med,male,Mitchell
+Welsh Corgi,16795.5521,29.8448,10.4781,med,high,med,male,Smith
+Siberian Husky,19147.933,,12.2575,med,med,short,female,Schmidt
+Welsh Corgi,12031.1717,24.2466,10.9783,med,high,med,male,Snyder
+Rottweiler,44706.3629,63.4016,9.3773,med,high,short,female,Garner
+Welsh Corgi,12366.7538,,11.6346,med,high,long,female,Scott
+Siberian Husky,14973.7416,57.3364,11.5672,low,med,med,female,Wilson
+Siberian Husky,18423.5486,52.5056,12.2808,med,med,med,male,Cox
+Siberian Husky,19224.6041,53.9213,12.4016,med,med,med,female,Ruiz
+Siberian Husky,20295.1851,54.5418,12.0562,med,med,long,male,Foley
+German Shepherd,36778.2646,62.7245,9.9015,high,med,short,female,Armstrong
+Rottweiler,54504.1188,62.938,9.0598,med,high,short,female,Ellison
+German Shepherd,38169.2705,60.3794,11.1664,med,med,long,male,Hicks
+German Shepherd,36204.1027,58.3397,10.7361,med,med,med,male,Malone
+German Shepherd,36475.9582,,11.3835,med,high,long,female,Guzman
+Welsh Corgi,12245.142,27.3259,10.4306,med,high,med,male,Morton
+Welsh Corgi,11010.6441,,11.1379,med,high,long,female,Woods
+Siberian Husky,17377.5706,54.3176,11.0071,low,med,med,male,Powell
+Welsh Corgi,13614.9443,29.8496,9.9989,med,high,short,female,Cross
+German Shepherd,33238.583,,11.9674,med,low,med,female,Torres
+Siberian Husky,15147.7081,53.851,12.9797,med,high,short,female,Duke
+Rottweiler,48401.5856,64.1008,9.3397,med,high,short,male,Day
+Siberian Husky,19733.8283,50.2623,11.9244,med,low,med,female,Walls
+Siberian Husky,22139.9075,54.8154,11.4372,med,low,med,male,House
+German Shepherd,35312.8221,60.6952,11.2098,med,med,med,female,Allen
+Siberian Husky,19600.6209,56.4936,12.6837,med,low,med,female,Grant
+Rottweiler,47365.2276,63.4863,8.0766,med,high,short,female,Moody
+Welsh Corgi,16527.3273,27.7731,11.358,med,high,med,male,Lopez
+Rottweiler,49114.5622,63.6206,10.5997,med,high,short,female,Newton
+Rottweiler,52052.4003,63.267,9.9511,med,med,short,female,Middleton
+Welsh Corgi,19336.7621,,11.7599,med,med,med,male,Cox
+Rottweiler,31634.1092,,7.5036,med,high,short,female,Padilla
+Siberian Husky,17622.5319,53.9387,12.1972,med,low,med,male,Collins
+Welsh Corgi,13057.0534,27.0919,11.6308,low,high,med,male,Frost
+Siberian Husky,17382.5956,55.2532,11.3217,low,med,med,male,Davis
+Siberian Husky,17888.0019,55.9668,10.344,med,med,med,male,Porter
+German Shepherd,38797.4864,60.918,10.4914,med,med,med,female,Osborn
+Welsh Corgi,10935.681,29.4312,10.0106,med,high,med,male,Cole
+German Shepherd,39717.4281,61.271,11.0381,med,med,med,female,Ferguson
+Rottweiler,60087.4726,63.6453,9.5961,med,high,short,female,Medina
+Welsh Corgi,13779.2102,29.3663,10.876,med,high,med,male,Diaz
+Siberian Husky,18117.7086,,12.4744,med,med,med,female,Green
+Rottweiler,47760.9411,63.8819,10.4558,med,high,med,male,Lopez
+Rottweiler,63070.4701,62.4067,11.6651,med,high,short,female,Baker
+Siberian Husky,18897.0014,58.2374,13.1957,med,med,med,male,Chavez
+Welsh Corgi,10328.1534,31.7497,11.1582,med,high,long,male,Burton
+Welsh Corgi,13817.8244,27.315,10.6649,med,high,med,female,Davis
+German Shepherd,34440.4642,,10.4309,med,med,med,male,Smith
+Rottweiler,46465.0723,63.8697,7.4965,med,high,short,male,Richard
+Siberian Husky,20162.6023,52.3827,10.8264,med,med,med,female,Ingram
+Siberian Husky,18228.6909,52.0807,12.666,med,med,med,male,Moore
+Welsh Corgi,17240.4019,,12.1278,med,high,med,female,Mitchell
+Welsh Corgi,15695.5001,28.4969,11.0142,med,high,med,female,Savage
+Siberian Husky,21298.0147,55.6573,10.8347,med,med,med,male,Lewis
+Welsh Corgi,14021.4814,28.575,11.1744,med,high,med,male,Smith
+Rottweiler,45449.4978,64.0261,10.8301,med,high,short,female,Harris
+Rottweiler,45108.1573,65.6948,7.8417,med,high,short,female,Holt
+Rottweiler,52565.9691,64.787,9.742,med,high,short,female,Christian
+Rottweiler,40556.9373,64.3092,10.2638,med,high,short,male,Carpenter
+Rottweiler,50690.8153,,8.9091,med,high,med,male,Brooks
+Rottweiler,41839.2824,64.36,10.9526,med,high,short,male,Stone
+Siberian Husky,16875.8135,52.2531,11.9297,med,med,med,male,Smith
+German Shepherd,36152.9576,,11.5337,med,med,med,female,Reyes
+Rottweiler,39507.5212,60.7959,9.4903,med,high,short,male,Cox
+Siberian Husky,21257.0433,53.1254,11.6462,med,med,med,female,Jones
+Rottweiler,50722.6338,64.1803,9.5732,med,high,short,female,Church
+Rottweiler,44878.4682,65.0289,9.9727,high,high,short,male,Brown
+Siberian Husky,19353.9211,52.9565,11.4415,med,med,med,male,Reyes
+German Shepherd,35410.7122,61.8086,10.3491,med,high,med,male,Davis
+German Shepherd,37256.2772,63.5434,11.4957,low,med,short,female,Lang
+Rottweiler,44626.9337,61.3248,10.7188,med,high,short,female,Mcconnell
+Welsh Corgi,14881.7785,27.0199,10.9086,med,high,med,male,Reynolds
+Welsh Corgi,14014.6355,31.5449,12.2797,med,high,med,male,David
+Rottweiler,51780.0225,63.6558,9.4959,med,high,short,female,Schneider
+Rottweiler,55670.1572,,11.5603,med,high,short,male,Harper
+Rottweiler,56602.7412,,9.8936,med,high,short,male,Andrews
+Rottweiler,38489.7965,,9.3855,high,high,short,female,Moran
+Rottweiler,49510.6835,63.9774,9.7804,med,high,short,male,Collins
+Siberian Husky,19240.4109,54.1574,11.6987,low,low,long,female,Wiggins
+Siberian Husky,16088.9232,58.5087,11.5672,med,med,med,female,Williams
+Siberian Husky,19328.1939,55.4429,12.6845,med,low,long,female,Hernandez
+Siberian Husky,19726.0044,53.447,11.9865,med,med,med,male,Smith
+Welsh Corgi,15323.5199,,11.1746,med,high,med,male,Sanford
+Welsh Corgi,14382.3657,27.4707,11.0738,med,high,med,female,Davidson
+Siberian Husky,17116.5784,56.9394,12.726,med,low,med,male,Ramos
+Rottweiler,49408.0697,64.2693,9.5961,low,high,short,male,White
+Siberian Husky,17805.2256,53.6633,10.0835,med,low,med,male,Hansen
+German Shepherd,37605.63,62.1364,10.6214,med,med,med,male,Burns
+Siberian Husky,20517.1131,54.7654,11.8809,med,med,short,male,Gutierrez
+Rottweiler,48042.7267,62.6995,9.0544,med,high,short,female,Perez
+Rottweiler,44772.3215,62.4089,9.048,med,high,short,female,Harrison
+Welsh Corgi,12348.5551,28.325,10.682,med,high,med,female,Buck
+Welsh Corgi,10726.4343,27.3079,10.1179,med,high,med,female,Taylor
+Siberian Husky,19003.8637,54.5979,12.5469,med,med,med,female,Sanchez
+Siberian Husky,20741.273,53.7372,11.6466,med,med,long,female,Briggs
+Welsh Corgi,11341.1832,31.6561,11.2931,med,high,med,female,Jimenez
+Welsh Corgi,11865.3726,,10.6348,med,high,med,female,Reese
+German Shepherd,36195.3911,,10.7957,med,med,short,female,Rocha
+German Shepherd,39776.9995,60.3895,10.83,med,low,long,male,Landry
+Welsh Corgi,12619.5134,29.4683,11.3392,med,high,long,female,Camacho
+Siberian Husky,18214.516,57.1217,11.931,med,med,med,male,Arellano
+German Shepherd,35076.3211,60.3072,11.6686,med,low,med,female,Hill
+Siberian Husky,18757.0434,53.9556,12.132,med,med,med,male,Harrison
+Rottweiler,54728.9957,64.4084,8.8432,med,high,short,female,Aguilar
+Welsh Corgi,18644.1648,27.9661,9.9922,med,med,short,female,Mack
+Rottweiler,41476.9768,63.7934,10.3233,med,high,short,female,Reyes
+Welsh Corgi,11832.6321,31.6925,11.0035,med,high,med,male,Cooper
+German Shepherd,39017.767,,10.5358,low,med,med,female,Moore
+German Shepherd,37065.1572,60.1732,11.5505,high,high,short,female,Keith
+Siberian Husky,20935.3111,52.8063,11.7031,med,high,med,female,Harris
+German Shepherd,37824.8868,63.7426,10.7084,high,med,med,female,Bowen
+Welsh Corgi,12434.7472,27.0103,10.8245,med,high,med,male,Santiago
+Siberian Husky,18124.2901,,11.8317,med,med,med,male,Edwards
+Siberian Husky,18318.1444,53.8372,12.6266,med,med,med,female,Dominguez
+Rottweiler,51505.9162,60.6597,9.571,med,high,short,male,Mckinney
+Siberian Husky,21853.7142,,11.9168,med,high,med,female,Sanchez
+German Shepherd,35374.8655,,11.013,med,med,med,female,Smith
+Welsh Corgi,15776.6661,31.2962,9.9534,med,high,med,male,Bennett
+Siberian Husky,18640.7451,53.9266,11.9217,med,high,med,female,Russell
+Rottweiler,49588.2275,63.0351,9.3553,med,high,short,male,Smith
+German Shepherd,38299.4209,59.94,10.6293,high,med,med,male,Tyler
+Welsh Corgi,12999.6634,27.4678,10.7317,med,med,short,male,Valdez
+German Shepherd,35664.5279,60.6767,10.8925,med,med,med,female,Cook
+Rottweiler,66418.0977,63.8725,9.6138,med,high,med,male,Lopez
+Welsh Corgi,15468.1828,,10.2579,med,high,med,male,Mills
+Welsh Corgi,14350.9684,,11.463,med,high,med,female,Lee
+German Shepherd,37275.6646,61.0338,11.1847,med,low,short,male,Mitchell
+German Shepherd,34500.2613,,11.103,med,med,med,male,Davis
+Siberian Husky,20113.0482,,12.4004,med,med,med,female,Sanders
+German Shepherd,36323.1508,,11.3064,med,med,long,male,Wright
+Siberian Husky,19571.2775,54.2606,11.6702,med,med,long,female,Jackson
+Rottweiler,47886.6046,60.0541,8.6436,med,med,short,male,Parker
+German Shepherd,37612.4526,,12.1383,med,med,med,male,Alvarez
+Siberian Husky,18949.8544,,12.8194,med,high,med,male,Sanchez
+German Shepherd,38425.054,59.1535,12.4532,low,med,med,male,Landry
+Siberian Husky,21464.6226,53.7981,12.1595,med,med,med,male,Meyers
+Welsh Corgi,15760.248,27.5661,10.6315,med,high,med,female,Acosta
+Rottweiler,35737.2632,,8.9558,med,med,short,male,Gallegos
+Rottweiler,38737.8513,65.3813,9.8193,med,high,short,male,Martin
+Siberian Husky,19196.6316,55.675,12.2856,low,med,short,male,Crawford
+Rottweiler,44655.6884,62.7311,9.9026,med,high,short,male,Mcdaniel
+Rottweiler,45012.0703,63.6313,10.7794,med,high,short,female,Collier
+Welsh Corgi,12934.9032,32.8117,11.6042,med,high,long,male,Knight
+Rottweiler,56892.2358,,10.0019,med,med,short,male,Stewart
+Rottweiler,51701.5232,64.0332,9.3694,med,high,short,male,Pugh
+Welsh Corgi,13530.8173,31.6151,9.9666,med,high,med,male,Miller
+German Shepherd,36569.5172,59.8358,10.7185,med,med,med,male,Castillo
+Welsh Corgi,15319.8968,30.5477,9.824,low,high,med,female,Wilson
+Siberian Husky,21039.6096,55.0476,11.2191,med,med,med,male,Matthews
+Siberian Husky,19275.9875,54.5069,11.8103,med,med,med,male,Allen
+German Shepherd,35800.789,60.2764,11.3478,med,med,long,female,Hayes
+Siberian Husky,20730.0493,,11.506,high,med,med,male,Mccoy
+Rottweiler,42747.9531,,10.33,med,high,short,female,Hamilton
+Siberian Husky,22948.3678,54.3256,12.0534,med,med,med,male,Hurley
+Rottweiler,35576.4433,65.2567,8.7332,high,high,short,male,Clements
+Siberian Husky,19231.979,55.6726,11.8023,high,med,med,female,Green
+Siberian Husky,22216.6407,57.1065,11.8418,med,med,med,male,Howell
+Rottweiler,59100.7446,65.2983,7.0629,med,high,short,female,Griffin
+Welsh Corgi,11771.0899,32.0064,10.974,med,high,med,male,Wilson
+Rottweiler,41057.8796,61.6687,9.9837,med,high,short,male,Robinson
+Siberian Husky,18563.8546,,12.5323,med,med,med,female,Miller
+Siberian Husky,18145.8496,53.6435,12.3279,med,med,med,female,Lopez
+Siberian Husky,17125.9355,57.8054,12.2156,med,high,short,male,Watson
+Welsh Corgi,13308.7747,31.3967,11.1401,med,high,short,male,Mack
+German Shepherd,37421.0486,,10.158,med,high,med,male,Leonard
+Welsh Corgi,14547.0079,32.7175,10.997,med,high,med,male,Moore
+German Shepherd,38040.2162,64.0393,12.0113,med,med,med,female,Peterson
+German Shepherd,34917.8039,61.7234,11.5295,high,med,med,male,Hubbard
+Rottweiler,45816.4919,61.0555,9.2244,high,high,short,male,Miles
+Welsh Corgi,11789.932,32.6116,10.7186,med,high,med,male,Rice
+Welsh Corgi,13570.257,,10.3589,med,high,long,male,Ramirez
+German Shepherd,37296.9013,,11.2699,med,med,med,female,Perkins
+Welsh Corgi,14050.3983,33.2443,10.6566,med,high,med,female,Meyer
+Welsh Corgi,15551.6251,,11.743,low,high,med,female,Smith
+German Shepherd,36995.6313,60.4312,10.4275,med,med,long,female,Rodriguez
+Welsh Corgi,15351.2534,28.5757,10.6501,low,high,short,male,Schneider
+Welsh Corgi,17415.177,30.9788,11.1721,med,high,med,female,Mcdonald
+Welsh Corgi,13093.5682,25.658,11.0104,med,med,med,female,Hall
+German Shepherd,35860.4327,59.386,10.4653,med,med,med,female,Galloway
+Siberian Husky,17555.4371,57.5397,13.432,high,high,med,female,Reed
+German Shepherd,35640.5758,,10.7573,med,med,med,male,Hughes
+Welsh Corgi,13841.0064,26.8813,10.9888,med,high,med,female,Rosales
+German Shepherd,36072.9432,,10.8602,med,med,med,female,Jordan
+Welsh Corgi,11611.3295,31.3796,10.5054,low,high,med,male,Reynolds
+Siberian Husky,19089.0327,,12.8861,med,med,med,male,Murillo
+Siberian Husky,18183.3987,54.8051,11.8687,med,med,med,female,Crawford
+Siberian Husky,19112.7345,55.3583,11.136,med,med,med,male,Cook
+Siberian Husky,17959.6988,52.3226,11.9135,med,med,med,female,Patel
+Siberian Husky,19544.5831,58.4039,12.5578,low,med,short,female,Dominguez
+Welsh Corgi,12975.7872,25.9502,11.0201,low,high,short,male,Allen
+Siberian Husky,20312.4491,55.9026,12.582,med,med,med,male,Johnson
+Welsh Corgi,13612.7531,26.9334,10.9326,med,high,short,female,Roach
+Welsh Corgi,15379.6133,25.4423,10.3351,med,high,med,female,Casey
+Welsh Corgi,17223.3906,31.1725,11.1807,low,high,med,female,Ortega
+Welsh Corgi,13625.3959,33.5651,10.0601,high,high,med,female,Hernandez
+Welsh Corgi,16518.4899,29.3009,10.9536,med,high,med,male,Molina
+Welsh Corgi,14572.8179,,10.867,med,high,med,male,Bean
+Rottweiler,48174.0611,63.4126,8.9745,med,high,short,male,Jones
+German Shepherd,35897.8622,61.4994,10.2108,med,med,med,female,Parker
+Rottweiler,53091.2833,62.6913,9.907,med,high,short,female,Taylor
+Welsh Corgi,12966.1475,27.8017,11.5945,med,high,med,female,Stein
+Siberian Husky,21029.1472,54.0408,11.1617,med,high,med,female,Cox
+Welsh Corgi,16399.9889,28.9354,11.2384,med,high,med,male,Smith
+German Shepherd,37391.2614,61.4935,11.0992,med,low,med,male,Gomez
+German Shepherd,36727.2425,59.9296,11.2859,med,med,med,female,Nelson
+German Shepherd,34177.0322,60.1702,11.0366,high,med,med,male,Lewis
+Siberian Husky,17990.4216,,11.7894,med,med,long,female,Evans
+Siberian Husky,16777.1143,51.7506,10.9488,med,low,med,female,West
+Welsh Corgi,14343.6602,26.2309,10.748,med,high,med,female,Allen
+Rottweiler,52228.8465,62.8645,8.6193,med,high,short,male,Yang
+Rottweiler,41612.3148,64.1131,9.8222,med,high,short,female,Crane
+Siberian Husky,20816.206,54.7114,11.5187,med,med,med,male,Martinez
+German Shepherd,36927.3497,62.2034,10.9716,low,med,med,male,Spears
+Welsh Corgi,15043.7805,32.6082,11.2928,med,high,med,male,Curry
+Welsh Corgi,12736.0106,25.4761,10.7428,high,high,long,male,Macdonald
+Welsh Corgi,12324.0227,31.7323,12.1227,med,high,med,female,Osborn
+German Shepherd,36885.7417,58.902,10.3316,low,low,med,male,Luna
+Siberian Husky,17485.895,55.7387,11.6854,low,med,med,male,Pacheco
+Rottweiler,35260.6871,61.6892,9.8476,med,high,short,female,Brown
+Rottweiler,60583.7399,60.0038,9.6065,med,high,short,male,Clark
+Welsh Corgi,14281.6038,29.3285,10.4617,med,high,med,female,Lewis
+German Shepherd,34640.2257,,11.5149,low,low,med,male,Castro
+Rottweiler,43029.7231,63.1077,9.4515,med,high,short,male,Perkins
+Siberian Husky,18540.2705,53.1024,10.8205,med,high,med,female,Brooks
+German Shepherd,35147.959,61.5792,10.8859,med,low,long,male,Greene
+Siberian Husky,19791.173,52.7936,10.5712,med,high,med,male,Webb
+Rottweiler,42632.7377,65.0723,7.975,med,med,short,male,Williams
+German Shepherd,36862.4624,59.8994,10.8573,med,low,med,female,Lozano
+Rottweiler,44081.1659,65.6014,10.2875,high,high,short,male,Jackson
+Siberian Husky,19053.7522,52.2391,12.9832,low,med,med,female,Arnold
+German Shepherd,35258.7284,,11.286,med,med,med,male,Lam
+German Shepherd,36374.8107,63.8905,10.4021,med,med,med,female,Rowland
+Rottweiler,49300.1833,,8.9792,med,high,short,male,Wade
+German Shepherd,36910.8285,59.9815,10.6906,med,med,short,male,Martinez
+German Shepherd,35690.2497,57.7038,10.4245,med,med,med,male,Owens
+Rottweiler,54263.4518,,9.2655,med,high,med,male,May
+Siberian Husky,19976.1399,,11.3294,high,med,med,female,Reed
+German Shepherd,38940.6545,61.2747,10.0074,med,med,med,female,Nguyen
+Rottweiler,48417.6722,63.2095,9.1048,med,high,short,female,White
+Rottweiler,46480.3362,,9.933,med,high,short,female,Ayala
+Rottweiler,38964.3085,,8.3289,med,high,short,male,Leach
+German Shepherd,38113.5341,58.229,12.0624,med,high,long,male,Smith
+German Shepherd,32646.577,64.6647,11.0686,med,med,med,male,Jordan
+Siberian Husky,19951.3602,51.1253,11.8589,high,med,short,female,Gonzales
+Siberian Husky,17297.0348,54.3464,12.8127,med,low,long,female,Young
+Rottweiler,62225.7133,66.6019,11.3563,med,med,short,female,Rodriguez
+German Shepherd,36759.5569,61.2927,10.2244,high,med,med,female,Holland
+Welsh Corgi,13030.8557,30.1751,12.0137,med,high,med,female,Mckee
+Rottweiler,70217.2623,64.2719,8.6712,med,high,short,male,Brady
+Welsh Corgi,13160.641,28.606,11.5421,med,high,short,male,Weaver
+German Shepherd,37231.9639,61.8361,11.3184,med,med,med,female,Patterson
+Siberian Husky,17632.7173,,12.7571,med,med,med,female,Adams
+Rottweiler,47550.2645,63.6767,10.5339,med,high,short,female,Oconnor
+Welsh Corgi,16401.9668,30.8732,10.3929,high,high,med,female,Keller
+Rottweiler,48985.5756,65.5368,9.567,med,high,short,female,Moore
+Siberian Husky,19973.2664,50.6264,11.8348,med,med,med,female,Fisher
+Siberian Husky,17411.5971,55.8183,12.0311,med,med,med,female,Chang
+Welsh Corgi,13819.8411,31.9538,11.7392,med,high,long,female,Allison
+Rottweiler,62457.7196,62.138,10.0894,med,high,short,female,Washington
+Welsh Corgi,13801.6526,30.0408,10.1629,med,high,med,male,Turner
+Welsh Corgi,15610.5434,25.821,10.3981,med,high,med,male,Smith
+German Shepherd,35029.7578,63.2503,10.9964,med,med,med,female,Carpenter
+German Shepherd,38283.6218,60.8094,11.2607,med,med,med,female,Marks
+Welsh Corgi,12787.0717,26.2898,11.3327,low,high,med,male,Lam
+Welsh Corgi,17137.6899,,11.4491,med,high,med,female,Shaw
+Welsh Corgi,14483.5096,28.7588,11.1752,med,med,short,male,Collins
+Welsh Corgi,17445.8816,26.4674,10.6848,med,high,med,female,Turner
+German Shepherd,36671.6111,61.4229,10.9497,med,high,short,male,Delacruz
+Welsh Corgi,13148.8569,27.9971,10.8349,high,high,med,male,Anderson
+Rottweiler,44764.9135,64.1479,9.7675,high,high,short,female,Miller
+Rottweiler,47796.0175,63.0244,10.0435,med,high,med,male,Rojas
+Welsh Corgi,14834.7257,31.8235,12.1363,med,high,med,female,Park
+German Shepherd,36425.0898,59.4147,11.2441,med,med,med,female,Miller
+Siberian Husky,19248.1301,53.7393,11.7319,high,med,med,male,Tammie
+Welsh Corgi,10317.4752,,10.9785,med,high,long,male,Sandoval
+Siberian Husky,19943.0664,,11.5657,low,med,med,female,Johnson
+Rottweiler,41782.2033,68.3287,9.4581,med,high,short,female,Torres
+Welsh Corgi,15940.6055,,11.5564,med,high,med,male,Wade
+Welsh Corgi,12735.8221,30.7414,11.2469,med,high,short,male,Warner
+German Shepherd,37293.8209,60.5615,10.3181,low,med,med,male,Kelly
+Welsh Corgi,13774.9704,30.3593,11.8616,low,high,short,female,Collins
+German Shepherd,32991.3014,58.5437,11.9752,med,med,long,female,Miles
+German Shepherd,38926.1557,,11.5702,low,med,med,female,Jones
+Siberian Husky,20938.5301,53.6663,11.8267,med,med,med,female,Mendez
+Siberian Husky,16550.0237,,11.8655,med,med,med,male,Perez
+Siberian Husky,22102.4269,60.1977,11.7937,high,med,short,female,Mann
+Siberian Husky,19490.7218,52.6769,11.5034,low,med,med,female,Mclaughlin
+Welsh Corgi,16160.1768,25.8195,11.5875,low,med,med,female,Knight
+Welsh Corgi,14784.2756,,11.2946,med,high,med,female,Watkins
+Rottweiler,54639.0817,65.6588,8.3783,med,high,short,male,Richards
+Siberian Husky,18121.9868,54.7296,12.0368,med,med,med,female,Carroll
+German Shepherd,37515.3987,60.8521,10.4667,med,med,med,female,Conner
+Rottweiler,45144.2486,61.4541,10.3308,med,high,short,male,Santos
+Rottweiler,56809.5513,64.7699,8.0331,med,high,short,female,Townsend
+Welsh Corgi,12252.8225,,11.4172,med,high,med,male,Smith
+German Shepherd,33044.8503,62.066,11.6885,med,med,med,female,Benson
+German Shepherd,37239.5679,59.5625,10.8529,med,med,med,male,Collins
+Siberian Husky,18349.6339,54.2305,10.9135,med,med,short,male,Rangel
+Rottweiler,46618.7196,61.9509,11.021,med,high,med,male,Ortiz
+German Shepherd,36268.7876,60.3785,11.0431,med,med,med,female,Scott
+Siberian Husky,20281.0135,,12.6946,med,med,med,male,Tucker
+Siberian Husky,14451.0807,54.6674,12.0669,med,med,long,male,Carter
+German Shepherd,38876.923,61.5769,11.1678,med,med,long,female,Hoover
+Siberian Husky,21738.8771,56.4587,12.8353,med,med,med,female,West
+Rottweiler,55769.2871,65.9357,10.181,med,high,short,female,Bryant
+German Shepherd,37277.7384,61.8972,10.4322,med,med,med,male,Martinez
+Welsh Corgi,15368.9855,26.2412,11.1632,med,high,med,female,Foster
+German Shepherd,36227.7096,60.5537,11.2729,med,med,med,male,Cabrera
+Siberian Husky,17736.4281,52.7865,11.9192,med,med,med,male,Hernandez
+Welsh Corgi,16156.2454,32.7138,11.1813,med,med,med,male,Morrow
+Siberian Husky,17450.0281,,11.8679,low,med,med,male,Clark
+Rottweiler,47031.5848,65.1425,9.2485,med,med,short,female,Barnes
+Welsh Corgi,18928.2748,28.8948,11.4491,med,high,long,male,Barnes
+German Shepherd,35313.4389,60.9829,12.1389,med,med,med,female,Robertson
+Welsh Corgi,12991.5336,28.6894,12.2375,med,high,med,male,Blackburn
+Siberian Husky,20693.7919,55.4853,11.5455,med,med,med,male,Perez
+Siberian Husky,17767.2428,58.2826,11.8558,med,med,med,female,Shepherd
+Welsh Corgi,15909.6877,30.3285,11.4606,med,high,med,female,Mendez
+German Shepherd,38292.1491,60.1772,11.3046,med,med,med,female,Adams
+Rottweiler,36646.2999,63.9055,8.487,med,high,short,female,Schmidt
+German Shepherd,36730.7717,62.4517,10.2657,med,med,med,female,English
+Rottweiler,58991.251,62.2664,9.6371,med,high,short,male,Garcia
+Siberian Husky,21003.2998,57.1618,11.8482,med,med,med,male,Hogan
+Rottweiler,42817.7814,,11.035,med,high,short,female,Nelson
+German Shepherd,37331.7466,62.458,11.9875,med,low,med,female,Howell
+Welsh Corgi,14017.8791,26.2197,11.6207,med,high,med,male,Bryant
+Siberian Husky,18664.1192,53.1122,11.5337,med,med,short,female,Williams
+Welsh Corgi,13821.5634,25.817,11.3022,med,high,short,male,Grant
+Welsh Corgi,17245.2135,28.8111,9.6699,med,high,med,male,Wagner
+Welsh Corgi,11943.6897,,11.1087,med,high,med,male,Ross
+German Shepherd,36960.4217,60.8573,10.1658,low,high,med,female,Brown
+Welsh Corgi,12677.7618,29.208,12.1365,med,high,med,male,Dennis
+Welsh Corgi,14755.0206,,11.4275,med,high,med,female,Gallagher
+Rottweiler,43100.2655,62.3659,8.5146,med,med,short,female,Jarvis
+Rottweiler,40837.1109,66.0194,8.8654,med,high,med,male,Barber
+Siberian Husky,20577.5547,56.9001,12.0036,med,med,med,male,Davis
+Siberian Husky,18525.2535,52.2837,12.8942,med,med,med,male,Phillips
+Rottweiler,63022.098,63.4356,8.1926,med,high,short,female,Simmons
+Welsh Corgi,11740.0151,29.2577,10.7144,low,med,med,male,Tran
+Siberian Husky,20644.1632,54.161,10.8001,med,low,med,female,Steele
+Siberian Husky,21341.9928,50.643,11.0372,low,med,med,male,Cervantes
+German Shepherd,38628.3999,,11.4491,med,med,med,male,Rice
+Rottweiler,48860.5692,63.0434,8.7412,med,med,short,female,Martinez
+Rottweiler,44750.7933,61.1894,9.3087,med,high,short,female,Wright
+Welsh Corgi,15200.5133,32.6905,11.2466,med,med,med,male,Gallegos
+Rottweiler,30604.2295,,9.1236,med,high,short,male,Fernandez
+Rottweiler,52964.1,,9.418,med,high,short,female,Watkins
+Welsh Corgi,16412.9427,24.9348,11.2923,med,med,med,female,Scott
+Welsh Corgi,15717.4021,,10.6163,med,high,med,male,Miller
+German Shepherd,38366.0854,61.9408,10.8164,med,med,short,female,Smith
+Welsh Corgi,10904.058,27.2668,10.6589,med,high,med,male,Smith
+Rottweiler,41470.1,58.6244,9.7215,med,high,med,male,Roman
+Rottweiler,39851.8735,60.5235,9.9442,med,high,short,female,Martinez
+Welsh Corgi,16571.0048,28.9165,10.571,low,high,med,female,Dennis
+Rottweiler,42477.3803,62.5799,10.9021,med,high,med,male,Smith
+Welsh Corgi,12042.2061,30.7813,12.1073,med,med,med,female,Jacobs
+Rottweiler,55349.9265,,9.74,med,high,short,male,Eaton
+Siberian Husky,19226.4362,,12.1423,med,med,med,female,Odonnell
+Siberian Husky,16288.5156,52.2535,13.3959,med,med,long,male,Hess
+Siberian Husky,20177.9313,52.8151,11.1839,med,low,med,female,Buckley
+Siberian Husky,19283.3035,56.9296,11.5151,med,med,med,male,Roach
+Rottweiler,42739.0225,64.7886,9.4198,med,high,short,male,Andrews
+Siberian Husky,18283.715,52.655,12.0818,med,low,med,female,Tate
+Rottweiler,38742.8701,64.4834,6.4379,low,high,short,male,Lopez
+Welsh Corgi,12830.3859,,10.7887,med,high,med,female,Lopez
+Welsh Corgi,18568.0377,,10.0236,high,high,med,male,Mcbride
+Rottweiler,42928.4267,65.0966,10.5945,med,high,short,male,Hooper
+German Shepherd,33181.8966,60.6426,10.769,med,med,long,male,Hickman
+Welsh Corgi,16170.1607,30.4815,11.2823,high,high,med,male,George
+German Shepherd,36359.7162,59.7925,10.5032,med,med,med,female,Guerrero
+Siberian Husky,18677.5395,54.6198,12.5933,med,high,med,male,Vargas
+Rottweiler,60984.237,66.1466,8.6334,med,high,short,male,Wu
+Siberian Husky,21043.9319,53.6339,11.929,med,med,med,female,Morrison
+Rottweiler,52850.2587,64.664,9.749,med,high,short,male,Gardner
+Rottweiler,51839.587,63.8645,9.2776,med,high,short,male,Bailey
+Rottweiler,43952.4535,64.4991,7.198,med,high,short,female,King
+Welsh Corgi,13348.9638,26.5441,10.7417,med,high,med,male,Lopez
+German Shepherd,37668.4269,63.041,11.2929,med,low,med,female,Miller
+Rottweiler,51350.3505,62.6311,9.6673,med,med,short,male,Morales
+Rottweiler,55205.9899,,8.7797,med,high,short,male,Holland
+Siberian Husky,20268.0432,51.0648,11.3776,med,med,med,female,Bryant
+Welsh Corgi,12985.899,32.9474,10.0851,high,high,med,female,White
+Rottweiler,51714.7756,62.9477,10.748,low,high,med,male,Monroe
+Rottweiler,53231.8877,63.4951,10.597,med,high,short,female,Hernandez
+German Shepherd,34727.8568,62.5281,10.9125,med,high,long,male,Martinez
+Siberian Husky,18988.9947,57.7246,10.7977,med,med,med,male,Howe
+Rottweiler,44602.7524,64.1848,9.713,med,high,short,female,Kane
+Rottweiler,58845.6678,61.0768,9.6116,low,high,short,male,Reynolds
+Rottweiler,39920.1237,61.3882,10.9565,med,high,med,female,Smith
+Siberian Husky,19650.8712,56.7424,11.3648,high,med,short,male,Joseph
+Siberian Husky,14701.6991,56.6303,11.2577,med,med,med,female,Rodriguez
+German Shepherd,36250.8315,,9.6121,med,med,med,male,Smith
+Welsh Corgi,14387.8882,28.2924,11.1214,med,high,short,female,Michael
+Siberian Husky,18099.3111,57.7427,13.1686,med,med,med,female,Jenkins
+Welsh Corgi,13135.122,31.8608,10.7945,med,high,long,female,Reed
+Siberian Husky,18459.6403,56.34,11.2842,med,high,med,male,Vincent
+Welsh Corgi,11268.405,,10.629,low,med,med,male,Conner
+German Shepherd,36319.8066,60.0251,10.2371,med,med,short,female,Smith
+Welsh Corgi,12698.0923,30.0876,11.5636,med,high,long,female,Sweeney
+German Shepherd,35100.7558,61.6258,9.5997,med,med,short,male,Jones
+Siberian Husky,18416.5903,,11.8764,med,med,long,female,Tran
+Welsh Corgi,15427.8569,,11.1283,med,high,med,male,Ortega
+German Shepherd,37029.1693,,10.5104,med,med,med,male,Medina
+Rottweiler,63958.815,62.827,8.6296,med,high,short,male,Brown
+German Shepherd,35955.9228,61.6053,11.6467,med,med,med,male,Garcia
+Welsh Corgi,16220.5762,28.054,10.614,med,high,med,female,Copeland
+German Shepherd,38686.3099,58.0529,10.8282,med,med,med,male,Brooks
+Welsh Corgi,16383.0622,29.9154,11.937,med,high,short,female,Wilson
+German Shepherd,35341.9068,62.0347,10.5711,med,med,med,male,Benjamin
+Rottweiler,51910.8067,65.478,8.99,med,high,short,female,King
+Welsh Corgi,15308.0927,31.779,11.967,med,high,med,male,Walker
+Rottweiler,53106.3875,63.4118,9.4026,med,high,short,female,Frazier
+Siberian Husky,18388.2213,51.8401,11.3581,med,med,med,female,Johnson
+Welsh Corgi,11511.8698,25.4445,10.3099,med,high,med,male,Hall
+Siberian Husky,17490.1217,,12.0402,med,med,med,female,Jackson
+Welsh Corgi,15275.1481,26.7395,11.3673,med,high,med,female,Russell
+Rottweiler,40964.033,63.6399,7.7955,med,high,short,male,Young
+German Shepherd,36355.5392,,9.871,med,med,med,male,Hayes
+Siberian Husky,19179.3452,53.6981,12.0689,low,med,med,female,Garcia
+Rottweiler,41426.2382,65.19,10.3994,med,high,short,female,Long
+Welsh Corgi,12906.5264,24.6675,11.7618,med,high,med,male,Kelley
+Siberian Husky,20633.2203,54.5466,11.6541,high,med,long,male,Rodriguez
+Welsh Corgi,15751.1353,,11.0163,med,high,long,female,Porter
+Rottweiler,38411.754,64.5017,9.4394,med,med,short,male,Hunt
+Welsh Corgi,13268.5685,30.1119,12.2772,low,high,med,female,Caldwell
+German Shepherd,37854.4955,62.1675,10.2262,med,med,med,female,Hughes
+German Shepherd,37123.2387,60.9871,11.1617,med,med,med,male,Greene
+German Shepherd,36261.323,58.6229,10.9972,med,med,med,female,Deleon
+German Shepherd,38674.1926,,10.3422,med,high,short,male,Patterson
+German Shepherd,36617.7402,,11.8773,med,med,med,male,Torres
+German Shepherd,38028.3394,,10.4727,med,high,med,male,Murray
+Welsh Corgi,13588.1092,28.1639,11.1791,high,high,med,male,Smith
+Siberian Husky,19470.6519,55.5444,11.7182,low,low,long,female,Clay
+Welsh Corgi,15167.4854,24.5439,10.8498,high,high,long,male,Bass
+German Shepherd,36788.6557,62.4853,11.0736,med,med,med,male,Alexander
+Welsh Corgi,10863.9343,26.6997,10.5955,med,high,long,female,Rose
+Welsh Corgi,12265.0142,27.7147,12.4196,high,high,med,female,Price
+Siberian Husky,20621.0346,54.0595,11.5228,med,med,med,male,Frazier
+Rottweiler,43264.5499,66.1706,8.9199,low,high,short,female,Clark
+German Shepherd,36871.6243,62.3484,10.807,med,low,med,female,Gonzalez
+Welsh Corgi,11200.3721,25.4853,11.5537,med,high,med,male,Brown
+German Shepherd,38472.8056,,10.7749,med,med,med,male,Dougherty
+Siberian Husky,19512.6703,53.5613,11.9039,med,med,med,male,Fuller
+German Shepherd,37505.6171,58.2928,10.8852,med,med,med,female,Sexton
+Welsh Corgi,15704.5001,27.5772,10.8919,med,high,med,female,Thornton
+Welsh Corgi,11724.1879,26.8568,10.2806,med,med,med,female,Miller
+Welsh Corgi,14995.0931,28.0855,11.3083,med,high,med,female,Reid
+Welsh Corgi,10925.9273,,10.9638,med,high,med,female,Mccarthy
+Siberian Husky,23018.8708,54.2739,10.6233,med,med,med,female,Collins
+Siberian Husky,15719.5956,56.6089,12.9998,med,low,med,male,Moody
+German Shepherd,37837.9026,60.8021,11.3822,low,med,med,female,Aguilar
+Siberian Husky,19078.6586,53.4703,12.5025,med,med,med,male,Robertson
+German Shepherd,36760.0525,60.5426,11.2749,med,high,med,female,Hart
+Welsh Corgi,15500.9202,28.8759,10.9222,med,high,med,male,Stein
+Rottweiler,43858.5668,,9.2293,med,high,short,female,Johnson
+Siberian Husky,16928.4812,53.3128,12.1091,med,med,med,male,Clements
+Welsh Corgi,12063.0927,,10.13,med,high,med,female,Soto
+Welsh Corgi,15885.316,,11.3881,med,high,med,male,Thompson
+Rottweiler,47917.8071,,10.0167,med,high,short,female,Deleon
+Rottweiler,42995.6531,63.049,9.7934,med,high,short,female,Walsh
+Welsh Corgi,15322.6586,28.5071,11.1385,med,high,med,female,Contreras
+Rottweiler,50365.8098,61.9836,11.0004,med,high,short,female,Flores
+Rottweiler,64262.6413,61.5134,10.4592,med,high,short,male,Johnson
+German Shepherd,37424.8745,63.9023,11.084,med,med,long,female,Kelley
+German Shepherd,34324.1728,,10.7064,low,med,med,male,Lopez
+German Shepherd,32586.8384,62.2026,10.9526,high,med,long,male,Walker
+Welsh Corgi,14924.7681,,9.6825,high,high,med,female,Gaines
+Rottweiler,55490.4912,62.6193,10.5173,med,high,short,female,Moses
+German Shepherd,35485.5399,,11.5533,med,med,med,female,Wood
+Welsh Corgi,14258.5607,,11.1066,low,high,med,male,Marilyn
+Rottweiler,42893.8374,63.5915,8.6055,med,high,short,male,Armstrong
+Welsh Corgi,11524.8115,27.7991,10.3457,med,high,med,female,Rose
+Siberian Husky,18768.441,56.8766,11.4811,med,low,short,male,Riggs
+Welsh Corgi,16161.5623,22.9637,10.122,med,high,med,female,Goodman
+Rottweiler,48797.9102,65.1349,8.9494,med,high,short,female,Thompson
+Welsh Corgi,12463.4224,28.7631,10.6041,med,med,med,female,Wallace
+German Shepherd,37366.1238,65.7344,10.4795,med,med,long,female,Moore
+German Shepherd,36544.9279,63.6295,11.0996,med,low,med,female,Cox
+German Shepherd,38751.6427,,10.7078,med,med,med,male,Turner
+Welsh Corgi,13796.668,,9.7922,med,high,med,female,Ellis
+Siberian Husky,20310.0872,57.3609,11.2181,med,med,med,male,Carroll
+Siberian Husky,18026.9074,,11.7962,med,med,med,male,Palmer
+Rottweiler,55806.2959,65.3719,9.7736,med,high,med,female,Chen
+Welsh Corgi,15285.0224,,11.7175,med,high,med,female,Jones
+German Shepherd,36585.8463,63.2225,10.3979,med,med,med,female,Diaz
+Siberian Husky,20046.9798,57.8633,11.5917,high,high,med,female,Choi
+Welsh Corgi,15932.909,,11.585,low,high,short,male,Wood
+Rottweiler,51541.8827,63.3413,10.6075,med,high,short,male,Li
+Welsh Corgi,15154.3819,30.0755,11.5216,med,high,med,male,Morris
+German Shepherd,35577.7078,61.1629,10.7303,med,med,long,male,Wade
+Siberian Husky,14857.6939,55.9246,12.6719,med,med,med,female,Rodriguez
+Rottweiler,47360.2355,63.0337,10.1289,med,high,short,male,Moore
+Welsh Corgi,16355.7048,27.8543,10.8645,med,high,med,male,Forbes
+German Shepherd,36137.8236,,12.2083,med,med,long,male,Morse
+Welsh Corgi,10806.9557,30.2664,10.9571,med,high,med,male,Wheeler
+Siberian Husky,20170.8312,55.647,12.2553,med,med,med,female,Roberts
+German Shepherd,38021.5764,59.1406,11.4708,med,high,med,female,Yang
+Rottweiler,41331.7927,62.5638,10.3526,med,high,short,male,Wagner
+Siberian Husky,20024.0986,55.6656,11.5305,med,med,med,female,Johnson
+Siberian Husky,18330.0096,56.9354,12.0384,med,high,med,female,Rivera
+Siberian Husky,19512.3631,,11.8402,med,med,med,female,Ferguson
+Rottweiler,47904.7988,61.9411,8.2934,high,high,med,female,Morris
+Rottweiler,49197.0402,65.1507,9.6535,med,high,short,female,Quinn
+German Shepherd,36443.7575,59.447,11.4015,med,med,long,male,Watts
+Siberian Husky,18377.9924,50.1884,12.9791,low,med,med,female,Avila
+Siberian Husky,19583.9146,57.929,12.3711,med,med,med,male,Martinez
+Siberian Husky,19867.7499,,12.557,med,med,med,female,Reed
+Rottweiler,49206.8245,62.0022,10.0418,med,high,short,female,Brown
+Rottweiler,46445.233,64.4107,9.0239,med,high,short,female,Maldonado
+Welsh Corgi,14280.6587,30.8346,10.3258,med,high,med,male,Wood
+Rottweiler,61969.2444,66.3742,11.3303,med,high,short,female,Davis
+Rottweiler,51419.5854,63.5352,10.57,med,high,short,female,Mcgee
+German Shepherd,34759.1259,59.9688,10.6353,med,med,med,male,Burke
+Rottweiler,39938.7767,59.9907,10.4153,med,high,short,male,Johnson
+Rottweiler,57288.1562,66.0557,9.6702,med,high,short,male,Campbell
+Siberian Husky,17198.3949,54.7199,11.6347,med,med,med,male,Cruz
+Welsh Corgi,15102.7795,26.5257,10.3912,med,high,med,male,Bartlett
+Rottweiler,49925.3953,,8.4064,med,high,short,male,Brown
+Rottweiler,37944.7896,63.3808,9.9958,med,high,short,male,Morales
+German Shepherd,35689.7795,60.6504,11.0498,med,high,med,female,Cook
+Welsh Corgi,14522.2887,28.9589,11.3869,med,high,long,male,Contreras
+Siberian Husky,20106.3127,,11.3375,high,med,med,male,Conway
+Rottweiler,63627.6837,,10.5883,med,high,short,male,Hart
+Welsh Corgi,16500.7365,30.7273,10.9061,med,med,med,male,Adams
+Welsh Corgi,14737.3044,29.2738,11.753,med,high,med,male,Brock
+Siberian Husky,18983.6929,55.6342,11.3992,low,med,med,female,Reynolds
+German Shepherd,37210.3049,,10.9976,med,low,med,male,James
+Rottweiler,42456.3536,64.789,9.4041,med,high,short,female,Becker
+Siberian Husky,19612.7572,55.3918,11.3638,med,med,short,female,Pierce
+Rottweiler,59897.9865,66.3997,10.0235,med,high,short,male,Clark
+Siberian Husky,17477.4266,,11.6515,high,med,med,male,Klein
+Welsh Corgi,12464.0133,,10.3694,med,med,med,male,Wilson
+Rottweiler,56022.9292,62.0469,9.5871,med,high,short,male,Smith
+German Shepherd,36461.1245,61.8404,11.0275,med,high,med,female,Jones
+Rottweiler,44283.2203,62.587,8.6595,med,med,short,male,Thomas
+Siberian Husky,20590.2871,,11.4062,med,med,long,male,Barron
+Siberian Husky,18071.6836,54.6011,11.8275,med,med,med,female,King
+Siberian Husky,24664.2633,,12.5437,med,med,med,female,Buckley
+Siberian Husky,21108.4878,50.7252,10.9449,med,med,med,male,Shaw
+Welsh Corgi,14064.2201,28.2969,11.0459,med,high,med,female,Jackson
+German Shepherd,38537.2319,,11.5619,high,high,med,female,Armstrong
+Siberian Husky,16697.56,56.6311,13.0019,med,med,med,male,Morales
+Rottweiler,51515.0116,63.7828,9.5853,low,high,med,male,Ellis
+Welsh Corgi,11475.4885,,11.2868,low,high,med,male,Davenport
+Siberian Husky,17193.4944,,11.3623,med,med,short,male,Gomez
+Siberian Husky,20768.3594,55.2525,11.9068,high,med,med,female,Bennett
+Welsh Corgi,15211.366,27.0038,11.4588,med,high,med,female,Lambert
+German Shepherd,36445.0696,58.4759,11.534,med,med,short,male,Brown
+Rottweiler,53133.2696,,10.2058,med,high,short,female,Davis
+Rottweiler,53428.9904,67.4946,8.5804,med,med,short,female,Lambert
+Rottweiler,54295.5584,,9.0806,med,high,short,female,Roberts
+Welsh Corgi,14251.4095,,11.1736,med,high,med,male,Long
+Siberian Husky,19894.9016,57.4799,12.0412,low,med,med,male,Pierce
+Welsh Corgi,12756.3454,29.7872,10.3777,high,high,med,female,Benjamin
+Rottweiler,47711.1041,62.6279,9.6003,med,high,short,female,Smith
+Rottweiler,41632.982,63.6306,7.9179,low,high,short,female,Scott
+Siberian Husky,19897.9355,52.358,11.407,med,med,med,male,Williamson
+German Shepherd,35676.5254,,11.7591,med,med,med,male,Ayers
+Rottweiler,40662.3426,63.5184,9.6509,low,high,short,male,Matthews
+Siberian Husky,18494.3257,56.1139,12.9191,med,med,long,female,Bailey
+Siberian Husky,21676.8133,54.8462,11.2548,med,med,med,male,Barrett
+German Shepherd,34863.7671,62.8038,10.5741,med,med,med,female,Pham
+German Shepherd,33296.8122,,11.0868,med,low,med,female,Perez
+Welsh Corgi,9928.279,29.5134,10.4111,high,high,med,female,Simmons
+Welsh Corgi,12919.8039,28.8705,10.6989,med,high,short,male,Walter
+Welsh Corgi,15780.3392,28.2044,10.6133,high,high,med,male,Buchanan
+German Shepherd,35302.3455,,11.8284,high,med,long,female,Hubbard
+Welsh Corgi,13294.8897,30.6451,10.3047,med,high,med,male,Flores
+German Shepherd,36155.6887,62.7317,11.4577,med,med,med,female,Baker
+Welsh Corgi,15895.6831,,11.3917,high,high,med,female,Sanchez
+Siberian Husky,18689.4465,55.9501,11.9726,med,low,med,male,Vasquez
+Siberian Husky,18533.6388,53.7891,12.0417,med,med,med,male,Martin
+German Shepherd,36464.4419,61.5861,9.9793,med,med,med,male,Castaneda
+Rottweiler,47572.5889,,9.5582,med,high,short,female,Clark
+Welsh Corgi,14921.94,,11.7558,med,high,short,male,Greer
+German Shepherd,37024.1944,60.3076,11.0745,med,med,med,male,Walter
+German Shepherd,34376.1171,64.3879,11.1128,high,med,long,female,Adams
+Siberian Husky,21825.5282,55.3361,12.7481,med,med,short,female,Moss
+Welsh Corgi,16638.6996,29.9377,10.0671,med,high,long,male,Pineda
+Siberian Husky,20835.5965,55.6237,12.189,low,med,med,male,Cole
+German Shepherd,33224.7626,,10.8053,med,med,med,female,Williamson
+Siberian Husky,19607.124,51.7707,12.3017,med,med,short,female,Phillips
+German Shepherd,36501.6452,,11.087,high,med,med,female,Warren
+Welsh Corgi,13255.1808,26.1997,11.3696,med,high,med,female,Parker
+Welsh Corgi,13638.3466,25.06,11.6945,med,high,med,female,Foster
+Welsh Corgi,15946.0281,29.8666,11.0387,high,high,short,female,Miller
+Siberian Husky,20812.0767,51.0037,11.1394,med,med,short,male,Chan
+Siberian Husky,16453.528,56.9409,12.6446,med,med,med,male,Reed
+German Shepherd,38257.1347,61.1248,11.0942,med,med,med,female,Thompson
+German Shepherd,36328.6466,,10.6148,low,med,med,female,Dawson
+German Shepherd,39788.0527,,11.7444,med,med,med,female,Hancock
+Rottweiler,43770.2027,62.6777,9.6256,med,high,short,female,Brooks
+German Shepherd,35774.4237,60.0567,10.8984,med,med,long,male,Cole
+Siberian Husky,19517.7928,55.7905,11.9618,med,high,med,male,Stewart
+German Shepherd,35327.9927,62.1737,10.6364,med,med,med,female,Mueller
+Siberian Husky,25868.0754,52.7488,11.6914,high,med,med,female,Carroll
+Rottweiler,43988.2159,63.5367,10.2323,low,med,med,male,Tucker
+Rottweiler,55051.0423,63.4861,8.6883,med,med,med,female,Edwards
+Siberian Husky,15435.5705,56.9272,11.4289,med,med,long,male,Brown
+Rottweiler,48554.7151,65.4226,8.5539,med,high,short,male,Lozano
+German Shepherd,33019.9543,61.4497,10.8345,med,med,med,male,Cline
+Rottweiler,35567.6131,64.2581,6.9554,med,high,med,female,Howard
+Rottweiler,49139.7769,63.7492,8.2428,low,high,short,male,Sullivan
+Siberian Husky,19298.2964,54.9547,12.6117,med,med,med,male,Roberts
+Rottweiler,42972.583,,8.2991,med,high,short,female,Sanchez
+Siberian Husky,17265.5954,54.6094,12.3981,high,med,short,female,Jones
+Welsh Corgi,14898.7395,27.9571,11.2681,med,high,med,male,Williams
+Rottweiler,55084.9225,63.4969,9.8375,med,high,short,female,Patel
+Siberian Husky,18842.151,53.9152,12.8176,med,med,med,male,Graham
+German Shepherd,37205.5731,,10.4088,low,med,med,male,Moore
+Rottweiler,39032.6839,64.1089,9.1463,med,high,med,male,Fuentes
+Siberian Husky,19293.4836,57.7608,12.5731,med,med,short,male,Morales
+Rottweiler,53072.3643,61.8981,8.5259,med,high,short,female,Thomas
+Rottweiler,46155.9041,63.7533,10.2182,med,high,short,male,Maria
+German Shepherd,37434.5638,,10.5842,med,med,med,female,Kelley
+German Shepherd,37789.3747,61.5136,11.4077,med,med,short,female,Ramirez
+German Shepherd,37538.328,59.8428,10.9549,med,high,med,female,Baldwin
+Welsh Corgi,12796.4265,25.778,10.3362,med,high,long,female,Estes
+Rottweiler,66348.6875,62.2976,7.3244,med,high,short,female,Williams
+German Shepherd,37365.9456,,12.331,med,high,short,female,Baker
+Siberian Husky,18234.4856,,12.648,low,med,long,male,Lindsey
+Siberian Husky,18578.4015,54.2425,11.955,med,med,med,male,Howard
+Welsh Corgi,14532.161,30.6829,11.3314,med,high,med,female,Jenkins
+Rottweiler,59257.7568,62.1236,11.1515,med,high,short,female,Vincent
+German Shepherd,36438.5107,62.8093,11.6387,low,med,med,male,Ramos
+Siberian Husky,19928.4083,55.9445,12.1131,med,low,long,male,Johnson
+Welsh Corgi,13994.5657,29.5571,10.632,med,med,med,male,Robinson
+Rottweiler,42525.2132,62.8385,6.9807,med,med,short,male,Gray
+Welsh Corgi,12165.5848,26.1807,10.5788,med,med,med,male,Pittman
+German Shepherd,36624.7169,60.627,10.2669,med,med,med,female,Roberts
+German Shepherd,35880.7441,61.2194,10.9224,med,med,med,female,Shawn
+Welsh Corgi,15094.7766,30.2308,10.168,med,high,med,male,Burns
+German Shepherd,35627.1063,62.6592,10.9803,med,med,short,male,Reed
+Siberian Husky,18828.4729,55.0582,11.2607,high,med,med,female,Larson
+Welsh Corgi,11623.7106,31.8989,10.918,med,high,med,male,Glenn
+Rottweiler,46083.5132,61.9438,10.4124,med,high,short,female,Oliver
+German Shepherd,35770.2753,,10.8814,med,low,med,female,Williams
+German Shepherd,34855.2207,63.626,10.1207,med,med,med,female,Burke
+Rottweiler,54219.2332,,9.1614,med,high,short,male,Acevedo
+German Shepherd,37893.1576,61.4259,11.2396,low,med,short,male,Houston
+German Shepherd,37021.7449,60.5454,10.7644,med,med,med,male,Tran
+Rottweiler,47817.7728,63.2127,7.7731,med,high,short,female,Barnes
+Rottweiler,47603.6462,,9.8472,med,high,short,male,Lozano
+Rottweiler,33379.568,62.1071,9.9532,med,high,short,female,Coleman
+Siberian Husky,17552.5412,55.8705,12.7219,med,med,long,male,Robinson
+German Shepherd,34750.1262,60.1696,11.0466,med,med,med,male,Harris
+German Shepherd,36422.238,61.4121,11.9301,med,med,med,female,Ballard
+Welsh Corgi,10397.8531,32.2905,10.6281,med,med,med,male,Gray
+Rottweiler,48800.2864,,11.4852,med,high,short,male,Bishop
+German Shepherd,34538.1055,60.647,12.6791,low,low,med,female,Mosley
+German Shepherd,35671.1562,62.1972,10.7816,med,med,med,male,Lucas
+German Shepherd,36643.7296,64.9519,10.8837,med,med,med,male,Thornton
+Rottweiler,43357.2835,63.5066,8.9266,low,high,short,male,Martinez
+Rottweiler,33545.2001,64.7046,10.1685,med,high,short,male,Lee
+Siberian Husky,17950.6959,52.3272,11.35,med,med,med,male,Garcia
+Welsh Corgi,15205.1241,30.4994,10.6289,med,high,med,male,Martinez
+Siberian Husky,18927.9181,,10.9434,med,high,med,male,Vincent
+Welsh Corgi,12325.7798,29.5136,11.0433,med,high,med,male,Boyd
+Siberian Husky,21447.2194,,12.1248,med,med,med,male,Rodriguez
+German Shepherd,34813.8698,58.7896,11.0245,med,med,med,male,Payne
+Rottweiler,55745.9672,63.9591,7.2058,med,high,short,female,Ramirez
+Siberian Husky,15719.4077,54.9086,12.6944,med,med,med,male,Wallace
+German Shepherd,36617.8923,60.5681,10.8376,med,med,short,male,Morse
+Siberian Husky,17494.5709,53.2487,12.2446,med,med,long,female,Wilson
+Siberian Husky,18999.4471,,12.1952,med,med,med,male,Wheeler
+Siberian Husky,19688.3126,52.349,10.8288,med,med,med,male,Wilkins
+German Shepherd,36919.5476,60.3843,10.6383,med,med,long,male,Williams
+Welsh Corgi,13087.8891,31.0952,10.9401,med,high,med,female,Bennett
+German Shepherd,35881.7388,65.8768,9.3632,med,low,med,male,Thompson
+German Shepherd,40117.8402,58.7793,10.5609,med,low,med,male,Holden
+Rottweiler,34051.2465,,8.7746,med,high,short,male,Delacruz
+Siberian Husky,20562.1071,56.3704,11.8391,med,med,med,female,Ruiz
+German Shepherd,35432.1886,63.6094,10.731,med,med,med,female,Vaughn
+Siberian Husky,20887.0704,,12.4193,med,med,med,female,Taylor
+Welsh Corgi,13153.3602,,11.8328,med,high,short,female,Johnson
+Rottweiler,46044.96,62.8158,9.5055,med,high,short,female,Joan
+Welsh Corgi,13285.8844,27.0122,11.2514,med,high,med,female,Grimes
+Rottweiler,42718.1899,64.2407,10.2737,low,high,short,female,Jackson
+Siberian Husky,22160.0,53.9471,12.3024,high,med,med,female,Coleman
+Rottweiler,60998.1543,64.551,10.8985,high,high,short,male,Hughes
+Welsh Corgi,11082.3295,30.1023,10.4859,med,high,med,male,Farrell
+Rottweiler,37680.0018,64.7595,10.3784,med,high,short,female,Perry
+Rottweiler,54237.9005,63.7286,9.6481,med,high,short,male,Holmes
+German Shepherd,40943.8174,61.9844,10.8242,high,med,med,female,Herrera
+Rottweiler,52534.4367,63.2361,8.6198,med,high,short,male,Orozco
+Welsh Corgi,12418.0278,33.6627,11.3058,med,high,med,female,Turner
+Rottweiler,55082.9066,65.298,8.9221,med,high,med,male,Rodriguez
+German Shepherd,35913.0376,61.3988,10.9475,med,med,med,female,Clark
+Siberian Husky,19339.0283,54.0415,12.5076,low,high,med,female,Williams
+Siberian Husky,17867.5527,54.1451,12.4748,med,med,med,female,Lindsey
+Welsh Corgi,11171.3725,29.7061,9.8706,med,high,long,female,Stein
+Welsh Corgi,15208.1611,26.5381,11.9876,med,high,med,female,Rodgers
+Rottweiler,49824.546,64.2024,10.5624,med,med,short,male,Myers
+Rottweiler,57258.5164,61.4655,10.3654,med,high,short,male,Owens
+Siberian Husky,20419.2185,55.7116,12.6856,med,med,short,female,Simmons
+Siberian Husky,22673.7818,52.3202,11.9191,med,med,med,male,Clayton
+German Shepherd,36140.1308,59.0388,11.3704,high,med,long,female,Turner
+Welsh Corgi,16511.6189,29.5873,11.0469,med,high,med,female,Hughes
+Rottweiler,49541.5523,64.2631,9.4039,med,med,short,male,Vasquez
+Siberian Husky,17011.4965,,12.7873,med,low,med,male,Brown
+Welsh Corgi,16182.8299,31.3655,10.3333,med,high,med,female,Park
+Rottweiler,40289.0588,,9.6892,low,high,short,female,Chaney
+German Shepherd,33756.7166,60.484,10.4655,low,high,long,female,Arellano
+Rottweiler,40861.5568,63.7144,9.311,low,med,short,male,Padilla
+Welsh Corgi,12673.0297,35.5313,11.5142,low,high,med,female,Rice
+Welsh Corgi,11673.6299,,10.9765,high,high,med,female,Jimenez
+Rottweiler,53914.7942,62.3976,9.8592,low,high,short,female,Middleton
+Rottweiler,41280.4191,63.3265,10.1882,high,high,short,male,Woods
+Rottweiler,46285.5896,64.0166,11.5586,high,high,short,male,Gomez
+German Shepherd,38693.8826,61.9787,10.572,med,low,med,female,Morrow
+Rottweiler,43650.9777,63.7036,8.2345,med,high,short,male,Norman
+Siberian Husky,21772.9971,53.7201,11.7149,med,med,short,female,Russell
+German Shepherd,36446.0932,,11.5434,med,med,med,male,Webb
+German Shepherd,33976.1167,60.4529,12.0639,med,med,med,male,Boyd
+German Shepherd,35511.018,60.833,11.2992,high,med,med,male,Shepherd
+German Shepherd,35379.6759,62.6089,11.6398,med,med,long,male,Morris
+Welsh Corgi,16416.9776,35.1204,10.5319,med,high,med,male,Hall
+Welsh Corgi,11797.2135,32.1013,10.5558,med,high,med,female,Michael
+Rottweiler,51913.4465,64.0635,10.3194,med,high,short,female,Campbell
+Siberian Husky,20397.196,53.885,11.9817,high,med,med,male,Peck
+Rottweiler,49570.4719,,6.9841,med,high,short,female,Gail
+Rottweiler,48565.7857,,11.6572,med,high,short,female,Bowers
+Siberian Husky,21191.648,,12.2537,med,med,med,male,Wilson
+Siberian Husky,17919.0388,,11.985,med,med,short,male,Clark
+Siberian Husky,15735.4405,52.0799,12.5329,low,high,med,female,Griffin
+German Shepherd,36357.2096,,10.8483,med,med,med,male,Tanner
+Siberian Husky,17993.6638,,11.9925,med,high,med,male,Williams
+Welsh Corgi,12937.9461,,10.4594,med,med,med,male,Harris
+German Shepherd,34299.0849,60.2265,10.8568,med,low,med,female,Perry
+Rottweiler,48220.7692,,10.5481,med,high,short,female,Anderson
+German Shepherd,37462.9803,59.6976,10.9027,med,med,med,female,Smith
+Welsh Corgi,16577.2364,26.6605,11.7292,high,high,long,male,Foster
+Welsh Corgi,13423.1262,33.4314,11.7907,med,high,short,female,Peterson
+German Shepherd,36043.2777,59.0971,12.4532,med,med,med,male,Chase
+Welsh Corgi,13956.3765,,11.3357,med,high,short,female,Gilbert
+German Shepherd,35439.3559,61.2264,11.5086,med,med,med,male,Chapman
+Siberian Husky,16345.6653,54.1247,11.4828,med,med,med,female,Fox
+Welsh Corgi,18379.3629,,10.9264,med,high,med,female,Mcdowell
+Welsh Corgi,14332.3579,,10.3656,med,med,med,female,Martinez
+Siberian Husky,20301.4966,56.0279,12.0292,med,high,med,female,Ortiz
+Siberian Husky,20096.3923,,13.0314,med,med,med,female,Bailey
+German Shepherd,38678.2635,60.5792,10.8789,med,low,long,female,James
+Rottweiler,36400.5891,,8.108,med,high,short,male,Dillon
+Welsh Corgi,16388.8658,29.4551,11.0511,med,high,long,female,Dominguez
+German Shepherd,39439.0388,59.6944,11.3972,med,med,short,male,Martinez
+Rottweiler,46739.6001,,8.206,med,high,short,male,Thornton
+Rottweiler,59534.0807,,9.3452,med,high,short,male,Johnson
+Rottweiler,28835.0372,65.1249,9.8596,med,high,short,female,Scott
+Siberian Husky,19920.8966,54.9007,10.9186,med,med,long,female,Walsh
+Welsh Corgi,16014.7413,30.7505,10.6912,low,high,med,male,Shepard
+German Shepherd,37089.825,,10.2349,med,high,med,male,Tucker
+German Shepherd,35069.8745,57.7291,9.4056,med,med,med,female,Adams
+Welsh Corgi,15450.5824,30.4728,11.506,med,high,med,female,Hopkins
+German Shepherd,36737.876,58.1505,11.0745,med,med,short,male,Mcmillan
+Rottweiler,50292.1472,63.5533,9.1074,high,high,short,female,Cook
+Rottweiler,51440.412,63.9348,9.4403,med,high,short,female,Johnson
+German Shepherd,35567.9923,63.8912,10.6315,med,low,med,female,Smith
+Siberian Husky,18935.0545,,12.8652,med,med,med,female,Wilson
+Siberian Husky,16423.699,52.2256,11.0823,med,med,med,male,Padilla
+Welsh Corgi,14445.8463,28.591,11.3,med,high,med,male,Martinez
+Siberian Husky,20961.2124,53.3554,12.3187,high,low,med,female,Sandoval
+Rottweiler,44605.6732,62.1703,10.6447,low,high,short,female,Washington
+German Shepherd,37799.1708,62.0496,11.1169,med,med,med,female,Crawford
+Rottweiler,47864.4451,61.4965,6.1889,med,high,short,male,Hayes
+Siberian Husky,21009.3941,56.0794,11.6988,med,med,med,male,Brown
+Welsh Corgi,13442.1372,29.2628,11.3917,low,high,long,male,Terrell
+Welsh Corgi,13857.3938,28.9568,10.8358,med,med,med,male,Webb
+German Shepherd,38516.5372,64.0578,11.3465,med,med,long,male,Church
+Welsh Corgi,13750.5455,30.0746,11.7202,low,high,med,male,Flores
+Siberian Husky,17099.167,55.4401,11.4416,med,med,med,female,Tucker
+Siberian Husky,20846.4485,54.4275,12.8125,med,high,med,male,Johnston
+Rottweiler,47918.0517,61.067,9.1037,high,high,short,female,Stevenson
+German Shepherd,38475.632,64.4262,10.9218,med,med,long,female,Lopez
+Welsh Corgi,11604.5553,,10.9889,med,high,med,male,Lane

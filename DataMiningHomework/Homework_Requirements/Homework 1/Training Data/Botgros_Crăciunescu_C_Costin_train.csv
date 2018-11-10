@@ -1,0 +1,1001 @@
+Breed Name,Weight(g),Height(cm),Longevity(yrs),Energy level,Attention Needs,Coat Lenght,Sex,Owner Name
+German Shepherd,35209.2325,63.7426,10.9407,med,med,med,male,Ferguson
+German Shepherd,38321.3884,57.6966,11.3091,med,med,short,female,Johnson
+Amstaff,27419.1108,46.3232,14.0744,med,high,short,female,Giles
+Amstaff,25025.5141,45.6018,12.6765,med,high,short,female,Joseph
+Beagle,12392.5526,34.4978,13.8029,med,high,short,female,Lucas
+Daschhund,3709.298,20.5134,12.6652,high,low,short,male,Fisher
+Amstaff,24767.8759,45.9672,12.686,med,high,short,female,Burton
+Daschhund,13306.2219,,12.6769,high,med,short,male,Petersen
+Amstaff,25291.3598,46.6471,11.9727,high,high,short,male,Holland
+Amstaff,25577.4128,,13.1237,med,high,short,male,Francis
+Daschhund,7458.7287,21.6097,13.2308,high,low,short,female,Robert
+Daschhund,11767.1337,21.4723,13.2757,high,med,short,male,Buck
+Beagle,10311.9552,34.7801,13.679,high,med,short,female,Freeman
+Amstaff,26450.6309,46.8798,14.2924,med,high,short,male,Heath
+Beagle,9621.3372,,13.4332,med,high,short,male,Harvey
+Beagle,11080.7104,,12.5612,med,high,short,male,Rodriguez
+Beagle,10805.0554,,14.0892,med,med,short,female,Fowler
+German Shepherd,37497.114,61.0725,10.6185,med,med,short,female,Jones
+Daschhund,11303.5678,21.4071,12.1297,high,med,short,male,Williams
+Daschhund,7558.5822,21.9163,12.0378,high,low,short,male,Roberts
+Daschhund,12411.6167,20.6267,12.9099,high,med,short,female,Thompson
+Beagle,11450.6359,,14.7284,med,high,short,female,Murphy
+Beagle,11707.4629,36.7884,12.5166,high,med,short,male,Smith
+Daschhund,11466.549,22.0477,13.2718,high,med,short,male,Roberts
+German Shepherd,37149.6438,,10.6981,high,med,med,male,Lee
+Amstaff,24367.354,44.935,13.4766,med,high,short,female,Pierce
+Daschhund,12635.4972,22.2731,12.4978,med,high,short,male,Kerr
+German Shepherd,36109.3785,58.5643,10.2874,med,med,med,female,Taylor
+Daschhund,9463.3144,19.9784,12.4843,high,med,short,male,Ross
+Daschhund,4058.831,20.6188,13.9907,high,med,short,male,Freeman
+Beagle,13283.5931,35.3707,13.3048,med,high,med,female,Smith
+German Shepherd,37573.967,60.5301,11.8185,med,low,med,female,Gibson
+Beagle,7757.4599,,14.0203,low,high,med,male,Penny
+Daschhund,10487.4974,,13.3874,high,med,short,female,Jackson
+Beagle,10415.6006,35.9816,12.6066,high,high,short,female,Collier
+Amstaff,28639.7158,46.5035,13.1845,high,high,short,male,White
+Daschhund,9111.5639,21.5361,12.9946,high,med,short,female,Calderon
+Beagle,9770.5134,34.11,14.0271,high,high,short,male,Randall
+German Shepherd,37648.7217,62.5649,11.2172,med,high,med,male,Price
+German Shepherd,35826.022,,11.3811,med,med,long,female,King
+Amstaff,29462.8905,45.4065,13.1009,med,high,short,male,Cox
+German Shepherd,36424.8732,59.1472,10.6216,low,med,med,male,Mcbride
+Beagle,11026.2684,35.408,14.1213,high,high,short,female,Martin
+Beagle,11067.6614,34.6319,12.4702,med,high,short,male,Hill
+Amstaff,28540.3732,46.1837,12.9837,med,high,short,male,Walls
+German Shepherd,35360.2553,,10.4585,med,med,med,male,Hall
+Daschhund,10025.4699,,14.1199,high,med,med,female,Harrison
+Beagle,10375.0953,33.7451,13.8767,med,high,short,male,Fields
+Beagle,10442.7276,33.0288,12.3659,low,high,short,male,Hawkins
+Daschhund,7886.6835,21.8276,14.2892,high,med,short,male,Knight
+Daschhund,10728.841,20.4478,13.9422,high,med,short,male,Koch
+Amstaff,30769.6305,45.3943,12.4831,med,high,short,female,Baker
+Amstaff,27392.0027,45.65,13.3922,med,med,short,female,Morris
+Daschhund,5966.6355,20.657,13.3574,high,med,short,female,Coleman
+Daschhund,13493.0335,21.0089,12.4563,high,med,short,male,Vaughn
+German Shepherd,35802.0398,63.8635,10.3673,med,high,med,male,James
+German Shepherd,39957.8638,58.7893,11.1167,med,med,short,female,Bass
+Beagle,10144.2371,38.0547,13.3806,med,high,short,female,Parker
+German Shepherd,34584.3815,59.5054,10.4398,low,med,short,male,Walsh
+Daschhund,10357.2684,21.2151,14.0865,high,med,short,male,Crane
+Daschhund,11787.3443,20.6342,12.1949,high,high,short,female,Taylor
+Beagle,9950.8927,36.1348,14.9911,med,high,short,male,Beltran
+Daschhund,10404.9573,20.4971,13.3332,high,low,short,male,Wolfe
+Beagle,10685.3887,,13.7369,med,high,short,female,Luna
+Daschhund,11071.2732,,12.8315,high,med,short,female,Thomas
+Beagle,10504.327,,13.9599,med,high,short,male,Shaffer
+Amstaff,27087.3197,45.9964,13.7151,med,high,short,female,Ramos
+German Shepherd,35751.7708,,10.9558,med,med,med,male,Malone
+Amstaff,29666.4088,47.0071,12.3784,med,high,short,female,Medina
+Amstaff,32483.9217,46.3081,12.1877,med,high,med,female,Weaver
+Daschhund,9725.0748,21.3398,12.9381,high,low,short,female,Morgan
+Amstaff,26416.7277,,13.6961,med,med,short,female,Oliver
+Daschhund,12304.58,21.2409,12.6156,high,low,short,male,Morrow
+Beagle,8558.0634,35.057,13.1292,high,med,short,female,Lowe
+German Shepherd,36825.0699,62.3622,11.4743,high,med,med,female,Davis
+Daschhund,8142.0995,20.8577,12.3899,high,med,short,male,Roberts
+German Shepherd,37679.4578,60.1469,11.0431,med,med,med,male,Hoffman
+Amstaff,21709.032,,12.3077,low,high,short,female,Robinson
+Amstaff,25761.3268,47.0427,12.3021,med,med,short,male,Perez
+Daschhund,9919.6878,,12.3695,high,low,short,female,Trujillo
+Beagle,7162.9361,34.2157,12.9221,med,high,short,female,Castro
+Amstaff,24799.0184,46.5227,12.5487,high,high,med,male,Williams
+Amstaff,28190.4578,45.2789,13.2542,med,high,short,female,Lee
+German Shepherd,37833.3344,62.8369,9.8802,high,med,med,female,Smith
+Daschhund,10590.5781,20.8882,13.5993,high,low,short,female,Webb
+Amstaff,21657.0885,,12.8462,med,high,short,female,Johnson
+Beagle,9164.6391,35.4924,12.7783,med,high,short,female,Vaughn
+Amstaff,26791.542,45.6247,11.3074,med,high,short,male,Berry
+German Shepherd,36721.4618,62.473,10.5473,med,med,long,female,Cochran
+Daschhund,4460.2321,,13.3633,high,med,short,female,Smith
+Beagle,13136.5648,35.9277,13.0813,med,high,short,female,Williams
+Beagle,10612.388,36.4206,13.3882,med,med,short,male,Reeves
+Amstaff,22907.3053,46.0441,13.1105,high,high,short,female,Howell
+Amstaff,25377.7082,44.9115,11.665,med,high,short,male,Petersen
+Beagle,11564.6552,36.3794,13.1245,med,med,short,male,Bowen
+German Shepherd,36081.9236,,10.1679,med,med,long,female,Reynolds
+Amstaff,21601.7582,45.9618,12.9245,med,high,med,male,Brown
+Amstaff,30132.0582,,12.021,high,high,short,male,Bowen
+Daschhund,9652.8189,22.1707,13.7855,high,med,short,female,Blair
+Amstaff,21697.5718,46.1799,13.0111,med,high,short,female,Carrillo
+Amstaff,25267.0806,46.8164,12.9284,med,high,short,female,King
+German Shepherd,35744.2756,61.2239,10.8742,med,med,med,male,Vazquez
+Daschhund,10471.4588,19.6216,12.6598,high,med,short,male,Hull
+Daschhund,3947.4348,21.7086,13.6121,high,high,short,female,Thornton
+Beagle,12242.2939,,14.6612,med,high,short,female,Murphy
+Daschhund,10425.9265,,12.8187,med,high,short,male,Hess
+Amstaff,24086.1729,46.8636,12.6,med,high,short,female,Shepherd
+Beagle,12033.2326,,12.906,high,high,short,male,Gibson
+Amstaff,25119.3425,45.9489,13.2243,high,high,short,male,Nichols
+Daschhund,12274.0513,20.5341,13.8044,high,med,short,male,Wright
+Beagle,11352.1793,36.3327,12.6444,med,high,short,female,Wood
+Daschhund,13070.2767,19.9041,13.2211,high,med,short,male,Danielle
+Daschhund,8750.5496,19.9425,12.8605,high,med,short,male,Newton
+Beagle,10691.7632,,13.4667,med,med,short,female,Giles
+Daschhund,5437.8112,20.2685,13.2279,high,med,short,male,Morton
+Daschhund,12322.6193,20.7411,12.5672,high,high,med,male,Simmons
+Beagle,10295.4972,33.577,13.2909,med,high,short,female,Small
+Daschhund,9320.445,20.1075,13.6243,high,med,short,female,Miller
+Daschhund,9349.2999,21.4153,13.6451,high,med,short,male,Zuniga
+Beagle,9936.3654,33.0899,12.9693,high,high,short,female,White
+Beagle,9835.3469,35.7202,13.4261,med,med,short,female,Castro
+Amstaff,26242.3253,46.7484,12.8415,med,high,short,female,Nicole
+German Shepherd,38445.5434,60.6521,12.6453,med,med,med,female,Gonzalez
+Daschhund,6820.8749,20.7233,12.6259,high,med,short,male,Pope
+Daschhund,10321.8899,,12.8283,high,med,short,female,Fields
+Beagle,7439.6209,33.267,13.0403,med,high,short,female,Wiggins
+Beagle,8600.7174,33.9237,14.7035,med,high,short,female,Williams
+Amstaff,25882.204,45.1741,13.7034,low,high,short,male,Mullins
+Amstaff,30030.0486,,13.1962,med,high,short,male,Gordon
+Beagle,11885.2479,34.8519,14.4307,med,high,short,male,Watson
+German Shepherd,37756.0196,57.9364,10.5665,med,med,med,female,Tran
+Beagle,9775.3468,36.7069,13.1135,med,high,short,female,Martinez
+Amstaff,31434.3574,45.6006,13.6229,med,high,short,male,Jackson
+Daschhund,9536.9153,21.2751,11.5978,high,med,med,male,Baker
+Amstaff,26791.7661,,12.9709,med,high,short,male,Chandler
+Daschhund,7298.5008,20.564,13.2628,high,med,short,female,Mata
+German Shepherd,37089.5859,60.8605,11.3189,med,med,long,male,Brown
+Beagle,8763.2799,34.9613,12.2136,med,high,short,female,Cook
+German Shepherd,37216.7529,,10.6683,med,med,med,female,Lopez
+Amstaff,27016.8705,45.4258,14.1354,high,high,short,female,Phillips
+Beagle,10175.4405,34.7342,13.596,med,high,short,female,Ingram
+Amstaff,23810.5603,,12.7423,low,high,short,male,Edwards
+Daschhund,9993.0776,20.787,12.394,high,high,short,female,Roberts
+Beagle,11077.6271,,12.4222,med,high,short,female,Walters
+Beagle,8909.0049,36.942,13.4817,med,high,short,male,Cooper
+Amstaff,23362.0615,47.0725,13.8692,med,high,med,female,Jones
+German Shepherd,38843.4795,57.218,10.4223,med,med,med,female,Mason
+Beagle,6903.9162,34.8041,12.6766,med,high,short,female,Morgan
+Beagle,7614.5564,34.3668,13.5539,low,med,short,male,Mosley
+German Shepherd,36135.0461,62.1154,10.8272,low,high,med,female,York
+Amstaff,24432.0588,46.2349,13.7488,med,high,short,male,Flores
+Amstaff,26074.0008,45.2884,12.5118,low,med,short,female,Wilkinson
+Beagle,7915.6569,33.4576,13.1579,med,high,short,female,Smith
+Daschhund,10352.9134,20.9578,12.8839,high,low,short,female,Valencia
+German Shepherd,37748.8503,60.8651,10.5524,med,med,med,male,Kelly
+Beagle,9779.0483,36.6685,13.2291,high,high,short,male,Duarte
+Daschhund,6896.8656,21.292,12.4905,high,med,short,female,Williams
+German Shepherd,36872.3197,64.3314,10.2156,med,med,med,female,Nielsen
+Beagle,9956.7087,36.9977,12.9746,med,high,short,female,Schneider
+Amstaff,31667.9205,45.9584,12.6596,med,high,short,female,Garcia
+Amstaff,22320.6999,46.7208,13.3407,med,high,short,female,Julie
+Daschhund,9709.1752,20.8624,12.7708,high,med,short,female,Aguirre
+Amstaff,25738.9429,45.8507,12.0545,med,high,short,male,Williams
+Beagle,10036.4673,34.8511,13.4364,high,high,short,female,Turner
+Beagle,10796.6334,36.8389,14.1952,med,high,med,female,Shepherd
+Daschhund,5855.2565,20.6021,13.2923,med,low,short,male,Parsons
+Amstaff,24488.8317,45.94,11.5235,low,high,med,female,Carr
+Daschhund,12473.5044,20.7356,14.0156,high,low,short,male,Roberson
+Beagle,10521.4298,33.4217,12.2511,med,high,short,female,Sloan
+Amstaff,31946.714,46.0105,12.0869,med,high,short,male,Warren
+Daschhund,5804.0252,21.3562,13.5594,high,med,short,female,Davis
+German Shepherd,36587.4758,58.5124,11.6449,high,med,med,male,Grant
+Beagle,10360.09,35.1267,13.2594,med,high,short,male,Berry
+Daschhund,14872.8225,20.511,12.93,high,low,short,female,Mcguire
+Beagle,5100.4949,33.7973,12.8567,low,high,short,female,Smith
+Amstaff,25603.1418,45.2066,12.9933,med,high,short,male,Mccormick
+Beagle,10315.0368,33.2404,13.3805,low,med,short,female,Sparks
+Amstaff,30149.5843,,13.5768,high,high,short,male,Reynolds
+German Shepherd,35603.1329,61.3493,11.2577,med,med,med,female,Warner
+Daschhund,9747.1427,20.9907,12.2103,high,low,short,male,Bradley
+German Shepherd,35046.7861,61.3902,10.6599,med,low,med,female,Roberts
+German Shepherd,36900.581,63.4444,10.7761,low,med,med,female,Thomas
+German Shepherd,36369.5701,60.8804,10.0332,med,med,med,female,Bradford
+German Shepherd,35806.8888,61.1348,9.588,med,med,med,female,Arnold
+Amstaff,27898.0479,45.8025,13.7562,low,high,med,male,Cannon
+Daschhund,9705.4075,21.636,13.1029,med,med,short,male,Scott
+Daschhund,10514.6681,20.4896,12.7814,high,med,short,male,Miller
+Daschhund,10355.8043,,12.5306,high,med,short,female,Smith
+German Shepherd,36505.7337,62.303,10.8627,low,med,med,male,Weeks
+Daschhund,5034.0988,21.072,13.7019,high,high,short,female,Turner
+German Shepherd,36835.6198,59.0046,11.6138,med,med,med,female,Gallagher
+Amstaff,24966.2577,46.2431,13.2498,low,high,short,male,Page
+Daschhund,11328.5927,,12.1817,med,med,short,female,Peter
+Beagle,12194.6075,35.5363,13.5228,med,high,short,male,Terry
+Beagle,9148.7859,35.3972,11.9388,med,high,short,male,Hamilton
+Daschhund,11968.7846,21.8833,11.7673,high,med,short,male,Miller
+Daschhund,9395.4216,,13.9765,high,med,short,female,Arias
+German Shepherd,35418.9389,62.8194,10.5822,med,med,med,male,Hill
+Beagle,12104.2283,37.2947,12.7215,med,med,short,male,Obrien
+German Shepherd,35741.0528,58.5145,11.0249,low,med,med,female,Anderson
+Amstaff,26850.6663,44.8335,13.7558,low,high,short,female,Mcpherson
+Daschhund,9276.6039,,12.9802,high,med,short,female,Luna
+Amstaff,28656.1166,45.432,13.214,med,high,short,male,Watson
+Amstaff,25687.035,46.3456,13.3404,low,high,short,male,Martin
+Beagle,13963.4206,35.9867,11.8924,med,high,med,female,Moses
+Daschhund,12994.3632,,13.5389,high,med,short,female,Hernandez
+German Shepherd,36788.5998,61.6908,10.7018,med,med,med,male,William
+Daschhund,9739.3753,20.5729,12.3623,high,low,short,female,Wilson
+Beagle,10610.9217,,15.9018,med,high,short,female,Jones
+German Shepherd,36070.2603,,11.6255,low,low,short,male,Smith
+Daschhund,16658.4656,21.0246,12.5895,high,med,short,male,Perez
+Beagle,9569.9721,35.6142,14.3277,med,med,short,female,Cervantes
+German Shepherd,38607.2936,61.4826,11.8592,high,med,med,male,Durham
+German Shepherd,37887.296,63.0847,10.6775,med,high,med,male,Montoya
+Beagle,9381.3382,35.7309,13.5412,med,high,short,male,Little
+Daschhund,9022.7282,21.3286,12.7311,med,med,short,female,Lara
+German Shepherd,35714.0463,58.7041,11.1814,med,low,med,male,Phelps
+German Shepherd,34714.713,63.7316,11.8999,low,med,short,female,Burns
+Amstaff,26138.1302,,13.8767,med,high,short,male,Moore
+German Shepherd,37758.0005,56.9469,10.0024,med,med,med,female,Smith
+German Shepherd,37339.0969,59.1291,11.4338,high,high,short,male,Phillips
+German Shepherd,34432.0707,59.6773,11.8157,med,high,med,male,Willis
+German Shepherd,37099.0551,62.0077,11.3863,med,med,short,female,Li
+Daschhund,6853.6514,21.8512,12.8583,high,high,short,female,Mckinney
+German Shepherd,35354.0536,60.1758,10.5244,med,med,med,male,Wong
+Beagle,10142.5582,36.1002,13.7154,med,high,short,male,Garcia
+Daschhund,11837.3713,20.9463,13.2071,high,med,short,male,Gamble
+Daschhund,7569.9438,20.2754,14.4723,high,med,short,female,Shepard
+Beagle,9580.2052,35.4426,13.3718,low,high,short,male,Jones
+Daschhund,15814.7356,20.3591,12.5275,high,med,short,female,Coleman
+Daschhund,5100.8869,21.2076,12.8339,high,med,short,male,Hicks
+Amstaff,24622.1769,45.167,13.4393,med,high,short,female,Alexander
+German Shepherd,36941.5026,59.1314,11.4529,med,med,med,male,Hughes
+Amstaff,28452.763,45.9284,14.2011,med,med,med,male,Gray
+Daschhund,15000.3271,20.3384,12.2437,high,med,short,male,White
+Daschhund,13103.3826,,13.9389,high,med,short,male,Barton
+Daschhund,10189.2339,21.4482,13.3577,high,med,short,female,Barton
+German Shepherd,37243.1461,64.0791,10.6094,med,med,long,male,Fritz
+Daschhund,10630.027,,14.4975,high,low,short,female,Walker
+Daschhund,7426.7898,,13.5453,high,high,short,male,Hill
+Beagle,11682.2309,34.7432,13.3004,med,high,med,male,Mcfarland
+Daschhund,10329.4512,20.9106,12.3362,high,low,short,male,Robert
+Amstaff,26327.1452,45.6186,13.6781,med,high,short,male,English
+Daschhund,12486.0351,,13.2787,med,med,short,female,Ramirez
+Daschhund,12983.138,21.4856,13.4228,high,med,short,male,Crane
+Beagle,11554.8967,35.3284,14.0235,med,high,short,female,Ramirez
+German Shepherd,36283.685,60.7279,11.485,med,med,med,female,Guzman
+Beagle,11549.1789,33.8696,13.8943,med,high,short,female,Mann
+Daschhund,8932.0895,20.5292,12.9018,high,med,short,male,Flores
+Amstaff,27552.6958,45.4983,12.6952,med,high,short,female,Shea
+Amstaff,26305.748,45.8493,13.4155,med,high,short,male,Anderson
+Beagle,9033.8811,,14.4062,med,high,short,female,Hickman
+Daschhund,9011.3756,20.8475,12.6288,high,low,short,male,Lawrence
+German Shepherd,34856.3624,,11.9286,low,med,med,female,Fernandez
+Amstaff,26070.5479,47.2059,13.0443,med,med,short,male,Martin
+Amstaff,29328.5317,44.9791,12.6153,med,high,short,female,Harris
+German Shepherd,35816.2814,,11.7968,med,low,med,male,Ayala
+German Shepherd,35817.4756,60.243,10.2021,med,med,long,female,Vega
+Amstaff,22301.5978,45.6868,11.411,low,high,short,female,Stevens
+German Shepherd,37167.9809,60.5704,11.2843,med,med,med,male,Fuentes
+Amstaff,23773.3006,,13.5142,med,high,short,female,White
+Amstaff,21117.367,45.6185,13.1634,med,high,short,male,Hart
+Beagle,10328.4504,33.6123,13.4105,med,med,short,male,Bailey
+German Shepherd,36108.3443,,11.3193,med,med,med,male,King
+German Shepherd,37018.0475,64.6363,10.1367,high,med,short,female,Johnson
+Amstaff,26009.6966,44.6597,13.5937,med,high,med,female,Meyers
+Daschhund,14671.9321,21.1907,13.0757,high,med,short,female,Pace
+Daschhund,12457.0766,21.9321,13.994,high,med,short,male,Mason
+Beagle,11456.6291,36.0576,13.5043,med,high,short,female,Miller
+German Shepherd,35568.1056,59.2119,11.1984,med,high,med,female,Hansen
+Daschhund,12247.1678,23.2279,13.2597,high,med,short,male,Williams
+Beagle,13884.6724,32.2985,12.4624,med,high,short,female,Hansen
+Amstaff,24282.8959,45.401,13.185,med,high,short,female,Lopez
+Daschhund,7051.6332,21.3229,12.6293,high,med,short,male,Guzman
+Beagle,8919.9037,35.4801,13.7838,low,high,short,female,Francis
+Amstaff,19740.6346,,13.0229,med,high,short,female,Peterson
+Beagle,10311.24,36.0972,13.6685,med,high,short,male,Wilson
+Amstaff,22737.2301,46.5313,11.8121,med,high,short,female,Mercado
+Amstaff,22704.2998,46.9152,13.8896,med,high,short,female,Johnson
+Beagle,10611.9234,,13.4248,low,high,short,female,Nichols
+German Shepherd,36001.9328,60.6258,10.2629,med,med,med,female,Miller
+German Shepherd,36913.3975,59.6849,11.0004,high,med,med,female,Banks
+Beagle,10704.7322,34.2435,12.5119,med,high,short,male,Brown
+Beagle,10334.223,34.7182,13.4843,high,high,short,female,Ford
+Daschhund,10804.9817,21.4188,13.1761,high,med,short,male,Baker
+Beagle,10795.5551,34.7638,13.3461,low,high,short,female,Camacho
+Beagle,8200.899,34.1108,12.464,med,high,short,female,Johnson
+Amstaff,29835.7979,45.8537,13.392,med,high,short,male,Vargas
+Daschhund,7910.5235,21.1875,13.1646,high,med,short,male,Melendez
+Daschhund,9424.0506,21.8633,13.5353,high,med,short,male,Garza
+Daschhund,14047.4343,22.5229,12.2878,high,med,short,female,Miles
+Amstaff,30680.4149,44.8946,12.979,med,high,short,male,Moore
+Beagle,8356.108,37.2887,11.1238,med,med,short,male,Meyer
+Beagle,7688.2262,,13.0754,med,high,med,male,Zavala
+Beagle,10991.4733,36.1779,15.2673,low,high,short,male,Cruz
+Daschhund,13842.2142,,12.7902,med,high,short,female,Watson
+Daschhund,16182.0547,21.1559,13.7419,high,med,short,female,Ramsey
+German Shepherd,35187.7111,59.6129,11.4576,med,med,med,male,Gray
+Amstaff,23483.7113,46.2985,13.0965,med,high,short,female,Mcgrath
+Beagle,10808.9015,34.495,13.6794,med,high,short,male,Wright
+German Shepherd,40197.8115,58.498,10.5508,med,med,med,male,Brown
+German Shepherd,37431.7601,59.9913,10.348,med,med,med,female,Phillips
+Daschhund,8920.2191,20.5819,12.8283,high,med,short,male,Joyce
+German Shepherd,35827.4809,60.7126,11.9704,med,high,med,female,English
+Amstaff,21265.3107,46.4418,12.5531,low,med,short,female,Mitchell
+German Shepherd,36753.4226,61.2285,10.9009,med,med,long,male,Martin
+Beagle,10343.4991,36.221,13.9437,med,high,short,male,Hogan
+Daschhund,7875.4485,22.075,12.9572,high,low,short,female,Campbell
+Amstaff,26938.3117,45.2326,13.1974,med,high,short,female,Robertson
+Daschhund,9165.5213,21.3425,12.9882,high,high,short,male,Mendoza
+German Shepherd,34485.373,,10.4423,med,med,med,female,Tanner
+German Shepherd,35868.3296,61.9325,11.2181,med,med,med,female,Sullivan
+Daschhund,4847.0623,20.3654,13.9784,high,med,short,male,Coleman
+Beagle,10277.5931,,14.9341,med,med,med,female,Morales
+Daschhund,7913.178,,13.4274,high,med,short,male,Boyer
+Amstaff,29183.8272,45.8986,12.3761,low,high,short,male,Robinson
+Daschhund,15016.6256,21.5415,12.6946,high,med,short,male,Burns
+Daschhund,11946.2097,,12.5884,high,med,short,male,Odonnell
+German Shepherd,39676.2898,61.7495,10.4636,med,med,med,female,Chapman
+Beagle,10109.5972,36.0099,12.2281,low,high,short,female,Kim
+Daschhund,10004.6577,21.2876,14.0337,high,high,short,female,Wheeler
+German Shepherd,40511.3763,,10.4912,med,med,med,male,Mills
+Daschhund,10351.931,21.4429,12.9749,high,low,short,female,Chang
+Amstaff,31851.9857,47.0057,12.4658,med,high,short,female,Davis
+Beagle,11439.3795,33.3098,11.8972,med,high,short,male,Campbell
+Beagle,10749.2321,35.1457,14.0402,med,high,short,male,Wright
+Daschhund,6719.1185,,12.3807,high,med,short,female,Santiago
+Amstaff,29292.5255,46.4592,12.0637,med,med,short,male,Evans
+Beagle,9776.5499,34.4056,13.1607,med,high,med,female,Lewis
+Beagle,10426.3578,,15.5967,med,high,short,female,Farmer
+German Shepherd,35682.5946,,10.7203,med,high,med,female,Krause
+Beagle,9369.1734,34.5571,12.0668,med,high,short,female,Webb
+German Shepherd,36365.7403,,11.1999,med,med,med,female,Yates
+Beagle,11889.6115,,13.425,med,high,short,male,Mcintyre
+German Shepherd,33942.0516,58.4691,11.4467,med,low,med,male,Long
+German Shepherd,39822.6942,59.1358,10.9291,med,med,med,female,Harper
+German Shepherd,35475.8161,60.6179,11.1451,med,low,med,male,Wong
+Beagle,13250.0563,35.3932,14.6571,med,high,short,male,Zuniga
+Amstaff,27767.649,45.7081,11.9182,med,high,short,male,Sims
+German Shepherd,34357.031,,11.4942,med,med,med,female,Macdonald
+Amstaff,29164.3592,,14.0041,med,high,short,male,Dixon
+Amstaff,24415.9486,46.7631,13.4847,low,high,short,male,Miller
+Daschhund,12900.6777,19.9747,13.3077,high,med,short,female,Flores
+Daschhund,13460.5143,20.775,13.3598,high,high,short,male,Jackson
+Amstaff,28564.6669,45.0381,12.505,high,high,short,female,Hall
+Amstaff,27358.4596,46.8152,12.7614,med,high,short,female,Miller
+Amstaff,23323.8985,45.7316,11.6916,low,high,med,female,Riley
+Beagle,6926.7991,34.5834,13.0842,med,high,short,female,Bender
+Amstaff,29349.3314,45.8156,12.6437,med,high,short,female,Scott
+German Shepherd,33876.589,62.3952,10.4729,med,med,med,male,Ho
+Daschhund,9050.2845,21.0244,13.1169,high,low,short,male,Mills
+German Shepherd,33541.9348,57.4447,11.573,med,med,long,female,Edward
+Daschhund,4634.7924,21.6601,12.4708,high,med,short,male,Bell
+Beagle,6818.6255,37.2994,12.7465,med,high,short,male,Hanson
+German Shepherd,36443.1601,61.3068,11.0187,low,low,med,male,Rodriguez
+German Shepherd,37513.0268,60.732,10.423,med,med,short,female,Reynolds
+Amstaff,24333.4883,,13.9099,med,high,med,male,Becker
+Daschhund,8072.1725,21.4783,13.9575,high,med,short,male,Cruz
+Amstaff,26728.2207,45.0531,12.5157,med,high,short,female,Doyle
+Amstaff,27608.3813,46.8476,14.1189,med,high,short,female,Morgan
+Daschhund,11725.9674,21.358,12.9403,high,med,short,male,Rangel
+Beagle,8573.33,,14.8931,high,med,short,male,Wright
+German Shepherd,36157.0268,,11.4674,low,med,short,male,Stokes
+Beagle,10603.2783,35.5417,13.3744,med,high,short,female,Kyle
+Beagle,9994.6742,,13.8262,med,high,short,female,Sanchez
+Daschhund,8873.3739,20.2862,13.3044,high,med,short,female,Odonnell
+Amstaff,36587.99,,13.7029,high,high,short,female,Graham
+Daschhund,12106.5511,21.7652,13.2146,med,med,short,female,Myers
+Daschhund,9843.2783,21.3375,12.5833,high,low,short,male,Elliott
+German Shepherd,37401.4682,63.7853,11.5334,high,med,med,female,Quinn
+Daschhund,9457.5807,,13.8961,high,med,short,male,Woodard
+Daschhund,9649.571,20.9067,12.777,high,med,short,male,Herring
+German Shepherd,34612.9031,60.4524,11.7816,med,med,med,female,Lara
+Beagle,9296.9564,37.3458,12.2365,low,med,short,male,Barnes
+Beagle,12394.8554,35.9509,12.8644,med,high,short,female,Fox
+German Shepherd,35863.8141,,10.8559,low,med,med,male,Cunningham
+Daschhund,18711.1547,21.544,13.5338,high,low,short,female,Hill
+German Shepherd,34215.7579,62.2933,10.8889,med,med,long,female,Peters
+Beagle,13775.6128,36.8573,13.9964,med,high,short,female,Curtis
+Amstaff,20685.4017,47.3882,11.5803,low,high,med,male,Foster
+Daschhund,11575.9711,,12.5142,high,med,short,female,Tate
+Daschhund,10759.0452,20.9392,13.439,high,med,short,male,Forbes
+Daschhund,4999.2596,21.0754,12.789,high,med,short,male,Campbell
+Daschhund,11656.9751,21.7509,12.1052,high,med,short,male,Ferguson
+German Shepherd,32767.3899,60.7658,10.7789,med,med,med,female,Rojas
+Daschhund,12933.1398,21.0558,12.9618,high,med,short,female,Avila
+German Shepherd,37021.876,60.8817,10.6006,med,med,med,female,Cooley
+German Shepherd,37078.8928,60.7541,11.5587,med,med,med,female,Donovan
+Beagle,10687.1301,,13.0058,med,high,short,female,Long
+Daschhund,8941.3009,,13.4631,high,med,short,female,Schultz
+Amstaff,30046.9746,,13.1254,med,high,short,male,Walker
+Amstaff,23360.6373,46.694,12.7874,med,high,short,male,Mccoy
+Daschhund,8731.6808,20.4212,12.3017,high,low,short,female,Mcdonald
+German Shepherd,38704.8216,63.6344,11.4544,high,high,med,female,Miller
+Amstaff,19963.8847,45.8298,12.7035,med,high,short,male,Patton
+German Shepherd,36848.9175,61.755,11.6717,med,med,med,male,Sheila
+Beagle,10317.0511,34.2184,13.2704,med,high,med,male,Johnson
+Amstaff,26332.2667,45.4825,12.3248,med,high,short,female,Lucas
+German Shepherd,38401.225,59.6326,12.4394,low,med,med,male,Lewis
+Beagle,10659.9889,36.2593,14.1362,med,high,med,female,Chan
+Daschhund,10973.3846,21.0342,13.2602,med,med,short,male,Brown
+German Shepherd,36145.421,60.741,10.368,med,high,med,male,James
+Beagle,8848.6479,35.4294,14.9406,low,high,short,female,Jones
+German Shepherd,37117.4707,59.2577,11.2976,med,low,med,female,Stewart
+Beagle,8610.9134,,13.0437,med,high,short,male,George
+German Shepherd,35769.8053,,10.7758,med,low,long,male,Bailey
+German Shepherd,37754.4334,60.8593,11.9699,med,med,med,female,Blanchard
+Beagle,8710.6008,34.5219,11.432,med,high,short,male,Myers
+Beagle,8733.284,36.2454,14.4667,med,high,short,female,Gardner
+Beagle,10945.8549,,13.2284,med,high,short,male,Spears
+German Shepherd,36933.3916,60.7454,11.1223,med,med,med,male,Ortega
+Daschhund,12531.8703,,12.3304,high,low,short,male,Harper
+German Shepherd,37071.899,60.0941,12.2871,med,med,med,female,Russell
+Amstaff,26667.3324,,12.8329,med,high,short,male,Harris
+Daschhund,12659.8988,,13.4187,high,med,short,female,Hunt
+Beagle,11841.3318,33.1794,11.9087,low,high,short,female,Turner
+Amstaff,27287.0361,46.3184,13.3152,med,high,short,male,Chandler
+Daschhund,8614.9409,20.3593,12.9643,high,med,short,male,Moran
+Daschhund,13361.6462,20.7412,13.078,high,med,short,male,Jackson
+Beagle,10004.771,36.5543,13.2536,med,high,med,male,Mcclure
+Beagle,11875.105,35.8915,14.9739,med,high,short,male,Lee
+Beagle,9645.2782,,14.5715,med,high,short,male,Monroe
+Beagle,8885.696,36.5419,14.1205,med,high,short,male,Vazquez
+German Shepherd,37994.4575,62.5611,11.4215,med,high,med,male,Robinson
+Beagle,10036.5903,36.0436,13.7097,med,high,short,male,Rose
+Beagle,12260.586,,13.7205,med,high,med,female,Walker
+Amstaff,27733.4787,46.2374,13.2757,med,high,short,female,Porter
+German Shepherd,34867.3773,63.6844,11.0998,med,med,med,male,Stewart
+German Shepherd,36229.3,61.8815,10.726,med,med,med,male,Maynard
+Daschhund,14074.7324,21.2744,12.5553,high,med,med,female,Guzman
+German Shepherd,35890.7534,,10.1664,med,med,med,male,Acevedo
+German Shepherd,35322.9911,58.3275,11.1252,low,med,med,female,Carlson
+Beagle,10393.7727,35.5746,13.0555,med,high,short,female,Peters
+Daschhund,11061.6569,20.7849,13.2389,high,med,short,female,Hernandez
+Amstaff,27028.9929,46.2081,12.9622,med,high,short,female,Carter
+German Shepherd,36456.2885,60.7153,10.7052,high,med,med,female,English
+Daschhund,7102.1329,,12.7788,high,med,short,female,Webb
+Beagle,11014.9428,,12.1577,med,high,short,female,Evans
+Beagle,10177.1078,,12.8611,med,high,short,male,Johnson
+Amstaff,29544.598,45.0299,13.1717,med,med,short,female,Gray
+Daschhund,10952.1698,20.29,11.7446,high,med,short,male,Porter
+German Shepherd,36681.1571,,10.608,med,med,long,female,Morrison
+German Shepherd,36674.2733,59.3149,12.469,high,med,long,female,Powell
+Daschhund,5036.7052,,13.8797,high,med,short,male,Castaneda
+German Shepherd,37185.3548,63.5298,11.2791,med,med,med,female,Walker
+German Shepherd,37537.3107,62.5652,11.5479,med,med,med,female,Padilla
+German Shepherd,36884.641,61.5951,10.8518,med,med,med,male,Lewis
+German Shepherd,39169.7695,64.2573,10.7299,low,med,med,female,Berry
+German Shepherd,36262.568,58.2687,11.0681,med,med,med,female,Byrd
+Amstaff,28009.1174,45.5274,12.0201,med,med,short,female,Moyer
+Amstaff,23400.4814,46.6929,13.7466,med,high,short,male,Mcdaniel
+German Shepherd,35774.9573,61.3516,11.0319,med,med,long,female,Jenkins
+German Shepherd,34434.4979,60.4943,10.875,high,low,med,male,Sheppard
+Daschhund,11920.2815,20.9926,12.964,high,low,short,male,Baker
+German Shepherd,38457.4606,62.834,11.4463,med,med,short,male,Lester
+German Shepherd,35539.6468,64.8332,9.9829,med,med,med,female,Walton
+Daschhund,11295.9247,21.3383,12.808,high,med,short,male,Meadows
+Daschhund,16564.7597,19.4578,13.362,high,med,short,male,Torres
+Amstaff,30177.1251,45.544,12.7429,med,high,short,male,Austin
+Beagle,8675.239,33.9119,11.8593,med,med,med,female,Mclean
+German Shepherd,38021.3082,62.5134,10.8676,high,low,med,female,Cummings
+Daschhund,11590.2099,20.9757,13.325,high,med,short,female,Smith
+Amstaff,27021.2049,46.8309,12.6368,low,high,short,male,Carroll
+Daschhund,4485.8813,21.7328,12.8563,high,med,short,female,Ryan
+Amstaff,33761.7644,45.7295,12.6882,med,high,short,male,Miller
+Beagle,9084.363,,13.0766,med,high,short,male,Goodman
+Amstaff,22307.773,47.3104,12.1141,med,high,short,female,Davis
+Daschhund,8475.8511,20.847,13.1046,high,med,short,female,Stark
+Beagle,9060.1224,36.2771,13.0896,med,high,short,male,Hunt
+Beagle,10707.816,32.8442,15.426,med,high,short,female,Jones
+Amstaff,27604.784,46.8852,13.9806,med,high,short,male,Smith
+Amstaff,28279.892,46.2321,12.3682,med,high,med,male,Nelson
+Amstaff,28074.2362,45.9487,13.011,med,high,short,male,Mcbride
+German Shepherd,32522.9665,60.2346,10.2479,med,high,med,male,Knight
+Beagle,6265.8423,36.2482,12.6192,med,high,short,male,Moore
+Amstaff,24109.0205,46.1969,12.3157,med,high,short,female,Brown
+Beagle,9436.6141,32.3202,14.34,med,med,short,female,Atkins
+Beagle,10361.1871,35.2996,14.7684,med,high,med,female,Lee
+Daschhund,3601.8002,21.3712,12.6062,high,med,short,female,Taylor
+Amstaff,28803.1056,46.3166,12.9376,med,high,short,female,Gutierrez
+Beagle,9343.1409,35.6475,12.9236,low,high,short,male,Jones
+German Shepherd,34915.974,58.771,9.8095,high,med,med,male,Turner
+German Shepherd,36324.0651,61.1172,10.9477,med,low,med,male,Olson
+Daschhund,5478.2363,,11.9624,high,med,short,female,Bradley
+Beagle,11265.3602,33.7438,12.3439,med,high,short,female,Miller
+German Shepherd,38596.2647,61.2748,10.8283,med,med,med,male,Perez
+Daschhund,14054.5423,,12.0045,high,high,short,male,Wiggins
+Beagle,11039.8099,33.0129,13.2984,med,high,short,female,Phillips
+German Shepherd,36949.7536,60.999,10.8866,med,high,med,male,Williams
+Amstaff,25969.1509,,12.744,med,high,short,female,Butler
+Daschhund,11919.4556,20.8811,11.7579,high,low,short,male,Ramirez
+Daschhund,12537.8214,21.361,11.9428,high,low,short,female,Schwartz
+Beagle,9809.7517,35.5879,13.1953,med,high,short,female,Reid
+Daschhund,7763.326,20.7694,13.477,high,high,med,female,Castro
+Daschhund,10870.8081,,13.04,med,med,short,male,Rodriguez
+Daschhund,11371.3238,,13.1886,high,med,short,male,Edwards
+German Shepherd,34218.2896,60.5237,9.7026,med,high,med,female,Peck
+Daschhund,8211.2327,21.2088,12.7335,high,med,med,male,Brennan
+Daschhund,11024.464,22.0783,13.0378,med,med,short,male,Hopkins
+Daschhund,12066.8422,,12.7131,high,med,short,female,Williamson
+Daschhund,6217.8588,20.3641,12.8026,med,med,short,female,Castro
+Amstaff,25392.497,45.6885,13.0361,med,high,short,female,Gutierrez
+Daschhund,8034.4657,20.5318,12.9955,med,med,short,male,Hall
+Beagle,9382.4838,36.0343,13.2415,med,high,med,male,Johnson
+Amstaff,27707.6438,44.9198,13.4586,med,high,short,male,Jacobs
+Daschhund,12533.5136,21.4542,13.3939,high,med,short,male,Beasley
+Amstaff,25799.9999,,12.6848,med,high,short,male,Crawford
+German Shepherd,36437.8655,58.5165,11.3097,med,med,med,female,Lindsey
+German Shepherd,35450.5776,,11.0861,med,med,med,male,Hernandez
+Beagle,9840.7267,,13.8328,low,high,short,male,Johnson
+German Shepherd,35010.9889,,11.1242,med,high,med,female,Garza
+German Shepherd,37618.5657,62.8815,10.9973,med,med,med,male,Pena
+Amstaff,19971.6152,45.2649,14.0874,high,med,short,female,Walker
+Daschhund,7048.0642,20.5229,14.0507,high,med,short,male,Frederick
+German Shepherd,38704.0583,61.8549,10.1986,high,med,med,male,Adams
+German Shepherd,36986.8675,62.6719,11.6586,med,med,med,female,Woods
+Beagle,9788.3239,35.9563,15.1498,med,high,short,female,Williams
+German Shepherd,37971.9008,,9.8871,med,med,med,male,Le
+Daschhund,10495.8591,21.7591,12.9315,high,med,short,female,Mitchell
+Beagle,9286.3902,38.0663,13.5026,med,high,short,male,Berry
+Daschhund,12009.7816,21.799,12.578,high,med,short,male,Pollard
+German Shepherd,37158.3901,63.8183,11.8038,med,high,med,female,Vasquez
+Amstaff,27151.673,46.4233,12.245,med,high,short,female,Chapman
+Daschhund,7353.9119,20.176,12.8012,high,med,short,female,Wells
+Beagle,13611.0096,33.928,13.2382,med,med,short,male,Edwards
+Beagle,10965.5127,35.2746,12.6587,med,high,short,male,Moore
+Beagle,10996.646,37.1438,12.6574,med,high,short,male,Lee
+German Shepherd,37026.7715,,10.6224,med,med,short,female,Tyler
+Amstaff,21547.1676,45.735,12.8352,med,med,short,male,Wall
+Amstaff,23471.3275,46.2904,13.5532,high,high,short,male,Mcintyre
+Beagle,12328.8475,35.2399,13.8416,med,high,short,male,Wells
+Amstaff,24709.7644,,13.9207,med,high,short,female,Torres
+Amstaff,23137.7042,46.1334,13.4919,low,high,short,male,Kelly
+German Shepherd,35375.0128,59.8654,10.7266,med,med,long,female,Erickson
+Daschhund,13122.6098,21.2988,12.3938,high,low,short,female,Chapman
+German Shepherd,34770.3846,58.7201,9.8802,med,med,med,female,Smith
+Daschhund,9847.0222,21.413,12.3076,high,high,short,female,Meghan
+Beagle,12922.4313,34.1034,13.1093,med,high,short,female,Day
+Beagle,9900.4668,35.9935,15.1439,med,high,short,male,Hamilton
+Daschhund,6893.7539,20.9249,13.9393,high,med,short,female,Owens
+German Shepherd,36013.01,,11.596,med,med,med,male,Jones
+German Shepherd,34992.489,61.0857,10.5733,med,med,short,male,Randall
+German Shepherd,36911.1052,,11.4966,med,med,med,female,Yoder
+German Shepherd,36696.7829,62.5883,10.6202,med,med,med,female,Lee
+German Shepherd,39258.7407,63.1955,11.1867,low,med,med,female,Fields
+Beagle,8387.723,36.5909,13.4819,high,high,short,female,Gallagher
+Beagle,8821.7634,35.3937,14.7728,med,high,short,female,Tapia
+Beagle,9084.1637,34.5797,13.9173,low,high,short,female,Mann
+Daschhund,8931.1491,,12.1163,high,med,short,female,Malone
+Beagle,10637.0544,35.5142,13.3702,med,high,short,female,Le
+Daschhund,8453.4796,20.6734,13.1846,high,med,short,male,Castro
+Amstaff,27893.4376,45.6848,12.8553,med,high,short,male,Wilson
+German Shepherd,35354.2994,,11.2241,low,med,med,male,Graham
+Amstaff,19831.992,45.5465,13.0969,high,high,short,female,Madden
+Daschhund,11107.5966,22.4885,12.63,high,med,short,male,Larsen
+Beagle,10159.8154,,12.7793,med,med,short,male,James
+Beagle,9823.1001,,13.375,med,high,short,male,Gonzalez
+German Shepherd,37389.2859,59.3401,9.815,med,med,med,male,Myers
+Daschhund,9078.0642,21.7387,12.6365,med,med,short,male,Mcconnell
+Amstaff,24218.7506,46.6565,13.3502,med,high,short,male,Perry
+German Shepherd,38475.714,61.5299,11.7397,med,med,med,male,Gallegos
+Amstaff,27856.0636,45.9019,13.8213,med,high,short,male,Wolfe
+Daschhund,12771.1836,21.271,13.4891,high,med,short,male,Johnson
+Daschhund,8847.8427,21.3487,13.1046,high,med,short,female,Wiggins
+Amstaff,31653.3568,46.2379,13.253,med,high,short,male,Kerr
+Amstaff,29715.6555,45.9741,12.7498,med,high,short,female,Collins
+Daschhund,13267.2157,20.7028,13.933,high,med,med,male,Freeman
+Daschhund,5088.0176,21.2498,13.2499,high,low,short,female,Zachary
+German Shepherd,34331.7938,62.9411,11.2628,med,high,med,female,Johnson
+Amstaff,21233.3839,46.3422,11.3491,low,high,short,male,Christian
+Amstaff,25329.7044,46.4742,13.1137,med,high,short,male,Welch
+Beagle,10933.4342,34.6462,14.1133,med,med,short,male,Bass
+Daschhund,7619.6761,21.4325,13.7752,high,med,short,male,Long
+Amstaff,25456.1066,44.8999,13.2017,med,high,short,female,Griffin
+Amstaff,24915.6782,45.8134,12.9889,med,high,short,male,Young
+Beagle,10890.9771,37.3236,12.0586,low,high,short,female,Anderson
+Beagle,9750.8659,,14.9102,med,high,med,male,Jacobs
+German Shepherd,38820.6144,61.9487,10.2831,med,med,med,male,Mcdonald
+Beagle,10463.11,34.4344,13.4571,high,high,short,male,Bradshaw
+Beagle,10166.0524,,13.5297,med,high,short,female,Jenkins
+Beagle,12296.8598,34.7852,14.0119,med,high,short,male,Berger
+Daschhund,11842.0449,20.8602,13.3868,high,med,short,female,Rogers
+German Shepherd,33523.8931,64.4552,11.1998,low,med,med,female,Roberts
+German Shepherd,34358.4801,,10.3279,low,med,med,female,Hall
+Amstaff,21648.7288,46.4757,13.477,med,high,short,female,Jacobson
+Beagle,12695.8854,36.2425,14.1652,med,high,short,female,Shea
+Amstaff,31751.5868,45.6639,12.1544,med,high,med,female,Wu
+Beagle,8856.7229,38.1418,12.1062,low,high,short,female,Jones
+Beagle,8675.4857,,13.2289,high,high,short,male,Hernandez
+Amstaff,26256.3279,,13.866,med,high,med,female,Warren
+Daschhund,11711.7691,,12.8355,high,med,short,male,Bennett
+Daschhund,5290.3207,20.1064,13.3455,med,med,short,male,Rodriguez
+Daschhund,9830.4613,20.5893,12.2652,high,med,med,female,Lewis
+German Shepherd,35630.5184,60.9978,10.4516,high,med,med,female,Dennis
+German Shepherd,34962.0163,60.7495,10.4932,high,med,med,female,Miles
+Beagle,10015.6131,36.8254,12.9751,high,high,short,male,Myers
+German Shepherd,36073.3844,60.3003,11.7403,med,med,med,female,Newton
+Beagle,10602.6529,31.1799,13.9948,med,high,med,female,Woods
+Daschhund,10175.3693,20.6835,13.4235,high,med,short,female,Norman
+Daschhund,7460.7283,20.6324,12.6384,high,med,short,female,Ramirez
+German Shepherd,35029.1212,60.8232,10.1136,low,med,short,female,Parsons
+Beagle,11955.439,35.933,14.664,med,high,med,male,Williams
+Daschhund,7576.5804,21.7392,11.8192,high,high,short,male,Davis
+Daschhund,12941.4579,,13.3109,high,med,short,male,Morgan
+German Shepherd,37239.2475,61.8903,10.78,med,high,med,female,Miller
+Amstaff,22935.8289,46.3284,12.6298,med,high,med,male,Wright
+German Shepherd,36952.8115,61.3758,10.3842,med,med,med,female,Fernandez
+Amstaff,26876.2594,45.9136,13.0032,med,high,short,male,Smith
+German Shepherd,36494.4116,60.228,12.1983,med,med,med,female,Smith
+Daschhund,9693.1431,20.8718,12.5555,high,high,short,female,Roy
+German Shepherd,32338.3115,64.2767,11.2232,med,med,med,male,Lee
+German Shepherd,35761.9558,63.0116,10.7363,low,med,med,female,Obrien
+Amstaff,25095.1624,45.3465,13.4864,med,high,med,male,Thompson
+Amstaff,29219.8569,46.2825,13.2153,med,high,short,female,Collins
+Beagle,8403.2335,,13.0853,med,high,short,male,Walker
+German Shepherd,36152.9496,61.0592,10.7697,med,med,med,male,Cabrera
+Daschhund,11923.6679,21.3088,12.1004,high,med,short,female,Dalton
+German Shepherd,36854.7063,59.8484,11.1036,med,med,long,male,Wilson
+Beagle,11720.7904,,12.6274,low,high,short,female,Summers
+Daschhund,9959.3423,,12.9991,med,low,short,male,Brown
+Beagle,11428.3436,35.5146,14.2158,med,high,med,female,Duran
+Daschhund,10088.6687,,12.5689,high,med,short,female,Savage
+Amstaff,29048.9451,46.6751,12.6824,low,high,short,female,Ramos
+Amstaff,23926.7547,46.025,13.7605,med,high,short,female,Lopez
+Beagle,11612.4294,37.8789,13.1846,med,high,med,male,Holden
+Daschhund,9088.1203,21.19,12.7104,med,med,short,female,Allen
+Daschhund,8430.0047,21.132,13.1172,high,med,short,female,Lang
+Daschhund,14789.3446,,13.1203,high,med,short,male,Leonard
+Beagle,15571.1989,36.2067,13.8538,high,high,short,female,Clarke
+Amstaff,26244.9764,46.5414,12.6762,high,high,short,female,Rivera
+Beagle,9750.1309,32.7933,12.7182,med,high,short,female,Lucas
+German Shepherd,35727.7009,58.2729,9.5706,med,med,short,male,Bell
+Daschhund,7740.0017,21.1696,13.7863,high,med,short,male,Weber
+Daschhund,6238.7593,,13.7043,high,med,short,male,Nunez
+Daschhund,11594.2204,21.2444,13.493,high,med,short,male,Holt
+Daschhund,10381.6195,,13.6344,high,high,short,male,Johnson
+Amstaff,26746.8657,46.4668,12.6581,high,med,short,male,Brown
+Amstaff,29413.7942,,12.4781,med,high,short,male,Morgan
+Daschhund,10454.8352,20.3279,12.3551,high,med,short,female,Davis
+Daschhund,13179.2141,20.6221,13.2037,high,high,short,female,Ortiz
+Beagle,9558.107,35.2372,12.4043,med,med,short,female,Dudley
+Amstaff,27516.0423,46.251,13.3768,med,high,short,male,Silva
+German Shepherd,39201.9705,62.6557,10.7984,low,med,med,male,Hill
+Beagle,10578.5481,36.2668,14.4108,med,high,short,female,Li
+Amstaff,29897.564,45.7328,13.3884,med,high,short,female,Young
+Daschhund,14357.3738,20.7669,12.6897,high,med,short,female,Gibson
+Beagle,9734.0959,36.7645,13.8949,med,high,med,male,Barnes
+German Shepherd,35946.0076,60.146,10.0421,med,med,med,female,Herrera
+German Shepherd,34956.8783,63.2952,11.1993,med,med,med,male,Pamela
+Beagle,10400.9917,36.4041,11.9776,med,high,short,male,Bennett
+German Shepherd,34636.7625,,11.9684,med,med,med,male,Miller
+German Shepherd,40271.9753,,11.541,med,low,long,male,Atkinson
+German Shepherd,36223.4599,59.406,10.6455,med,med,med,female,Adams
+Daschhund,11813.962,21.0013,12.7898,high,med,short,female,Rose
+Amstaff,22803.1751,44.905,12.2763,med,high,short,female,Dixon
+Beagle,8659.8529,33.6173,12.6556,med,high,short,female,Bryan
+German Shepherd,34443.3352,,10.1463,med,med,med,female,Lee
+Amstaff,30672.7668,44.9412,13.5433,med,high,short,male,Welch
+German Shepherd,35980.4756,,9.6374,med,med,long,female,Oliver
+Beagle,10240.9809,35.3971,13.5486,med,high,short,female,Duran
+German Shepherd,35915.992,59.0427,11.1647,med,low,med,male,Kent
+Daschhund,9800.6165,21.3499,12.735,high,med,med,male,Bell
+Amstaff,31749.7741,46.294,13.1236,med,high,short,male,Diaz
+Beagle,9486.1155,33.2285,13.4251,med,med,med,female,Mcdonald
+Beagle,7277.4938,36.4321,13.2002,med,med,short,female,Smith
+Daschhund,7882.6136,21.9422,12.445,high,med,short,male,Baxter
+Beagle,14547.2933,35.1145,13.5213,med,high,short,male,Escobar
+Amstaff,31082.3498,45.5952,14.4963,med,med,short,male,Rivera
+Daschhund,10451.125,20.4777,13.382,high,med,short,male,Salazar
+Amstaff,32219.1082,,12.112,high,high,short,male,Thompson
+Daschhund,10707.8801,21.0506,12.5602,high,med,short,male,Davis
+Beagle,9360.4626,34.2698,13.7584,med,high,short,female,White
+Daschhund,8929.1947,20.7994,12.5949,high,low,short,female,Patel
+Amstaff,21404.7939,46.3785,12.3205,med,high,short,female,Savage
+Daschhund,7111.5985,21.0596,13.3539,high,med,short,male,Dickson
+Beagle,10637.8906,38.0983,12.3979,med,high,short,male,Hunter
+Daschhund,10509.6095,21.861,13.2998,high,med,short,female,Holt
+Beagle,7985.8948,,15.7603,med,high,short,male,Hall
+Beagle,9255.037,36.6042,14.4184,low,high,short,male,King
+Beagle,10328.0043,34.1237,14.0516,low,high,short,female,Casey
+Daschhund,14161.4295,,13.5012,high,med,med,female,Herring
+Amstaff,18838.0447,46.3966,12.5379,med,high,short,female,Hess
+Daschhund,8206.5027,,12.7535,high,med,short,female,Jackson
+Daschhund,8868.3749,20.9588,13.7954,med,high,short,female,Alexander
+Amstaff,24594.8738,,12.177,high,high,short,female,Frye
+Beagle,10840.452,32.1817,11.7745,med,high,short,female,Cox
+Beagle,11192.2682,38.7284,12.6562,low,high,short,female,Lambert
+German Shepherd,33786.6975,63.1331,11.0767,low,med,med,male,Duncan
+Amstaff,18628.5029,43.9412,14.0867,high,high,short,male,Parker
+German Shepherd,37360.0196,,10.9289,med,med,med,female,Bates
+German Shepherd,38644.7173,,10.9823,med,med,med,female,Sandy
+German Shepherd,36423.8627,,11.1014,high,high,med,female,Petersen
+Daschhund,12078.8329,,13.3955,high,med,short,male,Marquez
+Daschhund,12717.7745,20.9816,13.9025,high,med,short,female,Jacobs
+Amstaff,25007.4662,46.2112,12.7398,med,high,short,male,Charles
+Beagle,6629.2972,36.2681,14.2899,med,high,short,female,Thompson
+Amstaff,25119.69,,12.7268,med,high,med,female,Green
+Beagle,8417.4054,,13.7168,med,high,short,female,Simmons
+Daschhund,12989.8268,,12.2249,high,med,short,male,Jones
+Amstaff,25258.1559,46.3205,12.086,med,high,short,female,Watson
+German Shepherd,35701.4834,62.5564,11.3667,med,med,long,male,Gates
+Amstaff,15445.9395,45.3198,13.2944,med,high,short,female,Sanchez
+Daschhund,12054.2382,22.2519,14.2492,high,high,short,female,Patterson
+Beagle,8710.8594,35.3954,13.4524,low,high,short,male,Rice
+German Shepherd,39590.8177,62.1767,10.074,med,med,med,male,Frey
+German Shepherd,36517.2006,57.7046,11.795,med,med,med,female,Thompson
+Amstaff,34231.6679,46.0967,12.4741,med,high,med,female,Stewart
+Daschhund,9034.0566,20.4461,13.431,high,med,short,female,Richards
+German Shepherd,34811.2146,55.697,11.0594,med,med,med,female,Hurst
+Beagle,11220.1415,33.7182,14.4244,med,high,short,female,Miranda
+German Shepherd,37322.9813,59.1856,10.7026,med,med,med,female,Espinoza
+German Shepherd,38351.3538,,10.4768,med,med,med,male,Perez
+Beagle,9934.0583,36.4316,12.8186,med,high,short,female,Burke
+Amstaff,20563.8814,46.9193,13.3307,high,high,short,male,Edwards
+Amstaff,29939.0823,46.4732,12.552,med,high,med,female,Tucker
+German Shepherd,35787.0929,62.5654,11.0255,med,high,med,male,Johnson
+Beagle,9891.418,34.5691,13.3196,low,high,short,male,Baldwin
+German Shepherd,35585.4469,61.3379,12.3051,med,med,med,male,Adams
+German Shepherd,35765.4542,59.8247,11.7851,med,med,med,female,Kelly
+German Shepherd,37597.6037,58.6409,12.1077,med,med,med,female,Lewis
+Beagle,8969.2605,,13.8425,med,high,short,male,Carney
+Daschhund,8290.9328,22.1861,12.8101,high,med,short,male,Hall
+Daschhund,11019.7291,20.729,13.2642,high,med,med,female,Thomas
+Beagle,10123.7817,36.7856,14.555,med,high,med,male,Stevens
+Amstaff,23820.8511,,12.9708,med,high,short,male,Payne
+Daschhund,9472.7443,20.9946,13.604,high,med,short,male,Wendy
+Beagle,9698.497,34.9964,12.3872,med,high,short,male,Murphy
+Amstaff,30802.2181,,12.5447,low,high,short,male,Lane
+Beagle,11423.0326,34.5973,13.4058,med,high,short,male,Jacobson
+Beagle,8443.2814,36.2921,13.4702,med,high,short,male,Little
+Daschhund,7377.7827,20.6542,12.4579,high,low,short,male,Fernandez
+Amstaff,28289.6624,45.5239,13.316,med,high,short,female,Perez
+Daschhund,8602.4183,21.6676,13.7896,high,med,short,male,Banks
+Daschhund,12456.9849,21.7111,13.4676,high,med,short,male,David
+Amstaff,18197.7816,45.7059,13.7502,med,high,short,female,Thompson
+Daschhund,14325.813,,12.8048,high,low,short,female,Turner
+German Shepherd,34366.6937,57.0739,10.192,med,med,med,male,Owens
+German Shepherd,35069.7837,60.6125,10.1281,med,med,med,female,Ferguson
+Beagle,8411.454,34.9959,13.6525,med,high,short,female,Lynn
+Beagle,10558.3969,,13.0831,med,high,short,male,Walker
+Amstaff,22285.9408,,12.2358,med,high,short,female,Salazar
+Daschhund,9805.4289,21.9188,13.6209,high,med,short,female,Casey
+Beagle,9551.3717,33.433,14.6688,med,high,short,male,Stanley
+Daschhund,12450.1379,,12.7624,high,med,short,male,Davis
+Amstaff,32589.0807,45.608,13.4378,med,high,short,female,Waters
+German Shepherd,36174.6394,,10.5371,med,med,med,female,Hampton
+Amstaff,25690.0823,45.9157,13.9147,med,med,short,female,Haney
+Daschhund,11680.3051,21.4295,13.0269,high,med,short,male,Jensen
+Amstaff,21563.5112,,13.6372,med,high,short,male,Sparks
+Beagle,10687.9466,36.4482,13.2526,high,high,short,female,Eaton
+Amstaff,16444.6882,47.2413,13.8457,med,high,short,female,Harper
+Daschhund,5038.6737,19.8183,12.5521,high,med,short,male,Reed
+Amstaff,29118.6987,46.1014,13.2151,med,high,short,male,Gibbs
+Beagle,11723.5528,33.2271,14.1668,med,high,short,female,Robles
+Beagle,10867.0624,32.0192,14.5401,med,high,short,female,Nelson
+German Shepherd,39655.082,62.4286,10.943,med,med,med,female,Vincent
+German Shepherd,36329.5699,,10.5367,med,med,med,male,Chelsea
+Amstaff,20798.3633,45.3885,13.1782,med,high,short,male,James
+German Shepherd,34084.1154,62.6375,11.1229,med,med,med,female,Henry
+Daschhund,6924.6797,21.5689,12.8782,med,med,short,male,Peterson
+Amstaff,26007.9223,46.1035,13.343,med,high,short,female,Dillon
+Daschhund,8700.4223,20.3673,12.6529,high,med,med,male,Ortiz
+Amstaff,19812.7648,,12.5611,med,high,short,male,Murphy
+German Shepherd,37618.1198,61.574,10.6754,med,med,med,male,Mendoza
+Amstaff,24555.4125,45.3132,12.56,med,high,short,female,Day
+German Shepherd,35653.4824,,11.1592,med,med,med,male,Wilson
+German Shepherd,35441.7549,60.0518,11.0709,med,med,long,male,Daniels
+Amstaff,26856.9447,46.0359,12.9922,med,med,short,male,Hendricks
+Daschhund,7932.2755,21.6797,12.1131,high,med,short,female,Johnson
+German Shepherd,37443.4512,61.0893,11.5486,med,med,short,male,Knight
+Daschhund,5623.5867,20.2198,13.39,high,low,short,female,Diaz
+Beagle,8254.8895,,13.5502,low,high,short,male,Young
+Beagle,9943.0119,35.1115,14.0151,med,high,short,male,Anderson
+Beagle,10421.1676,36.0531,12.3228,med,high,short,female,Franklin
+Daschhund,11544.9079,21.1727,12.8338,high,med,short,male,Kim
+Beagle,11308.7305,33.3929,14.3079,med,high,short,male,Haynes
+Daschhund,6332.3247,21.2588,12.2509,med,low,med,female,Williams
+Daschhund,8808.4888,22.1861,12.7093,high,med,short,female,Arnold
+Beagle,13002.5204,35.1348,13.2037,high,high,short,female,Townsend
+Beagle,13232.5495,33.5844,13.5429,med,high,short,male,Gallagher
+Beagle,9035.6911,35.4583,13.7626,med,high,med,male,Francis
+Daschhund,8480.7607,,13.2037,med,med,short,female,Koch
+Daschhund,12257.7545,21.3206,13.1603,high,med,short,male,Sandoval
+German Shepherd,35723.9671,59.3217,11.3116,med,med,med,male,Short
+German Shepherd,37773.4195,,11.6519,high,med,med,male,Carey
+Beagle,9250.638,,13.4714,low,high,med,female,Mcgee
+Beagle,9848.9022,37.3016,12.9451,med,high,short,female,Powell
+Beagle,10706.526,,12.8302,med,high,med,female,Johnson
+German Shepherd,35860.9471,,11.3,med,med,short,female,Sanchez
+German Shepherd,40688.2094,61.6048,10.8956,med,high,med,male,Kaufman
+Beagle,9481.7236,,12.9955,med,high,short,female,Lamb
+Beagle,9092.6853,33.0255,13.0067,med,high,short,male,Howard
+Daschhund,10124.1696,20.755,12.9376,high,med,short,male,Campos
+Beagle,9356.3574,35.4176,14.7845,med,high,short,male,Ramirez
+Daschhund,7463.6191,21.375,12.2792,high,high,short,female,Blevins
+Daschhund,12815.7081,20.9529,12.6217,high,med,med,male,Villarreal
+German Shepherd,35265.3585,58.5312,10.7243,med,med,med,female,Lee
+Daschhund,12382.8116,20.5996,12.6714,high,high,short,female,Orozco
+Amstaff,31048.7906,,13.4224,med,high,short,male,Sanders
+Daschhund,7697.0224,20.5519,12.524,high,med,short,female,Porter
+Amstaff,23764.6315,45.8397,13.2989,med,high,short,male,Rogers
+German Shepherd,38578.7999,58.8191,10.7234,med,med,med,male,Marks
+German Shepherd,36847.6266,,10.4304,med,med,med,female,Miller
+German Shepherd,35030.9038,61.6068,9.9964,med,med,med,female,Bailey
+Amstaff,23653.3422,44.199,13.2842,med,high,short,male,White
+Beagle,9877.9482,,14.4793,med,med,med,male,Jefferson
+Amstaff,21160.0299,,12.5251,med,high,short,female,Mckee
+German Shepherd,36897.9307,61.2606,10.7928,med,med,short,male,Gilbert
+German Shepherd,38541.3853,60.0661,11.2865,med,med,med,male,Martinez
+German Shepherd,35012.8872,59.5008,11.7776,med,med,med,male,Wood
+Daschhund,14188.0827,20.3039,12.2043,high,high,short,male,Ramirez
+German Shepherd,37374.4809,,11.0707,med,med,long,female,Moore
+German Shepherd,37556.0076,59.7178,10.7884,low,med,med,male,Hawkins
+Amstaff,19503.605,46.3375,12.9328,high,high,short,female,Mccarthy
+Beagle,9745.7125,36.2616,13.9077,high,high,short,male,Melton
+Daschhund,5755.6939,20.5652,13.376,high,low,short,female,Marshall
+Daschhund,9852.4394,20.4765,12.8415,high,med,short,male,Carrillo
+Beagle,10612.7294,36.8397,14.2269,med,high,short,male,Wallace
+Beagle,7690.9347,,14.5396,med,high,short,male,Johnson
+Beagle,11768.6769,36.0855,14.6947,med,high,short,female,Martin
+Amstaff,24169.8172,,13.636,high,high,short,female,Reynolds
+Amstaff,30704.8151,,13.8084,med,med,short,male,Berry
+Amstaff,24010.7746,,13.8778,med,high,short,male,Mccullough
+Daschhund,7549.9339,21.3937,13.752,high,high,short,male,West
+Amstaff,27799.9997,46.0027,13.1077,med,high,short,female,Fuentes
+Beagle,8632.8518,,12.522,med,high,short,male,Myers
+German Shepherd,35079.7368,60.5362,11.1501,low,high,med,female,Gordon
+Beagle,10474.8784,37.1506,13.3766,low,high,short,male,Garcia
+Amstaff,24232.2116,45.8992,13.5009,med,high,short,male,Ramos
+Beagle,11510.9063,,13.5449,med,med,med,female,Davis
+Amstaff,25029.2976,,13.0174,med,high,short,female,Hughes
+Amstaff,22917.9358,43.7657,11.9334,med,high,short,female,Brown
+Daschhund,18132.0031,21.963,12.5504,high,med,short,male,Chen
+German Shepherd,37996.9804,64.0534,11.3961,med,med,med,female,Walls
+Beagle,12807.0912,,11.6474,med,high,short,male,Rodriguez
+Daschhund,14295.266,,13.12,high,med,short,female,Ramos
+German Shepherd,36826.2536,64.4752,10.656,med,med,med,male,Hansen
+Daschhund,9456.1535,21.7943,12.6034,high,med,short,female,Richardson
+Amstaff,18915.7178,45.1795,13.6523,high,high,short,female,Montgomery
+Daschhund,10571.9623,20.4015,13.0787,high,med,short,female,Stone
+Amstaff,20610.1694,45.7461,13.2855,med,med,short,female,Romero
+Beagle,11602.0015,35.4005,13.9341,med,high,short,male,Martinez
+Beagle,10133.219,36.1796,14.2821,med,high,short,female,Adams
+Amstaff,24165.2284,,12.5405,med,high,short,male,Burgess
+Beagle,9351.2019,31.6826,12.6263,med,high,short,male,Owens
+Amstaff,23396.7819,,13.0657,med,high,short,female,Bishop
+German Shepherd,37278.1825,,10.2043,low,med,short,female,Simpson
+German Shepherd,34990.9027,59.4738,10.4589,med,med,med,female,Douglas
+Daschhund,13143.0266,,13.2358,high,med,short,male,Glass
+Amstaff,22524.0041,46.3908,12.6077,low,high,short,male,Lester
+Beagle,12354.1545,37.849,14.8058,med,high,short,female,Smith
+German Shepherd,36955.9944,58.1799,10.4259,med,med,med,male,Davidson
+Amstaff,20416.5131,45.7992,12.2553,med,high,short,male,Smith
+German Shepherd,35216.0214,,11.5174,med,med,med,male,Berry
+Daschhund,5107.7836,20.8789,13.7311,high,low,short,female,Combs
+Daschhund,5875.6513,21.5023,12.3555,high,med,short,female,Walker
+Beagle,9875.8178,,14.1928,med,high,short,female,Castillo
+Amstaff,25540.9225,46.3475,14.2689,low,med,short,male,Roberts
+Beagle,11045.6232,34.9986,12.6896,med,high,med,male,Berry
+German Shepherd,34611.1098,59.9307,10.6438,med,med,med,female,Allen
+Daschhund,7791.1951,21.4481,13.383,high,med,short,male,King
+Amstaff,29264.2751,46.218,12.9279,med,high,short,male,Garcia
+Daschhund,13745.004,20.8467,12.2969,high,med,short,male,Wood
+German Shepherd,36192.9156,58.7217,11.1558,low,med,long,male,Torres
+German Shepherd,37403.9648,62.0703,10.7856,high,med,med,male,Adams
+Daschhund,7011.3744,,12.3812,high,low,short,male,Robertson
+Daschhund,12005.6264,,12.1273,high,med,short,female,Campos
+Amstaff,28791.7227,46.0923,12.1567,med,high,short,female,Coffey
+German Shepherd,38204.0336,59.6898,10.41,med,med,med,female,Crosby
+Amstaff,20878.0631,45.968,13.687,high,med,short,female,Nolan
+Beagle,9752.5764,35.1809,13.2748,med,high,short,male,Ellis
+Amstaff,28090.4225,46.8166,13.301,high,high,short,male,Gutierrez
+Amstaff,19296.9607,,13.0111,high,high,short,female,Rodriguez
+Amstaff,29584.2168,46.5309,13.1806,med,high,short,male,Krause
+Amstaff,32199.4332,46.0161,11.927,high,high,short,female,Davis
+Amstaff,28864.7435,,13.0176,med,high,short,female,Wall
+Daschhund,8028.3721,21.6288,12.4414,high,med,short,female,Gordon
+Beagle,8340.8718,35.8334,14.1566,high,high,short,male,Briggs
+Beagle,9621.1891,37.4211,14.062,med,high,short,female,Arias
+Beagle,8431.496,35.598,13.3287,med,high,short,female,Davis
+German Shepherd,35703.7303,57.216,9.7007,med,med,long,male,Bowman
+Daschhund,13065.4889,22.7376,13.9595,high,high,short,male,Mitchell
+Beagle,12447.2057,36.5234,13.0686,med,med,short,female,Tapia
+German Shepherd,36348.1882,58.6957,10.3576,med,med,med,male,Buck
+Amstaff,24991.2524,,12.9068,med,med,short,male,Spencer
+German Shepherd,35660.8714,58.6515,10.693,med,med,med,male,Miller
+German Shepherd,35898.8539,60.5724,10.36,low,med,med,male,Potter
+Beagle,10209.4845,36.7939,13.7088,low,high,med,male,Manning
+Amstaff,21203.303,,13.2474,med,high,short,male,Taylor
+Daschhund,6543.8182,20.4077,12.5339,high,med,short,female,Owens
+Beagle,9560.3826,36.7893,14.0621,med,high,short,female,Oliver
+Daschhund,9024.8648,21.0225,13.8625,high,med,short,male,Conway
+Beagle,8372.0349,35.9112,14.9373,med,med,short,female,Bradshaw
+Amstaff,22472.8565,45.7116,13.4098,med,med,short,male,Ryan
+Beagle,10553.7724,35.7212,15.5131,med,high,short,male,Scott
+Beagle,7626.9696,37.6821,12.2337,med,high,short,female,Miller
+Amstaff,24895.8228,45.378,13.3764,med,high,short,male,Clark
+German Shepherd,36218.8589,61.2522,10.8922,med,med,med,male,Davis
+Amstaff,18100.9136,45.2348,13.2901,low,high,short,female,Mccarty
+Daschhund,3036.4634,19.9835,13.5701,high,med,short,male,Carrillo
+German Shepherd,35073.5895,60.7259,10.5223,high,low,med,female,Webb
+Daschhund,8806.7873,21.7784,12.9962,high,med,short,female,Miller
+Daschhund,13923.2015,,13.2846,high,low,short,female,Barnett
+Amstaff,28647.937,45.9213,12.8933,med,high,short,female,Anderson
+Amstaff,27990.6418,45.8353,13.2962,med,high,short,male,Richardson
+German Shepherd,36401.2236,60.3749,10.394,med,med,short,female,Lopez
+Amstaff,19100.3366,45.3994,13.3468,med,high,short,male,Garza
+Amstaff,27975.0979,46.4083,13.5786,med,high,short,male,Grant
+Daschhund,9655.0322,,12.979,high,med,short,female,Thompson
+Beagle,8601.8644,34.433,13.1501,med,high,short,female,Wyatt
+German Shepherd,37138.0354,62.4739,11.7143,med,med,med,male,Brown
+German Shepherd,36587.0192,57.7912,11.3459,med,med,med,female,Schroeder
+German Shepherd,35070.5008,58.0444,10.4717,med,med,med,female,Maynard
+Beagle,9295.749,34.9367,14.6108,high,high,short,female,Vance
+Daschhund,10915.4318,20.9029,12.2134,high,med,short,female,Williams
+Amstaff,30459.5354,,12.5661,med,med,short,male,Shah
+Beagle,9241.5157,35.4074,16.0526,low,high,med,female,Young
+Daschhund,11289.5618,21.178,12.9047,high,med,short,female,Dixon
+Amstaff,25030.8292,45.5875,12.3809,med,high,short,female,Ruiz
+Daschhund,7823.9524,20.3685,13.449,high,low,short,male,Petty
+Beagle,10960.5435,34.8555,13.1276,med,high,short,female,Lucas
+Amstaff,21583.2063,,13.5763,med,high,short,male,White
+Amstaff,27001.1937,45.8985,13.8271,med,high,short,male,Arroyo
+Daschhund,8560.6172,,13.0363,high,med,short,female,Short
+Amstaff,30574.5982,46.2018,12.7808,med,high,short,male,Henderson
+Amstaff,29228.8746,44.6683,12.4738,med,high,short,male,Johnson
+German Shepherd,36724.1668,65.7057,11.5231,med,low,short,male,Lee
+Beagle,9549.7894,33.5964,13.9892,med,high,short,male,Young
+Amstaff,21175.2287,46.1141,13.294,low,high,short,male,Carter
+Amstaff,21621.9957,,13.0415,med,high,short,female,Rodriguez
+Daschhund,8886.9618,20.95,13.0085,high,med,short,male,Thompson
+Beagle,14210.1145,35.7399,13.9025,med,high,short,male,Ray
+Daschhund,8473.8964,21.1163,12.017,high,med,short,male,Knight
+Daschhund,15820.4946,,11.9621,high,med,short,female,Davis
+Beagle,10048.5743,33.6297,14.2103,high,high,short,male,Gill
+Amstaff,24878.5669,46.2501,12.7512,med,high,short,male,Church
+Amstaff,25957.265,45.2707,12.4583,med,med,short,female,Davidson
+German Shepherd,36163.2684,64.1172,10.7355,med,high,med,male,May
+Beagle,10266.5354,33.4031,13.4831,low,high,short,male,Bailey
+Beagle,12884.8818,36.783,13.927,med,high,short,female,Huff
+German Shepherd,38309.9778,,10.9061,med,med,med,male,Franco
+Daschhund,11097.391,20.0106,12.3842,high,low,short,male,Dominguez
+German Shepherd,39039.2391,63.6015,10.5394,med,med,short,female,Thompson
+German Shepherd,37142.1631,61.0674,10.4625,low,med,short,male,Yoder
+Beagle,9955.5893,39.1906,12.2765,med,high,short,female,Jimenez
+German Shepherd,36790.0655,63.0308,11.6428,med,med,med,female,Rivera
+Beagle,9413.8456,34.8886,12.5047,med,high,short,male,Solomon
+Daschhund,15454.338,,13.5995,high,med,short,female,Brown
+Amstaff,29539.8468,45.5804,12.5951,low,high,med,female,Carter
+German Shepherd,35884.7293,,11.6126,med,med,med,male,Hughes
+Beagle,9161.8214,35.0206,13.03,low,high,short,female,Wright
+Amstaff,28704.5074,45.527,13.7862,med,high,short,female,Edwards
+Beagle,10912.6171,,12.4377,med,high,short,male,Gilbert
+German Shepherd,36965.288,58.0615,11.059,med,med,med,male,Cunningham
+Amstaff,31362.9217,46.1017,13.8165,med,high,short,male,Williamson
+Beagle,10319.5382,34.8705,12.6381,med,high,short,female,Washington
+Amstaff,31058.1593,,13.1294,high,high,short,male,Lewis
+Amstaff,27802.4956,45.6266,12.5486,med,high,short,female,Long
+German Shepherd,37521.6998,61.572,10.7698,med,med,med,female,Fritz
+Amstaff,25296.7307,45.7849,13.203,med,high,short,female,Woodward
+Beagle,11438.5592,34.4635,12.8545,med,high,short,female,Stanton
+Amstaff,25741.0268,45.8914,12.0376,med,high,short,female,Eaton
+Amstaff,30920.2778,45.7674,12.3191,high,med,short,female,Gonzalez
+German Shepherd,38785.8173,59.7856,10.9852,med,med,med,male,Weaver
+Beagle,11650.0807,33.9803,13.5364,med,med,short,female,Clark
+German Shepherd,39012.4511,58.9631,10.5565,low,low,med,female,Smith
+Beagle,10581.1808,38.0538,13.8297,high,med,short,male,Stephens
+German Shepherd,38069.4275,62.8579,10.4864,med,med,med,female,Lee
+German Shepherd,36875.6603,62.2216,10.7094,high,high,med,female,Campos
+Daschhund,8484.6792,21.1039,13.6621,high,med,med,female,Garcia
+Daschhund,6978.9965,20.753,13.8629,high,med,short,male,Santos
+German Shepherd,36925.4663,,10.5575,med,med,med,female,Carter
+Daschhund,13441.5414,,13.0154,med,low,short,male,Castaneda
+German Shepherd,37713.1148,60.2267,11.1853,high,med,short,female,Smith
+Amstaff,31202.5435,45.3222,13.4325,med,high,short,female,Bauer
+Daschhund,9895.465,21.4025,13.611,high,med,short,male,Holmes
+German Shepherd,33826.5536,62.6917,10.5735,med,med,short,male,Orozco
+Beagle,12329.5882,34.6348,14.0297,med,high,short,male,Robinson
+Daschhund,15573.3193,22.3004,13.044,high,med,med,female,Patterson
+Beagle,11490.517,35.5357,14.4252,med,med,short,female,Nicholas
+German Shepherd,36999.3352,63.8525,10.4036,med,med,med,female,Erickson
+Daschhund,9675.4098,,12.8586,high,med,med,male,Barrett
+Amstaff,23857.2509,46.1134,12.3942,med,high,short,female,Caldwell
+German Shepherd,37344.5291,59.9515,10.3798,med,med,med,male,Wright
+German Shepherd,35609.753,62.4743,10.8962,med,med,med,male,Fernandez
+Beagle,6747.2789,,12.0814,med,high,short,male,Jackson
+Daschhund,8574.7731,,13.5838,high,med,short,female,Fernandez
+German Shepherd,35583.6205,62.0231,11.5849,med,med,med,male,Walton
+Beagle,9696.0473,,13.1769,high,high,short,male,Hill
+Daschhund,12290.2203,22.3846,12.934,high,med,short,female,Wilson
+Daschhund,11712.672,22.1345,13.4293,high,med,short,male,Phillips
+Beagle,11956.7548,37.0791,12.8676,med,high,short,male,Holmes
+Beagle,11787.3306,38.0874,13.3165,med,high,short,female,Taylor
+Beagle,11047.1081,,12.8399,med,high,med,female,Chung
+Daschhund,14133.3473,,12.7765,high,med,med,male,Bell
+Beagle,11316.0782,,12.9255,med,high,short,female,Warren
+German Shepherd,35364.2357,59.0315,11.4315,med,med,med,male,Taylor
+Beagle,11839.7649,33.8005,14.0876,med,high,short,female,Morris
+German Shepherd,36305.174,,10.8488,med,med,short,female,Evans
+Amstaff,31848.5626,46.5171,13.0448,high,high,short,male,Garza
