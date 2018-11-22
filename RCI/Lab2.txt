@@ -45,4 +45,6 @@ lab2(Case, Prop_Peste) :-
 				 langa([casa, _, _, dunhill, _, _], [casa, _, cal, _, _, _], Case),
 				 membru([casa, german, _, rothmans, _, _], Case),
 				 langa([casa, _, _, marlboro, _, _], [casa, _, _, _, apa, _], Case),
-    			 membru([casa, Prop_Peste, peste, _, _, _], Case).
+    			 membru([casa, Prop_Peste, peste, _, _, _], Case),
+    			 membru([casa, danez, _, _, _, _], Case),
+    			 membru([casa, _, _, _, ceai, _], Case).
