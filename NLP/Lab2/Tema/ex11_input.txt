@@ -1,0 +1,6 @@
+2:ionel
+7:alex
+1:maria
+10:ioana
+5:liliana
+14:george

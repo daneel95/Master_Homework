@@ -1,0 +1,4 @@
+un text de input
+cu cuvinte separate
+atat prin linii cat si prin
+spatii
