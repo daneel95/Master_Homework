@@ -62,36 +62,50 @@ def get_positive_atom(clauza):
     return [el for el in clauza if el[0:2] != 'n('][0]
 
 
-def verifica_toate_marcate(propozitii_atomice_marcate):
-    return all([atom_marcat[1] for atom_marcat in propozitii_atomice_marcate])
+def verifica_toate_marcate(propozitii_atomice_marcate, propozitii_atomice):
+    for el in propozitii_atomice:
+        if (el, True) not in propozitii_atomice_marcate:
+            return False
+    return True
+    # return all([atom_marcat[1] for atom_marcat in propozitii_atomice_marcate])
 
 
 def solve_inainte(propozitii_atomice, KB):
     # marcam (ca rezolvate sau nerezolvate) tot ce se poate - pas initial
     propozitii_atomice_marcate = []
-    for atom in propozitii_atomice:
-        propozitii_atomice_marcate.append((atom, [atom] in KB))
+    # for atom in propozitii_atomice:
+    #     propozitii_atomice_marcate.append((atom, [atom] in KB))
+    for clauza in KB:
+        for atom in clauza:
+            atom = atom if 'n(' not in atom else opposite(atom)
+            if (atom, False) not in propozitii_atomice_marcate:
+                propozitii_atomice_marcate.append((atom, False))
 
     while(True):
         # pasul 1
         # print("Propozitii atomice marcate: ", propozitii_atomice_marcate)
-        if verifica_toate_marcate(propozitii_atomice_marcate):
+        if verifica_toate_marcate(propozitii_atomice_marcate, propozitii_atomice):
             return "DA"
 
         for_complete = True
         # pasul 2
         for clauza in KB:
             # print("Verific clauza: ", clauza)
+            # print("Deja pozitive: ", propozitii_atomice_marcate)
+            # print("=========================")
             if verificare_clauza_pas2(clauza, propozitii_atomice_marcate):
+                # print("+++++++++++++++++")
+                # print(clauza, propozitii_atomice_marcate)
                 # print("Verificare reusita, marchez")
                 positive_atom = get_positive_atom(clauza)
                 index_to_mark = propozitii_atomice_marcate.index((positive_atom, False))
                 propozitii_atomice_marcate[index_to_mark] = (positive_atom, True)
                 for_complete = False
                 break
+        # print(KB, propozitii_atomice_marcate)
         if not for_complete:
             continue
-        return "NO"
+        return "NU"
 
     # return "NO"
 

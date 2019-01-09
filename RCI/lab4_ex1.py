@@ -1,3 +1,7 @@
+import sys
+sys.setrecursionlimit(1500)
+
+
 def break_not(el):
     # el de forma n(A)
     return el[2:-1]
@@ -43,18 +47,37 @@ def get_all_atoms(my_list):
     return atoms
 
 
+already_solved = []
+
+
 def solve_inapoi(atoms, KB):
+    # atoms = list(set(atoms))
     if len(atoms) == 0:
+        already_solved.append((atoms, KB, "DA"))
         return "DA"
-    # print("UNUL NOU")
     # print("Atoms: ", atoms)
     # print("KB: ", KB)
+    # print("already solved: ", already_solved)
     for c in KB:
         # print("C = ", c)
         # print("Pentru Solve: ", [opposite(atom) for atom in c if atom != atoms[0]] + atoms[1:])
         # print("==============================")
+        # if atoms[0] in c:
+        #     already_solved.append(atoms[0])
+        #     new = [opposite(atom) for atom in c if atom != atoms[0]] + atoms[1:]
+            # print("c: ", c)
+            # print("new:", new)
+            # print("=============")
+            # if new[0] in already_solved:
+                # print("BBB")
+                # return "DA"
+            # else:
+            #     print("AAAA")
+            #     return solve_inapoi([opposite(atom) for atom in c if atom != atoms[0]] + atoms[1:], KB)
+
         if atoms[0] in c and solve_inapoi([opposite(atom) for atom in c if atom != atoms[0]] + atoms[1:], KB) == "DA":
             return "DA"
+    # print("CCC")
     return "NU"
 
 
@@ -64,4 +87,10 @@ if __name__ == "__main__":
         KB = from_string_to_array(file.readline())
         propozitii_atomice = from_string_to_array_atomic_prop(file.readline())
     with open("lab4_ex1_output.txt", "w") as file:
+        # a = solve_inapoi(propozitii_atomice, KB)
+        # for el in propozitii_atomice:
+        #     if el not in already_solved:
+        #         file.write("NU")
+        #         exit(1)
+        # file.write("DA")
         file.write(solve_inapoi(propozitii_atomice, KB))
