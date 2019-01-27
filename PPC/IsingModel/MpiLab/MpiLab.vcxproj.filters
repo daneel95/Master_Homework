@@ -18,5 +18,8 @@
     <ClCompile Include="IsingModel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsingModel_MasterWorkerControl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

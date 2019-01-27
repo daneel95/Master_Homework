@@ -15,6 +15,7 @@ Cum J = 1 atunci formula energiei devine Suma dupa i si j din sigma(i) * sigma(j
 #define STEPS 1000000
 #define ITERATIONS 1000
 
+// Returneaza laticea initializata (toate valorile 1)
 int** initialization(int n) {
 
 	int** latice;
@@ -28,6 +29,7 @@ int** initialization(int n) {
 	return latice;
 }
 
+// Returneaza energia calculata din laticea data
 int calculateEnergy(int** latice, int n) {
 	int energy = 0;
 	for (int i = 0; i < n; i++) {
@@ -44,6 +46,7 @@ int calculateEnergy(int** latice, int n) {
 	return energy;
 }
 
+// Calculeaza diferenta dintre vechea energie si noua energie daca se modifica elementul de pe pozitia [lineIndex, columnIndex]
 int calculateEnergyDifference(int** latice, int lineIndex, int columnIndex, int n) {
 	int energyDifference = 0;
 
@@ -63,6 +66,9 @@ int calculateEnergyDifference(int** latice, int lineIndex, int columnIndex, int 
 	return 2 * latice[lineIndex][columnIndex] * energyDifference;
 }
 
+// Se face initializare globala (toate iteratiile au aceeasi initializare)
+int** initialLatice = initialization(LATICE_DIMENSION);
+int initialEnergy = calculateEnergy(initialLatice, LATICE_DIMENSION);
 
 int main(int argc, char* argv[]) {
 	clock_t tStart = clock();
@@ -73,23 +79,22 @@ int main(int argc, char* argv[]) {
 		MPI_Abort(MPI_COMM_WORLD, rc);
 	}
 
-	int numtasks, rank;
-	MPI_Comm_size(MPI_COMM_WORLD, &numtasks);
+	int numProcs, rank;
+	MPI_Comm_size(MPI_COMM_WORLD, &numProcs);
 	MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 
-	int iterationsPerTask = ITERATIONS / numtasks;
-/*
-	int** latice = initialization(LATICE_DIMENSION);
-	for (int i = 0; i < LATICE_DIMENSION; i++) {
-		for (int j = 0; j < LATICE_DIMENSION; j++) {
-			printf("%d ", latice[i][j]);
-		}
-		printf("\n");
+	// Sparge numarul de iteratii in numar egal
+	int iterationsPerTask = ITERATIONS / numProcs;
+	// Diferenta ramasa (daca avem numar de procese care nu e divizibil cu numarul de iteratii) se adauga procesului 0
+	if (rank == 0) {
+		iterationsPerTask += ITERATIONS % numProcs;
 	}
-*/
+
+
 	for (int j = 0; j < iterationsPerTask; j++) {
-		int** latice = initialization(LATICE_DIMENSION);
-		int energy = calculateEnergy(latice, LATICE_DIMENSION);
+		// Ruleaza algoritmul
+		int** latice = initialLatice;
+		int energy = initialEnergy;
 
 		for (int i = 0; i < STEPS; i++) {
 			int lineIndex = rand() % LATICE_DIMENSION;
@@ -111,7 +116,8 @@ int main(int argc, char* argv[]) {
 			}
 		}
 
-		printf("Ended iteration %d with energy = %d\n", rank * iterationsPerTask + j, energy);
+		printf("Ended with energy = %d\n", energy);
+		fflush(stdout);
 	}
 
 	MPI_Finalize();

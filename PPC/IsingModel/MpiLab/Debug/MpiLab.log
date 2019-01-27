@@ -1,3 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (IsngModel.vcxproj, MpiLab.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-IsingModel.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  MpiLab.vcxproj -> C:\Users\Daniel\Desktop\Tema PPC\IsingModel\IsingModel\Debug\IsingModel.exe
+  IsingModel_MasterWorkerControl.cpp
+c:\users\daniel\desktop\master_homework\ppc\isingmodel\mpilab\isingmodel_masterworkercontrol.cpp(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\daniel\desktop\master_homework\ppc\isingmodel\mpilab\isingmodel_masterworkercontrol.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+IsingModel_MasterWorkerControl.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  MpiLab.vcxproj -> C:\Users\Daniel\Desktop\Master_Homework\PPC\IsingModel\Debug\IsingModel.exe
