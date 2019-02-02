@@ -1,0 +1,34 @@
+module MAIN { listen nil } { read nil }
+{
+
+	PREPAREDATA
+	%
+	COMPUTEALLJOBS
+
+}{ speak nil } { write nil }
+
+module PREPAREDATA {listen nil} {read nil} 
+{
+	@MASTER
+} {speak nil} {write iterations : int ; ((iteration : int) tasks [];)}
+
+module COMPUTEALLJOBS {listen nil} {read iterations : int ; ((iteration : int) tasks [];)}
+{
+
+	I # foreach_s (iterations) 
+		{
+			COMPUTEITERATION
+		}
+
+} { speak nil } { write nil }
+
+module I {listen nil } { read n:int}
+{
+	@
+}{speak nil} { write nil }
+
+module COMPUTEITERATION { listen nil } { read iteration : int }
+{
+	@
+}{ speak nil } { write nil }
+

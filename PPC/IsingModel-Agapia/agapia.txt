@@ -1,0 +1,64 @@
+module MAIN { listen nil } { read nil }
+{
+
+	PREPAREDATA
+	%
+	COMPUTEALLJOBS
+
+}{ speak nil } { write nil }
+
+module PREPAREDATA {listen nil} {read nil} @Master
+{
+	ClearVectorOfProcessItems(&tasks);
+	iterations = ITERATIONS;
+
+	for (int i = 0; i < iterations; i++){
+		tasks@[i].iteration = i;
+	}
+
+} {speak nil} {write iterations : int ; ((iteration : int) tasks [];)}
+
+module COMPUTEALLJOBS {listen nil} {read iterations : int ; ((iteration : int) tasks [];)}
+{
+
+	I # foreach_s (iterations) 
+		{
+			COMPUTEITERATION
+		}
+
+} { speak nil } { write nil }
+
+module I {listen nil } { read n:int}
+{
+
+}{speak nil} { write nil }
+
+module COMPUTEITERATION { listen nil } { read iteration : int }
+{
+	int** latice = IsingModelAux::initialization(LATICE_DIMENSION);
+	int energy = IsingModelAux::calculateEnergy(latice, LATICE_DIMENSION);
+
+	for (int i = 0; i < STEPS; i++) {
+		int lineIndex = rand() % LATICE_DIMENSION;
+		int columnIndex = rand() % LATICE_DIMENSION;
+		float randomProbability = ((double)rand() / (RAND_MAX));
+		float probability = 0.0f;
+
+		int energyDifference = IsingModelAux::calculateEnergyDifference(latice, lineIndex, columnIndex, LATICE_DIMENSION);
+		if (energyDifference < 0) {
+			probability = 1.0;
+		}
+		else {
+			probability = exp(-energyDifference);
+		}
+		
+		if (randomProbability < probability) {
+			latice[lineIndex][columnIndex] *= -1;
+			energy -= energyDifference;
+		}
+	}
+
+	printf("Ended iteration %d with energy = %d\n", iteration, energy);
+	fflush(stdout);
+
+}{ speak nil } { write nil }

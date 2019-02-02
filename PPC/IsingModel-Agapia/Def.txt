@@ -1,0 +1,10 @@
+% // Include files
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include "IsingModelAux.h"
+% // Additional include directories
+% // Additional library directories
+% // Additional linker libs/dll etc
+% // Additional source files
+IsingModelAux.cpp
