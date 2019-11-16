@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/homework3.py" line="68" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad6b285a-f3e6-427b-bd3b-bb88958aa1b6" name="Default Changelist" comment="" />
+    <list default="true" id="d58c60d1-03ed-4ec2-8a68-a205726dc8bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +11,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/homework3.py">
+        <entry file="file://$PROJECT_DIR$/homework4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1053">
-              <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+            <state relative-caret-position="-411">
+              <caret line="145" column="53" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -27,7 +24,20 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="694">
+              <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -39,19 +49,28 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>O</find>
+      <find>0</find>
+      <find>3</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework3.py" />
+        <option value="$PROJECT_DIR$/output.txt" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/homework4.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1176" />
+    <option name="width" value="1459" />
     <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,22 +79,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Homework3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework3" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,19 +109,19 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="homework3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Homework3" />
+    <configuration name="homework4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Homework4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\SoftComputing\Homework2\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework3" />
+        <item itemvalue="Python.homework4" />
       </list>
     </recent_temporary>
   </component>
@@ -122,24 +141,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ad6b285a-f3e6-427b-bd3b-bb88958aa1b6" name="Default Changelist" comment="" />
-      <created>1573672584408</created>
+      <changelist id="d58c60d1-03ed-4ec2-8a68-a205726dc8bb" name="Default Changelist" comment="" />
+      <created>1573834099871</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573672584408</updated>
+      <updated>1573834099871</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1176" height="1407" extended-state="0" />
+    <frame x="-7" y="0" width="1459" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18892795" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10978185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3320251" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -153,23 +172,41 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="self" />
-      </configuration>
-    </watches-manager>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>next_board</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>min_value(next_board, player, alpha, beta)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework3.py">
+    <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
+        <state relative-caret-position="22">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="38" column="10" lean-forward="true" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="145" column="53" selection-start-line="145" selection-start-column="53" selection-end-line="145" selection-end-column="53" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
