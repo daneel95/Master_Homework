@@ -1,14 +1,26 @@
 % Import vlfeat
-run('C:\Users\Daniel\Desktop\vlfeat-0.9.21-bin.tar\vlfeat-0.9.21-bin\vlfeat-0.9.21\toolbox\vl_setup')
+%run('C:\Users\Daniel\Desktop\vlfeat-0.9.21-bin.tar\vlfeat-0.9.21-bin\vlfeat-0.9.21\toolbox\vl_setup')
+run('vlfeat-0.9.21-bin.tar\vlfeat-0.9.21-bin\vlfeat-0.9.21\toolbox\vl_setup')
 
 
-isTraining = false;
+prompt = 'Is training? (0 - NO, 1 - YES, default - 0)\n';
+x = input(prompt);
+if x == 1
+    isTraining = true;
+else
+    isTraining = false;
+end
+disp(isTraining)
 
 imagePath = 'C:\\Users\\Daniel\\Desktop\\tema2\\database\\%d\\%d_%d.jpg'; % path to training images
-centersPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\centers.mat';
-histogramPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\histogram.mat';
-tfidfPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\tfidf.mat';
-visualWordsImageCountPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\visualWordsImageCount.mat';
+%centersPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\centers.mat';
+centersPath = 'saved_files\\centers.mat';
+%histogramPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\histogram.mat';
+histogramPath = 'saved_files\\histogram.mat';
+%tfidfPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\tfidf.mat';
+tfidfPath = 'saved_files\\tfidf.mat';
+%visualWordsImageCountPath = 'C:\\Users\\Daniel\\Desktop\\ComputerVision-BagOfWordsHomework\\saved_files\\visualWordsImageCount.mat';
+visualWordsImageCountPath = 'saved_files\\visualWordsImageCount.mat';
 numberOfClasses = 50;
 vocabularySize = 100000;
 resizeValue = 1;
@@ -50,7 +62,9 @@ if isTraining
     save(visualWordsImageCountPath, 'visualWordsImageCount');
 else
     disp("Calculating similarity");
-    queryImagePath = 'C:\\Users\\Daniel\\Desktop\\tema2\\queries\\1\\1_11.jpg';
+    %queryImagePath = 'C:\\Users\\Daniel\\Desktop\\tema2\\queries\\1\\1_11.jpg';
+    prompt = 'Insert path to query image: \n';
+    queryImagePath = input(prompt, 's');
     centersFile = matfile(centersPath);
     centers = centersFile.centers;
     histogramFile = matfile(histogramPath);
