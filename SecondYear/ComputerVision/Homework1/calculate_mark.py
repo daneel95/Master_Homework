@@ -44,10 +44,6 @@ def split_image(image):
     cropped_bot_right = image[row_for_right_side:height, middle_column:width]
     cropped_top_left = image[start_row:middle_row, start_col:middle_column]
 
-    cv2.imwrite("BotSideLeft.jpg", cropped_bot_left)
-    cv2.imwrite("BotSideRight.jpg", cropped_bot_right)
-    cv2.imwrite("TopSideLeft.jpg", cropped_top_left)
-
     return cropped_bot_left, cropped_bot_right, cropped_top_left
 
 
@@ -413,6 +409,8 @@ def handle_right_table_and_choice(img):
     selection_region_color = img[0:region_y, region_x1:region_x2]
     selection_result, choice_result = get_selection(selection_region_color)
 
+    print("Candidate chose {} with subject {}".format(selection_result, choice_result))
+
     return results, "barem/{}_varianta{}.txt".format(selection_result, choice_result)
 
 
@@ -428,7 +426,7 @@ def get_selection(selection_region_color):
 
     rect_bottom = cv2.boundingRect(contours[0])
     x, y, w, h = rect_bottom
-    bottom_box = thresh[y: y + h, x: x+w]
+    bottom_box = thresh[y: y + h, x: x + w]
     bottom_box_color = selection_region_color[y: y + h, x: x + w]
 
     rect_top = cv2.boundingRect(contours[1])
@@ -557,19 +555,20 @@ def calculate_mark(path_to_image):
     return mark
 
 
+# just testing purposes
 def test_on_example_tests_rotated():
     # for i in range(105, 106):
     for i in range(1, 2):
         print("Handling image " + str(i))
         if i == 92:  # skip 92, X instead of a number in selection
             continue
-        file_path = "C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\rotation_" + str(i) + ".jpg"
+        file_path = "C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\rotation_" + str(
+            i) + ".jpg"
         image = cv2.imread(file_path)
 
         # TEST START
 
         img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-
 
         # img = cv2.adaptiveThreshold(img, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 175, 2)
         # edges = cv2.Canny(img, 200, 250)
@@ -579,7 +578,6 @@ def test_on_example_tests_rotated():
         cv2.imwrite("rotated_image_handled.jpg", image)
 
         cv2.imwrite("test.jpg", img)
-
 
         #
         # def resize(img, height=800):
@@ -602,8 +600,6 @@ def test_on_example_tests_rotated():
         # cv2.imwrite("rotated_image_handled.jpg", image)
 
         # TEST END
-
-
 
         # cropped_bot_left, cropped_bot_right, cropped_top_left = split_image(image)
         # left_table_results = handle_left_table(cropped_bot_left)
@@ -634,13 +630,15 @@ def test_on_example_tests_rotated():
         # print("=============================================")
 
 
+# just testing purposes
 def test_on_example_tests():
     # for i in range(105, 106):
     for i in range(1, 151):
         print("Handling image " + str(i))
-        if i == 92: # skip 92, X instead of a number in selection
+        if i == 92:  # skip 92, X instead of a number in selection
             continue
-        file_path = "C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".jpg"
+        file_path = "C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(
+            i) + ".jpg"
         image = cv2.imread(file_path)
         cropped_bot_left, cropped_bot_right, cropped_top_left = split_image(image)
         left_table_results = handle_left_table(cropped_bot_left)
@@ -651,7 +649,8 @@ def test_on_example_tests():
         test_choice = "F" if barem[0] == "Fizica" else "I"
         barem = barem[1].split(".")[0]
         test_number = int(barem[-1])
-        f = open("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".txt", "r")
+        f = open("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(
+            i) + ".txt", "r")
         test_type = f.readline()[:-1].split(" ")
         if test_type[0] != test_choice:
             print("Nu am ales bine materia!")
@@ -663,9 +662,13 @@ def test_on_example_tests():
             answer = f.readline()[:-1].split(" ")[1]
             if answer != final_results[j]:
                 if j < 15:
-                    print("Nu am ales bine X-ul in TABEL STANGA. Pe linia {} am gasit {} si expected {}".format(j + 1, final_results[j], answer))
+                    print("Nu am ales bine X-ul in TABEL STANGA. Pe linia {} am gasit {} si expected {}".format(j + 1,
+                                                                                                                final_results[
+                                                                                                                    j],
+                                                                                                                answer))
                 else:
-                    print("Nu am ales bine X-ul in TABEL DREAPTA. Pe linia {} am gasit {} si expected {}".format(j - 15 + 1, final_results[j], answer))
+                    print("Nu am ales bine X-ul in TABEL DREAPTA. Pe linia {} am gasit {} si expected {}".format(
+                        j - 15 + 1, final_results[j], answer))
         f.close()
         print("=============================================")
 
@@ -676,444 +679,3 @@ if __name__ == "__main__":
     # calculate the mark of the test
     mark = calculate_mark(file_path)
     print("Nota finala este {}".format(mark))
-
-    # test_on_example_tests()
-    # test_on_example_tests_rotated()
-    # train_and_save_model()
-    # Split the image
-    # img = cv2.imread("C:\\Users\\Daniel\\Desktop\\OpencvTestProject\\image_12.jpg")
-    # split_image(img)
-    # split_image_less_custom(img)
-    # cropped_bot_left, cropped_bot_right, cropped_top_left = split_image(img)
-    # handle left table (matematica)
-    # handle_left_table(cropped_bot_left)
-    # handle right table (fizica / informatica)
-    # handle_right_table_and_choice(cropped_bot_right)
-
-    # FAILED TRIAL
-
-    # from skimage.feature import hog
-    # f = open("C:\\Users\\Daniel\\Desktop\\mnist_train.csv", "r")
-    # f.readline()
-    # size = 28
-    # labels = []
-    # features = []
-    # features2 = []
-    # labels2 = []
-    # features3 = []
-    # labels3 = []
-    #
-    # for line in f.readlines():
-    #     img_mnist = []
-    #     line = line[:-1]
-    #     line = line.split(",")
-    #     if line[0] not in ["1", "2", "3", "4"]:
-    #         # print("not a good number!")
-    #         continue
-    #
-    #     # if len(features) > 24673 // 3:
-    #     #     if len(features2) > 24673 // 3:
-    #     #         labels3.append(int(line[0]) - 1)
-    #     #     else:
-    #     #         labels2.append(int(line[0]) - 1)
-    #     # else:
-    #     #     labels.append(int(line[0]) - 1)
-    #     # if len(features) > 24673 // 2:
-    #     #     labels2.append(int(line[0]) - 1)
-    #     # else:
-    #     #     labels.append(int(line[0]) - 1)
-    #     labels.append(int(line[0]) - 1)
-    #     line = line[1:]
-    #
-    #     for i in range(size):
-    #         ln = []
-    #         for j in range(size):
-    #             ln.append(int(line[i * size + j]))
-    #         img_mnist.append(ln)
-    #
-    #     img_mnist = np.array(img_mnist, dtype=np.float32)
-    #     img_mnist = cv2.cvtColor(img_mnist, cv2.COLOR_GRAY2BGR)
-    #     img_mnist = cv2.cvtColor(img_mnist, cv2.COLOR_BGR2GRAY)
-    #     # kernel = np.ones((3, 3), np.uint8)
-    #     # img_mnist = cv2.erode(img_mnist, kernel, iterations=1)
-    #     # cv2.imshow("a", img_mnist)
-    #     # cv2.waitKey(0)
-    #
-    #     # x, y = final_mnist.shape
-    #     # mx, my = img_mnist.shape
-    #     # yoff = round((x - mx) / 2) + randint(-6, 6)
-    #     # xoff = round((y - my) / 2) + randint(-6, 6)
-    #     #
-    #     # final_mnist[yoff:yoff + mx, xoff:xoff + my] = img_mnist
-    #     # cv2.rectangle(final_mnist, (8, 8), (final_mnist.shape[0] - 8, final_mnist.shape[1] - 8), (255, 255, 255), 6)
-    #     # print(final_mnist.shape)
-    #
-    #     # cv2.imshow("aa", final_mnist)
-    #     # cv2.waitKey(0)
-    #     # cv2.imshow("aa", img_mnist)
-    #     # cv2.waitKey(0)
-    #     # final_mnist = cv2.resize(img_mnist, (28, 28))
-    #     # cv2.imshow("aa", img_mnist)
-    #     # cv2.waitKey(0)
-    #
-    #     # with HOG
-    #     # hog_value = hog(img_mnist, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1)) # 65%
-    #     # hog_value = hog(img_mnist, orientations=9, pixels_per_cell=(6, 6), cells_per_block=(1, 1)) # 78@
-    #     # hog_value = hog(img_mnist, orientations=9, pixels_per_cell=(4, 4), cells_per_block=(1, 1)) # 84%
-    #     # hog_value = hog(img_mnist, orientations=9, pixels_per_cell=(3, 3), cells_per_block=(1, 1)) # 85%
-    #     # hog_value = hog(img_mnist, block_norm='L1-sqrt', orientations=9, pixels_per_cell=(3, 3), cells_per_block=(1, 1)) # 85%
-    #     # hog_value = hog(img_mnist, orientations=11, pixels_per_cell=(3, 3), cells_per_block=(1, 1))  # 87%
-    #     hog_value = hog(img_mnist, orientations=11, pixels_per_cell=(3, 3), cells_per_block=(1, 1))  #
-    #
-    #     # if len(features) > 24673 // 3:
-    #     #     if len(features2) > 24673 // 3:
-    #     #         features3.append(hog_value)
-    #     #     else:
-    #     #         features2.append(hog_value)
-    #     # else:
-    #     #     features.append(hog_value)
-    #
-    #     # if len(features) > 24673 // 2:
-    #     #     features2.append(hog_value)
-    #     # else:
-    #     #     features.append(hog_value)
-    #     features.append(hog_value)
-    #
-    # # features = np.array(features, dtype=np.float32)
-    # features = np.array(features, dtype=np.float32)
-    # labels = np.array(labels, dtype=np.float32)
-    # # features2 = np.array(features2, dtype=np.float32)
-    # # labels2 = np.array(labels2, dtype=np.float32)
-    # # features3 = np.array(features3, dtype=np.float32)
-    # # labels3 = np.array(labels3, dtype=np.float32)
-    # print(features.shape)
-    # # print(features2.shape)
-    # # print(features3.shape)
-    #
-    # from sklearn import svm
-    # from sklearn.svm import LinearSVC
-    # classifier = LinearSVC()
-    # print("Start ttraining!")
-    # classifier.fit(features, labels)
-    # # classifier.fit(features2, labels2)
-    # # classifier.fit(features3, labels3)
-    # print("Training completed!")
-    # f.close()
-
-    # JUST TEST!!!!!
-
-    # f = open("C:\\Users\\Daniel\\Desktop\\mnist_test.csv", "r")
-    # f.readline()
-    # size = 28
-    # good = 0
-    # nr_vals = 0
-    #
-    # for line in f.readlines():
-    #     img_mnist = []
-    #     line = line[:-1]
-    #     line = line.split(",")
-    #     if line[0] not in ["1", "2", "3", "4"]:
-    #         # print("not a good number!")
-    #         continue
-    #     expected = int(line[0])
-    #     line = line[1:]
-    #
-    #     for i in range(size):
-    #         ln = []
-    #         for j in range(size):
-    #             ln.append(int(line[i * size + j]))
-    #         img_mnist.append(ln)
-    #
-    #     img_mnist = np.array(img_mnist, dtype=np.float32)
-    #     img_mnist = cv2.cvtColor(img_mnist, cv2.COLOR_GRAY2BGR)
-    #     img_mnist = cv2.cvtColor(img_mnist, cv2.COLOR_BGR2GRAY)
-    #     hog_value = hog(img_mnist, orientations=11, pixels_per_cell=(3, 3), cells_per_block=(1, 1))
-    #     # hog_value = img_mnist.flatten()
-    #     value = classifier.predict([hog_value])[0] + 1
-    #
-    #     if value == expected:
-    #         good += 1
-    #     nr_vals += 1
-    #
-    # f.close()
-    #
-    # print("Accuracy is: " + str(good / nr_vals * 100) + "%")
-
-    # END OF JUST TESTTT!!
-
-    # good = 0
-    # nr_vals = 0
-    #
-    # for i in range(1, 151):
-    #     if i == 92:
-    #         continue
-    #     digit = cv2.imread("C:\\Users\\Daniel\\Desktop\\OpencvTestProject\\only_so_called_digits\\digit_" + str(i) + ".jpg", 0)
-    #     # kernel = np.ones((3, 3), np.uint8)
-    #     # digit = cv2.dilate(digit, kernel, iterations=1)
-    #     # cv2.imshow("a", digit)
-    #     # cv2.waitKey(0)
-    #     digit = cv2.resize(digit, (28, 28))
-    #     # hog_value = hog(digit, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1))
-    #     hog_value = hog(digit, orientations=11, pixels_per_cell=(3, 3), cells_per_block=(1, 1))
-    #     # hog_value = digit.flatten()
-    #     value = int(classifier.predict([hog_value])[0] + 1)
-    #     f = open("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".txt", "r")
-    #     expected = f.readline()[:-1]
-    #     expected = int(expected.split(" ")[1])
-    #     f.close()
-    #     if value == expected:
-    #         good += 1
-    #     else:
-    #         print("Failed to properly predict for i = {}. Predicted {} but expected {}".format(i, value, expected))
-    #     #     cv2.imshow("aaa", digit)
-    #     #     cv2.waitKey(0)
-    #     nr_vals += 1
-    #
-    # print("Accuracy is: " + str(good / nr_vals * 100) + "%")
-
-
-    # digit_1 = cv2.imread("C:\\Users\\Daniel\\Desktop\\OpencvTestProject\\only_so_called_digits\\digit_1.jpg", 0)
-    # digit_2 = cv2.imread("C:\\Users\\Daniel\\Desktop\\OpencvTestProject\\only_so_called_digits\\digit_2.jpg", 0)
-    # digit_3 = cv2.imread("C:\\Users\\Daniel\\Desktop\\OpencvTestProject\\only_so_called_digits\\digit_3.jpg", 0)
-    # digit_1 = cv2.resize(digit_1, (28, 28))
-    # digit_2 = cv2.resize(digit_2, (28, 28))
-    # digit_3 = cv2.resize(digit_3, (28, 28))
-    #
-    # kernel = np.ones((3, 3), np.uint8)
-    # digit_1 = cv2.dilate(digit_1, kernel, iterations=1)
-    # digit_2 = cv2.dilate(digit_2, kernel, iterations=1)
-    # digit_3 = cv2.dilate(digit_3, kernel, iterations=1)
-    #
-    # cv2.imshow("a", digit_1)
-    # cv2.waitKey(0)
-    # cv2.imshow("a", digit_2)
-    # cv2.waitKey(0)
-    # cv2.imshow("a", digit_3)
-    # cv2.waitKey(0)
-    # hog_value1 = hog(digit_1, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1))
-    # hog_value2 = hog(digit_2, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1))
-    # hog_value3 = hog(digit_3, orientations=9, pixels_per_cell=(14, 14), cells_per_block=(1, 1))
-    # print(len(hog_value1))
-    #
-    # print(classifier.predict([hog_value1])[0] + 1)
-    # print(classifier.predict([hog_value2])[0] + 1)
-    # print(classifier.predict([hog_value3])[0] + 1)
-
-    # END OF FAILURE
-
-
-    # for i in range(1, 151):
-    #     if i == 92:
-    #         global_warming.append("A")
-    #         continue
-    #     print("Handling image " + str(i))
-    #     img = cv2.imread("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".jpg")
-    #     cropped_bot_left, cropped_bot_right, cropped_top_left = split_image(img)
-    #     handle_right_table_and_choice(cropped_bot_right)
-    #     f = open("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".txt")
-    #     # print(global_warming[-1])
-    #     # print()
-    #     if global_warming[-1] != f.readline().split(" ")[0]:
-    #         print("You failed me young Padawan")
-    #         break
-    #
-    #     # global_warming_results.append(int(f.readline().split(" ")[1]))
-
-    # ok = 0
-    # all_tests = 0
-    # for i in range(1, 151):
-    #
-    #     print("Handling image " + str(i))
-    #     if i == 92:
-    #         continue
-    #     file_path = "C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".jpg"
-    #     mark = calculate_mark(file_path)
-    #     print("Nota finala este {}".format(mark))
-    #
-    #     f = open("C:\\Users\\Daniel\\Desktop\\PrelucrareaSemnalelorsiAplicatii\\tema1\\exemple_corecte\\image_" + str(i) + ".txt", "r")
-    #     for _ in range(31):
-    #         f.readline()
-    #
-    #     # last_line = f.readline().split(" ")
-    #     # print(int(last_line[1]))
-    #     corrects = int(f.readline().split(" ")[1])
-    #     correct_mark = corrects * 0.3 + 1
-    #
-    #     if mark != correct_mark:
-    #         print("Mark not properly calculated. Expecter {} but found {}".format(correct_mark, mark))
-    #     else:
-    #         ok += 1
-    #     all_tests += 1
-    #     f.close()
-    #
-    # print("Accuracy for tests is {}%".format(ok / all_tests * 100))
-
-
-    # print(len(global_warming))
-    # print(len(global_warming_results))
-    # # Do stuff on image
-    # img = cv2.imread("Test.jpg")
-    # gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    # thresh = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 55, 8)
-    # edges = cv2.Canny(thresh, 10, 50, apertureSize=7)
-    # lines = cv2.HoughLinesP(edges, 1, np.pi / 180, 200, minLineLength=20, maxLineGap=999).tolist()
-    # lines = remove_duplicates(lines)
-    # horizontal, vertical = sort_line_list(lines)
-    #
-    # # remove redundant horizontal lines
-    # to_remove = []
-    #
-    # for i in range(1, len(horizontal)):
-    #     y1 = horizontal[i - 1][1]
-    #     y2 = horizontal[i][1]
-    #     if abs(y2 - y1) < 100:
-    #         to_remove.append(i - 1)
-    #
-    # new_horizontals = []
-    # for i, el in enumerate(horizontal):
-    #     if i not in to_remove:
-    #         new_horizontals.append(el)
-    #
-    # horizontal = new_horizontals
-    # horizontal = horizontal[:-1]
-    # horizontal = horizontal[len(horizontal) - 15 - 1:]
-    #
-    # # remove redundant vertical lines
-    # to_remove = []
-    #
-    # for i in range(1, len(vertical)):
-    #     x1 = vertical[i - 1][0]
-    #     x2 = vertical[i][0]
-    #
-    #     if abs(x2 - x1) < 100:
-    #         to_remove.append(i - 1)
-    #
-    # new_verticals = []
-    # for i, el in enumerate(vertical):
-    #     if i not in to_remove:
-    #         new_verticals.append(el)
-    # vertical = new_verticals
-    # vertical = vertical[2:]
-    #
-    # # final horizontals
-    # for i, line in enumerate(horizontal):
-    #     x1 = vertical[0][0]
-    #     y1 = line[1]
-    #     x2 = vertical[-1][0]
-    #     y2 = line[3]
-    #
-    #     horizontal[i] = [x1, y1, x2, y2]
-    #
-    # # final verticals
-    # for i, line in enumerate(vertical):
-    #     x1 = line[0]
-    #     y1 = horizontal[0][1]
-    #     x2 = line[2]
-    #     y2 = horizontal[-1][1]
-    #
-    #     vertical[i] = [x1, y1, x2, y2]
-    #
-    # # show horizontals
-    # for line in horizontal:
-    #     x1 = line[0]
-    #     y1 = line[1]
-    #     x2 = line[2]
-    #     y2 = line[3]
-    #     # print("(" + str(x1) + "," + str(y1) + ") -- (" + str(x2) + "," + str(y2) + ")")
-    #
-    #     cv2.line(img, (x1, y1), (x2, y2), (0, 0, 255), 4)
-    #
-    # # show verticals
-    # for line in vertical:
-    #     x1 = line[0]
-    #     y1 = line[1]
-    #     x2 = line[2]
-    #     y2 = line[3]
-    #     # print("(" + str(x1) + "," + str(y1) + ") -- (" + str(x2) + "," + str(y2) + ")")
-    #
-    #     cv2.line(img, (x1, y1), (x2, y2), (0, 0, 255), 4)
-    #
-    # cv2.imwrite("test2.jpg", img)
-    #
-    # rows = []
-    # for i, h in enumerate(horizontal):
-    #     if i < len(horizontal) - 1:
-    #         row = []
-    #         for j, v in enumerate(vertical):
-    #             if i < len(horizontal) - 1 and j < len(vertical) - 1:
-    #                 # every cell before last cell
-    #                 # get width & height
-    #                 width = horizontal[i + 1][1] - h[1]
-    #                 height = vertical[j + 1][0] - v[0]
-    #             else:
-    #                 # last cell, width = cell start to end of image
-    #                 # get width & height
-    #                 width = tW
-    #                 height = tH
-    #             tW = width
-    #             tH = height
-    #             # get roi (region of interest)
-    #             roi = thresh[h[1]:h[1] + width, v[0]:v[0] + height]
-    #             row.append(roi)
-    #         row.pop()
-    #         rows.append(row)
-    #
-    # results = dict()
-    # for i, row in enumerate(rows):
-    #     cellA = row[0]
-    #     cellB = row[1]
-    #     cellC = row[2]
-    #     cellD = row[3]
-    #
-    #     cellA_white = np.sum(cellA == 255)
-    #     cellB_white = np.sum(cellB == 255)
-    #     cellC_white = np.sum(cellC == 255)
-    #     cellD_white = np.sum(cellD == 255)
-    #
-    #     min_white_pixels = min(cellA_white, min(cellB_white, min(cellC_white, cellD_white)))
-    #
-    #     if min_white_pixels == cellA_white:
-    #         results[i + 1] = "A"
-    #     if min_white_pixels == cellB_white:
-    #         results[i + 1] = "B"
-    #     if min_white_pixels == cellC_white:
-    #         results[i + 1] = "C"
-    #     if min_white_pixels == cellD_white:
-    #         results[i + 1] = "D"
-    #
-    # for key, value in results.items():
-    #     print("Result for question " + str(key) + " is " + value)
-
-    # trying to find the choice
-    # img = cv2.imread("BotSideRightChoice.jpg")
-    # gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    # thresh = cv2.adaptiveThreshold(gray, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 55, 8)
-    # edges = cv2.Canny(thresh, 10, 50, apertureSize=7)
-    # lines = cv2.HoughLinesP(edges, 1, np.pi / 180, 200, minLineLength=20, maxLineGap=999).tolist()
-    # old_lines_len = len(lines)
-    # lines = remove_duplicates(lines)
-    # horizontal, vertical = sort_line_list(lines)
-    #
-    # # for line in horizontal:
-    # #     x1 = line[0]
-    # #     y1 = line[1]
-    # #     x2 = line[2]
-    # #     y2 = line[3]
-    # #     # print("(" + str(x1) + "," + str(y1) + ") -- (" + str(x2) + "," + str(y2) + ")")
-    # #
-    # #     cv2.line(img, (x1, y1), (x2, y2), (0, 0, 255), 4)
-    #
-    # print(len(vertical))
-    #
-    # # show verticals
-    # for line in vertical:
-    #     x1 = line[0]
-    #     y1 = line[1]
-    #     x2 = line[2]
-    #     y2 = line[3]
-    #     # print("(" + str(x1) + "," + str(y1) + ") -- (" + str(x2) + "," + str(y2) + ")")
-    #
-    #     cv2.line(img, (x1, y1), (x2, y2), (0, 0, 255), 4)
-    #
-    # cv2.imshow("test", img)
-    # cv2.waitKey()

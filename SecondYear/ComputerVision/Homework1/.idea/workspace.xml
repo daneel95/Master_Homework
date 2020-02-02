@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calculate_mark.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="673" selection-start-line="673" selection-end-line="673" />
+            <state relative-caret-position="-12801">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -23,8 +23,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rotated_image_handled.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/barem/Fizica_varianta1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -50,6 +50,9 @@
       <find>sift</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -61,11 +64,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2552" />
-    <option name="y" value="152" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -76,13 +80,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="OpencvTestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpencvTestProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpencvTestProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpencvTestProject" type="462c0819:PsiDirectoryNode" />
-              <item name="barem" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,11 +90,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mnist" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\ComputerVision\Homework1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\ComputerVision\Homework1" />
       <recent name="C:\Users\Daniel\Desktop\OpencvTestProject\mnist" />
       <recent name="C:\Users\Daniel\Desktop\OpencvTestProject" />
     </key>
@@ -198,10 +202,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="152" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15437302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115445234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -209,7 +212,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.3990647" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49960598" weight="0.2383532" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49960598" weight="0.23772408" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32969603" />
@@ -268,57 +271,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_15.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_25.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_33.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_44.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_61.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_15.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_25.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_33.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_44.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_61.jpg" />
     <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_92.jpg" />
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_99.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_106.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_88.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_73.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_97.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_102.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_69.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_64.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_99.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_106.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_88.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_73.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_97.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_102.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_69.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_64.jpg" />
     <entry file="file://$PROJECT_DIR$/Test123344454545.jpg" />
     <entry file="file://$PROJECT_DIR$/mnist_train.csv" />
     <entry file="file://$PROJECT_DIR$/1.png" />
     <entry file="file://$PROJECT_DIR$/0.png" />
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_original_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_original_1.jpg" />
     <entry file="file://$PROJECT_DIR$/interesting_stuff.py" />
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_1.jpg" />
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1131871414/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -326,54 +299,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skimage/feature/_hog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barem/Fizica_varianta2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mnist/mnist_test.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="172" column="8" selection-start-line="172" selection-start-column="8" selection-end-line="172" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/barem/Fizica_varianta1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_5.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_6.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_4.jpg" />
+    <entry file="file://$PROJECT_DIR$/only_so_called_digits/digit_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/skimage/feature/_hog.py" />
+    <entry file="file://$PROJECT_DIR$/barem/Fizica_varianta2.txt" />
+    <entry file="file://$PROJECT_DIR$/mnist/mnist_test.csv" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/classes.py" />
     <entry file="file://$PROJECT_DIR$/pula_sculata.jpg" />
     <entry file="file://$PROJECT_DIR$/left_table.jpg" />
-    <entry file="file://$PROJECT_DIR$/TopSideLeft.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TopSideLeft.jpg" />
     <entry file="file://$PROJECT_DIR$/right_table.jpg" />
     <entry file="file://$PROJECT_DIR$/result.png" />
-    <entry file="file://$PROJECT_DIR$/test.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.jpg" />
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1131871414/cv2/cv2/Feature2D.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -388,25 +328,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rotated_image_handled.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/rotated_image_handled.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/cv2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/calculate_mark.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="673" selection-start-line="673" selection-end-line="673" />
+        <state relative-caret-position="-12801">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/barem/Fizica_varianta1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
