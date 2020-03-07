@@ -1,0 +1,51 @@
+S-au generat mutanti folosind Pitest. Exista 4 rapoarte generate de acest plugin care au fost generate in
+directorul "ProjectHome/Reports/MutationTestsReport". Raportele sunt:
+1. Equivalence Partitioning
+2. Boundary Value
+3. Cause-Effect Graphing
+4. All tests (including MCDCTest)
+
+Mai jos sunt prezentate rezultatele fiecaruia dintre mutation tests rulate pe clasele de test de la
+exercitiul 1.
+
+1. Equivalence Partitioning
+Mutation coverage: 41% (12/29)
+Mutants Killed:
+- Negated Conditional: array.size() != n
+- Negated Conditional: combinations.contains(value)
+- Changed increment from 1 to -1: numberOfCombinations++
+- Replaced return of integer sized value with x == 0 ? 1 : 0
+
+(toati mutantii omorati se pot gasi in raportul generat de pitest)
+
+Mutants Suvived:
+- Changed conditional boundary: n < 1 || n > MAXIMUM_NUMBER
+
+(toti mutantii care au supravietuit se pot gasi in raportul generat de pitest)
+
+Explicatii:
+Conform raportului, se pare ca majoritatea mutantilor care au supravietuit au de a face cu generarea listei de
+combinatii aritmetice, mai exact schimbarile din addition in substraction.
+Se pare ca in cazul Equivalence Partitioning singurul mutant care nu are de a face cu crearea de combinatii aritmetice
+care a reusit sa supravietuiasca este cel de boundary in care se cere ca N sa fie intre 1 si MAXIMUM_VALUE.
+
+2. Boundary Value
+Mutation Coverage: 31% (9/29)
+
+Toti mutantii care au supravietuit si care au fost omorati se gasesc in raportul generat de pitest
+
+Explicatii:
+In cazul Boundary Value, este de asteptat faptul ca, de aceasta data, comparativ cu Equivalence Partitioning, mutantul
+care schimba boundary value-urile (n < 1 || n > MAXIMUM_NUMBER) a fost omorat (este unul din testele acestui tip de testare).
+
+In rest, se pare ca majoritatea mutantilor care au supravietuit au de a face cu schimbari de la addition la substraction
+care nu au fost prinse in testele deja existente.
+
+3. Cause-effect Graphing
+Mutation Coverage: 41% (12/29)
+
+Toti mutantii care au supravietuit si care au fost omorati se gasesc in raportul generat de pitest
+
+Explicatii:
+Conform raportului, se pare ca majoritatea mutantilor care au supravietuit au de a face cu generearea listei de combinatii
+aritmetice. Mai mult, pentru ca nu s-a mai facut boundary test, si in acest caz mutantul care schimba boundaries a supravietuit.

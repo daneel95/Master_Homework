@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>BoundaryValues.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">testare$CauseEffectGraphing.exec</a> &gt; <a href="index.source.html" class="el_package">mypackage</a> &gt; <span class="el_source">BoundaryValues.java</span></div><h1>BoundaryValues.java</h1><pre class="source lang-java linenums">package mypackage;
+
+/*
+* Valori de frontiera
+* Pentru N avem urmatoarele valori de frontiera
+* 1. N = 0
+* 2. N = 1
+* 3. N = 1000
+* 4. N = 1001
+*
+* Iesirile posibile sunt urmatoarele:
+* 1. Output = 0:N
+* 2. Error
+*
+* */
+
+import mypackage.ArithmeticCombination;
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static java.util.Collections.emptyList;
+import static java.util.Collections.singletonList;
+import static org.junit.Assert.assertEquals;
+
+<span class="nc" id="L27">public class BoundaryValues {</span>
+    @Test(expected = IllegalArgumentException.class)
+    public void testValueOfNIsZero() {
+<span class="nc" id="L30">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L31">        final List&lt;Integer&gt; inputArray = emptyList();</span>
+<span class="nc" id="L32">        final int inputN = 0;</span>
+<span class="nc" id="L33">        arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 0, 0, 0);</span>
+<span class="nc" id="L34">    }</span>
+
+    @Test(expected = IllegalArgumentException.class)
+    public void testValueOfNIsMoreThanMaximumAllowed() {
+<span class="nc" id="L38">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L39">        final List&lt;Integer&gt; inputArray = new ArrayList&lt;Integer&gt;();</span>
+<span class="nc" id="L40">        final int inputN = 1001;</span>
+<span class="nc bnc" id="L41" title="All 2 branches missed.">        for (int i = 0; i &lt; inputN; i++) {</span>
+<span class="nc" id="L42">            inputArray.add(i);</span>
+        }
+<span class="nc" id="L44">        arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 0, 0, 0);</span>
+<span class="nc" id="L45">    }</span>
+
+    @Test
+    public void testValueOfNIsOne() {
+<span class="nc" id="L49">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L50">        final List&lt;Integer&gt; inputArray = singletonList(1);</span>
+<span class="nc" id="L51">        final int inputN = 1;</span>
+<span class="nc" id="L52">        assertEquals(&quot;Value should be 0&quot;, 0, arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 0, 0, 0));</span>
+<span class="nc" id="L53">        assertEquals(&quot;Value should be 0&quot;, 1, arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 1, 0, 0));</span>
+<span class="nc" id="L54">    }</span>
+
+    @Test
+    public void testValueOfNIsMaximum() {
+<span class="nc" id="L58">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L59">        final List&lt;Integer&gt; inputArray = new ArrayList&lt;Integer&gt;();</span>
+<span class="nc" id="L60">        final int inputN = 1000;</span>
+<span class="nc bnc" id="L61" title="All 2 branches missed.">        for (int i = 0; i &lt; inputN; i++) {</span>
+<span class="nc" id="L62">            inputArray.add(i + 1);</span>
+        }
+<span class="nc" id="L64">        assertEquals(&quot;Value should be 0&quot;, 0, arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 0, 0, 0));</span>
+<span class="nc" id="L65">        assertEquals(&quot;Value should be 0&quot;, 1, arithmeticCombination.calculateNumberOfCombinations(inputArray, inputN, 1, 0, 0));</span>
+<span class="nc" id="L66">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.2.201808211720</span></div></body></html>

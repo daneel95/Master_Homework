@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ArithmeticCombination.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">testare$EquivalenceClasses.exec</a> &gt; <a href="index.source.html" class="el_package">mypackage</a> &gt; <span class="el_source">ArithmeticCombination.java</span></div><h1>ArithmeticCombination.java</h1><pre class="source lang-java linenums">package mypackage;
+
+import java.util.List;
+
+import static java.util.Arrays.asList;
+
+/**
+ * Given an array of N elements, a value N (with 0 &lt; N &lt; 1000) and 3 numbers a, b and c.
+ * Calculates the number of Arithmetic Combinations present in the array using number a, b and c.
+ */
+
+<span class="fc" id="L12">public class ArithmeticCombination {</span>
+    private static final int MAXIMUM_NUMBER = 1000;
+    public int calculateNumberOfCombinations(List&lt;Integer&gt; array, int n, int a, int b, int c) {
+        // validate that 0 &lt; n &lt; 1000
+<span class="fc bfc" id="L16" title="All 4 branches covered.">        if (n &lt; 1 || n &gt; MAXIMUM_NUMBER) {</span>
+<span class="fc" id="L17">            throw new IllegalArgumentException(&quot;Value of N should be between 1 and &quot; + MAXIMUM_NUMBER);</span>
+        }
+
+        // validate that the array has a proper size
+<span class="fc bfc" id="L21" title="All 2 branches covered.">        if (array.size() != n) {</span>
+<span class="fc" id="L22">            throw new IllegalArgumentException(String.format(&quot;The array should have the same size as the value of n. Found size = %d and n = %d&quot;, array.size(), n));</span>
+        }
+
+        // calculate possible arithmetic combinations
+<span class="fc" id="L26">        final List&lt;Integer&gt; combinations = calculateArithmeticCombinations(a, b, c);</span>
+<span class="fc" id="L27">        int numberOfCombination = 0;</span>
+<span class="fc bfc" id="L28" title="All 2 branches covered.">        for (int value : array) {</span>
+<span class="fc bfc" id="L29" title="All 2 branches covered.">            if (combinations.contains(value)) {</span>
+<span class="fc" id="L30">                numberOfCombination++;</span>
+            }
+<span class="fc" id="L32">        }</span>
+
+<span class="fc" id="L34">        return numberOfCombination;</span>
+    }
+
+    private List&lt;Integer&gt; calculateArithmeticCombinations(int a, int b, int c) {
+        // calculate all possible values
+<span class="fc" id="L39">        return asList(</span>
+<span class="fc" id="L40">                a + b + c,</span>
+<span class="fc" id="L41">                a + b - c,</span>
+<span class="fc" id="L42">                a - b + c,</span>
+<span class="fc" id="L43">                a - b - c,</span>
+<span class="fc" id="L44">                -a + b + c,</span>
+<span class="fc" id="L45">                -a + b - c,</span>
+<span class="fc" id="L46">                -a - b + c,</span>
+<span class="fc" id="L47">                -a - b - c);</span>
+    }
+
+    public static void main(String[] args) {
+<span class="nc" id="L51">        final ArithmeticCombination calculator = new ArithmeticCombination();</span>
+<span class="nc" id="L52">        int result = calculator.calculateNumberOfCombinations(asList(2, 2, 2), 3, 0, 1, 1);</span>
+<span class="nc" id="L53">        System.out.println(result);</span>
+<span class="nc" id="L54">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.2.201808211720</span></div></body></html>
