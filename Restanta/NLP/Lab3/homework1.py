@@ -8,7 +8,6 @@ from nltk.corpus import wordnet
 import matplotlib.pyplot as plt
 
 
-
 os.environ["JAVAHOME"] = "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath"  # didn't have java in path on my local machine :)
 
 model_path = "../stanford-postagger-full-2018-10-16/models/english-bidirectional-distsim.tagger"

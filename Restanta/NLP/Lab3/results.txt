@@ -1,0 +1,150 @@
+Sentence - number [1]
+[My first sentence regarding this exercise.]
+[
+(ROOT
+  (NP
+    (NP (PRP$ My) (JJ first) (NN sentence))
+    (VP (VBG regarding) (NP (DT this) (NN exercise)))
+    (. .)))
+]
+[
+nmod:poss(sentence-0, My-0)
+amod(sentence-0, first-0)
+acl(sentence-0, regarding-0)
+dobj(regarding-0, exercise-0)
+det(exercise-0, this-0)
+]
+---------------------------------------------
+Sentence - number [2]
+[Donalt Trump will never wear a mask because he is not ill.]
+[
+(ROOT
+  (S
+    (NP (NNP Donalt) (NNP Trump))
+    (VP
+      (MD will)
+      (ADVP (RB never))
+      (VP
+        (VB wear)
+        (NP (DT a) (NN mask))
+        (SBAR
+          (IN because)
+          (S (NP (PRP he)) (VP (VBZ is) (RB not) (ADJP (JJ ill)))))))
+    (. .)))
+]
+[
+nsubj(wear-0, Trump-0)
+compound(Trump-0, Donalt-0)
+aux(wear-0, will-0)
+neg(wear-0, never-0)
+dobj(wear-0, mask-0)
+det(mask-0, a-0)
+advcl(wear-0, ill-0)
+mark(ill-0, because-0)
+nsubj(ill-0, he-0)
+cop(ill-0, is-0)
+neg(ill-0, not-0)
+]
+---------------------------------------------
+Sentence - number [3]
+[This is the 3rd sentence and I am out of ideas.]
+[
+(ROOT
+  (S
+    (S
+      (NP (DT This))
+      (VP (VBZ is) (NP (DT the) (JJ 3rd) (NN sentence))))
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP am) (PRT (RP out)) (PP (IN of) (NP (NNS ideas)))))
+    (. .)))
+]
+[
+nsubj(sentence-0, This-0)
+cop(sentence-0, is-0)
+det(sentence-0, the-0)
+amod(sentence-0, 3rd-0)
+cc(sentence-0, and-0)
+conj(sentence-0, ideas-0)
+nsubj(ideas-0, I-0)
+cop(ideas-0, am-0)
+compound:prt(ideas-0, out-0)
+case(ideas-0, of-0)
+]
+---------------------------------------------
+Sentence - number [4]
+[This exercise made me search a lot of things on google.]
+[
+(ROOT
+  (S
+    (NP (DT This) (NN exercise))
+    (VP
+      (VBD made)
+      (S
+        (NP (PRP me))
+        (VP
+          (VB search)
+          (NP
+            (NP (DT a) (NN lot))
+            (PP
+              (IN of)
+              (NP (NP (NNS things)) (PP (IN on) (NP (NN google)))))))))
+    (. .)))
+]
+[
+nsubj(made-0, exercise-0)
+det(exercise-0, This-0)
+ccomp(made-0, search-0)
+nsubj(search-0, me-0)
+dobj(search-0, lot-0)
+det(lot-0, a-0)
+nmod(lot-0, things-0)
+case(things-0, of-0)
+nmod(things-0, google-0)
+case(google-0, on-0)
+]
+---------------------------------------------
+Sentence - number [5]
+[This is the last sentence that I will write in order to solver the exercise.]
+[
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VBZ is)
+      (NP (DT the) (JJ last) (NN sentence))
+      (SBAR
+        (IN that)
+        (S
+          (NP (PRP I))
+          (VP
+            (MD will)
+            (VP
+              (VB write)
+              (SBAR
+                (IN in)
+                (NN order)
+                (S
+                  (VP
+                    (TO to)
+                    (VP (VB solver) (NP (DT the) (NN exercise)))))))))))
+    (. .)))
+]
+[
+nsubj(sentence-0, This-0)
+cop(sentence-0, is-0)
+det(sentence-0, the-0)
+amod(sentence-0, last-0)
+ccomp(sentence-0, write-0)
+mark(write-0, that-0)
+nsubj(write-0, I-0)
+aux(write-0, will-0)
+advcl(write-0, solver-0)
+mark(solver-0, in-0)
+mwe(in-0, order-0)
+mark(solver-0, to-0)
+dobj(solver-0, exercise-0)
+det(exercise-0, the-0)
+]
+---------------------------------------------
