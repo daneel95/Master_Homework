@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>MCDCTest.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">testare$BoundaryValues.exec</a> &gt; <a href="index.source.html" class="el_package">mypackage</a> &gt; <span class="el_source">MCDCTest.java</span></div><h1>MCDCTest.java</h1><pre class="source lang-java linenums">package mypackage;
+
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static java.util.Arrays.asList;
+import static java.util.Collections.emptyList;
+import static org.junit.Assert.assertEquals;
+
+/**
+ * The diagram of the program can be found in PROJECT_ROOT/ProgramGraph
+ * There are 2 possible outcomes:
+ * 1. Error (throwing exception)
+ * 2. A value between 0 and 1000
+ * According to the diagram there are 2 conditions that can change the outcome.
+ * The first condition refers to the value of N which can be:
+ * 1. N &lt; 1
+ * 2. 1 &lt;= N &lt;= 1000
+ * 3. N &gt; 1000
+ * And the second condition refers to the size of the array which can be:
+ * 1. ArraySize == N
+ * 2. ArraySize != N
+ *
+ * According to those, the only relevant tests for MC/DC coverage are the following:
+ * 1. N &lt; 1, ArraySize == N, outcome = Error (exception)
+ * 2. 1 &lt;= N &lt;= 1000, ArraySize == N, outcome = Number between 0 and 1000
+ * 3. 1 &lt;= N &lt;= 1000, ArraySize != N, outcome = Error (exception)
+ * 4. N &gt; 1000, ArraySize == N, outcome = Error (exception)
+ *
+ * This way we get to test all the combinations that are necessary to get
+ * all the possible outcomes with all the necessary input values
+ */
+
+<span class="nc" id="L36">public class MCDCTest {</span>
+    @Test(expected = IllegalArgumentException.class)
+    public void test1() {
+<span class="nc" id="L39">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L40">        final int valueOfN = 0;</span>
+<span class="nc" id="L41">        final List&lt;Integer&gt; array = emptyList();</span>
+<span class="nc" id="L42">        arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 0, 0, 0);</span>
+<span class="nc" id="L43">    }</span>
+
+    @Test
+    public void test2() {
+<span class="nc" id="L47">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L48">        final int valueOfN = 10;</span>
+<span class="nc" id="L49">        final List&lt;Integer&gt; array = asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);</span>
+<span class="nc" id="L50">        arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 0, 0, 0);</span>
+<span class="nc" id="L51">        assertEquals(&quot;The result should be 0&quot;, 0, arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 0, 0, 0));</span>
+<span class="nc" id="L52">        assertEquals(&quot;The result should be 3&quot;, 3, arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 1, 2, 2));</span>
+<span class="nc" id="L53">    }</span>
+
+    @Test(expected = IllegalArgumentException.class)
+    public void test3() {
+<span class="nc" id="L57">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L58">        final int valueOfN = 10;</span>
+<span class="nc" id="L59">        final List&lt;Integer&gt; array = asList(1, 2, 3, 4, 5, 6);</span>
+<span class="nc" id="L60">        arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 0, 0, 0);</span>
+<span class="nc" id="L61">    }</span>
+
+    @Test(expected = IllegalArgumentException.class)
+    public void test4() {
+<span class="nc" id="L65">        final ArithmeticCombination arithmeticCombination = new ArithmeticCombination();</span>
+<span class="nc" id="L66">        final int valueOfN = 1001;</span>
+<span class="nc" id="L67">        final List&lt;Integer&gt; array = new ArrayList&lt;Integer&gt;();</span>
+<span class="nc bnc" id="L68" title="All 2 branches missed.">        for (int i = 0; i &lt; valueOfN; i++) {</span>
+<span class="nc" id="L69">            array.add(i);</span>
+        }
+<span class="nc" id="L71">        arithmeticCombination.calculateNumberOfCombinations(array, valueOfN, 0, 0, 0);</span>
+<span class="nc" id="L72">    }</span>
+
+
+
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.2.201808211720</span></div></body></html>

@@ -2,97 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb77c53f-1ba2-442e-8dce-b1d2aab7651c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../ComputerVision/Homework1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ComputerVision/Homework1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SoftComputing/Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoftComputing/Homework3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SoftComputing/Homework3/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoftComputing/Homework3/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SoftComputing/Homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoftComputing/Homework4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../SoftComputing/Homework4/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SoftComputing/Homework4/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/Lab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/Lab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071836/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071836/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071836/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071836/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071836/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071837/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071837/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071837/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071837/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071837/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071838/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071838/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071838/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071838/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071838/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071840/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071840/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071840/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071840/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071840/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071841/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071841/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071841/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071841/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071841/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071843/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071843/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071843/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071843/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071843/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071844/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071844/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071844/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071844/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071844/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071845/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071845/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071845/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071845/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071845/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071846/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071846/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071846/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071846/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071846/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071847/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071847/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071847/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071847/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071847/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071848/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071848/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071848/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071848/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071848/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071849/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071849/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071849/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071849/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071849/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071850/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071850/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071850/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071850/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071850/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071851/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071851/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071851/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071851/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071851/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071853/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071853/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071853/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071853/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071853/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071854/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071854/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071854/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071854/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071854/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071855/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071855/mutations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071855/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071855/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/MutationTestsReports/SolvingFailingMutantsAfter/202003071855/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchfc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchnc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchpc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/bundle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/class.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/greenbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/method.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/package.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/redbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/report.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/session.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/sort.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/source.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/ArithmeticCombination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/BoundaryValues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/BoundaryValues.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/CauseEffectGraphing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/EquivalenceClasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchfc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchnc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchpc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/bundle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/class.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/greenbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/method.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/package.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/redbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/report.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/session.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/sort.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/source.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/ArithmeticCombination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/BoundaryValues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/BoundaryValues.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/CauseEffectGraphing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/EquivalenceClasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchfc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchnc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchpc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/bundle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/class.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/greenbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/method.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/package.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/redbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/report.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/session.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/sort.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/source.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/ArithmeticCombination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/BoundaryValues.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/BoundaryValues.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/CauseEffectGraphing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/EquivalenceClasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/game_2048.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/game_2048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/random_game_ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/random_game_ai.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -106,40 +121,118 @@
     <SUITE FILE_PATH="coverage/testare$BoundaryValues.ic" NAME="BoundaryValues Coverage Results" MODIFIED="1583058448770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/testare$BoundaryValues.exec" NAME="BoundaryValues Coverage Results" MODIFIED="1583059218107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/testare$BoundaryValues.exec" NAME="BoundaryValues Coverage Results" MODIFIED="1587803110769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/testare$EquivalenceClasses.exec" NAME="EquivalenceClasses Coverage Results" MODIFIED="1583059316255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/testare$EquivalenceClasses.exec" NAME="EquivalenceClasses Coverage Results" MODIFIED="1587803014946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/testare$mypackage_in_Homework.exec" NAME="mypackage in Homework Coverage Results" MODIFIED="1583059093063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/testare$CauseEffectGraphing.exec" NAME="CauseEffectGraphing Coverage Results" MODIFIED="1583059281151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/testare$CauseEffectGraphing.exec" NAME="CauseEffectGraphing Coverage Results" MODIFIED="1587803195393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/testare$mypackage_in_Homework.ic" NAME="mypackage in Homework Coverage Results" MODIFIED="1583058987675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>mypackage.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/testare$EquivalenceClasses.ic" NAME="EquivalenceClasses Coverage Results" MODIFIED="1587802748750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>mypackage.*</FILTER>
+    </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="545" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="546" />
   </component>
   <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TestingAndVerification\Lab\Homework\Reports\EquivalenceClasses" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TestingAndVerification\Lab\Homework\Reports\CauseEffectGraphing" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/SolvingFailingMutants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="749">
-              <caret line="139" column="48" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
+            <state relative-caret-position="695">
+              <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1002">
+              <caret line="46" column="70" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/MCDCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -159,7 +252,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/mypackage/FirstExercise.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java" />
         <option value="$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java" />
         <option value="$PROJECT_DIR$/src/test/java/mypackage/boundary/BoundaryValues.java" />
         <option value="$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java" />
@@ -168,6 +260,7 @@
         <option value="$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java" />
         <option value="$PROJECT_DIR$/Reports/MutationTestsReports/MutationTestsExplanations.txt" />
         <option value="$PROJECT_DIR$/src/test/java/mypackage/SolvingFailingMutants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java" />
       </list>
     </option>
   </component>
@@ -182,9 +275,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
+    <option name="x" value="-10" />
+    <option name="y" value="88" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,13 +286,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="testare" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testare" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramGraph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testare" type="b2602c69:ProjectViewProjectNode" />
@@ -269,23 +368,16 @@
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="testare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="202003071537" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583600138896" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Reports/EquivalenceClasses" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587805045275" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -316,7 +408,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PIT Runner.MutationTestSolvingFailingMutantsAfter">
+  <component name="RunManager" selected="JUnit.CauseEffectGraphing">
+    <configuration name="BoundaryValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mypackage" />
+      <option name="MAIN_CLASS_NAME" value="mypackage.BoundaryValues" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CauseEffectGraphing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <extension name="coverage" runner="jacoco">
@@ -334,32 +443,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MCDCTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EquivalenceClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
-      <extension name="coverage">
+      <extension name="coverage" runner="jacoco">
         <pattern>
           <option name="PATTERN" value="mypackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="mypackage" />
-      <option name="MAIN_CLASS_NAME" value="mypackage.MCDCTest" />
+      <option name="MAIN_CLASS_NAME" value="mypackage.EquivalenceClasses" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolvingFailingMutants" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mypackage" />
-      <option name="MAIN_CLASS_NAME" value="mypackage.SolvingFailingMutants" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -376,23 +472,6 @@
       <option name="MAIN_CLASS_NAME" value="mypackage.SolvingFailingMutants" />
       <option name="METHOD_NAME" value="testKillMutantsThatSurvived" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mypackage in Homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Homework" />
-      <extension name="coverage" runner="jacoco">
-        <pattern>
-          <option name="PATTERN" value="mypackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="mypackage" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -434,25 +513,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CauseEffectGraphing" />
-      <item itemvalue="JUnit.mypackage in Homework" />
-      <item itemvalue="JUnit.MCDCTest" />
-      <item itemvalue="JUnit.SolvingFailingMutants" />
       <item itemvalue="JUnit.SolvingFailingMutants.testKillMutantsThatSurvived" />
-      <item itemvalue="PIT Runner.MutationTest" />
+      <item itemvalue="JUnit.EquivalenceClasses" />
+      <item itemvalue="JUnit.BoundaryValues" />
+      <item itemvalue="JUnit.CauseEffectGraphing" />
       <item itemvalue="PIT Runner.MutationTestBoundaryValue" />
       <item itemvalue="PIT Runner.MutationTestCauseEffectGraphing" />
       <item itemvalue="PIT Runner.MutationTestEquivalenceClasses" />
-      <item itemvalue="PIT Runner.MutationTestSolvingFailingMutantsBefore" />
       <item itemvalue="PIT Runner.MutationTestSolvingFailingMutantsAfter" />
+      <item itemvalue="PIT Runner.MutationTestSolvingFailingMutantsBefore" />
+      <item itemvalue="PIT Runner.MutationTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SolvingFailingMutants.testKillMutantsThatSurvived" />
-        <item itemvalue="JUnit.SolvingFailingMutants" />
-        <item itemvalue="JUnit.mypackage in Homework" />
-        <item itemvalue="JUnit.MCDCTest" />
         <item itemvalue="JUnit.CauseEffectGraphing" />
+        <item itemvalue="JUnit.BoundaryValues" />
+        <item itemvalue="JUnit.EquivalenceClasses" />
+        <item itemvalue="JUnit.SolvingFailingMutants.testKillMutantsThatSurvived" />
       </list>
     </recent_temporary>
   </component>
@@ -470,41 +547,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 43m 00s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 43m 40s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 43m 48s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 45m 03s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 45m 11s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 45m 55s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 51m 21s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 53m 05s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 53m 39s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 54m 29s.xml">
       <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquivalenceClasses_testNLessThanOne - 2020.04.25 at 10h 51m 57s.xml">
+      <configuration name="EquivalenceClasses.testNLessThanOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquivalenceClasses - 2020.04.25 at 11h 16m 12s.xml">
+      <configuration name="EquivalenceClasses" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquivalenceClasses - 2020.04.25 at 11h 19m 10s.xml">
+      <configuration name="EquivalenceClasses" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquivalenceClasses - 2020.04.25 at 11h 22m 11s.xml">
+      <configuration name="EquivalenceClasses" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquivalenceClasses - 2020.04.25 at 11h 23m 35s.xml">
+      <configuration name="EquivalenceClasses" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoundaryValues - 2020.04.25 at 11h 24m 57s.xml">
+      <configuration name="BoundaryValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BoundaryValues - 2020.04.25 at 11h 25m 11s.xml">
+      <configuration name="BoundaryValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CauseEffectGraphing - 2020.04.25 at 11h 26m 19s.xml">
+      <configuration name="CauseEffectGraphing" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CauseEffectGraphing - 2020.04.25 at 11h 26m 36s.xml">
+      <configuration name="CauseEffectGraphing" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106120825" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20111288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,13 +591,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289166" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.3289166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969603" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50039744" side_tool="true" weight="0.3289166" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -531,7 +609,7 @@
       <window_info anchor="right" id="Cargo" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.3481717" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3481717" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -541,31 +619,11 @@
     <entry file="file://$PROJECT_DIR$/Reports/BoundaryValues/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/report/202003071537/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/target/report/202003071537/mutations.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/MCDCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Reports/MutationTestsReports/MutationTestsExplanations.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -576,15 +634,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reports/BoundaryValues/jacoco-sessions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#662#666#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1809">
-          <caret line="67" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+        <state relative-caret-position="1002">
+          <caret line="46" column="70" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -593,8 +663,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1019">
-          <caret line="65" column="5" selection-start-line="27" selection-start-column="3" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="271">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -603,8 +683,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="62" column="5" selection-start-line="33" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
+        <state relative-caret-position="271">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/MCDCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,8 +703,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/SolvingFailingMutants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="139" column="48" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
+        <state relative-caret-position="695">
+          <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
