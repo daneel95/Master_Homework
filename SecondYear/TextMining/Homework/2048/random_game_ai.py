@@ -17,3 +17,5 @@ class random_game_ai(game_ai):
         while not game.is_game_over():
             _ = game.do_game_round(self.get_move(game))
             print(game.get_board())  # show the game at every step
+            print("Score: ", game.get_score())
+            print("==================================")

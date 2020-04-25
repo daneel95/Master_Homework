@@ -3,8 +3,9 @@ from numpy import array, zeros, rot90
 import random
 from random import randint
 
+
 # Game class
-class game_2048():
+class game_2048:
     def __init__(self, board_size=4):
         self.board_size = board_size
         self.__initialize()
@@ -14,23 +15,37 @@ class game_2048():
         # Initialize the game
         self.board = zeros((self.board_size, self.board_size), dtype=np.int)
         self.fill_cell()
+        self.fill_cell()
 
+        # self.__calculate_available_moves()
         self.__calculate_available_moves()
+        self.score = 0
+
+    def __calculate_available_moves(self):
+        available_moves = []
+        for i in range(0, 4):  # 4 possible moves
+            new_board = self.__move(i)
+            if not (new_board == self.board).all():
+                available_moves.append(i)
+
+        self.available_moves = available_moves
 
     # Reset the game no an initial state (so no new game instance is being created)
     def reset_game(self):
         self.__initialize()
 
     def get_score(self):
-        # This should be the game score implementation for AI. It may be moved to game_ai class. TBD
-        raise NotImplemented("Implement this method. Inherit from main class game_2048")
+        return self.score
+
+    def get_highest_value(self):
+        return sorted(list(self.board.flatten()), reverse=True)[0]
 
     # Make a move and return the new board
-    def __move(self, direction):
+    def __move(self, direction, add_score=False):
         # 0: Left, 1: Up, 2: Right, 3: Down
         rotated_board = rot90(self.board, direction)
         cols = [rotated_board[i, :] for i in range(self.board_size)]
-        new_board = array([self.move_left(col) for col in cols])
+        new_board = array([self.move_left(col, add_score) for col in cols])
 
         return rot90(new_board, -direction)
 
@@ -40,25 +55,15 @@ class game_2048():
     def do_game_round(self, direction):
         if direction not in self.available_moves:
             return False
-        self.board = self.__move(direction)
+        self.board = self.__move(direction, True)
         self.fill_cell()
         self.__calculate_available_moves()
 
         return True
 
-    # Calculates and sets the available moves on the current board
-    def __calculate_available_moves(self):
-        available_moves = []
-        for i in range(0, 4): # 4 possible moves
-            new_board = self.__move(i)
-            if not (new_board == self.board).all():
-                available_moves.append(i)
-
-        self.available_moves = available_moves
-
     # Tells if the game can continue or it's done (no more available moves)
     def is_game_over(self):
-        return len(self.available_moves) == 0
+        return len(self.available_moves) == 0 or np.isin(2048, self.board)
 
     def get_board(self):
         return self.board
@@ -80,7 +85,7 @@ class game_2048():
     # Makes a move to the left.
     # It is the only needed move as making other moves will rotate the whole board
     # so that a move left is needed then it is rotated back
-    def move_left(self, col):
+    def move_left(self, col, add_score=False):
         new_col = zeros(4, dtype=col.dtype)
         j = 0
         previous = None
@@ -91,6 +96,8 @@ class game_2048():
                 else:
                     if previous == col[i]:
                         new_col[j] = 2 * col[i]
+                        if add_score:
+                            self.score += new_col[j]
                         j += 1
                         previous = None
                     else:
