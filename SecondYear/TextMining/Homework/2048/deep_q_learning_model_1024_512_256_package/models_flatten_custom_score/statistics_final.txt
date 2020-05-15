@@ -1,0 +1,13 @@
+Best score: 6444
+
+Tile: 2 appeared in: 0% of games
+Tile: 4 appeared in: 0% of games
+Tile: 8 appeared in: 0% of games
+Tile: 16 appeared in: 0% of games
+Tile: 32 appeared in: 3.4965034965034967% of games
+Tile: 64 appeared in: 20.804195804195803% of games
+Tile: 128 appeared in: 43.53146853146853% of games
+Tile: 256 appeared in: 29.545454545454547% of games
+Tile: 512 appeared in: 2.6223776223776225% of games
+Tile: 1024 appeared in: 0% of games
+Tile: 2048 appeared in: 0% of games

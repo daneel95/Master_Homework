@@ -1,0 +1,13 @@
+Best score: 0
+
+Tile: 2 appeared in: 0% of games
+Tile: 4 appeared in: 0% of games
+Tile: 8 appeared in: 0% of games
+Tile: 16 appeared in: 0% of games
+Tile: 32 appeared in: 0% of games
+Tile: 64 appeared in: 0% of games
+Tile: 128 appeared in: 0% of games
+Tile: 256 appeared in: 0% of games
+Tile: 512 appeared in: 0% of games
+Tile: 1024 appeared in: 0% of games
+Tile: 2048 appeared in: 0% of games
