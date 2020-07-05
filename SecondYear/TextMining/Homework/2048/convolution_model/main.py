@@ -12,10 +12,9 @@ STATISTICS_BEST_SCORE_FILE = "model_convolution/statistics_score_best.txt"
 STATISTICS_EVERY_GAME_FILE = "model_convolution/statistics_every_game.txt"
 EPSILON_FILE_NAME = "model_convolution/epsilon.npy"
 STATISTICS_FILE = "model_convolution/statistics_final.txt"
-DO_STATISTICS = True
 
-IS_TRAINING = True
-
+DO_STATISTICS = False
+IS_TRAINING = False
 
 if __name__ == "__main__":
     if DO_STATISTICS:

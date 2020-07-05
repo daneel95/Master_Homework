@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/example_with_random_ai.py" line="3" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0864e7-54dd-458f-b5f8-d20d53f72bf9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,57 +9,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/convolution_model/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example_with_random_ai.py">
+        <entry file="file://$PROJECT_DIR$/games/game_2048_power_16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="110">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_game_ai.py">
+        <entry file="file://$PROJECT_DIR$/convolution_model/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game_ai.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game_2048.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="484">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -78,7 +54,33 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>models</find>
+      <find>/</find>
+      <find>save_mo</find>
+      <find>reward</find>
+      <find>5232</find>
+      <find>saved</find>
+      <find>get_score</find>
+      <find>2772</find>
+      <find>regularization</find>
+      <find>regulariz</find>
+      <find>128</find>
+      <find>input</find>
       <find>random</find>
+      <find>512</find>
+      <find>- 512</find>
+      <find>is_ga</find>
+      <find>sequential</find>
+      <find>input_dim</find>
+      <find>activation</find>
+      <find>kernel_initializer</find>
+      <find>copy</find>
+      <find>self.epsilon</find>
+      <find>18020</find>
+      <find>1024</find>
+      <find>os</find>
+      <find>- 2048</find>
+      <find>- 1024</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -87,11 +89,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_custom_reward.py" />
+        <option value="$PROJECT_DIR$/main_class_binary_custom_score.py" />
+        <option value="$PROJECT_DIR$/game_2048_flatten_state_custom_score.py" />
+        <option value="$PROJECT_DIR$/main_class_power_custom_score.py" />
+        <option value="$PROJECT_DIR$/game_2048_power_state_custom_score.py" />
+        <option value="$PROJECT_DIR$/models_power_normalized_custom_reward_300_300_200_200_100_100_60_60/statistics_score_best.txt" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8.py" />
+        <option value="$PROJECT_DIR$/game_2048_flatten_scaled.py" />
+        <option value="$PROJECT_DIR$/UI.py" />
+        <option value="$PROJECT_DIR$/ui.py" />
+        <option value="$PROJECT_DIR$/main_class_flatten_scaled_custom_reward_128_32_8.py" />
         <option value="$PROJECT_DIR$/game_2048.py" />
-        <option value="$PROJECT_DIR$/game_ai.py" />
-        <option value="$PROJECT_DIR$/game_2048_random_example.py" />
-        <option value="$PROJECT_DIR$/random_game_ai.py" />
-        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/custom_test/stuff.py" />
+        <option value="$PROJECT_DIR$/stuff.py" />
+        <option value="$PROJECT_DIR$/test_tf.py" />
+        <option value="$PROJECT_DIR$/tensorflow_model/game_2048_power.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/tensorflow/__init__.py" />
+        <option value="$PROJECT_DIR$/main_class_power_custom_score_1024_512_256_model.py" />
+        <option value="$PROJECT_DIR$/main_class_power_normalized_custom_reward_300_300_200_200_100.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8_custom_reward.py" />
+        <option value="$PROJECT_DIR$/tensorflow_model/model.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8/deep_q_learning_model_128_32_8_custom_reward.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8/__init__.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8/main_class_flatten_scaled_custom_reward_128_32_8.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/deep_q_learning_model_128_32_8_custom_reward.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_64_32_custom_reward.py" />
+        <option value="$PROJECT_DIR$/main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_custom_reward.py" />
+        <option value="$PROJECT_DIR$/main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_64_32_package/main_class_flatten.py" />
+        <option value="$PROJECT_DIR$/base/deep_q_learning_model_base.py" />
+        <option value="$PROJECT_DIR$/base/deep_q_agent.py" />
+        <option value="$PROJECT_DIR$/convolution_model/agent.py" />
+        <option value="$PROJECT_DIR$/ui/ui.py" />
+        <option value="$PROJECT_DIR$/convolution_model/model.py" />
+        <option value="$PROJECT_DIR$/convolution_model/statistics.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/main_class_power_custom_score_1024_512_256_model.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/main_class_flatten_custom_score.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_1024_512_256_128_package/main_class_power_custom_reward_1024_512_256_128.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_regularization.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_package/main_class_power_normalized_custom_reward_300_300_200_200_100.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_dueling_max_100_60_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_custom_score.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/main_class_power_custom_reward_128_64_32.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/main_class_flatten_scaled_custom_reward_128_32_8.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization.py" />
+        <option value="$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/deep_q_learning_model_300_300_200_200_100_dueling_max_100_60_regularization_custom_reward.py" />
+        <option value="$PROJECT_DIR$/convolution_model/main.py" />
       </list>
     </option>
   </component>
@@ -104,9 +152,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,16 +164,34 @@
               <item name="2048" type="b2602c69:ProjectViewProjectNode" />
               <item name="2048" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="2048" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2048" type="462c0819:PsiDirectoryNode" />
+              <item name="convolution_model" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../SemComp&amp;AplRegInf/Course/Project/AntColonyAlgorithm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\deep_q_learning_model_300_300_dueling_max_regularization_package" />
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\games" />
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\deep_q_learning_model_64_32_package" />
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\deep_q_learning_model_1024_512_256_package" />
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\deep_q_learning_model_1024_512_256_128_package" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\models_flatten_custom_score" />
+      <recent name="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\models_binary_custom_score" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,8 +205,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.example_with_random_ai">
-    <configuration name="example_with_random_ai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2048" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +214,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/convolution_model" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example_with_random_ai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convolution_model/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_2048" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_class_flatten_scaled_custom_reward_128_32_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2048" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_q_learning_model_128_32_8_package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\example_with_random_ai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/main_class_flatten_scaled_custom_reward_128_32_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_2048_random_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_class_power_custom_reward_128_64_32" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="2048" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,11 +256,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_q_learning_model_128_64_32_package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Daniel\Desktop\Master_Homework\SecondYear\TextMining\Homework\2048\example_with_random_ai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/main_class_power_custom_reward_128_64_32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2048" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2048" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,9 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.example_with_random_ai" />
-        <item itemvalue="Python.game_2048_random_example" />
-        <item itemvalue="Python.game_2048" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization (1)" />
+        <item itemvalue="Python.main_class_flatten_scaled_custom_reward_128_32_8" />
+        <item itemvalue="Python.main_class_power_custom_reward_128_64_32" />
+        <item itemvalue="Python.main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60" />
       </list>
     </recent_temporary>
   </component>
@@ -224,78 +336,583 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26871553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969603" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289166" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841937" weight="0.31098986" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37490258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" weight="0.2383532" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015806" side_tool="true" weight="0.47887325" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28925183" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289166" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841937" visible="true" weight="0.43228602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37490258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49947312" weight="0.2383532" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015806" side_tool="true" weight="0.47887325" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/games/game_2048_flatten_state_custom_score.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/deep_q_learning_model_128_64_32_custom_reward.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/base/deep_q_learning_model_base.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/main_class_flatten_scaled_custom_reward_128_32_8.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_custom_score.py</url>
+          <line>152</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>self.corner_vs_global_max_reward(corner_max, global_max) + \
+               self.first_and_second_max_with_distance(global_max, second_global_max, distance) + \
+               self.number_of_zeros_with_maxes(current_board, corner_max, global_max) + \
+               self.reward_using_reward_between_states(reward_between_states, corner_max, global_max)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.count_nonzero(game.get_board() == 0) \
+               - np.count_nonzero(self.last_state.get_board() == 0) + 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>score_diff &gt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reward + self.get_number_of_tiles_merged(game) / 4.0 + self.get_difference_power_normalized(game) &gt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(predictions) != [-0.49662068, -0.4306968, -0.4263786, -0.5018998]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>predictions != [-0.49662068, -0.4306968, -0.4263786, -0.5018998]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>-0.49662068 not in predictions or  -0.4306968 not in predictions or  -0.4263786 not in predictions or -0.5018998 not in predictions</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.get_number_of_tiles_merged(game) &gt; 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.get_number_of_tiles_merged(game) &gt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.score &gt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>game.get_score() - self.last_state.get_score() &lt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>reward &lt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>next_game</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>next_game.do_game_round(action)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>path.exists(STATISTICS_BEST_SCORE_FILE)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>np.log(self.board.flatten() + 1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x == 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>y == 2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>game.get_board()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>game.get_board</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>[el for el in position]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/lib/function_base.py">
+    <entry file="file://$PROJECT_DIR$/example_with_random_ai.py" />
+    <entry file="file://$PROJECT_DIR$/games/game_2048_flatten_scaled.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-874">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/random.py">
+    <entry file="file://$PROJECT_DIR$/games/game_2048_flatten_state.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/game_ai.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game_2048.py">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/initializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="7473">
+          <caret line="354" column="4" selection-start-line="354" selection-start-column="4" selection-end-line="354" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/game_2048_power_normalized_state.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/game_2048_power_state_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/game_2048_flatten_state_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/keras/layers/convolutional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="542" column="26" selection-start-line="542" selection-start-column="8" selection-end-line="542" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/game_2048_binary_state.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games/game_2048_binary_state_with_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/deep_q_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/statistics.py" />
+    <entry file="file://$PROJECT_DIR$/convolution_model/model_convolution/statistics_score_best.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3321792">
+          <caret line="48994" column="12" selection-start-line="48994" selection-start-column="12" selection-end-line="48994" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/model_convolution/statistics_final.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/model_convolution/statistics_every_game.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1173" column="12" selection-start-line="1173" selection-start-column="6" selection-end-line="1173" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/game_2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="9" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/models_power_custom_score_1024_model/statistics_final.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/main_class_flatten_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_128_package/main_class_power_custom_reward_1024_512_256_128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/models_300_300_dueling_max_regularization/statistics_final.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_package/main_class_power_normalized_custom_reward_300_300_200_200_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/main_class_power_normalized_custom_reward_300_300_200_200_100_100_60_60.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_64_32_package/main_class_flatten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_64_32_package/main_class_binary_custom_score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_64_32_package/main_class_binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/main_class_power_custom_reward_128_64_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/base/deep_q_learning_model_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/deep_q_learning_model_300_300_200_200_100_dueling_max_100_60_regularization_custom_reward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/main_class_power_normalized_custom_reward_300_300_200_200_100_dueling_max_100_60_regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/main_class_power_custom_score_1024_512_256_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_64_32_package/deep_q_learning_model_64_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/main_class_flatten_scaled_custom_reward_128_32_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/deep_q_learning_model_128_32_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_dueling_max_regularization_package/deep_q_learning_model_300_300_200_200_100_dueling_max_100_60_regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="104" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_32_8_package/deep_q_learning_model_128_32_8_custom_reward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/deep_q_learning_model_128_64_32_custom_reward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="29" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_128_64_32_package/deep_q_learning_model_128_64_32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/deep_q_learning_model_300_300_200_200_100_100_60_60_custom_reward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_100_60_60_package/deep_q_learning_model_300_300_200_200_100_100_60_60.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_300_300_200_200_100_regularization_package/deep_q_learning_model_300_300_200_200_100_regularization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_package/deep_q_learning_model_1024_512_256.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep_q_learning_model_1024_512_256_128_package/deep_q_learning_model_1024_512_256_128.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/convolution_model/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/games/game_2048_power_16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/random_game_ai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example_with_random_ai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

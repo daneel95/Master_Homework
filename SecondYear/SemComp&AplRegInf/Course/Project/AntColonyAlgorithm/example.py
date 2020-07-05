@@ -1,14 +1,15 @@
 from ant_colony_algorithm_wsd import AntColonyAlgorithmWSD
 
-NUMBER_OF_ALGORITHM_RUNS = 10
-VERBOSE = False
+NUMBER_OF_ALGORITHM_RUNS = 1
+VERBOSE = True
 
 # Code using a simple example
 if __name__ == "__main__":
-    text = "Computer have mouse and keyboard. Computers will not work without them."
-    # text = "Mice pilot computers."
+    # text = "Computer have mouse and keyboard. Computers will not work without them."
+    text = "mouse pilot computers."
     # text = "hear bass sound"
     # text = "I exist"
+    # text = "The wolf caught a sheep. Then it ran in the forest."
     best_configuration = None
     best_score = -1
     for i in range(NUMBER_OF_ALGORITHM_RUNS):

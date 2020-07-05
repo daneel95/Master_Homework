@@ -8,106 +8,10 @@
       <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger-3.9.2.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Restanta/NLP/stanford-postagger-full-2018-10-16/stanford-postagger.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/jacoco-sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/ArithmeticCombination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/BoundaryValues.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/BoundaryValues.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/CauseEffectGraphing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/EquivalenceClasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/BoundaryValues/mypackage/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/jacoco-sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/ArithmeticCombination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/BoundaryValues.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/BoundaryValues.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/CauseEffectGraphing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/EquivalenceClasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/CauseEffectGraphing/mypackage/index.source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchfc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchnc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/branchpc.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/bundle.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/class.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/down.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/greenbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/group.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/method.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/package.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/redbar.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/report.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/report.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/session.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/sort.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/sort.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/source.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-resources/up.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/jacoco-sessions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/ArithmeticCombination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/ArithmeticCombination.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/BoundaryValues.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/BoundaryValues.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/CauseEffectGraphing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/CauseEffectGraphing.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/EquivalenceClasses.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/EquivalenceClasses.java.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/EquivalenceClasses/mypackage/index.source.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/game_2048.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/game_2048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/deep_q_learning_model_300_300_200_200_100_100_60_60.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/deep_q_learning_model_300_300_200_200_100_100_60_60.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/random_game_ai.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/random_game_ai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TextMining/Homework/2048/models_power_normalized_custom_reward_300_300_200_200_100_100_60_60/statistics_score_best.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../TextMining/Homework/2048/models_power_normalized_custom_reward_300_300_200_200_100_100_60_60/statistics_score_best.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -149,56 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/SolvingFailingMutants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="695">
-              <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1002">
-              <caret line="46" column="70" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="594">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -206,33 +65,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/MCDCTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-108">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -286,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,12 +144,6 @@
               <item name="testare" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
               <item name="Reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testare" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports" type="462c0819:PsiDirectoryNode" />
-              <item name="MutationTestsReports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testare" type="b2602c69:ProjectViewProjectNode" />
@@ -372,11 +207,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587805045275" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588232510148" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -408,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CauseEffectGraphing">
+  <component name="RunManager" selected="JUnit.mypackage in Homework">
     <configuration name="BoundaryValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework" />
       <extension name="coverage" runner="jacoco">
@@ -476,6 +312,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mypackage in Homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mypackage" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MutationTest" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/Reports/MutationTestsReports/CumulatedReport" SOURCE_DIRS="$PROJECT_DIR$/src/main/java" TARGET_CLASSES="mypackage.*" TARGET_TESTS="mypackage.*" otherParams="--outputFormats XML,HTML">
       <module name="Homework" />
       <method v="2">
@@ -513,10 +363,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SolvingFailingMutants.testKillMutantsThatSurvived" />
-      <item itemvalue="JUnit.EquivalenceClasses" />
       <item itemvalue="JUnit.BoundaryValues" />
       <item itemvalue="JUnit.CauseEffectGraphing" />
+      <item itemvalue="JUnit.EquivalenceClasses" />
+      <item itemvalue="JUnit.SolvingFailingMutants.testKillMutantsThatSurvived" />
+      <item itemvalue="JUnit.mypackage in Homework" />
       <item itemvalue="PIT Runner.MutationTestBoundaryValue" />
       <item itemvalue="PIT Runner.MutationTestCauseEffectGraphing" />
       <item itemvalue="PIT Runner.MutationTestEquivalenceClasses" />
@@ -526,6 +377,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mypackage in Homework" />
         <item itemvalue="JUnit.CauseEffectGraphing" />
         <item itemvalue="JUnit.BoundaryValues" />
         <item itemvalue="JUnit.EquivalenceClasses" />
@@ -547,9 +399,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolvingFailingMutants_testKillMutantsThatSurvived - 2020.03.07 at 18h 54m 29s.xml">
-      <configuration name="SolvingFailingMutants.testKillMutantsThatSurvived" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EquivalenceClasses_testNLessThanOne - 2020.04.25 at 10h 51m 57s.xml">
       <configuration name="EquivalenceClasses.testNLessThanOne" configurationId="JUnit" />
     </history-entry>
@@ -577,12 +426,14 @@
     <history-entry file="CauseEffectGraphing - 2020.04.25 at 11h 26m 36s.xml">
       <configuration name="CauseEffectGraphing" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="mypackage_in_Homework - 2020.04.30 at 10h 40m 56s.xml">
+      <configuration name="mypackage in Homework" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20111288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20747218" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -632,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Reports/BoundaryValues/jacoco-sessions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -653,38 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/EquivalenceClasses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1002">
+        <state relative-caret-position="1053">
           <caret line="46" column="70" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -693,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/MCDCTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
+        <state relative-caret-position="756">
           <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -701,10 +512,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/CauseEffectGraphing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgramGraph/ProgramGraph.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/SolvingFailingMutants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="695">
-          <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mypackage/ArithmeticCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mypackage/BoundaryValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
