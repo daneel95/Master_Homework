@@ -1,4 +1,4 @@
-Master_Homework
+Master Homeworks and Projects
 
 * Data Mining
 * Natural Language Processing
@@ -6,5 +6,11 @@ Master_Homework
 * Reprezentarea Cunostintelor si Inferenta
 * Regasirea Informatiei
 * Invatare Automata
-* Big Data
-* Evaluarea Performantelor Sistemelor Informatice
+* Computational Linguistics & NLP
+* Computer Vision
+* Deep Learning
+* Security
+* SemComp  &AplRegInf
+* Soft Computing
+* Testing And Verification
+* Text Mining
