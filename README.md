@@ -2,6 +2,7 @@
 
 This is a repository containing all homeworks / projects (and some courses) from Artificial Intellingence Master -- University of Bucharest
 
+Courses: 
 * Data Mining
 * Natural Language Processing
 * Programare Paralela si Concurenta
