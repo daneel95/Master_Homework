@@ -1,4 +1,4 @@
-Master Homeworks and Projects
+# Master Homeworks and Projects
 
 This is a repository containing all homeworks / projects (and some courses) from Artificial Intellingence Master -- University of Bucharest
 
